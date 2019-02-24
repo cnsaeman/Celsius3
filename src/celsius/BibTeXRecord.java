@@ -10,6 +10,7 @@
 //
 // checked: 
 // 11/2009
+// testing a modification
 
 package celsius;
 
