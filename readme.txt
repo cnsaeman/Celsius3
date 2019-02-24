@@ -1,1 +1,0 @@
-To start celsius, type java -jar Celsius.jar in the installation directory.
