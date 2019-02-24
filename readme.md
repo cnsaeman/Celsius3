@@ -1,20 +1,22 @@
 To start celsius, type java -jar Celsius.jar in the installation directory.
 
+## Introduction
+
 Celsius is a free bibliographic tool and document manager. It can handle all kinds of electronic documents, from scientific papers to eBooks. Via extendible plugins, it can interface with online databases and automatically retrieve metadata. Its speciality, however, remain papers and interfacing with the bibliographic databases in the area of high-energy physics and mathematics.
 
 Celsius is written in JAVA and runs on any modern operating system. It is released under the GPL, and you're welcome to download the source and adjust it to your needs. The latest version has support for HiDPI displays.
 
 Celsius grew rather organically, and I picked up many new JAVA skills along the way. Unfortunately, this means that the code, and in particular the older parts of it, is not in the most professional state. Comments are scarce, but if you need help with implementing an interesting feature, just send me an email. I might find the time to clean up the relevant sections of the code.
 
-Feature requests and bug reports
+## Feature requests and bug reports:
 
 If you find a bug that's annoying you, just send me an email with a detailed report, and I'll try my best to fix it. As far as feature requests are concerned, this depends very much on my available time. But just contact me, and I'll see what I can do.
 
-HiDPI/Retina display support
+## HiDPI/Retina display support
 
 Celsius supports HiDPI and Retina displays for all operating systems. Just start it with the parameter HiDPI, and all fonts, icons etc. will be doubled in size.
 
-Features
+## Features
 
 Celsius is a free bibliographic tool and document manager with all the obvious features. Its main advantage is that it can automatically download information from the internet, and via its plugin technology, it can be adapted to any online database source. You can also specify plugins for formatting the bibliographic data. Celsius has a powerful and highly adaptable database interface with many search functions. It is written in JAVA (it needs JAVA 1.6) and therefore runs on any operating system.
 
