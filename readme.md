@@ -36,4 +36,10 @@ The software comes with all the essential features of a bibliographic data manag
 * You can have Celsius produce a bibliography for a whole library, for selected documents or for all documents referred to in a tex-file.
 * Celsius is highly adjustable to your needs. You can add arbitrary fields to a document's entry in a database and adjust the way this information is displayed within Celsius using HTML templates.
 
+## Downloads
+
+Android version: http://www.christiansaemann.de/celsius/TCelsius.apk
+Manual: http://www.christiansaemann.de/celsius/manual.pdf
+Precompiled: http://www.christiansaemann.de/celsius/Celsiusv3.2.zip
+
 For more details, have a look at the manual that can be downloaded above.
