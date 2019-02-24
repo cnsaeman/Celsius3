@@ -1,0 +1,100 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>009916</id>
+  <cache-id>GC27AAG</cache-id>
+  <type>Traditional Cache</type>
+  <name>Wasserhäuschen-Bimbach by Cin_Wolf, Traditional Cache (1/1)</name>
+  <size>Micro</size>
+  <difficulty>1</difficulty>
+  <terrain>1</terrain>
+  <last-found>2010-08-21</last-found>
+  <placed>2010-04-23</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Cin_Wolf</placedby>
+  <found>Geocache</found>
+  <lat>50.568546</lat>
+  <lon>9.554139</lon>
+  <last-logs>FWFFF</last-logs>
+  <owner>Cin_Wolf</owner>
+  <description>Ein kleiner drive-in Nano beim Wasserhäuschen in Großenlüder-Bimbach.</description>
+  <long-description>Ein kleiner drive-in Nano beim Wasserhäuschen in Großenlüder-Bimbach.
+Geparkt werden kann direkt bei der Location da es seeeeehr schwach frequentiert ist was Muggels betrifft :-)</long-description>
+  <encoded-hints>Bank, magnetisch</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=90054253-7939-4cb9-8c9e-9acb8e15bc38</url>
+  <url-name>Wasserhäuschen-Bimbach</url-name>
+  <logs><ul><li>2010-11-28T20:00:00Z : Found it by lillyfelix <br />Das nenn ich mal einen schnellen Cache. Ruckzuck und rein ins warme Auto.</li><li>2010-10-17T19:00:00Z : Write note by HubiFD <br />Coin nachgeloggt.
+
+Gruß Hubi</li><li>2010-10-17T19:00:00Z : Found it by HubiFD <br />Hier geparkt, dann schnell fündig geworden, kurz geloggt und weiter auf den Weg zur Körbelshütte gemacht.
+Legger Kaffe und Kuchen gegessen und wieder zur zum Auto gelaufen.
+
+TFTC Gruß Hubi </li><li>2010-09-18T19:00:00Z : Found it by Schlehbenny <br />Schnell heute bei unserer Nachmittags-Tour gefunden.
+
+TFTC</li><li>2010-08-21T19:00:00Z : Found it by kaFFeeTrinKer <br />Na das nenne ich mal ne Punktlandung. Tür auf und loggen [:D].</li></ul></logs>
+  <original-xml>  <wpt  lat="50.568546" lon="9.554139">
+    <time>2010-04-23T07:00:00Z</time>
+    <name>GC27AAG</name>
+    <desc>Wasserhäuschen-Bimbach by Cin_Wolf, Traditional Cache (1/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=90054253-7939-4cb9-8c9e-9acb8e15bc38</url>
+    <urlname>Wasserhäuschen-Bimbach</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1654395" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Wasserhäuschen-Bimbach</groundspeak:name>
+      <groundspeak:placed_by>Cin_Wolf</groundspeak:placed_by>
+      <groundspeak:owner id="2059563">Cin_Wolf</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">Ein kleiner drive-in Nano beim Wasserhäuschen in Großenlüder-Bimbach.</groundspeak:short_description>
+      <groundspeak:long_description html="False">Ein kleiner drive-in Nano beim Wasserhäuschen in Großenlüder-Bimbach.
+Geparkt werden kann direkt bei der Location da es seeeeehr schwach frequentiert ist was Muggels betrifft :-)</groundspeak:long_description>
+      <groundspeak:encoded_hints>Bank, magnetisch</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="137429185">
+          <groundspeak:date>2010-11-28T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3765430">lillyfelix</groundspeak:finder>
+          <groundspeak:text encoded="False">Das nenn ich mal einen schnellen Cache. Ruckzuck und rein ins warme Auto.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="133432423">
+          <groundspeak:date>2010-10-17T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Write note</groundspeak:type>
+          <groundspeak:finder id="2729325">HubiFD</groundspeak:finder>
+          <groundspeak:text encoded="False">Coin nachgeloggt.
+
+Gruß Hubi</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="131773159">
+          <groundspeak:date>2010-10-17T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2729325">HubiFD</groundspeak:finder>
+          <groundspeak:text encoded="False">Hier geparkt, dann schnell fündig geworden, kurz geloggt und weiter auf den Weg zur Körbelshütte gemacht.
+Legger Kaffe und Kuchen gegessen und wieder zur zum Auto gelaufen.
+
+TFTC Gruß Hubi </groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="127331520">
+          <groundspeak:date>2010-09-18T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2446909">Schlehbenny</groundspeak:finder>
+          <groundspeak:text encoded="False">Schnell heute bei unserer Nachmittags-Tour gefunden.
+
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="123246614">
+          <groundspeak:date>2010-08-21T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1197640">kaFFeeTrinKer</groundspeak:finder>
+          <groundspeak:text encoded="False">Na das nenne ich mal ne Punktlandung. Tür auf und loggen [:D].</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

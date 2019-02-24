@@ -1,0 +1,164 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>009045</id>
+  <cache-id>GC27R0B</cache-id>
+  <type>Unknown Cache</type>
+  <name>6. Schulstunde: Deutsch by f.etcher, Unknown Cache (2.5/2)</name>
+  <size>Micro</size>
+  <difficulty>2.5</difficulty>
+  <terrain>2</terrain>
+  <last-found>2010-09-21</last-found>
+  <placed>2010-05-01</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>f.etcher</placedby>
+  <found>Geocache</found>
+  <lat>50.510917</lat>
+  <lon>9.76225</lon>
+  <last-logs>WFFFF</last-logs>
+  <owner>f.etcher</owner>
+  <description>
+      </description>
+  <long-description>6.Schulstunde: Deutsch
+
+Um an der 6. Schulstunde teilnehmen zu können, müsst ihr zunächst am Einschulungstest teilnehmen und erst die 1. bis 5. Stunde überstanden und bestanden haben. Vor Ort müsst ihr dann die 6. Klausur zum Fach Deutsch „schreiben“.
+
+Um den Spaß und die Herausforderung zu vergrößern, würde ich empfehlen die Klausur vor Ort zu schreiben. Ihr findet diese im Cache "5. Schulstunde". Da dieser cache sonst aber nicht freigeschaltet wird, folgt hier die Aufgabe. Wer also die kleine Herausforderung annehmen und vor Ort lösen möchte, sollte nicht weiterlesen.
+
+Ordne den Schriftstellern deren Werke korrekt zu:
+
+1) Goethe
+2) Heinrich von Kleist
+3) Patrick Süßkind
+4) Friedrich Schiller
+
+A) Faust
+B) Kabale und Liebe
+C) Käthchen von Heilbronn	
+D) Das Parfüm
+
+Möglichkeit 1: 1:A; 2:C; 3:D; 4:B    		N50°30.432  E009°45.900
+Möglichkeit 2: 1:A; 2:B; 3:C; 4:D		N50°30.320  E009°45.924
+Möglichkeit 3: 1:C; 2:D; 3:B; 4:A		N50°30.243  E009°45.780
+
+Am Cache ist es absolut notwendig, dass ihr wieder alles so verlasst, wie ihr es vorgefunden habt. Ihr würdet ja auch nicht wollen, dass ihr an dieser Stelle den Schultag unfreiwillig beenden müsst oder dass der "kleine Clou" weg ist. Hilfsmittel gibt es im Wald ja genug. Eine kleine Taschenlampe kann zum Sichten des Caches hilfreich sein!
+
+Oh, oh! Ich glaube ihr habt gespickt und euch ne Stunde Nachsitzen eingehandelt?! Der Lehrer sagt euch hier, wo das Klassenzimmer für das Nachsitzen ist.
+
+Additional Waypoints
+6S27R0B - 6. Schulstunde: Deutsch
+N/S  __ ° __ . ___ W/E ___ ° __ . ___ 
+
+</long-description>
+  <encoded-hints>(dlibreliops eheis) lezruwmuaB</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=5698927c-a5c4-4c58-8702-fc9fee16357e</url>
+  <url-name>6. Schulstunde: Deutsch</url-name>
+  <logs><ul><li>2010-10-11T19:00:00Z : Write note by HubiFD <br />Coin nachgeloggt.
+
+Gruß Hubi</li><li>2010-10-11T19:00:00Z : Found it by HubiFD <br />Gelöst und vor Ort war ich am 5. und 6 Mai ja schon mal, doch damals konnte ich das Döschen nicht finden.
+Heute erfolgte zusammen mit Maluma ein erneuter Anlauf um die Serie abzuschließen.
+Als ich das Döschen heute auf einmal in der Hand hatte, war ich selbst erstaunt dass es so schnell ging. 
+TFTC Gruß Hubi</li><li>2010-10-11T19:00:00Z : Found it by Maluma <br />Heute bei bestem Wetter zusammen mit HubiFD gelöst und gefunden
+
+TFTC MALUMA</li><li>2010-10-09T19:00:00Z : Found it by Camuvlash <br />Trickreich ^^
+TFTC</li><li>2010-09-21T19:00:00Z : Found it by Dagosch <br />In Deutsch keine Nachhilfe benötigt, konnte die Klausur schnell loggen!
+Danke sagt Dagosch</li></ul></logs>
+  <original-xml>  <wpt  lat="50.510917" lon="9.76225">
+    <time>2010-05-01T07:00:00Z</time>
+    <name>GC27R0B</name>
+    <desc>6. Schulstunde: Deutsch by f.etcher, Unknown Cache (2.5/2)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=5698927c-a5c4-4c58-8702-fc9fee16357e</url>
+    <urlname>6. Schulstunde: Deutsch</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Unknown Cache</type>
+    <groundspeak:cache id="1667534" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>6. Schulstunde: Deutsch</groundspeak:name>
+      <groundspeak:placed_by>f.etcher</groundspeak:placed_by>
+      <groundspeak:owner id="1498819">f.etcher</groundspeak:owner>
+      <groundspeak:type>Unknown Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>2.5</groundspeak:difficulty>
+      <groundspeak:terrain>2</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">
+      </groundspeak:short_description>
+      <groundspeak:long_description html="False">6.Schulstunde: Deutsch
+
+Um an der 6. Schulstunde teilnehmen zu können, müsst ihr zunächst am Einschulungstest teilnehmen und erst die 1. bis 5. Stunde überstanden und bestanden haben. Vor Ort müsst ihr dann die 6. Klausur zum Fach Deutsch „schreiben“.
+
+Um den Spaß und die Herausforderung zu vergrößern, würde ich empfehlen die Klausur vor Ort zu schreiben. Ihr findet diese im Cache "5. Schulstunde". Da dieser cache sonst aber nicht freigeschaltet wird, folgt hier die Aufgabe. Wer also die kleine Herausforderung annehmen und vor Ort lösen möchte, sollte nicht weiterlesen.
+
+Ordne den Schriftstellern deren Werke korrekt zu:
+
+1) Goethe
+2) Heinrich von Kleist
+3) Patrick Süßkind
+4) Friedrich Schiller
+
+A) Faust
+B) Kabale und Liebe
+C) Käthchen von Heilbronn	
+D) Das Parfüm
+
+Möglichkeit 1: 1:A; 2:C; 3:D; 4:B    		N50°30.432  E009°45.900
+Möglichkeit 2: 1:A; 2:B; 3:C; 4:D		N50°30.320  E009°45.924
+Möglichkeit 3: 1:C; 2:D; 3:B; 4:A		N50°30.243  E009°45.780
+
+Am Cache ist es absolut notwendig, dass ihr wieder alles so verlasst, wie ihr es vorgefunden habt. Ihr würdet ja auch nicht wollen, dass ihr an dieser Stelle den Schultag unfreiwillig beenden müsst oder dass der "kleine Clou" weg ist. Hilfsmittel gibt es im Wald ja genug. Eine kleine Taschenlampe kann zum Sichten des Caches hilfreich sein!
+
+Oh, oh! Ich glaube ihr habt gespickt und euch ne Stunde Nachsitzen eingehandelt?! Der Lehrer sagt euch hier, wo das Klassenzimmer für das Nachsitzen ist.
+
+Additional Waypoints
+6S27R0B - 6. Schulstunde: Deutsch
+N/S  __ ° __ . ___ W/E ___ ° __ . ___ 
+
+</groundspeak:long_description>
+      <groundspeak:encoded_hints>(dlibreliops eheis) lezruwmuaB</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="133431087">
+          <groundspeak:date>2010-10-11T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Write note</groundspeak:type>
+          <groundspeak:finder id="2729325">HubiFD</groundspeak:finder>
+          <groundspeak:text encoded="False">Coin nachgeloggt.
+
+Gruß Hubi</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="130901088">
+          <groundspeak:date>2010-10-11T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2729325">HubiFD</groundspeak:finder>
+          <groundspeak:text encoded="False">Gelöst und vor Ort war ich am 5. und 6 Mai ja schon mal, doch damals konnte ich das Döschen nicht finden.
+Heute erfolgte zusammen mit Maluma ein erneuter Anlauf um die Serie abzuschließen.
+Als ich das Döschen heute auf einmal in der Hand hatte, war ich selbst erstaunt dass es so schnell ging. 
+TFTC Gruß Hubi</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="130895469">
+          <groundspeak:date>2010-10-11T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1380311">Maluma</groundspeak:finder>
+          <groundspeak:text encoded="False">Heute bei bestem Wetter zusammen mit HubiFD gelöst und gefunden
+
+TFTC MALUMA</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="130306885">
+          <groundspeak:date>2010-10-09T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2724623">Camuvlash</groundspeak:finder>
+          <groundspeak:text encoded="False">Trickreich ^^
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="127919828">
+          <groundspeak:date>2010-09-21T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="374782">Dagosch</groundspeak:finder>
+          <groundspeak:text encoded="False">In Deutsch keine Nachhilfe benötigt, konnte die Klausur schnell loggen!
+Danke sagt Dagosch</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

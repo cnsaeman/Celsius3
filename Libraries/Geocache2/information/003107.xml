@@ -1,0 +1,129 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>003107</id>
+  <cache-id>GC11F48</cache-id>
+  <type>Traditional Cache</type>
+  <name>D is for Deer by Hezekiah, Traditional Cache (1/1)</name>
+  <size>Micro</size>
+  <difficulty>1</difficulty>
+  <terrain>1</terrain>
+  <last-found>2007-09-13</last-found>
+  <placed>2007-03-15</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>Hezekiah</placedby>
+  <found>Geocache Found</found>
+  <lat>53.295117</lat>
+  <lon>-6.211267</lon>
+  <last-logs>FFMFF</last-logs>
+  <owner>Hezekiah</owner>
+  <description><p align="center"><a target="_blank" href=
+   "http://www.geocachingireland.com/index.html"><img border="0"
+   src="http://geocachingireland.com/logo4.jpg" width="328"
+     height="53" align="middle"></a></p>
+<hr align="center" size="2" width="40%">
+<center><font color="blue">Visit the <b>new</b> Geocaching Ireland
+discussion forum <a rel="nofollow" href=
+"http://www.mccartan.org/forums/" target=
+"_blank">HERE</a></font></center>
+<hr align="center" size="2" width="40%">
+<br>
+<br></description>
+  <long-description>One of Dublin's many suburban green spaces - enjoy!</long-description>
+  <encoded-hints>Relax a while.</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=02585a53-084b-4a03-a800-314e7fe8bf49</url>
+  <url-name>D is for Deer</url-name>
+  <logs><ul><li>2010-06-07T19:00:00Z : Found it by markd_irl <br />TFTC, couldnt complete log as too many people around!</li><li>2010-05-24T19:00:00Z : Found it by Dentix <br />**********************************************************
+The first day in Ireland ! I found this nice location nearby
+my Stillorgan Park Hotel. The first log in the new logbook !
+Thanks for the Cache !
+Dentix
+************************************************************</li><li>2010-05-23T19:00:00Z : Owner Maintenance by Hezekiah <br />New log in place!</li><li>2010-05-21T19:00:00Z : Found it by oldnavycarl <br />Went on a solo run tonight and found it easily in place - but as said below - log book is full. Found a space to sign but it needs to be replaced. Lovely park and lovely weather were having! 
+
+A nice day for a B's coffee in the sun !! :-)) ?</li><li>2010-05-18T17:52:39Z : Needs Maintenance by Fitzet <br />Log is full.
+Someone has added some spare paper, but that too has little space left.</li><li>2007-09-13T07:00:00Z : Found it by Kersti.com <br />Walked to this one from M is for Magnet. Bit of a hike... but such a lovely garden. We were on a mission today so didn't stop to seek out the deer - maybe next time. 3 of 7</li></ul></logs>
+  <original-xml>  <wpt  lat="53.295117" lon="-6.211267">
+    <time>2007-03-15T07:00:00Z</time>
+    <name>GC11F48</name>
+    <desc>D is for Deer by Hezekiah, Traditional Cache (1/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=02585a53-084b-4a03-a800-314e7fe8bf49</url>
+    <urlname>D is for Deer</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="556739" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>D is for Deer</groundspeak:name>
+      <groundspeak:placed_by>Hezekiah</groundspeak:placed_by>
+      <groundspeak:owner id="274644">Hezekiah</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>
+      </groundspeak:state>
+      <groundspeak:short_description html="True">&lt;p align="center"&gt;&lt;a target="_blank" href=
+   "http://www.geocachingireland.com/index.html"&gt;&lt;img border="0"
+   src="http://geocachingireland.com/logo4.jpg" width="328"
+     height="53" align="middle"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;hr align="center" size="2" width="40%"&gt;
+&lt;center&gt;&lt;font color="blue"&gt;Visit the &lt;b&gt;new&lt;/b&gt; Geocaching Ireland
+discussion forum &lt;a rel="nofollow" href=
+"http://www.mccartan.org/forums/" target=
+"_blank"&gt;HERE&lt;/a&gt;&lt;/font&gt;&lt;/center&gt;
+&lt;hr align="center" size="2" width="40%"&gt;
+&lt;br&gt;
+&lt;br&gt;</groundspeak:short_description>
+      <groundspeak:long_description html="True">One of Dublin's many suburban green spaces - enjoy!</groundspeak:long_description>
+      <groundspeak:encoded_hints>Relax a while.</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="112175160">
+          <groundspeak:date>2010-06-07T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3004999">markd_irl</groundspeak:finder>
+          <groundspeak:text encoded="False">TFTC, couldnt complete log as too many people around!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="111878286">
+          <groundspeak:date>2010-05-24T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1155684">Dentix</groundspeak:finder>
+          <groundspeak:text encoded="False">**********************************************************
+The first day in Ireland ! I found this nice location nearby
+my Stillorgan Park Hotel. The first log in the new logbook !
+Thanks for the Cache !
+Dentix
+************************************************************</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="109741197">
+          <groundspeak:date>2010-05-23T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Owner Maintenance</groundspeak:type>
+          <groundspeak:finder id="274644">Hezekiah</groundspeak:finder>
+          <groundspeak:text encoded="False">New log in place!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="109398065">
+          <groundspeak:date>2010-05-21T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2843331">oldnavycarl</groundspeak:finder>
+          <groundspeak:text encoded="False">Went on a solo run tonight and found it easily in place - but as said below - log book is full. Found a space to sign but it needs to be replaced. Lovely park and lovely weather were having! 
+
+A nice day for a B's coffee in the sun !! :-)) ?</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="109084353">
+          <groundspeak:date>2010-05-18T17:52:39Z</groundspeak:date>
+          <groundspeak:type>Needs Maintenance</groundspeak:type>
+          <groundspeak:finder id="2451856">Fitzet</groundspeak:finder>
+          <groundspeak:text encoded="False">Log is full.
+Someone has added some spare paper, but that too has little space left.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="32544844">
+          <groundspeak:date>2007-09-13T07:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="320206">Kersti.com</groundspeak:finder>
+          <groundspeak:text encoded="False">Walked to this one from M is for Magnet. Bit of a hike... but such a lovely garden. We were on a mission today so didn't stop to seek out the deer - maybe next time. 3 of 7</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

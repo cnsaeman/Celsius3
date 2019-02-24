@@ -1,0 +1,166 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>004374</id>
+  <cache-id>GC1HX3D</cache-id>
+  <type>Unknown Cache</type>
+  <name>On reflection, it's a cache! by Hezekiah, Unknown Cache (1.5/1.5)</name>
+  <size>Small</size>
+  <difficulty>1.5</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2008-11-08</last-found>
+  <placed>2008-11-05</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>Hezekiah</placedby>
+  <found>Geocache Found</found>
+  <lat>53.357667</lat>
+  <lon>-6.322733</lon>
+  <last-logs>FFFFFF</last-logs>
+  <owner>Hezekiah</owner>
+  <description><p align="center"><a target="_blank"
+href="http://www.geocachingireland.com/index.html"><img border="0"
+src="http://geocachingireland.com/logo4.jpg" width="328"
+height="53" align="middle" /></a></p>
+<hr align="center" size="2" width="40%" />
+<center><font color="blue">Visit the <b>new</b> Geocaching Ireland
+discussion forum <a href="http://www.mccartan.org/forums/"
+target="_blank">HERE</a></font></center>
+<hr align="center" size="2" width="40%" />
+<br />
+<br /></description>
+  <long-description><p><b>THIS CACHE CAN ONLY BE SOUGHT DURING THE HOURS OF DARKNESS –
+YOU WILL NEED TO BRING A GOOD TORCH WITH YOU!!</b></p>
+<br />
+<p>Park in the vicinity of N 53º 21.405 W 006º 19.472 – this used
+to be a through road, but is now blocked at one end, entry is
+across the road from the Papal Cross car park.</p>
+<p>Proceed to the coordinates at the top of the page and use your
+torch to find a reflector about 1 metre above ground. Go to the
+reflector and shine your torch to your right – go to that reflector
+and seek the next one, and so on. When you see 3 reflectors (all on
+the same structure), shine your torch to your right and continue
+the process – at the third round reflector, look for the cache!</p>
+<p>All reflectors are approximately 1 metre above ground, and you
+should be able to see the next reflector from each one, but if you
+take shortcuts you may lose the trail!</p>
+<br /></long-description>
+  <encoded-hints>To find the first reflector, walk along the path / cycleway towards the main road.</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=e27f8e72-6cff-47f5-93cb-bee7c6122ca0</url>
+  <url-name>On reflection, it's a cache!</url-name>
+  <logs><ul><li>2009-12-10T20:00:00Z : Found it by dino-irl <br />20:25
+
+A great cache made all the more interesting with the colourful company. Thanks to the usual suspects for guiding me along this one and especially to Spark_ie for making the most effort to get here, despite the fact that he kept wanting to hold my hand [:O]
+
+If anyone is doing this cache and has transport then there's a fantastic Italian restaurant in Castleknock that we went to afterwards [:D]
+
+TNLNSL TFTC #433</li><li>2009-11-25T20:00:00Z : Found it by Spark_ie <br />Decided to have a go off this guy tonight seen as the weather was good for a cycle!  Got to the starting co-ords and took a little bit of searching to get the initial reflector..  Lost the track at one stage, but guessed at where the next one would be and picked it up again. From there it was easy going from reflector to reflector, although I probably could have done with a stronger light. Ground was a bit soggy, but got to the final co-ords no problems. Great idea for a cache, up there with the very best !  TFTC, Spark_ie</li><li>2009-11-10T20:00:00Z : Found it by anacreon <br />What's also reflective in torchlight? The tapetum lucidum of the park deer. I was quite surprised to find 6 reflectors on the first torch sweep, especially moving ones.
+
+Having spotting the first fixed reflector it wasn't too hard to follow the trail, despite the looming ground fog. Found the final reflector under the watchful gaze of another deer (stag, I think) and signed the logbook with torch-in-mouth, in forest, at night, with onlooking woodland creatures. This is not your usual geocache :)</li><li>2009-10-27T19:00:00Z : Found it by Lahtac <br />First Night Cache. Brilliant. Found this nice and easy as part of OBCLAN team. TFTC Lahtac</li><li>2009-10-19T19:00:00Z : Found it by Toffee Man <br />Found with Eily –signed log as Mot
+TFTC
+Toffee Man 
+#24
+</li><li>2008-11-08T20:00:00Z : Found it by Kersti.com <br />Found as part of the flashmob group - amazing how much those reflectors look exactly like deer eyes...
+</li></ul></logs>
+  <original-xml>  <wpt  lat="53.357667" lon="-6.322733">
+    <time>2008-11-05T08:00:00Z</time>
+    <name>GC1HX3D</name>
+    <desc>On reflection, it's a cache! by Hezekiah, Unknown Cache (1.5/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=e27f8e72-6cff-47f5-93cb-bee7c6122ca0</url>
+    <urlname>On reflection, it's a cache!</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Unknown Cache</type>
+    <groundspeak:cache id="1045862" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>On reflection, it's a cache!</groundspeak:name>
+      <groundspeak:placed_by>Hezekiah</groundspeak:placed_by>
+      <groundspeak:owner id="274644">Hezekiah</groundspeak:owner>
+      <groundspeak:type>Unknown Cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>Dublin</groundspeak:state>
+      <groundspeak:short_description html="True">&lt;p align="center"&gt;&lt;a target="_blank"
+href="http://www.geocachingireland.com/index.html"&gt;&lt;img border="0"
+src="http://geocachingireland.com/logo4.jpg" width="328"
+height="53" align="middle" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;hr align="center" size="2" width="40%" /&gt;
+&lt;center&gt;&lt;font color="blue"&gt;Visit the &lt;b&gt;new&lt;/b&gt; Geocaching Ireland
+discussion forum &lt;a href="http://www.mccartan.org/forums/"
+target="_blank"&gt;HERE&lt;/a&gt;&lt;/font&gt;&lt;/center&gt;
+&lt;hr align="center" size="2" width="40%" /&gt;
+&lt;br /&gt;
+&lt;br /&gt;</groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;p&gt;&lt;b&gt;THIS CACHE CAN ONLY BE SOUGHT DURING THE HOURS OF DARKNESS –
+YOU WILL NEED TO BRING A GOOD TORCH WITH YOU!!&lt;/b&gt;&lt;/p&gt;
+&lt;br /&gt;
+&lt;p&gt;Park in the vicinity of N 53º 21.405 W 006º 19.472 – this used
+to be a through road, but is now blocked at one end, entry is
+across the road from the Papal Cross car park.&lt;/p&gt;
+&lt;p&gt;Proceed to the coordinates at the top of the page and use your
+torch to find a reflector about 1 metre above ground. Go to the
+reflector and shine your torch to your right – go to that reflector
+and seek the next one, and so on. When you see 3 reflectors (all on
+the same structure), shine your torch to your right and continue
+the process – at the third round reflector, look for the cache!&lt;/p&gt;
+&lt;p&gt;All reflectors are approximately 1 metre above ground, and you
+should be able to see the next reflector from each one, but if you
+take shortcuts you may lose the trail!&lt;/p&gt;
+&lt;br /&gt;&lt;p&gt;Additional Waypoints&lt;/p&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>To find the first reflector, walk along the path / cycleway towards the main road.</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="92614691">
+          <groundspeak:date>2009-12-10T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="340827">dino-irl</groundspeak:finder>
+          <groundspeak:text encoded="False">20:25
+
+A great cache made all the more interesting with the colourful company. Thanks to the usual suspects for guiding me along this one and especially to Spark_ie for making the most effort to get here, despite the fact that he kept wanting to hold my hand [:O]
+
+If anyone is doing this cache and has transport then there's a fantastic Italian restaurant in Castleknock that we went to afterwards [:D]
+
+TNLNSL TFTC #433</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="91428378">
+          <groundspeak:date>2009-11-25T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="950104">Spark_ie</groundspeak:finder>
+          <groundspeak:text encoded="False">Decided to have a go off this guy tonight seen as the weather was good for a cycle!  Got to the starting co-ords and took a little bit of searching to get the initial reflector..  Lost the track at one stage, but guessed at where the next one would be and picked it up again. From there it was easy going from reflector to reflector, although I probably could have done with a stronger light. Ground was a bit soggy, but got to the final co-ords no problems. Great idea for a cache, up there with the very best !  TFTC, Spark_ie</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="90191533">
+          <groundspeak:date>2009-11-10T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2099725">anacreon</groundspeak:finder>
+          <groundspeak:text encoded="False">What's also reflective in torchlight? The tapetum lucidum of the park deer. I was quite surprised to find 6 reflectors on the first torch sweep, especially moving ones.
+
+Having spotting the first fixed reflector it wasn't too hard to follow the trail, despite the looming ground fog. Found the final reflector under the watchful gaze of another deer (stag, I think) and signed the logbook with torch-in-mouth, in forest, at night, with onlooking woodland creatures. This is not your usual geocache :)</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="92700191">
+          <groundspeak:date>2009-10-27T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2847528">Lahtac</groundspeak:finder>
+          <groundspeak:text encoded="False">First Night Cache. Brilliant. Found this nice and easy as part of OBCLAN team. TFTC Lahtac</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="91006039">
+          <groundspeak:date>2009-10-19T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2826452">Toffee Man</groundspeak:finder>
+          <groundspeak:text encoded="False">Found with Eily –signed log as Mot
+TFTC
+Toffee Man 
+#24
+</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="56746199">
+          <groundspeak:date>2008-11-08T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="320206">Kersti.com</groundspeak:finder>
+          <groundspeak:text encoded="False">Found as part of the flashmob group - amazing how much those reflectors look exactly like deer eyes...
+</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

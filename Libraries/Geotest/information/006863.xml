@@ -1,0 +1,170 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>006863</id>
+  <cache-id>GC2BJQR</cache-id>
+  <type>Traditional Cache</type>
+  <name>Tabulapons by Camuvlash, Traditional Cache (2/2)</name>
+  <size>Micro</size>
+  <difficulty>2</difficulty>
+  <terrain>2</terrain>
+  <last-found>2010-11-14</last-found>
+  <placed>2010-07-11</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Camuvlash</placedby>
+  <found>Geocache</found>
+  <lat>50.53365</lat>
+  <lon>9.701167</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>Camuvlash</owner>
+  <description>
+      </description>
+  <long-description>Hölzerne Planken überspannen das Bächlein...
+
+(Bitte Stift mitbringen!)
+
+
+----------------------------------------------------------------
+
+
+Brücken-Quest rund um Fulda
+
+„Über 7 Brücken sollt ihr gehen“
+
+Brücken finden sich stets an Grenzenflächen, wo Lücken klaffen und Elemente kaum überwindbar aufeinander treffen und diese Brücke die Verbindung schafft. Gerade heute ist es besonders wichtig, immer wieder neue Brücken zu bauen. Diese Brücken sind aus diversem Material, verschieden groß und in unterschiedlicher Lage und sie sind da.
+
+Besucht erst alle Brücken, um den Schatz des Brückenbauers zu finden!
+Das sind:
+(1) Tabulapons  (GC2BJQR)
+(2) Lignopontis  (GC2F2PP)
+(3) Ferropontis  (GC2F2PY)
+(4) Quadrupontium  (GC2FT9P)
+(5) Ponsarca  (GC2FT9X)
+(6) Geminipontium  (GC2FTAD)
+(7) Ponsmolaris  (GC2FTAN)
+
+Mit den dort zu findenden Bausteinen lässt sich das Rätsel des Brückenbauers lösen.
+
+So findet ihr schließlich „Pontifex“ (GC2G5BR), den Bonuscache des Quests.
+
+Viel Spaß und Erfolg!</long-description>
+  <encoded-hints>
+      </encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=7538de3f-c015-42a7-a618-55327b0ec057</url>
+  <url-name>Tabulapons</url-name>
+  <logs><ul><li>2010-11-25T20:00:00Z : Found it by Höhenstürmer <br />Am späten Abend bei Schneematsch, Matsch und Schlamm bin ich diese Dose angegangen.
+Danke für das Naturerlebnis ;-)
+Gruß, Toffi</li><li>2010-11-23T20:00:00Z : Found it by Griesgor <br />Heute morgen in der Nähe gewesen da mußte ich doch gleich mal schauen wo der Cache ist,ich hätte es lassen sollen.Denn es war dort so glatt das ich ausgerutscht bin und mal kurz im Bach getauft wurde.Also dachte ich wenn schon nass und voll Schlamm dann wird auch solange gesucht bis ich den Cache hatte.Dann war der Schmerz das ich die heutige Cachsuche abbrechen mußte nicht so groß und das Bad was ich nehmen mußte hat mich dann endschädigt.Trotz allem war es ein Spass.Danke für das legen.
+(Cache)  nicht für das Flußbad grins .Euer Griesgor</li><li>2010-11-21T20:00:00Z : Found it by michael01 <br />Heute haben wir eine kleine Cache-Runde am Sonntag-Nachmittag durch Fulda gedreht.
+
+Auch diese abenteuerliche Brückenkonstruktion haben wir noch aufgesucht.
+Der Cache war gut zu finden.
+
+Danke und viele Grüße 
+Michael01
+#3212</li><li>2010-11-19T20:00:00Z : Found it by mausezahntiger <br />Fix gefunden bei einer kleinen Hunderunde. Ich musste mit "MZT" loggen, da mein nick-name eindeutig zu lang für das niedliche Logbüchlein ist.
+TFTC,
+mausezahntiger</li><li>2010-11-14T20:00:00Z : Found it by s186003 <br />Schnell gefunden.
+TFTC</li></ul></logs>
+  <original-xml>  <wpt  lat="50.53365" lon="9.701167">
+    <time>2010-07-11T07:00:00Z</time>
+    <name>GC2BJQR</name>
+    <desc>Tabulapons by Camuvlash, Traditional Cache (2/2)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=7538de3f-c015-42a7-a618-55327b0ec057</url>
+    <urlname>Tabulapons</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1781658" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Tabulapons</groundspeak:name>
+      <groundspeak:placed_by>Camuvlash</groundspeak:placed_by>
+      <groundspeak:owner id="2724623">Camuvlash</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>2</groundspeak:difficulty>
+      <groundspeak:terrain>2</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">
+      </groundspeak:short_description>
+      <groundspeak:long_description html="False">Hölzerne Planken überspannen das Bächlein...
+
+(Bitte Stift mitbringen!)
+
+
+----------------------------------------------------------------
+
+
+Brücken-Quest rund um Fulda
+
+„Über 7 Brücken sollt ihr gehen“
+
+Brücken finden sich stets an Grenzenflächen, wo Lücken klaffen und Elemente kaum überwindbar aufeinander treffen und diese Brücke die Verbindung schafft. Gerade heute ist es besonders wichtig, immer wieder neue Brücken zu bauen. Diese Brücken sind aus diversem Material, verschieden groß und in unterschiedlicher Lage und sie sind da.
+
+Besucht erst alle Brücken, um den Schatz des Brückenbauers zu finden!
+Das sind:
+(1) Tabulapons  (GC2BJQR)
+(2) Lignopontis  (GC2F2PP)
+(3) Ferropontis  (GC2F2PY)
+(4) Quadrupontium  (GC2FT9P)
+(5) Ponsarca  (GC2FT9X)
+(6) Geminipontium  (GC2FTAD)
+(7) Ponsmolaris  (GC2FTAN)
+
+Mit den dort zu findenden Bausteinen lässt sich das Rätsel des Brückenbauers lösen.
+
+So findet ihr schließlich „Pontifex“ (GC2G5BR), den Bonuscache des Quests.
+
+Viel Spaß und Erfolg!</groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="137144298">
+          <groundspeak:date>2010-11-25T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1753709">Höhenstürmer</groundspeak:finder>
+          <groundspeak:text encoded="False">Am späten Abend bei Schneematsch, Matsch und Schlamm bin ich diese Dose angegangen.
+Danke für das Naturerlebnis ;-)
+Gruß, Toffi</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="136896498">
+          <groundspeak:date>2010-11-23T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3701621">Griesgor</groundspeak:finder>
+          <groundspeak:text encoded="False">Heute morgen in der Nähe gewesen da mußte ich doch gleich mal schauen wo der Cache ist,ich hätte es lassen sollen.Denn es war dort so glatt das ich ausgerutscht bin und mal kurz im Bach getauft wurde.Also dachte ich wenn schon nass und voll Schlamm dann wird auch solange gesucht bis ich den Cache hatte.Dann war der Schmerz das ich die heutige Cachsuche abbrechen mußte nicht so groß und das Bad was ich nehmen mußte hat mich dann endschädigt.Trotz allem war es ein Spass.Danke für das legen.
+(Cache)  nicht für das Flußbad grins .Euer Griesgor</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="136688681">
+          <groundspeak:date>2010-11-21T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1225681">michael01</groundspeak:finder>
+          <groundspeak:text encoded="False">Heute haben wir eine kleine Cache-Runde am Sonntag-Nachmittag durch Fulda gedreht.
+
+Auch diese abenteuerliche Brückenkonstruktion haben wir noch aufgesucht.
+Der Cache war gut zu finden.
+
+Danke und viele Grüße 
+Michael01
+#3212</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="136337153">
+          <groundspeak:date>2010-11-19T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1087380">mausezahntiger</groundspeak:finder>
+          <groundspeak:text encoded="False">Fix gefunden bei einer kleinen Hunderunde. Ich musste mit "MZT" loggen, da mein nick-name eindeutig zu lang für das niedliche Logbüchlein ist.
+TFTC,
+mausezahntiger</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="136074658">
+          <groundspeak:date>2010-11-14T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2819456">s186003</groundspeak:finder>
+          <groundspeak:text encoded="False">Schnell gefunden.
+TFTC</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

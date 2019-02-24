@@ -1,0 +1,176 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>006041</id>
+  <cache-id>GC2029P</cache-id>
+  <type>Traditional Cache</type>
+  <name>Willkommen in Steinau by SirGerion, Traditional Cache (1.5/1.5)</name>
+  <size>Micro</size>
+  <difficulty>1.5</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-09-26</last-found>
+  <placed>2009-10-19</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>SirGerion</placedby>
+  <found>Geocache</found>
+  <lat>50.5964</lat>
+  <lon>9.735417</lon>
+  <last-logs>FFFFX</last-logs>
+  <owner>SirGerion</owner>
+  <description><b>Ihr sucht einen kleinen nicht handelsüblichen Nano. Bitte Stift
+zum Loggen mitbringen.</b> <br />
+<br />
+<i>Der Cache ist über den Bürgersteig aus dem Ort heraus gut zu Fuß
+erreichbar. Wegen des Verkehrs an der Hauptstraße bei der Mitnahme
+von Kindern aber ein bisschen aufpassen, manchmal rast da doch
+einer recht zügig ran. -Deswegen nicht das Attribut
+"kid-friendly".</i></description>
+  <long-description>Der Cache ist für Rollstuhlfahrer nur mit Hilfe zu bergen.<br />
+<br />
+Der erste kleine Cache in meinem Heimatdörfchen! 
+<p>In den letzten Jahren wurde sich hier um die Überreste der
+ehemaligen Wasserburg gekümemrt und die umfangreiche Geschichte des
+kleinen schönen Ortes gut recherchiert.</p>
+<p>Interessantes zur Geschichte und dem schönen Ort findet man
+unter:<br />
+<b>http://www.wasserburg-steinau.de/</b></p>
+<div align="center"><br />
+<img src="http://www.wasserburg-steinau.de/grafikensteinau/wappensteinau.jpg"
+     width="300" height="314" border="0" /></div>
+<p>Dies ist das akutelle Wappen, das auch einst in guter
+heraldischer Tradition Einzug in des Owners Familienwappen gefunden
+hat:</p>
+<div align="center"><br />
+<img src="http://img.geocaching.com/cache/be20608f-55b8-46b0-bbb5-8aef42c80527.jpg"
+     width="237" height="298" border="0" /></div>
+<i>(Als Suchbild) :-)</i> Am Orte dieses kleinen Caches findet Ihr
+dann auch das heutige Gemeindewappen und das alte Siegel des
+Raubritters von Giso aus dem Jahre 1289, das dem Wappen einst als
+Vorlage diente und damit auch seine heutige Gestalt gab, sofern es
+nicht gerade mit anderen Hinweisen zugedeckt ist.<br />
+<br />
+<br />
+<i>Wenn das Logbuch wider Erwarten einmal voll sein sollte, macht
+doch einfach ein Foto vom Nano in Eurer Hand (nicht im Versteck
+bitte [:-D]). Das reicht in dem Sonderfall auch für eine
+Logfreigabe.</i><br />
+<br />
+ 
+<p><i>An dieser Stelle einen schönen Gruß an alle, die bereits dort
+einen Cache versteckt haben und an alle Steinauer! :-)</i></p></long-description>
+  <encoded-hints>Straßenabgewandte Seite (magnetisch). Nicht alle sind echt.</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=baf43c2c-2e15-4634-9031-70f1c439dbcf</url>
+  <url-name>Willkommen in Steinau</url-name>
+  <logs><ul><li>2010-10-31T19:00:00Z : Found it by burgen13 <br />Nachdem wir alle "falschen" ausgeschlossen hatten, blieb der "echte" übrig
+Danke für die schöne Idee und Ausführung sagt burgen13</li><li>2010-10-09T19:00:00Z : Found it by fsls2010 <br />Jetzt endlich gefunden. GENIALER Cache. Super Idee. Hat Spaß gemacht! </li><li>2010-10-04T19:00:00Z : Found it by Griesgor <br />Super Cache!!  Heute um16 Uhr 15 gefunden und geloggt.Hatte zwar erst das falsche in der Hand und bin zum Parkplatz um Foto zu machen.Dann beim zurückbringen das richtige gefunden.
+TFTC Gruß Griesgor</li><li>2010-10-01T19:00:00Z : Found it by Camuvlash <br />Aufgrund des Größenverhältnisses von Logbuch und ******** gestaltete sich die Extraktion ohne Hilfsmittel exorbitant kompliziert. 
+
+TFTC.
+
+
+</li><li>2010-09-26T19:00:00Z : Didn't find it by Fla20m <br />hatte heute leider Tomaten auf den Augen...</li></ul></logs>
+  <original-xml>  <wpt  lat="50.5964" lon="9.735417">
+    <time>2009-10-19T07:00:00Z</time>
+    <name>GC2029P</name>
+    <desc>Willkommen in Steinau by SirGerion, Traditional Cache (1.5/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=baf43c2c-2e15-4634-9031-70f1c439dbcf</url>
+    <urlname>Willkommen in Steinau</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1438145" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Willkommen in Steinau</groundspeak:name>
+      <groundspeak:placed_by>SirGerion</groundspeak:placed_by>
+      <groundspeak:owner id="2032389">SirGerion</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="True">&lt;b&gt;Ihr sucht einen kleinen nicht handelsüblichen Nano. Bitte Stift
+zum Loggen mitbringen.&lt;/b&gt; &lt;br /&gt;
+&lt;br /&gt;
+&lt;i&gt;Der Cache ist über den Bürgersteig aus dem Ort heraus gut zu Fuß
+erreichbar. Wegen des Verkehrs an der Hauptstraße bei der Mitnahme
+von Kindern aber ein bisschen aufpassen, manchmal rast da doch
+einer recht zügig ran. -Deswegen nicht das Attribut
+"kid-friendly".&lt;/i&gt;</groundspeak:short_description>
+      <groundspeak:long_description html="True">Der Cache ist für Rollstuhlfahrer nur mit Hilfe zu bergen.&lt;br /&gt;
+&lt;br /&gt;
+Der erste kleine Cache in meinem Heimatdörfchen! 
+&lt;p&gt;In den letzten Jahren wurde sich hier um die Überreste der
+ehemaligen Wasserburg gekümemrt und die umfangreiche Geschichte des
+kleinen schönen Ortes gut recherchiert.&lt;/p&gt;
+&lt;p&gt;Interessantes zur Geschichte und dem schönen Ort findet man
+unter:&lt;br /&gt;
+&lt;b&gt;http://www.wasserburg-steinau.de/&lt;/b&gt;&lt;/p&gt;
+&lt;div align="center"&gt;&lt;br /&gt;
+&lt;img src="http://www.wasserburg-steinau.de/grafikensteinau/wappensteinau.jpg"
+     width="300" height="314" border="0" /&gt;&lt;/div&gt;
+&lt;p&gt;Dies ist das akutelle Wappen, das auch einst in guter
+heraldischer Tradition Einzug in des Owners Familienwappen gefunden
+hat:&lt;/p&gt;
+&lt;div align="center"&gt;&lt;br /&gt;
+&lt;img src="http://img.geocaching.com/cache/be20608f-55b8-46b0-bbb5-8aef42c80527.jpg"
+     width="237" height="298" border="0" /&gt;&lt;/div&gt;
+&lt;i&gt;(Als Suchbild) :-)&lt;/i&gt; Am Orte dieses kleinen Caches findet Ihr
+dann auch das heutige Gemeindewappen und das alte Siegel des
+Raubritters von Giso aus dem Jahre 1289, das dem Wappen einst als
+Vorlage diente und damit auch seine heutige Gestalt gab, sofern es
+nicht gerade mit anderen Hinweisen zugedeckt ist.&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;i&gt;Wenn das Logbuch wider Erwarten einmal voll sein sollte, macht
+doch einfach ein Foto vom Nano in Eurer Hand (nicht im Versteck
+bitte [:-D]). Das reicht in dem Sonderfall auch für eine
+Logfreigabe.&lt;/i&gt;&lt;br /&gt;
+&lt;br /&gt;
+ 
+&lt;p&gt;&lt;i&gt;An dieser Stelle einen schönen Gruß an alle, die bereits dort
+einen Cache versteckt haben und an alle Steinauer! :-)&lt;/i&gt;&lt;/p&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>Straßenabgewandte Seite (magnetisch). Nicht alle sind echt.</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="133886700">
+          <groundspeak:date>2010-10-31T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2887618">burgen13</groundspeak:finder>
+          <groundspeak:text encoded="False">Nachdem wir alle "falschen" ausgeschlossen hatten, blieb der "echte" übrig
+Danke für die schöne Idee und Ausführung sagt burgen13</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="130330485">
+          <groundspeak:date>2010-10-09T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3660491">fsls2010</groundspeak:finder>
+          <groundspeak:text encoded="False">Jetzt endlich gefunden. GENIALER Cache. Super Idee. Hat Spaß gemacht! </groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="129759701">
+          <groundspeak:date>2010-10-04T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3701621">Griesgor</groundspeak:finder>
+          <groundspeak:text encoded="False">Super Cache!!  Heute um16 Uhr 15 gefunden und geloggt.Hatte zwar erst das falsche in der Hand und bin zum Parkplatz um Foto zu machen.Dann beim zurückbringen das richtige gefunden.
+TFTC Gruß Griesgor</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="129212212">
+          <groundspeak:date>2010-10-01T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2724623">Camuvlash</groundspeak:finder>
+          <groundspeak:text encoded="False">Aufgrund des Größenverhältnisses von Logbuch und ******** gestaltete sich die Extraktion ohne Hilfsmittel exorbitant kompliziert. 
+
+TFTC.
+
+
+</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="128609548">
+          <groundspeak:date>2010-09-26T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Didn't find it</groundspeak:type>
+          <groundspeak:finder id="3087275">Fla20m</groundspeak:finder>
+          <groundspeak:text encoded="False">hatte heute leider Tomaten auf den Augen...</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

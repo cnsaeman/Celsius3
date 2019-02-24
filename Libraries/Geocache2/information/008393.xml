@@ -1,0 +1,131 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>008393</id>
+  <cache-id>GC19D6Z</cache-id>
+  <type>Traditional Cache</type>
+  <name>Hermit 2 - The Cave by MaryAnn42, Traditional Cache (1.5/1.5)</name>
+  <size>Micro</size>
+  <difficulty>1.5</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-02-13</last-found>
+  <placed>2008-02-16</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>MaryAnn42</placedby>
+  <found>Geocache Found</found>
+  <lat>53.282417</lat>
+  <lon>-6.279267</lon>
+  <last-logs>XFFFFF</last-logs>
+  <owner>MaryAnn42</owner>
+  <description>IMPORTANT: Bring your own pen. 
+Please re-hide carefully. Park Opening Times
+
+Nov – Jan 	9.00 – 16.30
+Feb 	9.00 – 17.00
+Mar 	9.00 – 18.00
+Apr	9.00 – 20.00
+May - Aug	9.00 – 21.00
+Sept	9.00 – 20.00
+Oct	9.00 – 18.00</description>
+  <long-description>Located in St. Enda's Park, nestling in the foothills of the Dublin mountains. This cache is a small black container, hidden close to a cave-like folly. There are many other odditys/follies hidden waiting to be found by people strolling around these beautiful grounds.</long-description>
+  <encoded-hints>Look in the ivy.</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=51e0430b-3efc-4076-8bd7-074707423cac</url>
+  <url-name>Hermit 2 - The Cave</url-name>
+  <logs><ul><li>2010-05-15T19:00:00Z : Didn't find it by Timmolly <br />Searched a while but looking at the comments now maybe we weren't in the right place. Will have to go back again soon!</li><li>2010-04-05T19:00:00Z : Found it by didi2206 <br />Wow quite a tricky one but worth it in the end... Sunni and I searched for ages, gave up and went to the other one in the park.. when we found that one we had a better idea what to be looking for and found this straight away!! Great fun TFTC!!!</li><li>2010-04-03T19:00:00Z : Found it by WeeBookWorm <br />Found when out with my parents (Frezeluberz)
+TFTC</li><li>2010-04-03T19:00:00Z : Found it by CheekyCheetah <br />Found when out with my parents (Frezeluberz)
+TFTC</li><li>2010-04-03T19:00:00Z : Found it by Frezeluberz <br />Tried this cache last year before the Easter Eggstravaganza but was running late and only got 5 minutes at it.
+Back this year and we had all the time in the world ... we were going to need it.
+Turns out we weren't looking in the right area.
+Fortunately enough though, AbbeyAckbar and B.Bubbles turned up.
+I think it was AbbeyAckbar who were able to identify that we were searching in completely the wrong place.
+They have found it previously ... but couldn't remember where :(
+The hunt contniued, but this time in the right location.
+Soon enough the hide was discovered.
+Nice camo and good hide.
+TFTC.</li><li>2010-02-13T20:00:00Z : Found it by Kersti.com <br />After reading the description properly and deciding to trust the GPS we finally headed to the correct general location. C skipped right over the cache but once I got there I had it in hand within a few seconds. </li></ul></logs>
+  <original-xml>  <wpt  lat="53.282417" lon="-6.279267">
+    <time>2008-02-16T08:00:00Z</time>
+    <name>GC19D6Z</name>
+    <desc>Hermit 2 - The Cave by MaryAnn42, Traditional Cache (1.5/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=51e0430b-3efc-4076-8bd7-074707423cac</url>
+    <urlname>Hermit 2 - The Cave</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="793229" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Hermit 2 - The Cave</groundspeak:name>
+      <groundspeak:placed_by>MaryAnn42</groundspeak:placed_by>
+      <groundspeak:owner id="1423600">MaryAnn42</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>
+      </groundspeak:state>
+      <groundspeak:short_description html="False">IMPORTANT: Bring your own pen. 
+Please re-hide carefully. Park Opening Times
+
+Nov – Jan 	9.00 – 16.30
+Feb 	9.00 – 17.00
+Mar 	9.00 – 18.00
+Apr	9.00 – 20.00
+May - Aug	9.00 – 21.00
+Sept	9.00 – 20.00
+Oct	9.00 – 18.00</groundspeak:short_description>
+      <groundspeak:long_description html="False">Located in St. Enda's Park, nestling in the foothills of the Dublin mountains. This cache is a small black container, hidden close to a cave-like folly. There are many other odditys/follies hidden waiting to be found by people strolling around these beautiful grounds.</groundspeak:long_description>
+      <groundspeak:encoded_hints>Look in the ivy.</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="108530825">
+          <groundspeak:date>2010-05-15T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Didn't find it</groundspeak:type>
+          <groundspeak:finder id="3249974">Timmolly</groundspeak:finder>
+          <groundspeak:text encoded="False">Searched a while but looking at the comments now maybe we weren't in the right place. Will have to go back again soon!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="102716036">
+          <groundspeak:date>2010-04-05T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2623045">didi2206</groundspeak:finder>
+          <groundspeak:text encoded="False">Wow quite a tricky one but worth it in the end... Sunni and I searched for ages, gave up and went to the other one in the park.. when we found that one we had a better idea what to be looking for and found this straight away!! Great fun TFTC!!!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="103141032">
+          <groundspeak:date>2010-04-03T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2111147">WeeBookWorm</groundspeak:finder>
+          <groundspeak:text encoded="False">Found when out with my parents (Frezeluberz)
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="103135732">
+          <groundspeak:date>2010-04-03T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2111140">CheekyCheetah</groundspeak:finder>
+          <groundspeak:text encoded="False">Found when out with my parents (Frezeluberz)
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="102314942">
+          <groundspeak:date>2010-04-03T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1548662">Frezeluberz</groundspeak:finder>
+          <groundspeak:text encoded="False">Tried this cache last year before the Easter Eggstravaganza but was running late and only got 5 minutes at it.
+Back this year and we had all the time in the world ... we were going to need it.
+Turns out we weren't looking in the right area.
+Fortunately enough though, AbbeyAckbar and B.Bubbles turned up.
+I think it was AbbeyAckbar who were able to identify that we were searching in completely the wrong place.
+They have found it previously ... but couldn't remember where :(
+The hunt contniued, but this time in the right location.
+Soon enough the hide was discovered.
+Nice camo and good hide.
+TFTC.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="97187797">
+          <groundspeak:date>2010-02-13T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="320206">Kersti.com</groundspeak:finder>
+          <groundspeak:text encoded="False">After reading the description properly and deciding to trust the GPS we finally headed to the correct general location. C skipped right over the cache but once I got there I had it in hand within a few seconds. </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

@@ -1,0 +1,126 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>008949</id>
+  <cache-id>GC1ZHKP</cache-id>
+  <type>Traditional Cache</type>
+  <name>Alte Katholische Kirche Maberzell by hungry.knight, Traditional Cache (1.5/1)</name>
+  <size>Micro</size>
+  <difficulty>1.5</difficulty>
+  <terrain>1</terrain>
+  <last-found>2010-10-24</last-found>
+  <placed>2009-10-06</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>hungry.knight</placedby>
+  <found>Geocache</found>
+  <lat>50.56305</lat>
+  <lon>9.63</lon>
+  <last-logs>FFFXF</last-logs>
+  <owner>hungry.knight</owner>
+  <description>Ein weiterer Cache der Fuldaer Kirchencachereihe. A further cache in a series of churches in Fulda.</description>
+  <long-description>Dies ist ein schneller Drive-In der Fuldaer Kirchencachereihe.
+
+Die Serie soll die Vielfalt der Kirchen in Fulda zeigen.
+Der Cache liegt an der alten katholischen Kirche in Maberzell.
+
+Die alte Kirche befindet sich leider seit 1973 in Privatbesitz. Meiner Meinung nach ist sie um einiges schöner als der Neubau.
+Wenn ihr den Cache sucht, könnt ihr ja auch einen Blick in den neuen Betonbau werfen.
+
+Weil die alte Kirche für knapp 1000 Katholiken um 1970 zu klein wurde, beschloss man eine neue Kirche zu bauen. Seit 2004 besitzt Maberzell das größte Altarwandgemälde Mitteleuropas.
+
+
+Maberzell hat zwei katholische Kirchen, eine alte Kirche aus dem 13. Jahrhundert und eine neue Kirche von 1973. Im Turm der alten Kirche ist noch ein aktives Läutwerk, das täglich mit Uhrschlag (jede volle und halbe Stunde) und zu den Angelusgebeten läutet. Neben dem Uhrschlag befinden sich im Kirchturm noch drei Glocken. Die kleinste der Glocken, die Andreasglocke, konnte Maberzell während beider Weltkriege behalten. Die neue Kirche in Maberzell ist dem heiligen Kreuz geweiht. Die Orgel wurde im Jahr 1990 in die Kirche eingebaut. An der Altarwand hängt ein Bild mit dem Titel „Geschichte der Erlösung“ von dem Maler Ante Milas. Das Altarbild ist mit 110 m² das größte Mitteleuropas. Maberzell gehört zum Pfarrverbund Fulda West.
+
+Es handelt sich um einen kleinen Behälter.
+Bitte Stift mitbringen!!!</long-description>
+  <encoded-hints>Cyrene</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=6357c186-e2f5-4fdb-9bea-51f34f675d01</url>
+  <url-name>Alte Katholische Kirche Maberzell</url-name>
+  <logs><ul><li>2010-12-20T20:00:00Z : Found it by Griesgor <br />Hallo! Nachdem es das 1.Mal nicht geklappt hat und ich nochmal eine genaue Ortslage recheriert habe,habe ihn heute auf Anhieb gefunden und geloggt..War nur gut das ich hohe Gummistiefel anhatte.Der Schnee liegt dort bestimmt 60 cm hoch wär also den Cache noch brauch jetzt kann man schön sehen wo er ist.Hat Spass gemacht.Gruß Griesgor</li><li>2010-11-13T20:00:00Z : Found it by Fla20m <br />einer der wenigen Kirchen-CAches die noch gut erhalten sind...;-) Gruß nach Trätzhof!</li><li>2010-10-29T19:00:00Z : Found it by sosgeo <br />Tja, das ganze noch einmal bei Tageslicht und schon wurde er gefunden.
+Tipp: Mein GPS-Gerät zeigte 6 Meter weiter, wie vom tatsächlichen Versteck. 
+Prägt euch das Satelittenbild vom Cache ein, dann ist der Fund garantiert [;)]
+
+This entry was edited by sosgeo on Sunday, 07 November 2010 at 10:54:19.</li><li>2010-10-27T19:00:00Z : Didn't find it by sosgeo <br />Konnte den Cache leider nicht finden. 
+Ich weiß nicht, ob das versteck zu gut ist oder ob der Cache entwendet wurde.
+
+Ich werde es in ein paar Tagen noch einmal probieren, auch bei mehr Tageslicht [:)]</li><li>2010-10-24T19:00:00Z : Found it by Camuvlash <br />TFTC. Der Hint ist gut.</li></ul></logs>
+  <original-xml>  <wpt  lat="50.56305" lon="9.63">
+    <time>2009-10-06T07:00:00Z</time>
+    <name>GC1ZHKP</name>
+    <desc>Alte Katholische Kirche Maberzell by hungry.knight, Traditional Cache (1.5/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=6357c186-e2f5-4fdb-9bea-51f34f675d01</url>
+    <urlname>Alte Katholische Kirche Maberzell</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1423079" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Alte Katholische Kirche Maberzell</groundspeak:name>
+      <groundspeak:placed_by>hungry.knight</groundspeak:placed_by>
+      <groundspeak:owner id="2129485">hungry.knight</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">Ein weiterer Cache der Fuldaer Kirchencachereihe. A further cache in a series of churches in Fulda.</groundspeak:short_description>
+      <groundspeak:long_description html="False">Dies ist ein schneller Drive-In der Fuldaer Kirchencachereihe.
+
+Die Serie soll die Vielfalt der Kirchen in Fulda zeigen.
+Der Cache liegt an der alten katholischen Kirche in Maberzell.
+
+Die alte Kirche befindet sich leider seit 1973 in Privatbesitz. Meiner Meinung nach ist sie um einiges schöner als der Neubau.
+Wenn ihr den Cache sucht, könnt ihr ja auch einen Blick in den neuen Betonbau werfen.
+
+Weil die alte Kirche für knapp 1000 Katholiken um 1970 zu klein wurde, beschloss man eine neue Kirche zu bauen. Seit 2004 besitzt Maberzell das größte Altarwandgemälde Mitteleuropas.
+
+
+Maberzell hat zwei katholische Kirchen, eine alte Kirche aus dem 13. Jahrhundert und eine neue Kirche von 1973. Im Turm der alten Kirche ist noch ein aktives Läutwerk, das täglich mit Uhrschlag (jede volle und halbe Stunde) und zu den Angelusgebeten läutet. Neben dem Uhrschlag befinden sich im Kirchturm noch drei Glocken. Die kleinste der Glocken, die Andreasglocke, konnte Maberzell während beider Weltkriege behalten. Die neue Kirche in Maberzell ist dem heiligen Kreuz geweiht. Die Orgel wurde im Jahr 1990 in die Kirche eingebaut. An der Altarwand hängt ein Bild mit dem Titel „Geschichte der Erlösung“ von dem Maler Ante Milas. Das Altarbild ist mit 110 m² das größte Mitteleuropas. Maberzell gehört zum Pfarrverbund Fulda West.
+
+Es handelt sich um einen kleinen Behälter.
+Bitte Stift mitbringen!!!</groundspeak:long_description>
+      <groundspeak:encoded_hints>Cyrene</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="138906598">
+          <groundspeak:date>2010-12-20T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3701621">Griesgor</groundspeak:finder>
+          <groundspeak:text encoded="False">Hallo! Nachdem es das 1.Mal nicht geklappt hat und ich nochmal eine genaue Ortslage recheriert habe,habe ihn heute auf Anhieb gefunden und geloggt..War nur gut das ich hohe Gummistiefel anhatte.Der Schnee liegt dort bestimmt 60 cm hoch wär also den Cache noch brauch jetzt kann man schön sehen wo er ist.Hat Spass gemacht.Gruß Griesgor</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="135951486">
+          <groundspeak:date>2010-11-13T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3087275">Fla20m</groundspeak:finder>
+          <groundspeak:text encoded="False">einer der wenigen Kirchen-CAches die noch gut erhalten sind...;-) Gruß nach Trätzhof!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="133524150">
+          <groundspeak:date>2010-10-29T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3898107">sosgeo</groundspeak:finder>
+          <groundspeak:text encoded="False">Tja, das ganze noch einmal bei Tageslicht und schon wurde er gefunden.
+Tipp: Mein GPS-Gerät zeigte 6 Meter weiter, wie vom tatsächlichen Versteck. 
+Prägt euch das Satelittenbild vom Cache ein, dann ist der Fund garantiert [;)]
+
+This entry was edited by sosgeo on Sunday, 07 November 2010 at 10:54:19.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="133332732">
+          <groundspeak:date>2010-10-27T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Didn't find it</groundspeak:type>
+          <groundspeak:finder id="3898107">sosgeo</groundspeak:finder>
+          <groundspeak:text encoded="False">Konnte den Cache leider nicht finden. 
+Ich weiß nicht, ob das versteck zu gut ist oder ob der Cache entwendet wurde.
+
+Ich werde es in ein paar Tagen noch einmal probieren, auch bei mehr Tageslicht [:)]</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="132868072">
+          <groundspeak:date>2010-10-24T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2724623">Camuvlash</groundspeak:finder>
+          <groundspeak:text encoded="False">TFTC. Der Hint ist gut.</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

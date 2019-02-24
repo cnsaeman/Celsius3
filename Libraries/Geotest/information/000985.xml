@@ -1,0 +1,102 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>000985</id>
+  <cache-id>GC2DENN</cache-id>
+  <type>Traditional Cache</type>
+  <name>Freitag,der 13. - Keimling by Mammut-Baby, Traditional Cache (1.5/3.5)</name>
+  <size>Micro</size>
+  <difficulty>1.5</difficulty>
+  <terrain>3.5</terrain>
+  <last-found>2010-10-24</last-found>
+  <placed>2010-08-13</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Mammut-Baby</placedby>
+  <found>Geocache</found>
+  <lat>50.62545</lat>
+  <lon>9.7862</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>Mammut-Baby</owner>
+  <description>
+      </description>
+  <long-description>Eine weitere Keimzelle im Bereich Dammersbach. 
+Ich habe diesen Ort gewählt, weil man von hier aus einen schönen Blick auf das Dorf hat. 
+Der Cachename soll euch nicht abschrecken, er heißt nur so, weil ich an einem Freitag, den 13. den PETling hier versteckt habe. Seid aber trotzdem vorsichtig, ihr sucht auf eigene Gefahr.</long-description>
+  <encoded-hints>Da sitzen Vögel am liebsten.</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=c777bf8f-ab65-45dc-bc79-d3440203c84e</url>
+  <url-name>Freitag,der 13. - Keimling</url-name>
+  <logs><ul><li>2010-11-21T20:00:00Z : Found it by burgen13 <br />Auf einer Sonntagstour rund um Dammersbach gut gefunden.
+Danke sagt burgen13</li><li>2010-10-31T19:00:00Z : Found it by Jabosamma <br />"Spürnase Mutti" hat die Umgebungdurchsucht,den richtigen Riecher gehabt,aber der " Lange hat den Keimling entdeckt.
+
+Gruß, Team Jabosamma</li><li>2010-10-31T19:00:00Z : Found it by born to cache <br />Heute bei schönstem Herbstwetter gefunden. Schade, dass es von diesen schönen Tagen nicht mehr allzu viele geben wird dieses Jahr. TFTC</li><li>2010-10-31T19:00:00Z : Found it by f.etcher <br />Bei schönstem Wetter auch diesen Cache gefunden. Von dem Cache aus hat man einen schönen Blick auf das kleine Dörfchen. TFTC</li><li>2010-10-24T19:00:00Z : Found it by sema2505 <br />sehr schöner cache, tolle aussicht 
+ganz schön herumgeirrt
+
+TFTC</li></ul></logs>
+  <original-xml>  <wpt  lat="50.62545" lon="9.7862">
+    <time>2010-08-13T07:00:00Z</time>
+    <name>GC2DENN</name>
+    <desc>Freitag,der 13. - Keimling by Mammut-Baby, Traditional Cache (1.5/3.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=c777bf8f-ab65-45dc-bc79-d3440203c84e</url>
+    <urlname>Freitag,der 13. - Keimling</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1837331" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Freitag,der 13. - Keimling</groundspeak:name>
+      <groundspeak:placed_by>Mammut-Baby</groundspeak:placed_by>
+      <groundspeak:owner id="2558498">Mammut-Baby</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>3.5</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">
+      </groundspeak:short_description>
+      <groundspeak:long_description html="False">Eine weitere Keimzelle im Bereich Dammersbach. 
+Ich habe diesen Ort gewählt, weil man von hier aus einen schönen Blick auf das Dorf hat. 
+Der Cachename soll euch nicht abschrecken, er heißt nur so, weil ich an einem Freitag, den 13. den PETling hier versteckt habe. Seid aber trotzdem vorsichtig, ihr sucht auf eigene Gefahr.</groundspeak:long_description>
+      <groundspeak:encoded_hints>Da sitzen Vögel am liebsten.</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="136642855">
+          <groundspeak:date>2010-11-21T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2887618">burgen13</groundspeak:finder>
+          <groundspeak:text encoded="False">Auf einer Sonntagstour rund um Dammersbach gut gefunden.
+Danke sagt burgen13</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="135726207">
+          <groundspeak:date>2010-10-31T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2381902">Jabosamma</groundspeak:finder>
+          <groundspeak:text encoded="False">"Spürnase Mutti" hat die Umgebungdurchsucht,den richtigen Riecher gehabt,aber der " Lange hat den Keimling entdeckt.
+
+Gruß, Team Jabosamma</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="133978136">
+          <groundspeak:date>2010-10-31T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3473620">born to cache</groundspeak:finder>
+          <groundspeak:text encoded="False">Heute bei schönstem Herbstwetter gefunden. Schade, dass es von diesen schönen Tagen nicht mehr allzu viele geben wird dieses Jahr. TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="133975182">
+          <groundspeak:date>2010-10-31T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1498819">f.etcher</groundspeak:finder>
+          <groundspeak:text encoded="False">Bei schönstem Wetter auch diesen Cache gefunden. Von dem Cache aus hat man einen schönen Blick auf das kleine Dörfchen. TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="132874162">
+          <groundspeak:date>2010-10-24T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3665179">sema2505</groundspeak:finder>
+          <groundspeak:text encoded="False">sehr schöner cache, tolle aussicht 
+ganz schön herumgeirrt
+
+TFTC</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

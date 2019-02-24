@@ -1,0 +1,180 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>006410</id>
+  <cache-id>GCN7G3</cache-id>
+  <type>Traditional Cache</type>
+  <name>Mullaghcleevaun by Hezekiah, Traditional Cache (2/3.5)</name>
+  <size>Small</size>
+  <difficulty>2</difficulty>
+  <terrain>3.5</terrain>
+  <last-found>2009-08-23</last-found>
+  <placed>2005-03-25</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>Hezekiah</placedby>
+  <found>Geocache</found>
+  <lat>53.102933</lat>
+  <lon>-6.409483</lon>
+  <last-logs>FFM</last-logs>
+  <owner>Hezekiah</owner>
+  <description><p align="center"><a target="_blank" href=
+   "http://www.geocachingireland.com/index.html"><img border="0"
+   src="http://geocachingireland.com/logo4.jpg" width="328"
+     height="53" align="middle"></a></p></description>
+  <long-description>Mullaghcleevaun, at 849 m, is the second highest in Wicklow, with
+views to match! Given the mixture of terrain and the distance
+involved (From here, walking time is about 4 hours, climbing 450
+metres), map & compass, full wet gear, strong boots and gaiters
+are essential.
+<p>It is best approached from the Blessington side - take the N81
+to Blessington, turn left at the Downshire Arms Hotel in the town
+and head down towards the lake. Turn right onto the bridge and then
+right at the other end - head for Lacken. In Lacken village (one
+shop) fork left uphill to the car park at Ballynultagh Gap (GR
+044108 - Sheet 56).</p>
+<p>Head up the bog road to the top of Black Hill - the road peters
+out before the top, but keep going uphill!</p>
+<p>From the top of Black Hill head roughly South East down to the
+col - you will see the trail of others gone before. Head uphill
+from the col in the same direction to the top of Mullaghcleevaun,
+which is marked by a trig point. The cache is situated 100 paces
+South West of the trig point, wrapped in black plastic.</p>
+<p>Also near the summit is a plaque commemorating 3 An Oige members
+who perished at sea - this was their favourite spot, and its easy
+to see why, with commanding views over the surrounding mountains.
+There was also here, at one time, a sign-post for "Hart's
+High-level Route" commemorating the exploits of one Henry
+Chichester Hart, who walked with a companion from Trinity College
+in the centre of Dublin to Lugnaquilla, returning not by road but
+directly across Tonelagee and Mullaghcleevaun! This epic was 65
+miles long, done in 23 hours and 50 minutes, including 2 hours and
+5 minutes rest - over 100 years ago!</p>
+<p>The return journey is the exact reverse – take care no to aim
+too far to the North as it is very steep, followed by bog and
+forestry - aim too far West and it can be a long, boggy detour</p>
+<p>Contents of cache: Logbook, pencil & sharpener Pig Dinosaur
+Spinning top Reflective arm/leg band Fair Trade badge (e-mail for
+more info., if required!) Keyring</p></long-description>
+  <encoded-hints>250 paces WSW of trig point</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=d5e0e088-e140-4074-ad5e-402abf71d840</url>
+  <url-name>Mullaghcleevaun</url-name>
+  <logs><ul><li>2010-05-16T19:00:00Z : Found it by daraconn <br />The summit of Mullaghcleevaun is one of my favourite places - although higher than the surrounding hills, it is green and grassy, and fairly smooth and flat, quite different from the bog and heather you walk across to get there. I came from the east, over Mullaghcleevaun East Top from Carrigshouk. The view over the Blessington Lakes and the Kildare countryside is an excellent reward for all the hard work.
+
+We've enjoyed a reasonable dry spell, so most of the route was pleasantly bouncy underfoot instead of wet and mucky. Found the cache easily, thank you.</li><li>2010-04-19T19:00:00Z : Found it by Spark_ie <br />Found this one with 2 colleagues from work, skipped out early like teenagers from school [:D]  Fantastic views from the top, on this clear evening, terrain a bit boggy all the way, but nothing these goretex booties can't handle!  Co-ords spot on,  Dropped a GC, (Rated 4 stars with [url=http://www.gcvote.com]GCVote[/url]),  TFTC, Spark_ie</li><li>2009-12-07T20:51:28Z : Update Coordinates by Croaghan <br />** Coordinates Changed From **
+N 53° 06.198 W 006° 24.500
+Distance From Old: 285.3 feet
+Updating coordinates at owner's request.
+
+Many thanks,
+
+Niall
+
+Croaghan - Volunteer Reviewer for Geocaching.com (Ireland)</li><li>2009-12-05T20:00:00Z : Owner Maintenance by Hezekiah <br />Replaced the container in a new spot - N 53 06.176 W 006 24.569.</li><li>2009-08-23T16:47:12Z : Needs Maintenance by toczygroszek <br />This cache is known as missing more than 1 year. Is any chance to reactivate it?</li></ul></logs>
+  <original-xml>  <wpt  lat="53.102933" lon="-6.409483">
+    <time>2005-03-25T07:00:00Z</time>
+    <name>GCN7G3</name>
+    <desc>Mullaghcleevaun by Hezekiah, Traditional Cache (2/3.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=d5e0e088-e140-4074-ad5e-402abf71d840</url>
+    <urlname>Mullaghcleevaun</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="221717" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Mullaghcleevaun</groundspeak:name>
+      <groundspeak:placed_by>Hezekiah</groundspeak:placed_by>
+      <groundspeak:owner id="274644">Hezekiah</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>2</groundspeak:difficulty>
+      <groundspeak:terrain>3.5</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>
+      </groundspeak:state>
+      <groundspeak:short_description html="True">&lt;p align="center"&gt;&lt;a target="_blank" href=
+   "http://www.geocachingireland.com/index.html"&gt;&lt;img border="0"
+   src="http://geocachingireland.com/logo4.jpg" width="328"
+     height="53" align="middle"&gt;&lt;/a&gt;&lt;/p&gt;</groundspeak:short_description>
+      <groundspeak:long_description html="True">Mullaghcleevaun, at 849 m, is the second highest in Wicklow, with
+views to match! Given the mixture of terrain and the distance
+involved (From here, walking time is about 4 hours, climbing 450
+metres), map &amp;amp; compass, full wet gear, strong boots and gaiters
+are essential.
+&lt;p&gt;It is best approached from the Blessington side - take the N81
+to Blessington, turn left at the Downshire Arms Hotel in the town
+and head down towards the lake. Turn right onto the bridge and then
+right at the other end - head for Lacken. In Lacken village (one
+shop) fork left uphill to the car park at Ballynultagh Gap (GR
+044108 - Sheet 56).&lt;/p&gt;
+&lt;p&gt;Head up the bog road to the top of Black Hill - the road peters
+out before the top, but keep going uphill!&lt;/p&gt;
+&lt;p&gt;From the top of Black Hill head roughly South East down to the
+col - you will see the trail of others gone before. Head uphill
+from the col in the same direction to the top of Mullaghcleevaun,
+which is marked by a trig point. The cache is situated 100 paces
+South West of the trig point, wrapped in black plastic.&lt;/p&gt;
+&lt;p&gt;Also near the summit is a plaque commemorating 3 An Oige members
+who perished at sea - this was their favourite spot, and its easy
+to see why, with commanding views over the surrounding mountains.
+There was also here, at one time, a sign-post for "Hart's
+High-level Route" commemorating the exploits of one Henry
+Chichester Hart, who walked with a companion from Trinity College
+in the centre of Dublin to Lugnaquilla, returning not by road but
+directly across Tonelagee and Mullaghcleevaun! This epic was 65
+miles long, done in 23 hours and 50 minutes, including 2 hours and
+5 minutes rest - over 100 years ago!&lt;/p&gt;
+&lt;p&gt;The return journey is the exact reverse – take care no to aim
+too far to the North as it is very steep, followed by bog and
+forestry - aim too far West and it can be a long, boggy detour&lt;/p&gt;
+&lt;p&gt;Contents of cache: Logbook, pencil &amp;amp; sharpener Pig Dinosaur
+Spinning top Reflective arm/leg band Fair Trade badge (e-mail for
+more info., if required!) Keyring&lt;/p&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>250 paces WSW of trig point</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="108822373">
+          <groundspeak:date>2010-05-16T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="591662">daraconn</groundspeak:finder>
+          <groundspeak:text encoded="False">The summit of Mullaghcleevaun is one of my favourite places - although higher than the surrounding hills, it is green and grassy, and fairly smooth and flat, quite different from the bog and heather you walk across to get there. I came from the east, over Mullaghcleevaun East Top from Carrigshouk. The view over the Blessington Lakes and the Kildare countryside is an excellent reward for all the hard work.
+
+We've enjoyed a reasonable dry spell, so most of the route was pleasantly bouncy underfoot instead of wet and mucky. Found the cache easily, thank you.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="104987145">
+          <groundspeak:date>2010-04-19T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="950104">Spark_ie</groundspeak:finder>
+          <groundspeak:text encoded="False">Found this one with 2 colleagues from work, skipped out early like teenagers from school [:D]  Fantastic views from the top, on this clear evening, terrain a bit boggy all the way, but nothing these goretex booties can't handle!  Co-ords spot on,  Dropped a GC, (Rated 4 stars with [url=http://www.gcvote.com]GCVote[/url]),  TFTC, Spark_ie</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="92464280">
+          <groundspeak:date>2009-12-07T20:51:28Z</groundspeak:date>
+          <groundspeak:type>Update Coordinates</groundspeak:type>
+          <groundspeak:finder id="1256091">Croaghan</groundspeak:finder>
+          <groundspeak:text encoded="False">** Coordinates Changed From **
+N 53° 06.198 W 006° 24.500
+Distance From Old: 285.3 feet
+Updating coordinates at owner's request.
+
+Many thanks,
+
+Niall
+
+Croaghan - Volunteer Reviewer for Geocaching.com (Ireland)</groundspeak:text>
+          <groundspeak:log_wpt lat="53.102933" lon="-6.409483" />
+        </groundspeak:log>
+        <groundspeak:log id="92430566">
+          <groundspeak:date>2009-12-05T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Owner Maintenance</groundspeak:type>
+          <groundspeak:finder id="274644">Hezekiah</groundspeak:finder>
+          <groundspeak:text encoded="False">Replaced the container in a new spot - N 53 06.176 W 006 24.569.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="81753395">
+          <groundspeak:date>2009-08-23T16:47:12Z</groundspeak:date>
+          <groundspeak:type>Needs Maintenance</groundspeak:type>
+          <groundspeak:finder id="1429023">toczygroszek</groundspeak:finder>
+          <groundspeak:text encoded="False">This cache is known as missing more than 1 year. Is any chance to reactivate it?</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

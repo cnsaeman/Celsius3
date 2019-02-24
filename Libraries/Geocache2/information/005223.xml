@@ -1,0 +1,148 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>005223</id>
+  <cache-id>GC13Y4W</cache-id>
+  <type>Traditional Cache</type>
+  <name>Rathfeigh by Windsockers, Traditional Cache (1/1.5)</name>
+  <size>Micro</size>
+  <difficulty>1</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2008-08-02</last-found>
+  <placed>2007-07-01</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>Windsockers</placedby>
+  <found>Geocache Found</found>
+  <lat>53.59125</lat>
+  <lon>-6.488383</lon>
+  <last-logs>FFFFFF</last-logs>
+  <owner>Windsockers</owner>
+  <description>
+      </description>
+  <long-description><p><b>Rathfeigh Church</b></p>
+<p>was founded in the early 1600’s very little remains of it
+today</p>
+<p>There is a large Motte close to the church it measure’s about
+four meters in height and forty-five meters in diameter you’ll see
+it just as you turn of the main road to the cache.</p>
+<p>The new church which was built nearby was host to the Wedding of
+ex Atomic Kitten star Kerry Katona who wed ex Westlife star Bryan
+McFadden</p>
+<p><b>The Cache</b></p>
+<p>The cache is a micro<br />
+Please rehide it with care as this place is very popular with
+Muggles.</p>
+<center>
+<img src="http://www.northbeach.ie/gallery/albums/userpics/10001/windsock-anim-small.gif" />
+<br />
+<b>The Windsockers</b></center></long-description>
+  <encoded-hints>End of building</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=62cee060-e6df-45e0-be6b-3a9d0be999c9</url>
+  <url-name>Rathfeigh</url-name>
+  <logs><ul><li>2010-05-30T19:00:00Z : Found it by Numira <br />A quick cache on our way to dublin Airport. Nice place!
+
+Thanks for the cache!
+Greetings from the Czech republic!</li><li>2010-05-23T19:00:00Z : Found it by woodface <br />First cache find and nice and easy - you'd swear we'd found pirate treasure by son's face! Log had been damp but all is dry and in good repair for our visit. TFTC</li><li>2010-04-08T19:00:00Z : Found it by Pitri & Benns <br />We found this cache during our two-week tour around Ireland. Without all these caches we would not have seen many of the nice places we have been! Thanks a million
+
+Pitri & Benns from Germany
+
+We sadly had to discover that ca each second cache has been wet sometimes with the log mouldy. Please check by your cache as soon as possible to change the log!
+</li><li>2010-04-01T19:00:00Z : Found it by roybrindley <br />Fantastic little cache. Thanks</li><li>2010-02-28T20:00:00Z : Found it by Mullingar Man <br />found easily TFTC!!!!</li><li>2008-08-02T19:00:00Z : Found it by Kersti.com <br />Find #181
+
+Since we were nearby we decided to have a go at this one. After a few minutes Juli came up trumps again - she's rather good at this! 
+
+Found with Christian, Juli and Flo (who are visiting from Germany) - TFTC</li></ul></logs>
+  <original-xml>  <wpt  lat="53.59125" lon="-6.488383">
+    <time>2007-07-01T07:00:00Z</time>
+    <name>GC13Y4W</name>
+    <desc>Rathfeigh by Windsockers, Traditional Cache (1/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=62cee060-e6df-45e0-be6b-3a9d0be999c9</url>
+    <urlname>Rathfeigh</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="629794" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Rathfeigh</groundspeak:name>
+      <groundspeak:placed_by>Windsockers</groundspeak:placed_by>
+      <groundspeak:owner id="271623">Windsockers</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>Leinster</groundspeak:state>
+      <groundspeak:short_description html="True">
+      </groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;p&gt;&lt;b&gt;Rathfeigh Church&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;was founded in the early 1600’s very little remains of it
+today&lt;/p&gt;
+&lt;p&gt;There is a large Motte close to the church it measure’s about
+four meters in height and forty-five meters in diameter you’ll see
+it just as you turn of the main road to the cache.&lt;/p&gt;
+&lt;p&gt;The new church which was built nearby was host to the Wedding of
+ex Atomic Kitten star Kerry Katona who wed ex Westlife star Bryan
+McFadden&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;The Cache&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;The cache is a micro&lt;br /&gt;
+Please rehide it with care as this place is very popular with
+Muggles.&lt;/p&gt;
+&lt;center&gt;
+&lt;img src="http://www.northbeach.ie/gallery/albums/userpics/10001/windsock-anim-small.gif" /&gt;
+&lt;br /&gt;
+&lt;b&gt;The Windsockers&lt;/b&gt;&lt;/center&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>End of building</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="110999383">
+          <groundspeak:date>2010-05-30T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="610776">Numira</groundspeak:finder>
+          <groundspeak:text encoded="False">A quick cache on our way to dublin Airport. Nice place!
+
+Thanks for the cache!
+Greetings from the Czech republic!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="110092870">
+          <groundspeak:date>2010-05-23T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2785988">woodface</groundspeak:finder>
+          <groundspeak:text encoded="False">First cache find and nice and easy - you'd swear we'd found pirate treasure by son's face! Log had been damp but all is dry and in good repair for our visit. TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="106087583">
+          <groundspeak:date>2010-04-08T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1026854">Pitri &amp; Benns</groundspeak:finder>
+          <groundspeak:text encoded="True">We found this cache during our two-week tour around Ireland. Without all these caches we would not have seen many of the nice places we have been! Thanks a million
+
+Pitri &amp; Benns from Germany
+
+We sadly had to discover that ca each second cache has been wet sometimes with the log mouldy. Please check by your cache as soon as possible to change the log!
+</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="102736897">
+          <groundspeak:date>2010-04-01T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3097917">roybrindley</groundspeak:finder>
+          <groundspeak:text encoded="False">Fantastic little cache. Thanks</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="98517242">
+          <groundspeak:date>2010-02-28T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2717815">Mullingar Man</groundspeak:finder>
+          <groundspeak:text encoded="False">found easily TFTC!!!!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="49790769">
+          <groundspeak:date>2008-08-02T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="320206">Kersti.com</groundspeak:finder>
+          <groundspeak:text encoded="False">Find #181
+
+Since we were nearby we decided to have a go at this one. After a few minutes Juli came up trumps again - she's rather good at this! 
+
+Found with Christian, Juli and Flo (who are visiting from Germany) - TFTC</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

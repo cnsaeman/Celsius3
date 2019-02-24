@@ -1,0 +1,138 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>008596</id>
+  <cache-id>GC29XKM</cache-id>
+  <type>Multi-cache</type>
+  <name>Rund um Neuhof 4 by capitanok9, Multi-cache (2.5/1.5)</name>
+  <size>Micro</size>
+  <difficulty>2.5</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-08-28</last-found>
+  <placed>2010-06-07</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>capitanok9</placedby>
+  <found>Geocache</found>
+  <lat>50.492167</lat>
+  <lon>9.588817</lon>
+  <last-logs>FWFFF</last-logs>
+  <owner>capitanok9</owner>
+  <description>Es handelt sich um einen kleinen Multi mit 2 Stationen.
+Es ist kein Rundweg, ihr müßt wieder zum Ausgangspunkt zurück.
+Alle Wege sind mit dem Fahrrad befahrbar, Autos müssen draussen bleiben. 
+Bitte Stift zum Eintragen mitnehmen.
+Bitte den Cache wieder sehr sorgfältig verstecken!!!</description>
+  <long-description>Parken könnt ihr am Parkplatz Thomasruh bei den angegebenen Koordinaten. Und nun muß etwas gerechnet werden:
+Auf der Karte ist die Königsbuche erwähnt. Bei wieviel HM befindet sich diese? Addiert 151 zu dieser Zahl und ihr erhaltet A.
+Wie hoch ist das Henneköpfchen? Addiert zu dieser Zahl 242 hinzu und ihr erhaltet B.
+Die nächste Station befindet sich bei N 50 29.A und E 009.33.B.
+Hier kam im Jahr ???? ein Förster ums Leben. Subtrahiert von der Jahreszahl die Zahl 954 und ihr erhaltet C. ( die 2. Zahl ist eine 9 )
+Der Cache liegt bei N 50 29.178 und E 009.33.C
+
+Parken könnt Ihr auch am Parkplatz Sieberzheiligen N 50 30.267 
+E 009 32.739. Von hier ist der Weg hin und zurück ca. 2 km länger
+
+Additional Waypoints
+</long-description>
+  <encoded-hints>ca. 30 Schritte in den Wald nach Süd
+nicht unten am Baumstamm</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=890f6524-9835-4059-9b16-ed6a9b399097</url>
+  <url-name>Rund um Neuhof 4</url-name>
+  <logs><ul><li>2010-10-22T19:00:00Z : Found it by Helup <br />Mit dem MTB on Tour.Cache gut und schnell gefunden!
+
+Gruß und Danke Team Helup</li><li>2010-10-12T19:00:00Z : Write note by HubiFD <br />Coin nachgeloggt.
+
+Gruß Hubi</li><li>2010-10-12T19:00:00Z : Found it by Maluma <br />Zusammen mit HubiFD im zweiten Anlauf gefunden..eigentlich sollte der Cache "Ich lauf mir den Wolf" oder "Planlos ausgelegt" heißen. Das würde hier besser passen
+
+TFTKILOMETERS
+MALUMA</li><li>2010-10-12T19:00:00Z : Found it by HubiFD <br />Aufgrund der langen Wege erfolgte heute zusammen mit Maluma der zweite Anlauf um diesen Multi fertig zu machen.
+Wie die Vorlogger schon schrieben wäre es schöner gewesen 3 Tradis daraus zu machen wenn es schon kein Rundweg wird.
+Naja nun ist es ja geschafft. TFTC Gruß Hubi</li><li>2010-08-28T19:00:00Z : Found it by digger09 <br />beim 2. Anlauf gefunden
+
+dfdc</li></ul></logs>
+  <original-xml>  <wpt  lat="50.492167" lon="9.588817">
+    <time>2010-06-07T07:00:00Z</time>
+    <name>GC29XKM</name>
+    <desc>Rund um Neuhof 4 by capitanok9, Multi-cache (2.5/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=890f6524-9835-4059-9b16-ed6a9b399097</url>
+    <urlname>Rund um Neuhof 4</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Multi-cache</type>
+    <groundspeak:cache id="1731558" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Rund um Neuhof 4</groundspeak:name>
+      <groundspeak:placed_by>capitanok9</groundspeak:placed_by>
+      <groundspeak:owner id="3123857">capitanok9</groundspeak:owner>
+      <groundspeak:type>Multi-cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>2.5</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">Es handelt sich um einen kleinen Multi mit 2 Stationen.
+Es ist kein Rundweg, ihr müßt wieder zum Ausgangspunkt zurück.
+Alle Wege sind mit dem Fahrrad befahrbar, Autos müssen draussen bleiben. 
+Bitte Stift zum Eintragen mitnehmen.
+Bitte den Cache wieder sehr sorgfältig verstecken!!!</groundspeak:short_description>
+      <groundspeak:long_description html="False">Parken könnt ihr am Parkplatz Thomasruh bei den angegebenen Koordinaten. Und nun muß etwas gerechnet werden:
+Auf der Karte ist die Königsbuche erwähnt. Bei wieviel HM befindet sich diese? Addiert 151 zu dieser Zahl und ihr erhaltet A.
+Wie hoch ist das Henneköpfchen? Addiert zu dieser Zahl 242 hinzu und ihr erhaltet B.
+Die nächste Station befindet sich bei N 50 29.A und E 009.33.B.
+Hier kam im Jahr ???? ein Förster ums Leben. Subtrahiert von der Jahreszahl die Zahl 954 und ihr erhaltet C. ( die 2. Zahl ist eine 9 )
+Der Cache liegt bei N 50 29.178 und E 009.33.C
+
+Parken könnt Ihr auch am Parkplatz Sieberzheiligen N 50 30.267 
+E 009 32.739. Von hier ist der Weg hin und zurück ca. 2 km länger
+
+Additional Waypoints
+</groundspeak:long_description>
+      <groundspeak:encoded_hints>ca. 30 Schritte in den Wald nach Süd
+nicht unten am Baumstamm</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="132519083">
+          <groundspeak:date>2010-10-22T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2254555">Helup</groundspeak:finder>
+          <groundspeak:text encoded="False">Mit dem MTB on Tour.Cache gut und schnell gefunden!
+
+Gruß und Danke Team Helup</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="133431141">
+          <groundspeak:date>2010-10-12T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Write note</groundspeak:type>
+          <groundspeak:finder id="2729325">HubiFD</groundspeak:finder>
+          <groundspeak:text encoded="False">Coin nachgeloggt.
+
+Gruß Hubi</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="131198191">
+          <groundspeak:date>2010-10-12T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1380311">Maluma</groundspeak:finder>
+          <groundspeak:text encoded="False">Zusammen mit HubiFD im zweiten Anlauf gefunden..eigentlich sollte der Cache "Ich lauf mir den Wolf" oder "Planlos ausgelegt" heißen. Das würde hier besser passen
+
+TFTKILOMETERS
+MALUMA</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="131085996">
+          <groundspeak:date>2010-10-12T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2729325">HubiFD</groundspeak:finder>
+          <groundspeak:text encoded="False">Aufgrund der langen Wege erfolgte heute zusammen mit Maluma der zweite Anlauf um diesen Multi fertig zu machen.
+Wie die Vorlogger schon schrieben wäre es schöner gewesen 3 Tradis daraus zu machen wenn es schon kein Rundweg wird.
+Naja nun ist es ja geschafft. TFTC Gruß Hubi</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="124441796">
+          <groundspeak:date>2010-08-28T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3042502">digger09</groundspeak:finder>
+          <groundspeak:text encoded="False">beim 2. Anlauf gefunden
+
+dfdc</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

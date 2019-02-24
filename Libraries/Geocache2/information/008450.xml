@@ -1,0 +1,145 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>008450</id>
+  <cache-id>GC1N78G</cache-id>
+  <type>Traditional Cache</type>
+  <name>Walkinstown Park Cache by Justy Dawson, Traditional Cache (2/2)</name>
+  <size>Small</size>
+  <difficulty>2</difficulty>
+  <terrain>2</terrain>
+  <last-found>2009-05-24</last-found>
+  <placed>2009-03-01</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>Justy Dawson</placedby>
+  <found>Geocache Found</found>
+  <lat>53.321533</lat>
+  <lon>-6.3418</lon>
+  <last-logs>EDXMF</last-logs>
+  <owner>justydawson</owner>
+  <description>A very easy walk for all ages in an urban park in Walkinstown</description>
+  <long-description>Cache number 3 of Justy Dawson. This is a small container hidden in a park that when I visited was completly deserted. 
+
+Its the last place you would suspect a park to be located. Easy to access and plenty of parking beside Lidl opposite.
+
+The park has a revolving gate, so open at all hours. 
+
+The cache is a small amo box, contains a rolled up log book and geocoins/travel bugs
+
+Please place back and hide where this is hidden. Watch for muggles.</long-description>
+  <encoded-hints>Too easy for a hint.</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=a08c86cb-f2b9-469b-8ff3-a7c3db787796</url>
+  <url-name>Walkinstown Park Cache</url-name>
+  <logs><ul><li>2010-05-18T16:28:00Z : Enable Listing by justydawson <br />This cache is now in a new location.
+
+Re-enabled (should have done this a week or so ago!)
+
+This is a new container which is well hidden!</li><li>2010-03-17T21:11:51Z : Update Coordinates by Croaghan <br />** Coordinates Changed From **
+N 53° 19.186 W 006° 20.587
+Distance From Old: 705.3 feet or 215 meters
+Updating coordinates at owner's request.
+
+Many thanks,
+
+Niall
+
+Croaghan - Volunteer Reviewer for Geocaching.com (Ireland)</li><li>2010-02-07T15:03:51Z : Temporarily Disable Listing by justydawson <br />Sorry guys and gals
+
+I went down to walkinstown park and it looks like this urban cache has been muggled by someone.
+
+If there is a demand for this cache I will replace it is an awkward location to set up a cache without it being seen or muggled
+</li><li>2010-02-03T20:00:00Z : Didn't find it by Serapis <br />This was on my handheld for a while so I didn't have all the DNF records and obviously I wouldn't have went looking for it. As it turns out I didn't find it but I didn't spent too long looking for it as I was in my work attire and had to attend a meeting afterwards. The park was deserted at lunchtime. Hopr it is back up soon.
+Serapis.</li><li>2010-01-28T20:00:00Z : Owner Maintenance by justydawson <br />Will check to make sure cache is still there this weekend</li><li>2009-05-24T19:00:00Z : Found it by Kersti.com <br />Possibly the only glorious summers day of the year so naturally we were out on the bikes and off to do some caching. This park was a great spot to sit and soak up a little sun. Cache easily found.</li></ul></logs>
+  <original-xml>  <wpt  lat="53.321533" lon="-6.3418">
+    <time>2009-03-01T08:00:00Z</time>
+    <name>GC1N78G</name>
+    <desc>Walkinstown Park Cache by Justy Dawson, Traditional Cache (2/2)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=a08c86cb-f2b9-469b-8ff3-a7c3db787796</url>
+    <urlname>Walkinstown Park Cache</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1145003" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Walkinstown Park Cache</groundspeak:name>
+      <groundspeak:placed_by>Justy Dawson</groundspeak:placed_by>
+      <groundspeak:owner id="1155227">justydawson</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>2</groundspeak:difficulty>
+      <groundspeak:terrain>2</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>Dublin</groundspeak:state>
+      <groundspeak:short_description html="False">A very easy walk for all ages in an urban park in Walkinstown</groundspeak:short_description>
+      <groundspeak:long_description html="False">Cache number 3 of Justy Dawson. This is a small container hidden in a park that when I visited was completly deserted. 
+
+Its the last place you would suspect a park to be located. Easy to access and plenty of parking beside Lidl opposite.
+
+The park has a revolving gate, so open at all hours. 
+
+The cache is a small amo box, contains a rolled up log book and geocoins/travel bugs
+
+Please place back and hide where this is hidden. Watch for muggles.</groundspeak:long_description>
+      <groundspeak:encoded_hints>Too easy for a hint.</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="109075339">
+          <groundspeak:date>2010-05-18T16:28:00Z</groundspeak:date>
+          <groundspeak:type>Enable Listing</groundspeak:type>
+          <groundspeak:finder id="1155227">justydawson</groundspeak:finder>
+          <groundspeak:text encoded="False">This cache is now in a new location.
+
+Re-enabled (should have done this a week or so ago!)
+
+This is a new container which is well hidden!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="100079403">
+          <groundspeak:date>2010-03-17T21:11:51Z</groundspeak:date>
+          <groundspeak:type>Update Coordinates</groundspeak:type>
+          <groundspeak:finder id="1256091">Croaghan</groundspeak:finder>
+          <groundspeak:text encoded="False">** Coordinates Changed From **
+N 53° 19.186 W 006° 20.587
+Distance From Old: 705.3 feet or 215 meters
+Updating coordinates at owner's request.
+
+Many thanks,
+
+Niall
+
+Croaghan - Volunteer Reviewer for Geocaching.com (Ireland)</groundspeak:text>
+          <groundspeak:log_wpt lat="53.321533" lon="-6.3418" />
+        </groundspeak:log>
+        <groundspeak:log id="96809735">
+          <groundspeak:date>2010-02-07T15:03:51Z</groundspeak:date>
+          <groundspeak:type>Temporarily Disable Listing</groundspeak:type>
+          <groundspeak:finder id="1155227">justydawson</groundspeak:finder>
+          <groundspeak:text encoded="False">Sorry guys and gals
+
+I went down to walkinstown park and it looks like this urban cache has been muggled by someone.
+
+If there is a demand for this cache I will replace it is an awkward location to set up a cache without it being seen or muggled
+</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="96650477">
+          <groundspeak:date>2010-02-03T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Didn't find it</groundspeak:type>
+          <groundspeak:finder id="1019524">Serapis</groundspeak:finder>
+          <groundspeak:text encoded="False">This was on my handheld for a while so I didn't have all the DNF records and obviously I wouldn't have went looking for it. As it turns out I didn't find it but I didn't spent too long looking for it as I was in my work attire and had to attend a meeting afterwards. The park was deserted at lunchtime. Hopr it is back up soon.
+Serapis.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="96171964">
+          <groundspeak:date>2010-01-28T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Owner Maintenance</groundspeak:type>
+          <groundspeak:finder id="1155227">justydawson</groundspeak:finder>
+          <groundspeak:text encoded="False">Will check to make sure cache is still there this weekend</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="71847828">
+          <groundspeak:date>2009-05-24T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="320206">Kersti.com</groundspeak:finder>
+          <groundspeak:text encoded="False">Possibly the only glorious summers day of the year so naturally we were out on the bikes and off to do some caching. This park was a great spot to sit and soak up a little sun. Cache easily found.</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

@@ -1,0 +1,147 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>004656</id>
+  <cache-id>GCMMC1</cache-id>
+  <type>Traditional Cache</type>
+  <name>Steinbruch Waidmannsruh by webfraggle, Traditional Cache (2/2)</name>
+  <size>Regular</size>
+  <difficulty>2</difficulty>
+  <terrain>2</terrain>
+  <last-found>2010-10-17</last-found>
+  <placed>2005-01-29</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>webfraggle</placedby>
+  <found>Geocache</found>
+  <lat>50.510483</lat>
+  <lon>9.741983</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>webfraggle</owner>
+  <description>
+      </description>
+  <long-description>Hier waren wir viel mit dem Hund spazieren und dachten uns, dass
+hier noch ein Cache fehlt.<br />
+<br />
+ Achtung!: Der Cache ist auch ohne Klettern zu erreichen. Wir
+wollen ja nicht, dass ihr euch die Beine brecht. <br />
+<br />
+Many times we walked the dog here and thought that there a cache is
+missing. <br />
+<br />
+Attention!: You can reach the cache without climbing. We don't want
+that you break your legs. <br />
+<br />
+<font color="red">Da scheinbar viele Cacher sehr faul sind, noch
+mal ein Hinweis!<br />
+ Ich möchte euch wirklich bitten,</font> 
+<h1><font color="red">NICHT zum Cache zu klettern.</font></h1>
+<br />
+Es ist, auch weil es dort oft feucht ist und viel Laub umherliegt,
+sehr gefährlich.</long-description>
+  <encoded-hints>Unter einem großen Stein.
+Under a big stone</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=8fe3be06-fe54-4cc2-abcf-d86aeb284115</url>
+  <url-name>Steinbruch Waidmannsruh</url-name>
+  <logs><ul><li>2010-11-14T20:00:00Z : Found it by Fuldaer-Caching-Duo <br />Bei wunderschönem Herbstwetter schnell gefunden!
+TFTC
+Grüße vom Fuldaer-Caching-Duo</li><li>2010-11-13T20:00:00Z : Found it by derstresser <br />Nette Stelle - Tüte müsste erneuert werden...
+
+...und: Leute, geht nen paar Meter mehr, besonders wenn's nass is, bei uns wars knapp =)</li><li>2010-10-25T06:10:47Z : Found it by Clowns 4ever <br />Supi bei schönem Wetter;-)
+
+Die Clowns 4ever</li><li>2010-10-20T19:00:00Z : Found it by woodi65 <br />Trotz Regen und Nebel gut gefunden. 
+Auch bei dem Wetter sehr eindrucksvoller Platz.
+TFTC</li><li>2010-10-17T19:00:00Z : Found it by rhoenhexe <br />Schönes Versteck, haben es auf direktem Weg ohne Klettern gefunden, sehr schön durch den Herbstwald.</li></ul></logs>
+  <original-xml>  <wpt  lat="50.510483" lon="9.741983">
+    <time>2005-01-29T08:00:00Z</time>
+    <name>GCMMC1</name>
+    <desc>Steinbruch Waidmannsruh by webfraggle, Traditional Cache (2/2)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=8fe3be06-fe54-4cc2-abcf-d86aeb284115</url>
+    <urlname>Steinbruch Waidmannsruh</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="204293" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Steinbruch Waidmannsruh</groundspeak:name>
+      <groundspeak:placed_by>webfraggle</groundspeak:placed_by>
+      <groundspeak:owner id="199604">webfraggle</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Regular</groundspeak:container>
+      <groundspeak:difficulty>2</groundspeak:difficulty>
+      <groundspeak:terrain>2</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="True">
+      </groundspeak:short_description>
+      <groundspeak:long_description html="True">Hier waren wir viel mit dem Hund spazieren und dachten uns, dass
+hier noch ein Cache fehlt.&lt;br /&gt;
+&lt;br /&gt;
+ Achtung!: Der Cache ist auch ohne Klettern zu erreichen. Wir
+wollen ja nicht, dass ihr euch die Beine brecht. &lt;br /&gt;
+&lt;br /&gt;
+Many times we walked the dog here and thought that there a cache is
+missing. &lt;br /&gt;
+&lt;br /&gt;
+Attention!: You can reach the cache without climbing. We don't want
+that you break your legs. &lt;br /&gt;
+&lt;br /&gt;
+&lt;font color="red"&gt;Da scheinbar viele Cacher sehr faul sind, noch
+mal ein Hinweis!&lt;br /&gt;
+ Ich möchte euch wirklich bitten,&lt;/font&gt; 
+&lt;h1&gt;&lt;font color="red"&gt;NICHT zum Cache zu klettern.&lt;/font&gt;&lt;/h1&gt;
+&lt;br /&gt;
+Es ist, auch weil es dort oft feucht ist und viel Laub umherliegt,
+sehr gefährlich.</groundspeak:long_description>
+      <groundspeak:encoded_hints>Unter einem großen Stein.
+Under a big stone</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="135760416">
+          <groundspeak:date>2010-11-14T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3449706">Fuldaer-Caching-Duo</groundspeak:finder>
+          <groundspeak:text encoded="False">Bei wunderschönem Herbstwetter schnell gefunden!
+TFTC
+Grüße vom Fuldaer-Caching-Duo</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="135604664">
+          <groundspeak:date>2010-11-13T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3408062">derstresser</groundspeak:finder>
+          <groundspeak:text encoded="False">Nette Stelle - Tüte müsste erneuert werden...
+
+...und: Leute, geht nen paar Meter mehr, besonders wenn's nass is, bei uns wars knapp =)</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="132967479">
+          <groundspeak:date>2010-10-25T06:10:47Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3918255">Clowns 4ever</groundspeak:finder>
+          <groundspeak:text encoded="False">Supi bei schönem Wetter;-)
+
+Die Clowns 4ever</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="132284620">
+          <groundspeak:date>2010-10-20T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3620737">woodi65</groundspeak:finder>
+          <groundspeak:text encoded="False">Trotz Regen und Nebel gut gefunden. 
+Auch bei dem Wetter sehr eindrucksvoller Platz.
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="131832223">
+          <groundspeak:date>2010-10-17T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3851866">rhoenhexe</groundspeak:finder>
+          <groundspeak:text encoded="False">Schönes Versteck, haben es auf direktem Weg ohne Klettern gefunden, sehr schön durch den Herbstwald.</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs>
+        <groundspeak:travelbug id="795392" ref="TB19FEQ">
+          <groundspeak:name>Goleo</groundspeak:name>
+        </groundspeak:travelbug>
+        <groundspeak:travelbug id="855432" ref="TB1BFYG">
+          <groundspeak:name>"Annemasse, France" Unite for Diabetes Travel Bug</groundspeak:name>
+        </groundspeak:travelbug>
+      </groundspeak:travelbugs>
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

@@ -1,0 +1,176 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>003303</id>
+  <cache-id>GC1MRQY</cache-id>
+  <type>Multi-cache</type>
+  <name>Fuldaer Literatur Cache 1 -- Goethe in Fulda by balalaika, Multi-cache (1/1.5)</name>
+  <size>Micro</size>
+  <difficulty>1</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-10-31</last-found>
+  <placed>2009-02-16</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>balalaika</placedby>
+  <found>Geocache</found>
+  <lat>50.552533</lat>
+  <lon>9.6715</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>balalaika</owner>
+  <description>
+      </description>
+  <long-description>Goethe war auf seinen Reisen mehrfach Gast in Fulda. Erstmals war er 1756 als 16jähriger in Fulda zu Gast. Er musste auch diese Straße entlang kommen.
+
+Stage 1
+N 50° 33.322 
+E 009° 40.386
+
+Wie die meisten Reisenden in der damaligen Zeit, die aus dem Norden und dem Osten nach Fulda kamen, betrat er die Stadt durch dieses Tor. Zu Goethes Zeit stand das Tor allerdings zwischen Hauptwache und Stadtschloss.
+
+An der Tafel am Tor findest du weitere wissenswerte Angaben zum Bauwerk. Notiere die Station des Audioguides (A). Wann wurde das Tor an die heutige Stelle versetzt? Notiere die beiden mittleren Ziffern (B, C).
+
+Stage 2
+N 50° 33.2(BB+4) 
+E 009° 40.34(C-6)
+
+Schon bei seinem ersten Besuch war er von der ältesten Grabkirche Deutschlands stark beeindruckt. Nach ihrer Erbauung wurde sie dem Erzengel Michael geweiht.
+
+Wann wurde die Kirche geweiht (D)?
+D - 613= E 
+
+
+Stage 3
+N 50° 33.E 
+E 009° 40.50B
+
+Auch das Stadtschloss gefiel dem Dichter immer wieder. Es wurde Anfang des 18. Jh. in seiner heutigen Form vollendet. Schon Anfang des 14. Jh. stand an seiner Stelle ein Schloss, die Abtsburg. Sie wurde dann im Laufe der Jahrhunderte immer mehr zu einer Schlossanlage ausgebaut.
+Wann wurde die Abtsburg erstmals erwähnt (F)? 
+
+
+Final
+N 50° 32.D+52 
+E 009° 40.F - 834 
+
+Das heute unscheinbar wirkende Haus beherbergte zu Goethes Zeiten den Gasthof „Zum Schwan“. Wenn das Hoftor offen steht, kann man noch heute die Stallungen sehen. Hier übernachtete Goethe insgesamt neunmal. Bei seinen Aufenthalten in Fulda vollendete er hier mehrere Gedichte.
+
+Achtung: Mugglegefahr!
+
+Additional Waypoints
+</long-description>
+  <encoded-hints>Heute halten hier die Fuhrwerke der Neuzeit.</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=c9edb4ad-5cce-4117-9da3-b12ebd56d006</url>
+  <url-name>Fuldaer Literatur Cache 1 -- Goethe in Fulda</url-name>
+  <logs><ul><li>2010-12-26T20:00:00Z : Found it by canadianfriend75 <br />Eine schöne kleine Runde in der alten Heimat. Danke für's Zeigen. Die Dose war schnell gefunden, am Feiertag war hier nichts los [:)]. TFTC</li><li>2010-12-15T20:00:00Z : Found it by woodi65 <br />Da ich die Stages schon vor längerer Zeit gelöst hatte, ging ich nun heute trotz eisigen Wetters den Final an.
+Und da es noch früh am Morgen war, konnte ich ihn auch Muggelfrei bergen.
+TFTC
+woodi65</li><li>2010-11-24T20:00:00Z : Found it by yonex <br />Eine nette Runde durch Fulda, auch wenn der Goethebezug doch sehr vage blieb. Am Final gerade mit der Suche angefangen als mich ein Monteur aus Dortmund zuquatschte. Irgendwann bin ich ihn dann aber doch losgeworden und konnte endlich loggen.
+
+TFTC
+
+This entry was edited by yonex on Friday, 26 November 2010 at 08:37:52.</li><li>2010-10-31T19:00:00Z : Found it by puma5 <br />Da kannten wir doch diesen Ort schon, und hatten gar nicht bemerkt was sich hier so alles verstecken kann!</li><li>2010-10-31T19:00:00Z : Found it by DieMoosis <br />Wir waren ja schon immer alte Goethe-Fans, also war dieser ein Muss. 
+TFTC</li></ul></logs>
+  <original-xml>  <wpt  lat="50.552533" lon="9.6715">
+    <time>2009-02-16T08:00:00Z</time>
+    <name>GC1MRQY</name>
+    <desc>Fuldaer Literatur Cache 1 -- Goethe in Fulda by balalaika, Multi-cache (1/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=c9edb4ad-5cce-4117-9da3-b12ebd56d006</url>
+    <urlname>Fuldaer Literatur Cache 1 -- Goethe in Fulda</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Multi-cache</type>
+    <groundspeak:cache id="1132027" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Fuldaer Literatur Cache 1 -- Goethe in Fulda</groundspeak:name>
+      <groundspeak:placed_by>balalaika</groundspeak:placed_by>
+      <groundspeak:owner id="1414299">balalaika</groundspeak:owner>
+      <groundspeak:type>Multi-cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">
+      </groundspeak:short_description>
+      <groundspeak:long_description html="False">Goethe war auf seinen Reisen mehrfach Gast in Fulda. Erstmals war er 1756 als 16jähriger in Fulda zu Gast. Er musste auch diese Straße entlang kommen.
+
+Stage 1
+N 50° 33.322 
+E 009° 40.386
+
+Wie die meisten Reisenden in der damaligen Zeit, die aus dem Norden und dem Osten nach Fulda kamen, betrat er die Stadt durch dieses Tor. Zu Goethes Zeit stand das Tor allerdings zwischen Hauptwache und Stadtschloss.
+
+An der Tafel am Tor findest du weitere wissenswerte Angaben zum Bauwerk. Notiere die Station des Audioguides (A). Wann wurde das Tor an die heutige Stelle versetzt? Notiere die beiden mittleren Ziffern (B, C).
+
+Stage 2
+N 50° 33.2(BB+4) 
+E 009° 40.34(C-6)
+
+Schon bei seinem ersten Besuch war er von der ältesten Grabkirche Deutschlands stark beeindruckt. Nach ihrer Erbauung wurde sie dem Erzengel Michael geweiht.
+
+Wann wurde die Kirche geweiht (D)?
+D - 613= E 
+
+
+Stage 3
+N 50° 33.E 
+E 009° 40.50B
+
+Auch das Stadtschloss gefiel dem Dichter immer wieder. Es wurde Anfang des 18. Jh. in seiner heutigen Form vollendet. Schon Anfang des 14. Jh. stand an seiner Stelle ein Schloss, die Abtsburg. Sie wurde dann im Laufe der Jahrhunderte immer mehr zu einer Schlossanlage ausgebaut.
+Wann wurde die Abtsburg erstmals erwähnt (F)? 
+
+
+Final
+N 50° 32.D+52 
+E 009° 40.F - 834 
+
+Das heute unscheinbar wirkende Haus beherbergte zu Goethes Zeiten den Gasthof „Zum Schwan“. Wenn das Hoftor offen steht, kann man noch heute die Stallungen sehen. Hier übernachtete Goethe insgesamt neunmal. Bei seinen Aufenthalten in Fulda vollendete er hier mehrere Gedichte.
+
+Achtung: Mugglegefahr!
+
+Additional Waypoints
+</groundspeak:long_description>
+      <groundspeak:encoded_hints>Heute halten hier die Fuhrwerke der Neuzeit.</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="139227062">
+          <groundspeak:date>2010-12-26T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2519645">canadianfriend75</groundspeak:finder>
+          <groundspeak:text encoded="False">Eine schöne kleine Runde in der alten Heimat. Danke für's Zeigen. Die Dose war schnell gefunden, am Feiertag war hier nichts los [:)]. TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="138614840">
+          <groundspeak:date>2010-12-15T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3620737">woodi65</groundspeak:finder>
+          <groundspeak:text encoded="False">Da ich die Stages schon vor längerer Zeit gelöst hatte, ging ich nun heute trotz eisigen Wetters den Final an.
+Und da es noch früh am Morgen war, konnte ich ihn auch Muggelfrei bergen.
+TFTC
+woodi65</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="137100210">
+          <groundspeak:date>2010-11-24T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1942538">yonex</groundspeak:finder>
+          <groundspeak:text encoded="False">Eine nette Runde durch Fulda, auch wenn der Goethebezug doch sehr vage blieb. Am Final gerade mit der Suche angefangen als mich ein Monteur aus Dortmund zuquatschte. Irgendwann bin ich ihn dann aber doch losgeworden und konnte endlich loggen.
+
+TFTC
+
+This entry was edited by yonex on Friday, 26 November 2010 at 08:37:52.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="134073838">
+          <groundspeak:date>2010-10-31T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2554771">puma5</groundspeak:finder>
+          <groundspeak:text encoded="False">Da kannten wir doch diesen Ort schon, und hatten gar nicht bemerkt was sich hier so alles verstecken kann!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="134046548">
+          <groundspeak:date>2010-10-31T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2184097">DieMoosis</groundspeak:finder>
+          <groundspeak:text encoded="False">Wir waren ja schon immer alte Goethe-Fans, also war dieser ein Muss. 
+TFTC</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

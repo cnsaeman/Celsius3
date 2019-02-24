@@ -1,0 +1,90 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>004885</id>
+  <cache-id>GC245CV</cache-id>
+  <type>Traditional Cache</type>
+  <name>Das versteckte Element by Maluma, Traditional Cache (1.5/1.5)</name>
+  <size>Micro</size>
+  <difficulty>1.5</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-11-04</last-found>
+  <placed>2010-02-20</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Maluma</placedby>
+  <found>Geocache</found>
+  <lat>50.487367</lat>
+  <lon>9.721983</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>Maluma</owner>
+  <description><h1>So was hat hier noch gefehlt ..*fg*</h1></description>
+  <long-description>
+      </long-description>
+  <encoded-hints>
+      </encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=e2088903-87da-4de7-8b71-d90f926aaa1c</url>
+  <url-name>Das versteckte Element</url-name>
+  <logs><ul><li>2010-11-28T20:00:00Z : Found it by schwap <br />Nach babysitten noch ne kleine nachtrunde von 7 caches gedreht. hat spass gemacht. tftc</li><li>2010-11-21T20:00:00Z : Found it by lillyfelix <br />Schnell gefunden. 
+TFTC</li><li>2010-11-14T22:33:18Z : Found it by Clowns 4ever <br />Konnte sich auch nicht lange verstecken vor uns ;-)))</li><li>2010-11-04T19:00:00Z : Found it by Ivy69 <br />Dieser konnte sich nicht lange verbergen.TFTC</li><li>2010-11-04T19:00:00Z : Found it by Svegar <br />Schnell gefunden, vielen Dank.</li></ul></logs>
+  <original-xml>  <wpt  lat="50.487367" lon="9.721983">
+    <time>2010-02-20T08:00:00Z</time>
+    <name>GC245CV</name>
+    <desc>Das versteckte Element by Maluma, Traditional Cache (1.5/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=e2088903-87da-4de7-8b71-d90f926aaa1c</url>
+    <urlname>Das versteckte Element</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1560289" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Das versteckte Element</groundspeak:name>
+      <groundspeak:placed_by>Maluma</groundspeak:placed_by>
+      <groundspeak:owner id="1380311">Maluma</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="True">&lt;h1&gt;So was hat hier noch gefehlt ..*fg*&lt;/h1&gt;</groundspeak:short_description>
+      <groundspeak:long_description html="True">
+      </groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="137383300">
+          <groundspeak:date>2010-11-28T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3060114">schwap</groundspeak:finder>
+          <groundspeak:text encoded="False">Nach babysitten noch ne kleine nachtrunde von 7 caches gedreht. hat spass gemacht. tftc</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="136673305">
+          <groundspeak:date>2010-11-21T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3765430">lillyfelix</groundspeak:finder>
+          <groundspeak:text encoded="False">Schnell gefunden. 
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="135737609">
+          <groundspeak:date>2010-11-14T22:33:18Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3918255">Clowns 4ever</groundspeak:finder>
+          <groundspeak:text encoded="False">Konnte sich auch nicht lange verstecken vor uns ;-)))</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="134553268">
+          <groundspeak:date>2010-11-04T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3091672">Ivy69</groundspeak:finder>
+          <groundspeak:text encoded="False">Dieser konnte sich nicht lange verbergen.TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="134456949">
+          <groundspeak:date>2010-11-04T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3056833">Svegar</groundspeak:finder>
+          <groundspeak:text encoded="False">Schnell gefunden, vielen Dank.</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

@@ -1,0 +1,102 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>008557</id>
+  <cache-id>GC2A8NA</cache-id>
+  <type>Event Cache</type>
+  <name>Cache 'n' Coffee #001 by Kersti.com, Event Cache (1/1)</name>
+  <size>Not chosen</size>
+  <difficulty>1</difficulty>
+  <terrain>1</terrain>
+  <last-found>never</last-found>
+  <placed>2010-07-06</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>Kersti.com</placedby>
+  <found>Geocache</found>
+  <lat>53.341683</lat>
+  <lon>-6.260233</lon>
+  <last-logs>WW</last-logs>
+  <owner>Kersti.com</owner>
+  <description><b>Come join us from 7:00 PM to unwind and sip beverages from
+the<br />
+bean while swapping tales, coins and bugs.</b><br />
+<br /></description>
+  <long-description>All are welcome to attend, especially any newbies or visitors.
+Please post how many people with each "Will Attend." Coordinates
+are to the location. Food and drink is on your own. The event is
+later in the evening to accommodate those who wish to stay for
+dinner. The venue is child friendly so bring those ankle biters
+too!</long-description>
+  <encoded-hints>The "Oriental cafe", a Dublin institution. Table booking under my name.</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=0a555125-25ec-4666-99c9-449259a9ffeb</url>
+  <url-name>Cache 'n' Coffee #001</url-name>
+  <logs><ul><li>2010-06-18T19:00:00Z : Will Attend by NaDoohans <br />Hope to attend - 1 Adult 2 Children </li><li>2010-06-16T19:00:00Z : Write note by medic143 <br />Working (as usual on event days)</li><li>2010-06-15T19:00:00Z : Will Attend by theswerve <br />Looks like a goer alright....</li><li>2010-06-15T19:00:00Z : Write note by Blue Jay 59 <br />Looks like a plan came together then ......  As David said plan it & they will come [;)]
+Hope to be there x 2</li><li>2010-06-15T19:00:00Z : Will Attend by Windsockers <br />Sounds good great to see another midweek event being held.</li></ul></logs>
+  <original-xml>  <wpt  lat="53.341683" lon="-6.260233">
+    <time>2010-07-06T07:00:00Z</time>
+    <name>GC2A8NA</name>
+    <desc>Cache 'n' Coffee #001 by Kersti.com, Event Cache (1/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=0a555125-25ec-4666-99c9-449259a9ffeb</url>
+    <urlname>Cache 'n' Coffee #001</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Event Cache</type>
+    <groundspeak:cache id="1742181" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Cache 'n' Coffee #001</groundspeak:name>
+      <groundspeak:placed_by>Kersti.com</groundspeak:placed_by>
+      <groundspeak:owner id="320206">Kersti.com</groundspeak:owner>
+      <groundspeak:type>Event Cache</groundspeak:type>
+      <groundspeak:container>Not chosen</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>Dublin</groundspeak:state>
+      <groundspeak:short_description html="True">&lt;b&gt;Come join us from 7:00 PM to unwind and sip beverages from
+the&lt;br /&gt;
+bean while swapping tales, coins and bugs.&lt;/b&gt;&lt;br /&gt;
+&lt;br /&gt;</groundspeak:short_description>
+      <groundspeak:long_description html="True">All are welcome to attend, especially any newbies or visitors.
+Please post how many people with each "Will Attend." Coordinates
+are to the location. Food and drink is on your own. The event is
+later in the evening to accommodate those who wish to stay for
+dinner. The venue is child friendly so bring those ankle biters
+too!</groundspeak:long_description>
+      <groundspeak:encoded_hints>The "Oriental cafe", a Dublin institution. Table booking under my name.</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="113276554">
+          <groundspeak:date>2010-06-18T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Will Attend</groundspeak:type>
+          <groundspeak:finder id="1530537">NaDoohans</groundspeak:finder>
+          <groundspeak:text encoded="False">Hope to attend - 1 Adult 2 Children </groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="113120438">
+          <groundspeak:date>2010-06-16T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Write note</groundspeak:type>
+          <groundspeak:finder id="1020703">medic143</groundspeak:finder>
+          <groundspeak:text encoded="False">Working (as usual on event days)</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="113008096">
+          <groundspeak:date>2010-06-15T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Will Attend</groundspeak:type>
+          <groundspeak:finder id="1032462">theswerve</groundspeak:finder>
+          <groundspeak:text encoded="False">Looks like a goer alright....</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="112998875">
+          <groundspeak:date>2010-06-15T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Write note</groundspeak:type>
+          <groundspeak:finder id="2709154">Blue Jay 59</groundspeak:finder>
+          <groundspeak:text encoded="False">Looks like a plan came together then ......  As David said plan it &amp; they will come [;)]
+Hope to be there x 2</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="112981133">
+          <groundspeak:date>2010-06-15T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Will Attend</groundspeak:type>
+          <groundspeak:finder id="271623">Windsockers</groundspeak:finder>
+          <groundspeak:text encoded="False">Sounds good great to see another midweek event being held.</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

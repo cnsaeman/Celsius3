@@ -1,0 +1,206 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>007648</id>
+  <cache-id>GC1Z9P4</cache-id>
+  <type>Traditional Cache</type>
+  <name>The Number You Have Dialled... by Orangetigerprawn, Traditional Cache (1/1.5)</name>
+  <size>Small</size>
+  <difficulty>1</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-03-21</last-found>
+  <placed>2009-09-29</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>Orangetigerprawn</placedby>
+  <found>Geocache</found>
+  <lat>53.47135</lat>
+  <lon>-6.221017</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>orangetigerprawn</owner>
+  <description><center><b><font size="+2">The Number You Have
+Dialled...</font></b></center>
+<br />
+<br /></description>
+  <long-description><p>The Motorola/Celestica Factory in Swords closed in 2003 after a
+number of years of decline and is now a derelict site. Before it
+closed it was one of the largest employers in the area.</p>
+<center>
+<b><img src="http://img.geocaching.com/cache/1ecf9bb4-ce78-4f67-b5fa-88455e8e7dff.jpg"
+     width="600" height="450" align="bottom" border="0"
+     naturalsizeflag="3" /></b></center>
+<br />
+<br />
+ 
+<p>&nbsp;</p>
+<center><b>Factory Windows are Always Broken</b></center>
+<br />
+<br />
+ 
+<center>Factory windows are always broken.<br />
+Somebody's always throwing bricks,<br />
+Somebody's always heaving cinders,<br />
+Playing ugly Yahoo tricks.</center>
+<br />
+<br />
+ 
+<center>Factory windows are always broken.<br />
+Other windows are let alone.<br />
+No one throws through the chapel-window<br />
+The bitter, snarling, derisive stone.</center>
+<br />
+<br />
+ 
+<center>Factory windows are always broken.<br />
+Something or other is going wrong.<br />
+Something is rotten--I think, in Denmark.<br />
+End of factory-window song.</center>
+<br />
+<br />
+ 
+<center>Vachel Lindsay</center>
+<p>&nbsp;</p>
+<center>
+<b><img src="http://img.geocaching.com/cache/a61890f2-a054-4604-abe8-a2b2f02d7006.jpg"
+     width="600" height="450" align="bottom" border="0"
+     naturalsizeflag="3" /></b></center>
+<br />
+<br />
+ 
+<center><b><font size="+1">The Cache</font></b></center>
+<br />
+<br />
+ 
+<center>Straightforward traditional cache; container is a third of
+a litre. .</center>
+<br />
+<br /></long-description>
+  <encoded-hints>Take a high seat. Itchy ankle?</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=763b15f2-3999-45ca-a1c7-8a3dcab19c72</url>
+  <url-name>The Number You Have Dialled...</url-name>
+  <logs><ul><li>2010-06-14T19:00:00Z : Found it by RoobyDoo <br />Quick find on a circular walk from Swords to the estuary.
+TFTC
+RD</li><li>2010-05-17T16:16:49Z : Found it by Fitzet <br />Thought this was gping to be tricky given the logs and had looked for a clue from a previous finder before I even got there. Should have had a bit more faith…once my gps started cooperating I found it right away.
+Took headphones
+Left toy puppy in egg 
+SL TFTC</li><li>2010-04-25T19:00:00Z : Found it by abra123cadabra <br />Mum, I'm hungry... wait, one more cache on the list. We're almost there. Great hint, quickly found. Sad story, though.</li><li>2010-04-25T16:22:37Z : Found it by hollmanr <br />Found it. Took toy soldier and left bracelet. SL TFTC</li><li>2010-03-21T19:00:00Z : Found it by merann <br />Quick, easy find. Good co-ords. SL.
+TFTC, Merann. </li></ul></logs>
+  <original-xml>  <wpt  lat="53.47135" lon="-6.221017">
+    <time>2009-09-29T07:00:00Z</time>
+    <name>GC1Z9P4</name>
+    <desc>The Number You Have Dialled... by Orangetigerprawn, Traditional Cache (1/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=763b15f2-3999-45ca-a1c7-8a3dcab19c72</url>
+    <urlname>The Number You Have Dialled...</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1415466" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>The Number You Have Dialled...</groundspeak:name>
+      <groundspeak:placed_by>Orangetigerprawn</groundspeak:placed_by>
+      <groundspeak:owner id="2167131">orangetigerprawn</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>Leinster</groundspeak:state>
+      <groundspeak:short_description html="True">&lt;center&gt;&lt;b&gt;&lt;font size="+2"&gt;The Number You Have
+Dialled...&lt;/font&gt;&lt;/b&gt;&lt;/center&gt;
+&lt;br /&gt;
+&lt;br /&gt;</groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;p&gt;The Motorola/Celestica Factory in Swords closed in 2003 after a
+number of years of decline and is now a derelict site. Before it
+closed it was one of the largest employers in the area.&lt;/p&gt;
+&lt;center&gt;
+&lt;b&gt;&lt;img src="http://img.geocaching.com/cache/1ecf9bb4-ce78-4f67-b5fa-88455e8e7dff.jpg"
+     width="600" height="450" align="bottom" border="0"
+     naturalsizeflag="3" /&gt;&lt;/b&gt;&lt;/center&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+ 
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;center&gt;&lt;b&gt;Factory Windows are Always Broken&lt;/b&gt;&lt;/center&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+ 
+&lt;center&gt;Factory windows are always broken.&lt;br /&gt;
+Somebody's always throwing bricks,&lt;br /&gt;
+Somebody's always heaving cinders,&lt;br /&gt;
+Playing ugly Yahoo tricks.&lt;/center&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+ 
+&lt;center&gt;Factory windows are always broken.&lt;br /&gt;
+Other windows are let alone.&lt;br /&gt;
+No one throws through the chapel-window&lt;br /&gt;
+The bitter, snarling, derisive stone.&lt;/center&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+ 
+&lt;center&gt;Factory windows are always broken.&lt;br /&gt;
+Something or other is going wrong.&lt;br /&gt;
+Something is rotten--I think, in Denmark.&lt;br /&gt;
+End of factory-window song.&lt;/center&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+ 
+&lt;center&gt;Vachel Lindsay&lt;/center&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;center&gt;
+&lt;b&gt;&lt;img src="http://img.geocaching.com/cache/a61890f2-a054-4604-abe8-a2b2f02d7006.jpg"
+     width="600" height="450" align="bottom" border="0"
+     naturalsizeflag="3" /&gt;&lt;/b&gt;&lt;/center&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+ 
+&lt;center&gt;&lt;b&gt;&lt;font size="+1"&gt;The Cache&lt;/font&gt;&lt;/b&gt;&lt;/center&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+ 
+&lt;center&gt;Straightforward traditional cache; container is a third of
+a litre. .&lt;/center&gt;
+&lt;br /&gt;
+&lt;br /&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>Take a high seat. Itchy ankle?</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="112875306">
+          <groundspeak:date>2010-06-14T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="668764">RoobyDoo</groundspeak:finder>
+          <groundspeak:text encoded="False">Quick find on a circular walk from Swords to the estuary.
+TFTC
+RD</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="108950269">
+          <groundspeak:date>2010-05-17T16:16:49Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2451856">Fitzet</groundspeak:finder>
+          <groundspeak:text encoded="False">Thought this was gping to be tricky given the logs and had looked for a clue from a previous finder before I even got there. Should have had a bit more faith…once my gps started cooperating I found it right away.
+Took headphones
+Left toy puppy in egg 
+SL TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="105712272">
+          <groundspeak:date>2010-04-25T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2383033">abra123cadabra</groundspeak:finder>
+          <groundspeak:text encoded="False">Mum, I'm hungry... wait, one more cache on the list. We're almost there. Great hint, quickly found. Sad story, though.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="105700368">
+          <groundspeak:date>2010-04-25T16:22:37Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2511647">hollmanr</groundspeak:finder>
+          <groundspeak:text encoded="False">Found it. Took toy soldier and left bracelet. SL TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="100732716">
+          <groundspeak:date>2010-03-21T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="134212">merann</groundspeak:finder>
+          <groundspeak:text encoded="False">Quick, easy find. Good co-ords. SL.
+TFTC, Merann. </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

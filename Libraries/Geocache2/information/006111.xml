@@ -1,0 +1,101 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>006111</id>
+  <cache-id>GC15B9E</cache-id>
+  <type>Traditional Cache</type>
+  <name>Oasis by moyle, Traditional Cache (1/1)</name>
+  <size>Small</size>
+  <difficulty>1</difficulty>
+  <terrain>1</terrain>
+  <last-found>2010-03-21</last-found>
+  <placed>2007-08-22</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>moyle</placedby>
+  <found>Geocache</found>
+  <lat>53.245483</lat>
+  <lon>-6.27855</lon>
+  <last-logs>XXXXF</last-logs>
+  <owner>moyle</owner>
+  <description>Not quite the end of the road, a lovely setting with a stunning view.</description>
+  <long-description>
+      </long-description>
+  <encoded-hints>What can I say it is almost in plain sight!</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=14c9c085-3cb8-4753-b471-98fc805d91fa</url>
+  <url-name>Oasis</url-name>
+  <logs><ul><li>2010-06-10T19:00:00Z : Didn't find it by colmyster <br />Tried this one after dib dib and mossy. Couldn't find it and after sticking myself with gorse for the hundred time I gave up. Beidh mé ar ais...</li><li>2010-05-27T19:00:00Z : Didn't find it by annalivia <br />we think this cache could be gone...so we went on to grave misgivings instead!</li><li>2010-04-03T19:00:00Z : Didn't find it by niallk1234 <br />the sun was beating down and i was hungry so i probably didnt give this cache the time it deserved. i also had failed to find "mossy". didnt no whether i was supposed to be looking in the gorse or the wall. but now after looking at the spoiler i reckon thats one of the places i checked, maybe its gone. thanks for the cache anyway.
+
+[This entry was edited by niallk1234 on Tuesday, April 13, 2010 at 10:02:57 AM.]</li><li>2010-03-22T19:00:00Z : Didn't find it by Bootle <br />My second DNF of the day. This cache wasnt as obvious as the clue implies - my GPS was pointing me into a big heap of gorse. Ouch!. Maybe its become overgrown or maybe I'm losing the ability to find caches! TFTC!</li><li>2010-03-21T19:00:00Z : Found it by Sally&eL <br />17:07  #534
+
+found on a trip around Dublin
+TFTC</li></ul></logs>
+  <original-xml>  <wpt  lat="53.245483" lon="-6.27855">
+    <time>2007-08-22T07:00:00Z</time>
+    <name>GC15B9E</name>
+    <desc>Oasis by moyle, Traditional Cache (1/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=14c9c085-3cb8-4753-b471-98fc805d91fa</url>
+    <urlname>Oasis</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="672220" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Oasis</groundspeak:name>
+      <groundspeak:placed_by>moyle</groundspeak:placed_by>
+      <groundspeak:owner id="1183128">moyle</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>
+      </groundspeak:state>
+      <groundspeak:short_description html="False">Not quite the end of the road, a lovely setting with a stunning view.</groundspeak:short_description>
+      <groundspeak:long_description html="False">
+      </groundspeak:long_description>
+      <groundspeak:encoded_hints>What can I say it is almost in plain sight!</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="112329197">
+          <groundspeak:date>2010-06-10T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Didn't find it</groundspeak:type>
+          <groundspeak:finder id="1495386">colmyster</groundspeak:finder>
+          <groundspeak:text encoded="False">Tried this one after dib dib and mossy. Couldn't find it and after sticking myself with gorse for the hundred time I gave up. Beidh mé ar ais...</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="110444080">
+          <groundspeak:date>2010-05-27T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Didn't find it</groundspeak:type>
+          <groundspeak:finder id="3081139">annalivia</groundspeak:finder>
+          <groundspeak:text encoded="False">we think this cache could be gone...so we went on to grave misgivings instead!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="102232097">
+          <groundspeak:date>2010-04-03T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Didn't find it</groundspeak:type>
+          <groundspeak:finder id="2923926">niallk1234</groundspeak:finder>
+          <groundspeak:text encoded="False">the sun was beating down and i was hungry so i probably didnt give this cache the time it deserved. i also had failed to find "mossy". didnt no whether i was supposed to be looking in the gorse or the wall. but now after looking at the spoiler i reckon thats one of the places i checked, maybe its gone. thanks for the cache anyway.
+
+[This entry was edited by niallk1234 on Tuesday, April 13, 2010 at 10:02:57 AM.]</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="100751413">
+          <groundspeak:date>2010-03-22T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Didn't find it</groundspeak:type>
+          <groundspeak:finder id="96113">Bootle</groundspeak:finder>
+          <groundspeak:text encoded="False">My second DNF of the day. This cache wasnt as obvious as the clue implies - my GPS was pointing me into a big heap of gorse. Ouch!. Maybe its become overgrown or maybe I'm losing the ability to find caches! TFTC!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="101252783">
+          <groundspeak:date>2010-03-21T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1466841">Sally&amp;eL</groundspeak:finder>
+          <groundspeak:text encoded="False">17:07  #534
+
+found on a trip around Dublin
+TFTC</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs>
+        <groundspeak:travelbug id="856644" ref="TB1BH6K">
+          <groundspeak:name>"Cherbourg, France" Unite for Diabetes Travel Bug</groundspeak:name>
+        </groundspeak:travelbug>
+      </groundspeak:travelbugs>
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

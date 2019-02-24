@@ -1,0 +1,146 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>009979</id>
+  <cache-id>GC176VC</cache-id>
+  <type>Unknown Cache</type>
+  <name>2 Türme ( schwer zu finden !! ) by ubx, Unknown Cache (4/2)</name>
+  <size>Small</size>
+  <difficulty>4</difficulty>
+  <terrain>2</terrain>
+  <last-found>2010-04-18</last-found>
+  <placed>2007-11-02</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>ubx</placedby>
+  <found>Geocache</found>
+  <lat>50.550967</lat>
+  <lon>9.5988</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>ubx</owner>
+  <description>extra mal was Schweres für die hartnäckigen Cacher</description>
+  <long-description>für diesen Cache ist ein gutes Orientierungsvermögen, ein Kompass und eine Karte sehr hilfreich. Der Start liegt 6.8 km vom ersten Ziel entfernt und ihr müsst von da aus die Richtung peilen.
+
+An den Startkoordinaten ist ein Stromhaus. Stellt euch so, dass ihr die linke Hausecke mit der linken Dachecke der Firma Milupa in einer Flucht habt. Dann seht ihr bei entsprechendem klaren Wetter leicht nach links versetzt nahe am Horizont vor einem Waldrand ein einzelnes rotes Dach. Das ist euer erstes Ziel , der Z_ _ _ _ _ hof.Die Kompassrichtung ist 332 Grad.Das erste Ziel ist Luftlinie 6.8 km vom Start entfernt.
+Bei den Koords (Suchpunkt) findet ihr einen Hinweis zum Z_ _ _ _ _ hof, jetzt ist es nicht mehr weit zum 1. Turm. Habt ihr den ersten Turm erreicht, gehts weiter. In 250 m ist in nordöstlicher Richtung ein Waldrastplatz. Stellt euch vor die Bank und peilt in südöstlicher Richtung. In 30 m Entfernung liegt der erste Cache in einem Baumstumpf. Darin ist die Info, wie es weiter geht zum 2. Turm.
+
+Es geht alles auf geteerten und befestigten Wegen, zum laufen zu weit aber für Fahrrad ideal, Motorrad und Auto geht auch, aber mit Einschränkungen !.
+
+Additional Waypoints
+SP176VC - suchpunkt
+N 50° 35.480 E 009° 32.967
+
+</long-description>
+  <encoded-hints>zum 1. Turm 10,4 Strassen-km / Zum Z.....hof siehe Suchpunkt.
+2.Turm ist die Seeburg 3,7 Strassen-km</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=81b4f296-2a64-4a82-b682-44a625aca9fc</url>
+  <url-name>2 Türme ( schwer zu finden !! )</url-name>
+  <logs><ul><li>2010-10-03T19:00:00Z : Found it by Geogeher <br />Hallo,
+
+der Cache hat sehr viel Spaß gemacht.  Wir haben den Z*****hof rasch orten können und den ersten Cache nach wenigen Minuten Suche geborgen. Der zweite Cache war dank eines guten Auges auch rasch entdeckt und führte uns an eine tolle Stelle, an die wir sonst wahrscheinlich niemals gekommen wären.
+
+Vielen Dank dafür im Namen der Gruppe "BaCaCoMiSe".</li><li>2010-05-24T19:00:00Z : Found it by Waggi <br />Also so schwer, wars dann doch nicht. Wer mit dem GPS umgehen kann, sollte hier keine Probleme haben[;)]. Allein der Text hat uns anfangs etwas verwirrt.
+Zusammen im Team mit Thomas_Bimbach eigentlich schnell gefunden. Die Final Location ist der Hammer! Meiner Meinung nach, ist der Cache bestens für Motorräder geeignet[:D].
+LG aus Steinau Waggi und Marion
+
+[This entry was edited by Waggi on Monday, May 24, 2010 at 10:30:55 AM.]
+
+[This entry was edited by Waggi on Monday, May 24, 2010 at 10:34:28 AM.]</li><li>2010-05-24T19:00:00Z : Found it by thomas_bimbach <br />Zusammen mit Waggi leicht gefunden.
+TFTC</li><li>2010-04-18T19:00:00Z : Found it by h3nn3s <br />Auf kleiner sonntäglicher Tour mit Kaffeemaschinen Killer und boro0470 diesen gut gefunden. Der erste Anlauf ging in die Hose und brachte uns an einen falschen Platz. Heute diese schönen Reste hier vorgefunden.
+
+TFTC</li><li>2010-04-18T19:00:00Z : Found it by boro0470 <br />.... auf heutiger Tour mit h3nn3s und Kaffeemaschinen Killer dieses Rätsel auch gelöst. 
+
+In der nähe des Finals war ich schon sehr oft bei Bekannten, heute aber nun zum ersten mal dieses Bauwerk gesehen. Tolle Location für den Final. 
+
+
+TFTC
+boro0470</li></ul></logs>
+  <original-xml>  <wpt  lat="50.550967" lon="9.5988">
+    <time>2007-11-02T07:00:00Z</time>
+    <name>GC176VC</name>
+    <desc>2 Türme ( schwer zu finden !! ) by ubx, Unknown Cache (4/2)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=81b4f296-2a64-4a82-b682-44a625aca9fc</url>
+    <urlname>2 Türme ( schwer zu finden !! )</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Unknown Cache</type>
+    <groundspeak:cache id="727522" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>2 Türme ( schwer zu finden !! )</groundspeak:name>
+      <groundspeak:placed_by>ubx</groundspeak:placed_by>
+      <groundspeak:owner id="787613">ubx</groundspeak:owner>
+      <groundspeak:type>Unknown Cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>4</groundspeak:difficulty>
+      <groundspeak:terrain>2</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">extra mal was Schweres für die hartnäckigen Cacher</groundspeak:short_description>
+      <groundspeak:long_description html="False">für diesen Cache ist ein gutes Orientierungsvermögen, ein Kompass und eine Karte sehr hilfreich. Der Start liegt 6.8 km vom ersten Ziel entfernt und ihr müsst von da aus die Richtung peilen.
+
+An den Startkoordinaten ist ein Stromhaus. Stellt euch so, dass ihr die linke Hausecke mit der linken Dachecke der Firma Milupa in einer Flucht habt. Dann seht ihr bei entsprechendem klaren Wetter leicht nach links versetzt nahe am Horizont vor einem Waldrand ein einzelnes rotes Dach. Das ist euer erstes Ziel , der Z_ _ _ _ _ hof.Die Kompassrichtung ist 332 Grad.Das erste Ziel ist Luftlinie 6.8 km vom Start entfernt.
+Bei den Koords (Suchpunkt) findet ihr einen Hinweis zum Z_ _ _ _ _ hof, jetzt ist es nicht mehr weit zum 1. Turm. Habt ihr den ersten Turm erreicht, gehts weiter. In 250 m ist in nordöstlicher Richtung ein Waldrastplatz. Stellt euch vor die Bank und peilt in südöstlicher Richtung. In 30 m Entfernung liegt der erste Cache in einem Baumstumpf. Darin ist die Info, wie es weiter geht zum 2. Turm.
+
+Es geht alles auf geteerten und befestigten Wegen, zum laufen zu weit aber für Fahrrad ideal, Motorrad und Auto geht auch, aber mit Einschränkungen !.
+
+Additional Waypoints
+SP176VC - suchpunkt
+N 50° 35.480 E 009° 32.967
+
+</groundspeak:long_description>
+      <groundspeak:encoded_hints>zum 1. Turm 10,4 Strassen-km / Zum Z.....hof siehe Suchpunkt.
+2.Turm ist die Seeburg 3,7 Strassen-km</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="129770711">
+          <groundspeak:date>2010-10-03T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3844612">Geogeher</groundspeak:finder>
+          <groundspeak:text encoded="False">Hallo,
+
+der Cache hat sehr viel Spaß gemacht.  Wir haben den Z*****hof rasch orten können und den ersten Cache nach wenigen Minuten Suche geborgen. Der zweite Cache war dank eines guten Auges auch rasch entdeckt und führte uns an eine tolle Stelle, an die wir sonst wahrscheinlich niemals gekommen wären.
+
+Vielen Dank dafür im Namen der Gruppe "BaCaCoMiSe".</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="109883359">
+          <groundspeak:date>2010-05-24T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="28228">Waggi</groundspeak:finder>
+          <groundspeak:text encoded="False">Also so schwer, wars dann doch nicht. Wer mit dem GPS umgehen kann, sollte hier keine Probleme haben[;)]. Allein der Text hat uns anfangs etwas verwirrt.
+Zusammen im Team mit Thomas_Bimbach eigentlich schnell gefunden. Die Final Location ist der Hammer! Meiner Meinung nach, ist der Cache bestens für Motorräder geeignet[:D].
+LG aus Steinau Waggi und Marion
+
+[This entry was edited by Waggi on Monday, May 24, 2010 at 10:30:55 AM.]
+
+[This entry was edited by Waggi on Monday, May 24, 2010 at 10:34:28 AM.]</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="109882096">
+          <groundspeak:date>2010-05-24T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2166343">thomas_bimbach</groundspeak:finder>
+          <groundspeak:text encoded="False">Zusammen mit Waggi leicht gefunden.
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="105449415">
+          <groundspeak:date>2010-04-18T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="845446">h3nn3s</groundspeak:finder>
+          <groundspeak:text encoded="False">Auf kleiner sonntäglicher Tour mit Kaffeemaschinen Killer und boro0470 diesen gut gefunden. Der erste Anlauf ging in die Hose und brachte uns an einen falschen Platz. Heute diese schönen Reste hier vorgefunden.
+
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="104868199">
+          <groundspeak:date>2010-04-18T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="799042">boro0470</groundspeak:finder>
+          <groundspeak:text encoded="False">.... auf heutiger Tour mit h3nn3s und Kaffeemaschinen Killer dieses Rätsel auch gelöst. 
+
+In der nähe des Finals war ich schon sehr oft bei Bekannten, heute aber nun zum ersten mal dieses Bauwerk gesehen. Tolle Location für den Final. 
+
+
+TFTC
+boro0470</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

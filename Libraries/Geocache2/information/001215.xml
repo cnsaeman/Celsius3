@@ -1,0 +1,136 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>001215</id>
+  <cache-id>GC22A2G</cache-id>
+  <type>Traditional Cache</type>
+  <name>Hortus Millennium by Lahtac, Traditional Cache (1/1)</name>
+  <size>Small</size>
+  <difficulty>1</difficulty>
+  <terrain>1</terrain>
+  <last-found>2010-04-24</last-found>
+  <placed>2009-12-28</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>Lahtac</placedby>
+  <found>Geocache</found>
+  <lat>53.388183</lat>
+  <lon>-6.40085</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>Lahtac</owner>
+  <description>The cache is a small container wapped in black cloth located in the
+Millennium Park which is a 61.2acre (24.4ha) site immediately
+adjacent to the Blanchardstown Town Centre, Shopping Centre and
+serving the local residential areas and their environs. The terrain
+is roughly level and the eastern boundary has some good stands of
+mixed broad leafed woodland.</description>
+  <long-description><center><img src=
+"http://img.geocaching.com/cache/4d4e7e9a-fea7-439a-ac4b-27cd6ab8c3c4.jpg" /></center>
+<p>The Millennium Park, Blanchardstown caters for both passive and
+active recreation. Passive recreational is facilitated through a
+network of pedestrian footpaths through tree-lined avenues,
+wildflower meadowland, both formal and themed gardens, woodland
+areas, and with seating areas throughout the park. Active
+recreational facilities include football pitches to the north-east
+of the site as well as two all-weather surface areas and a
+substantial junior and senior playground. Parking is accessable
+from the park entrance at the Snugborough Road Extension.</p>
+<center><img src=
+"http://img.geocaching.com/cache/4df9f0ac-c9b7-4d90-9a5f-3b12e84f36c6.jpg" /></center></long-description>
+  <additional-waypoints>PK22A2G - Car Park<br />N 53° 23.161 W 006° 23.937<br />Ample car parking is available at this location.<br /></additional-waypoints>
+  <links>waypoints:cache-id:PK22A2G</links>
+  <encoded-hints>Abor, MCMLXXXIV</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=04c33655-b334-4193-b093-e80352adebeb</url>
+  <url-name>Hortus Millennium</url-name>
+  <logs><ul><li>2010-05-28T19:00:00Z : Found it by Sally&eL <br />18:55 #595
+
+Quick find
+
+TFTC
+</li><li>2010-05-16T19:00:00Z : Found it by rooske <br />The muggles were our bigest problem</li><li>2010-05-04T19:00:00Z : Found it by Drea-Popa <br />Found on our way to the airport!!
+Thanks for this cache.</li><li>2010-05-04T19:00:00Z : Found it by CH-vishnu <br />Our flight was canceled because of the ash in the air, so we had some more time here in Dublin. On the way to the airport, we found this cache easily. Thanks for it. Greetings from Switzerland
+in: ring
+out: coin</li><li>2010-04-24T19:00:00Z : Found it by moyle <br />A quick find in a lovely park. TFTC [:)] [:)] [:)]</li></ul></logs>
+  <original-xml>  <wpt  lat="53.388183" lon="-6.40085">
+    <time>2009-12-28T08:00:00Z</time>
+    <name>GC22A2G</name>
+    <desc>Hortus Millennium by Lahtac, Traditional Cache (1/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=04c33655-b334-4193-b093-e80352adebeb</url>
+    <urlname>Hortus Millennium</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1505192" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Hortus Millennium</groundspeak:name>
+      <groundspeak:placed_by>Lahtac</groundspeak:placed_by>
+      <groundspeak:owner id="2847528">Lahtac</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>Dublin</groundspeak:state>
+      <groundspeak:short_description html="True">The cache is a small container wapped in black cloth located in the
+Millennium Park which is a 61.2acre (24.4ha) site immediately
+adjacent to the Blanchardstown Town Centre, Shopping Centre and
+serving the local residential areas and their environs. The terrain
+is roughly level and the eastern boundary has some good stands of
+mixed broad leafed woodland.</groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;center&gt;&lt;img src=
+"http://img.geocaching.com/cache/4d4e7e9a-fea7-439a-ac4b-27cd6ab8c3c4.jpg" /&gt;&lt;/center&gt;
+&lt;p&gt;The Millennium Park, Blanchardstown caters for both passive and
+active recreation. Passive recreational is facilitated through a
+network of pedestrian footpaths through tree-lined avenues,
+wildflower meadowland, both formal and themed gardens, woodland
+areas, and with seating areas throughout the park. Active
+recreational facilities include football pitches to the north-east
+of the site as well as two all-weather surface areas and a
+substantial junior and senior playground. Parking is accessable
+from the park entrance at the Snugborough Road Extension.&lt;/p&gt;
+&lt;center&gt;&lt;img src=
+"http://img.geocaching.com/cache/4df9f0ac-c9b7-4d90-9a5f-3b12e84f36c6.jpg" /&gt;&lt;/center&gt;&lt;p&gt;Additional Waypoints&lt;/p&gt;PK22A2G - Car Park&lt;br /&gt;N 53° 23.161 W 006° 23.937&lt;br /&gt;Ample car parking is available at this location.&lt;br /&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>Abor, MCMLXXXIV</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="110466785">
+          <groundspeak:date>2010-05-28T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1466841">Sally&amp;eL</groundspeak:finder>
+          <groundspeak:text encoded="False">18:55 #595
+
+Quick find
+
+TFTC
+</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="108807878">
+          <groundspeak:date>2010-05-16T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1786087">rooske</groundspeak:finder>
+          <groundspeak:text encoded="False">The muggles were our bigest problem</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="107257353">
+          <groundspeak:date>2010-05-04T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3049946">Drea-Popa</groundspeak:finder>
+          <groundspeak:text encoded="False">Found on our way to the airport!!
+Thanks for this cache.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="107121616">
+          <groundspeak:date>2010-05-04T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2171870">CH-vishnu</groundspeak:finder>
+          <groundspeak:text encoded="False">Our flight was canceled because of the ash in the air, so we had some more time here in Dublin. On the way to the airport, we found this cache easily. Thanks for it. Greetings from Switzerland
+in: ring
+out: coin</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="105803262">
+          <groundspeak:date>2010-04-24T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1183128">moyle</groundspeak:finder>
+          <groundspeak:text encoded="False">A quick find in a lovely park. TFTC [:)] [:)] [:)]</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

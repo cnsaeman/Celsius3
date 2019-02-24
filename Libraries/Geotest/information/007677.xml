@@ -1,0 +1,110 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>007677</id>
+  <cache-id>GC2634V</cache-id>
+  <type>Traditional Cache</type>
+  <name>Heisser Stein by capitanok9, Traditional Cache (1.5/2)</name>
+  <size>Small</size>
+  <difficulty>1.5</difficulty>
+  <terrain>2</terrain>
+  <last-found>2010-11-07</last-found>
+  <placed>2010-04-03</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>capitanok9</placedby>
+  <found>Geocache</found>
+  <lat>50.481117</lat>
+  <lon>9.733583</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>capitanok9</owner>
+  <description>Der Cache liegt in einer Gartenausstellung, die rund um die
+Uhr<br />
+zugänglich ist.<br />
+<p>Ein Feuerzeug ( bitte am Cache nicht benutzen ) einen<br />
+Flaschenöffner und einen Schlüsselanhänger habe ich zum
+Tausch<br />
+deponiert.</p></description>
+  <long-description>
+      </long-description>
+  <encoded-hints>
+      </encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=550a007a-b798-451c-b8f6-e50aab193791</url>
+  <url-name>Heisser Stein</url-name>
+  <logs><ul><li>2010-11-30T20:00:00Z : Found it by Adi Obo <br />[385] I got this cache while visiting our business partners in Eichenzell. It was just before the meeting and I almoust did not nake it back on time :) TFTC
+Time: 16:55</li><li>2010-11-28T20:00:00Z : Found it by schwap <br />ich hätte vielleicht noch mal den namen lesen sollen, dann wäre ich noch schneller gewesen. Nach babysitten noch ne kleine nachtrunde von 7 caches gedreht. hat spass gemacht. tftc</li><li>2010-11-21T20:00:00Z : Found it by lillyfelix <br />Schnell gefunden.Schöner Cache.Coin out.
+TFTC</li><li>2010-11-14T23:00:43Z : Found it by Clowns 4ever <br />Gutes Versteck macht echt Spaß ;-) </li><li>2010-11-07T20:00:00Z : Found it by sema2505 <br />Schöne Ausstellung und gute Idee fürs Versteck :o)
+Vielen Dank fürs Zeigen und Verstecken!!</li></ul></logs>
+  <original-xml>  <wpt  lat="50.481117" lon="9.733583">
+    <time>2010-04-03T07:00:00Z</time>
+    <name>GC2634V</name>
+    <desc>Heisser Stein by capitanok9, Traditional Cache (1.5/2)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=550a007a-b798-451c-b8f6-e50aab193791</url>
+    <urlname>Heisser Stein</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1617701" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Heisser Stein</groundspeak:name>
+      <groundspeak:placed_by>capitanok9</groundspeak:placed_by>
+      <groundspeak:owner id="3123857">capitanok9</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>2</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="True">Der Cache liegt in einer Gartenausstellung, die rund um die
+Uhr&lt;br /&gt;
+zugänglich ist.&lt;br /&gt;
+&lt;p&gt;Ein Feuerzeug ( bitte am Cache nicht benutzen ) einen&lt;br /&gt;
+Flaschenöffner und einen Schlüsselanhänger habe ich zum
+Tausch&lt;br /&gt;
+deponiert.&lt;/p&gt;</groundspeak:short_description>
+      <groundspeak:long_description html="True">
+      </groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="137735530">
+          <groundspeak:date>2010-11-30T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2689178">Adi Obo</groundspeak:finder>
+          <groundspeak:text encoded="False">[385] I got this cache while visiting our business partners in Eichenzell. It was just before the meeting and I almoust did not nake it back on time :) TFTC
+Time: 16:55</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="137383200">
+          <groundspeak:date>2010-11-28T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3060114">schwap</groundspeak:finder>
+          <groundspeak:text encoded="False">ich hätte vielleicht noch mal den namen lesen sollen, dann wäre ich noch schneller gewesen. Nach babysitten noch ne kleine nachtrunde von 7 caches gedreht. hat spass gemacht. tftc</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="136672451">
+          <groundspeak:date>2010-11-21T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3765430">lillyfelix</groundspeak:finder>
+          <groundspeak:text encoded="False">Schnell gefunden.Schöner Cache.Coin out.
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="135741742">
+          <groundspeak:date>2010-11-14T23:00:43Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3918255">Clowns 4ever</groundspeak:finder>
+          <groundspeak:text encoded="False">Gutes Versteck macht echt Spaß ;-) </groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="135065973">
+          <groundspeak:date>2010-11-07T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3665179">sema2505</groundspeak:finder>
+          <groundspeak:text encoded="False">Schöne Ausstellung und gute Idee fürs Versteck :o)
+Vielen Dank fürs Zeigen und Verstecken!!</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs>
+        <groundspeak:travelbug id="1731041" ref="TB29X2Z">
+          <groundspeak:name>MISS YOU – FEMALE</groundspeak:name>
+        </groundspeak:travelbug>
+      </groundspeak:travelbugs>
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

@@ -1,0 +1,102 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>006425</id>
+  <cache-id>GC1T9VT</cache-id>
+  <type>Traditional Cache</type>
+  <name>little green valley by andalf, Traditional Cache (1/1)</name>
+  <size>Micro</size>
+  <difficulty>1</difficulty>
+  <terrain>1</terrain>
+  <last-found>2010-10-22</last-found>
+  <placed>2009-06-04</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>andalf</placedby>
+  <found>Geocache</found>
+  <lat>50.5626</lat>
+  <lon>9.688333</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>andalf</owner>
+  <description>Kleiner schneller Traditional in kleinem Fuldaer Park</description>
+  <long-description>Unser erster Versteckter Cache führt euch in ein kleines Tal in Fulda. Wie der Name schon sagt, ist es ein grünes Fleckchen, dass man so dort gar nicht erwarten möchte. Tagsüber sollten dort kleinere und größere Muggel anzutreffen sein, in welcher Menge kann ich nicht vorher sagen.
+
+Viel Spaß auf der Jagd!</long-description>
+  <encoded-hints>Guido mag zwar doof sein, aber seine inneren Werte führen zum Ziel</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=622ee401-1039-4f41-a4f8-20b3d0e9da0b</url>
+  <url-name>little green valley</url-name>
+  <logs><ul><li>2010-12-12T20:00:00Z : Found it by BB! <br />TFTC RN und BB!"</li><li>2010-11-15T20:00:00Z : Found it by s186003 <br />Im 2. Anlauf sofort gefunden, da diesmalb keine Muggel da waren.
+TFTC</li><li>2010-11-15T20:00:00Z : Found it by woodi65 <br />Trotz Regen schnell gefunden, dafür aber Muggelfrei [;)].
+TFTC
+woodi65</li><li>2010-10-23T06:28:54Z : Found it by von Giso <br />Auch erst falsch gesucht aber dann gut gefunden. Mit Limoel auf Cachetour geloggt. Danke! </li><li>2010-10-22T19:00:00Z : Found it by Limoel <br />Heute Abend im Team mit von Giso gefunden.
+
+Doch am Ziel angekommen dachten wir uns "Guido? Wer oder was zum Teufel ist Guido?". Doch nach ein bißchen absuchen der Gegend haben wir ihn dann gefunden.
+
+TFTC Limoel</li></ul></logs>
+  <original-xml>  <wpt  lat="50.5626" lon="9.688333">
+    <time>2009-06-04T07:00:00Z</time>
+    <name>GC1T9VT</name>
+    <desc>little green valley by andalf, Traditional Cache (1/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=622ee401-1039-4f41-a4f8-20b3d0e9da0b</url>
+    <urlname>little green valley</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1266656" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>little green valley</groundspeak:name>
+      <groundspeak:placed_by>andalf</groundspeak:placed_by>
+      <groundspeak:owner id="2304925">andalf</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">Kleiner schneller Traditional in kleinem Fuldaer Park</groundspeak:short_description>
+      <groundspeak:long_description html="False">Unser erster Versteckter Cache führt euch in ein kleines Tal in Fulda. Wie der Name schon sagt, ist es ein grünes Fleckchen, dass man so dort gar nicht erwarten möchte. Tagsüber sollten dort kleinere und größere Muggel anzutreffen sein, in welcher Menge kann ich nicht vorher sagen.
+
+Viel Spaß auf der Jagd!</groundspeak:long_description>
+      <groundspeak:encoded_hints>Guido mag zwar doof sein, aber seine inneren Werte führen zum Ziel</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="138406071">
+          <groundspeak:date>2010-12-12T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3781589">BB!</groundspeak:finder>
+          <groundspeak:text encoded="False">TFTC RN und BB!"</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="136075133">
+          <groundspeak:date>2010-11-15T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2819456">s186003</groundspeak:finder>
+          <groundspeak:text encoded="False">Im 2. Anlauf sofort gefunden, da diesmalb keine Muggel da waren.
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="135967512">
+          <groundspeak:date>2010-11-15T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3620737">woodi65</groundspeak:finder>
+          <groundspeak:text encoded="False">Trotz Regen schnell gefunden, dafür aber Muggelfrei [;)].
+TFTC
+woodi65</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="132566854">
+          <groundspeak:date>2010-10-23T06:28:54Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2940441">von Giso</groundspeak:finder>
+          <groundspeak:text encoded="False">Auch erst falsch gesucht aber dann gut gefunden. Mit Limoel auf Cachetour geloggt. Danke! </groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="132561883">
+          <groundspeak:date>2010-10-22T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2878802">Limoel</groundspeak:finder>
+          <groundspeak:text encoded="False">Heute Abend im Team mit von Giso gefunden.
+
+Doch am Ziel angekommen dachten wir uns "Guido? Wer oder was zum Teufel ist Guido?". Doch nach ein bißchen absuchen der Gegend haben wir ihn dann gefunden.
+
+TFTC Limoel</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

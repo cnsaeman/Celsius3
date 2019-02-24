@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<celsiusv2.1.library>
+<element>
+  <directory>Music Tests</directory>
+  <name>Music Tests</name>
+  <index>number|composer|fulltitle|artists|rating</index>
+  <standardfields>instrumentation|albumtrack|maintitle</standardfields>
+  <tablecolumns>number|composer|fulltitle|artists|rating</tablecolumns>
+  <columnheaders>|Composer|Title|Artists|</columnheaders>
+  <columntypes>number|people|text|people|symbol</columntypes>
+  <columnsizes>-37|183|486|168|-89</columnsizes>
+  <autosortcolumn>2</autosortcolumn>
+  <people>composer|artists</people>
+  <plugins-manual>Get from header (mp3)|Get from filename (audio)</plugins-manual>
+  <plugins-auto>Get from header (mp3)|Get from filename (audio)</plugins-auto>
+  <plugins-export></plugins-export>
+  <filetypes>mp3</filetypes>
+  <searchtags>composer|artists|title|album|genre</searchtags>
+  <essential-fields>fulltitle</essential-fields>
+  <differentiating-fields>number|fulltitle|composer|artists|maintitle</differentiating-fields>
+  <item-representation>"#fulltitle#" by #composer&1#/#artists&1#</item-representation>
+  <naming-convention>#number# - #fulltitle# (#composer&1#).#filetype#</naming-convention>
+  <choice-fields>genre:Early Music,Baroque,Classical,Romantic,Modern,Jazz,World Music,Pop|rating:5 stars,4 stars,3 stars,2 stars,1 stars,0 stars,not set</choice-fields>
+  <icon-fields>rating</icon-fields>
+  <icon-dictionary>0 stars:rating/rat0|1 stars:rating/rat1|2 stars:rating/rat2|3 stars:rating/rat3|4 stars:rating/rat4|5 stars:rating/rat5</icon-dictionary>
+  <default-add-method>doNotMove</default-add-method>
+  <item-folder></item-folder>
+  <style>LD::style.css</style>
+  <dir::toinclude>/home/Storage/Eigene Musik/Latin Church Music (Andrew Parrott and The Taverner Consort Choir)</dir::toinclude>
+  <dir::loadlibraries>/media/Movies</dir::loadlibraries>
+  <hide>MenuItem:Set my location to current item's location|Menu:Bibliography|Tab:Bibliography|Tab:Search|Tab:Thumbnail|Import:BibTeX</hide>
+</element>
+</celsiusv2.1.library>

@@ -1,0 +1,146 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>000992</id>
+  <cache-id>GC22C1M</cache-id>
+  <type>Unknown Cache</type>
+  <name>Post Apocalyptical Horse Training by orangetigerprawn, Unknown Cache (3.5/2)</name>
+  <size>Small</size>
+  <difficulty>3.5</difficulty>
+  <terrain>2</terrain>
+  <last-found>2009-12-28</last-found>
+  <placed>2009-12-28</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>orangetigerprawn</placedby>
+  <found>Geocache</found>
+  <lat>53.471667</lat>
+  <lon>-6.1625</lon>
+  <last-logs>FFFF</last-logs>
+  <owner>orangetigerprawn</owner>
+  <description><center><b><font size="+2">Post Apocalyptical Horse
+Training</font></b></center>
+<br /></description>
+  <long-description><center>&nbsp;</center>
+<center>
+<img src="http://img.geocaching.com/cache/f9d0541f-15c1-485a-a0cb-61b3257849e3.jpg"
+     width="600" height="450" align="bottom" border="0"
+     naturalsizeflag="3" /></center>
+<br />
+ 
+<center>&nbsp;</center>
+<br />
+<br />
+ 
+<center>The above coordinates are on private land to which you have
+no right of access.<br />
+ Calculate the length of the track at this location to the nearest
+50 metres. <b>A</b><br />
+ Calculate the area enclosed by the track to the nearest hectare.
+<b>B</b></center>
+<center>Calculate the area enclosed by the track to the nearest
+acre. <b>C</b><br />
+ How many fields border the track to the south? <b>D</b></center>
+<center>&nbsp;</center>
+<center>The final location is:</center>
+<center>N 53° (c+d)*2 point a/b+c*2-b+d<br />
+ W 006° c-d point a/b+c*2-d*2</center>
+<center>&nbsp;</center>
+<center>&nbsp;</center></long-description>
+  <encoded-hints>I wonder If I can fInd the rIght locatIon?</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=f4cf747d-949e-4087-b052-f818599ce30d</url>
+  <url-name>Post Apocalyptical Horse Training</url-name>
+  <logs><ul><li>2010-05-08T19:00:00Z : Found it by abra123cadabra <br />Solved this a while back and finally went to grab it today. We tried "Feeding the swans" first but didn't dare to follow the partly flooded road. After a little detour we found the container immediately. Good hint but not needed as coords were spot on. Nice place and interesting puzzle. Thank you.</li><li>2010-03-12T20:00:00Z : Found it by Fjon <br />Took a long time to figure out the co-ords! Eventually got some numbers that looked correct and went up to the cache today - found it nice and easily.</li><li>2009-12-29T20:00:00Z : Found it by Hezekiah <br />Found after a lengthy puzzle solving session.  Good coordinates - I beamed when I found it!  TFTC!</li><li>2009-12-29T20:00:00Z : Found it by Windsockers <br />Solved this last night but giving the weather I decided to wait till this morning to hunt for the location.
+
+Found easy the clue appeared before my IyI's 
+
+TfTc and the FtF</li><li>2009-12-28T20:15:56Z : Publish Listing by Croaghan <br />Published</li></ul></logs>
+  <original-xml>  <wpt  lat="53.471667" lon="-6.1625">
+    <time>2009-12-28T08:00:00Z</time>
+    <name>GC22C1M</name>
+    <desc>Post Apocalyptical Horse Training by orangetigerprawn, Unknown Cache (3.5/2)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=f4cf747d-949e-4087-b052-f818599ce30d</url>
+    <urlname>Post Apocalyptical Horse Training</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Unknown Cache</type>
+    <groundspeak:cache id="1507087" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Post Apocalyptical Horse Training</groundspeak:name>
+      <groundspeak:placed_by>orangetigerprawn</groundspeak:placed_by>
+      <groundspeak:owner id="2167131">orangetigerprawn</groundspeak:owner>
+      <groundspeak:type>Unknown Cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>3.5</groundspeak:difficulty>
+      <groundspeak:terrain>2</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>Leinster</groundspeak:state>
+      <groundspeak:short_description html="True">&lt;center&gt;&lt;b&gt;&lt;font size="+2"&gt;Post Apocalyptical Horse
+Training&lt;/font&gt;&lt;/b&gt;&lt;/center&gt;
+&lt;br /&gt;</groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;center&gt;&amp;nbsp;&lt;/center&gt;
+&lt;center&gt;
+&lt;img src="http://img.geocaching.com/cache/f9d0541f-15c1-485a-a0cb-61b3257849e3.jpg"
+     width="600" height="450" align="bottom" border="0"
+     naturalsizeflag="3" /&gt;&lt;/center&gt;
+&lt;br /&gt;
+ 
+&lt;center&gt;&amp;nbsp;&lt;/center&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+ 
+&lt;center&gt;The above coordinates are on private land to which you have
+no right of access.&lt;br /&gt;
+ Calculate the length of the track at this location to the nearest
+50 metres. &lt;b&gt;A&lt;/b&gt;&lt;br /&gt;
+ Calculate the area enclosed by the track to the nearest hectare.
+&lt;b&gt;B&lt;/b&gt;&lt;/center&gt;
+&lt;center&gt;Calculate the area enclosed by the track to the nearest
+acre. &lt;b&gt;C&lt;/b&gt;&lt;br /&gt;
+ How many fields border the track to the south? &lt;b&gt;D&lt;/b&gt;&lt;/center&gt;
+&lt;center&gt;&amp;nbsp;&lt;/center&gt;
+&lt;center&gt;The final location is:&lt;/center&gt;
+&lt;center&gt;N 53° (c+d)*2 point a/b+c*2-b+d&lt;br /&gt;
+ W 006° c-d point a/b+c*2-d*2&lt;/center&gt;
+&lt;center&gt;&amp;nbsp;&lt;/center&gt;
+&lt;center&gt;&amp;nbsp;&lt;/center&gt;&lt;p&gt;Additional Waypoints&lt;/p&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>I wonder If I can fInd the rIght locatIon?</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="107550367">
+          <groundspeak:date>2010-05-08T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2383033">abra123cadabra</groundspeak:finder>
+          <groundspeak:text encoded="False">Solved this a while back and finally went to grab it today. We tried "Feeding the swans" first but didn't dare to follow the partly flooded road. After a little detour we found the container immediately. Good hint but not needed as coords were spot on. Nice place and interesting puzzle. Thank you.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="99489237">
+          <groundspeak:date>2010-03-12T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="243261">Fjon</groundspeak:finder>
+          <groundspeak:text encoded="False">Took a long time to figure out the co-ords! Eventually got some numbers that looked correct and went up to the cache today - found it nice and easily.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="93908272">
+          <groundspeak:date>2009-12-29T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="274644">Hezekiah</groundspeak:finder>
+          <groundspeak:text encoded="False">Found after a lengthy puzzle solving session.  Good coordinates - I beamed when I found it!  TFTC!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="93852481">
+          <groundspeak:date>2009-12-29T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="271623">Windsockers</groundspeak:finder>
+          <groundspeak:text encoded="False">Solved this last night but giving the weather I decided to wait till this morning to hunt for the location.
+
+Found easy the clue appeared before my IyI's 
+
+TfTc and the FtF</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="93773942">
+          <groundspeak:date>2009-12-28T20:15:56Z</groundspeak:date>
+          <groundspeak:type>Publish Listing</groundspeak:type>
+          <groundspeak:finder id="1256091">Croaghan</groundspeak:finder>
+          <groundspeak:text encoded="False">Published</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

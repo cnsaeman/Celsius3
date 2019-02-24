@@ -1,0 +1,102 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>004684</id>
+  <cache-id>GCN6C5</cache-id>
+  <type>Traditional Cache</type>
+  <name>Wo war der Osterhase?? by Mamomi-1, Traditional Cache (1/2)</name>
+  <size>Regular</size>
+  <difficulty>1</difficulty>
+  <terrain>2</terrain>
+  <last-found>2010-10-03</last-found>
+  <placed>2005-03-22</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Mamomi-1</placedby>
+  <found>Geocache</found>
+  <lat>50.621633</lat>
+  <lon>9.740817</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>Mamomi-1</owner>
+  <description>
+      </description>
+  <long-description>Tja, hier war irgendwo der Osterhase, hat eine Plastikbox versteckt und möchte nun das ihr sie findet. Da der Ort ein beliebtes Ausflugsziel ist, hat er die Box etwas abseits im Wald plaziert. Aber ich bin mir sicher, dass ihr sie ganz schnell findet. Zum Tauschen solltet ihr etwas österliches mitnehmen. 
+
+Parken könnt ihr bei N50° 37.175  --  E009° 43.959.
+
+Wenn das Blätterdach an den Bäumen wieder dichter ist, wird es vielleicht mit dem Empfang etwas schwierig werden, für diesen Fall gibt es den Hint und das Foto.
+
+The "easter-rabbit" was here and placed a plastik box with easter gifts. This place is a popular trip goal, therefore the box lies apart in the wood. Parking by N50° 37.175, E009° 43.959. If the sheet roof at the trees is again closer, perhaps it will be difficult with the receipt, for this case gives it the hint and the photo.</long-description>
+  <encoded-hints>Am Kreuz ca. 130 m steil bergauf, hinter der Schranke li. in den Wurzeln eines Baumes.
+At the cross approx. 130 m steeply uphill - left.</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=b0871c67-6165-4e51-922c-f2d251da71e4</url>
+  <url-name>Wo war der Osterhase??</url-name>
+  <logs><ul><li>2010-11-14T20:54:50Z : Found it by Boardercgn <br />An einem wunderschönen Herbstsonntag schnell gefunden.
+ Baoardercgn mit Freunden aus Fulda</li><li>2010-10-31T19:00:00Z : Found it by halmafest <br />Schöner Spaziergang bei bestem Wetter. Die Kleinen haben den Cache schnell gefunden, nachdem er von unserem Vorcachern wieder zurückgelegt wurde.</li><li>2010-10-31T19:00:00Z : Found it by BB! <br />Mit anderen cachern einen Schlagabtausch gehabt - lief alles gut für die Kiddis - RN und BB!</li><li>2010-10-03T19:00:00Z : Found it by sema2505 <br /> Im Team mit mherber beim Spaziergang durchs Unterholz sehr gut gefunden! Vielen Dank fürs Verstecken!!</li><li>2010-10-03T19:00:00Z : Found it by Camuvlash <br />TFTC. Schön hier.</li></ul></logs>
+  <original-xml>  <wpt  lat="50.621633" lon="9.740817">
+    <time>2005-03-22T07:00:00Z</time>
+    <name>GCN6C5</name>
+    <desc>Wo war der Osterhase?? by Mamomi-1, Traditional Cache (1/2)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=b0871c67-6165-4e51-922c-f2d251da71e4</url>
+    <urlname>Wo war der Osterhase??</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="220634" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Wo war der Osterhase??</groundspeak:name>
+      <groundspeak:placed_by>Mamomi-1</groundspeak:placed_by>
+      <groundspeak:owner id="275727">Mamomi-1</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Regular</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>2</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">
+      </groundspeak:short_description>
+      <groundspeak:long_description html="False">Tja, hier war irgendwo der Osterhase, hat eine Plastikbox versteckt und möchte nun das ihr sie findet. Da der Ort ein beliebtes Ausflugsziel ist, hat er die Box etwas abseits im Wald plaziert. Aber ich bin mir sicher, dass ihr sie ganz schnell findet. Zum Tauschen solltet ihr etwas österliches mitnehmen. 
+
+Parken könnt ihr bei N50° 37.175  --  E009° 43.959.
+
+Wenn das Blätterdach an den Bäumen wieder dichter ist, wird es vielleicht mit dem Empfang etwas schwierig werden, für diesen Fall gibt es den Hint und das Foto.
+
+The "easter-rabbit" was here and placed a plastik box with easter gifts. This place is a popular trip goal, therefore the box lies apart in the wood. Parking by N50° 37.175, E009° 43.959. If the sheet roof at the trees is again closer, perhaps it will be difficult with the receipt, for this case gives it the hint and the photo.</groundspeak:long_description>
+      <groundspeak:encoded_hints>Am Kreuz ca. 130 m steil bergauf, hinter der Schranke li. in den Wurzeln eines Baumes.
+At the cross approx. 130 m steeply uphill - left.</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="135725189">
+          <groundspeak:date>2010-11-14T20:54:50Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2279761">Boardercgn</groundspeak:finder>
+          <groundspeak:text encoded="False">An einem wunderschönen Herbstsonntag schnell gefunden.
+ Baoardercgn mit Freunden aus Fulda</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="136331829">
+          <groundspeak:date>2010-10-31T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="485172">halmafest</groundspeak:finder>
+          <groundspeak:text encoded="False">Schöner Spaziergang bei bestem Wetter. Die Kleinen haben den Cache schnell gefunden, nachdem er von unserem Vorcachern wieder zurückgelegt wurde.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="133887194">
+          <groundspeak:date>2010-10-31T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3781589">BB!</groundspeak:finder>
+          <groundspeak:text encoded="False">Mit anderen cachern einen Schlagabtausch gehabt - lief alles gut für die Kiddis - RN und BB!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="129799123">
+          <groundspeak:date>2010-10-03T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3665179">sema2505</groundspeak:finder>
+          <groundspeak:text encoded="False"> Im Team mit mherber beim Spaziergang durchs Unterholz sehr gut gefunden! Vielen Dank fürs Verstecken!!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="129576835">
+          <groundspeak:date>2010-10-03T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2724623">Camuvlash</groundspeak:finder>
+          <groundspeak:text encoded="False">TFTC. Schön hier.</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

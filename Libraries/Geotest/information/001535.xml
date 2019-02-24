@@ -1,0 +1,100 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>001535</id>
+  <cache-id>GC1Q7HA</cache-id>
+  <type>Traditional Cache</type>
+  <name>teq2's Keimling by teq2, Traditional Cache (1.5/1.5)</name>
+  <size>Micro</size>
+  <difficulty>1.5</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-09-10</last-found>
+  <placed>2009-04-18</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>teq2</placedby>
+  <found>Geocache</found>
+  <lat>50.633667</lat>
+  <lon>9.7811</lon>
+  <last-logs>XFFFF</last-logs>
+  <owner>teq2</owner>
+  <description><center>Mein Beitrag zum Cachefeld</center></description>
+  <long-description><center>Der Cache ist eine Filmdose.</center>
+<center>Kein Drive-In sondern ausschliesslich unmotorisiert
+erreichbar!</center></long-description>
+  <encoded-hints>
+      </encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=eec88b17-9df8-4c28-a2d1-f57ea862680e</url>
+  <url-name>teq2's Keimling</url-name>
+  <logs><ul><li>2010-10-27T19:00:00Z : Didn't find it by ktmkatie <br />Hier habe ich aufgegeben, bei so vielen Möglichkeiten in muffige Höhlen zu greifen, hatte ich keine Lust mehr...</li><li>2010-09-11T19:00:00Z : Found it by sema2505 <br />sehr schön gewähltes umfeld, viele möglichkeiten und fehltritte :-)
+
+TFTC</li><li>2010-09-11T19:00:00Z : Found it by roberthood <br />Heute auf einer schönen Runde nach äußerst leckerem Kaffeetrinken gut gefunden und dabei auch gleich noch die Kalorien verbrannt. TFTC</li><li>2010-09-10T19:00:00Z : Found it by Ivy69 <br />Zusammen mit svegar gefunden. Der Letzte für heute. TFTC</li><li>2010-09-10T19:00:00Z : Found it by Svegar <br />Die Dose lag ausserhalb des Versteckes, Logbuch okay (neugieriges Eichhörnchen?).
+Alles wieder versteckt.
+
+TFTC</li></ul></logs>
+  <original-xml>  <wpt  lat="50.633667" lon="9.7811">
+    <time>2009-04-18T07:00:00Z</time>
+    <name>GC1Q7HA</name>
+    <desc>teq2's Keimling by teq2, Traditional Cache (1.5/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=eec88b17-9df8-4c28-a2d1-f57ea862680e</url>
+    <urlname>teq2's Keimling</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1204858" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>teq2's Keimling</groundspeak:name>
+      <groundspeak:placed_by>teq2</groundspeak:placed_by>
+      <groundspeak:owner id="1903848">teq2</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="True">&lt;center&gt;Mein Beitrag zum Cachefeld&lt;/center&gt;</groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;center&gt;Der Cache ist eine Filmdose.&lt;/center&gt;
+&lt;center&gt;Kein Drive-In sondern ausschliesslich unmotorisiert
+erreichbar!&lt;/center&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="133335057">
+          <groundspeak:date>2010-10-27T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Didn't find it</groundspeak:type>
+          <groundspeak:finder id="767677">ktmkatie</groundspeak:finder>
+          <groundspeak:text encoded="False">Hier habe ich aufgegeben, bei so vielen Möglichkeiten in muffige Höhlen zu greifen, hatte ich keine Lust mehr...</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="126331279">
+          <groundspeak:date>2010-09-11T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3665179">sema2505</groundspeak:finder>
+          <groundspeak:text encoded="False">sehr schön gewähltes umfeld, viele möglichkeiten und fehltritte :-)
+
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="126325024">
+          <groundspeak:date>2010-09-11T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2882722">roberthood</groundspeak:finder>
+          <groundspeak:text encoded="False">Heute auf einer schönen Runde nach äußerst leckerem Kaffeetrinken gut gefunden und dabei auch gleich noch die Kalorien verbrannt. TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="126211533">
+          <groundspeak:date>2010-09-10T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3091672">Ivy69</groundspeak:finder>
+          <groundspeak:text encoded="False">Zusammen mit svegar gefunden. Der Letzte für heute. TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="126179814">
+          <groundspeak:date>2010-09-10T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3056833">Svegar</groundspeak:finder>
+          <groundspeak:text encoded="False">Die Dose lag ausserhalb des Versteckes, Logbuch okay (neugieriges Eichhörnchen?).
+Alles wieder versteckt.
+
+TFTC</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

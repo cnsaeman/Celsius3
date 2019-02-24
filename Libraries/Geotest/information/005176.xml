@@ -1,0 +1,164 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>005176</id>
+  <cache-id>GC2GR11</cache-id>
+  <type>Traditional Cache</type>
+  <name>Aussterbende Art by ACIDCAT, Traditional Cache (1.5/2.5)</name>
+  <size>Micro</size>
+  <difficulty>1.5</difficulty>
+  <terrain>2.5</terrain>
+  <last-found>2010-11-14</last-found>
+  <placed>2010-10-15</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>ACIDCAT</placedby>
+  <found>Geocache</found>
+  <lat>50.5013</lat>
+  <lon>9.720183</lon>
+  <last-logs>FFWFF</last-logs>
+  <owner>ACIDCAT</owner>
+  <description><b>An diesem Fleckchen Erde findet man sie noch, die in Europa
+leider aussterbende Art.<br />
+<br />
+An einem Waldsee in teils sumpfigem Gebiet fühlt sie sich wohl und
+hofft darauf, dort noch möglichst lange verweilen zu können.</b></description>
+  <long-description><b>Ihr dürft sie berühren, meinetwegen auch streicheln, aber bitte
+geht behutsam mit ihr um.</b><br />
+<br />
+Bei dem Cache handelt es sich um einen Behälter, der äusserlich
+nach einem Small aussieht, innerlich aber nicht mal wirklich ein
+Micro ist.<br />
+<br />
+Zum Entfernen des Logbuchs kann unter Umständen eine Pinzette
+hilfreich sein.<br />
+<br />
+Achtet auch bitte darauf, keine Einzelteile zu verlieren und das
+Ganze wieder richtig zu verschließen. Eure Nachfolger werden es
+euch danken.<br />
+<br />
+Und wenn doch mal was kaputt oder verloren geht einfach mal kurz
+Bescheid geben.<br />
+<br />
+Viel Spaß<br />
+<br />
+<br />
+<center><a href="http://gcvote.com"><img src=
+"http://gcvote.com/gcvote.php?bannertype=stars2&waypoint=GC2GR11&language=de" /></a></center></long-description>
+  <encoded-hints>in augenhöhe unter der wurzel</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=b90ac3e3-e708-48b5-9c85-8659f8c5c49b</url>
+  <url-name>Aussterbende Art</url-name>
+  <logs><ul><li>2010-11-21T20:00:00Z : Found it by Maluma <br />Heute mit Merjan auf einer Sapzierrunde gut gefunden :-)
+
+TFTC Maluma
+
+This entry was edited by Maluma on Monday, 22 November 2010 at 01:48:49.</li><li>2010-11-20T20:00:00Z : Found it by Aldokyl <br />Ich muss gestehen, dass ich auch fast bis zum Knie im Sumpf stand.
+Es gibt aber auch eine Weg zum Cache, der trockener ist.
+Der Cache an sich ist wunderschön gemacht. Danke dafür.</li><li>2010-11-14T20:00:00Z : Write note by ACIDCAT <br />Nein - dass so viele Leute im Schlamm steckenbleiben, war so wirklich nicht geplant. Es hat aber auch sein Gutes, denn abgesehen von Cachern kommen hier freiwillig nur ganz wenige hin, so dass die aussterbende Art nicht verschreckt wird.
+
+Mit einem kleinen Grinsen fühle ich mit den Sumpfopfern, denn Gleiches geschah auch mir beim Verstecken.
+
+Ich für meinen Teil werde bei der derzeitigen Wetterlage zur nächsten Kontrolle Gummistiefel tragen, was sicherlich weiterzuempfehlen ist - vor Allem wenn man seine Wäsche waschen lässt und eine gewisse Erwartungshaltung für dem Umgang damit besteht :)
+
+Weiterhin viel Spaß wünscht
+ACIDCAT</li><li>2010-11-14T20:00:00Z : Found it by daruch <br />So was,habe ich noch nicht im Wald gefunden.
+
+TFTC</li><li>2010-11-14T20:00:00Z : Found it by born to cache <br />Zusammen mit f.etcher gesucht. Man sah der nachher aus... TFTC</li></ul></logs>
+  <original-xml>  <wpt  lat="50.5013" lon="9.720183">
+    <time>2010-10-15T07:00:00Z</time>
+    <name>GC2GR11</name>
+    <desc>Aussterbende Art by ACIDCAT, Traditional Cache (1.5/2.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=b90ac3e3-e708-48b5-9c85-8659f8c5c49b</url>
+    <urlname>Aussterbende Art</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1935674" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Aussterbende Art</groundspeak:name>
+      <groundspeak:placed_by>ACIDCAT</groundspeak:placed_by>
+      <groundspeak:owner id="3859204">ACIDCAT</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>2.5</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="True">&lt;b&gt;An diesem Fleckchen Erde findet man sie noch, die in Europa
+leider aussterbende Art.&lt;br /&gt;
+&lt;br /&gt;
+An einem Waldsee in teils sumpfigem Gebiet fühlt sie sich wohl und
+hofft darauf, dort noch möglichst lange verweilen zu können.&lt;/b&gt;</groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;b&gt;Ihr dürft sie berühren, meinetwegen auch streicheln, aber bitte
+geht behutsam mit ihr um.&lt;/b&gt;&lt;br /&gt;
+&lt;br /&gt;
+Bei dem Cache handelt es sich um einen Behälter, der äusserlich
+nach einem Small aussieht, innerlich aber nicht mal wirklich ein
+Micro ist.&lt;br /&gt;
+&lt;br /&gt;
+Zum Entfernen des Logbuchs kann unter Umständen eine Pinzette
+hilfreich sein.&lt;br /&gt;
+&lt;br /&gt;
+Achtet auch bitte darauf, keine Einzelteile zu verlieren und das
+Ganze wieder richtig zu verschließen. Eure Nachfolger werden es
+euch danken.&lt;br /&gt;
+&lt;br /&gt;
+Und wenn doch mal was kaputt oder verloren geht einfach mal kurz
+Bescheid geben.&lt;br /&gt;
+&lt;br /&gt;
+Viel Spaß&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;center&gt;&lt;a href="http://gcvote.com"&gt;&lt;img src=
+"http://gcvote.com/gcvote.php?bannertype=stars2&amp;amp;waypoint=GC2GR11&amp;amp;language=de" /&gt;&lt;/a&gt;&lt;/center&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>in augenhöhe unter der wurzel</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="136598335">
+          <groundspeak:date>2010-11-21T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1380311">Maluma</groundspeak:finder>
+          <groundspeak:text encoded="False">Heute mit Merjan auf einer Sapzierrunde gut gefunden :-)
+
+TFTC Maluma
+
+This entry was edited by Maluma on Monday, 22 November 2010 at 01:48:49.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="136436062">
+          <groundspeak:date>2010-11-20T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="438973">Aldokyl</groundspeak:finder>
+          <groundspeak:text encoded="False">Ich muss gestehen, dass ich auch fast bis zum Knie im Sumpf stand.
+Es gibt aber auch eine Weg zum Cache, der trockener ist.
+Der Cache an sich ist wunderschön gemacht. Danke dafür.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="135800709">
+          <groundspeak:date>2010-11-14T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Write note</groundspeak:type>
+          <groundspeak:finder id="3859204">ACIDCAT</groundspeak:finder>
+          <groundspeak:text encoded="False">Nein - dass so viele Leute im Schlamm steckenbleiben, war so wirklich nicht geplant. Es hat aber auch sein Gutes, denn abgesehen von Cachern kommen hier freiwillig nur ganz wenige hin, so dass die aussterbende Art nicht verschreckt wird.
+
+Mit einem kleinen Grinsen fühle ich mit den Sumpfopfern, denn Gleiches geschah auch mir beim Verstecken.
+
+Ich für meinen Teil werde bei der derzeitigen Wetterlage zur nächsten Kontrolle Gummistiefel tragen, was sicherlich weiterzuempfehlen ist - vor Allem wenn man seine Wäsche waschen lässt und eine gewisse Erwartungshaltung für dem Umgang damit besteht :)
+
+Weiterhin viel Spaß wünscht
+ACIDCAT</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="135738237">
+          <groundspeak:date>2010-11-14T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3100425">daruch</groundspeak:finder>
+          <groundspeak:text encoded="False">So was,habe ich noch nicht im Wald gefunden.
+
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="135719937">
+          <groundspeak:date>2010-11-14T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3473620">born to cache</groundspeak:finder>
+          <groundspeak:text encoded="False">Zusammen mit f.etcher gesucht. Man sah der nachher aus... TFTC</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

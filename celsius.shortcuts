@@ -1,0 +1,22 @@
+Shortcut definitions for Celsius:
+(Follow the usual rules for shortcuts (accelerator keys) in JAVA)
+----------------------------------------------------
+New tab					:: ctrl N
+Close tab					:: alt MINUS
+Delete logging file				:: alt D
+
+Load library					:: ctrl O
+Save current library				:: ctrl S
+Add items to library				:: alt A
+
+Open selected item				:: alt V
+Completely remove selected items from library		:: ctrl DELETE
+Citation tag to clipboard 				:: alt C
+BibTeX for selected items to clipboard			:: alt B
+Bibliography record for selected items to clipboard		:: alt R
+Export selected items				:: alt X
+Send selected items in email				:: alt E
+Associate file to current entry				:: alt F
+
+Move up						:: ctrl PLUS
+Move down					:: ctrl MINUS

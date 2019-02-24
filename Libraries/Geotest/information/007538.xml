@@ -1,0 +1,122 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>007538</id>
+  <cache-id>GC284K7</cache-id>
+  <type>Traditional Cache</type>
+  <name>Blumen Wasser Bänke ... by HubiFD, Traditional Cache (1.5/1)</name>
+  <size>Micro</size>
+  <difficulty>1.5</difficulty>
+  <terrain>1</terrain>
+  <last-found>2010-11-22</last-found>
+  <placed>2010-05-07</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>HubiFD</placedby>
+  <found>Geocache</found>
+  <lat>50.558117</lat>
+  <lon>9.711783</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>HubiFD</owner>
+  <description>
+      </description>
+  <long-description>... und für Hunde auch ne Tränke. Dieser Cache führt Euch an einen
+Ort der von der Gemeinde Petersberg immer schön bepflanzt wird und
+somit meist seine bunte Pracht zeigt.<br />
+Magnetisch! lädt es hier die Leute zum Verweilen auf den Bänken
+ein<br />
+und der Brunnen lockert die Atmosphäre an diesem belebten
+Straßenbereich etwas auf.<br /></long-description>
+  <encoded-hints>
+      </encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=5dc943ad-9210-4045-a78b-1413120bb9f9</url>
+  <url-name>Blumen Wasser Bänke ...</url-name>
+  <logs><ul><li>2010-12-25T20:00:00Z : Found it by ikeableistift <br />Das war heute bei den Schneemassen gefühltes Terrain 2,5, aber beim zweiten Griff hatte ich die Dose an dieser zentralen Stelle gegen 15h15 auch schon völlig unbelästigt von irgendwelchen Muggels gefunden.
+Frohe Feiertage! [;)]
+TFTC!</li><li>2010-12-14T20:00:00Z : Found it by Fla20m <br />da fährt man täglich vorbei, jedoch findet sich nie die Zeit um anzuhalten... Jetzt aber endlich 5 Minuten gefunden!!! ;-) TFTC</li><li>2010-11-26T20:00:00Z : Found it by jonny-blue <br />Blumen und Wasser gab's heute keins, dafür Bänke.
+Schöner Feierabendcache [:)].
+
+TFTC</li><li>2010-11-22T20:00:00Z : Found it by poenni <br />Aufgrund der guten Koordinaten nach kurzer Suche spät am Abend gut entdeckt. T4TC!
+
+Gruß Poenni</li><li>2010-11-22T20:00:00Z : Found it by Daimonion <br />Nach dem sauberen Cache auch noch diesen bei wahrhaftem Mistwetter gefunden. [:P]
+
+Es grüßt
+
+Daimonion</li></ul></logs>
+  <original-xml>  <wpt  lat="50.558117" lon="9.711783">
+    <time>2010-05-07T07:00:00Z</time>
+    <name>GC284K7</name>
+    <desc>Blumen Wasser Bänke ... by HubiFD, Traditional Cache (1.5/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=5dc943ad-9210-4045-a78b-1413120bb9f9</url>
+    <urlname>Blumen Wasser Bänke ...</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1678690" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Blumen Wasser Bänke ...</groundspeak:name>
+      <groundspeak:placed_by>HubiFD</groundspeak:placed_by>
+      <groundspeak:owner id="2729325">HubiFD</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="True">
+      </groundspeak:short_description>
+      <groundspeak:long_description html="True">... und für Hunde auch ne Tränke. Dieser Cache führt Euch an einen
+Ort der von der Gemeinde Petersberg immer schön bepflanzt wird und
+somit meist seine bunte Pracht zeigt.&lt;br /&gt;
+Magnetisch! lädt es hier die Leute zum Verweilen auf den Bänken
+ein&lt;br /&gt;
+und der Brunnen lockert die Atmosphäre an diesem belebten
+Straßenbereich etwas auf.&lt;br /&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="139179583">
+          <groundspeak:date>2010-12-25T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="890216">ikeableistift</groundspeak:finder>
+          <groundspeak:text encoded="False">Das war heute bei den Schneemassen gefühltes Terrain 2,5, aber beim zweiten Griff hatte ich die Dose an dieser zentralen Stelle gegen 15h15 auch schon völlig unbelästigt von irgendwelchen Muggels gefunden.
+Frohe Feiertage! [;)]
+TFTC!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="138614703">
+          <groundspeak:date>2010-12-14T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3087275">Fla20m</groundspeak:finder>
+          <groundspeak:text encoded="False">da fährt man täglich vorbei, jedoch findet sich nie die Zeit um anzuhalten... Jetzt aber endlich 5 Minuten gefunden!!! ;-) TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="137143625">
+          <groundspeak:date>2010-11-26T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2197776">jonny-blue</groundspeak:finder>
+          <groundspeak:text encoded="False">Blumen und Wasser gab's heute keins, dafür Bänke.
+Schöner Feierabendcache [:)].
+
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="136936141">
+          <groundspeak:date>2010-11-22T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="800027">poenni</groundspeak:finder>
+          <groundspeak:text encoded="False">Aufgrund der guten Koordinaten nach kurzer Suche spät am Abend gut entdeckt. T4TC!
+
+Gruß Poenni</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="136822327">
+          <groundspeak:date>2010-11-22T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="750446">Daimonion</groundspeak:finder>
+          <groundspeak:text encoded="False">Nach dem sauberen Cache auch noch diesen bei wahrhaftem Mistwetter gefunden. [:P]
+
+Es grüßt
+
+Daimonion</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

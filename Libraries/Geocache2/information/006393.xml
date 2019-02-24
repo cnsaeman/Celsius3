@@ -1,0 +1,204 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>006393</id>
+  <cache-id>GCZZG7</cache-id>
+  <type>Traditional Cache</type>
+  <name>Swords Tower by Windsockers, Traditional Cache (1/1.5)</name>
+  <size>Regular</size>
+  <difficulty>1</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2008-09-27</last-found>
+  <placed>2007-05-10</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>Windsockers</placedby>
+  <found>Geocache Found</found>
+  <lat>53.457567</lat>
+  <lon>-6.224067</lon>
+  <last-logs>FFFFFF</last-logs>
+  <owner>Windsockers</owner>
+  <description><center>
+<img src="http://img.geocaching.com/cache/bc095eea-739f-4a24-b6ea-3431473599b1.jpg" />
+</center></description>
+  <long-description><p><b>Swords Round Tower</b></p>
+<p>Swords Round Tower has a conical cap and stands about 26m high.
+The upper 5m of the tower appear to have been rebuilt. Here there
+are four very large windows facing the cardinal points. The
+stonework in this area is rough and crude and totally unlike the
+stonework lower down. The doorway is 1.66m high and less than 1m
+above present ground level.</p>
+<p>In the 10th Century the Round Tower was used as a look-out post
+and housed the bloody remains of King Brian Boru and his son
+Murrough after the famous Battle of Clontarf on their way to be
+buried in Armagh. During the course of the decisive battle the
+Irish king’s army had routed the Viking invaders and at one point
+captured their flag. The black raven featured on the flag remains
+the symbol of Fingal today. Indeed the area gets its name from the
+Viking words ‘Fionn Gall', meaning 'land of the fair haired
+stranger', the term for Vikings who had settled in the area from
+the 8th Century onwards. After the battle many of the defeated
+Vikings remained on as residents in the area enriching the local
+Gaelic traditions with their own indigenous crafts such as wood
+carving and turning, wrought iron working, pottery, sculpting and
+garment design. The tower gives an unrivaled view of Fingal as far
+as the Mountains of Mourne on a clear day. John Sweetman, the
+United Irishman and friend of Wolfe Tone, was buried in the shadow
+of the two towers.</p>
+<p>The square belfry, standing 6 meters to the southeast of the
+round tower was most likely built in the 14th century. The ground
+at a corner of this belfry is at the same level as the ground at
+the base of the round tower. The floor level of the belfry is said
+to be 1.6 meters lower than this, indicating that the ground level
+has been raised significantly and that the doorway of the round
+tower may have been closer to 2 meters above ground level when it
+was built.</p>
+<p>The cross on top the tower was reputedly placed there by the
+Rev. Henry Scardeville, vicar from 1682 - 1704. Early drawings show
+it complete, much as it is today. References were made to repairs
+to the top in 1775, but no further details were given as to what
+kind of repairs took place. Floors and ladders were placed in 1832,
+but the ladders were unusable by 1877.</p>
+<p><b>The Cache</b></p>
+<p>The Cache is a regular box with the usual swaps</p>
+<p>please retrieve and replace the cache with extreme care to
+Prevent Muggles from Discovering the cache.</p>
+<center>
+<img src="http://www.northbeach.ie/gallery/albums/userpics/10001/windsock-anim-small.gif" />
+<br />
+<b>The Windsockers</b></center></long-description>
+  <encoded-hints>under slab beside tree with rail</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=fe854c59-8a3f-45b7-acbf-6c6edec41737</url>
+  <url-name>Swords Tower</url-name>
+  <logs><ul><li>2010-06-10T19:00:00Z : Found it by pierrit <br />The last one during our holiday in Ireland.
+12:00</li><li>2010-05-20T19:00:00Z : Found it by wendiglen <br />Found this on a lovely day in Ireland visiting due to work.
+What a lovely church yard with some very interesting attributes.
+GPS was jumping around for this one but eventually found it took the Brutus travel bug and placed in the Alfie travel bug from England, have a nice trip Alfie
+TFTC</li><li>2010-05-11T19:00:00Z : Found it by Boekan <br />Found on the last day in Irland</li><li>2010-05-07T19:00:00Z : Found it by Fitzet <br />This is an amazing place - I never even knew it was here.  I love these old graveyards.
+
+SL TFTC
+Out TB
+In Plastic flower</li><li>2010-04-24T15:37:41Z : Found it by Cathal75 <br />Easy find under large slab no need to lift... Great fun..</li><li>2008-09-27T19:00:00Z : Found it by Kersti.com <br />Found with JME1979 - what a lovely spot for my 200th cache! </li></ul></logs>
+  <original-xml>  <wpt  lat="53.457567" lon="-6.224067">
+    <time>2007-05-10T07:00:00Z</time>
+    <name>GCZZG7</name>
+    <desc>Swords Tower by Windsockers, Traditional Cache (1/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=fe854c59-8a3f-45b7-acbf-6c6edec41737</url>
+    <urlname>Swords Tower</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="511943" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Swords Tower</groundspeak:name>
+      <groundspeak:placed_by>Windsockers</groundspeak:placed_by>
+      <groundspeak:owner id="271623">Windsockers</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Regular</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>Leinster</groundspeak:state>
+      <groundspeak:short_description html="True">&lt;center&gt;
+&lt;img src="http://img.geocaching.com/cache/bc095eea-739f-4a24-b6ea-3431473599b1.jpg" /&gt;
+&lt;/center&gt;</groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;p&gt;&lt;b&gt;Swords Round Tower&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Swords Round Tower has a conical cap and stands about 26m high.
+The upper 5m of the tower appear to have been rebuilt. Here there
+are four very large windows facing the cardinal points. The
+stonework in this area is rough and crude and totally unlike the
+stonework lower down. The doorway is 1.66m high and less than 1m
+above present ground level.&lt;/p&gt;
+&lt;p&gt;In the 10th Century the Round Tower was used as a look-out post
+and housed the bloody remains of King Brian Boru and his son
+Murrough after the famous Battle of Clontarf on their way to be
+buried in Armagh. During the course of the decisive battle the
+Irish king’s army had routed the Viking invaders and at one point
+captured their flag. The black raven featured on the flag remains
+the symbol of Fingal today. Indeed the area gets its name from the
+Viking words ‘Fionn Gall', meaning 'land of the fair haired
+stranger', the term for Vikings who had settled in the area from
+the 8th Century onwards. After the battle many of the defeated
+Vikings remained on as residents in the area enriching the local
+Gaelic traditions with their own indigenous crafts such as wood
+carving and turning, wrought iron working, pottery, sculpting and
+garment design. The tower gives an unrivaled view of Fingal as far
+as the Mountains of Mourne on a clear day. John Sweetman, the
+United Irishman and friend of Wolfe Tone, was buried in the shadow
+of the two towers.&lt;/p&gt;
+&lt;p&gt;The square belfry, standing 6 meters to the southeast of the
+round tower was most likely built in the 14th century. The ground
+at a corner of this belfry is at the same level as the ground at
+the base of the round tower. The floor level of the belfry is said
+to be 1.6 meters lower than this, indicating that the ground level
+has been raised significantly and that the doorway of the round
+tower may have been closer to 2 meters above ground level when it
+was built.&lt;/p&gt;
+&lt;p&gt;The cross on top the tower was reputedly placed there by the
+Rev. Henry Scardeville, vicar from 1682 - 1704. Early drawings show
+it complete, much as it is today. References were made to repairs
+to the top in 1775, but no further details were given as to what
+kind of repairs took place. Floors and ladders were placed in 1832,
+but the ladders were unusable by 1877.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;The Cache&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;The Cache is a regular box with the usual swaps&lt;/p&gt;
+&lt;p&gt;please retrieve and replace the cache with extreme care to
+Prevent Muggles from Discovering the cache.&lt;/p&gt;
+&lt;center&gt;
+&lt;img src="http://www.northbeach.ie/gallery/albums/userpics/10001/windsock-anim-small.gif" /&gt;
+&lt;br /&gt;
+&lt;b&gt;The Windsockers&lt;/b&gt;&lt;/center&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>under slab beside tree with rail</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="113086830">
+          <groundspeak:date>2010-06-10T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="367416">pierrit</groundspeak:finder>
+          <groundspeak:text encoded="False">The last one during our holiday in Ireland.
+12:00</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="109273835">
+          <groundspeak:date>2010-05-20T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2890395">wendiglen</groundspeak:finder>
+          <groundspeak:text encoded="False">Found this on a lovely day in Ireland visiting due to work.
+What a lovely church yard with some very interesting attributes.
+GPS was jumping around for this one but eventually found it took the Brutus travel bug and placed in the Alfie travel bug from England, have a nice trip Alfie
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="108056118">
+          <groundspeak:date>2010-05-11T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1241587">Boekan</groundspeak:finder>
+          <groundspeak:text encoded="False">Found on the last day in Irland</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="107444549">
+          <groundspeak:date>2010-05-07T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2451856">Fitzet</groundspeak:finder>
+          <groundspeak:text encoded="False">This is an amazing place - I never even knew it was here.  I love these old graveyards.
+
+SL TFTC
+Out TB
+In Plastic flower</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="105482396">
+          <groundspeak:date>2010-04-24T15:37:41Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3213633">Cathal75</groundspeak:finder>
+          <groundspeak:text encoded="False">Easy find under large slab no need to lift... Great fun..</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="53961303">
+          <groundspeak:date>2008-09-27T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="320206">Kersti.com</groundspeak:finder>
+          <groundspeak:text encoded="False">Found with JME1979 - what a lovely spot for my 200th cache! </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs>
+        <groundspeak:travelbug id="1729599" ref="TB29VJE">
+          <groundspeak:name>Alfie</groundspeak:name>
+        </groundspeak:travelbug>
+      </groundspeak:travelbugs>
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

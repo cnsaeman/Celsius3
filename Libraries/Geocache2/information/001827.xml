@@ -1,0 +1,150 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>001827</id>
+  <cache-id>GC20ZFW</cache-id>
+  <type>Traditional Cache</type>
+  <name>The Pepper Canister by Hezekiah, Traditional Cache (1/1)</name>
+  <size>Small</size>
+  <difficulty>1</difficulty>
+  <terrain>1</terrain>
+  <last-found>2009-11-16</last-found>
+  <placed>2009-11-13</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>Hezekiah</placedby>
+  <found>Geocache Found</found>
+  <lat>53.336883</lat>
+  <lon>-6.2445</lon>
+  <last-logs>FFFFFF</last-logs>
+  <owner>Hezekiah</owner>
+  <description><p align="center"><a target="_blank"
+href="http://www.geocachingireland.com/index.html"><img border="0"
+src="http://img.geocaching.com/cache/2280ab19-c5fc-4d33-8efb-797df9c0ac8c.jpg"
+     width="150" height="43" align="middle" /></a></p>
+<hr size="2" />
+<center><font color="Green">Visit the <b>new</b> Geocaching Ireland
+discussion forum <a href="http://www.mccartan.org/forums/"
+target="_blank">HERE</a></font></center>
+<hr size="2" /></description>
+  <long-description><p>St. Stephen's Church, also known as The Pepper Canister Church
+or the Pepper Pot Church was the last of a series of Georgian
+Churches built by the Church of Ireland. This "Gem of Dublin" is
+situated on Mount Street Crescent and is well worth a visit.</p>
+<p><br />
+St. Stephen's holds concerts and events in which world wide acts,
+mainly choirs and bands, perform in front of an in house
+audience.</p>
+<br /></long-description>
+  <encoded-hints>It's attracted to the railings opposite no. 2 Herbert Street!</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=df93b158-7f58-4ebf-84f7-36b04676e992</url>
+  <url-name>The Pepper Canister</url-name>
+  <logs><ul><li>2010-06-14T19:00:00Z : Found it by scheff <br />Together with sina1507 we started our holiday in Dublin today with geocaching.
+TFTC scheff from Germany</li><li>2010-06-14T19:00:00Z : Found it by sina1507 <br />First cache to find in Dublin! Together with scheff we started our in holiday in Dublin today with geocaching.
+TFTC sina1507 from Germany</li><li>2010-06-12T19:00:00Z : Found it by THE_Chris <br />Easy find with the hint, however on my GPSMap60csx anyway, the posted coordinates were over 15m out, putting the cache in a house. Nice spot though.</li><li>2010-06-02T19:00:00Z : Found it by Frigo <br />Found it on my visit in Dublin.
+Thank you for this cache.
+
+Greetings Frigo</li><li>2010-05-26T19:00:00Z : Found it by tmob <br />#2439
+
+We looked for this cache during our holidays in Ireland.
+Six fantastic days, 1800kms driven, and a bunch of caches found.
+Definitely a great way to get to know this beautiful island!
+
+On our way back to the hotel, this was the last cache today. The hint was very helpful.
+
+Thanks for this one...
+Greetings from Portugal</li><li>2009-11-16T20:00:00Z : Found it by Kersti.com <br />Found on a very cold and windy Monday night with JME1979. Surprisingly large for this area but well hidden enough. </li></ul></logs>
+  <original-xml>  <wpt  lat="53.336883" lon="-6.2445">
+    <time>2009-11-13T08:00:00Z</time>
+    <name>GC20ZFW</name>
+    <desc>The Pepper Canister by Hezekiah, Traditional Cache (1/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=df93b158-7f58-4ebf-84f7-36b04676e992</url>
+    <urlname>The Pepper Canister</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1465244" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>The Pepper Canister</groundspeak:name>
+      <groundspeak:placed_by>Hezekiah</groundspeak:placed_by>
+      <groundspeak:owner id="274644">Hezekiah</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>Dublin</groundspeak:state>
+      <groundspeak:short_description html="True">&lt;p align="center"&gt;&lt;a target="_blank"
+href="http://www.geocachingireland.com/index.html"&gt;&lt;img border="0"
+src="http://img.geocaching.com/cache/2280ab19-c5fc-4d33-8efb-797df9c0ac8c.jpg"
+     width="150" height="43" align="middle" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;hr size="2" /&gt;
+&lt;center&gt;&lt;font color="Green"&gt;Visit the &lt;b&gt;new&lt;/b&gt; Geocaching Ireland
+discussion forum &lt;a href="http://www.mccartan.org/forums/"
+target="_blank"&gt;HERE&lt;/a&gt;&lt;/font&gt;&lt;/center&gt;
+&lt;hr size="2" /&gt;</groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;p&gt;St. Stephen's Church, also known as The Pepper Canister Church
+or the Pepper Pot Church was the last of a series of Georgian
+Churches built by the Church of Ireland. This "Gem of Dublin" is
+situated on Mount Street Crescent and is well worth a visit.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;
+St. Stephen's holds concerts and events in which world wide acts,
+mainly choirs and bands, perform in front of an in house
+audience.&lt;/p&gt;
+&lt;br /&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>It's attracted to the railings opposite no. 2 Herbert Street!</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="112896124">
+          <groundspeak:date>2010-06-14T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="374472">scheff</groundspeak:finder>
+          <groundspeak:text encoded="False">Together with sina1507 we started our holiday in Dublin today with geocaching.
+TFTC scheff from Germany</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="112894367">
+          <groundspeak:date>2010-06-14T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2183349">sina1507</groundspeak:finder>
+          <groundspeak:text encoded="False">First cache to find in Dublin! Together with scheff we started our in holiday in Dublin today with geocaching.
+TFTC sina1507 from Germany</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="112514044">
+          <groundspeak:date>2010-06-12T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1191253">THE_Chris</groundspeak:finder>
+          <groundspeak:text encoded="False">Easy find with the hint, however on my GPSMap60csx anyway, the posted coordinates were over 15m out, putting the cache in a house. Nice spot though.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="112973597">
+          <groundspeak:date>2010-06-02T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="384893">Frigo</groundspeak:finder>
+          <groundspeak:text encoded="False">Found it on my visit in Dublin.
+Thank you for this cache.
+
+Greetings Frigo</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="112153601">
+          <groundspeak:date>2010-05-26T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="868022">tmob</groundspeak:finder>
+          <groundspeak:text encoded="False">#2439
+
+We looked for this cache during our holidays in Ireland.
+Six fantastic days, 1800kms driven, and a bunch of caches found.
+Definitely a great way to get to know this beautiful island!
+
+On our way back to the hotel, this was the last cache today. The hint was very helpful.
+
+Thanks for this one...
+Greetings from Portugal</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="90674737">
+          <groundspeak:date>2009-11-16T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="320206">Kersti.com</groundspeak:finder>
+          <groundspeak:text encoded="False">Found on a very cold and windy Monday night with JME1979. Surprisingly large for this area but well hidden enough. </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

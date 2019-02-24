@@ -1,0 +1,136 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>002098</id>
+  <cache-id>GC2BNQ8</cache-id>
+  <type>Multi-cache</type>
+  <name>Schönstatt-Zentrum Dietershausen reloaded by SZD und dreierlei, Multi-cache (1.5/1)</name>
+  <size>Micro</size>
+  <difficulty>1.5</difficulty>
+  <terrain>1</terrain>
+  <last-found>2010-10-02</last-found>
+  <placed>2010-07-13</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>SZD und dreierlei</placedby>
+  <found>Geocache</found>
+  <lat>50.504</lat>
+  <lon>9.78825</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>dreierlei</owner>
+  <description>Da der ursprüngliche Cache mehrmals gemuggelt wurde, mussten wir uns etwas Neues einfallen lassen. Deshalb haben wir das Ziel versetzt.</description>
+  <long-description>Auf der Marienhöhe in Dietershausen, einem staatlich anerkannten Erholungsort in der Rhön, liegt das Schönstatt-Zentrum Dietershausen. Weltweit gibt es etwa 160 Schönstattzentren, deren Mittelpunkt jeweils eine originalgetreue Nachbildung des Urheiligtums, einer kleinen Kapelle in Schönstatt, bildet. Durch die Verehrung der Gottesmutter stehen mehrere Millionen Menschen in über 80 Ländern auf allen Kontinenten mit Schönstatt in Verbindung. Auch in Dietershausen befindet sich so eine Kapelle (siehe GC1FF4R)
+
+Die Schönstatt-Bewegung im Bistum Fulda und die Schönstätter Marienschwestern aus mehreren Diözesen haben hier ihr geistliches Zentrum. Wer Informationen über die Schönstatt-Bewegung haben möchte, kann an der Pforte die freundlichen Schwestern fragen (ehrlich) oder diese Internetseiten aufrufen :
+http://www.dietershausen.de/schoenstatt/
+
+Zum Cache:
+Hinter dem Schönstatt-Zentrum Dietershausen liegt ein parkähnlicher Garten. Hier befindet sich auch ein Friedhof für die verstorbenen Schwestern. Daher sollte dieser Garten nicht betreten bzw. die nötige Disziplin gewahrt werden. Die baulichen Anlagen müssen nicht bestiegen werden. Hilfsmittel sind nicht erforderlich.
+
+Startpunkt: N 50° 30.240 E 009°47.295
+Ziel : 88 m in 119°
+
+Bitte einen Stift mitbringen.
+
+Additional Waypoints
+FN2BNQ8 - GC2BNQ8 Final
+N/S  __ ° __ . ___ W/E ___ ° __ . ___ 
+Finale
+S12BNQ8 - GC2BNQ8 Stage 1
+N 50° 30.240 E 009° 47.295
+Von hier aus müßt ihr 88 m in 119° peilen.
+</long-description>
+  <encoded-hints>
+      </encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=8610fc88-3a1d-4eb3-9ea4-b87819b2b1ab</url>
+  <url-name>Schönstatt-Zentrum Dietershausen reloaded</url-name>
+  <logs><ul><li>2010-11-21T20:00:00Z : Found it by lillyfelix <br />Schnell gefunden. Schöner Cache.
+TFTC</li><li>2010-11-21T20:00:00Z : Found it by 6erpack <br />Da wir schon den ursprünglichen Cache gefunden hatten, wussten wir, dass uns kein gewöhnlicher Schatz erwartet. Und wirklich. Dieser ist auch wieder sehr originell und mit viel Aufwand entstanden.
+Vielen Dank dafür.</li><li>2010-10-30T19:00:00Z : Found it by Bosi1964 <br />Heute auf einer großen Fahrradtour auch hier vorbeigeradelt und auch diese Dose schnell gefunden.
+TFTC
+Bosi
+# 1666</li><li>2010-10-09T19:00:00Z : Found it by Svegar <br />Schnell gefunden, nettes Versteck.</li><li>2010-10-02T19:00:00Z : Found it by Aldokyl <br />Ein wirklich schöner Cache. Danke dafür.</li></ul></logs>
+  <original-xml>  <wpt  lat="50.504" lon="9.78825">
+    <time>2010-07-13T07:00:00Z</time>
+    <name>GC2BNQ8</name>
+    <desc>Schönstatt-Zentrum Dietershausen reloaded by SZD und dreierlei, Multi-cache (1.5/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=8610fc88-3a1d-4eb3-9ea4-b87819b2b1ab</url>
+    <urlname>Schönstatt-Zentrum Dietershausen reloaded</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Multi-cache</type>
+    <groundspeak:cache id="1784525" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Schönstatt-Zentrum Dietershausen reloaded</groundspeak:name>
+      <groundspeak:placed_by>SZD und dreierlei</groundspeak:placed_by>
+      <groundspeak:owner id="1378373">dreierlei</groundspeak:owner>
+      <groundspeak:type>Multi-cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">Da der ursprüngliche Cache mehrmals gemuggelt wurde, mussten wir uns etwas Neues einfallen lassen. Deshalb haben wir das Ziel versetzt.</groundspeak:short_description>
+      <groundspeak:long_description html="False">Auf der Marienhöhe in Dietershausen, einem staatlich anerkannten Erholungsort in der Rhön, liegt das Schönstatt-Zentrum Dietershausen. Weltweit gibt es etwa 160 Schönstattzentren, deren Mittelpunkt jeweils eine originalgetreue Nachbildung des Urheiligtums, einer kleinen Kapelle in Schönstatt, bildet. Durch die Verehrung der Gottesmutter stehen mehrere Millionen Menschen in über 80 Ländern auf allen Kontinenten mit Schönstatt in Verbindung. Auch in Dietershausen befindet sich so eine Kapelle (siehe GC1FF4R)
+
+Die Schönstatt-Bewegung im Bistum Fulda und die Schönstätter Marienschwestern aus mehreren Diözesen haben hier ihr geistliches Zentrum. Wer Informationen über die Schönstatt-Bewegung haben möchte, kann an der Pforte die freundlichen Schwestern fragen (ehrlich) oder diese Internetseiten aufrufen :
+http://www.dietershausen.de/schoenstatt/
+
+Zum Cache:
+Hinter dem Schönstatt-Zentrum Dietershausen liegt ein parkähnlicher Garten. Hier befindet sich auch ein Friedhof für die verstorbenen Schwestern. Daher sollte dieser Garten nicht betreten bzw. die nötige Disziplin gewahrt werden. Die baulichen Anlagen müssen nicht bestiegen werden. Hilfsmittel sind nicht erforderlich.
+
+Startpunkt: N 50° 30.240 E 009°47.295
+Ziel : 88 m in 119°
+
+Bitte einen Stift mitbringen.
+
+Additional Waypoints
+FN2BNQ8 - GC2BNQ8 Final
+N/S  __ ° __ . ___ W/E ___ ° __ . ___ 
+Finale
+S12BNQ8 - GC2BNQ8 Stage 1
+N 50° 30.240 E 009° 47.295
+Von hier aus müßt ihr 88 m in 119° peilen.
+</groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="136669738">
+          <groundspeak:date>2010-11-21T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3765430">lillyfelix</groundspeak:finder>
+          <groundspeak:text encoded="False">Schnell gefunden. Schöner Cache.
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="136631597">
+          <groundspeak:date>2010-11-21T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1153356">6erpack</groundspeak:finder>
+          <groundspeak:text encoded="False">Da wir schon den ursprünglichen Cache gefunden hatten, wussten wir, dass uns kein gewöhnlicher Schatz erwartet. Und wirklich. Dieser ist auch wieder sehr originell und mit viel Aufwand entstanden.
+Vielen Dank dafür.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="133737772">
+          <groundspeak:date>2010-10-30T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2308415">Bosi1964</groundspeak:finder>
+          <groundspeak:text encoded="False">Heute auf einer großen Fahrradtour auch hier vorbeigeradelt und auch diese Dose schnell gefunden.
+TFTC
+Bosi
+# 1666</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="130371452">
+          <groundspeak:date>2010-10-09T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3056833">Svegar</groundspeak:finder>
+          <groundspeak:text encoded="False">Schnell gefunden, nettes Versteck.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="130211196">
+          <groundspeak:date>2010-10-02T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="438973">Aldokyl</groundspeak:finder>
+          <groundspeak:text encoded="False">Ein wirklich schöner Cache. Danke dafür.</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

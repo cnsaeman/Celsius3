@@ -1,0 +1,118 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>002287</id>
+  <cache-id>GC1M6M4</cache-id>
+  <type>Traditional Cache</type>
+  <name>Heimat Blick by  Bunkerspecht Henne, Traditional Cache (1.5/1.5)</name>
+  <size>Small</size>
+  <difficulty>1.5</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-07-21</last-found>
+  <placed>2009-01-30</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby> Bunkerspecht Henne</placedby>
+  <found>Geocache</found>
+  <lat>50.493733</lat>
+  <lon>9.743217</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>Bunkerspecht Henne</owner>
+  <description>Aller Anfang ist schwer, doch einmal muß man ja mal anfangen. Deshalb hier mein erster Cache!</description>
+  <long-description>Die ganze Welt geht Geocachen, nur ein kleines Dorf in Osthessen, hielt bis jetzt tapfer stand.
+Bis ich mit Bunkerspecht ein neues Hobby entdeckte und mich entschloss, unseren kleinen Ort, der Welt zu zeigen.
+In der nähe gibt es Parkmöglichkeiten und einen schönen Grillplatz zum verweilen.
+
+
+
+
+Bitte keine Bilder vom Versteck im Log veröffentlichen!!!!
+
+Additional Waypoints
+PP1M6M4 - Parkmöglichkeiten
+N 50° 29.520 E 009° 44.923
+
+</long-description>
+  <encoded-hints>Loch im Baum</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=1b3078b2-170f-4c9b-8bc3-51822eca8a2f</url>
+  <url-name>Heimat Blick</url-name>
+  <logs><ul><li>2010-11-21T20:00:00Z : Found it by lillyfelix <br />Schnell gefunden.
+TFTC</li><li>2010-09-02T19:00:00Z : Found it by mayday malone <br />nach sehr schönem spaziergang mit den kiddies erfolgreich geloggt. wirklich sehr schön und sehr ruhig hier hinten. danke und gruß. mayday
+
+out: kleines geduldspiel
+in: kleine bertfigur</li><li>2010-08-01T19:00:00Z : Found it by Ivy69 <br />Ein wirklich schönes Plätzchen.TFTC</li><li>2010-07-30T19:00:00Z : Found it by Quad-Rider <br />Tolle Aussicht. Danke für den schönen Cache.</li><li>2010-07-21T19:00:00Z : Found it by Camuvlash <br />TFTC</li></ul></logs>
+  <original-xml>  <wpt  lat="50.493733" lon="9.743217">
+    <time>2009-01-30T08:00:00Z</time>
+    <name>GC1M6M4</name>
+    <desc>Heimat Blick by  Bunkerspecht Henne, Traditional Cache (1.5/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=1b3078b2-170f-4c9b-8bc3-51822eca8a2f</url>
+    <urlname>Heimat Blick</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1114611" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Heimat Blick</groundspeak:name>
+      <groundspeak:placed_by> Bunkerspecht Henne</groundspeak:placed_by>
+      <groundspeak:owner id="2010366">Bunkerspecht Henne</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">Aller Anfang ist schwer, doch einmal muß man ja mal anfangen. Deshalb hier mein erster Cache!</groundspeak:short_description>
+      <groundspeak:long_description html="False">Die ganze Welt geht Geocachen, nur ein kleines Dorf in Osthessen, hielt bis jetzt tapfer stand.
+Bis ich mit Bunkerspecht ein neues Hobby entdeckte und mich entschloss, unseren kleinen Ort, der Welt zu zeigen.
+In der nähe gibt es Parkmöglichkeiten und einen schönen Grillplatz zum verweilen.
+
+
+
+
+Bitte keine Bilder vom Versteck im Log veröffentlichen!!!!
+
+Additional Waypoints
+PP1M6M4 - Parkmöglichkeiten
+N 50° 29.520 E 009° 44.923
+
+</groundspeak:long_description>
+      <groundspeak:encoded_hints>Loch im Baum</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="136671699">
+          <groundspeak:date>2010-11-21T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3765430">lillyfelix</groundspeak:finder>
+          <groundspeak:text encoded="False">Schnell gefunden.
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="124897103">
+          <groundspeak:date>2010-09-02T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3592921">mayday malone</groundspeak:finder>
+          <groundspeak:text encoded="False">nach sehr schönem spaziergang mit den kiddies erfolgreich geloggt. wirklich sehr schön und sehr ruhig hier hinten. danke und gruß. mayday
+
+out: kleines geduldspiel
+in: kleine bertfigur</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="119617006">
+          <groundspeak:date>2010-08-01T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3091672">Ivy69</groundspeak:finder>
+          <groundspeak:text encoded="False">Ein wirklich schönes Plätzchen.TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="119252767">
+          <groundspeak:date>2010-07-30T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2632720">Quad-Rider</groundspeak:finder>
+          <groundspeak:text encoded="False">Tolle Aussicht. Danke für den schönen Cache.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="118030310">
+          <groundspeak:date>2010-07-21T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2724623">Camuvlash</groundspeak:finder>
+          <groundspeak:text encoded="False">TFTC</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

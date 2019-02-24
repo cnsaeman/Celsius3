@@ -1,0 +1,112 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>005357</id>
+  <cache-id>GCV13K</cache-id>
+  <type>Traditional Cache</type>
+  <name>Bridge for Sale by Kili or bust, Traditional Cache (1/1)</name>
+  <size>Small</size>
+  <difficulty>1</difficulty>
+  <terrain>1</terrain>
+  <last-found>2010-02-20</last-found>
+  <placed>2006-03-23</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>Kili or bust</placedby>
+  <found>Geocache</found>
+  <lat>53.33975</lat>
+  <lon>-6.52805</lon>
+  <last-logs>FFFFX</last-logs>
+  <owner>Kili or bust</owner>
+  <description><p align="center"><a target="_blank" href=
+   "http://www.geocachingireland.com/index.html"><img border="0"
+   src=
+   "http://img.geocaching.com/cache/2280ab19-c5fc-4d33-8efb-797df9c0ac8c.jpg"
+     width="150" height="43" align="middle"></a></p>
+<hr size="2">
+<center><font color="Green">Visit The Geocaching Ireland discussion
+forum <a href="http://www.mccartan.org/forums/" target=
+"_blank">HERE</a></font></center>
+<hr size="2"></description>
+  <long-description>A simple cache in a County Kildare town which is fast becoming
+another suburb of sprawling Dublin. For the moment though it still
+retains a little of it's rural nature. The cache site is a very old
+remnant of that past but it is surrounded by all the trappings of
+modern progress as well. A very easy one!</long-description>
+  <encoded-hints>
+      </encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=44f66044-1e9a-4265-9535-35750a5011d2</url>
+  <url-name>Bridge for Sale</url-name>
+  <logs><ul><li>2010-06-13T19:00:00Z : Found it by Mullingar Man <br />gps all over the place, but found it eventually, TFTC!</li><li>2010-06-13T19:00:00Z : Found it by Soupcooler <br />Gps playing up today so had to resort to using my instinct! Found after a bit of a search! TFTC!</li><li>2010-06-10T19:00:00Z : Found it by Spark_ie <br />GPS was playing games on me for ages, kept urging me to climb the metal fence and wander around the ruins.. I knew the cache couldn't be in there.. A call to the cache owner confirmed this suspicion, and a quick search nearby surrendered the cache to me. Having signed the log, I looked at the GPS and it was telling me 0m !!!  It was 16m away 2 minutes ago ! Jeanie Mack!  As for the cache name, makes total sense to me ... How couldn't it?  [:)]  TFTC, Spark_ie</li><li>2010-03-21T19:00:00Z : Found it by DoJoPa <br />TFTC, another quick find, but where is the bidge for sale?</li><li>2010-02-20T20:00:00Z : Didn't find it by culann <br />Search for anout 20mins in fading light but could not find it. GPS put me right on the spot but it failed me to find it. I will try again another day [:(]</li></ul></logs>
+  <original-xml>  <wpt  lat="53.33975" lon="-6.52805">
+    <time>2006-03-23T07:00:00Z</time>
+    <name>GCV13K</name>
+    <desc>Bridge for Sale by Kili or bust, Traditional Cache (1/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=44f66044-1e9a-4265-9535-35750a5011d2</url>
+    <urlname>Bridge for Sale</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="364519" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Bridge for Sale</groundspeak:name>
+      <groundspeak:placed_by>Kili or bust</groundspeak:placed_by>
+      <groundspeak:owner id="281705">Kili or bust</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>Leinster</groundspeak:state>
+      <groundspeak:short_description html="True">&lt;p align="center"&gt;&lt;a target="_blank" href=
+   "http://www.geocachingireland.com/index.html"&gt;&lt;img border="0"
+   src=
+   "http://img.geocaching.com/cache/2280ab19-c5fc-4d33-8efb-797df9c0ac8c.jpg"
+     width="150" height="43" align="middle"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;hr size="2"&gt;
+&lt;center&gt;&lt;font color="Green"&gt;Visit The Geocaching Ireland discussion
+forum &lt;a href="http://www.mccartan.org/forums/" target=
+"_blank"&gt;HERE&lt;/a&gt;&lt;/font&gt;&lt;/center&gt;
+&lt;hr size="2"&gt;</groundspeak:short_description>
+      <groundspeak:long_description html="True">A simple cache in a County Kildare town which is fast becoming
+another suburb of sprawling Dublin. For the moment though it still
+retains a little of it's rural nature. The cache site is a very old
+remnant of that past but it is surrounded by all the trappings of
+modern progress as well. A very easy one!</groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="112900798">
+          <groundspeak:date>2010-06-13T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2717815">Mullingar Man</groundspeak:finder>
+          <groundspeak:text encoded="False">gps all over the place, but found it eventually, TFTC!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="112685494">
+          <groundspeak:date>2010-06-13T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2767849">Soupcooler</groundspeak:finder>
+          <groundspeak:text encoded="False">Gps playing up today so had to resort to using my instinct! Found after a bit of a search! TFTC!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="112346463">
+          <groundspeak:date>2010-06-10T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="950104">Spark_ie</groundspeak:finder>
+          <groundspeak:text encoded="False">GPS was playing games on me for ages, kept urging me to climb the metal fence and wander around the ruins.. I knew the cache couldn't be in there.. A call to the cache owner confirmed this suspicion, and a quick search nearby surrendered the cache to me. Having signed the log, I looked at the GPS and it was telling me 0m !!!  It was 16m away 2 minutes ago ! Jeanie Mack!  As for the cache name, makes total sense to me ... How couldn't it?  [:)]  TFTC, Spark_ie</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="100513396">
+          <groundspeak:date>2010-03-21T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2023723">DoJoPa</groundspeak:finder>
+          <groundspeak:text encoded="False">TFTC, another quick find, but where is the bidge for sale?</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="97713533">
+          <groundspeak:date>2010-02-20T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Didn't find it</groundspeak:type>
+          <groundspeak:finder id="2903112">culann</groundspeak:finder>
+          <groundspeak:text encoded="False">Search for anout 20mins in fading light but could not find it. GPS put me right on the spot but it failed me to find it. I will try again another day [:(]</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

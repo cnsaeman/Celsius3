@@ -1,0 +1,617 @@
+<?xml version="1.0"?>
+<celsiusv2.2.librarytemplates>
+<element>
+  <name>ArXiv/Spires</name>
+  <index>type|title|authors|pages|identifier|keywords|inspirekey</index>
+  <standardfields>abstract|remarks</standardfields>
+  <tablecolumns>type|title|authors&1|identifier</tablecolumns>
+  <columnheaders>|Title|Authors|Identifier</columnheaders>
+  <columntypes>symbol|text|people</columntypes>
+  <columnsizes>-22|580|181|180</columnsizes>
+  <autosortcolumn>1</autosortcolumn>
+  <people>authors</people>
+  <plugins-manual>Adjust Identifier|Adjust Type|Look at Amazon|Look at Inspire|Look at ADSabs|GetDOI|Get from Filename|Get from JSTOR|Get from PDF Header|Get from Filename|Get from arXiv|Get from Inspire|Get from PDF Header|Update Publication Record|Update Recent Publication Record|Update to Inspire|Convert ps.gz to pdf|Create Thumbnails (epub,djvu,pdf)|CropPDF/eReader|Stamp PDF Header|Repair PDF|Create List of Publications|Create List of Publications/Web|Update Citation Count</plugins-manual>
+  <plugins-auto>|Get from Filename|Get from arXiv|Get from Inspire|Get from PDF Header|Get from JSTOR</plugins-auto>
+  <plugins-export>BibTeX|Simple reference|Standard LaTeX|Extended LaTeX</plugins-export>
+  <filetypes>pdf|ps.gz|djvu|epub|html|war|rtf</filetypes>
+  <searchtags>title|authors|identifier|abstract|remarks|pages|type|filetype|lastmodified|date|filesize|plaintext</searchtags>
+  <hide>MenuItem:Set my location to current item's location</hide>
+  <essential-fields>title|authors</essential-fields>
+  <differentiating-fields>title|authors</differentiating-fields>
+  <item-representation>"#title#" by #authors&1#</item-representation>
+  <naming-convention>#title# (#authors&1#).#filetype#</naming-convention>
+  <choice-fields>type:Book,eBook,Lecture Notes,Other,Paper,Preprint,Review,Talk,Thesis,Book Chapter</choice-fields>
+  <icon-fields>type</icon-fields>
+  <item-folder>LD::documents</item-folder>
+  <infoMode-0><html>
+<body>
+<table width='100%'>
+<tr>
+<td valign='top'>
+<b>#authors&3#</b>
+<h2>#title#</h2>
+#if#type# #type#,
+#if#pages# #pages# pages
+#if#location#, #filesize#
+#if#arxiv-name#, #arxiv-name#/#arxiv-number#
+#if#date#, #date#
+<br>registered in:
+#if#autoregistered# |#autoregistered#|
+#if#registered# |#registered#|
+<br>
+#if#filetype#<a href='http://$$view'>#filetype#-file</a>&nbsp;
+#if#altversions# #altversions#
+#if#journallink#<a href='http://$$journallink'>Journal link</a>&nbsp;
+#if#bibtex.doi#<a href='http://dx.doi.org/#bibtex.doi#'>doi-link</a>&nbsp;
+#if#arxiv-ref#<a href='http://www.arxiv.org/abs/#arxiv-ref#'>arXiv</a>&nbsp;
+#if#spires-key#<a href='http://www-spires.dur.ac.uk/cgi-bin/spiface/hep/www?rawcmd=FIND+key+#spires-key#'>Slac-SPIRES</a>&nbsp;
+#if#inspirekey#<a href='http://inspirebeta.net/record/#inspirekey#'>Inspire</a>&nbsp;
+#if#arxiv-ref#<a href='http://citebase.eprints.org/cgi-bin/citations?id=oai:arXiv.org:#arxiv-ref#'>CiteBase</a>&nbsp;
+#if#arxiv-ref#<a href='http://eprintweb.org/S/article/#arxiv-name#/#arxiv-number#'>eprintWeb</a>&nbsp;
+#if#mathscinet#<a href='http://www.ams.org/mathscinet-getitem?mr=#mathscinet#'>MathSciNet</a>&nbsp;
+#if#amazon-link#<a href='#amazon-link#'>Amazon</a>&nbsp;
+#if#$$links# <br>
+#if#$$links-refers to# <a href='http://$$links-refers to'>References</a>&nbsp;
+#if#$$links-citation# <a href='http://$$links-citation'>Citations</a>&nbsp;
+#if#abstract#<h3>Abstract</h3>
+#if#abstract# #abstract#<br>
+<br>
+#if#keywords# <b>Keywords:</b> #keywords#<br>
+#if#remarks# <b>Remarks:</b> #remarks#
+#if#bibtex# <h3>Bibliographic information</h3>
+#if#bibtex# <pre width="20">#bibtex#</pre><br>
+<h3>Celsius related information</h3>
+ID: #id#
+#if#recognition#, recognition level: #recognition#.
+</td><td valign='top'>
+#if#thumbnail#<img src='file:#$thumbnail#'>
+</td></tr>
+</table>
+</body>
+</html></infoMode-0>
+  <infoMode-1><html><body>
+<h2>#person#</h2>
+<hr>
+<br>
+From this author: #currentitems# documents with #currentpages# pages in the library.<br>
+<br>
+#if#homepage# <a href="#homepage#">Homepage</a>&nbsp;
+#if#email# #email#&nbsp;
+<a href="http://www.slac.stanford.edu/spires/find/hep/wwwscan?subfile=wwwhepau&rawcmd=#person#">Look at Slac Spires for #person#</a>
+<br><br>
+<b>Collaborators:</b><br>
+#collaborators#
+#if#remarks# <br><br><b>Remarks:</b><br>#remarks#</body></html></infoMode-1>
+  <infoMode-2><html><body>
+<h2>#category#</h2>
+<hr>
+<br>
+In this category: #currentitems# documents with #currentpages# pages in the library.<br>
+#if#remarks# <br><hr><pre>#remarks#</pre>
+</body></html></infoMode-2>
+  <infoMode-3><html><body>
+<h2>Multiple documents selected</h2>
+<hr>
+<br>
+In this selection: #currentitems# documents with #currentpages# pages in the library.<br>
+</body></html></infoMode-3>
+  <infoMode-4><html><body>
+<h2>General Search</h2>
+<hr>
+<br>
+In these search results: #currentitems# documents with #currentpages# pages in the library.<br>
+</body></html></infoMode-4>
+  <infoMode-5><html><body>
+<h2>General Search</h2>
+<hr>
+<br>
+In these search results: #currentitems# documents with #currentpages# pages in the library.<br>
+</body></html></infoMode-5>
+  <infoMode-6><html><body>
+<h2>Keyword Search</h2>
+<hr>
+<br>
+In these search results: #currentitems# documents with #currentpages# pages in the library.<br>
+</body></html></infoMode-6>
+  <infoMode-7><html><body>
+<h2>Links</h2>
+<hr>
+<br>
+Links of this type: #currentitems# documents with #currentpages# pages in the library.<br>
+</body></html></infoMode-7>
+  <stylesheet>body {color:#000; font-family:sans; margin: 4px; }
+h1 {color: darkgray;}
+h2 {color: darkgray;}
+</stylesheet>
+  <librarystructure><?xml version='1.0'?>
+<menu title="Maths/Physics">
+    <menu title="String Theory">
+        <menu title="Books (ST)"/>
+        <menu title="Lecture Notes (ST)"/>
+        <menu title="D-Branes">
+            <menu title="Reviews (D-Branes)"/>
+        </menu>
+        <menu title="Matrix Models">
+            <menu title="Books & Reviews (MM)"/>
+            <menu title="BFSS"/>
+            <menu title="IKKT"/>
+            <menu title="Matrix Quantum Mechanics"/>
+            <menu title="U(N) integrals"/>
+        </menu>
+        <menu title="Topological String Theory">
+            <menu title="Calabi-Yau manifolds"/>
+            <menu title="Mirror Symmetry"/>
+            <menu title="Twistor String Theory"/>
+        </menu>
+        <menu title="Compactification">
+            <menu title="Calabi-Yau manifolds"/>
+            <menu title="Mirror Symmetry"/>
+        </menu>
+        <menu title="String Field Theory"/>
+        <menu title="AdS/CFT"/>
+        <menu title="Landscapism"/>
+        <menu title="M/F-theory">
+            <menu title="Reviews (M-theory)"/>
+        </menu>
+        <menu title="Noncommutative Field Theory"/>
+    </menu>
+    <menu title="Quantum Field Theory">
+        <menu title="Books (QFT)"/>
+        <menu title="Lecture Notes (QFT)"/>
+        <menu title="Gauge Theories">
+            <menu title="Yang-Mills theory"/>
+            <menu title="Self-Dual Yang-Mills">
+                <menu title="ADHM construction"/>
+                <menu title="Nahm construction"/>
+                <menu title="Bogomolny equations"/>
+            </menu>
+            <menu title="Chern-Simons theory">
+                <menu title="CS from Fermions"/>
+            </menu>
+            <menu title="Quantum Chromodynamics"/>
+            <menu title="N=1* SYM"/>
+            <menu title="Monopoles"/>
+        </menu>
+        <menu title="Twistors">
+            <menu title="Reviews (Twistors)"/>
+        </menu>
+        <menu title="Supersymmetry">
+            <menu title="Books & Reviews (SUSY)"/>
+            <menu title="Supersymmetry Breaking"/>
+            <menu title="Supermathematics">
+                <menu title="Supermanifolds"/>
+                <menu title="Super Lie Groups"/>
+            </menu>
+            <menu title="Supergravity Books/Lecture Notes"/>
+            <menu title="projective Superspace"/>
+        </menu>
+        <menu title="Conformal Field Theory">
+            <menu title="Reviews (CFT)"/>
+        </menu>
+        <menu title="Topological Field Theory"/>
+        <menu title="Thermal Field Theory"/>
+        <menu title="Standard model"/>
+        <menu title="Quantum Groups"/>
+        <menu title="Integrability"/>
+        <menu title="Renormalons"/>
+        <menu title="Quantizations">
+            <menu title="BV-Quantization"/>
+            <menu title="Contact Manifolds"/>
+            <menu title="Geometric quantization"/>
+        </menu>
+    </menu>
+    <menu title="Other Physics">
+        <menu title="Mechanics"/>
+        <menu title="Quantum Mechanics">
+            <menu title="Interpretations of QM"/>
+        </menu>
+        <menu title="Thermodynamics and Statistics"/>
+        <menu title="Electrodynamics"/>
+        <menu title="Relativity"/>
+        <menu title="Cosmology"/>
+        <menu title="Experimental and Applied Physics"/>
+        <menu title="Solid state physics"/>
+        <menu title="Tables and references"/>
+    </menu>
+    <menu title="Mathematics">
+        <menu title="Foundations of mathematics">
+            <menu title="Logic and Set Theory"/>
+            <menu title="Category theory"/>
+        </menu>
+        <menu title="Algebraic areas">
+            <menu title="Algebra">
+                <menu title="A_inf and L_inf"/>
+            </menu>
+            <menu title="Linear Algebra"/>
+            <menu title="Algebraic topology"/>
+            <menu title="Group theory">
+                <menu title="Lie groups"/>
+                <menu title="Spinors and Clifford algebras"/>
+                <menu title="Homogeneous spaces"/>
+            </menu>
+            <menu title="Hopf algebras"/>
+            <menu title="K-Theory"/>
+            <menu title="Number theory"/>
+        </menu>
+        <menu title="Analytical areas">
+            <menu title="Complex analysis"/>
+            <menu title="Differential equations"/>
+            <menu title="Functional analysis"/>
+        </menu>
+        <menu title="Geometrical areas">
+            <menu title="Algebraic geometry">
+                <menu title="Elliptic curves"/>
+                <menu title="Toric geometry"/>
+                <menu title="Surfaces"/>
+                <menu title="D-modules"/>
+            </menu>
+            <menu title="Complex geometry"/>
+            <menu title="Differential geometry">
+                <menu title="Contact geometry"/>
+            </menu>
+            <menu title="Manifolds"/>
+            <menu title="Supermathematics">
+                <menu title="Supermanifolds"/>
+                <menu title="Super Lie groups"/>
+            </menu>
+            <menu title="Topology"/>
+            <menu title="Loop space">
+                <menu title="YM in LS">
+                    <menu title="Hodge star on LS"/>
+                    <menu title="M5-brane actions"/>
+                    <menu title="(2,0) theory"/>
+                </menu>
+            </menu>
+            <menu title="Diffeological Spaces"/>
+        </menu>
+        <menu title="Applied mathematics">
+            <menu title="Numerics"/>
+        </menu>
+        <menu title="Tables and references"/>
+        <menu title="Financial Mathematics"/>
+    </menu>
+    <menu title="Recent Subjects">
+        <menu title="Noncommutativity"/>
+        <menu title="Gauge Theories (RC)">
+            <menu title="Dijkgraaf-Vafa"/>
+            <menu title="Nonanticommutativity"/>
+            <menu title="SW Theory"/>
+        </menu>
+        <menu title="Nonanticommutativity"/>
+        <menu title="Twistor String Theory"/>
+        <menu title="Drinfeld twists"/>
+        <menu title="Fuzzy Geometry">
+            <menu title="Fuzzy Flag Varieties"/>
+            <menu title="Supersphere"/>
+            <menu title="Flag manifolds"/>
+            <menu title="Sigma models"/>
+            <menu title="Material fuzzy susy"/>
+            <menu title="Toeplitz Quantization"/>
+        </menu>
+        <menu title="BLG theory etc">
+            <menu title="ABJM Model"/>
+            <menu title="BLG with infinite dim gauge algebra"/>
+        </menu>
+        <menu title="beta-deformations"/>
+        <menu title="Loop Space"/>
+    </menu>
+    <menu title="Projects">
+        <menu title="to read"/>
+        <menu title="in progress">
+            <menu title="Lax pair Basu-Harvey"/>
+            <menu title="Gerbe-Quantization">
+                <menu title="Contact geometry"/>
+                <menu title="to put into context (GQ001)"/>
+                <menu title="key papers (GQ001)"/>
+                <menu title="integrating Courant algebroids etc"/>
+                <menu title="groupoid issues">
+                    <menu title="groupoid integration"/>
+                </menu>
+                <menu title="Gerbes and Loop spaces">
+                    <menu title="projective vector bundles"/>
+                    <menu title="n-plectic Geometry"/>
+                    <menu title="Gerby literature"/>
+                </menu>
+                <menu title="Realizations of 3-algebra (fuzzy)"/>
+                <menu title="higher bracket structures"/>
+            </menu>
+            <menu title="strict Loop Space">
+                <menu title="YM in LS"/>
+                <menu title="non-abelian Gerbes"/>
+            </menu>
+            <menu title="5d instantons"/>
+            <menu title="CHW on curved backgrounds">
+                <menu title="twisted superspace"/>
+                <menu title="SUSY on curved backgrounds"/>
+                <menu title="topological FT"/>
+            </menu>
+            <menu title="Noncomm ADHMNS">
+                <menu title="Noncommutative loop space"/>
+            </menu>
+            <menu title="Fourier-Mukai"/>
+            <menu title="BLG, BPS solutions">
+                <menu title="Classification of BPS subsectors"/>
+                <menu title="Actual BPS"/>
+                <menu title="new twistor space"/>
+            </menu>
+            <menu title="BLG VY-potential"/>
+            <menu title="NC Taub Nut"/>
+            <menu title="Twistors and SD strings"/>
+        </menu>
+        <menu title="finished">
+            <menu title="Supermanifolds">
+                <menu title="first Supermanifolds paper"/>
+                <menu title="Nonanticommutative Superspace"/>
+                <menu title="Drinfeld Twist"/>
+            </menu>
+            <menu title="Twistors">
+                <menu title="Supertwistors"/>
+                <menu title="Fat Complex Supermanifolds"/>
+                <menu title="Mini-Supertwistors"/>
+                <menu title="Mini-Superambitwistors"/>
+                <menu title="Twistor Matrix Model"/>
+            </menu>
+            <menu title="Fuzzy geometry">
+                <menu title="Fuzzy Gravity">
+                    <menu title="Gauge condition Aixi=0"/>
+                    <menu title="Embeding issue"/>
+                    <menu title="Main sources"/>
+                </menu>
+                <menu title="Fuzzy Flags"/>
+                <menu title="Fuzzy Toric Geometries"/>
+                <menu title="Generalized Berezin Quantization"/>
+                <menu title="superBerezin-Toeplitz">
+                    <menu title="FT aspects"/>
+                </menu>
+                <menu title="Quantized Nambu-Poisson Manifolds"/>
+                <menu title="Multitrace MM"/>
+                <menu title="3-Lie algebra models">
+                    <menu title="recherche001"/>
+                </menu>
+                <menu title="1dMM Multitrace">
+                    <menu title="more sols"/>
+                </menu>
+            </menu>
+            <menu title="M2-M5">
+                <menu title="Generalized 3-Lie algebras">
+                    <menu title="k-lie algebras"/>
+                    <menu title="non-abelian 2-forms"/>
+                    <menu title="further non-associative stuff"/>
+                    <menu title="Superfields (M2-M5)"/>
+                    <menu title="Lie Triple Systems"/>
+                </menu>
+                <menu title="N=2 and N=4 actions"/>
+                <menu title="BLG/L-infinity">
+                    <menu title="L-infinity (BLG)"/>
+                    <menu title="Ascagara email"/>
+                </menu>
+                <menu title="BLG/Marginal Deformations">
+                    <menu title="Slavnov-Taylor"/>
+                    <menu title="Regularization of SUSY Theories"/>
+                    <menu title="Gravity Duals (BLG int)"/>
+                    <menu title="super Ward"/>
+                </menu>
+                <menu title="M-Nahm">
+                    <menu title="non-abelian 2-forms"/>
+                    <menu title="Nahm construction details"/>
+                    <menu title="stuff to cite"/>
+                    <menu title="loop spaces"/>
+                </menu>
+            </menu>
+            <menu title="CHW brane configurations">
+                <menu title="Defect Superfield Theory">
+                    <menu title="s-Rule"/>
+                    <menu title="p,q-branes"/>
+                </menu>
+            </menu>
+        </menu>
+        <menu title="out there">
+            <menu title="Podkletnov"/>
+        </menu>
+        <menu title="abandoned">
+            <menu title="Supergravity (P:Twistors)"/>
+            <menu title="RHIC"/>
+            <menu title="Fuzzy Projects">
+                <menu title="Fuzzy Gauge"/>
+                <menu title="Self-dual gravity material"/>
+                <menu title="Fuzzy CYs"/>
+                <menu title="q-Deformed Twistors"/>
+            </menu>
+            <menu title="ABJM fuzzy disc"/>
+            <menu title="BLG Constraints"/>
+            <menu title="Monopole operators"/>
+            <menu title="Mathematically rigorous electrons"/>
+            <menu title="exactly marginal BLG"/>
+            <menu title="D-modules (proj)">
+                <menu title="D-modules"/>
+            </menu>
+            <menu title="Gravity Duals"/>
+            <menu title="periodic M2"/>
+            <menu title="M-YM-Dualities"/>
+        </menu>
+    </menu>
+    <menu title="Document Types">
+        <menu title="Lecture Notes"/>
+        <menu title="PhD Theses"/>
+        <menu title="Talks">
+            <menu title="Presentation files"/>
+        </menu>
+        <menu title="Conferences"/>
+        <menu title="Tables and References"/>
+        <menu title="Research Notes"/>
+        <menu title="Websites"/>
+        <menu title="to download"/>
+    </menu>
+    <menu title="general read">
+        <menu title="read"/>
+    </menu>
+    <menu title="To read">
+        <menu title="Math and Music"/>
+        <menu title="Gerbes, S3 etc"/>
+        <menu title="to really read"/>
+        <menu title="higher gauge stuff"/>
+    </menu>
+    <menu title="Series">
+        <menu title="Springer Lecture Notes in Physics"/>
+        <menu title="Springer Lecture Notes in Mathematics"/>
+    </menu>
+    <menu title="eBook Reader"/>
+    <menu title="transgression"/>
+    <menu title="tmp">
+        <menu title="Loop Space"/>
+        <menu title="res1tr3"/>
+        <menu title="res2"/>
+    </menu>
+    <menu title="tmp2"/>
+    <menu title="List of Publications"/>
+    <menu title="dodgy loop space stuff"/>
+</menu>
+</librarystructure>
+  <libraryrules><?xml version='1.0'?>
+<rules>
+    <contains-mainly tag="title" value="mechanik" target="Mechanics"/>
+    <contains tag="title" value="relativ" target="Relativity"/>
+    <contains tag="plaintext" value="hep-th/9908142" target="Noncommutativity"/>
+    <contains tag="plaintext" value="hep-th/0206255" target="Dijkgraaf-Vafa"/>
+    <contains tag="plaintext" value="hep-th/0305248" target="Nonanticommutativity"/>
+    <contains tag="plaintext" value="hep-th/0312171" target="Twistor String Theory"/>
+    <contains tag="plaintext" value="hep-th/0408069" target="Drinfeld twists"/>
+    <test>
+        <contains tag="abstract" value="thesis" action="a+=2"/>
+        <contains tag="abstract" action="a+=2" value="dissertation"/>
+        <contains tag="comments" value="thesis" action="a+=2"/>
+        <contains tag="comments" action="a+=2" value="dissertation"/>
+        <if conditions="a>1" target="PhD Theses"/>
+    </test>
+    <test>
+        <contains tag="abstract" value="talk" action="a+=2"/>
+        <contains tag="abstract" action="a+=2" value="proceedings"/>
+        <contains tag="abstract" action="a+=2" value="conference"/>
+        <contains tag="comments" value="talk" action="a+=2"/>
+        <contains tag="comments" action="a+=2" value="proceedings"/>
+        <contains tag="comments" action="a+=2" value="conference"/>
+        <if conditions="a>1" target="Talks"/>
+    </test>
+    <contains tag="title" value="ads" target="AdS/CFT"/>
+    <contains tag="title" value="self-dual" target="Self-Dual Yang-Mills"/>
+    <contains tag="title" value="anti de Sitter" target="AdS/CFT"/>
+    <contains tag="title" value="twistor" target="Twistors"/>
+    <contains-mainly tag="title" value="mechanics" target="Mechanics"/>
+    <contains-mainly tag="title" value="elektrodyn" target="Electrodynamics"/>
+    <contains-mainly tag="title" value="electrodyn" target="Electrodynamics"/>
+    <contains-mainly tag="title" value="quantenmechanik" target="Quantum Mechanics"/>
+    <contains-mainly tag="title" value="quantum mechanics" target="Quantum Mechanics"/>
+    <contains-mainly tag="title" value="algebra" target="Algebra"/>
+    <contains-mainly tag="title" value="calculus" target="Analytical areas"/>
+    <contains-mainly tag="title" value="complex analysis" target="Complex analysis"/>
+    <contains-mainly tag="title" value="funktionentheorie" target="Complex analysis"/>
+    <contains-mainly tag="title" value="differentialgleichung" target="Differential equations"/>
+    <contains-mainly tag="title" value="differential equation" target="Differential equations"/>
+    <contains-mainly tag="title" value="quantum field theory" target="Lecture Notes (QFT)"/>
+    <contains-mainly tag="title" value="quantenfeldtheorie" target="Lecture Notes (QFT)"/>
+    <contains-mainly tag="title" value="self-dual" target="Self-Dual SYM"/>
+    <contains-mainly tag="title" value="supermanifold" target="Supermanifolds"/>
+    <contains tag="title" value="super lie" target="Super Lie Groups"/>
+    <contains-mainly tag="title" value="conformal field theory" target="Conformal Field Theory"/>
+    <contains-mainly tag="title" value="konforme feldtheorie" target="Conformal Field Theory"/>
+    <contains-mainly tag="title" value="twistor string" target="Twistor String Theory"/>
+    <contains tag="title" value="d-branes" target="D-Branes"/>
+    <contains tag="title" value="calabi-yau" target="Calabi-Yau manifolds"/>
+    <contains-mainly tag="title" value="string theory" target="String Theory"/>
+    <contains-mainly tag="title" value="supersymmetry" target="Supersymmetry"/>
+    <contains-mainly tag="title" value="supermathematics" target="Supermath"/>
+    <contains tag="title" value="algebraic geometry" target="Algebraic geometry"/>
+    <contains tag="title" value="algebraische geometrie" target="Algebraic geometry"/>
+    <contains tag="title" value="algebraic topology" target="Algebraic topology"/>
+    <contains tag="title" value="algebraische topologie" target="Algebraic topology"/>
+    <contains tag="title" value="thermal field theory" target="Thermal Field Theory"/>
+    <contains tag="title" value="differential geometry" target="Differential geometry"/>
+    <contains tag="title" value="differentialgeometrie" target="Differential geometry"/>
+    <test>
+        <contains tag="title" action="a+=2" value="geometry"/>
+        <contains tag="title" action="a+=2" value="geometrie"/>
+        <contains tag="title" action="a+=2" value="differential geometry"/>
+        <contains tag="title" action="a+=2" value="differentialgeometrie"/>
+        <if conditions="a>1" target="Geometrical areas"/>
+    </test>
+    <contains-mainly tag="title" value="gauge theory" target="Gauge Theories"/>
+    <contains-mainly tag="title" value="gauge theories" target="Gauge Theories"/>
+    <contains-mainly tag="title" value="eichtheorie" target="Gauge Theories"/>
+    <contains tag="title" value="Thermale Feldtheorie" target="Thermal Field Theory"/>
+    <contains tag="title" value="landscape" target="Landscapism"/>
+    <contains tag="title" value="anthropic" target="Landscapism"/>
+    <contains tag="title" value="string field theory" target="String Field Theory"/>
+    <contains tag="title" value="compactification" target="Compactification"/>
+    <contains tag="title" value="topological string theory" target="Topological String Theory"/>
+    <contains tag="title" value="manifolds" target="Manifolds"/>
+    <contains tag="title" value="m-theory" target="M/F-theory"/>
+    <contains tag="title" value="f-theory" target="M/F-theory"/>
+    <contains tag="title" value="m2" target="M/F-theory"/>
+    <contains tag="title" value="m5" target="M/F-theory"/>
+    <contains tag="title" value="yang-mills" target="Yang-Mills theory"/>
+    <contains tag="title" value="chern-simons" target="Chern-Simons theory"/>
+    <contains tag="title" value="quantum chromodynamics" target="Quantum Chromodynamics"/>
+    <contains tag="title" value="qcd" target="Quantum Chromodynamics"/>
+    <contains tag="title" value="topological field theory" target="Topological Field Theory"/>
+    <contains tag="title" value="topologische feldtheorie" target="Topological Field Theory"/>
+    <contains tag="title" value="bogomolny" target="Bogomolny equations"/>
+    <contains tag="title" value="nahm" target="Nahm construction"/>
+    <contains tag="title" value="adhm" target="ADHM construction"/>
+    <contains tag="title" value="konforme feldtheorie" target="Conformal Field Theory"/>
+    <contains tag="title" value="analysis" target="Analytical areas"/>
+    <contains tag="title" value="zahlentheorie" target="Number theory"/>
+    <contains tag="title" value="number theory" target="Number theory"/>
+    <contains-mainly tag="title" value="infinitesimalrechnung" target="Analytical areas"/>
+    <contains tag="title" value="lie group" target="Lie groups"/>
+    <contains tag="title" value="lie gruppe" target="Lie groups"/>
+    <contains tag="title" value="thermodynam" target="Thermodynamics and Statistics"/>
+    <contains tag="title" value="elliptic curves" target="Elliptic curves"/>
+    <contains tag="title" value="elliptische kurven" target="Elliptic curves"/>
+    <contains tag="title" value="matrix model" target="Matrix Models"/>
+    <contains tag="title" value="topolog" target="Topology"/>
+    <contains tag="title" value="gruppentheorie" target="Group theory"/>
+    <contains tag="title" value="group theory" target="Group theory"/>
+    <contains tag="title" value="statistische physik" target="Thermodynamics and Statistics"/>
+    <contains tag="title" value="statistische mechanik" target="Thermodynamics and Statistics"/>
+    <contains tag="title" value="numerik" target="Numerics"/>
+    <contains tag="title" value="standard model" target="Standard model"/>
+    <contains tag="title" value="standardmodell" target="Standard model"/>
+    <contains tag="title" value="cosmolog" target="Cosmology"/>
+    <contains tag="title" value="kosmolog" target="Cosmology"/>
+    <contains tag="title" value="fuzzy" target="Fuzzy Geometry"/>
+    <contains tag="title" value="supergroup" target="Super Lie Groups"/>
+    <contains tag="title" value="lie super" target="Super Lie Groups"/>
+    <test>
+        <contains tag="title" value="flag" action="a+=2"/>
+        <contains tag="title" value="quant" action="a+=2"/>
+        <contains tag="title" value="fuzzy" action="a+=2"/>
+        <if conditions="A>3" target="Fuzzy Flag Varieties"/>
+    </test>
+    <contains tag="title" value="hopf" target="Hopf algebras"/>
+    <contains tag="title" value="supersphere" target="Supersphere"/>
+    <contains tag="title" value="flag" target="Flag manifolds"/>
+    <contains tag="title" value="sigma model" target="Sigma models"/>
+    <contains tag="title" value="homogeneous space" target="Homogeneous spaces"/>
+    <contains tag="title" value="quantum group" target="Quantum Groups"/>
+    <contains tag="title" value="integrab" target="Integrability"/>
+    <contains tag="title" value="functional analysis" target="Functional analysis"/>
+    <contains tag="title" value="funktionalanalysis" target="Functional analysis"/>
+    <contains tag="title" value="k-theo" target="K-Theory"/>
+    <contains tag="title" value="clifford" target="Spinors and Clifford algebras"/>
+    <contains tag="title" value="toric geo" target="Toric geometry"/>
+    <contains tag="title" value=" toric " target="Toric geometry"/>
+    <contains tag="title" value="surface" target="Surfaces"/>
+    <contains tag="title" value="flächen" target="Surfaces"/>
+    <contains tag="title" value="d-modules" target="D-modules"/>
+    <contains tag="title" value="d modules" target="D-modules"/>
+    <contains tag="title" value="renormalon" target="Renormalons"/>
+    <contains tag="plaintext" value="hep-th/0104066" target="RHIC"/>
+    <contains tag="title" value="toeplitz" target="Toeplitz Quantization"/>
+    <contains tag="title" value="mirror symmetry" target="Mirror Symmetry"/>
+    <contains tag="plaintext" value="hep-th/0611108" target="BLG theory etc"/>
+    <contains tag="plaintext" value="0712.3738" target="BLG theory etc"/>
+    <contains tag="plaintext" value="0806.1218" target="ABJM Model"/>
+</rules>
+</libraryrules>
+</element>
+</celsiusv2.2.librarytemplates>

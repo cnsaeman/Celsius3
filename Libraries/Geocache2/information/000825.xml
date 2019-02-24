@@ -1,0 +1,178 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>000825</id>
+  <cache-id>GC20WCF</cache-id>
+  <type>Traditional Cache</type>
+  <name>Ardgillan V "Across the tracks" by Windsockers, Traditional Cache (1.5/2)</name>
+  <size>Small</size>
+  <difficulty>1.5</difficulty>
+  <terrain>2</terrain>
+  <last-found>2010-04-24</last-found>
+  <placed>2010-04-01</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>Windsockers</placedby>
+  <found>Geocache</found>
+  <lat>53.5937</lat>
+  <lon>-6.159083</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>Windsockers</owner>
+  <description><center><img src=
+"http://img.geocaching.com/cache/a2eae6d3-813c-4fa8-82ee-05d6a5614e37.jpg" /></center></description>
+  <long-description><p><b>Ardgillan Demise</b></p>
+<p>In 1658 the Down Survey indicates that Ardgillan was owned by
+wine merchant Robert Usher of Crumlin, Dublin and by 1737, the
+property had been acquired by the Reverend Robert Taylor, one of
+the Headfort Taylors, whose grandfather had collaborated with Sir
+William Petty on the mid 17th Century "Down Survey of Ireland".
+Ardgillan remained the family home of the Taylors (later changed to
+Taylour) for more two hundred years until 1962 when the estate was
+sold to Heinrick Pott of Westphalia, Germany. In 1982 Dublin County
+Council purchased Ardgillan Demesne and it is now managed by Fingal
+Council.</p>
+<p>The residence at Ardgillan is a large country-style house with
+castellated embellishments. Originally named "Prospect", the
+central section was built in 1738 by Robert Taylor, with the west
+and east wings added in the late 1700's.<br />
+Initially the site was heavily wooded, the name Ardgillan being
+derived from the Irish "Ard Choill" meaning High Wood. It was
+cleared by out-of-service soldiers and itinerant workers in return
+for one penny a day, sleeping accommodation and one meal.<br />
+As part of an agreement to allow the Dublin to Belfast railway line
+to be constructed on the eastern boundry a clause was inserted to
+wit Robert Taylor could stop and board the trains at anytime he
+choose.</p>
+<p><b>The Cache</b></p>
+<p>This cache cannot be access from the roadway you must enter
+either the main estate entrance or the "Ladies Stairs"
+entrance.</p>
+<p>The Cache is a decon box.<br />
+Please take care and rehide the cache to prevent muggles from
+discovering its location.</p>
+<br />
+<br />
+<center><br />
+<br />
+<img src=
+"http://www.northbeach.ie/gallery/albums/userpics/10001/windsock-anim-small.gif" />
+<br />
+<br />
+<b>The Windsockers</b></center>
+<br />
+<br />
+<hr size="2" /></long-description>
+  <encoded-hints>
+      </encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=b3875a9b-e7c8-4d78-bd3d-ffd0e130d929</url>
+  <url-name>Ardgillan V "Across the tracks"</url-name>
+  <logs><ul><li>2010-05-11T19:00:00Z : Found it by medic143 <br />Last of three in Balbriggan, surprisingly easy off accurately coordinates. Got lucky this time [:-)]
+
+TNLN TFTC</li><li>2010-04-24T19:00:00Z : Found it by theswerve <br />Found after the CITO and a spot of lunch in Rush...what better way to finish the day??</li><li>2010-04-24T19:00:00Z : Found it by Fjon <br />Found easily after the CITO event - thanks.</li><li>2010-04-24T19:00:00Z : Found it by Donnacha <br />Found after attending the CITO. Thanks.</li><li>2010-04-24T19:00:00Z : Found it by orangetigerprawn <br />Found while out and about after the CITO event.
+
+Go raibh maith agat as an taisce.</li></ul></logs>
+  <original-xml>  <wpt  lat="53.5937" lon="-6.159083">
+    <time>2010-04-01T07:00:00Z</time>
+    <name>GC20WCF</name>
+    <desc>Ardgillan V "Across the tracks" by Windsockers, Traditional Cache (1.5/2)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=b3875a9b-e7c8-4d78-bd3d-ffd0e130d929</url>
+    <urlname>Ardgillan V "Across the tracks"</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1462256" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Ardgillan V "Across the tracks"</groundspeak:name>
+      <groundspeak:placed_by>Windsockers</groundspeak:placed_by>
+      <groundspeak:owner id="271623">Windsockers</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>2</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>Leinster</groundspeak:state>
+      <groundspeak:short_description html="True">&lt;center&gt;&lt;img src=
+"http://img.geocaching.com/cache/a2eae6d3-813c-4fa8-82ee-05d6a5614e37.jpg" /&gt;&lt;/center&gt;</groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;p&gt;&lt;b&gt;Ardgillan Demise&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;In 1658 the Down Survey indicates that Ardgillan was owned by
+wine merchant Robert Usher of Crumlin, Dublin and by 1737, the
+property had been acquired by the Reverend Robert Taylor, one of
+the Headfort Taylors, whose grandfather had collaborated with Sir
+William Petty on the mid 17th Century "Down Survey of Ireland".
+Ardgillan remained the family home of the Taylors (later changed to
+Taylour) for more two hundred years until 1962 when the estate was
+sold to Heinrick Pott of Westphalia, Germany. In 1982 Dublin County
+Council purchased Ardgillan Demesne and it is now managed by Fingal
+Council.&lt;/p&gt;
+&lt;p&gt;The residence at Ardgillan is a large country-style house with
+castellated embellishments. Originally named "Prospect", the
+central section was built in 1738 by Robert Taylor, with the west
+and east wings added in the late 1700's.&lt;br /&gt;
+Initially the site was heavily wooded, the name Ardgillan being
+derived from the Irish "Ard Choill" meaning High Wood. It was
+cleared by out-of-service soldiers and itinerant workers in return
+for one penny a day, sleeping accommodation and one meal.&lt;br /&gt;
+As part of an agreement to allow the Dublin to Belfast railway line
+to be constructed on the eastern boundry a clause was inserted to
+wit Robert Taylor could stop and board the trains at anytime he
+choose.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;The Cache&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;This cache cannot be access from the roadway you must enter
+either the main estate entrance or the "Ladies Stairs"
+entrance.&lt;/p&gt;
+&lt;p&gt;The Cache is a decon box.&lt;br /&gt;
+Please take care and rehide the cache to prevent muggles from
+discovering its location.&lt;/p&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;center&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;img src=
+"http://www.northbeach.ie/gallery/albums/userpics/10001/windsock-anim-small.gif" /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;The Windsockers&lt;/b&gt;&lt;/center&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;hr size="2" /&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="108018025">
+          <groundspeak:date>2010-05-11T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1020703">medic143</groundspeak:finder>
+          <groundspeak:text encoded="False">Last of three in Balbriggan, surprisingly easy off accurately coordinates. Got lucky this time [:-)]
+
+TNLN TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="105517030">
+          <groundspeak:date>2010-04-24T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1032462">theswerve</groundspeak:finder>
+          <groundspeak:text encoded="False">Found after the CITO and a spot of lunch in Rush...what better way to finish the day??</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="105492082">
+          <groundspeak:date>2010-04-24T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="243261">Fjon</groundspeak:finder>
+          <groundspeak:text encoded="False">Found easily after the CITO event - thanks.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="105489690">
+          <groundspeak:date>2010-04-24T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="61401">Donnacha</groundspeak:finder>
+          <groundspeak:text encoded="False">Found after attending the CITO. Thanks.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="105489337">
+          <groundspeak:date>2010-04-24T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2167131">orangetigerprawn</groundspeak:finder>
+          <groundspeak:text encoded="False">Found while out and about after the CITO event.
+
+Go raibh maith agat as an taisce.</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>002681</id>
+  <cache-id>IS21AJP</cache-id>
+  <type>Waypoint</type>
+  <name>Island Stage</name>
+  <placed>2009-11-22</placed>
+  <lat>53.456567</lat>
+  <lon>-6.242983</lon>
+  <attributes>hidden</attributes>
+  <description></description>
+  <url>http://www.geocaching.com/seek/wpt.aspx?WID=f238610a-f19c-4d04-b141-838edcb328ed</url>
+  <url-name>Island Stage</url-name>
+</element>
+</celsiusv2.1.addinfofile>

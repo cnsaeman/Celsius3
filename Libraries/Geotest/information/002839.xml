@@ -1,0 +1,108 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>002839</id>
+  <cache-id>GC1B76E</cache-id>
+  <type>Traditional Cache</type>
+  <name>Funkfeuer by Ubx, Traditional Cache (1/1)</name>
+  <size>Micro</size>
+  <difficulty>1</difficulty>
+  <terrain>1</terrain>
+  <last-found>2010-08-21</last-found>
+  <placed>2008-04-13</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Ubx</placedby>
+  <found>Geocache</found>
+  <lat>50.592267</lat>
+  <lon>9.572167</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>ubx</owner>
+  <description>Tradi ohne Rätsel, einfach ein besonderer Ort</description>
+  <long-description>hier könnt ihr ein Funkfeuer für die Luftfahrt sehen. Es ist wichtig für die Einhaltung der Luftstrassen in Hessen.</long-description>
+  <encoded-hints>an der Südseite am Zaun</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=592539bc-a754-4b93-bd96-198e0a65203a</url>
+  <url-name>Funkfeuer</url-name>
+  <logs><ul><li>2010-09-04T19:00:00Z : Found it by S***T <br />Interessantes Teil - auf dem Satellitenbild bzw. google earth sieht es ja auch lustig aus.
+In der Umgebung waren bei dem Wetter die Landwirte wieder mal sehr fleißig.
+
+Anbei noch Bilder von lebendiger Funkwolle und dem stillen Funkörtchen ;-)
+
+PS: Aktuell ist die Umgebung ziemlich sumpfig, also vorsichtig sein.</li><li>2010-08-31T19:00:00Z : Found it by PeWi09 <br />Da wir das Auto zum Nachtcachen in der Nähe geparkt hatten kam das Döschen gerade recht.Nur die beweglichen REFLEKTOREN waren im moment etwas erschreckent.
+TFTC
+PeWi09</li><li>2010-08-31T19:00:00Z : Found it by Lamima <br />Nach dem NC natürlich hier noch halt gemacht, T1 ist das zwar nicht, aber wir hatten des Nachts ja auch keinen Kinderwagen dabei...
+
+TFTC
+
+Lamima</li><li>2010-08-22T19:00:00Z : Found it by f.etcher <br />Schöne Location, die ich vorher noch nicht kannte. TFTC</li><li>2010-08-21T19:00:00Z : Found it by LI*MO <br />Ufolandeplatz? Coole Location, Cache gut gefunden
+TFTC</li></ul></logs>
+  <original-xml>  <wpt  lat="50.592267" lon="9.572167">
+    <time>2008-04-13T07:00:00Z</time>
+    <name>GC1B76E</name>
+    <desc>Funkfeuer by Ubx, Traditional Cache (1/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=592539bc-a754-4b93-bd96-198e0a65203a</url>
+    <urlname>Funkfeuer</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="847029" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Funkfeuer</groundspeak:name>
+      <groundspeak:placed_by>Ubx</groundspeak:placed_by>
+      <groundspeak:owner id="787613">ubx</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">Tradi ohne Rätsel, einfach ein besonderer Ort</groundspeak:short_description>
+      <groundspeak:long_description html="False">hier könnt ihr ein Funkfeuer für die Luftfahrt sehen. Es ist wichtig für die Einhaltung der Luftstrassen in Hessen.</groundspeak:long_description>
+      <groundspeak:encoded_hints>an der Südseite am Zaun</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="125110666">
+          <groundspeak:date>2010-09-04T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1894990">S***T</groundspeak:finder>
+          <groundspeak:text encoded="False">Interessantes Teil - auf dem Satellitenbild bzw. google earth sieht es ja auch lustig aus.
+In der Umgebung waren bei dem Wetter die Landwirte wieder mal sehr fleißig.
+
+Anbei noch Bilder von lebendiger Funkwolle und dem stillen Funkörtchen ;-)
+
+PS: Aktuell ist die Umgebung ziemlich sumpfig, also vorsichtig sein.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="124783878">
+          <groundspeak:date>2010-08-31T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2651726">PeWi09</groundspeak:finder>
+          <groundspeak:text encoded="False">Da wir das Auto zum Nachtcachen in der Nähe geparkt hatten kam das Döschen gerade recht.Nur die beweglichen REFLEKTOREN waren im moment etwas erschreckent.
+TFTC
+PeWi09</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="124754611">
+          <groundspeak:date>2010-08-31T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1979323">Lamima</groundspeak:finder>
+          <groundspeak:text encoded="False">Nach dem NC natürlich hier noch halt gemacht, T1 ist das zwar nicht, aber wir hatten des Nachts ja auch keinen Kinderwagen dabei...
+
+TFTC
+
+Lamima</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="123147318">
+          <groundspeak:date>2010-08-22T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1498819">f.etcher</groundspeak:finder>
+          <groundspeak:text encoded="False">Schöne Location, die ich vorher noch nicht kannte. TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="123320099">
+          <groundspeak:date>2010-08-21T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2583892">LI*MO</groundspeak:finder>
+          <groundspeak:text encoded="False">Ufolandeplatz? Coole Location, Cache gut gefunden
+TFTC</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

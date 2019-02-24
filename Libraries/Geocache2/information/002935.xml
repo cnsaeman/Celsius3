@@ -1,0 +1,113 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>002935</id>
+  <cache-id>GC322</cache-id>
+  <type>Traditional Cache</type>
+  <name>Kyle Cache 1 by Kyle, Traditional Cache (3/3.5)</name>
+  <size>Regular</size>
+  <difficulty>3</difficulty>
+  <terrain>3.5</terrain>
+  <last-found>2009-07-27</last-found>
+  <placed>2001-02-18</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>Kyle</placedby>
+  <found>Geocache</found>
+  <lat>53.17255</lat>
+  <lon>-6.156117</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>Kyleoconnell</owner>
+  <description>The location of this my first Cache is in Co.Wicklow Ireland. You
+can access the Cache from any side (ie 360degree range). It is on a
+small mountain that has a road all the way around it so this means
+that it is up to you to decided which side is best to attack the
+challenge. It is an easy Cache and I have given in a 1.5 for both
+Terrain and general difficulty. It is a easy quick cache and you
+can drive within .5 of a k of it.
+</description>
+  <long-description>The Cache is in some loose rocks so mind you don't twist your
+ankles. You will have to lift a few rocks to see the cache and
+please do put them back. 
+<p>The cache is in a Lunch box with a blue lid.</p>
+<p>I am not going to reveal the contents, you will have to geocache
+to find out what is in it.</p>
+</long-description>
+  <encoded-hints>NO HINTS     SORRY       IT IS TO EASY AS IT IS</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=0714005a-fad7-4469-8a8b-b6e1e6655c37</url>
+  <url-name>Kyle Cache 1</url-name>
+  <logs><ul><li>2009-11-08T20:00:00Z : Found it by Moses O'Toole <br />Glorious day up the hills. Found the cache easily enough, but contents very damp. Took nothing (other than the mouldy Milky Way bar, for disposal in nearest bin!). </li><li>2009-10-10T19:00:00Z : Found it by didi2206 <br />Bit damp.. gave it a quick tidy.. took a snail, left a horse hole punch toy. TFTC</li><li>2009-08-21T19:00:00Z : Found it by kazidrat <br />Lovely walk, cache found quickly, but the logbook is wet...
+TFTC...[:D]</li><li>2009-08-16T19:00:00Z : Found it by redflame1 <br />Great climb and super 360 view. Cache is quite damp as others have noted. TFTC TNLN SL.</li><li>2009-07-27T19:00:00Z : Found it by Elvistones <br />Thanks for this beautiful view :)</li></ul></logs>
+  <original-xml>  <wpt  lat="53.17255" lon="-6.156117">
+    <time>2001-02-18T08:00:00Z</time>
+    <name>GC322</name>
+    <desc>Kyle Cache 1 by Kyle, Traditional Cache (3/3.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=0714005a-fad7-4469-8a8b-b6e1e6655c37</url>
+    <urlname>Kyle Cache 1</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="802" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Kyle Cache 1</groundspeak:name>
+      <groundspeak:placed_by>Kyle</groundspeak:placed_by>
+      <groundspeak:owner id="4350">Kyleoconnell</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Regular</groundspeak:container>
+      <groundspeak:difficulty>3</groundspeak:difficulty>
+      <groundspeak:terrain>3.5</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>
+      </groundspeak:state>
+      <groundspeak:short_description html="True">The location of this my first Cache is in Co.Wicklow Ireland. You
+can access the Cache from any side (ie 360degree range). It is on a
+small mountain that has a road all the way around it so this means
+that it is up to you to decided which side is best to attack the
+challenge. It is an easy Cache and I have given in a 1.5 for both
+Terrain and general difficulty. It is a easy quick cache and you
+can drive within .5 of a k of it.
+</groundspeak:short_description>
+      <groundspeak:long_description html="True">The Cache is in some loose rocks so mind you don't twist your
+ankles. You will have to lift a few rocks to see the cache and
+please do put them back. 
+&lt;p&gt;The cache is in a Lunch box with a blue lid.&lt;/p&gt;
+&lt;p&gt;I am not going to reveal the contents, you will have to geocache
+to find out what is in it.&lt;/p&gt;
+</groundspeak:long_description>
+      <groundspeak:encoded_hints>NO HINTS     SORRY       IT IS TO EASY AS IT IS</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="89810761">
+          <groundspeak:date>2009-11-08T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1053910">Moses O'Toole</groundspeak:finder>
+          <groundspeak:text encoded="False">Glorious day up the hills. Found the cache easily enough, but contents very damp. Took nothing (other than the mouldy Milky Way bar, for disposal in nearest bin!). </groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="86968210">
+          <groundspeak:date>2009-10-10T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2623045">didi2206</groundspeak:finder>
+          <groundspeak:text encoded="False">Bit damp.. gave it a quick tidy.. took a snail, left a horse hole punch toy. TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="81504774">
+          <groundspeak:date>2009-08-21T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1851316">kazidrat</groundspeak:finder>
+          <groundspeak:text encoded="False">Lovely walk, cache found quickly, but the logbook is wet...
+TFTC...[:D]</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="81567389">
+          <groundspeak:date>2009-08-16T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2330609">redflame1</groundspeak:finder>
+          <groundspeak:text encoded="False">Great climb and super 360 view. Cache is quite damp as others have noted. TFTC TNLN SL.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="79660038">
+          <groundspeak:date>2009-07-27T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2305402">Elvistones</groundspeak:finder>
+          <groundspeak:text encoded="False">Thanks for this beautiful view :)</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

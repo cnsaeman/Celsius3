@@ -1,0 +1,167 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>006468</id>
+  <cache-id>GCQENP</cache-id>
+  <type>Multi-cache</type>
+  <name>Odd One In! by Hezekiah, Multi-cache (1/1)</name>
+  <size>Micro</size>
+  <difficulty>1</difficulty>
+  <terrain>1</terrain>
+  <last-found>2008-02-09</last-found>
+  <placed>2005-09-06</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>Hezekiah</placedby>
+  <found>Geocache Found</found>
+  <lat>53.34385</lat>
+  <lon>-6.27545</lon>
+  <last-logs>XXXWWF</last-logs>
+  <owner>Hezekiah</owner>
+  <description><p align="center"><a target="_blank" href=
+   "http://www.geocachingireland.com/index.html"><img border="0"
+   src="http://geocachingireland.com/logo4.jpg" width="328"
+     height="53" align="middle"></a></p>
+<hr align="center" size="2" width="40%">
+<center><font color="blue">Visit the <b>new</b> Geocaching Ireland
+discussion forum <a href="http://www.mccartan.org/forums/"
+   target="_blank">HERE</a></font></center>
+<hr align="center" size="2" width="40%">
+<br>
+<br></description>
+  <long-description><p>St. Audoen's Park, although less than 0.5 hectares in size, is
+quite significant in historical terms. Located adjacent to St.
+Audoen's Church (1300 A.D.), it incorporates the first stone city
+wall dating from about 1100 A.D.; St. Audoen's Arch, the last
+surviving entrance to the old city; and Fagan's Gate.</p>
+<p>The City Wall was restored in 1976 as part of Architectural
+Heritage Year and the park development of 1982 won a prestigious
+civic award. Audoen was a 7th - century Bishop of Rouen (France)
+and the nearby church named after him is reputedly one of the
+oldest still used for regular religious services.</p>
+<p>The park is closed at night, but the hours are not posted – it
+is definitely open between 9.00 am and 5.00 pm.</p>
+<p>First location - The above coordinates will place you near a
+gate and a plaque celebrating a Civic award – take a note of the
+date on the plaque.</p>
+<p>Second location - add the second digit from the date to the N
+coordinate ( N 53 20.631 + ? = N 53 20.6??; W 006 16.459)). How
+many steps do you climb to this point?</p>
+<p>For the third location, multiply the number of steps by 3 and
+subtract this number from the N coordinate for the second location
+and reverse the last two digits of the date on the plaque and add
+them to the W coordinate for the second location</p>
+<p>The cache is approximately 2 metres away - there's no need to go
+into the flower beds or the bushes (there may be syringes dumped
+there)</p></long-description>
+  <encoded-hints>Go straight to the seat and think about it!</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=80949fa4-a988-467f-a71b-b6b56a8a553e</url>
+  <url-name>Odd One In!</url-name>
+  <logs><ul><li>2010-05-14T19:00:00Z : Didn't find it by lamm4 <br />After yesterday a crowd of drunken muggels were hanging around, we tried it today again, but the log didn't show up to us. The first DNF in Dublin.</li><li>2010-04-28T19:00:00Z : Didn't find it by CH-vishnu <br />The only cache we didn`t find in Dublin. Is it still there?</li><li>2010-04-28T19:00:00Z : Didn't find it by Drea-Popa <br />Unfortunately we couldn't find this cache.
+Luckely we were able to log all the others we were looking for in Dublin.</li><li>2010-04-15T19:00:00Z : Write note by ougaard <br />Went there just before 4 o'clock. The gates were closed and the gentlemen there told me that the park was locked at 3.30. 
+Greetings from Denmark - Hanne</li><li>2010-04-02T19:00:00Z : Write note by dottigross <br />Open only from June to September????
+
+dottigross</li><li>2008-02-09T20:00:00Z : Found it by Kersti.com <br />I visited this church in my first week in Ireland - if you're here do take the time to see inside, it's absolutely lovely. Easy find, just had to be careful of the muggles.</li></ul></logs>
+  <original-xml>  <wpt  lat="53.34385" lon="-6.27545">
+    <time>2005-09-06T07:00:00Z</time>
+    <name>GCQENP</name>
+    <desc>Odd One In! by Hezekiah, Multi-cache (1/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=80949fa4-a988-467f-a71b-b6b56a8a553e</url>
+    <urlname>Odd One In!</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Multi-cache</type>
+    <groundspeak:cache id="288200" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Odd One In!</groundspeak:name>
+      <groundspeak:placed_by>Hezekiah</groundspeak:placed_by>
+      <groundspeak:owner id="274644">Hezekiah</groundspeak:owner>
+      <groundspeak:type>Multi-cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>
+      </groundspeak:state>
+      <groundspeak:short_description html="True">&lt;p align="center"&gt;&lt;a target="_blank" href=
+   "http://www.geocachingireland.com/index.html"&gt;&lt;img border="0"
+   src="http://geocachingireland.com/logo4.jpg" width="328"
+     height="53" align="middle"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;hr align="center" size="2" width="40%"&gt;
+&lt;center&gt;&lt;font color="blue"&gt;Visit the &lt;b&gt;new&lt;/b&gt; Geocaching Ireland
+discussion forum &lt;a href="http://www.mccartan.org/forums/"
+   target="_blank"&gt;HERE&lt;/a&gt;&lt;/font&gt;&lt;/center&gt;
+&lt;hr align="center" size="2" width="40%"&gt;
+&lt;br&gt;
+&lt;br&gt;</groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;p&gt;St. Audoen's Park, although less than 0.5 hectares in size, is
+quite significant in historical terms. Located adjacent to St.
+Audoen's Church (1300 A.D.), it incorporates the first stone city
+wall dating from about 1100 A.D.; St. Audoen's Arch, the last
+surviving entrance to the old city; and Fagan's Gate.&lt;/p&gt;
+&lt;p&gt;The City Wall was restored in 1976 as part of Architectural
+Heritage Year and the park development of 1982 won a prestigious
+civic award. Audoen was a 7th - century Bishop of Rouen (France)
+and the nearby church named after him is reputedly one of the
+oldest still used for regular religious services.&lt;/p&gt;
+&lt;p&gt;The park is closed at night, but the hours are not posted – it
+is definitely open between 9.00 am and 5.00 pm.&lt;/p&gt;
+&lt;p&gt;First location - The above coordinates will place you near a
+gate and a plaque celebrating a Civic award – take a note of the
+date on the plaque.&lt;/p&gt;
+&lt;p&gt;Second location - add the second digit from the date to the N
+coordinate ( N 53 20.631 + ? = N 53 20.6??; W 006 16.459)). How
+many steps do you climb to this point?&lt;/p&gt;
+&lt;p&gt;For the third location, multiply the number of steps by 3 and
+subtract this number from the N coordinate for the second location
+and reverse the last two digits of the date on the plaque and add
+them to the W coordinate for the second location&lt;/p&gt;
+&lt;p&gt;The cache is approximately 2 metres away - there's no need to go
+into the flower beds or the bushes (there may be syringes dumped
+there)&lt;/p&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>Go straight to the seat and think about it!</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="108392948">
+          <groundspeak:date>2010-05-14T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Didn't find it</groundspeak:type>
+          <groundspeak:finder id="1932037">lamm4</groundspeak:finder>
+          <groundspeak:text encoded="False">After yesterday a crowd of drunken muggels were hanging around, we tried it today again, but the log didn't show up to us. The first DNF in Dublin.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="106864998">
+          <groundspeak:date>2010-04-28T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Didn't find it</groundspeak:type>
+          <groundspeak:finder id="2171870">CH-vishnu</groundspeak:finder>
+          <groundspeak:text encoded="False">The only cache we didn`t find in Dublin. Is it still there?</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="106864559">
+          <groundspeak:date>2010-04-28T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Didn't find it</groundspeak:type>
+          <groundspeak:finder id="3049946">Drea-Popa</groundspeak:finder>
+          <groundspeak:text encoded="False">Unfortunately we couldn't find this cache.
+Luckely we were able to log all the others we were looking for in Dublin.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="104284151">
+          <groundspeak:date>2010-04-15T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Write note</groundspeak:type>
+          <groundspeak:finder id="117242">ougaard</groundspeak:finder>
+          <groundspeak:text encoded="False">Went there just before 4 o'clock. The gates were closed and the gentlemen there told me that the park was locked at 3.30. 
+Greetings from Denmark - Hanne</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="102043206">
+          <groundspeak:date>2010-04-02T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Write note</groundspeak:type>
+          <groundspeak:finder id="629033">dottigross</groundspeak:finder>
+          <groundspeak:text encoded="False">Open only from June to September????
+
+dottigross</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="38767278">
+          <groundspeak:date>2008-02-09T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="320206">Kersti.com</groundspeak:finder>
+          <groundspeak:text encoded="False">I visited this church in my first week in Ireland - if you're here do take the time to see inside, it's absolutely lovely. Easy find, just had to be careful of the muggles.</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

@@ -1,0 +1,163 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>004576</id>
+  <cache-id>GCJGEV</cache-id>
+  <type>Traditional Cache</type>
+  <name>Marlay Cache by Bootle, Traditional Cache (1/1)</name>
+  <size>Regular</size>
+  <difficulty>1</difficulty>
+  <terrain>1</terrain>
+  <last-found>2010-05-24</last-found>
+  <placed>2004-05-22</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>Bootle</placedby>
+  <found>Geocache</found>
+  <lat>53.2699</lat>
+  <lon>-6.275583</lon>
+  <last-logs>FWFFF</last-logs>
+  <owner>Bootle</owner>
+  <description>Located in a beautiful park in south county Dublin</description>
+  <long-description><p align="center"><a target="_blank"
+href="http://www.geocachingireland.com"><img border="0"
+src="http://geocachingireland.com/logo4.jpg" width="328"
+height="53" align="middle" /></a></p>
+<br />
+This cache is located in Marlay Park in south county Dublin. The
+park is a great amenity with acres of space to stroll around and
+many facilities for all the family to enjoy. Amongst the facilities
+provided at Marlay are a nine-hole golf course, a BMX cycle track,
+a cricket pitch, tennis courts, 14 football pitches, a childrens'
+playground, a walled garden (with Peacocks!) and a model railway.
+In recent times, Marlay has become a popular music venue for
+concert goers, hosting such renowned international acts as David
+Gray, Sting, Van Morrison and R.E.M. Every Saturday the park hosts
+a Farmer's Market with many food and craft stalls. The park is also
+the start of the 120km Wicklow Way walking trail. Nearby is Saint
+Enda's Park, where Padraig Pearse's school is. For some park
+history, visit this site (http://www.dlrcoco.ie/parks/marlay.htm).
+<br />
+<br />
+There are two car parks for the park, one at the south end of the
+park, off the R113 (College Road), and one at the east side, off
+Grange Road. On a fine day the Grange Road car park will fill up
+early, so it's advisable to park at the College Road car park. The
+cache is in a tupperware box. <br />
+<br />
+ The park opening hours are - <br />
+<br />
+ Nov-Jan: 10am-5pm<br />
+Feb-Mar: 10am-6pm<br />
+Apr: 10am-8pm<br />
+May-Aug: 10am-9pm<br />
+Sept: 10am-8pm<br />
+Oct: 10am-7pm<br />
+<br />
+(Thanks to Donnacha for supplying these!)</long-description>
+  <encoded-hints>Base of boulder; rear</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=d97821e2-d6ea-4d01-bea4-d09a90f3574e</url>
+  <url-name>Marlay Cache</url-name>
+  <logs><ul><li>2010-06-14T19:00:00Z : Found it by Wicca Cailín <br />Picked this one up after a hard days work to cheer myself up but no TB or GC??? [:(] The beautiful park still cheered me up a little. The place was full of people. TFTC.</li><li>2010-06-13T19:00:00Z : Write note by Mac Aroni Senior <br />GC drop</li><li>2010-05-25T19:00:00Z : Found it by oldnavycarl <br />Second time lucky with this one. Found with Annalivia. Cant believe I had been standing over it on my previous! Anyway first of four on this lovely evening! There were no travel bugs in this box so geocoin log history needs to be updated.</li><li>2010-05-25T18:41:37Z : Found it by annalivia <br />Tftc
+</li><li>2010-05-24T19:00:00Z : Found it by garrathtormey <br />Interesting find, especially when you accidentally get lost and traipse through rough ground and undergrowth. Nothing too special about the cache except it was the first cache that both Sid and myself found together. Luckily it was a glorious day out </li></ul></logs>
+  <original-xml>  <wpt  lat="53.2699" lon="-6.275583">
+    <time>2004-05-22T07:00:00Z</time>
+    <name>GCJGEV</name>
+    <desc>Marlay Cache by Bootle, Traditional Cache (1/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=d97821e2-d6ea-4d01-bea4-d09a90f3574e</url>
+    <urlname>Marlay Cache</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="140954" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Marlay Cache</groundspeak:name>
+      <groundspeak:placed_by>Bootle</groundspeak:placed_by>
+      <groundspeak:owner id="96113">Bootle</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Regular</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>Dublin</groundspeak:state>
+      <groundspeak:short_description html="True">Located in a beautiful park in south county Dublin</groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;p align="center"&gt;&lt;a target="_blank"
+href="http://www.geocachingireland.com"&gt;&lt;img border="0"
+src="http://geocachingireland.com/logo4.jpg" width="328"
+height="53" align="middle" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;br /&gt;
+This cache is located in Marlay Park in south county Dublin. The
+park is a great amenity with acres of space to stroll around and
+many facilities for all the family to enjoy. Amongst the facilities
+provided at Marlay are a nine-hole golf course, a BMX cycle track,
+a cricket pitch, tennis courts, 14 football pitches, a childrens'
+playground, a walled garden (with Peacocks!) and a model railway.
+In recent times, Marlay has become a popular music venue for
+concert goers, hosting such renowned international acts as David
+Gray, Sting, Van Morrison and R.E.M. Every Saturday the park hosts
+a Farmer's Market with many food and craft stalls. The park is also
+the start of the 120km Wicklow Way walking trail. Nearby is Saint
+Enda's Park, where Padraig Pearse's school is. For some park
+history, visit this site (http://www.dlrcoco.ie/parks/marlay.htm).
+&lt;br /&gt;
+&lt;br /&gt;
+There are two car parks for the park, one at the south end of the
+park, off the R113 (College Road), and one at the east side, off
+Grange Road. On a fine day the Grange Road car park will fill up
+early, so it's advisable to park at the College Road car park. The
+cache is in a tupperware box. &lt;br /&gt;
+&lt;br /&gt;
+ The park opening hours are - &lt;br /&gt;
+&lt;br /&gt;
+ Nov-Jan: 10am-5pm&lt;br /&gt;
+Feb-Mar: 10am-6pm&lt;br /&gt;
+Apr: 10am-8pm&lt;br /&gt;
+May-Aug: 10am-9pm&lt;br /&gt;
+Sept: 10am-8pm&lt;br /&gt;
+Oct: 10am-7pm&lt;br /&gt;
+&lt;br /&gt;
+(Thanks to Donnacha for supplying these!)</groundspeak:long_description>
+      <groundspeak:encoded_hints>Base of boulder; rear</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="112892071">
+          <groundspeak:date>2010-06-14T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3215858">Wicca Cailín</groundspeak:finder>
+          <groundspeak:text encoded="False">Picked this one up after a hard days work to cheer myself up but no TB or GC??? [:(] The beautiful park still cheered me up a little. The place was full of people. TFTC.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="112634683">
+          <groundspeak:date>2010-06-13T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Write note</groundspeak:type>
+          <groundspeak:finder id="2884288">Mac Aroni Senior</groundspeak:finder>
+          <groundspeak:text encoded="False">GC drop</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="110151696">
+          <groundspeak:date>2010-05-25T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2843331">oldnavycarl</groundspeak:finder>
+          <groundspeak:text encoded="False">Second time lucky with this one. Found with Annalivia. Cant believe I had been standing over it on my previous! Anyway first of four on this lovely evening! There were no travel bugs in this box so geocoin log history needs to be updated.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="110121366">
+          <groundspeak:date>2010-05-25T18:41:37Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3081139">annalivia</groundspeak:finder>
+          <groundspeak:text encoded="False">Tftc
+</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="110411233">
+          <groundspeak:date>2010-05-24T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3331032">garrathtormey</groundspeak:finder>
+          <groundspeak:text encoded="False">Interesting find, especially when you accidentally get lost and traipse through rough ground and undergrowth. Nothing too special about the cache except it was the first cache that both Sid and myself found together. Luckily it was a glorious day out </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs>
+        <groundspeak:travelbug id="112393" ref="TBHHQG">
+          <groundspeak:name>Kermit's CrayZ Paddington Bear</groundspeak:name>
+        </groundspeak:travelbug>
+        <groundspeak:travelbug id="2256532" ref="TB2WGX9">
+          <groundspeak:name>CrotalusRex &amp;amp; Mimichan Geocoin</groundspeak:name>
+        </groundspeak:travelbug>
+      </groundspeak:travelbugs>
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

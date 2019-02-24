@@ -1,0 +1,112 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>002049</id>
+  <cache-id>GC1ZHJX</cache-id>
+  <type>Traditional Cache</type>
+  <name>St. Markus Kirche Haimbach by hungry.knight, Traditional Cache (1/1)</name>
+  <size>Micro</size>
+  <difficulty>1</difficulty>
+  <terrain>1</terrain>
+  <last-found>2010-10-27</last-found>
+  <placed>2009-10-06</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>hungry.knight</placedby>
+  <found>Geocache</found>
+  <lat>50.546617</lat>
+  <lon>9.62685</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>hungry.knight</owner>
+  <description>Ein weiterer Cache der Fuldaer Kirchencachereihe. A further cache in a series of churches in Fulda.</description>
+  <long-description>Dies ist ein schneller Drive-In der Fuldaer Kirchencachereihe.
+
+Die Serie soll die Vielfalt der Kirchen in Fulda zeigen.
+Der Cache liegt an der katholischen St. Markus Kirche in Haimbach.
+
+Hier der Link http://www.markuskirche-fulda.de/index.html zu der Homepage der Kirche. Wer mehr über die Kirche weiß, kann mir dies gerne per PN schicken und ich füge es ein.
+
+Es handelt sich um einen kleinen Behälter.
+Bitte Stift mitbringen!!!
+Und am besten NICHT zu Kirchzeiten suchen. Zu viele Kirchenmuggels:)</long-description>
+  <encoded-hints>Stein auf Stein</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=98cba958-3a2c-4adc-8f6b-6a7279a581c4</url>
+  <url-name>St. Markus Kirche Haimbach</url-name>
+  <logs><ul><li>2010-11-14T20:00:00Z : Found it by Luca_DA <br />Zusammen mit Fla20m bei einer Sonntag-Nachmittags-Cache-Runde mitgenommen :)
+
+TFTC</li><li>2010-11-14T20:00:00Z : Found it by Fla20m <br />Baustelle an der Kirche, jedoch blieb der Cache "unverletzt"</li><li>2010-11-05T19:00:00Z : Found it by sosgeo <br />Schnell gefunden.</li><li>2010-11-01T19:00:00Z : Found it by s186003 <br />Schnell gefunden im 2. Anlauf. Heute waren zum Glück keine Bauarbeiter da.
+TFTC</li><li>2010-10-27T19:00:00Z : Found it by 3Delphinos <br />Wir haben den Cache ganz fix gefunden. TFTC
+
+3 Delphinos und Cache Hundi Faye</li></ul></logs>
+  <original-xml>  <wpt  lat="50.546617" lon="9.62685">
+    <time>2009-10-06T07:00:00Z</time>
+    <name>GC1ZHJX</name>
+    <desc>St. Markus Kirche Haimbach by hungry.knight, Traditional Cache (1/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=98cba958-3a2c-4adc-8f6b-6a7279a581c4</url>
+    <urlname>St. Markus Kirche Haimbach</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1423054" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>St. Markus Kirche Haimbach</groundspeak:name>
+      <groundspeak:placed_by>hungry.knight</groundspeak:placed_by>
+      <groundspeak:owner id="2129485">hungry.knight</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">Ein weiterer Cache der Fuldaer Kirchencachereihe. A further cache in a series of churches in Fulda.</groundspeak:short_description>
+      <groundspeak:long_description html="False">Dies ist ein schneller Drive-In der Fuldaer Kirchencachereihe.
+
+Die Serie soll die Vielfalt der Kirchen in Fulda zeigen.
+Der Cache liegt an der katholischen St. Markus Kirche in Haimbach.
+
+Hier der Link http://www.markuskirche-fulda.de/index.html zu der Homepage der Kirche. Wer mehr über die Kirche weiß, kann mir dies gerne per PN schicken und ich füge es ein.
+
+Es handelt sich um einen kleinen Behälter.
+Bitte Stift mitbringen!!!
+Und am besten NICHT zu Kirchzeiten suchen. Zu viele Kirchenmuggels:)</groundspeak:long_description>
+      <groundspeak:encoded_hints>Stein auf Stein</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="136987374">
+          <groundspeak:date>2010-11-14T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3421688">Luca_DA</groundspeak:finder>
+          <groundspeak:text encoded="False">Zusammen mit Fla20m bei einer Sonntag-Nachmittags-Cache-Runde mitgenommen :)
+
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="135951994">
+          <groundspeak:date>2010-11-14T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3087275">Fla20m</groundspeak:finder>
+          <groundspeak:text encoded="False">Baustelle an der Kirche, jedoch blieb der Cache "unverletzt"</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="134575319">
+          <groundspeak:date>2010-11-05T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3898107">sosgeo</groundspeak:finder>
+          <groundspeak:text encoded="False">Schnell gefunden.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="134123442">
+          <groundspeak:date>2010-11-01T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2819456">s186003</groundspeak:finder>
+          <groundspeak:text encoded="False">Schnell gefunden im 2. Anlauf. Heute waren zum Glück keine Bauarbeiter da.
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="133629870">
+          <groundspeak:date>2010-10-27T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1227147">3Delphinos</groundspeak:finder>
+          <groundspeak:text encoded="False">Wir haben den Cache ganz fix gefunden. TFTC
+
+3 Delphinos und Cache Hundi Faye</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

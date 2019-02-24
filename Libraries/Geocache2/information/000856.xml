@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>000856</id>
+  <cache-id>2C226T3</cache-id>
+  <type>Waypoint</type>
+  <name>Second Crop</name>
+  <placed>2009-12-22</placed>
+  <lat>53.435017</lat>
+  <lon>-6.367217</lon>
+  <attributes>hidden</attributes>
+  <description>Second Stage: How many gates?</description>
+  <url>http://www.geocaching.com/seek/wpt.aspx?WID=a2841b0c-94b1-4bd2-9502-7dcca106d660</url>
+  <url-name>Second Crop</url-name>
+</element>
+</celsiusv2.1.addinfofile>

@@ -1,0 +1,122 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>003516</id>
+  <cache-id>GC21QGT</cache-id>
+  <type>Traditional Cache</type>
+  <name>St. Pius Kirche by hungry.knight, Traditional Cache (1/1)</name>
+  <size>Micro</size>
+  <difficulty>1</difficulty>
+  <terrain>1</terrain>
+  <last-found>2010-11-05</last-found>
+  <placed>2009-12-05</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>hungry.knight</placedby>
+  <found>Geocache</found>
+  <lat>50.54905</lat>
+  <lon>9.7095</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>hungry.knight</owner>
+  <description>Ein weiterer Cache der Fuldaer Kirchencachereihe. A further cache in a series of churches in Fulda.</description>
+  <long-description>Dies ist ein schneller Drive-In der Fuldaer Kirchencachereihe. 
+
+Die Serie soll die Vielfalt der Kirchen in Fulda zeigen.
+Der Cache liegt an der katholischen St. Pius Kirche in Fulda.
+
+Wer genauere Informationen über diese Kirche und ihre Geschichte kennt, kann mir diese gerne mitteilen und ich bringe sie in die Cachebeschreibung mit ein.
+
+Es handelt sich um einen kleinen Behälter.
+Bitte Stift mitbringen!!!
+
+Und am besten NICHT zu Kirchzeiten suchen. Zu viele Kirchenmuggels:)</long-description>
+  <encoded-hints>Wenn ihr oben steht seid ihr falsch. 
+Stein auf Stein ;)</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=fcd9f391-d6ef-443b-b87a-026fa0f56887</url>
+  <url-name>St. Pius Kirche</url-name>
+  <logs><ul><li>2010-11-22T20:00:00Z : Found it by poenni <br />Am späten Abend bei Schmuddelwetter konnte der Cache nach kurzer Sondierung der Möglichkeiten entdeckt werden. T4TC!
+
+Gruß aus Ostwestfalen,
+Poenni</li><li>2010-11-21T20:00:00Z : Found it by lillyfelix <br />Schnell gefunden. Viele Muggels.</li><li>2010-11-14T20:00:00Z : Found it by s186003 <br />Schnell gefunden.
+TFTC</li><li>2010-11-13T20:00:00Z : Found it by 3x3 <br />Während der Heimreise nach Dresden zusammen mit meinem Kollegen s7 bei gräßlichem Regen gesucht, gefunden und geloggt. TFTC</li><li>2010-11-05T19:00:00Z : Found it by sosgeo <br />Ebenfalls schnell gefunden.
+Tipp: Auf dem Boden bleiben ... nicht hochklettern. 
+Allerdings sollte man 1,60 cm groß sein :-))
+
+Info an den Besitzer: Die Dose ist nicht ganz "dicht" ... evtl. sollte man eine neue Dose spendieren, die Log-Zettel waren ganz Nass.</li></ul></logs>
+  <original-xml>  <wpt  lat="50.54905" lon="9.7095">
+    <time>2009-12-05T08:00:00Z</time>
+    <name>GC21QGT</name>
+    <desc>St. Pius Kirche by hungry.knight, Traditional Cache (1/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=fcd9f391-d6ef-443b-b87a-026fa0f56887</url>
+    <urlname>St. Pius Kirche</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1488337" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>St. Pius Kirche</groundspeak:name>
+      <groundspeak:placed_by>hungry.knight</groundspeak:placed_by>
+      <groundspeak:owner id="2129485">hungry.knight</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">Ein weiterer Cache der Fuldaer Kirchencachereihe. A further cache in a series of churches in Fulda.</groundspeak:short_description>
+      <groundspeak:long_description html="False">Dies ist ein schneller Drive-In der Fuldaer Kirchencachereihe. 
+
+Die Serie soll die Vielfalt der Kirchen in Fulda zeigen.
+Der Cache liegt an der katholischen St. Pius Kirche in Fulda.
+
+Wer genauere Informationen über diese Kirche und ihre Geschichte kennt, kann mir diese gerne mitteilen und ich bringe sie in die Cachebeschreibung mit ein.
+
+Es handelt sich um einen kleinen Behälter.
+Bitte Stift mitbringen!!!
+
+Und am besten NICHT zu Kirchzeiten suchen. Zu viele Kirchenmuggels:)</groundspeak:long_description>
+      <groundspeak:encoded_hints>Wenn ihr oben steht seid ihr falsch. 
+Stein auf Stein ;)</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="136935724">
+          <groundspeak:date>2010-11-22T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="800027">poenni</groundspeak:finder>
+          <groundspeak:text encoded="False">Am späten Abend bei Schmuddelwetter konnte der Cache nach kurzer Sondierung der Möglichkeiten entdeckt werden. T4TC!
+
+Gruß aus Ostwestfalen,
+Poenni</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="136668132">
+          <groundspeak:date>2010-11-21T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3765430">lillyfelix</groundspeak:finder>
+          <groundspeak:text encoded="False">Schnell gefunden. Viele Muggels.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="136074869">
+          <groundspeak:date>2010-11-14T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2819456">s186003</groundspeak:finder>
+          <groundspeak:text encoded="False">Schnell gefunden.
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="136824681">
+          <groundspeak:date>2010-11-13T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2535628">3x3</groundspeak:finder>
+          <groundspeak:text encoded="False">Während der Heimreise nach Dresden zusammen mit meinem Kollegen s7 bei gräßlichem Regen gesucht, gefunden und geloggt. TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="134575572">
+          <groundspeak:date>2010-11-05T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3898107">sosgeo</groundspeak:finder>
+          <groundspeak:text encoded="False">Ebenfalls schnell gefunden.
+Tipp: Auf dem Boden bleiben ... nicht hochklettern. 
+Allerdings sollte man 1,60 cm groß sein :-))
+
+Info an den Besitzer: Die Dose ist nicht ganz "dicht" ... evtl. sollte man eine neue Dose spendieren, die Log-Zettel waren ganz Nass.</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

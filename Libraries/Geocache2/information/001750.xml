@@ -1,0 +1,128 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>001750</id>
+  <cache-id>GC21TE0</cache-id>
+  <type>Traditional Cache</type>
+  <name>Malahide Beach by kazidrat, Traditional Cache (1.5/1.5)</name>
+  <size>Micro</size>
+  <difficulty>1.5</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-05-24</last-found>
+  <placed>2010-04-10</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>kazidrat</placedby>
+  <found>Geocache</found>
+  <lat>53.450933</lat>
+  <lon>-6.14315</lon>
+  <last-logs>XWXFF</last-logs>
+  <owner>kazidrat</owner>
+  <description><p>A traditional cache, which is hidden close to Malahide
+Beach...</p></description>
+  <long-description><center><img src=
+"http://sphotos.ak.fbcdn.net/hphotos-ak-snc3/hs604.snc3/31790_123558217671833_100000529661753_215966_3374764_n.jpg" /></center>
+<p><b><i>Malahide</i></b></p>
+<p>Malahide, Irish <i>Mullach Ide</i> is situated 16 kilometres
+north of the city of Dublin, lying between Swords, Kinsealy and
+Portmarnock and is still a popular spot for day-trippers,
+especially in the summer months. It is situated on the Broadmeadow
+estuary, on the opposite side of which is Donabate.</p>
+<p>Malahide is known to have become a persistent settlement from
+the coming of the Vikings, who landed in 795, and used Malahide
+Estuary (along with Baldoyle) as a convenient base. With the
+arrival of the Anglo-Normans, the last Danish King of Dublin
+retired to the area in 1171. From the 1180s, the history of the
+area is tied to that of the Talbot family of Malahide Castle, who
+were granted extensive lands in the area and over the centuries
+following developed their estate, and the small harbour
+settlement.</p>
+<p><b><i>The cache</i></b></p>
+<p>The cache is a micro container with logbook, please bring your
+own pen . Please rehide it well to prevent many muggles from
+discovering it.</p></long-description>
+  <additional-waypoints>PA21TE0 - Parking<br />N 53° 27.016 W 006° 08.412<br /><br /></additional-waypoints>
+  <links>waypoints:cache-id:PA21TE0</links>
+  <encoded-hints>Ivy covered tree</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=4bfc04ff-257c-49f1-b6b9-808029f62ed4</url>
+  <url-name>Malahide Beach</url-name>
+  <logs><ul><li>2010-06-14T19:00:00Z : Didn't find it by RosMcC <br />Searched for quite a while here - there are a lot of those things in the hint about, and with the GPS signal jumping under tree cover it could have been any of them. I think I searched them all, probably more than once, but no luck.</li><li>2010-06-09T19:00:00Z : Write note by Crannyn <br />Brought junior hollmanr to find this one but no luck !  I think it may have got muggled ??</li><li>2010-05-28T19:00:00Z : Didn't find it by theswerve <br />Approaching site there was alot of noise...cider party in action...will have to call back....</li><li>2010-05-25T19:00:00Z : Found it by snoopyandmickey <br />Perfect weather for caching.  Not too hot!  TFTC.  </li><li>2010-05-24T19:00:00Z : Found it by Hezekiah <br />Found easily - TFTC!</li></ul></logs>
+  <original-xml>  <wpt  lat="53.450933" lon="-6.14315">
+    <time>2010-04-10T07:00:00Z</time>
+    <name>GC21TE0</name>
+    <desc>Malahide Beach by kazidrat, Traditional Cache (1.5/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=4bfc04ff-257c-49f1-b6b9-808029f62ed4</url>
+    <urlname>Malahide Beach</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1490172" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Malahide Beach</groundspeak:name>
+      <groundspeak:placed_by>kazidrat</groundspeak:placed_by>
+      <groundspeak:owner id="1851316">kazidrat</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>Dublin</groundspeak:state>
+      <groundspeak:short_description html="True">&lt;p&gt;A traditional cache, which is hidden close to Malahide
+Beach...&lt;/p&gt;</groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;center&gt;&lt;img src=
+"http://sphotos.ak.fbcdn.net/hphotos-ak-snc3/hs604.snc3/31790_123558217671833_100000529661753_215966_3374764_n.jpg" /&gt;&lt;/center&gt;
+&lt;p&gt;&lt;b&gt;&lt;i&gt;Malahide&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Malahide, Irish &lt;i&gt;Mullach Ide&lt;/i&gt; is situated 16 kilometres
+north of the city of Dublin, lying between Swords, Kinsealy and
+Portmarnock and is still a popular spot for day-trippers,
+especially in the summer months. It is situated on the Broadmeadow
+estuary, on the opposite side of which is Donabate.&lt;/p&gt;
+&lt;p&gt;Malahide is known to have become a persistent settlement from
+the coming of the Vikings, who landed in 795, and used Malahide
+Estuary (along with Baldoyle) as a convenient base. With the
+arrival of the Anglo-Normans, the last Danish King of Dublin
+retired to the area in 1171. From the 1180s, the history of the
+area is tied to that of the Talbot family of Malahide Castle, who
+were granted extensive lands in the area and over the centuries
+following developed their estate, and the small harbour
+settlement.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;i&gt;The cache&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;The cache is a micro container with logbook, please bring your
+own pen . Please rehide it well to prevent many muggles from
+discovering it.&lt;/p&gt;&lt;p&gt;Additional Waypoints&lt;/p&gt;PA21TE0 - Parking&lt;br /&gt;N 53° 27.016 W 006° 08.412&lt;br /&gt;&lt;br /&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>Ivy covered tree</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="112990218">
+          <groundspeak:date>2010-06-14T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Didn't find it</groundspeak:type>
+          <groundspeak:finder id="774796">RosMcC</groundspeak:finder>
+          <groundspeak:text encoded="False">Searched for quite a while here - there are a lot of those things in the hint about, and with the GPS signal jumping under tree cover it could have been any of them. I think I searched them all, probably more than once, but no luck.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="112259083">
+          <groundspeak:date>2010-06-09T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Write note</groundspeak:type>
+          <groundspeak:finder id="2557004">Crannyn</groundspeak:finder>
+          <groundspeak:text encoded="False">Brought junior hollmanr to find this one but no luck !  I think it may have got muggled ??</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="110459617">
+          <groundspeak:date>2010-05-28T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Didn't find it</groundspeak:type>
+          <groundspeak:finder id="1032462">theswerve</groundspeak:finder>
+          <groundspeak:text encoded="False">Approaching site there was alot of noise...cider party in action...will have to call back....</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="110242489">
+          <groundspeak:date>2010-05-25T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="289646">snoopyandmickey</groundspeak:finder>
+          <groundspeak:text encoded="False">Perfect weather for caching.  Not too hot!  TFTC.  </groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="110065291">
+          <groundspeak:date>2010-05-24T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="274644">Hezekiah</groundspeak:finder>
+          <groundspeak:text encoded="False">Found easily - TFTC!</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

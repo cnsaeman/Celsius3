@@ -1,0 +1,132 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>004275</id>
+  <cache-id>GC2DC4M</cache-id>
+  <type>Traditional Cache</type>
+  <name>TB Hotel B27 Fulda Nord by ubx, Traditional Cache (1.5/2)</name>
+  <size>Small</size>
+  <difficulty>1.5</difficulty>
+  <terrain>2</terrain>
+  <last-found>2010-11-13</last-found>
+  <placed>2010-08-14</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>ubx</placedby>
+  <found>Geocache</found>
+  <lat>50.5784</lat>
+  <lon>9.705167</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>ubx</owner>
+  <description>ein TB-Hotel für die B 27 im Norden von Fulda</description>
+  <long-description>das TB-Hotel liegt neben der B 27 am Ende eines Weges , der für landwirtschaftlichen Verkehr freigegeben ist. Deshalb bitte bei den Parkkoords das Auto stehen lassen und ca. 300 m laufen.
+Der Cache liegt nicht unter der Brücke der B 27 über die Bahnlinie die noch einmal 30 m weiter ist !
+
+Additional Waypoints
+PT2DC4M - Park TB Hotel
+N 50° 34.510 E 009° 41.929
+
+</long-description>
+  <encoded-hints>Backstein</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=d8b3bcab-67c8-4fcf-9435-39fa390c3260</url>
+  <url-name>TB Hotel B27 Fulda Nord</url-name>
+  <logs><ul><li>2010-12-04T20:00:00Z : Found it by Jobsti(Juppy) <br />Trotz Schnne und Dunkelheit hab ich die Dose recht gut gefunden.
+
+Danke für den Cache, Jobsti!</li><li>2010-11-21T19:52:02Z : Found it by Team Wasserbüffel <br />Super schönes Versteck sehr rutschig aber schnell gefunden und gelogt.
+
+21.11.10.   11.40 Uhr 
+Out: Münze 
+In Figur </li><li>2010-11-20T20:00:00Z : Found it by CC! <br />#717@15.30
+
+Kleine runde nach den Arbeit!
+
+Gut gefunden. Viel polizei auf das gleiss....nicht gut ausgesehen...
+
+Danke und gruss aus NL
+
+CC!-RULZ</li><li>2010-11-14T20:00:00Z : Found it by dl4dbx <br />Auf der Rückfahrt nach Hause ein wenig Zeit zum cachen. Heute mal keinen T5er gemacht sondern nur "standard" [;)]. Ganz korrekt am Lebensmittelmarkt geparkt und die 500m zum cache gegangen, bei schönem Wetter. Danke und Gruss aus Nürnberg.
+-no trade-
+#3311</li><li>2010-11-13T20:00:00Z : Found it by s186003 <br />Schnell gefunden, aber kein schöner Ort für ein Versteck.
+TFTC</li></ul></logs>
+  <original-xml>  <wpt  lat="50.5784" lon="9.705167">
+    <time>2010-08-14T07:00:00Z</time>
+    <name>GC2DC4M</name>
+    <desc>TB Hotel B27 Fulda Nord by ubx, Traditional Cache (1.5/2)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=d8b3bcab-67c8-4fcf-9435-39fa390c3260</url>
+    <urlname>TB Hotel B27 Fulda Nord</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1834881" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>TB Hotel B27 Fulda Nord</groundspeak:name>
+      <groundspeak:placed_by>ubx</groundspeak:placed_by>
+      <groundspeak:owner id="787613">ubx</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>2</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">ein TB-Hotel für die B 27 im Norden von Fulda</groundspeak:short_description>
+      <groundspeak:long_description html="False">das TB-Hotel liegt neben der B 27 am Ende eines Weges , der für landwirtschaftlichen Verkehr freigegeben ist. Deshalb bitte bei den Parkkoords das Auto stehen lassen und ca. 300 m laufen.
+Der Cache liegt nicht unter der Brücke der B 27 über die Bahnlinie die noch einmal 30 m weiter ist !
+
+Additional Waypoints
+PT2DC4M - Park TB Hotel
+N 50° 34.510 E 009° 41.929
+
+</groundspeak:long_description>
+      <groundspeak:encoded_hints>Backstein</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="137964937">
+          <groundspeak:date>2010-12-04T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="451798">Jobsti(Juppy)</groundspeak:finder>
+          <groundspeak:text encoded="False">Trotz Schnne und Dunkelheit hab ich die Dose recht gut gefunden.
+
+Danke für den Cache, Jobsti!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="136582782">
+          <groundspeak:date>2010-11-21T19:52:02Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3917526">Team Wasserbüffel</groundspeak:finder>
+          <groundspeak:text encoded="False">Super schönes Versteck sehr rutschig aber schnell gefunden und gelogt.
+
+21.11.10.   11.40 Uhr 
+Out: Münze 
+In Figur </groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="136442989">
+          <groundspeak:date>2010-11-20T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="582069">CC!</groundspeak:finder>
+          <groundspeak:text encoded="False">#717@15.30
+
+Kleine runde nach den Arbeit!
+
+Gut gefunden. Viel polizei auf das gleiss....nicht gut ausgesehen...
+
+Danke und gruss aus NL
+
+CC!-RULZ</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="135851513">
+          <groundspeak:date>2010-11-14T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="289606">dl4dbx</groundspeak:finder>
+          <groundspeak:text encoded="False">Auf der Rückfahrt nach Hause ein wenig Zeit zum cachen. Heute mal keinen T5er gemacht sondern nur "standard" [;)]. Ganz korrekt am Lebensmittelmarkt geparkt und die 500m zum cache gegangen, bei schönem Wetter. Danke und Gruss aus Nürnberg.
+-no trade-
+#3311</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="136074508">
+          <groundspeak:date>2010-11-13T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2819456">s186003</groundspeak:finder>
+          <groundspeak:text encoded="False">Schnell gefunden, aber kein schöner Ort für ein Versteck.
+TFTC</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

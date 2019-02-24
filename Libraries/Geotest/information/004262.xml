@@ -1,0 +1,160 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>004262</id>
+  <cache-id>GC258KE</cache-id>
+  <type>Traditional Cache</type>
+  <name>Bornfeldlinde by Michael01, Traditional Cache (1.5/1.5)</name>
+  <size>Micro</size>
+  <difficulty>1.5</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-10-31</last-found>
+  <placed>2010-03-19</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Michael01</placedby>
+  <found>Geocache</found>
+  <lat>50.604317</lat>
+  <lon>9.720433</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>michael01</owner>
+  <description>
+      </description>
+  <long-description><p align="center">&nbsp;<span style=
+"font-family: Comic Sans MS; font-size: 16pt">Bornfeldlinde bei
+Bernhards</span></p>
+<p align="center"><img src=
+"http://www.imgbox.de/users/Michael01/Bornfeldlinde.jpg" border="2"
+alt="" width="300" height="400" /></p>
+<p align="center"><span style="font-family: Comic Sans MS">Ein
+wirklich sehr imposanter Baum</span><span style=
+"font-family: Comic Sans MS" id="LongDescription">.</span></p>
+<p align="center"><span style=
+"font-family: Times New Roman">&nbsp;</span> <font face=
+"Comic Sans MS" size="2">Der Cache ist <b>nicht</b> von der B 27
+aus erreichbar - die Linde kann &uuml;ber geteerte Wege direkt
+angefahren werden.</font></p>
+<p align="center"><font face="Comic Sans MS" size="2">Ebenso ist es
+nicht notwendig, auf der Linde zu klettern !!!</font></p>
+<p align="center">&nbsp;</p>
+<p align="center"><span style="font-family: Comic Sans MS" id=
+"LongDescription1"><font size="4">Viel Spa&szlig; beim Suchen
+!</font></span></p>
+<p align="left">&nbsp;</p></long-description>
+  <encoded-hints>
+      </encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=e9ce3916-c97c-42e7-8fef-04d4ee857ea9</url>
+  <url-name>Bornfeldlinde</url-name>
+  <logs><ul><li>2010-12-04T20:00:00Z : Found it by Jan Tenner <br />Tja, hier bin ich schon oft vorbeigefahren, heute hat es mal gepaßt. Da ich die Karte nicht im Kopf oder auf dem Gerät hatte, stand mein Auto recht weit weg (an eine Schlittenberg in östlicher Richtung, wo eifrig gerodelt wurde), aber es war ein schöner Spaziergang im Pulverschnee in der Sonne. Dann war der Cache noch winterfest... perfekt :)
+Danke für's Verstecken!
+
+PS: Das Logbuch ist fast voll.</li><li>2010-11-20T20:00:00Z : Found it by CC! <br />#715@15.00
+
+Kleine runde nach den Arbeit!
+
+Gut gefunden. Schone Baum!!
+
+Danke und gruss aus NL
+
+CC!-RULZ</li><li>2010-11-14T20:00:00Z : Found it by Straßenjunge <br />Was für ein Gewächs ! Problemlos zusammen mit meinem Sohn gefunden , danke fürs Zeigen und
+TFTC Straßenjunge</li><li>2010-11-06T19:00:00Z : Found it by Heussi <br />Auf dem Nachhauseweg von Schlüchtern auch diesen Cache (mit ungutem Gefühl, da von Michael01 und Dunkelheit![;)]), noch angegangen und überraschenderweise auf Anhieb (wahrscheinlich ein Glücksgriff) im Schein der Taschenlampe um 18.00 Uhr gefunden!
+
+TFTC von den Heussis
+#1727</li><li>2010-10-31T19:00:00Z : Found it by burgen13 <br />Bei herrlichem Herbstwetter Sonntagsspaziergang mit erfolgreicher Cachesuche verbunden.
+Danke fürs Zeigen dieses eindrucksvollen Baumes sagt burgen13 </li></ul></logs>
+  <original-xml>  <wpt  lat="50.604317" lon="9.720433">
+    <time>2010-03-19T07:00:00Z</time>
+    <name>GC258KE</name>
+    <desc>Bornfeldlinde by Michael01, Traditional Cache (1.5/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=e9ce3916-c97c-42e7-8fef-04d4ee857ea9</url>
+    <urlname>Bornfeldlinde</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1593168" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Bornfeldlinde</groundspeak:name>
+      <groundspeak:placed_by>Michael01</groundspeak:placed_by>
+      <groundspeak:owner id="1225681">michael01</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="True">
+      </groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;p align="center"&gt;&amp;nbsp;&lt;span style=
+"font-family: Comic Sans MS; font-size: 16pt"&gt;Bornfeldlinde bei
+Bernhards&lt;/span&gt;&lt;/p&gt;
+&lt;p align="center"&gt;&lt;img src=
+"http://www.imgbox.de/users/Michael01/Bornfeldlinde.jpg" border="2"
+alt="" width="300" height="400" /&gt;&lt;/p&gt;
+&lt;p align="center"&gt;&lt;span style="font-family: Comic Sans MS"&gt;Ein
+wirklich sehr imposanter Baum&lt;/span&gt;&lt;span style=
+"font-family: Comic Sans MS" id="LongDescription"&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p align="center"&gt;&lt;span style=
+"font-family: Times New Roman"&gt;&amp;nbsp;&lt;/span&gt; &lt;font face=
+"Comic Sans MS" size="2"&gt;Der Cache ist &lt;b&gt;nicht&lt;/b&gt; von der B 27
+aus erreichbar - die Linde kann &amp;uuml;ber geteerte Wege direkt
+angefahren werden.&lt;/font&gt;&lt;/p&gt;
+&lt;p align="center"&gt;&lt;font face="Comic Sans MS" size="2"&gt;Ebenso ist es
+nicht notwendig, auf der Linde zu klettern !!!&lt;/font&gt;&lt;/p&gt;
+&lt;p align="center"&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p align="center"&gt;&lt;span style="font-family: Comic Sans MS" id=
+"LongDescription1"&gt;&lt;font size="4"&gt;Viel Spa&amp;szlig; beim Suchen
+!&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p align="left"&gt;&amp;nbsp;&lt;/p&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="137861172">
+          <groundspeak:date>2010-12-04T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3650790">Jan Tenner</groundspeak:finder>
+          <groundspeak:text encoded="False">Tja, hier bin ich schon oft vorbeigefahren, heute hat es mal gepaßt. Da ich die Karte nicht im Kopf oder auf dem Gerät hatte, stand mein Auto recht weit weg (an eine Schlittenberg in östlicher Richtung, wo eifrig gerodelt wurde), aber es war ein schöner Spaziergang im Pulverschnee in der Sonne. Dann war der Cache noch winterfest... perfekt :)
+Danke für's Verstecken!
+
+PS: Das Logbuch ist fast voll.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="136442414">
+          <groundspeak:date>2010-11-20T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="582069">CC!</groundspeak:finder>
+          <groundspeak:text encoded="False">#715@15.00
+
+Kleine runde nach den Arbeit!
+
+Gut gefunden. Schone Baum!!
+
+Danke und gruss aus NL
+
+CC!-RULZ</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="135876220">
+          <groundspeak:date>2010-11-14T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2174147">Straßenjunge</groundspeak:finder>
+          <groundspeak:text encoded="False">Was für ein Gewächs ! Problemlos zusammen mit meinem Sohn gefunden , danke fürs Zeigen und
+TFTC Straßenjunge</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="134894498">
+          <groundspeak:date>2010-11-06T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="363704">Heussi</groundspeak:finder>
+          <groundspeak:text encoded="False">Auf dem Nachhauseweg von Schlüchtern auch diesen Cache (mit ungutem Gefühl, da von Michael01 und Dunkelheit![;)]), noch angegangen und überraschenderweise auf Anhieb (wahrscheinlich ein Glücksgriff) im Schein der Taschenlampe um 18.00 Uhr gefunden!
+
+TFTC von den Heussis
+#1727</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="133887025">
+          <groundspeak:date>2010-10-31T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2887618">burgen13</groundspeak:finder>
+          <groundspeak:text encoded="False">Bei herrlichem Herbstwetter Sonntagsspaziergang mit erfolgreicher Cachesuche verbunden.
+Danke fürs Zeigen dieses eindrucksvollen Baumes sagt burgen13 </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

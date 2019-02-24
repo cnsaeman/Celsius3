@@ -1,0 +1,110 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>004360</id>
+  <cache-id>GC2DAMB</cache-id>
+  <type>Traditional Cache</type>
+  <name>im Wald am Fluss 2 by ubx, Traditional Cache (1.5/3)</name>
+  <size>Micro</size>
+  <difficulty>1.5</difficulty>
+  <terrain>3</terrain>
+  <last-found>2010-09-22</last-found>
+  <placed>2010-08-13</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>ubx</placedby>
+  <found>Geocache</found>
+  <lat>50.594483</lat>
+  <lon>9.60705</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>ubx</owner>
+  <description>Pet-ling im Wald mit schwachem Empfang</description>
+  <long-description>dieses mal auf der anderen Strassenseite , aber hier fließt auch manchmal ein Flüsschen. Nur wieder die letzten 20 Meter im steilen Gelände . Bitte auf Jägermuggels achten , in der Nähe sind 2 Ansitze.
+Parken bei den angegebenen Koords und dann ca 150 m laufen.
+Viel Spass wünscht der Ubx
+
+Additional Waypoints
+P22DAMB - Parken 2
+N 50° 35.757 E 009° 36.370
+
+</long-description>
+  <encoded-hints>in einem alten Wurzelstock</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=00382f48-b48b-4e3e-b756-17dd9c0cc2c1</url>
+  <url-name>im Wald am Fluss 2</url-name>
+  <logs><ul><li>2010-10-03T19:00:00Z : Found it by maja333 <br />Bei unserem Sonntagscacheausflug  anlässlich des Tags der Deutschen Einheit haben wir auch diesen Cache nach kurzer Suche  gefunden. TFTC</li><li>2010-10-03T19:00:00Z : Found it by TT-Diver76 <br />auf dem Rückweg aus der Rhön noch eine kleine rund eum Fulda gedreht,
+
+tftc Jan</li><li>2010-10-03T19:00:00Z : Found it by Berliner73 <br />nicht ganz soo einfach aber im team geht alles.
+danke fürs zeigen!
+Berliner73</li><li>2010-10-03T19:00:00Z : Found it by Aldokyl <br />Im Team gut gefunden.</li><li>2010-09-22T19:00:00Z : Found it by burgen13 <br />Bei schönem Herbstwetter anlässlich einer Fahrradtour eingeloggt. Anschließend noch ein nettes Gespräch mit dem Jagdpächter geführt.
+Danke sagt burgen13</li></ul></logs>
+  <original-xml>  <wpt  lat="50.594483" lon="9.60705">
+    <time>2010-08-13T07:00:00Z</time>
+    <name>GC2DAMB</name>
+    <desc>im Wald am Fluss 2 by ubx, Traditional Cache (1.5/3)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=00382f48-b48b-4e3e-b756-17dd9c0cc2c1</url>
+    <urlname>im Wald am Fluss 2</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1833446" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>im Wald am Fluss 2</groundspeak:name>
+      <groundspeak:placed_by>ubx</groundspeak:placed_by>
+      <groundspeak:owner id="787613">ubx</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>3</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">Pet-ling im Wald mit schwachem Empfang</groundspeak:short_description>
+      <groundspeak:long_description html="False">dieses mal auf der anderen Strassenseite , aber hier fließt auch manchmal ein Flüsschen. Nur wieder die letzten 20 Meter im steilen Gelände . Bitte auf Jägermuggels achten , in der Nähe sind 2 Ansitze.
+Parken bei den angegebenen Koords und dann ca 150 m laufen.
+Viel Spass wünscht der Ubx
+
+Additional Waypoints
+P22DAMB - Parken 2
+N 50° 35.757 E 009° 36.370
+
+</groundspeak:long_description>
+      <groundspeak:encoded_hints>in einem alten Wurzelstock</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="131414685">
+          <groundspeak:date>2010-10-03T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1574872">maja333</groundspeak:finder>
+          <groundspeak:text encoded="False">Bei unserem Sonntagscacheausflug  anlässlich des Tags der Deutschen Einheit haben wir auch diesen Cache nach kurzer Suche  gefunden. TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="131012837">
+          <groundspeak:date>2010-10-03T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1477790">TT-Diver76</groundspeak:finder>
+          <groundspeak:text encoded="False">auf dem Rückweg aus der Rhön noch eine kleine rund eum Fulda gedreht,
+
+tftc Jan</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="130954790">
+          <groundspeak:date>2010-10-03T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1461778">Berliner73</groundspeak:finder>
+          <groundspeak:text encoded="False">nicht ganz soo einfach aber im team geht alles.
+danke fürs zeigen!
+Berliner73</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="130932962">
+          <groundspeak:date>2010-10-03T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="438973">Aldokyl</groundspeak:finder>
+          <groundspeak:text encoded="False">Im Team gut gefunden.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="128013067">
+          <groundspeak:date>2010-09-22T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2887618">burgen13</groundspeak:finder>
+          <groundspeak:text encoded="False">Bei schönem Herbstwetter anlässlich einer Fahrradtour eingeloggt. Anschließend noch ein nettes Gespräch mit dem Jagdpächter geführt.
+Danke sagt burgen13</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

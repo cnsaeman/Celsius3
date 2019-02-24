@@ -1,0 +1,166 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>002084</id>
+  <cache-id>GC232R3</cache-id>
+  <type>Traditional Cache</type>
+  <name>Port Mearnóg Dunes by hollmanr, Traditional Cache (1/1.5)</name>
+  <size>Small</size>
+  <difficulty>1</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-05-09</last-found>
+  <placed>2010-02-13</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>hollmanr</placedby>
+  <found>Geocache</found>
+  <lat>53.415367</lat>
+  <lon>-6.119433</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>hollmanr</owner>
+  <description>The cache is a tuberware box hidden close to Portmarnock Beach.</description>
+  <long-description>Portmarnock (Port Mearnóg) beach is an attractive 5 kilometre stretch beach, backed by sand dunes, joining Baldoyle and Malahide beach. The name Portmarnock originated from Irish meaning port, and St.Marnock who arrived there in the fifth century. It was from the Velvet Strand (as the beach is also known), on the 24th of June 1930 that the famous Australian aircraft ‘Southern Cross’ departed on a pioneering Atlantic flight to Newfoundland. The plane was piloted by the Australian Charles Kingford Smith and navigated by the Dubliner Captain J.P. Saul. A limestone monument in the shape of a globe (‘Eccentric Orbit’) has been erected as a tribute to the journey.
+The beach is popular for horse riding, swimming, walking and wind and kite surfing and on a clear day has stunning views of Ireland's Eye, Howth and Lambay Island.
+The suggested starting point for this cache is a carpark accessed by the Golf links Road. The co-ordinates for this are N053 24.997 W006 07.670 and from here you can access the cache by following pathways through the dunes. 
+
+Please note the following :
+
+The sand dunes on Portmarnock beach are an important natural feature. Sand dunes are a sensitive habitat and depend on marram grass to stop the wind from blowing the sand away. The root system of the marram grass acts as a protective cover for the dunes. The dunes can be eroded by the action of the wind, tides and excessive trampling. You can help to prevent erosion of the dunes by walking and playing on the strand rather than the dunes.
+Parts of the dune system are fenced off at times, which restricts access. Unfortunately, this is necessary to protect the dunes by planting marram grass and allowing it to become established without interference. 
+
+At time of hiding there were no fenced off areas in the vicinity of the cache. However if at any stage you think the area where the cache is hidden is within a fenced off area please do not enter. We would also appreciate it if you could notify us in the event of this happening. 
+
+
+The cache has the following initial contents:-
+
+Chipmunk Travel Pirate
+Ice Age Travel Turtle
+Save the Nature Geocoin
+
+Focus Ireland Key-ring
+Near 90.3fm badge
+Bouncy Ball
+Necklace
+
+
+First to find prizes: Geocaching Pin and I love Geocaching neck strap
+
+Additional Waypoints
+PK232R3 - Car Park
+N 53° 24.997 W 006° 07.670
+
+</long-description>
+  <encoded-hints>Close to the fence at ground level</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=cc3421ad-0e3d-48b7-8bb8-bcd3e15c36db</url>
+  <url-name>Port Mearnóg Dunes</url-name>
+  <logs><ul><li>2010-06-16T19:00:00Z : Found it by RoobyDoo <br />A lovely walk from the car park. Fantastic views of Lambay, Ireland Eye and Howthe.The sea looked so inviting.
+Dropped off coin.
+Thanks for a great cache.
+RD   </li><li>2010-05-15T19:00:00Z : Found it by Alastair74 <br />Found with Wildfowler while spending the day in Dublin for the WWFM. TFTC</li><li>2010-05-15T19:00:00Z : Found it by wildfowler <br />Found on a caching weekend around Dublin with Alastair74! TNLNSL TFTC</li><li>2010-05-10T19:00:00Z : Found it by Elysia <br />This was our first exploration, great fun, met other explores on the same day, we needed to be more vigilant in our search then we had expected, so found our chacet on the return trip, with a little help from the other family on the hunt, will certainly be going again, enjoyed the best of the afternoon weather and explored a part of the beach i had not wandered into before,.</li><li>2010-05-09T19:00:00Z : Found it by garrethmolloy <br />Great walk on a beautiful day.
+Karen found the cache and Jake took a Yo-Yo and left a Hippo.
+The sun was shining and we had a great afternoon on thebeach.
+</li></ul></logs>
+  <original-xml>  <wpt  lat="53.415367" lon="-6.119433">
+    <time>2010-02-13T08:00:00Z</time>
+    <name>GC232R3</name>
+    <desc>Port Mearnóg Dunes by hollmanr, Traditional Cache (1/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=cc3421ad-0e3d-48b7-8bb8-bcd3e15c36db</url>
+    <urlname>Port Mearnóg Dunes</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1527964" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Port Mearnóg Dunes</groundspeak:name>
+      <groundspeak:placed_by>hollmanr</groundspeak:placed_by>
+      <groundspeak:owner id="2511647">hollmanr</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>Dublin</groundspeak:state>
+      <groundspeak:short_description html="False">The cache is a tuberware box hidden close to Portmarnock Beach.</groundspeak:short_description>
+      <groundspeak:long_description html="False">Portmarnock (Port Mearnóg) beach is an attractive 5 kilometre stretch beach, backed by sand dunes, joining Baldoyle and Malahide beach. The name Portmarnock originated from Irish meaning port, and St.Marnock who arrived there in the fifth century. It was from the Velvet Strand (as the beach is also known), on the 24th of June 1930 that the famous Australian aircraft ‘Southern Cross’ departed on a pioneering Atlantic flight to Newfoundland. The plane was piloted by the Australian Charles Kingford Smith and navigated by the Dubliner Captain J.P. Saul. A limestone monument in the shape of a globe (‘Eccentric Orbit’) has been erected as a tribute to the journey.
+The beach is popular for horse riding, swimming, walking and wind and kite surfing and on a clear day has stunning views of Ireland's Eye, Howth and Lambay Island.
+The suggested starting point for this cache is a carpark accessed by the Golf links Road. The co-ordinates for this are N053 24.997 W006 07.670 and from here you can access the cache by following pathways through the dunes. 
+
+Please note the following :
+
+The sand dunes on Portmarnock beach are an important natural feature. Sand dunes are a sensitive habitat and depend on marram grass to stop the wind from blowing the sand away. The root system of the marram grass acts as a protective cover for the dunes. The dunes can be eroded by the action of the wind, tides and excessive trampling. You can help to prevent erosion of the dunes by walking and playing on the strand rather than the dunes.
+Parts of the dune system are fenced off at times, which restricts access. Unfortunately, this is necessary to protect the dunes by planting marram grass and allowing it to become established without interference. 
+
+At time of hiding there were no fenced off areas in the vicinity of the cache. However if at any stage you think the area where the cache is hidden is within a fenced off area please do not enter. We would also appreciate it if you could notify us in the event of this happening. 
+
+
+The cache has the following initial contents:-
+
+Chipmunk Travel Pirate
+Ice Age Travel Turtle
+Save the Nature Geocoin
+
+Focus Ireland Key-ring
+Near 90.3fm badge
+Bouncy Ball
+Necklace
+
+
+First to find prizes: Geocaching Pin and I love Geocaching neck strap
+
+Additional Waypoints
+PK232R3 - Car Park
+N 53° 24.997 W 006° 07.670
+
+</groundspeak:long_description>
+      <groundspeak:encoded_hints>Close to the fence at ground level</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="113117103">
+          <groundspeak:date>2010-06-16T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="668764">RoobyDoo</groundspeak:finder>
+          <groundspeak:text encoded="False">A lovely walk from the car park. Fantastic views of Lambay, Ireland Eye and Howthe.The sea looked so inviting.
+Dropped off coin.
+Thanks for a great cache.
+RD   </groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="109073612">
+          <groundspeak:date>2010-05-15T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2453409">Alastair74</groundspeak:finder>
+          <groundspeak:text encoded="False">Found with Wildfowler while spending the day in Dublin for the WWFM. TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="108914906">
+          <groundspeak:date>2010-05-15T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="182407">wildfowler</groundspeak:finder>
+          <groundspeak:text encoded="False">Found on a caching weekend around Dublin with Alastair74! TNLNSL TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="107922492">
+          <groundspeak:date>2010-05-10T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3269911">Elysia</groundspeak:finder>
+          <groundspeak:text encoded="False">This was our first exploration, great fun, met other explores on the same day, we needed to be more vigilant in our search then we had expected, so found our chacet on the return trip, with a little help from the other family on the hunt, will certainly be going again, enjoyed the best of the afternoon weather and explored a part of the beach i had not wandered into before,.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="107804592">
+          <groundspeak:date>2010-05-09T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3265584">garrethmolloy</groundspeak:finder>
+          <groundspeak:text encoded="False">Great walk on a beautiful day.
+Karen found the cache and Jake took a Yo-Yo and left a Hippo.
+The sun was shining and we had a great afternoon on thebeach.
+</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs>
+        <groundspeak:travelbug id="1255386" ref="TB1RY48">
+          <groundspeak:name>Tibet Attention Geocoin EU1</groundspeak:name>
+        </groundspeak:travelbug>
+        <groundspeak:travelbug id="2160164" ref="TB2R9KM">
+          <groundspeak:name>European Capitals</groundspeak:name>
+        </groundspeak:travelbug>
+        <groundspeak:travelbug id="2632243" ref="TB394W0">
+          <groundspeak:name>Irelands Memories</groundspeak:name>
+        </groundspeak:travelbug>
+      </groundspeak:travelbugs>
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

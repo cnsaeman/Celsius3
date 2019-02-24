@@ -1,0 +1,162 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>001963</id>
+  <cache-id>GCZE6B</cache-id>
+  <type>Traditional Cache</type>
+  <name>Bally's Staff by Windsockers, Traditional Cache (1.5/1.5)</name>
+  <size>Not chosen</size>
+  <difficulty>1.5</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2008-12-26</last-found>
+  <placed>2006-12-07</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>Windsockers</placedby>
+  <found>Geocache</found>
+  <lat>53.523733</lat>
+  <lon>-6.269517</lon>
+  <last-logs>XXXFF</last-logs>
+  <owner>Windsockers</owner>
+  <description><center>
+<img src="http://img.geocaching.com/cache/5bff3fde-a92d-4ece-93ae-ce54fe68997c.jpg" />
+</center></description>
+  <long-description><p>There are many great Irish religious relics, but the most famous
+and memorable one of them all was ‘An Bachall Iosa’ or The Jesus
+Staff. The faithful believed that Jesus appeared to St Patrick and
+handed him the staff on an island in the Mediterranean, before he
+began his mission in Ireland.</p>
+<p>In the Annals of Ulster and the Four Masters, both mention that
+it was a symbol of Patrick’s authority here. St. Bernard of
+Clairvaux described it as ‘covered with gold and adorned with the
+most costly gems’.</p>
+<center>
+<img src="http://img.geocaching.com/cache/aec846c4-f13b-4fcd-a37d-54efd996317f.jpg" />
+</center>
+<p>It was then in the possession of the visiting St. Malachy,
+Archbishop of Armagh who had had to purchase it from Niall, the
+usurping lay-primate before he could take up his See. When disputes
+broke out among Irish chieftains, treaties of peace were made and
+signed over it and solemn vows taken in its presence. It was
+originally held in Armagh but during the eleventh century it was
+brought to Ballyboghill, north of Dublin.</p>
+<p>The tradition in the district is to the effect that this
+venerated relic was for a number of years preserved in the old
+church of Ballyboghill - which has been for a number of years in
+ruins</p>
+<p><b>The Cache</b></p>
+<p>Please beware that you can be seen by Muggles from Nearby
+houses</p>
+<p>Please retrieve and replace the cache with extreme care to
+prevent Muggles from Discovering the cache as this is a very
+popular area.<br />
+The cache cannot be fully removed from its hiding place you'll see
+why on discovery</p>
+<center>
+<img src="http://www.northbeach.ie/gallery/albums/userpics/10001/windsock-anim-small.gif" />
+<br />
+<b>The Windsockers</b></center></long-description>
+  <encoded-hints>Tree</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=65739b0f-e3a6-4e52-8c60-52f3b98316ba</url>
+  <url-name>Bally's Staff</url-name>
+  <logs><ul><li>2010-01-31T20:00:00Z : Didn't find it by CluelessTwo <br />After a while looking in a few places, the gps wasn't happy with me walking back and forth. When we checked the logs and saw the last find was so long ago, we returned to the car and have to log a DNF.
+
+Maybe a quick check the cache is still there would help?</li><li>2009-10-31T19:00:00Z : Didn't find it by GerIRL <br />We struck out on this one - looked for about 30 minutes.  Great location that we were glad to visit, and a nice history lesson.</li><li>2009-07-19T19:00:00Z : Didn't find it by abra123cadabra <br />Stopped by to quickly find this one but our GPSr couldn't decide where GZ was. Found the grave of the 1798 Irishmen and searched all around in the trees. The cache info and hint didn't help. Took some pictures of this lovely location and left after 20 mins unsuccessful searching. Given the length of time since the cache was last found, could the owner check if it's still there?</li><li>2009-05-15T19:00:00Z : Found it by kazidrat <br />Found easily...
+TFTC...[:D]</li><li>2008-12-26T20:00:00Z : Found it by rooske <br />First name on new book! </li></ul></logs>
+  <original-xml>  <wpt  lat="53.523733" lon="-6.269517">
+    <time>2006-12-07T08:00:00Z</time>
+    <name>GCZE6B</name>
+    <desc>Bally's Staff by Windsockers, Traditional Cache (1.5/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=65739b0f-e3a6-4e52-8c60-52f3b98316ba</url>
+    <urlname>Bally's Staff</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="496261" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Bally's Staff</groundspeak:name>
+      <groundspeak:placed_by>Windsockers</groundspeak:placed_by>
+      <groundspeak:owner id="271623">Windsockers</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Not chosen</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>Leinster</groundspeak:state>
+      <groundspeak:short_description html="True">&lt;center&gt;
+&lt;img src="http://img.geocaching.com/cache/5bff3fde-a92d-4ece-93ae-ce54fe68997c.jpg" /&gt;
+&lt;/center&gt;</groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;p&gt;There are many great Irish religious relics, but the most famous
+and memorable one of them all was ‘An Bachall Iosa’ or The Jesus
+Staff. The faithful believed that Jesus appeared to St Patrick and
+handed him the staff on an island in the Mediterranean, before he
+began his mission in Ireland.&lt;/p&gt;
+&lt;p&gt;In the Annals of Ulster and the Four Masters, both mention that
+it was a symbol of Patrick’s authority here. St. Bernard of
+Clairvaux described it as ‘covered with gold and adorned with the
+most costly gems’.&lt;/p&gt;
+&lt;center&gt;
+&lt;img src="http://img.geocaching.com/cache/aec846c4-f13b-4fcd-a37d-54efd996317f.jpg" /&gt;
+&lt;/center&gt;
+&lt;p&gt;It was then in the possession of the visiting St. Malachy,
+Archbishop of Armagh who had had to purchase it from Niall, the
+usurping lay-primate before he could take up his See. When disputes
+broke out among Irish chieftains, treaties of peace were made and
+signed over it and solemn vows taken in its presence. It was
+originally held in Armagh but during the eleventh century it was
+brought to Ballyboghill, north of Dublin.&lt;/p&gt;
+&lt;p&gt;The tradition in the district is to the effect that this
+venerated relic was for a number of years preserved in the old
+church of Ballyboghill - which has been for a number of years in
+ruins&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;The Cache&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Please beware that you can be seen by Muggles from Nearby
+houses&lt;/p&gt;
+&lt;p&gt;Please retrieve and replace the cache with extreme care to
+prevent Muggles from Discovering the cache as this is a very
+popular area.&lt;br /&gt;
+The cache cannot be fully removed from its hiding place you'll see
+why on discovery&lt;/p&gt;
+&lt;center&gt;
+&lt;img src="http://www.northbeach.ie/gallery/albums/userpics/10001/windsock-anim-small.gif" /&gt;
+&lt;br /&gt;
+&lt;b&gt;The Windsockers&lt;/b&gt;&lt;/center&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>Tree</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="96405749">
+          <groundspeak:date>2010-01-31T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Didn't find it</groundspeak:type>
+          <groundspeak:finder id="2473483">CluelessTwo</groundspeak:finder>
+          <groundspeak:text encoded="False">After a while looking in a few places, the gps wasn't happy with me walking back and forth. When we checked the logs and saw the last find was so long ago, we returned to the car and have to log a DNF.
+
+Maybe a quick check the cache is still there would help?</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="89045112">
+          <groundspeak:date>2009-10-31T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Didn't find it</groundspeak:type>
+          <groundspeak:finder id="323663">GerIRL</groundspeak:finder>
+          <groundspeak:text encoded="False">We struck out on this one - looked for about 30 minutes.  Great location that we were glad to visit, and a nice history lesson.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="77639830">
+          <groundspeak:date>2009-07-19T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Didn't find it</groundspeak:type>
+          <groundspeak:finder id="2383033">abra123cadabra</groundspeak:finder>
+          <groundspeak:text encoded="False">Stopped by to quickly find this one but our GPSr couldn't decide where GZ was. Found the grave of the 1798 Irishmen and searched all around in the trees. The cache info and hint didn't help. Took some pictures of this lovely location and left after 20 mins unsuccessful searching. Given the length of time since the cache was last found, could the owner check if it's still there?</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="70857101">
+          <groundspeak:date>2009-05-15T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1851316">kazidrat</groundspeak:finder>
+          <groundspeak:text encoded="False">Found easily...
+TFTC...[:D]</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="59529662">
+          <groundspeak:date>2008-12-26T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1786087">rooske</groundspeak:finder>
+          <groundspeak:text encoded="False">First name on new book! </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

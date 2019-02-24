@@ -1,0 +1,115 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>000736</id>
+  <cache-id>GC17Q63</cache-id>
+  <type>Traditional Cache</type>
+  <name>McCache by moyle, Traditional Cache (1.5/1)</name>
+  <size>Small</size>
+  <difficulty>1.5</difficulty>
+  <terrain>1</terrain>
+  <last-found>2009-07-19</last-found>
+  <placed>2007-12-01</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>moyle</placedby>
+  <found>Geocache</found>
+  <lat>53.323183</lat>
+  <lon>-6.396783</lon>
+  <last-logs>FFFFFX</last-logs>
+  <owner>moyle</owner>
+  <description>Muggles, Muggles everywhere and yet an easy cache to find!! Lots of places to park.</description>
+  <long-description>
+      </long-description>
+  <encoded-hints>Behind the middle of three.</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=748c9cf4-89b0-4d0a-a980-eaef124fb18d</url>
+  <url-name>McCache</url-name>
+  <logs><ul><li>2010-03-22T19:00:00Z : Found it by lazycachers-LV <br />Interesting cache, we dropped our car far far away, and take this one by 5 minit walking :)</li><li>2010-03-22T19:00:00Z : Found it by Lauris_79 <br />Not so much people at morning. Left GC.</li><li>2010-03-14T19:00:00Z : Found it by declan.collins <br />Not too many onlookers, Mel and Annie found the cache. Took minipen, left elastic band. TFTC.</li><li>2010-02-23T20:00:00Z : Found it by Blue Jay 59 <br />Found this on a wet afternoon. 
+There it was just where it was supposed to be. 
+Box is very very smelly though [:(]
+In Coin
+TFTC
+Blue Jay 59
+#208</li><li>2010-02-23T20:00:00Z : Found it by Toffee Man <br />Found this cache easily enough on a wet afternoon when there were not to many muggles about.
+TFTC
+Toffee Man
+#208</li><li>2009-07-19T19:00:00Z : Didn't find it by Kersti.com <br />No luck finding this one today</li></ul></logs>
+  <original-xml>  <wpt  lat="53.323183" lon="-6.396783">
+    <time>2007-12-01T08:00:00Z</time>
+    <name>GC17Q63</name>
+    <desc>McCache by moyle, Traditional Cache (1.5/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=748c9cf4-89b0-4d0a-a980-eaef124fb18d</url>
+    <urlname>McCache</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="743230" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>McCache</groundspeak:name>
+      <groundspeak:placed_by>moyle</groundspeak:placed_by>
+      <groundspeak:owner id="1183128">moyle</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>
+      </groundspeak:state>
+      <groundspeak:short_description html="False">Muggles, Muggles everywhere and yet an easy cache to find!! Lots of places to park.</groundspeak:short_description>
+      <groundspeak:long_description html="False">
+      </groundspeak:long_description>
+      <groundspeak:encoded_hints>Behind the middle of three.</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="102259314">
+          <groundspeak:date>2010-03-22T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2454171">lazycachers-LV</groundspeak:finder>
+          <groundspeak:text encoded="False">Interesting cache, we dropped our car far far away, and take this one by 5 minit walking :)</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="100683579">
+          <groundspeak:date>2010-03-22T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2348510">Lauris_79</groundspeak:finder>
+          <groundspeak:text encoded="False">Not so much people at morning. Left GC.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="99710062">
+          <groundspeak:date>2010-03-14T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2847459">declan.collins</groundspeak:finder>
+          <groundspeak:text encoded="False">Not too many onlookers, Mel and Annie found the cache. Took minipen, left elastic band. TFTC.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="98044872">
+          <groundspeak:date>2010-02-23T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2709154">Blue Jay 59</groundspeak:finder>
+          <groundspeak:text encoded="False">Found this on a wet afternoon. 
+There it was just where it was supposed to be. 
+Box is very very smelly though [:(]
+In Coin
+TFTC
+Blue Jay 59
+#208</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="98038817">
+          <groundspeak:date>2010-02-23T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2826452">Toffee Man</groundspeak:finder>
+          <groundspeak:text encoded="False">Found this cache easily enough on a wet afternoon when there were not to many muggles about.
+TFTC
+Toffee Man
+#208</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="77679358">
+          <groundspeak:date>2009-07-19T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Didn't find it</groundspeak:type>
+          <groundspeak:finder id="320206">Kersti.com</groundspeak:finder>
+          <groundspeak:text encoded="False">No luck finding this one today</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs>
+        <groundspeak:travelbug id="2117269" ref="TB2PVZY">
+          <groundspeak:name>Knutsens Wheel of the Year</groundspeak:name>
+        </groundspeak:travelbug>
+      </groundspeak:travelbugs>
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

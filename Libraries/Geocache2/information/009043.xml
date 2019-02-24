@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>009043</id>
+  <cache-id>GC1MDA7</cache-id>
+  <type>Traditional Cache</type>
+  <name>Sidetracked-Leixlip Confey by Kili or Bust, Traditional Cache (1.5/1.5)</name>
+  <size>Micro</size>
+  <difficulty>1.5</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-03-18</last-found>
+  <placed>2009-02-05</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>Kili or Bust</placedby>
+  <found>Geocache</found>
+  <lat>53.374367</lat>
+  <lon>-6.487783</lon>
+  <last-logs>FFFFX</last-logs>
+  <owner>Kili or bust</owner>
+  <description>
+      </description>
+  <long-description>Sidetracked-Leixlip Confey
+
+The cache is a small round metal magnetic container. It is intended as an easy find. There is no need to enter the station proper or access the platform at all.
+
+Small train station on the border of counties Dublin and Kildare.
+
+Leixlip Confey is a railway station serving Leixlip, County Kildare, Ireland, one of two railway stations serving the area, the other being Leixlip Louisa Bridge. Both stations lie on the Dublin to Longford commuter route.</long-description>
+  <encoded-hints>End, low.</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=612e9b5e-55e8-4518-96b3-6b6be5a4698e</url>
+  <url-name>Sidetracked-Leixlip Confey</url-name>
+  <logs><ul><li>2010-06-14T19:00:00Z : Found it by RosMcC <br />Another quick one, with no bother. SL Thanks</li><li>2010-06-04T19:00:00Z : Found it by Antefix <br />The car-navigation had difficulties to get us to there... our first attemp was from the wrong side. But the find itself was easy. Thanks</li><li>2010-05-11T19:00:00Z : Found it by jdunne17 <br />Second time lucky</li><li>2010-03-28T19:00:00Z : Found it by Supergrass <br />Found without any problems. TNLNSL. TFTC!</li><li>2010-03-18T19:00:00Z : Didn't find it by sonofbelial <br />Interesting - didn't find it as advertised while gingerly routing around the condom wrappers etc. BUT I did find a couple of rucksacks hidden which contained some kids' stash of fireworks... These I removed so if you see a couple of ransacked backpacks down there - that's what that was from. No sign of any metal container though [?]</li></ul></logs>
+  <original-xml>  <wpt  lat="53.374367" lon="-6.487783">
+    <time>2009-02-05T08:00:00Z</time>
+    <name>GC1MDA7</name>
+    <desc>Sidetracked-Leixlip Confey by Kili or Bust, Traditional Cache (1.5/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=612e9b5e-55e8-4518-96b3-6b6be5a4698e</url>
+    <urlname>Sidetracked-Leixlip Confey</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1121031" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Sidetracked-Leixlip Confey</groundspeak:name>
+      <groundspeak:placed_by>Kili or Bust</groundspeak:placed_by>
+      <groundspeak:owner id="281705">Kili or bust</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>Leinster</groundspeak:state>
+      <groundspeak:short_description html="False">
+      </groundspeak:short_description>
+      <groundspeak:long_description html="False">Sidetracked-Leixlip Confey
+
+The cache is a small round metal magnetic container. It is intended as an easy find. There is no need to enter the station proper or access the platform at all.
+
+Small train station on the border of counties Dublin and Kildare.
+
+Leixlip Confey is a railway station serving Leixlip, County Kildare, Ireland, one of two railway stations serving the area, the other being Leixlip Louisa Bridge. Both stations lie on the Dublin to Longford commuter route.</groundspeak:long_description>
+      <groundspeak:encoded_hints>End, low.</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="112987513">
+          <groundspeak:date>2010-06-14T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="774796">RosMcC</groundspeak:finder>
+          <groundspeak:text encoded="False">Another quick one, with no bother. SL Thanks</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="113114190">
+          <groundspeak:date>2010-06-04T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="886457">Antefix</groundspeak:finder>
+          <groundspeak:text encoded="False">The car-navigation had difficulties to get us to there... our first attemp was from the wrong side. But the find itself was easy. Thanks</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="108018109">
+          <groundspeak:date>2010-05-11T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3250084">jdunne17</groundspeak:finder>
+          <groundspeak:text encoded="False">Second time lucky</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="101421063">
+          <groundspeak:date>2010-03-28T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2771640">Supergrass</groundspeak:finder>
+          <groundspeak:text encoded="False">Found without any problems. TNLNSL. TFTC!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="100169630">
+          <groundspeak:date>2010-03-18T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Didn't find it</groundspeak:type>
+          <groundspeak:finder id="1277956">sonofbelial</groundspeak:finder>
+          <groundspeak:text encoded="False">Interesting - didn't find it as advertised while gingerly routing around the condom wrappers etc. BUT I did find a couple of rucksacks hidden which contained some kids' stash of fireworks... These I removed so if you see a couple of ransacked backpacks down there - that's what that was from. No sign of any metal container though [?]</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

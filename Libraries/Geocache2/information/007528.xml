@@ -1,0 +1,194 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>007528</id>
+  <cache-id>GC15N3D</cache-id>
+  <type>Traditional Cache</type>
+  <name>Howth Cliff Walk - The Bailey by Bootle, Traditional Cache (1/3.5)</name>
+  <size>Small</size>
+  <difficulty>1</difficulty>
+  <terrain>3.5</terrain>
+  <last-found>2008-02-16</last-found>
+  <placed>2007-09-03</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>Bootle</placedby>
+  <found>Geocache Found</found>
+  <lat>53.363567</lat>
+  <lon>-6.055033</lon>
+  <last-logs>FFFFFF</last-logs>
+  <owner>Bootle</owner>
+  <description>The third of 6 caches along the Howth Cliff Walk.</description>
+  <long-description><p align="center"><a target="_blank"
+href="http://www.geocachingireland.com"><img border="0"
+src="http://geocachingireland.com/logo4.jpg" width="328"
+height="53" align="middle" /></a></p>
+<br />
+<br />
+The Howth Cliff Walk offers the walker a fine, varied walk around
+an open hillside and the Howth cliffs, with the guarantee of
+plentiful bird life, excellent sea views and colourful wild
+flowers. <br />
+<br />
+The walk can be commenced at many different places along the route,
+with many easy access points from various car parks that are
+conveniently located close to the path. This caching trail
+commences at the car park 1km to the east of the village (N53
+23.137 W6 03.048) and moves slowly south, then west, but can also
+be undertaken in a reverse order. <br />
+<br />
+While the main walk is generally not very steep, a couple of caches
+may require some scrambling up brief stretches of steep terrain. As
+always in Ireland it is advised to bring along good waterproof
+clothing for the inevitable shower. Sturdy footware is also a must.
+If you wish to undertake the entire walk in one go it makes sense
+to bring a packed lunch and plenty of liquids, as the full journey
+may take in the region of 4-5 hours. <br />
+<br />
+The Bailey Cache is located close to the Bailey lighthouse. There
+has been a light on this part of Howth Head for over 300 years. The
+first actual lighthouse wasn't built here until 1668, however. A
+second lighthouse was built in 1790. These first lights were found
+to be positioned too high and often obscured by fog, mist and low
+clouds. The present structure was built at a lower elevation, below
+the level of the cliff. It was originally painted white but was
+restored to its natural granite in 1910. This light was the last of
+all the Irish lighthouses to be automated. <br />
+<br />
+You will not need to enter the grounds of the lighthouse to find
+this cache. Nor will you need to approach the cliffs. Use the clue
+if in doubt. Happy caching!</long-description>
+  <encoded-hints>Gap in the wall.</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=11a95c63-4ca4-4abf-8731-34dc6dd5d3fa</url>
+  <url-name>Howth Cliff Walk - The Bailey</url-name>
+  <logs><ul><li>2010-05-25T19:00:00Z : Found it by schnuckel1 <br />Today we made a trip from Howth harbour to Bailey lighthouse.
+The weather was fantastic and so we enjoyed the walk.
+We found the Cache without problems and logged at 13:40
+
+OUT: Coin
+
+TFTC
+schnuckel1 
+from Germany
+[# 779]</li><li>2010-05-20T19:00:00Z : Found it by steokelly <br />easy find, </li><li>2010-05-16T19:00:00Z : Found it by SharpSwords <br />Found it easily with friends!!!!! Very nice spot great view!!!!!!! We had fun rolling down the hill on the other side of the road!!!!!!!!!!!! We saw a cave at the other side of the road in one of the hills!!!!!!!!!!!! Nice view of the sea!!!!!!!!!!!!!!!!!!!</li><li>2010-05-09T19:00:00Z : Found it by Suburban cowboy <br />Found it on a trip to Dublin and Howth. 
+Logged with my muggel sister.
+In: swedish 1 krona
+Out: FTF-coin</li><li>2010-05-08T19:00:00Z : Found it by Thinas <br />Found during today's walk around Howth
+Thanks for the cache,
+Dropped FTF Geocoin</li><li>2008-02-16T20:00:00Z : Found it by Kersti.com <br />Even though the GPS was going a bit silly here we found it with no trouble at all. Left a couple of bits of girly stuff.</li></ul></logs>
+  <original-xml>  <wpt  lat="53.363567" lon="-6.055033">
+    <time>2007-09-03T07:00:00Z</time>
+    <name>GC15N3D</name>
+    <desc>Howth Cliff Walk - The Bailey by Bootle, Traditional Cache (1/3.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=11a95c63-4ca4-4abf-8731-34dc6dd5d3fa</url>
+    <urlname>Howth Cliff Walk - The Bailey</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="681643" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Howth Cliff Walk - The Bailey</groundspeak:name>
+      <groundspeak:placed_by>Bootle</groundspeak:placed_by>
+      <groundspeak:owner id="96113">Bootle</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>3.5</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>Dublin</groundspeak:state>
+      <groundspeak:short_description html="True">The third of 6 caches along the Howth Cliff Walk.</groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;p align="center"&gt;&lt;a target="_blank"
+href="http://www.geocachingireland.com"&gt;&lt;img border="0"
+src="http://geocachingireland.com/logo4.jpg" width="328"
+height="53" align="middle" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+The Howth Cliff Walk offers the walker a fine, varied walk around
+an open hillside and the Howth cliffs, with the guarantee of
+plentiful bird life, excellent sea views and colourful wild
+flowers. &lt;br /&gt;
+&lt;br /&gt;
+The walk can be commenced at many different places along the route,
+with many easy access points from various car parks that are
+conveniently located close to the path. This caching trail
+commences at the car park 1km to the east of the village (N53
+23.137 W6 03.048) and moves slowly south, then west, but can also
+be undertaken in a reverse order. &lt;br /&gt;
+&lt;br /&gt;
+While the main walk is generally not very steep, a couple of caches
+may require some scrambling up brief stretches of steep terrain. As
+always in Ireland it is advised to bring along good waterproof
+clothing for the inevitable shower. Sturdy footware is also a must.
+If you wish to undertake the entire walk in one go it makes sense
+to bring a packed lunch and plenty of liquids, as the full journey
+may take in the region of 4-5 hours. &lt;br /&gt;
+&lt;br /&gt;
+The Bailey Cache is located close to the Bailey lighthouse. There
+has been a light on this part of Howth Head for over 300 years. The
+first actual lighthouse wasn't built here until 1668, however. A
+second lighthouse was built in 1790. These first lights were found
+to be positioned too high and often obscured by fog, mist and low
+clouds. The present structure was built at a lower elevation, below
+the level of the cliff. It was originally painted white but was
+restored to its natural granite in 1910. This light was the last of
+all the Irish lighthouses to be automated. &lt;br /&gt;
+&lt;br /&gt;
+You will not need to enter the grounds of the lighthouse to find
+this cache. Nor will you need to approach the cliffs. Use the clue
+if in doubt. Happy caching!</groundspeak:long_description>
+      <groundspeak:encoded_hints>Gap in the wall.</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="110131061">
+          <groundspeak:date>2010-05-25T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2467117">schnuckel1</groundspeak:finder>
+          <groundspeak:text encoded="False">Today we made a trip from Howth harbour to Bailey lighthouse.
+The weather was fantastic and so we enjoyed the walk.
+We found the Cache without problems and logged at 13:40
+
+OUT: Coin
+
+TFTC
+schnuckel1 
+from Germany
+[# 779]</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="110088080">
+          <groundspeak:date>2010-05-20T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2933361">steokelly</groundspeak:finder>
+          <groundspeak:text encoded="False">easy find, </groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="108751556">
+          <groundspeak:date>2010-05-16T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3065811">SharpSwords</groundspeak:finder>
+          <groundspeak:text encoded="False">Found it easily with friends!!!!! Very nice spot great view!!!!!!! We had fun rolling down the hill on the other side of the road!!!!!!!!!!!! We saw a cave at the other side of the road in one of the hills!!!!!!!!!!!! Nice view of the sea!!!!!!!!!!!!!!!!!!!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="107796892">
+          <groundspeak:date>2010-05-09T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1739679">Suburban cowboy</groundspeak:finder>
+          <groundspeak:text encoded="False">Found it on a trip to Dublin and Howth. 
+Logged with my muggel sister.
+In: swedish 1 krona
+Out: FTF-coin</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="107599295">
+          <groundspeak:date>2010-05-08T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1440393">Thinas</groundspeak:finder>
+          <groundspeak:text encoded="False">Found during today's walk around Howth
+Thanks for the cache,
+Dropped FTF Geocoin</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="39101991">
+          <groundspeak:date>2008-02-16T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="320206">Kersti.com</groundspeak:finder>
+          <groundspeak:text encoded="False">Even though the GPS was going a bit silly here we found it with no trouble at all. Left a couple of bits of girly stuff.</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

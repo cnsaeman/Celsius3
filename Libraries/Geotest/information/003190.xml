@@ -1,0 +1,120 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>003190</id>
+  <cache-id>GC21F4X</cache-id>
+  <type>Traditional Cache</type>
+  <name>Zwei Brücken by Team Brot, Traditional Cache (3/2.5)</name>
+  <size>Micro</size>
+  <difficulty>3</difficulty>
+  <terrain>2.5</terrain>
+  <last-found>2010-09-06</last-found>
+  <placed>2009-11-27</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Team Brot</placedby>
+  <found>Geocache</found>
+  <lat>50.491183</lat>
+  <lon>9.720683</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>Team Brot</owner>
+  <description>
+      </description>
+  <long-description>Ein kurzer Micro für zwischendurch, Taschenlampe und Wasserdichtes Schuhwerk (nur bei Regenwetter) sowie Handschuhe sind zu empfehlen. Nichts für Klaustrophobiker und Arachnophobiker ;-).
+Die Koordinaten markieren den Eingang, der Cache liegt im Inneren.  Stift mitbringen!
+Der Cache liegt NICHT im Fledermaus/Vogelkasten, darum bitte einen Bogen machen, nicht das sich das Getier gestört fühlt :-).
+
+
+Glückwunsch dem Erstfinder "HubiFD" :-) !</long-description>
+  <encoded-hints>Bei der 60 seit Ihr nah dran</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=fe6b982d-0d12-4627-a0b3-a34e0e9e121f</url>
+  <url-name>Zwei Brücken</url-name>
+  <logs><ul><li>2010-11-15T03:15:48Z : Found it by Clowns 4ever <br />Heute am schönen Sonntag bei niedrigem Wasserstand gefunden echt schönes Versteck!!! </li><li>2010-09-13T19:00:00Z : Found it by TaDaRhön <br />Hier waren wir schon mal...aber da hatten wir unsere Taschenlampe vergessen.
+Aber heute mit Gummistiefel und Taschenlampe wieder angerückt...
+vor Ort wurden wir "dank des Hints" sehr schnell fündig[:)]
+DfdC, sagen TaDaRhön</li><li>2010-09-11T19:00:00Z : Found it by Dj StiVO <br />Schöne Location, leider den Cache erst übersehen aber nach kurzer Zeit doch noch gefunden 	[:)]
+Danach ging die kleine Fahrradtour mit cache-finder 11 bei Sonnenschein weiter.
+TFTC PHOENIX 23  	[:)]
+</li><li>2010-09-06T19:00:00Z : Found it by hotelzulu <br />Im Team auf "In-Eichenzell-und-drum-herum"-Runde recht erfolgreich die Caches angegangen, auch hier bald fündig geworden. Allerdings war das hier der zweite Besuch.!! Zwischendurch musste aber eine gemütliche Biergarten-Pause eingelegt werden, das schraubt die Fundzahl nach unten......[:P]
+Danke und Grüsse an den Owner
+von Heinz und Maskottchen Elfriede im Starglider</li><li>2010-09-06T19:00:00Z : Found it by Steibock <br />Der Wasserstand lies es heute zu den Cache zu suchen,aber mit über- vollem Bauch in
+gebückter Haltung war nicht der wahre Jakop.
+
+Egal,im Team gefunden und dafür vielen Dank vom 
+Steinbock mit Maskottchen Rina.</li></ul></logs>
+  <original-xml>  <wpt  lat="50.491183" lon="9.720683">
+    <time>2009-11-27T08:00:00Z</time>
+    <name>GC21F4X</name>
+    <desc>Zwei Brücken by Team Brot, Traditional Cache (3/2.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=fe6b982d-0d12-4627-a0b3-a34e0e9e121f</url>
+    <urlname>Zwei Brücken</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1480280" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Zwei Brücken</groundspeak:name>
+      <groundspeak:placed_by>Team Brot</groundspeak:placed_by>
+      <groundspeak:owner id="977118">Team Brot</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>3</groundspeak:difficulty>
+      <groundspeak:terrain>2.5</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">
+      </groundspeak:short_description>
+      <groundspeak:long_description html="False">Ein kurzer Micro für zwischendurch, Taschenlampe und Wasserdichtes Schuhwerk (nur bei Regenwetter) sowie Handschuhe sind zu empfehlen. Nichts für Klaustrophobiker und Arachnophobiker ;-).
+Die Koordinaten markieren den Eingang, der Cache liegt im Inneren.  Stift mitbringen!
+Der Cache liegt NICHT im Fledermaus/Vogelkasten, darum bitte einen Bogen machen, nicht das sich das Getier gestört fühlt :-).
+
+
+Glückwunsch dem Erstfinder "HubiFD" :-) !</groundspeak:long_description>
+      <groundspeak:encoded_hints>Bei der 60 seit Ihr nah dran</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="135809349">
+          <groundspeak:date>2010-11-15T03:15:48Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3918255">Clowns 4ever</groundspeak:finder>
+          <groundspeak:text encoded="False">Heute am schönen Sonntag bei niedrigem Wasserstand gefunden echt schönes Versteck!!! </groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="126800598">
+          <groundspeak:date>2010-09-13T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2946542">TaDaRhön</groundspeak:finder>
+          <groundspeak:text encoded="False">Hier waren wir schon mal...aber da hatten wir unsere Taschenlampe vergessen.
+Aber heute mit Gummistiefel und Taschenlampe wieder angerückt...
+vor Ort wurden wir "dank des Hints" sehr schnell fündig[:)]
+DfdC, sagen TaDaRhön</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="126446404">
+          <groundspeak:date>2010-09-11T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="783907">Dj StiVO</groundspeak:finder>
+          <groundspeak:text encoded="False">Schöne Location, leider den Cache erst übersehen aber nach kurzer Zeit doch noch gefunden 	[:)]
+Danach ging die kleine Fahrradtour mit cache-finder 11 bei Sonnenschein weiter.
+TFTC PHOENIX 23  	[:)]
+</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="125624955">
+          <groundspeak:date>2010-09-06T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="586326">hotelzulu</groundspeak:finder>
+          <groundspeak:text encoded="False">Im Team auf "In-Eichenzell-und-drum-herum"-Runde recht erfolgreich die Caches angegangen, auch hier bald fündig geworden. Allerdings war das hier der zweite Besuch.!! Zwischendurch musste aber eine gemütliche Biergarten-Pause eingelegt werden, das schraubt die Fundzahl nach unten......[:P]
+Danke und Grüsse an den Owner
+von Heinz und Maskottchen Elfriede im Starglider</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="125591903">
+          <groundspeak:date>2010-09-06T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1250309">Steibock</groundspeak:finder>
+          <groundspeak:text encoded="False">Der Wasserstand lies es heute zu den Cache zu suchen,aber mit über- vollem Bauch in
+gebückter Haltung war nicht der wahre Jakop.
+
+Egal,im Team gefunden und dafür vielen Dank vom 
+Steinbock mit Maskottchen Rina.</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

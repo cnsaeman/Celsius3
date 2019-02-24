@@ -1,0 +1,292 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>003847</id>
+  <cache-id>GC1QGND</cache-id>
+  <type>Multi-cache</type>
+  <name>Without Warning by toczygroszek (adopted by anacreon), Multi-cache (1.5/1)</name>
+  <size>Micro</size>
+  <difficulty>1.5</difficulty>
+  <terrain>1</terrain>
+  <last-found>2009-05-03</last-found>
+  <placed>2009-05-02</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>toczygroszek (adopted by anacreon)</placedby>
+  <found>Geocache Found</found>
+  <lat>53.34225</lat>
+  <lon>-6.254433</lon>
+  <last-logs>FFFFFF</last-logs>
+  <owner>anacreon</owner>
+  <description><center>
+<img src="http://img.geocaching.com/cache/c52a4bd6-75a1-4e53-a312-c0b7bf5a4b3e.jpg" />
+</center></description>
+  <long-description><p align="justify"><b>Explosions:</b><br />
+<br />
+ On Friday evening, 17th May 1974 three no-warning car bombs
+exploded in the centre of Dublin. Previously (1972, 1973), there
+were car bomb explosions and victims, but never so tragic. The same
+day in 1974 a 4th explosion killed people in Monaghan so on that
+day 33 people lost their lives and about 300 were injured. They
+were the worst paramilitary attacks in 20th-century in
+Ireland.<br />
+In 1993 The Ulster Volunteer Force (Loyalist group from Northern
+Ireland) claimed responsibility for the bombings.<br />
+<br />
+ <b>The cache:</b><br />
+<br />
+Stage 1. (N 53° 20.535 W 006° 15.266)<br />
+Find the granite plaque on the pavement and note some information
+from it:<br />
+A. How many letters are there in the middle word of the 3rd
+line?<br />
+B. How many people died here?<br />
+C. Note the numeric month of the unveiling of this plaque.<br />
+D. Note the last digit of the year when the plaque was
+unveiled.<br />
+<br />
+ <b>U=A*B+C-D</b><br />
+<br />
+ Stage 2. (N 53° 20.950 W 006° 15.475)<br />
+You will find a bronze plaque on the pavement with some
+information:<br />
+E. Note the number of the day from the 1st date.<br />
+F. Note the number of the day from the 2nd date.<br />
+G. How many slabs with bronze floral motif can you see
+nearby?<br />
+<br />
+ <b>W=E+F-G</b><br />
+<br />
+ Stage 3. (N 53° 21.042 W 006° 15.297)<br />
+There is another granite plaque on the pavement. Note some
+information from it:<br />
+H. How many letters are there on the 7th line of text?<br />
+I. How many people died here?<br />
+J. How many letters can you see in the middle word on the 3rd
+line?<br />
+<br />
+ <b>X=H-I-J</b><br />
+<br />
+ Stage 4. (N 53° 21.186 W 006° 15.605)<br />
+This is the last plaque mounted on pavement you will find on your
+way. Collect some information from it:<br />
+K. How many people died here?<br />
+L. How many babies are mentioned on this plaque?<br />
+<br />
+<b>Y=K-L</b><br />
+<br />
+ Stage 5. (N 53° 21.083 W 006° 15.030)<br />
+This is the last stage on your way and this time you will find a
+granite memorial. Note some information from this spot (check both
+sides!):<br />
+M. How many 7-letter surnames can you see?<br />
+N. How many first names followed by "C" can you see?<br />
+O. How many stone benches can you see nearby?<br />
+P. How many pigeons are carved on the memorial?<br />
+<br />
+ <b>Z=M-(N*O)+P</b><br />
+<br />
+ Final cache:<br />
+<b>N 53° 2X.U*W*Z<br />
+W 006° U+W.(U+X+Y)*W+Z</b><br />
+<br />
+ The cache contains the logbook only; please bring your own
+pen.</p>
+<br />
+<br />
+ <a href="http://flagcounter.com/more/fhNW"><img src="http://flagcounter.com/count/fhNW/bg=FFFFFF/txt=000000/border=CCCCCC/columns=6/maxflags=248/viewers=0/labels=1/"
+     alt="free counters" border="0" /></a> <br />
+<!--start of handicaching link-->
+<p><a href="http://www.handicaching.com/show.php?waypoint=GC1QGND"
+target="_blank"><img src="http://www.handicaching.com/images/seal_rater2.gif"
+     border="0" alt="View the ratings for GC1QGND" /></a></p>
+<!--end of handicaching link--></long-description>
+  <additional-waypoints>FL1QGND - The Cache<br />N/S  __ ° __ . ___ W/E ___ ° __ . ___ <br /><br />S21QGND - Stage 2<br />N 53° 20.950 W 006° 15.475<br /><br />S31QGND - Stage 3<br />N 53° 21.042 W 006° 15.297<br /><br />S41QGND - Stage 4<br />N 53° 21.186 W 006° 15.605<br /><br />S51QGND - Stage 5<br />N 53° 21.083 W 006° 15.030<br /><br /></additional-waypoints>
+  <links>waypoints:cache-id:FL1QGND|waypoints:cache-id:S21QGND|waypoints:cache-id:S31QGND|waypoints:cache-id:S41QGND|waypoints:cache-id:S51QGND</links>
+  <encoded-hints>corner, low</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=6c3c0b4a-4f2a-4ee2-aaec-072350892ab4</url>
+  <url-name>Without Warning</url-name>
+  <logs><ul><li>2010-05-25T19:00:00Z : Found it by schnuckel1 <br />An interesting tour along the tragic waypoints of a bloody friday evening.
+We crossed some of the stations already yesterday but didn't pay attention to them.
+So thanks to the owner for showing us.
+Logged at 19:40
+
+TFTC
+schnuckel1 
+from Germany
+[# 781]</li><li>2010-05-04T19:00:00Z : Found it by finalharvest <br />Whew, after 34 finds in Dublin this threatened to become a DNF at the eleventh hour! Off to an internet cafe, e-mail the owner, who luckily was online. As it turned out I had one number wrong. And it turned out I was only 300 meters away from that spot. There again, count again et voila [:)]
+
+By the way: If you have two less for N you land right in front of a run-down, boarded-up and somewhat scary boys' school building.</li><li>2010-05-01T19:00:00Z : Found it by pstray <br />@08:56 #559
+
+Walked the tour yesterday, so today i had to go get the cache.  Nice hide [:)]</li><li>2010-04-27T19:00:00Z : Found it by Drea-Popa <br />What a good way not to forget about the victims.
+Thank you very much to show this history. </li><li>2010-04-27T19:00:00Z : Found it by CH-vishnu <br />Nice round-trip in the city. At the last station, we had a coffee, than found the micro easily. Thanks for the cache. Greetengs from Switzerland.</li><li>2009-05-03T19:00:00Z : Found it by Kersti.com <br />I was sorting through gsak this morning when I came across a cache I didn't recognise. A quick look seemed to suggest that it had no finders, which the morning after a WWFM event so close by I honestly didn;t believe, but I quickly put the details into the Garmin and the Touch and set off. 
+
+Finding each of the stages was easy enough, I've noted most of them before. However, the final seemed to have us in some strange local. Rechecked the maths, with the aid of a handy nearby physicist and now the coords seem to be more reasonable.
+
+Final location was quickly located and we didn't have to wait long for the area to be vacated.Luckily the cache itself was found very fast - the area is extremely unsavoury. On unrolling the log we were happy to see that noone else had gotten there before us.
+
+TFTC, my third FTF.</li></ul></logs>
+  <original-xml>  <wpt  lat="53.34225" lon="-6.254433">
+    <time>2009-05-02T07:00:00Z</time>
+    <name>GC1QGND</name>
+    <desc>Without Warning by toczygroszek (adopted by anacreon), Multi-cache (1.5/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=6c3c0b4a-4f2a-4ee2-aaec-072350892ab4</url>
+    <urlname>Without Warning</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Multi-cache</type>
+    <groundspeak:cache id="1213634" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Without Warning</groundspeak:name>
+      <groundspeak:placed_by>toczygroszek (adopted by anacreon)</groundspeak:placed_by>
+      <groundspeak:owner id="2099725">anacreon</groundspeak:owner>
+      <groundspeak:type>Multi-cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>Dublin</groundspeak:state>
+      <groundspeak:short_description html="True">&lt;center&gt;
+&lt;img src="http://img.geocaching.com/cache/c52a4bd6-75a1-4e53-a312-c0b7bf5a4b3e.jpg" /&gt;
+&lt;/center&gt;</groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;p align="justify"&gt;&lt;b&gt;Explosions:&lt;/b&gt;&lt;br /&gt;
+&lt;br /&gt;
+ On Friday evening, 17th May 1974 three no-warning car bombs
+exploded in the centre of Dublin. Previously (1972, 1973), there
+were car bomb explosions and victims, but never so tragic. The same
+day in 1974 a 4th explosion killed people in Monaghan so on that
+day 33 people lost their lives and about 300 were injured. They
+were the worst paramilitary attacks in 20th-century in
+Ireland.&lt;br /&gt;
+In 1993 The Ulster Volunteer Force (Loyalist group from Northern
+Ireland) claimed responsibility for the bombings.&lt;br /&gt;
+&lt;br /&gt;
+ &lt;b&gt;The cache:&lt;/b&gt;&lt;br /&gt;
+&lt;br /&gt;
+Stage 1. (N 53° 20.535 W 006° 15.266)&lt;br /&gt;
+Find the granite plaque on the pavement and note some information
+from it:&lt;br /&gt;
+A. How many letters are there in the middle word of the 3rd
+line?&lt;br /&gt;
+B. How many people died here?&lt;br /&gt;
+C. Note the numeric month of the unveiling of this plaque.&lt;br /&gt;
+D. Note the last digit of the year when the plaque was
+unveiled.&lt;br /&gt;
+&lt;br /&gt;
+ &lt;b&gt;U=A*B+C-D&lt;/b&gt;&lt;br /&gt;
+&lt;br /&gt;
+ Stage 2. (N 53° 20.950 W 006° 15.475)&lt;br /&gt;
+You will find a bronze plaque on the pavement with some
+information:&lt;br /&gt;
+E. Note the number of the day from the 1st date.&lt;br /&gt;
+F. Note the number of the day from the 2nd date.&lt;br /&gt;
+G. How many slabs with bronze floral motif can you see
+nearby?&lt;br /&gt;
+&lt;br /&gt;
+ &lt;b&gt;W=E+F-G&lt;/b&gt;&lt;br /&gt;
+&lt;br /&gt;
+ Stage 3. (N 53° 21.042 W 006° 15.297)&lt;br /&gt;
+There is another granite plaque on the pavement. Note some
+information from it:&lt;br /&gt;
+H. How many letters are there on the 7th line of text?&lt;br /&gt;
+I. How many people died here?&lt;br /&gt;
+J. How many letters can you see in the middle word on the 3rd
+line?&lt;br /&gt;
+&lt;br /&gt;
+ &lt;b&gt;X=H-I-J&lt;/b&gt;&lt;br /&gt;
+&lt;br /&gt;
+ Stage 4. (N 53° 21.186 W 006° 15.605)&lt;br /&gt;
+This is the last plaque mounted on pavement you will find on your
+way. Collect some information from it:&lt;br /&gt;
+K. How many people died here?&lt;br /&gt;
+L. How many babies are mentioned on this plaque?&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Y=K-L&lt;/b&gt;&lt;br /&gt;
+&lt;br /&gt;
+ Stage 5. (N 53° 21.083 W 006° 15.030)&lt;br /&gt;
+This is the last stage on your way and this time you will find a
+granite memorial. Note some information from this spot (check both
+sides!):&lt;br /&gt;
+M. How many 7-letter surnames can you see?&lt;br /&gt;
+N. How many first names followed by "C" can you see?&lt;br /&gt;
+O. How many stone benches can you see nearby?&lt;br /&gt;
+P. How many pigeons are carved on the memorial?&lt;br /&gt;
+&lt;br /&gt;
+ &lt;b&gt;Z=M-(N*O)+P&lt;/b&gt;&lt;br /&gt;
+&lt;br /&gt;
+ Final cache:&lt;br /&gt;
+&lt;b&gt;N 53° 2X.U*W*Z&lt;br /&gt;
+W 006° U+W.(U+X+Y)*W+Z&lt;/b&gt;&lt;br /&gt;
+&lt;br /&gt;
+ The cache contains the logbook only; please bring your own
+pen.&lt;/p&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+ &lt;a href="http://flagcounter.com/more/fhNW"&gt;&lt;img src="http://flagcounter.com/count/fhNW/bg=FFFFFF/txt=000000/border=CCCCCC/columns=6/maxflags=248/viewers=0/labels=1/"
+     alt="free counters" border="0" /&gt;&lt;/a&gt; &lt;br /&gt;
+&lt;!--start of handicaching link--&gt;
+&lt;p&gt;&lt;a href="http://www.handicaching.com/show.php?waypoint=GC1QGND"
+target="_blank"&gt;&lt;img src="http://www.handicaching.com/images/seal_rater2.gif"
+     border="0" alt="View the ratings for GC1QGND" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;!--end of handicaching link--&gt;&lt;p&gt;Additional Waypoints&lt;/p&gt;FL1QGND - The Cache&lt;br /&gt;N/S  __ ° __ . ___ W/E ___ ° __ . ___ &lt;br /&gt;&lt;br /&gt;S21QGND - Stage 2&lt;br /&gt;N 53° 20.950 W 006° 15.475&lt;br /&gt;&lt;br /&gt;S31QGND - Stage 3&lt;br /&gt;N 53° 21.042 W 006° 15.297&lt;br /&gt;&lt;br /&gt;S41QGND - Stage 4&lt;br /&gt;N 53° 21.186 W 006° 15.605&lt;br /&gt;&lt;br /&gt;S51QGND - Stage 5&lt;br /&gt;N 53° 21.083 W 006° 15.030&lt;br /&gt;&lt;br /&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>corner, low</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="110136829">
+          <groundspeak:date>2010-05-25T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2467117">schnuckel1</groundspeak:finder>
+          <groundspeak:text encoded="False">An interesting tour along the tragic waypoints of a bloody friday evening.
+We crossed some of the stations already yesterday but didn't pay attention to them.
+So thanks to the owner for showing us.
+Logged at 19:40
+
+TFTC
+schnuckel1 
+from Germany
+[# 781]</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="107210671">
+          <groundspeak:date>2010-05-04T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1072584">finalharvest</groundspeak:finder>
+          <groundspeak:text encoded="False">Whew, after 34 finds in Dublin this threatened to become a DNF at the eleventh hour! Off to an internet cafe, e-mail the owner, who luckily was online. As it turned out I had one number wrong. And it turned out I was only 300 meters away from that spot. There again, count again et voila [:)]
+
+By the way: If you have two less for N you land right in front of a run-down, boarded-up and somewhat scary boys' school building.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="106643478">
+          <groundspeak:date>2010-05-01T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2379751">pstray</groundspeak:finder>
+          <groundspeak:text encoded="False">@08:56 #559
+
+Walked the tour yesterday, so today i had to go get the cache.  Nice hide [:)]</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="106282726">
+          <groundspeak:date>2010-04-27T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3049946">Drea-Popa</groundspeak:finder>
+          <groundspeak:text encoded="False">What a good way not to forget about the victims.
+Thank you very much to show this history. </groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="106201069">
+          <groundspeak:date>2010-04-27T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2171870">CH-vishnu</groundspeak:finder>
+          <groundspeak:text encoded="False">Nice round-trip in the city. At the last station, we had a coffee, than found the micro easily. Thanks for the cache. Greetengs from Switzerland.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="69712801">
+          <groundspeak:date>2009-05-03T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="320206">Kersti.com</groundspeak:finder>
+          <groundspeak:text encoded="False">I was sorting through gsak this morning when I came across a cache I didn't recognise. A quick look seemed to suggest that it had no finders, which the morning after a WWFM event so close by I honestly didn;t believe, but I quickly put the details into the Garmin and the Touch and set off. 
+
+Finding each of the stages was easy enough, I've noted most of them before. However, the final seemed to have us in some strange local. Rechecked the maths, with the aid of a handy nearby physicist and now the coords seem to be more reasonable.
+
+Final location was quickly located and we didn't have to wait long for the area to be vacated.Luckily the cache itself was found very fast - the area is extremely unsavoury. On unrolling the log we were happy to see that noone else had gotten there before us.
+
+TFTC, my third FTF.</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

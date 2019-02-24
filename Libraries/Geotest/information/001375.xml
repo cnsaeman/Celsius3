@@ -1,0 +1,106 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>001375</id>
+  <cache-id>GCN7NM</cache-id>
+  <type>Traditional Cache</type>
+  <name>Grotte III by DS by Mamomi-1, Traditional Cache (1.5/2)</name>
+  <size>Micro</size>
+  <difficulty>1.5</difficulty>
+  <terrain>2</terrain>
+  <last-found>2010-10-09</last-found>
+  <placed>2005-03-26</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Mamomi-1</placedby>
+  <found>Geocache</found>
+  <lat>50.625583</lat>
+  <lon>9.719217</lon>
+  <last-logs>FFWFF</last-logs>
+  <owner>Mamomi-1</owner>
+  <description>
+      </description>
+  <long-description>Noch eine Grotte in der Nähe meiner Heimat. Auch sie ist es Wert mal besucht zu werden. Viel Spaß bei der Grottentour!!
+
+Da dieser Cache immer wieder frei herum lag und jetzt gemuggelt wurde, habe ich ihn etwas abseits der Grotte versteckt. Bitte den Hint beachten. 
+
+A further grotte naerby my home.</long-description>
+  <encoded-hints>Hinter der Grotte über die Wiese, am Waldrand, im Wurzelbereich eines kleineren Baumes mit 3 Stämmen.
+
+</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=ff7f3195-cb2b-4310-82dc-8d64d705e33f</url>
+  <url-name>Grotte III by DS</url-name>
+  <logs><ul><li>2010-11-11T20:00:00Z : Found it by Svegar <br />Beim letzten Besuch hatte mich mein Navi doch ziemlich rumgescheucht, heute gings besser und ich wurde fündig.
+
+Vielen Dank</li><li>2010-11-07T20:00:00Z : Found it by Ivy69 <br />Kirmes in Marbach? Bloß schnell abbiegen. Der Kleine war schnell gefunden dank hint! TFTC</li><li>2010-10-26T19:00:00Z : Write note by BlackViking <br />TB nachgeloggt!</li><li>2010-10-26T19:00:00Z : Found it by BlackViking <br />Auf kleiner Tour die kitschige Grotte schnell gefunden [:D]
+TFTC!</li><li>2010-10-09T19:00:00Z : Found it by fsls2010 <br />Leider ist der Hinweis mit dem Baum und den 3 Stämmen nicht
+ganz korrekt. Die plattgetrammpelte Wiese führte uns zum Cache. Nicht ganz so schön.</li></ul></logs>
+  <original-xml>  <wpt  lat="50.625583" lon="9.719217">
+    <time>2005-03-26T07:00:00Z</time>
+    <name>GCN7NM</name>
+    <desc>Grotte III by DS by Mamomi-1, Traditional Cache (1.5/2)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=ff7f3195-cb2b-4310-82dc-8d64d705e33f</url>
+    <urlname>Grotte III by DS</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="221889" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Grotte III by DS</groundspeak:name>
+      <groundspeak:placed_by>Mamomi-1</groundspeak:placed_by>
+      <groundspeak:owner id="275727">Mamomi-1</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>2</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">
+      </groundspeak:short_description>
+      <groundspeak:long_description html="False">Noch eine Grotte in der Nähe meiner Heimat. Auch sie ist es Wert mal besucht zu werden. Viel Spaß bei der Grottentour!!
+
+Da dieser Cache immer wieder frei herum lag und jetzt gemuggelt wurde, habe ich ihn etwas abseits der Grotte versteckt. Bitte den Hint beachten. 
+
+A further grotte naerby my home.</groundspeak:long_description>
+      <groundspeak:encoded_hints>Hinter der Grotte über die Wiese, am Waldrand, im Wurzelbereich eines kleineren Baumes mit 3 Stämmen.
+
+</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="135367909">
+          <groundspeak:date>2010-11-11T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3056833">Svegar</groundspeak:finder>
+          <groundspeak:text encoded="False">Beim letzten Besuch hatte mich mein Navi doch ziemlich rumgescheucht, heute gings besser und ich wurde fündig.
+
+Vielen Dank</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="134897152">
+          <groundspeak:date>2010-11-07T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3091672">Ivy69</groundspeak:finder>
+          <groundspeak:text encoded="False">Kirmes in Marbach? Bloß schnell abbiegen. Der Kleine war schnell gefunden dank hint! TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="138828026">
+          <groundspeak:date>2010-10-26T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Write note</groundspeak:type>
+          <groundspeak:finder id="3029580">BlackViking</groundspeak:finder>
+          <groundspeak:text encoded="False">TB nachgeloggt!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="138827335">
+          <groundspeak:date>2010-10-26T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3029580">BlackViking</groundspeak:finder>
+          <groundspeak:text encoded="False">Auf kleiner Tour die kitschige Grotte schnell gefunden [:D]
+TFTC!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="130331248">
+          <groundspeak:date>2010-10-09T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3660491">fsls2010</groundspeak:finder>
+          <groundspeak:text encoded="False">Leider ist der Hinweis mit dem Baum und den 3 Stämmen nicht
+ganz korrekt. Die plattgetrammpelte Wiese führte uns zum Cache. Nicht ganz so schön.</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

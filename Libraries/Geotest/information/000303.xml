@@ -1,0 +1,90 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>000303</id>
+  <cache-id>GC21ZV7</cache-id>
+  <type>Traditional Cache</type>
+  <name>Kreuz mit Bäumen by ubx, Traditional Cache (1/1.5)</name>
+  <size>Micro</size>
+  <difficulty>1</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-08-21</last-found>
+  <placed>2009-12-13</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>ubx</placedby>
+  <found>Geocache</found>
+  <lat>50.5952</lat>
+  <lon>9.5995</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>ubx</owner>
+  <description>in der Natur</description>
+  <long-description>ein kleiner Tradi am Wegesrand. 
+Bitte nicht auf der Strasse parken , zu gefährlich und unübersichtlich. Nehmt bitte den Feldweg , der in der Nähe vorbeiführt !!</long-description>
+  <encoded-hints>in den Wurzeln</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=9cc2c6ce-95c1-4d5c-9360-a02e1d5f315b</url>
+  <url-name>Kreuz mit Bäumen</url-name>
+  <logs><ul><li>2010-11-14T20:00:00Z : Found it by Eckhardt <br />Während einer Fahrradtour bei wunderschönen Wetter gut gefunden.</li><li>2010-08-22T19:00:00Z : Found it by f.etcher <br />Gut gefunden. TFTC</li><li>2010-08-21T19:00:00Z : Found it by LI*MO <br />Auf unserer heutigen Tradi-Nacht-Tour gut gefunden. TFTC</li><li>2010-08-21T19:00:00Z : Found it by kaFFeeTrinKer <br />Auch wenn die meisten aus unserem Rudel diesen Cache schon hatten, haben die Fahrer unseretwegen nochmal gehalten.</li><li>2010-08-21T19:00:00Z : Found it by al_bundy_hessen <br />Vor dem Geojunkies Wochenendtreffen auf dem Weg schnell gefunden! [^]
+[b]TFTC#194 [/b]und viele Grüsse von [i][b][red]al[/red][white]_[/white][blue]bundy[/blue][white]_[/white][green]hessen[/green][/b][/i]
+</li></ul></logs>
+  <original-xml>  <wpt  lat="50.5952" lon="9.5995">
+    <time>2009-12-13T08:00:00Z</time>
+    <name>GC21ZV7</name>
+    <desc>Kreuz mit Bäumen by ubx, Traditional Cache (1/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=9cc2c6ce-95c1-4d5c-9360-a02e1d5f315b</url>
+    <urlname>Kreuz mit Bäumen</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1495356" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Kreuz mit Bäumen</groundspeak:name>
+      <groundspeak:placed_by>ubx</groundspeak:placed_by>
+      <groundspeak:owner id="787613">ubx</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">in der Natur</groundspeak:short_description>
+      <groundspeak:long_description html="False">ein kleiner Tradi am Wegesrand. 
+Bitte nicht auf der Strasse parken , zu gefährlich und unübersichtlich. Nehmt bitte den Feldweg , der in der Nähe vorbeiführt !!</groundspeak:long_description>
+      <groundspeak:encoded_hints>in den Wurzeln</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="136194372">
+          <groundspeak:date>2010-11-14T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1802355">Eckhardt</groundspeak:finder>
+          <groundspeak:text encoded="False">Während einer Fahrradtour bei wunderschönen Wetter gut gefunden.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="123147647">
+          <groundspeak:date>2010-08-22T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1498819">f.etcher</groundspeak:finder>
+          <groundspeak:text encoded="False">Gut gefunden. TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="123319133">
+          <groundspeak:date>2010-08-21T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2583892">LI*MO</groundspeak:finder>
+          <groundspeak:text encoded="False">Auf unserer heutigen Tradi-Nacht-Tour gut gefunden. TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="123242729">
+          <groundspeak:date>2010-08-21T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1197640">kaFFeeTrinKer</groundspeak:finder>
+          <groundspeak:text encoded="False">Auch wenn die meisten aus unserem Rudel diesen Cache schon hatten, haben die Fahrer unseretwegen nochmal gehalten.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="123078330">
+          <groundspeak:date>2010-08-21T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="878351">al_bundy_hessen</groundspeak:finder>
+          <groundspeak:text encoded="False">Vor dem Geojunkies Wochenendtreffen auf dem Weg schnell gefunden! [^]
+[b]TFTC#194 [/b]und viele Grüsse von [i][b][red]al[/red][white]_[/white][blue]bundy[/blue][white]_[/white][green]hessen[/green][/b][/i]
+</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

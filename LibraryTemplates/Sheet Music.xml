@@ -1,0 +1,131 @@
+<?xml version="1.0"?>
+<celsiusv2.2.librarytemplates>
+<element>
+  <name>Sheet Music</name>
+  <index>title|composer|pages|keywords</index>
+  <tablecolumns>title|composer</tablecolumns>
+  <columnheaders>Piece|Composer</columnheaders>
+  <columntypes>text|people</columntypes>
+  <columnsizes>488|475</columnsizes>
+  <autosortcolumn>1</autosortcolumn>
+  <people>composer</people>
+  <plugins-manual>Get from PDF Header|Create Thumbnails (epub,djvu,pdf)</plugins-manual>
+  <plugins-auto>Get from PDF Header|Get from International Music Score Library Project</plugins-auto>
+  <plugins-export></plugins-export>
+  <filetypes>*</filetypes>
+  <searchtags>title|authors|abstract|remarks</searchtags>
+  <hide>MenuItem:Set my location to current item's location|Menu:Bibliography|Tab:Bibliography|Tab:Search|Import:BibTeX</hide>
+  <essential-fields>title|composer</essential-fields>
+  <differentiating-fields>title|composer</differentiating-fields>
+  <item-representation>"#title#" by #composer#</item-representation>
+  <naming-convention>#title# (#composer#).#filetype#</naming-convention>
+  <choice-fields>type:Book,Cartoon,eBook,Lecture Notes,Manual,Newspaper Article,Other,Paper,Preprint,Review,Sheet Music,Talk,Thesis</choice-fields>
+  <icon-fields>type</icon-fields>
+  <item-folder>LD::documents</item-folder>
+  <infoMode-0><html>
+<body>
+<table width='100%'>
+<tr>
+<td valign='top'>
+<b>#composer&4#</b>
+<h2>#title#</h2>
+#pages# pages
+#if#imslp-link#, <a href='#imslp-link#'>IMSLP</a>
+#if#date#, #date#
+<br>registered in:
+#if#autoregistered# |#autoregistered#|
+#if#registered# |#registered#|
+<br>
+#if#filetype#<a href='http://$$view'>#filetype#-file</a>&nbsp;
+#if#publisher#<br><br> Publisher: #publisher#
+<br>
+#if#remarks# <b>Remarks:</b> #remarks#
+<h3>Celsius related information</h3>
+ID: #id#
+#if#recognition#, recognition level: #recognition#.
+</td><td valign='top'>
+#if#thumbnail#<img src='file:#$thumbnail#'>
+</td></tr>
+</table>
+</body>
+</html></infoMode-0>
+  <infoMode-1><html><body>
+<h2>#person#</h2>
+<hr>
+<br>
+From this composer: #currentitems# documents with #currentpages# pages in the library.<br>
+<br>
+#if#remarks# <br><br><b>Remarks:</b><br>#remarks#</body></html></infoMode-1>
+  <infoMode-2><html><body>
+<h2>#category#</h2>
+<hr>
+<br>
+In this category: #currentitems# items with #currentpages# pages in the library.<br>
+</body></html></infoMode-2>
+  <infoMode-3><html><body>
+<h2>Multiple documents selected</h2>
+<hr>
+<br>
+In this selection: #currentitems# documents with #currentpages# pages in the library.<br>
+</body></html></infoMode-3>
+  <infoMode-4><html><body>
+<h2>#category#</h2>
+<hr>
+<br>
+In this category: #currentdocuments# documents with #currentpages# pages in the library.<br>
+</body></html></infoMode-4>
+  <infoMode-5><html><body>
+<h2>General Search</h2>
+<hr>
+<br>
+In these search results: #currentitems# documents with #currentpages# pages in the library.<br>
+</body></html></infoMode-5>
+  <infoMode-6><html><body>
+<h2>Keyword Search</h2>
+<hr>
+<br>
+In these search results: #currentitems# documents with #currentpages# pages in the library.<br>
+</body></html></infoMode-6>
+  <infoMode-7><html><body>
+<h2>Links</h2>
+<hr>
+<br>
+Links of this type: #currentitems# documents with #currentpages# pages in the library.<br>
+</body></html></infoMode-7>
+  <stylesheet>body {color:#000; font-family:sans; margin: 4px; }
+h1 {color: darkgray;}
+h2 {color: darkgray;}
+</stylesheet>
+  <librarystructure><?xml version='1.0'?>
+<menu title="Library">
+    <menu title="Vorbarock"/>
+    <menu title="Barock">
+        <menu title="Bach">
+            <menu title="Orgelwerke (Bach)"/>
+        </menu>
+    </menu>
+    <menu title="Klassik"/>
+    <menu title="Romantik"/>
+    <menu title="frühes 20. Jhd."/>
+    <menu title="Moderne"/>
+    <menu title="Jazz"/>
+    <menu title="nach Besetzung">
+        <menu title="Klavier"/>
+        <menu title="Orgel"/>
+        <menu title="Chor"/>
+    </menu>
+    <menu title="Sammlungen"/>
+    <menu title="Essays on Music"/>
+    <menu title="Schulen etc."/>
+    <menu title="Traditionals">
+        <menu title="Gospels & Spirituals"/>
+        <menu title="Irish Traditionals"/>
+    </menu>
+    <menu title="to print"/>
+</menu>
+</librarystructure>
+  <libraryrules><?xml version='1.0'?>
+<rules/>
+</libraryrules>
+</element>
+</celsiusv2.2.librarytemplates>

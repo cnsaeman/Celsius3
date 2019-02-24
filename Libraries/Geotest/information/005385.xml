@@ -1,0 +1,108 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>005385</id>
+  <cache-id>GC2JHVH</cache-id>
+  <type>Traditional Cache</type>
+  <name>Nuff un Nopp 002 Esperanto by Maluma, Traditional Cache (2/2)</name>
+  <size>Regular</size>
+  <difficulty>2</difficulty>
+  <terrain>2</terrain>
+  <last-found>2010-12-13</last-found>
+  <placed>2010-11-21</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Maluma</placedby>
+  <found>Geocache</found>
+  <lat>50.557917</lat>
+  <lon>9.68565</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>Maluma</owner>
+  <description>Endlich die Fortsetzung der Nuff un Nopp Reihe...Ihr habt bestimmt schon drauf gewartet..Es handelt sich hier um einen leichten Klettercache. Achtung: Ihr handelt auf eigene Gefahr!! Die Dose ist ca 20cm hoch und hat einen Durchmesser von 10cm. Also ideal als TB Hotel nutzbar. Ihr findet das Döschen in ca 8m Höhe über Grund.
+
+Besondere Ausrüstung ist nicht erforderlich..je nach Geschick halt.</description>
+  <long-description>Bitte verhaltet euch umsichtig, damit er nicht gleich gemuggelt wird.
+
+Sehr gut machbar bei Dunkelheit, Regen und Schnee. Beleuchtung ist vorhanden
+
+Viel Spaß und nun macht Euch endlich auf die Socken!
+
+MALUMA</long-description>
+  <encoded-hints>Das wäre überflüssig bei dieser Größe</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=3dcb0c6f-fa89-4397-879e-66f75ca3bc2c</url>
+  <url-name>Nuff un Nopp 002 Esperanto</url-name>
+  <logs><ul><li>2010-12-25T20:00:00Z : Found it by Aldokyl <br />Manchmal stellt man sich wirklich dämlich an.
+Aber dann haben wir ihn doch noch gefunden.</li><li>2010-12-20T12:56:38Z : Found it by Daimonion <br />Nach kurzer Suche gefunden. 
+Out: Coin
+
+Gruss Daimonion</li><li>2010-12-13T20:00:00Z : Found it by Fla20m <br />ich wusste zunächst nicht, welchen Baum ich ansteuern soll... dann waren die "Spuren" eindeutig! ;-)</li><li>2010-12-13T00:13:50Z : Found it by ubx <br />Ubx was here ! mit SchüWa</li><li>2010-12-13T00:09:28Z : Found it by SchüWa <br />Gefunden mit Ubx!</li></ul></logs>
+  <original-xml>  <wpt  lat="50.557917" lon="9.68565">
+    <time>2010-11-21T08:00:00Z</time>
+    <name>GC2JHVH</name>
+    <desc>Nuff un Nopp 002 Esperanto by Maluma, Traditional Cache (2/2)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=3dcb0c6f-fa89-4397-879e-66f75ca3bc2c</url>
+    <urlname>Nuff un Nopp 002 Esperanto</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1989320" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Nuff un Nopp 002 Esperanto</groundspeak:name>
+      <groundspeak:placed_by>Maluma</groundspeak:placed_by>
+      <groundspeak:owner id="1380311">Maluma</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Regular</groundspeak:container>
+      <groundspeak:difficulty>2</groundspeak:difficulty>
+      <groundspeak:terrain>2</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">Endlich die Fortsetzung der Nuff un Nopp Reihe...Ihr habt bestimmt schon drauf gewartet..Es handelt sich hier um einen leichten Klettercache. Achtung: Ihr handelt auf eigene Gefahr!! Die Dose ist ca 20cm hoch und hat einen Durchmesser von 10cm. Also ideal als TB Hotel nutzbar. Ihr findet das Döschen in ca 8m Höhe über Grund.
+
+Besondere Ausrüstung ist nicht erforderlich..je nach Geschick halt.</groundspeak:short_description>
+      <groundspeak:long_description html="False">Bitte verhaltet euch umsichtig, damit er nicht gleich gemuggelt wird.
+
+Sehr gut machbar bei Dunkelheit, Regen und Schnee. Beleuchtung ist vorhanden
+
+Viel Spaß und nun macht Euch endlich auf die Socken!
+
+MALUMA</groundspeak:long_description>
+      <groundspeak:encoded_hints>Das wäre überflüssig bei dieser Größe</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="139192352">
+          <groundspeak:date>2010-12-25T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="438973">Aldokyl</groundspeak:finder>
+          <groundspeak:text encoded="False">Manchmal stellt man sich wirklich dämlich an.
+Aber dann haben wir ihn doch noch gefunden.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="138904790">
+          <groundspeak:date>2010-12-20T12:56:38Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="750446">Daimonion</groundspeak:finder>
+          <groundspeak:text encoded="False">Nach kurzer Suche gefunden. 
+Out: Coin
+
+Gruss Daimonion</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="138614672">
+          <groundspeak:date>2010-12-13T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3087275">Fla20m</groundspeak:finder>
+          <groundspeak:text encoded="False">ich wusste zunächst nicht, welchen Baum ich ansteuern soll... dann waren die "Spuren" eindeutig! ;-)</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="138409103">
+          <groundspeak:date>2010-12-13T00:13:50Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="787613">ubx</groundspeak:finder>
+          <groundspeak:text encoded="False">Ubx was here ! mit SchüWa</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="138408585">
+          <groundspeak:date>2010-12-13T00:09:28Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3353018">SchüWa</groundspeak:finder>
+          <groundspeak:text encoded="False">Gefunden mit Ubx!</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

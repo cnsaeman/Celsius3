@@ -1,0 +1,128 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>007970</id>
+  <cache-id>GCMJK9</cache-id>
+  <type>Traditional Cache</type>
+  <name>Fernsehturm by Salex909, Traditional Cache (1.5/1.5)</name>
+  <size>Small</size>
+  <difficulty>1.5</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2008-03-23</last-found>
+  <placed>2005-01-22</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Salex909</placedby>
+  <found>Geocache</found>
+  <lat>50.604</lat>
+  <lon>9.6758</lon>
+  <last-logs>FFFFFX</last-logs>
+  <owner>Salex909</owner>
+  <description>
+      </description>
+  <long-description>Wenn ihr diesen Cache macht, könntet ihr noch gut "Michelsrombacher Wald" und "Wasserhaus Michelsrombach" machen.
+
+Viel Spaß
+Annika und Sascha
+
+
+
+If you do this cache, you could also do "Michelsrombacher Wald" and "Wasserhaus Michelsrombach".
+
+Good luck!
+Annika and Sascha</long-description>
+  <encoded-hints>[deutsch:] An der Ecke
+[english:] In the corner</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=9c82de11-a482-4a79-98c5-c460e166161d</url>
+  <url-name>Fernsehturm</url-name>
+  <logs><ul><li>2010-10-23T19:00:00Z : Found it by BB! <br />Schnell gefunden - schöner Turm-Logbuch ist aber feucht - RN und BB!</li><li>2010-10-17T19:00:00Z : Found it by sema2505 <br />Nachdem wir bei einbrechender Dämmerung von zwei Seiten versucht haben dran zu kommen, haben wir uns wohl für den schlechteren Weg durchs Unterholz entschieden :) aber zurück haben wir immerhin den leichteren gefunden und es ging ganz schnell und ohne Probleme :D
+Vielen Dank fürs Verstecken!!</li><li>2010-10-05T19:00:00Z : Found it by Maluma <br />Heute mit Leonie und zwei weiteren Neucachern gefunden
+
+TFTC MALUMA</li><li>2010-09-18T19:00:00Z : Found it by storc <br />Mit Familie (inkl. Baby in Babyschale) durch das Gebüsch gerobbt.
+Der Cache braucht Maintenance. Logbuch ist voll und durchnässt.
+TFTC</li><li>2010-08-29T19:00:00Z : Found it by Powerhexer <br />Mit dem Brockenhexer diese Dose gefunden.
+
+DFDC</li><li>2008-03-23T19:00:00Z : Didn't find it by Kersti.com <br />Quite a layer of snow had fallen the night before and despite a thorough search we failed to find. Looking at pictures and reading logs afterwards I wonder weather the GPS was a little out.</li></ul></logs>
+  <original-xml>  <wpt  lat="50.604" lon="9.6758">
+    <time>2005-01-22T08:00:00Z</time>
+    <name>GCMJK9</name>
+    <desc>Fernsehturm by Salex909, Traditional Cache (1.5/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=9c82de11-a482-4a79-98c5-c460e166161d</url>
+    <urlname>Fernsehturm</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="202596" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Fernsehturm</groundspeak:name>
+      <groundspeak:placed_by>Salex909</groundspeak:placed_by>
+      <groundspeak:owner id="299287">Salex909</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">
+      </groundspeak:short_description>
+      <groundspeak:long_description html="False">Wenn ihr diesen Cache macht, könntet ihr noch gut "Michelsrombacher Wald" und "Wasserhaus Michelsrombach" machen.
+
+Viel Spaß
+Annika und Sascha
+
+
+
+If you do this cache, you could also do "Michelsrombacher Wald" and "Wasserhaus Michelsrombach".
+
+Good luck!
+Annika and Sascha</groundspeak:long_description>
+      <groundspeak:encoded_hints>[deutsch:] An der Ecke
+[english:] In the corner</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="132652397">
+          <groundspeak:date>2010-10-23T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3781589">BB!</groundspeak:finder>
+          <groundspeak:text encoded="False">Schnell gefunden - schöner Turm-Logbuch ist aber feucht - RN und BB!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="132007138">
+          <groundspeak:date>2010-10-17T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3665179">sema2505</groundspeak:finder>
+          <groundspeak:text encoded="False">Nachdem wir bei einbrechender Dämmerung von zwei Seiten versucht haben dran zu kommen, haben wir uns wohl für den schlechteren Weg durchs Unterholz entschieden :) aber zurück haben wir immerhin den leichteren gefunden und es ging ganz schnell und ohne Probleme :D
+Vielen Dank fürs Verstecken!!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="129887963">
+          <groundspeak:date>2010-10-05T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1380311">Maluma</groundspeak:finder>
+          <groundspeak:text encoded="False">Heute mit Leonie und zwei weiteren Neucachern gefunden
+
+TFTC MALUMA</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="127318535">
+          <groundspeak:date>2010-09-18T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3756425">storc</groundspeak:finder>
+          <groundspeak:text encoded="False">Mit Familie (inkl. Baby in Babyschale) durch das Gebüsch gerobbt.
+Der Cache braucht Maintenance. Logbuch ist voll und durchnässt.
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="124449870">
+          <groundspeak:date>2010-08-29T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2883620">Powerhexer</groundspeak:finder>
+          <groundspeak:text encoded="False">Mit dem Brockenhexer diese Dose gefunden.
+
+DFDC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="41089913">
+          <groundspeak:date>2008-03-23T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Didn't find it</groundspeak:type>
+          <groundspeak:finder id="320206">Kersti.com</groundspeak:finder>
+          <groundspeak:text encoded="False">Quite a layer of snow had fallen the night before and despite a thorough search we failed to find. Looking at pictures and reading logs afterwards I wonder weather the GPS was a little out.</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

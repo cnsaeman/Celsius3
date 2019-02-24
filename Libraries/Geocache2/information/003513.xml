@@ -1,0 +1,208 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>003513</id>
+  <cache-id>GC1Z0Q0</cache-id>
+  <type>Traditional Cache</type>
+  <name>Covo Loco #0035 by Flidais und die eichhoernchen, Traditional Cache (1/1.5)</name>
+  <size>Micro</size>
+  <difficulty>1</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-05-21</last-found>
+  <placed>2009-09-30</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>Flidais und die eichhoernchen</placedby>
+  <found>Geocache</found>
+  <lat>53.194917</lat>
+  <lon>-6.088383</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>die eichhoernchen</owner>
+  <description>
+      </description>
+  <long-description><center>
+<img src="http://www.covoloco.eu/images/covoloco.gif" /></center>
+<h2>The idea behind the COVO LOCOs</h2>
+All nice places in your region are already full of caches? You've
+already found all the caches near your home? You're not in the mood
+to go far from your home to find a cache but you're missing the
+sensation of the hunt? Then this is the solution: the COVO LOCO - a
+series of caches in the stile of a chain letter! Who finds a COVO
+LOCO can hide a new one! <br />
+<h2>The Statutes</h2>
+<br />
+<b>§1</b>: The type of a COVO LOCO is always "traditional"! <br />
+<br />
+<b>§2</b>: COVO LOCOs have to be easily accessable by car! Avoid
+long walks on foot! <br />
+<br />
+<b>§3</b>: Every listing of a COVO LOCO has to have a very clear
+hint! <br />
+<br />
+<b>§4</b>: The caches have to be named like "COVO LOCO #(number of
+four digits)"! In this way they can be distinguished from caches
+made with love in nice places. <br />
+<br />
+<b>§5</b>: The numbers of the COVO LOCO range from #0001 to #9999!
+Prior to the publication of a new COVO LOCO you need to register
+your favoured number at
+<a href="http://www.covoloco.eu">www.covoloco.eu</a>! <br />
+<br />
+<b>§6</b>: The listing of a new COVO LOCO has to contain these
+statutes! <br />
+<br />
+<b>§7</b>: Every finder of a COVO LOCO can place a new COVO LOCO
+himself - <br />
+<i>violation of this will be punished with 5 DNFs in a line by the
+Lord of the Caches! *ggg*</i><br />
+<br />
+<center><a href="http://www.covoloco.eu" target="_blank">Go to Covo
+Loco</a></center>
+<br />
+<br />
+IMPORTANT!!! §7 it is purely voluntary and should not be considered
+an Additional Logging Requirement, nobody has to hide a cache to
+claim this find.<br />
+<br />
+" Maintenance for this cache will be provided by a local cacher
+their details are on file with Geocaching" <br />
+<br /></long-description>
+  <encoded-hints>on top of the information-board</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=5121cb5c-aaaa-49b8-9467-91b4b11db6ba</url>
+  <url-name>Covo Loco #0035</url-name>
+  <logs><ul><li>2010-06-17T19:00:00Z : Found it by Evetke <br />mögvagy</li><li>2010-06-01T19:00:00Z : Found it by anice77 <br />2010-06-01 10:20 Uhr
+Found this cache at my vacation and caching trip in Irland.
+[b]Thx a lot for this cool location.Thanks for this cache which is my find [red]#2719#[/red]
+anice77
+</li><li>2010-05-26T19:00:00Z : Found it by tmob <br />#2431
+
+We looked for this cache during our holidays in Ireland.
+Six fantastic days, 1800kms driven, and a bunch of caches found.
+Definitely a great way to get to know this beautiful island!
+
+Just a formality, cause we were here for the europe's first [:D]
+Nevertheless, it's a nice place, nice view, and the star of great trail near the ocean.
+
+Thanks for this one...
+Greetings from Portugal</li><li>2010-05-26T19:00:00Z : Found it by Tranicka <br />Our last Irish cache, thanks :-)</li><li>2010-05-21T19:00:00Z : Found it by Numira <br />Our first geocache in Ireland. We enjoyed the view of Bray very much! Thank for the cache!
+Greetings from the Czech republic!</li></ul></logs>
+  <original-xml>  <wpt  lat="53.194917" lon="-6.088383">
+    <time>2009-09-30T07:00:00Z</time>
+    <name>GC1Z0Q0</name>
+    <desc>Covo Loco #0035 by Flidais und die eichhoernchen, Traditional Cache (1/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=5121cb5c-aaaa-49b8-9467-91b4b11db6ba</url>
+    <urlname>Covo Loco #0035</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1406844" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Covo Loco #0035</groundspeak:name>
+      <groundspeak:placed_by>Flidais und die eichhoernchen</groundspeak:placed_by>
+      <groundspeak:owner id="756748">die eichhoernchen</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>Dublin</groundspeak:state>
+      <groundspeak:short_description html="True">
+      </groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;center&gt;
+&lt;img src="http://www.covoloco.eu/images/covoloco.gif" /&gt;&lt;/center&gt;
+&lt;h2&gt;The idea behind the COVO LOCOs&lt;/h2&gt;
+All nice places in your region are already full of caches? You've
+already found all the caches near your home? You're not in the mood
+to go far from your home to find a cache but you're missing the
+sensation of the hunt? Then this is the solution: the COVO LOCO - a
+series of caches in the stile of a chain letter! Who finds a COVO
+LOCO can hide a new one! &lt;br /&gt;
+&lt;h2&gt;The Statutes&lt;/h2&gt;
+&lt;br /&gt;
+&lt;b&gt;§1&lt;/b&gt;: The type of a COVO LOCO is always "traditional"! &lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;§2&lt;/b&gt;: COVO LOCOs have to be easily accessable by car! Avoid
+long walks on foot! &lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;§3&lt;/b&gt;: Every listing of a COVO LOCO has to have a very clear
+hint! &lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;§4&lt;/b&gt;: The caches have to be named like "COVO LOCO #(number of
+four digits)"! In this way they can be distinguished from caches
+made with love in nice places. &lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;§5&lt;/b&gt;: The numbers of the COVO LOCO range from #0001 to #9999!
+Prior to the publication of a new COVO LOCO you need to register
+your favoured number at
+&lt;a href="http://www.covoloco.eu"&gt;www.covoloco.eu&lt;/a&gt;! &lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;§6&lt;/b&gt;: The listing of a new COVO LOCO has to contain these
+statutes! &lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;§7&lt;/b&gt;: Every finder of a COVO LOCO can place a new COVO LOCO
+himself - &lt;br /&gt;
+&lt;i&gt;violation of this will be punished with 5 DNFs in a line by the
+Lord of the Caches! *ggg*&lt;/i&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;center&gt;&lt;a href="http://www.covoloco.eu" target="_blank"&gt;Go to Covo
+Loco&lt;/a&gt;&lt;/center&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+IMPORTANT!!! §7 it is purely voluntary and should not be considered
+an Additional Logging Requirement, nobody has to hide a cache to
+claim this find.&lt;br /&gt;
+&lt;br /&gt;
+" Maintenance for this cache will be provided by a local cacher
+their details are on file with Geocaching" &lt;br /&gt;
+&lt;br /&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>on top of the information-board</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="113222996">
+          <groundspeak:date>2010-06-17T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1332935">Evetke</groundspeak:finder>
+          <groundspeak:text encoded="True">mögvagy</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="111265883">
+          <groundspeak:date>2010-06-01T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1814974">anice77</groundspeak:finder>
+          <groundspeak:text encoded="False">2010-06-01 10:20 Uhr
+Found this cache at my vacation and caching trip in Irland.
+[b]Thx a lot for this cool location.Thanks for this cache which is my find [red]#2719#[/red]
+anice77
+</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="112146351">
+          <groundspeak:date>2010-05-26T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="868022">tmob</groundspeak:finder>
+          <groundspeak:text encoded="False">#2431
+
+We looked for this cache during our holidays in Ireland.
+Six fantastic days, 1800kms driven, and a bunch of caches found.
+Definitely a great way to get to know this beautiful island!
+
+Just a formality, cause we were here for the europe's first [:D]
+Nevertheless, it's a nice place, nice view, and the star of great trail near the ocean.
+
+Thanks for this one...
+Greetings from Portugal</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="110317641">
+          <groundspeak:date>2010-05-26T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2731117">Tranicka</groundspeak:finder>
+          <groundspeak:text encoded="False">Our last Irish cache, thanks :-)</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="110916635">
+          <groundspeak:date>2010-05-21T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="610776">Numira</groundspeak:finder>
+          <groundspeak:text encoded="False">Our first geocache in Ireland. We enjoyed the view of Bray very much! Thank for the cache!
+Greetings from the Czech republic!</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

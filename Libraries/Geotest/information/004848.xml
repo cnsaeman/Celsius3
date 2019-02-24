@@ -1,0 +1,186 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>004848</id>
+  <cache-id>GC2DEG2</cache-id>
+  <type>Multi-cache</type>
+  <name>Fuldaer Unterwelt by smurk, Multi-cache (2.5/3.5)</name>
+  <size>Micro</size>
+  <difficulty>2.5</difficulty>
+  <terrain>3.5</terrain>
+  <last-found>2010-11-03</last-found>
+  <placed>2010-08-15</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>smurk</placedby>
+  <found>Geocache</found>
+  <lat>50.557767</lat>
+  <lon>9.6818</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>smurk</owner>
+  <description>
+      </description>
+  <long-description><p style="text-align: center;"><span style=
+"font-size: medium;"><strong>Fuldaer Unterwelt</strong></span></p>
+<p style="text-align: center;"><br />
+Dies ist mein erster eigener Geocache, sollte irgendetwas
+nicht<br />
+stimmen, bitte eine kurze Message an mich! Der Cache beginnt<br />
+bei den folgenden Koordinaten: <em>N50° 33.466 E009° 40.908</em>,
+hier<br />
+solltet Ihr schon die ersten Reflektoren sehen. Diese folgt Ihr
+bitte<br />
+bis zum letzten Reflektor und sucht anschliessend in der<br />
+Zwischenstation das Döschen (bitte legt es genau an der
+selben<br />
+Stelle zurück). Nun habt Ihr die Koordinanten für das Finale,<br />
+viel Spass beim suchen!<br />
+<br />
+Neben üblichem Equipment solltet Ihr noch folgendes beachten:<br />
+<br />
+- Bitte bringt unbedingt eine Taschenlampe mit.<br />
+- Gummistiefel sind ebenfalls ein Muss.<br />
+- Desweiteren solltet ihr diesen Cache NICHT mit Sonntagskleidung
+angehen.<br />
+- An der Terrain-Stufe solltet Ihr schon erkennen, dass der
+Cache<br />
+nicht für Kinder ist.<br />
+- Bitte begebt euch nicht unnötig in Gefahr. Wenn ihr euch
+nicht<br />
+sicher seid, betretet die Location einfach nicht. Ich weise
+darauf<br />
+hin, dass jeder Cacher auf eigene Verantwortung handelt.<br />
+Bei und nach starkem Regen ist dieser Cache nicht zu
+empfehlen.<br />
+<br />
+Aber nun genug...<br />
+<br />
+Happy Caching !</p>
+<br />
+<br />
+<center><img src=
+'http://gcvote.com/gcvote.php?bannertype=stars2&waypoint=GC2DEG2&language=de' /></center>
+<a href='http://www.gccounter.de/' target='_blank' title=
+'GCcounter'><img src=
+'http://www.gccounter.de/cgi-bin/counter.pl?ID=10380&Design=simple&vorn=255,255,255&hint=50,51,49'
+border='0' /></a></long-description>
+  <additional-waypoints>FN2DEG2 - GC2DEG2 Final<br />N/S  __ ° __ . ___ W/E ___ ° __ . ___ <br />Final<br />PK2DEG2 - GC2DEG2 Parking<br />N 50° 33.518 E 009° 41.148<br /><br />S12DEG2 - GC2DEG2 Stage 1<br />N 50° 33.466 E 009° 40.908<br />Start/Eingang<br />S22DEG2 - GC2DEG2 Stage 2<br />N/S  __ ° __ . ___ W/E ___ ° __ . ___ <br />Zwischenstation (mit Finalkoordinaten)<br /></additional-waypoints>
+  <links>waypoints:cache-id:FN2DEG2|waypoints:cache-id:PK2DEG2|waypoints:cache-id:S12DEG2|waypoints:cache-id:S22DEG2</links>
+  <encoded-hints>links neben der Tür / Mauer</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=0494771e-fc89-476b-a443-068fd3927cd4</url>
+  <url-name>Fuldaer Unterwelt</url-name>
+  <logs><ul><li>2010-11-20T20:00:00Z : Found it by Clowns 4ever <br />Gut als Nachtcache machbar ;-))) Heute Abend gut gefunden!!! Unerwartete eindrücke!!! Echt schönes kleines Multi!!!
+
+This entry was edited by Clowns 4ever on Tuesday, 23 November 2010 at 11:33:13.</li><li>2010-11-14T20:00:00Z : Found it by s186003 <br />Mal wieder ein Cache, der im Gedächtnis hängen bleibt. Tolle Location!! Diese Art von Caches, wo es unter die Erde geht, gefallen mir am besten.
+TFTC</li><li>2010-11-12T20:00:00Z : Found it by Luca_DA <br />Ein wirklich schöner Cache, der uns eine mir bisher unbekannte Location gezeigt hat!
+
+TFTC</li><li>2010-11-12T20:00:00Z : Found it by Fla20m <br />auch ohne Gummistiefel problemlos den Cache gehoben. Toller "lost place", danke für´s Zeigen!</li><li>2010-11-03T19:00:00Z : Found it by BöhserOnkel <br />Absolut Tolle Location.... da ließe sich doch bestimmt ne größere Box verstecken.... und noch mehr Spannung aufbauen....
+aber für zwischendurch ein schöner schneller Cache.... TFTC</li></ul></logs>
+  <original-xml>  <wpt  lat="50.557767" lon="9.6818">
+    <time>2010-08-15T07:00:00Z</time>
+    <name>GC2DEG2</name>
+    <desc>Fuldaer Unterwelt by smurk, Multi-cache (2.5/3.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=0494771e-fc89-476b-a443-068fd3927cd4</url>
+    <urlname>Fuldaer Unterwelt</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Multi-cache</type>
+    <groundspeak:cache id="1837157" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Fuldaer Unterwelt</groundspeak:name>
+      <groundspeak:placed_by>smurk</groundspeak:placed_by>
+      <groundspeak:owner id="3374811">smurk</groundspeak:owner>
+      <groundspeak:type>Multi-cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>2.5</groundspeak:difficulty>
+      <groundspeak:terrain>3.5</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="True">
+      </groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;p style="text-align: center;"&gt;&lt;span style=
+"font-size: medium;"&gt;&lt;strong&gt;Fuldaer Unterwelt&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style="text-align: center;"&gt;&lt;br /&gt;
+Dies ist mein erster eigener Geocache, sollte irgendetwas
+nicht&lt;br /&gt;
+stimmen, bitte eine kurze Message an mich! Der Cache beginnt&lt;br /&gt;
+bei den folgenden Koordinaten: &lt;em&gt;N50° 33.466 E009° 40.908&lt;/em&gt;,
+hier&lt;br /&gt;
+solltet Ihr schon die ersten Reflektoren sehen. Diese folgt Ihr
+bitte&lt;br /&gt;
+bis zum letzten Reflektor und sucht anschliessend in der&lt;br /&gt;
+Zwischenstation das Döschen (bitte legt es genau an der
+selben&lt;br /&gt;
+Stelle zurück). Nun habt Ihr die Koordinanten für das Finale,&lt;br /&gt;
+viel Spass beim suchen!&lt;br /&gt;
+&lt;br /&gt;
+Neben üblichem Equipment solltet Ihr noch folgendes beachten:&lt;br /&gt;
+&lt;br /&gt;
+- Bitte bringt unbedingt eine Taschenlampe mit.&lt;br /&gt;
+- Gummistiefel sind ebenfalls ein Muss.&lt;br /&gt;
+- Desweiteren solltet ihr diesen Cache NICHT mit Sonntagskleidung
+angehen.&lt;br /&gt;
+- An der Terrain-Stufe solltet Ihr schon erkennen, dass der
+Cache&lt;br /&gt;
+nicht für Kinder ist.&lt;br /&gt;
+- Bitte begebt euch nicht unnötig in Gefahr. Wenn ihr euch
+nicht&lt;br /&gt;
+sicher seid, betretet die Location einfach nicht. Ich weise
+darauf&lt;br /&gt;
+hin, dass jeder Cacher auf eigene Verantwortung handelt.&lt;br /&gt;
+Bei und nach starkem Regen ist dieser Cache nicht zu
+empfehlen.&lt;br /&gt;
+&lt;br /&gt;
+Aber nun genug...&lt;br /&gt;
+&lt;br /&gt;
+Happy Caching !&lt;/p&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;center&gt;&lt;img src=
+'http://gcvote.com/gcvote.php?bannertype=stars2&amp;amp;waypoint=GC2DEG2&amp;amp;language=de' /&gt;&lt;/center&gt;
+&lt;a href='http://www.gccounter.de/' target='_blank' title=
+'GCcounter'&gt;&lt;img src=
+'http://www.gccounter.de/cgi-bin/counter.pl?ID=10380&amp;amp;Design=simple&amp;amp;vorn=255,255,255&amp;amp;hint=50,51,49'
+border='0' /&gt;&lt;/a&gt;&lt;p&gt;Additional Waypoints&lt;/p&gt;FN2DEG2 - GC2DEG2 Final&lt;br /&gt;N/S  __ ° __ . ___ W/E ___ ° __ . ___ &lt;br /&gt;Final&lt;br /&gt;PK2DEG2 - GC2DEG2 Parking&lt;br /&gt;N 50° 33.518 E 009° 41.148&lt;br /&gt;&lt;br /&gt;S12DEG2 - GC2DEG2 Stage 1&lt;br /&gt;N 50° 33.466 E 009° 40.908&lt;br /&gt;Start/Eingang&lt;br /&gt;S22DEG2 - GC2DEG2 Stage 2&lt;br /&gt;N/S  __ ° __ . ___ W/E ___ ° __ . ___ &lt;br /&gt;Zwischenstation (mit Finalkoordinaten)&lt;br /&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>links neben der Tür / Mauer</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="136511386">
+          <groundspeak:date>2010-11-20T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3918255">Clowns 4ever</groundspeak:finder>
+          <groundspeak:text encoded="False">Gut als Nachtcache machbar ;-))) Heute Abend gut gefunden!!! Unerwartete eindrücke!!! Echt schönes kleines Multi!!!
+
+This entry was edited by Clowns 4ever on Tuesday, 23 November 2010 at 11:33:13.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="136075212">
+          <groundspeak:date>2010-11-14T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2819456">s186003</groundspeak:finder>
+          <groundspeak:text encoded="False">Mal wieder ein Cache, der im Gedächtnis hängen bleibt. Tolle Location!! Diese Art von Caches, wo es unter die Erde geht, gefallen mir am besten.
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="136986713">
+          <groundspeak:date>2010-11-12T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3421688">Luca_DA</groundspeak:finder>
+          <groundspeak:text encoded="False">Ein wirklich schöner Cache, der uns eine mir bisher unbekannte Location gezeigt hat!
+
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="135949992">
+          <groundspeak:date>2010-11-12T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3087275">Fla20m</groundspeak:finder>
+          <groundspeak:text encoded="False">auch ohne Gummistiefel problemlos den Cache gehoben. Toller "lost place", danke für´s Zeigen!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="134544108">
+          <groundspeak:date>2010-11-03T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2845588">BöhserOnkel</groundspeak:finder>
+          <groundspeak:text encoded="False">Absolut Tolle Location.... da ließe sich doch bestimmt ne größere Box verstecken.... und noch mehr Spannung aufbauen....
+aber für zwischendurch ein schöner schneller Cache.... TFTC</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

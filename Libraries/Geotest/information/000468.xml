@@ -1,0 +1,124 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>000468</id>
+  <cache-id>GCN7NE</cache-id>
+  <type>Traditional Cache</type>
+  <name>Grotte II by DS by Mamomi-1, Traditional Cache (2.5/1.5)</name>
+  <size>Micro</size>
+  <difficulty>2.5</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2008-03-23</last-found>
+  <placed>2005-03-26</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Mamomi-1</placedby>
+  <found>Geocache Found</found>
+  <lat>50.5991</lat>
+  <lon>9.69005</lon>
+  <last-logs>FFFFFWF</last-logs>
+  <owner>Mamomi-1</owner>
+  <description>
+      </description>
+  <long-description>Auf der Suche nach dem Wasserhaus Petersberg bin ich an dieser Grotte vorbei gekommen. Ich finde diese Grotte sehr schön und deshalb musste da ein Cache (Petling) plaziert werden. Viel Spaß bei der Grottentour!!
+
+
+A further Grotte in the series. It`s a wonderfull place.</long-description>
+  <encoded-hints>Hinten in der Grottenmauer 
+Behind</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=9781691a-b26c-42db-bd66-5ca2312f17ed</url>
+  <url-name>Grotte II by DS</url-name>
+  <logs><ul><li>2010-11-14T20:00:00Z : Found it by Limoel <br />Heute morgen diesen Cache gefunden.
+
+TFTC Limoel</li><li>2010-11-11T20:00:00Z : Found it by Svegar <br />Eine sehr schöne Grotte, schön gelegen. Cache war gut zu finden.
+
+Vielen Dank</li><li>2010-10-31T19:00:00Z : Found it by burgen13 <br />Bei herrlichem Herbstwetter Sonntagsspaziergang mit erfolgreicher Cachesuche verbunden.
+Danke sagt burgen13 </li><li>2010-10-17T19:00:00Z : Found it by sema2505 <br />Beim Sonntagsausflug mit dem Hund hier vorbei gekommen und schnell geloggt.
+Eine wirklich sehr, sehr schöne und gepflegte Grotte!
+Vielen Dank fürs Zeigen und Verstecken!!</li><li>2010-10-04T19:00:00Z : Found it by Griesgor <br />Heute mit Frau bei schönem Wetter um 14Uhr 30  flugs gefunden und geloggt.Schönes Fleckchen Erde.
+TFTC Griesgor</li><li>2008-03-23T19:00:00Z : Write note by Kersti.com <br />Personal Tracking Coin Drop
+Fergus the Frog hopped here</li><li>2008-03-23T19:00:00Z : Found it by Kersti.com <br />I think we managed to choose the most difficult possible route in to this cache - lots of squelchy mud and thorns. We did score some stunning views on the way though. Fairly obvious find once there, even with the snow. Found with Christian, Florian, Julia and Anton. TNLNSL TFTC</li></ul></logs>
+  <original-xml>  <wpt  lat="50.5991" lon="9.69005">
+    <time>2005-03-26T07:00:00Z</time>
+    <name>GCN7NE</name>
+    <desc>Grotte II by DS by Mamomi-1, Traditional Cache (2.5/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=9781691a-b26c-42db-bd66-5ca2312f17ed</url>
+    <urlname>Grotte II by DS</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="221883" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Grotte II by DS</groundspeak:name>
+      <groundspeak:placed_by>Mamomi-1</groundspeak:placed_by>
+      <groundspeak:owner id="275727">Mamomi-1</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>2.5</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">
+      </groundspeak:short_description>
+      <groundspeak:long_description html="False">Auf der Suche nach dem Wasserhaus Petersberg bin ich an dieser Grotte vorbei gekommen. Ich finde diese Grotte sehr schön und deshalb musste da ein Cache (Petling) plaziert werden. Viel Spaß bei der Grottentour!!
+
+
+A further Grotte in the series. It`s a wonderfull place.</groundspeak:long_description>
+      <groundspeak:encoded_hints>Hinten in der Grottenmauer 
+Behind</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="135710246">
+          <groundspeak:date>2010-11-14T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2878802">Limoel</groundspeak:finder>
+          <groundspeak:text encoded="False">Heute morgen diesen Cache gefunden.
+
+TFTC Limoel</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="135367282">
+          <groundspeak:date>2010-11-11T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3056833">Svegar</groundspeak:finder>
+          <groundspeak:text encoded="False">Eine sehr schöne Grotte, schön gelegen. Cache war gut zu finden.
+
+Vielen Dank</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="133887838">
+          <groundspeak:date>2010-10-31T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2887618">burgen13</groundspeak:finder>
+          <groundspeak:text encoded="False">Bei herrlichem Herbstwetter Sonntagsspaziergang mit erfolgreicher Cachesuche verbunden.
+Danke sagt burgen13 </groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="132006685">
+          <groundspeak:date>2010-10-17T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3665179">sema2505</groundspeak:finder>
+          <groundspeak:text encoded="False">Beim Sonntagsausflug mit dem Hund hier vorbei gekommen und schnell geloggt.
+Eine wirklich sehr, sehr schöne und gepflegte Grotte!
+Vielen Dank fürs Zeigen und Verstecken!!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="129753833">
+          <groundspeak:date>2010-10-04T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3701621">Griesgor</groundspeak:finder>
+          <groundspeak:text encoded="False">Heute mit Frau bei schönem Wetter um 14Uhr 30  flugs gefunden und geloggt.Schönes Fleckchen Erde.
+TFTC Griesgor</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="116082627">
+          <groundspeak:date>2008-03-23T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Write note</groundspeak:type>
+          <groundspeak:finder id="320206">Kersti.com</groundspeak:finder>
+          <groundspeak:text encoded="False">Personal Tracking Coin Drop
+Fergus the Frog hopped here</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="41090055">
+          <groundspeak:date>2008-03-23T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="320206">Kersti.com</groundspeak:finder>
+          <groundspeak:text encoded="False">I think we managed to choose the most difficult possible route in to this cache - lots of squelchy mud and thorns. We did score some stunning views on the way though. Fairly obvious find once there, even with the snow. Found with Christian, Florian, Julia and Anton. TNLNSL TFTC</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

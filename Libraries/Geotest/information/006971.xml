@@ -1,0 +1,102 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>006971</id>
+  <cache-id>GCQDY2</cache-id>
+  <type>Traditional Cache</type>
+  <name>FCKW 03: Alte Heeresstraße by smeagol, Die 5 Stooges und Ultimatio Ratio, Traditional Cache (1/1.5)</name>
+  <size>Micro</size>
+  <difficulty>1</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-08-08</last-found>
+  <placed>2005-09-04</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>smeagol, Die 5 Stooges und Ultimatio Ratio</placedby>
+  <found>Geocache</found>
+  <lat>50.504867</lat>
+  <lon>9.655267</lon>
+  <last-logs>FFFXF</last-logs>
+  <owner>smeagol</owner>
+  <description>Ein neuer, schneller Cache der FCKW-Reihe ...</description>
+  <long-description>Der dritte Cache, den wir (Smeagol, Die 5 Stooges, Ultima Ratio) zusammen anlässlich unseres "FCKW" gelegt haben, befindet sich diesmal an der alten Heeresstraße von Frankfurt nach Fulda.
+
+Man kann fast bis ran fahren und ganz in der Nähe hat man eine tolle Aussicht auf Fulda und Umgebung!
+
+Viel Spaß beim Suchen ...</long-description>
+  <encoded-hints>Baumstumpf</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=90d417fe-7451-4b7b-8e95-3b3e30810537</url>
+  <url-name>FCKW 03: Alte Heeresstraße</url-name>
+  <logs><ul><li>2010-11-21T20:00:00Z : Found it by Helup <br />Mit dem Fahrrad diesen schönen Cache gefunden.Echt klasse hat riessig Spass gemacht!
+
+Gruß und danke Team Helup</li><li>2010-11-07T20:00:00Z : Found it by Camuvlash <br />TFTC.</li><li>2010-09-29T19:00:00Z : Found it by S***T <br />Heute nochmal das schöne Wetter für eine Radtour genutzt und das Rad für diesen Cache mal wieder eingesaut ;-)
+
+Sonst ist aber alles OK mit dem Cache! Nach dem Regen ist die Umgebung vielleicht etwas matschig, aber sonst ist der gut begehbar und auffindbar.</li><li>2010-09-21T19:00:00Z : Didn't find it by Griesgor <br />Nicht gefunden.Leider ist dort der ganze Wald umgpflügt durch Waldarbeiten.Habe zwar Wurzeln gefunden. aber die Fahrrinnen und die umgelegten Bäume lassen kein vernüftiges Suchen zu.Bitte mal Kontrolle.
+Gruß Griesgor</li><li>2010-08-08T19:00:00Z : Found it by ChrisFX <br />Auf einer kleinen Fahrradrunde schnell gefunden ...</li></ul></logs>
+  <original-xml>  <wpt  lat="50.504867" lon="9.655267">
+    <time>2005-09-04T07:00:00Z</time>
+    <name>GCQDY2</name>
+    <desc>FCKW 03: Alte Heeresstraße by smeagol, Die 5 Stooges und Ultimatio Ratio, Traditional Cache (1/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=90d417fe-7451-4b7b-8e95-3b3e30810537</url>
+    <urlname>FCKW 03: Alte Heeresstraße</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="287467" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>FCKW 03: Alte Heeresstraße</groundspeak:name>
+      <groundspeak:placed_by>smeagol, Die 5 Stooges und Ultimatio Ratio</groundspeak:placed_by>
+      <groundspeak:owner id="144836">smeagol</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">Ein neuer, schneller Cache der FCKW-Reihe ...</groundspeak:short_description>
+      <groundspeak:long_description html="False">Der dritte Cache, den wir (Smeagol, Die 5 Stooges, Ultima Ratio) zusammen anlässlich unseres "FCKW" gelegt haben, befindet sich diesmal an der alten Heeresstraße von Frankfurt nach Fulda.
+
+Man kann fast bis ran fahren und ganz in der Nähe hat man eine tolle Aussicht auf Fulda und Umgebung!
+
+Viel Spaß beim Suchen ...</groundspeak:long_description>
+      <groundspeak:encoded_hints>Baumstumpf</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="136693037">
+          <groundspeak:date>2010-11-21T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2254555">Helup</groundspeak:finder>
+          <groundspeak:text encoded="False">Mit dem Fahrrad diesen schönen Cache gefunden.Echt klasse hat riessig Spass gemacht!
+
+Gruß und danke Team Helup</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="134878974">
+          <groundspeak:date>2010-11-07T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2724623">Camuvlash</groundspeak:finder>
+          <groundspeak:text encoded="False">TFTC.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="129004242">
+          <groundspeak:date>2010-09-29T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1894990">S***T</groundspeak:finder>
+          <groundspeak:text encoded="False">Heute nochmal das schöne Wetter für eine Radtour genutzt und das Rad für diesen Cache mal wieder eingesaut ;-)
+
+Sonst ist aber alles OK mit dem Cache! Nach dem Regen ist die Umgebung vielleicht etwas matschig, aber sonst ist der gut begehbar und auffindbar.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="127874970">
+          <groundspeak:date>2010-09-21T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Didn't find it</groundspeak:type>
+          <groundspeak:finder id="3701621">Griesgor</groundspeak:finder>
+          <groundspeak:text encoded="False">Nicht gefunden.Leider ist dort der ganze Wald umgpflügt durch Waldarbeiten.Habe zwar Wurzeln gefunden. aber die Fahrrinnen und die umgelegten Bäume lassen kein vernüftiges Suchen zu.Bitte mal Kontrolle.
+Gruß Griesgor</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="122640404">
+          <groundspeak:date>2010-08-08T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2837683">ChrisFX</groundspeak:finder>
+          <groundspeak:text encoded="False">Auf einer kleinen Fahrradrunde schnell gefunden ...</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

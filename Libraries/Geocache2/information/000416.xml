@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>000416</id>
+  <cache-id>CS21AJP</cache-id>
+  <type>Waypoint</type>
+  <name>Church Stage</name>
+  <placed>2009-11-22</placed>
+  <lat>53.453533</lat>
+  <lon>-6.2415</lon>
+  <attributes>hidden</attributes>
+  <description></description>
+  <url>http://www.geocaching.com/seek/wpt.aspx?WID=6b842c0a-e271-4452-a47e-be6b08d9f3c1</url>
+  <url-name>Church Stage</url-name>
+</element>
+</celsiusv2.1.addinfofile>

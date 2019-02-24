@@ -1,0 +1,156 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>005950</id>
+  <cache-id>GCGT5C</cache-id>
+  <type>Traditional Cache</type>
+  <name>Tonelagee (The Day My World Ended) by Donnacha, Traditional Cache (4/4)</name>
+  <size>Regular</size>
+  <difficulty>4</difficulty>
+  <terrain>4</terrain>
+  <last-found>2007-11-04</last-found>
+  <placed>2003-08-31</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>Donnacha</placedby>
+  <found>Geocache</found>
+  <lat>53.053933</lat>
+  <lon>-6.3815</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>Donnacha</owner>
+  <description><p align="center"><a target="_blank"
+href="http://www.geocachingireland.com"><img border="0"
+src="http://geocachingireland.com/logo4.jpg" width="328"
+height="53" align="middle" /></a></p>
+<p align="center"><a target="_blank"
+href="http://www.facebook.com/#/group.php?gid=34042039725"><img border="0"
+     src="http://www.geocachingireland.com/facebook_logo_gci.jpg"
+     width="450" height="169" /></a></p></description>
+  <long-description>The day I want to forget. <br />
+<br />
+Located in the Wicklow Gap on Tonelagee mountain. There are a few
+way to get there, but you can start here: N53 02.498 W6 23.780
+<br />
+<br />
+ This one will be tricky in wet weather. Make sure you bring the
+usual supplies just in case the weather turns. Tonelagee can be
+found on OS Map #56. The cache itself is a small tubber box, so if
+you're trading, you'll have to keep the items small. I have wrapped
+the cache in a plastic bag and is covered by a rock at the cache
+location. Best print off the pics just in case you need them.<br />
+<br />
+<hr size="2" />
+<center><font color="Green">Visit the Geocaching Ireland discussion
+forum <a rel="nofollow" href="http://forums.geocachingireland.com"
+target="_blank">HERE</a></font></center>
+<hr size="2" /></long-description>
+  <additional-waypoints>PKGT5C - Car Park<br />N 53° 02.504 W 006° 23.565<br /><br /></additional-waypoints>
+  <links>waypoints:cache-id:PKGT5C</links>
+  <encoded-hints>Go to the stone marker and walk 250ft East. You'll get a group of stones in front of you, some stacked ontop of eash other. The cache is hidden under a stone on the right and is covered by a rock.</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=276dd078-d5c2-48a7-b15e-53260626efe0</url>
+  <url-name>Tonelagee (The Day My World Ended)</url-name>
+  <logs><ul><li>2010-05-03T19:00:00Z : Found it by kaputing <br />Took the easy road up from the south (was going to come across from Mullaghcleevaun but slept in). Weather brilliant if blowy. Easy find, fantastic views.
+TFTC</li><li>2009-03-29T19:00:00Z : Found it by daraconn <br />Parked at the entrance of Turlough Hill Generating Station, and walked straight up the steep southern slope to the summit. Fairly soft ground at first but conditions improved as we got higher up. To my surprise there were still small patches of snow, including one right at the cache site. The mini-Moro bar was looking mighty tempting so I went ahead and ate it.
+
+After that I headed north to a nearby summit called "Stony Top" and from there continued on to Barrnacullian. The summit of Barrnacullian was an expanse of very soft bog, which made progress difficult. I had an idea of continuing on to Mullaghcleevaun, which was only a couple of kilometres further, but the going got too tough and I had to turn back. Thanks for the cache!</li><li>2008-04-27T19:00:00Z : Found it by ginger4x4 <br />This was with no doubt the best one I have done superb views although a "little challenging" to get too :-0 I took the wrong route up but the right route down so would be a good idea to research your route before hand.
+
+It is by the way very well named.
+
+TFTC
+
+
+ginger4x4</li><li>2007-12-28T20:00:00Z : Found it by IrishRambler <br />Found it with ease, after taking the hint with me. What a day for hiking with a group, very strong winds and very heavy showers, we survived though! In : Moro Bar for the next lucky person who makes it to the top, Out : Czech CD's which the group were intrested in.</li><li>2007-11-04T20:00:00Z : Found it by MadraRua <br />Had a nice hike up here from Glenmacnass with some friends. Overcast but good views and sooooo mild for November.
+Thanks mate!</li></ul></logs>
+  <original-xml>  <wpt  lat="53.053933" lon="-6.3815">
+    <time>2003-08-31T07:00:00Z</time>
+    <name>GCGT5C</name>
+    <desc>Tonelagee (The Day My World Ended) by Donnacha, Traditional Cache (4/4)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=276dd078-d5c2-48a7-b15e-53260626efe0</url>
+    <urlname>Tonelagee (The Day My World Ended)</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="89728" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Tonelagee (The Day My World Ended)</groundspeak:name>
+      <groundspeak:placed_by>Donnacha</groundspeak:placed_by>
+      <groundspeak:owner id="61401">Donnacha</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Regular</groundspeak:container>
+      <groundspeak:difficulty>4</groundspeak:difficulty>
+      <groundspeak:terrain>4</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>Leinster</groundspeak:state>
+      <groundspeak:short_description html="True">&lt;p align="center"&gt;&lt;a target="_blank"
+href="http://www.geocachingireland.com"&gt;&lt;img border="0"
+src="http://geocachingireland.com/logo4.jpg" width="328"
+height="53" align="middle" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p align="center"&gt;&lt;a target="_blank"
+href="http://www.facebook.com/#/group.php?gid=34042039725"&gt;&lt;img border="0"
+     src="http://www.geocachingireland.com/facebook_logo_gci.jpg"
+     width="450" height="169" /&gt;&lt;/a&gt;&lt;/p&gt;</groundspeak:short_description>
+      <groundspeak:long_description html="True">The day I want to forget. &lt;br /&gt;
+&lt;br /&gt;
+Located in the Wicklow Gap on Tonelagee mountain. There are a few
+way to get there, but you can start here: N53 02.498 W6 23.780
+&lt;br /&gt;
+&lt;br /&gt;
+ This one will be tricky in wet weather. Make sure you bring the
+usual supplies just in case the weather turns. Tonelagee can be
+found on OS Map #56. The cache itself is a small tubber box, so if
+you're trading, you'll have to keep the items small. I have wrapped
+the cache in a plastic bag and is covered by a rock at the cache
+location. Best print off the pics just in case you need them.&lt;br /&gt;
+&lt;br /&gt;
+&lt;hr size="2" /&gt;
+&lt;center&gt;&lt;font color="Green"&gt;Visit the Geocaching Ireland discussion
+forum &lt;a rel="nofollow" href="http://forums.geocachingireland.com"
+target="_blank"&gt;HERE&lt;/a&gt;&lt;/font&gt;&lt;/center&gt;
+&lt;hr size="2" /&gt;&lt;p&gt;Additional Waypoints&lt;/p&gt;PKGT5C - Car Park&lt;br /&gt;N 53° 02.504 W 006° 23.565&lt;br /&gt;&lt;br /&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>Go to the stone marker and walk 250ft East. You'll get a group of stones in front of you, some stacked ontop of eash other. The cache is hidden under a stone on the right and is covered by a rock.</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="107022541">
+          <groundspeak:date>2010-05-03T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="991137">kaputing</groundspeak:finder>
+          <groundspeak:text encoded="False">Took the easy road up from the south (was going to come across from Mullaghcleevaun but slept in). Weather brilliant if blowy. Easy find, fantastic views.
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="65995665">
+          <groundspeak:date>2009-03-29T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="591662">daraconn</groundspeak:finder>
+          <groundspeak:text encoded="False">Parked at the entrance of Turlough Hill Generating Station, and walked straight up the steep southern slope to the summit. Fairly soft ground at first but conditions improved as we got higher up. To my surprise there were still small patches of snow, including one right at the cache site. The mini-Moro bar was looking mighty tempting so I went ahead and ate it.
+
+After that I headed north to a nearby summit called "Stony Top" and from there continued on to Barrnacullian. The summit of Barrnacullian was an expanse of very soft bog, which made progress difficult. I had an idea of continuing on to Mullaghcleevaun, which was only a couple of kilometres further, but the going got too tough and I had to turn back. Thanks for the cache!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="43309543">
+          <groundspeak:date>2008-04-27T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1414948">ginger4x4</groundspeak:finder>
+          <groundspeak:text encoded="False">This was with no doubt the best one I have done superb views although a "little challenging" to get too :-0 I took the wrong route up but the right route down so would be a good idea to research your route before hand.
+
+It is by the way very well named.
+
+TFTC
+
+
+ginger4x4</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="36838279">
+          <groundspeak:date>2007-12-28T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1365987">IrishRambler</groundspeak:finder>
+          <groundspeak:text encoded="False">Found it with ease, after taking the hint with me. What a day for hiking with a group, very strong winds and very heavy showers, we survived though! In : Moro Bar for the next lucky person who makes it to the top, Out : Czech CD's which the group were intrested in.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="34954972">
+          <groundspeak:date>2007-11-04T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="278067">MadraRua</groundspeak:finder>
+          <groundspeak:text encoded="False">Had a nice hike up here from Glenmacnass with some friends. Overcast but good views and sooooo mild for November.
+Thanks mate!</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

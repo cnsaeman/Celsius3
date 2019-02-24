@@ -1,0 +1,106 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>005987</id>
+  <cache-id>GC27EMC</cache-id>
+  <type>Traditional Cache</type>
+  <name>Unser Gartentraum by Maluma, Traditional Cache (3/2.5)</name>
+  <size>Small</size>
+  <difficulty>3</difficulty>
+  <terrain>2.5</terrain>
+  <last-found>2010-10-05</last-found>
+  <placed>2010-04-25</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Maluma</placedby>
+  <found>Geocache</found>
+  <lat>50.568383</lat>
+  <lon>9.659533</lon>
+  <last-logs>FFWFF</last-logs>
+  <owner>Maluma</owner>
+  <description>Hier in der wunderschönen Ecke von Fuldas Kleingärtnern hat noch dieser Cache gefehlt. Wir waren hier zum Grillen eingeladen und haben Euch ein Tupperdöschen da gelassen...</description>
+  <long-description>Der Cache liegt an einem ca. 400 m langen Fußweges, der vom Horas zum Aschenberg hinauf führt.</long-description>
+  <encoded-hints>zu zweit geht es einfacher..mit Kind sogar perfekt</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=18504fb7-0229-43ec-9e4a-c4dee90928a3</url>
+  <url-name>Unser Gartentraum</url-name>
+  <logs><ul><li>2010-12-18T20:00:00Z : Found it by Fla20m <br />ich habe leider keinen Enkel, der mir bei der Bergung des Caches geholfen hat! Naja, da musste ich mir einfach anders helfen, auch wenn es beim heftigen Schneefall nicht all zu einfach war... TFTC</li><li>2010-10-10T19:00:00Z : Found it by Camuvlash <br />Zum zweiten Mal am richtigen Ort und heute war der Cache auch da
+schöne Kletterei ^^
+TFTC</li><li>2010-10-10T19:00:00Z : Write note by smurk <br />Sorry für den Doppeleintrag - den TB hatte er vorhin nicht angenommen :(</li><li>2010-10-10T19:00:00Z : Found it by smurk <br />Der Cache war gar nicht mal so einfach.
+
+Vielen Dank dafür :D
+
+IN: TB</li><li>2010-10-05T19:00:00Z : Found it by Griesgor <br />Danke für den Cache!
+Zum Hinweis:Der ist prima.Wenn die Kinder klein sind und nicht so schwer.Opa hat stark gewackelt deshalb hatte ich ein wenig schiss.
+
+Gruß Griesgor mit schwerem Enkel</li></ul></logs>
+  <original-xml>  <wpt  lat="50.568383" lon="9.659533">
+    <time>2010-04-25T07:00:00Z</time>
+    <name>GC27EMC</name>
+    <desc>Unser Gartentraum by Maluma, Traditional Cache (3/2.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=18504fb7-0229-43ec-9e4a-c4dee90928a3</url>
+    <urlname>Unser Gartentraum</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1658545" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Unser Gartentraum</groundspeak:name>
+      <groundspeak:placed_by>Maluma</groundspeak:placed_by>
+      <groundspeak:owner id="1380311">Maluma</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>3</groundspeak:difficulty>
+      <groundspeak:terrain>2.5</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">Hier in der wunderschönen Ecke von Fuldas Kleingärtnern hat noch dieser Cache gefehlt. Wir waren hier zum Grillen eingeladen und haben Euch ein Tupperdöschen da gelassen...</groundspeak:short_description>
+      <groundspeak:long_description html="False">Der Cache liegt an einem ca. 400 m langen Fußweges, der vom Horas zum Aschenberg hinauf führt.</groundspeak:long_description>
+      <groundspeak:encoded_hints>zu zweit geht es einfacher..mit Kind sogar perfekt</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="138898066">
+          <groundspeak:date>2010-12-18T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3087275">Fla20m</groundspeak:finder>
+          <groundspeak:text encoded="False">ich habe leider keinen Enkel, der mir bei der Bergung des Caches geholfen hat! Naja, da musste ich mir einfach anders helfen, auch wenn es beim heftigen Schneefall nicht all zu einfach war... TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="130629454">
+          <groundspeak:date>2010-10-10T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2724623">Camuvlash</groundspeak:finder>
+          <groundspeak:text encoded="False">Zum zweiten Mal am richtigen Ort und heute war der Cache auch da
+schöne Kletterei ^^
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="130594047">
+          <groundspeak:date>2010-10-10T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Write note</groundspeak:type>
+          <groundspeak:finder id="3374811">smurk</groundspeak:finder>
+          <groundspeak:text encoded="False">Sorry für den Doppeleintrag - den TB hatte er vorhin nicht angenommen :(</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="130564786">
+          <groundspeak:date>2010-10-10T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3374811">smurk</groundspeak:finder>
+          <groundspeak:text encoded="False">Der Cache war gar nicht mal so einfach.
+
+Vielen Dank dafür :D
+
+IN: TB</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="129871353">
+          <groundspeak:date>2010-10-05T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3701621">Griesgor</groundspeak:finder>
+          <groundspeak:text encoded="False">Danke für den Cache!
+Zum Hinweis:Der ist prima.Wenn die Kinder klein sind und nicht so schwer.Opa hat stark gewackelt deshalb hatte ich ein wenig schiss.
+
+Gruß Griesgor mit schwerem Enkel</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs>
+        <groundspeak:travelbug id="664409" ref="TB1535F">
+          <groundspeak:name>Sweet Pig</groundspeak:name>
+        </groundspeak:travelbug>
+      </groundspeak:travelbugs>
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

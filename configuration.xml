@@ -1,0 +1,215 @@
+<?xml version="1.0"?>
+<celsiusv2.1.configuration>
+<element>
+  <filetype>..none..</filetype>
+  <email>kmail --attach %from%</email>
+  <proxy-address>http://proxy.maths.tcd.ie</proxy-address>
+  <proxy-port>80</proxy-port>
+  <proxy>false</proxy>
+  <annotate>xournal %from%</annotate>
+  <maxthreads1>6</maxthreads1>
+  <maxthreads2>6</maxthreads2>
+  <iconfolder>/home/cnsaeman/Celsius3/Celsius3/Icons</iconfolder>
+</element>
+<element>
+  <filetype>pdf</filetype>
+  <Extractor>pdftotext -q '%from%' '%to%'</Extractor>
+  <Viewer>okular '%from%'</Viewer>
+  <Ident>%PDF</Ident>
+</element>
+<element>
+  <filetype>ps.gz</filetype>
+  <Extractor>ps2ascii '%from%' '%to%'</Extractor>
+  <Viewer>okular '%from%'</Viewer>
+  <Ident>%!PS</Ident>
+</element>
+<element>
+  <filetype>djvu</filetype>
+  <Extractor>djvused -e print-pure-txt '%from%' >%to%</Extractor>
+  <Viewer>djview '%from%'</Viewer>
+  <Ident></Ident>
+  <Secondary>Okular:okular '%from%'</Secondary>
+</element>
+<element>
+  <filetype>html</filetype>
+  <Viewer>konqueror %from%</Viewer>
+  <Ident><html></Ident>
+</element>
+<element>
+  <filetype>war</filetype>
+  <Extractor>java -classpath ./plugins extractwar '%from%' '%to%'</Extractor>
+  <Viewer>konqueror '%from%'</Viewer>
+  <Ident></Ident>
+  <Secondary></Secondary>
+</element>
+<element>
+  <filetype>epub</filetype>
+  <Extractor>java -classpath ./plugins extractepub '%from%' '%to%'</Extractor>
+  <Viewer>okular '%from%'</Viewer>
+  <Ident></Ident>
+  <Secondary></Secondary>
+</element>
+<element>
+  <filetype>rtf</filetype>
+  <Extractor>unrtf --text '%from%' >%to%</Extractor>
+  <Viewer>kword '%from%'</Viewer>
+</element>
+<element>
+  <filetype>avi</filetype>
+  <email></email>
+  <proxy-address></proxy-address>
+  <proxy-port></proxy-port>
+  <proxy></proxy>
+  <annotate></annotate>
+  <maxthreads1></maxthreads1>
+  <maxthreads2></maxthreads2>
+  <Extractor></Extractor>
+  <Viewer>kaffeine '%from%'</Viewer>
+  <Ident></Ident>
+  <Secondary>Open with VLC:vlc '%from%'</Secondary>
+</element>
+<element>
+  <filetype>mpg</filetype>
+  <email></email>
+  <proxy-address></proxy-address>
+  <proxy-port></proxy-port>
+  <proxy></proxy>
+  <annotate></annotate>
+  <maxthreads1></maxthreads1>
+  <maxthreads2></maxthreads2>
+  <Extractor></Extractor>
+  <Viewer>kaffeine '%from%'</Viewer>
+  <Ident></Ident>
+  <Secondary>Open with VLC:vlc '%from%'</Secondary>
+</element>
+<element>
+  <filetype>mkv</filetype>
+  <email></email>
+  <proxy-address></proxy-address>
+  <proxy-port></proxy-port>
+  <proxy></proxy>
+  <annotate></annotate>
+  <maxthreads1></maxthreads1>
+  <maxthreads2></maxthreads2>
+  <Extractor></Extractor>
+  <Viewer>kaffeine '%from%'</Viewer>
+  <Ident></Ident>
+  <Secondary>Open with VLC:vlc '%from%'</Secondary>
+</element>
+<element>
+  <filetype>m4v</filetype>
+  <email></email>
+  <proxy-address></proxy-address>
+  <proxy-port></proxy-port>
+  <proxy></proxy>
+  <annotate></annotate>
+  <maxthreads1></maxthreads1>
+  <maxthreads2></maxthreads2>
+  <Extractor></Extractor>
+  <Viewer>kaffeine '%from%'</Viewer>
+  <Ident></Ident>
+  <Secondary>Open with VLC:vlc '%from%'</Secondary>
+</element>
+<element>
+  <filetype>mp4</filetype>
+  <email></email>
+  <proxy-address></proxy-address>
+  <proxy-port></proxy-port>
+  <proxy></proxy>
+  <annotate></annotate>
+  <maxthreads1></maxthreads1>
+  <maxthreads2></maxthreads2>
+  <Extractor></Extractor>
+  <Viewer>kaffeine '%from%'</Viewer>
+  <Ident></Ident>
+  <Secondary>Open with VLC:vlc '%from%'</Secondary>
+</element>
+<element>
+  <filetype>rm</filetype>
+  <email></email>
+  <proxy-address></proxy-address>
+  <proxy-port></proxy-port>
+  <proxy></proxy>
+  <annotate></annotate>
+  <maxthreads1></maxthreads1>
+  <maxthreads2></maxthreads2>
+  <Extractor></Extractor>
+  <Viewer>vlc %from%</Viewer>
+  <Ident></Ident>
+</element>
+<element>
+  <filetype>mp3</filetype>
+  <email></email>
+  <proxy-address></proxy-address>
+  <proxy-port></proxy-port>
+  <proxy></proxy>
+  <annotate></annotate>
+  <maxthreads1></maxthreads1>
+  <maxthreads2></maxthreads2>
+  <iconfolder></iconfolder>
+  <Extractor></Extractor>
+  <Viewer>amarok -s -l '%from%' -p</Viewer>
+  <Ident></Ident>
+  <Secondary>Add to playlist in Amarok:amarok -a '%from%'</Secondary>
+</element>
+<element>
+  <filetype>m3u</filetype>
+  <email></email>
+  <proxy-address></proxy-address>
+  <proxy-port></proxy-port>
+  <proxy></proxy>
+  <annotate></annotate>
+  <maxthreads1></maxthreads1>
+  <maxthreads2></maxthreads2>
+  <iconfolder></iconfolder>
+  <Extractor></Extractor>
+  <Viewer>amarok -s -l '%from%' -p</Viewer>
+  <Ident></Ident>
+  <Secondary>Add to playlist in Amarok:amarok -a '%from%'</Secondary>
+</element>
+<element>
+  <filetype>m4a</filetype>
+  <email></email>
+  <proxy-address></proxy-address>
+  <proxy-port></proxy-port>
+  <proxy></proxy>
+  <annotate></annotate>
+  <maxthreads1></maxthreads1>
+  <maxthreads2></maxthreads2>
+  <iconfolder></iconfolder>
+  <Extractor></Extractor>
+  <Viewer>amarok -s -l '%from%' -p</Viewer>
+  <Ident></Ident>
+  <Secondary>Add to playlist in Amarok:amarok -a '%from%'</Secondary>
+</element>
+<element>
+  <filetype>flac</filetype>
+  <email></email>
+  <proxy-address></proxy-address>
+  <proxy-port></proxy-port>
+  <proxy></proxy>
+  <annotate></annotate>
+  <maxthreads1></maxthreads1>
+  <maxthreads2></maxthreads2>
+  <iconfolder></iconfolder>
+  <Extractor></Extractor>
+  <Viewer>amarok -s -l '%from%' -p</Viewer>
+  <Ident></Ident>
+  <Secondary>Add to playlist in Amarok:amarok -a '%from%'</Secondary>
+</element>
+<element>
+  <filetype>ogg</filetype>
+  <email></email>
+  <proxy-address></proxy-address>
+  <proxy-port></proxy-port>
+  <proxy></proxy>
+  <annotate></annotate>
+  <maxthreads1></maxthreads1>
+  <maxthreads2></maxthreads2>
+  <iconfolder></iconfolder>
+  <Extractor></Extractor>
+  <Viewer>amarok -s -l '%from%' -p</Viewer>
+  <Ident></Ident>
+  <Secondary>Add to playlist in Amarok:amarok -a '%from%'</Secondary>
+</element>
+</celsiusv2.1.configuration>

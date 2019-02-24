@@ -1,0 +1,92 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>004223</id>
+  <cache-id>GC1RDA5</cache-id>
+  <type>Traditional Cache</type>
+  <name>Waterbridge by Eternal Treasure Seekers. , Traditional Cache (1.5/3)</name>
+  <size>Small</size>
+  <difficulty>1.5</difficulty>
+  <terrain>3</terrain>
+  <last-found>2010-05-12</last-found>
+  <placed>2009-05-16</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>Eternal Treasure Seekers. </placedby>
+  <found>Geocache</found>
+  <lat>53.247117</lat>
+  <lon>-6.685767</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>Eternal Treasure Seekers</owner>
+  <description>A nice cache near the Leinster Aquaduct</description>
+  <long-description>The Leinster Aquaduct is the crossing point of the Grand Canal over the river Liffey. Built in 1783 by Richard Evans this architectural feat is a tribute the skill of 18th century workmen. 
+
+
+This is a small cache wrapped in black fabric. Original contents are a pencil, log, and a few small toys. A slippery slope makes this a little difficult.</long-description>
+  <encoded-hints>Look above the danger</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=2ccc155e-430f-4554-90ad-deb9cbdf8cf2</url>
+  <url-name>Waterbridge</url-name>
+  <logs><ul><li>2010-06-13T19:00:00Z : Found it by RosMcC <br />Quick easy find. Took GC to move north. SL Thanks.</li><li>2010-06-09T19:00:00Z : Found it by thomasvm <br />Quick find while in the area. Dropped a GC in, took nothing out. TFCT.</li><li>2010-05-29T19:00:00Z : Found it by BlueFoxPL <br />Another great day for caching... found with some friends. TFTC.</li><li>2010-05-29T19:00:00Z : Found it by Wicca Cailín <br />Eighth find of ten today with Adam. Canal was full of fishermen but luckily they were further down. Easy find. TFTC.</li><li>2010-05-12T19:00:00Z : Found it by st5346 <br />Found this one on my way along the coast in a 2 week vacation in Ireland!
+Very nice place, thanks for sharing this one!</li></ul></logs>
+  <original-xml>  <wpt  lat="53.247117" lon="-6.685767">
+    <time>2009-05-16T07:00:00Z</time>
+    <name>GC1RDA5</name>
+    <desc>Waterbridge by Eternal Treasure Seekers. , Traditional Cache (1.5/3)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=2ccc155e-430f-4554-90ad-deb9cbdf8cf2</url>
+    <urlname>Waterbridge</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1240193" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Waterbridge</groundspeak:name>
+      <groundspeak:placed_by>Eternal Treasure Seekers. </groundspeak:placed_by>
+      <groundspeak:owner id="972796">Eternal Treasure Seekers</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>3</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>Leinster</groundspeak:state>
+      <groundspeak:short_description html="False">A nice cache near the Leinster Aquaduct</groundspeak:short_description>
+      <groundspeak:long_description html="False">The Leinster Aquaduct is the crossing point of the Grand Canal over the river Liffey. Built in 1783 by Richard Evans this architectural feat is a tribute the skill of 18th century workmen. 
+
+
+This is a small cache wrapped in black fabric. Original contents are a pencil, log, and a few small toys. A slippery slope makes this a little difficult.</groundspeak:long_description>
+      <groundspeak:encoded_hints>Look above the danger</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="112743967">
+          <groundspeak:date>2010-06-13T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="774796">RosMcC</groundspeak:finder>
+          <groundspeak:text encoded="False">Quick easy find. Took GC to move north. SL Thanks.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="112239730">
+          <groundspeak:date>2010-06-09T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2849183">thomasvm</groundspeak:finder>
+          <groundspeak:text encoded="False">Quick find while in the area. Dropped a GC in, took nothing out. TFCT.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="113111918">
+          <groundspeak:date>2010-05-29T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3361446">BlueFoxPL</groundspeak:finder>
+          <groundspeak:text encoded="False">Another great day for caching... found with some friends. TFTC.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="110613337">
+          <groundspeak:date>2010-05-29T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3215858">Wicca Cailín</groundspeak:finder>
+          <groundspeak:text encoded="False">Eighth find of ten today with Adam. Canal was full of fishermen but luckily they were further down. Easy find. TFTC.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="109261750">
+          <groundspeak:date>2010-05-12T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1604112">st5346</groundspeak:finder>
+          <groundspeak:text encoded="False">Found this one on my way along the coast in a 2 week vacation in Ireland!
+Very nice place, thanks for sharing this one!</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

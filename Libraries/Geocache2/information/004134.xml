@@ -1,0 +1,176 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>004134</id>
+  <cache-id>GCPVB6</cache-id>
+  <type>Traditional Cache</type>
+  <name>All My Friends by Donnacha, Traditional Cache (1/1.5)</name>
+  <size>Small</size>
+  <difficulty>1</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2009-03-14</last-found>
+  <placed>2005-07-23</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>Donnacha</placedby>
+  <found>Geocache Found</found>
+  <lat>53.166917</lat>
+  <lon>-6.078383</lon>
+  <last-logs>FFFFFF</last-logs>
+  <owner>Donnacha</owner>
+  <description><p align="center"><a target="_blank"
+href="http://www.geocachingireland.com"><img border="0"
+src="http://geocachingireland.com/logo4.jpg" width="328"
+height="53" align="middle" /></a></p>
+<p align="center"><a target="_blank"
+href="http://www.facebook.com/#/group.php?gid=34042039725"><img border="0"
+     src="http://www.geocachingireland.com/facebook_logo_gci.jpg"
+     width="450" height="169" /></a></p></description>
+  <long-description><table border="1" cellpadding="0" cellspacing="0"
+style="border-collapse: collapse; border-width: 0"
+bordercolor="#111111" width="87%" id="AutoNumber1" height="198">
+<tr>
+<td width="72%" style="border-style: none; border-width: medium"
+height="196">Located along the Cliff Walk between Bray And
+Greystones. The 5K walk is one of the
+most<img src="http://img.groundspeak.com/cache/093c232d-7b02-48c6-b08e-48b81080236d.jpg"
+     align="right" width="250" height="185" /> spectacular coastal
+     walks in Ireland and is popular with many walkers. You can
+     approach this cache from either the Bray or Greystones side.
+     If starting from <font color="#008000">Greystones</font>
+     parking is available @ <font color="#008000">N53 09.003 W6
+     03.950</font>. From here the cache is about a 40 minute walk.
+     If starting from <font color="#0000FF">Bray</font>, parking is
+     available @ <font color="#0000FF">N53 11.712 W6 05.335</font>.
+     From here the cache is about a 60 minute walk. Located along
+     the same route is <a target="_blank"
+     href="http://www.geocaching.com/seek/cache_details.aspx?guid=4c97361e-1acc-45aa-86f9-d10e236eeaee">
+Europe's First Cache</a> which is about 3K north of the cache site,
+towards Bray. 
+<p>Care will be needed if children are along for the cache. The
+path is a safe distance from the cliff edge, but there is little or
+no fencing along the edge.</p>
+<p><font color="#FF0000">IT IS IMPORTANT THAT THE CACHE IS
+RE-HIDDEN PROPERLY</font></p>
+<p>&nbsp;</p></td></tr></table>
+<hr size="2" />
+<center><font color="blue">Visit the Geocaching Ireland discussion
+forum <a rel="nofollow" href="http://forums.geocachingireland.com"
+target="_blank">HERE</a></font></center>
+<hr size="2" />
+<br />
+<br /></long-description>
+  <additional-waypoints>P1PVB6 - Parking - Greystones<br />N 53° 09.003 W 006° 03.950<br /><br />P2PVB6 - Parking - Bray<br />N 53° 11.712 W 006° 05.335<br /><br /></additional-waypoints>
+  <links>waypoints:cache-id:P1PVB6|waypoints:cache-id:P2PVB6</links>
+  <encoded-hints>ivy covered tree, little less than head height</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=c0cfc226-d0e3-4e21-be3d-d285b6f6ff3b</url>
+  <url-name>All My Friends</url-name>
+  <logs><ul><li>2010-05-23T19:00:00Z : Found it by Ravenheart <br />Found with Galric and PhantomGuy. TNLN TFTC</li><li>2010-05-21T19:00:00Z : Found it by Elvistones <br />Nice walk :) TFTC</li><li>2010-05-21T19:00:00Z : Found it by Ice Verus <br />thank you</li><li>2010-05-21T19:00:00Z : Found it by Fosy <br />thank you</li><li>2010-05-03T19:00:00Z : Found it by blue_eyes_ie <br />Loved the walk it was such a beautiful day,  TFTC.</li><li>2009-03-14T19:00:00Z : Found it by Kersti.com <br />On a walk from Bray to Greystones with Christian and Anton we stopped to look at this tree. I pulled out the GPS to see how much further we had to go on our trip and ooh look - a cache right here! In hand very quickly. TFTC</li></ul></logs>
+  <original-xml>  <wpt  lat="53.166917" lon="-6.078383">
+    <time>2005-07-23T07:00:00Z</time>
+    <name>GCPVB6</name>
+    <desc>All My Friends by Donnacha, Traditional Cache (1/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=c0cfc226-d0e3-4e21-be3d-d285b6f6ff3b</url>
+    <urlname>All My Friends</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="269615" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>All My Friends</groundspeak:name>
+      <groundspeak:placed_by>Donnacha</groundspeak:placed_by>
+      <groundspeak:owner id="61401">Donnacha</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>Leinster</groundspeak:state>
+      <groundspeak:short_description html="True">&lt;p align="center"&gt;&lt;a target="_blank"
+href="http://www.geocachingireland.com"&gt;&lt;img border="0"
+src="http://geocachingireland.com/logo4.jpg" width="328"
+height="53" align="middle" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p align="center"&gt;&lt;a target="_blank"
+href="http://www.facebook.com/#/group.php?gid=34042039725"&gt;&lt;img border="0"
+     src="http://www.geocachingireland.com/facebook_logo_gci.jpg"
+     width="450" height="169" /&gt;&lt;/a&gt;&lt;/p&gt;</groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;table border="1" cellpadding="0" cellspacing="0"
+style="border-collapse: collapse; border-width: 0"
+bordercolor="#111111" width="87%" id="AutoNumber1" height="198"&gt;
+&lt;tr&gt;
+&lt;td width="72%" style="border-style: none; border-width: medium"
+height="196"&gt;Located along the Cliff Walk between Bray And
+Greystones. The 5K walk is one of the
+most&lt;img src="http://img.groundspeak.com/cache/093c232d-7b02-48c6-b08e-48b81080236d.jpg"
+     align="right" width="250" height="185" /&gt; spectacular coastal
+     walks in Ireland and is popular with many walkers. You can
+     approach this cache from either the Bray or Greystones side.
+     If starting from &lt;font color="#008000"&gt;Greystones&lt;/font&gt;
+     parking is available @ &lt;font color="#008000"&gt;N53 09.003 W6
+     03.950&lt;/font&gt;. From here the cache is about a 40 minute walk.
+     If starting from &lt;font color="#0000FF"&gt;Bray&lt;/font&gt;, parking is
+     available @ &lt;font color="#0000FF"&gt;N53 11.712 W6 05.335&lt;/font&gt;.
+     From here the cache is about a 60 minute walk. Located along
+     the same route is &lt;a target="_blank"
+     href="http://www.geocaching.com/seek/cache_details.aspx?guid=4c97361e-1acc-45aa-86f9-d10e236eeaee"&gt;
+Europe's First Cache&lt;/a&gt; which is about 3K north of the cache site,
+towards Bray. 
+&lt;p&gt;Care will be needed if children are along for the cache. The
+path is a safe distance from the cliff edge, but there is little or
+no fencing along the edge.&lt;/p&gt;
+&lt;p&gt;&lt;font color="#FF0000"&gt;IT IS IMPORTANT THAT THE CACHE IS
+RE-HIDDEN PROPERLY&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;hr size="2" /&gt;
+&lt;center&gt;&lt;font color="blue"&gt;Visit the Geocaching Ireland discussion
+forum &lt;a rel="nofollow" href="http://forums.geocachingireland.com"
+target="_blank"&gt;HERE&lt;/a&gt;&lt;/font&gt;&lt;/center&gt;
+&lt;hr size="2" /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;p&gt;Additional Waypoints&lt;/p&gt;P1PVB6 - Parking - Greystones&lt;br /&gt;N 53° 09.003 W 006° 03.950&lt;br /&gt;&lt;br /&gt;P2PVB6 - Parking - Bray&lt;br /&gt;N 53° 11.712 W 006° 05.335&lt;br /&gt;&lt;br /&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>ivy covered tree, little less than head height</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="109997859">
+          <groundspeak:date>2010-05-23T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="919389">Ravenheart</groundspeak:finder>
+          <groundspeak:text encoded="False">Found with Galric and PhantomGuy. TNLN TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="110158068">
+          <groundspeak:date>2010-05-21T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2305402">Elvistones</groundspeak:finder>
+          <groundspeak:text encoded="False">Nice walk :) TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="109619959">
+          <groundspeak:date>2010-05-21T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3324753">Ice Verus</groundspeak:finder>
+          <groundspeak:text encoded="False">thank you</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="109616603">
+          <groundspeak:date>2010-05-21T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2289398">Fosy</groundspeak:finder>
+          <groundspeak:text encoded="False">thank you</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="108842149">
+          <groundspeak:date>2010-05-03T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3164260">blue_eyes_ie</groundspeak:finder>
+          <groundspeak:text encoded="False">Loved the walk it was such a beautiful day,  TFTC.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="64585400">
+          <groundspeak:date>2009-03-14T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="320206">Kersti.com</groundspeak:finder>
+          <groundspeak:text encoded="False">On a walk from Bray to Greystones with Christian and Anton we stopped to look at this tree. I pulled out the GPS to see how much further we had to go on our trip and ooh look - a cache right here! In hand very quickly. TFTC</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs>
+        <groundspeak:travelbug id="2195426" ref="TB2TFA4">
+          <groundspeak:name>Travel Bug from Rheden</groundspeak:name>
+        </groundspeak:travelbug>
+      </groundspeak:travelbugs>
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

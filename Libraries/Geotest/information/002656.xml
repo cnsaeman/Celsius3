@@ -1,0 +1,112 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>002656</id>
+  <cache-id>GCNKKV</cache-id>
+  <type>Multi-cache</type>
+  <name>Wasserhaus Dipperz mit Kletterbaum by Salex909, Multi-cache (2/4)</name>
+  <size>Micro</size>
+  <difficulty>2</difficulty>
+  <terrain>4</terrain>
+  <last-found>2009-11-20</last-found>
+  <placed>2005-04-23</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Salex909</placedby>
+  <found>Geocache</found>
+  <lat>50.52955</lat>
+  <lon>9.805433</lon>
+  <last-logs>FFF</last-logs>
+  <owner>Salex909</owner>
+  <description>
+      </description>
+  <long-description>Bei den oben angegebenen Koordinaten findet ihr das Wasserhaus. Geht von diesem Punkt 100 Meter in Richtung 217° (etwa Südwest). Hier findet ihr einen Kletterbaum, in dem eine Filmdose versteckt ist. Bitte bringt einen Stift zum Loggen mit!
+
+Viel Spaß!
+Annika und Sascha</long-description>
+  <encoded-hints>
+      </encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=0b5e008e-e97b-4a16-a00e-450e0a98fa26</url>
+  <url-name>Wasserhaus Dipperz mit Kletterbaum</url-name>
+  <logs><ul><li>2010-04-02T18:21:41Z : Needs Maintenance by al_bundy_hessen <br />Jede Stelle am und um den Baum herum habe ich abgesucht, [:(]
+aber das Döschen liess sich einfach nicht finden... [V]
+Da muss der Owner unbedingt mal nachschauen! [|)]
+Viele Grüsse von [i][b][red]al[/red][white]_[/white][blue]bundy[/blue][white]_[/white][green]hessen[/green][/b][/i]
+</li><li>2010-02-14T11:12:39Z : Needs Maintenance by Maluma <br />Auch wir haben hier nix gefunden...Haben sogar das Eis mit dem kleinen Brenner gemschmolzen.
+Bevor nun noch mehr Personen umsonst da hin fahren auf Maintenance gesetzt
+Vielleicht kümmert sich der Owner nun mal drum...
+Denke die Eichhörnchen haben das Ding gemopst.... [:)]</li><li>2009-11-29T20:00:00Z : Found it by islandjana <br />zusammen mit anderen cachern schnell gefunden 
+TFTC islandjana
+</li><li>2009-11-21T20:00:00Z : Found it by f.etcher <br />Der Baum war schnell gefunden ich ich schnell in der zweiten Etage des Baumes. TFTC, f.etcher</li><li>2009-11-20T20:00:00Z : Found it by HappyButtercup <br />Mit hungry.knight auf einer kleinen Cachetour schnell gefunden. TFTC!</li></ul></logs>
+  <original-xml>  <wpt  lat="50.52955" lon="9.805433">
+    <time>2005-04-23T07:00:00Z</time>
+    <name>GCNKKV</name>
+    <desc>Wasserhaus Dipperz mit Kletterbaum by Salex909, Multi-cache (2/4)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=0b5e008e-e97b-4a16-a00e-450e0a98fa26</url>
+    <urlname>Wasserhaus Dipperz mit Kletterbaum</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Multi-cache</type>
+    <groundspeak:cache id="233365" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Wasserhaus Dipperz mit Kletterbaum</groundspeak:name>
+      <groundspeak:placed_by>Salex909</groundspeak:placed_by>
+      <groundspeak:owner id="299287">Salex909</groundspeak:owner>
+      <groundspeak:type>Multi-cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>2</groundspeak:difficulty>
+      <groundspeak:terrain>4</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">
+      </groundspeak:short_description>
+      <groundspeak:long_description html="False">Bei den oben angegebenen Koordinaten findet ihr das Wasserhaus. Geht von diesem Punkt 100 Meter in Richtung 217° (etwa Südwest). Hier findet ihr einen Kletterbaum, in dem eine Filmdose versteckt ist. Bitte bringt einen Stift zum Loggen mit!
+
+Viel Spaß!
+Annika und Sascha</groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="102057293">
+          <groundspeak:date>2010-04-02T18:21:41Z</groundspeak:date>
+          <groundspeak:type>Needs Maintenance</groundspeak:type>
+          <groundspeak:finder id="878351">al_bundy_hessen</groundspeak:finder>
+          <groundspeak:text encoded="False">Jede Stelle am und um den Baum herum habe ich abgesucht, [:(]
+aber das Döschen liess sich einfach nicht finden... [V]
+Da muss der Owner unbedingt mal nachschauen! [|)]
+Viele Grüsse von [i][b][red]al[/red][white]_[/white][blue]bundy[/blue][white]_[/white][green]hessen[/green][/b][/i]
+</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="97242649">
+          <groundspeak:date>2010-02-14T11:12:39Z</groundspeak:date>
+          <groundspeak:type>Needs Maintenance</groundspeak:type>
+          <groundspeak:finder id="1380311">Maluma</groundspeak:finder>
+          <groundspeak:text encoded="False">Auch wir haben hier nix gefunden...Haben sogar das Eis mit dem kleinen Brenner gemschmolzen.
+Bevor nun noch mehr Personen umsonst da hin fahren auf Maintenance gesetzt
+Vielleicht kümmert sich der Owner nun mal drum...
+Denke die Eichhörnchen haben das Ding gemopst.... [:)]</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="91906126">
+          <groundspeak:date>2009-11-29T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2317392">islandjana</groundspeak:finder>
+          <groundspeak:text encoded="False">zusammen mit anderen cachern schnell gefunden 
+TFTC islandjana
+</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="90970607">
+          <groundspeak:date>2009-11-21T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1498819">f.etcher</groundspeak:finder>
+          <groundspeak:text encoded="False">Der Baum war schnell gefunden ich ich schnell in der zweiten Etage des Baumes. TFTC, f.etcher</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="93536567">
+          <groundspeak:date>2009-11-20T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2472104">HappyButtercup</groundspeak:finder>
+          <groundspeak:text encoded="False">Mit hungry.knight auf einer kleinen Cachetour schnell gefunden. TFTC!</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>009623</id>
+  <cache-id>05M7R6</cache-id>
+  <type>Waypoint</type>
+  <name>Stage 05</name>
+  <placed>2008-08-18</placed>
+  <lat>53.348633</lat>
+  <lon>-6.25875</lon>
+  <attributes>hidden</attributes>
+  <description></description>
+  <url>http://www.geocaching.com/seek/wpt.aspx?WID=2c4b481a-a642-4b59-933f-d95f8dc0f0db</url>
+  <url-name>Stage 05</url-name>
+</element>
+</celsiusv2.1.addinfofile>

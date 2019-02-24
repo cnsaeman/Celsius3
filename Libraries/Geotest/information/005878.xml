@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>005878</id>
+  <cache-id>GC1X04K</cache-id>
+  <type>Traditional Cache</type>
+  <name>Am Waldkapellchen by Zaunwindröschen, Traditional Cache (1.5/1.5)</name>
+  <size>Micro</size>
+  <difficulty>1.5</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-09-23</last-found>
+  <placed>2009-08-08</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Zaunwindröschen</placedby>
+  <found>Geocache</found>
+  <lat>50.604517</lat>
+  <lon>9.819067</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>zaunwindröschen</owner>
+  <description>
+      </description>
+  <long-description>Microcache an einer kleinen Kapelle am Waldrand in der Nähe von Allmus. Parken kann man bei N 50°35.913 E 009°48.950 einfach neben dem Feldweg. Bis zum Cache ist es dann noch ein Fußweg von ca. 1 km. 
+
+Microcache at a small chapel on the edge of the forest near the village Allmus. You can park at N 50°35.913 E 009°48.950 simply beside the field path. To the cache you have to walk about 1 km.</long-description>
+  <encoded-hints>gegenüber des Herzens
+opposite to the heart</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=fc6d3b7c-83f2-451d-8a1a-a314bab724d3</url>
+  <url-name>Am Waldkapellchen</url-name>
+  <logs><ul><li>2010-11-14T20:00:00Z : Found it by Mogeli <br />Mein erster gefundener Cache :-) kleiner Ausflug mit der Familie...</li><li>2010-10-22T22:22:40Z : Found it by geezie <br />Nach Anlaufschwierigkeiten auch gefunden. </li><li>2010-10-14T19:00:00Z : Found it by Riesemils <br />Wohne ganz in der Nähe, habe aber nicht gewusst das dort eine Kapelle steht. Schöner Platz.</li><li>2010-09-26T19:00:00Z : Found it by sema2505 <br />Vielen Dank fürs Verstecken und Zeigen!!Sehr, sehr hübsches Kapellchen:-) Wir wollten die Suche gerade aufgeben, als wir zuerst den Cache und dann den Hint gefunden haben :-D
+TFTC</li><li>2010-09-23T19:00:00Z : Found it by S***T <br />Heute nach laaaanger Radtour ging mir zwar langsam das Wasser und die Puste aus, aber den kleinen Umweg habe ich bei dem schönen Wetter noch geschafft ;-)</li></ul></logs>
+  <original-xml>  <wpt  lat="50.604517" lon="9.819067">
+    <time>2009-08-08T07:00:00Z</time>
+    <name>GC1X04K</name>
+    <desc>Am Waldkapellchen by Zaunwindröschen, Traditional Cache (1.5/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=fc6d3b7c-83f2-451d-8a1a-a314bab724d3</url>
+    <urlname>Am Waldkapellchen</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1346692" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Am Waldkapellchen</groundspeak:name>
+      <groundspeak:placed_by>Zaunwindröschen</groundspeak:placed_by>
+      <groundspeak:owner id="2252055">zaunwindröschen</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">
+      </groundspeak:short_description>
+      <groundspeak:long_description html="False">Microcache an einer kleinen Kapelle am Waldrand in der Nähe von Allmus. Parken kann man bei N 50°35.913 E 009°48.950 einfach neben dem Feldweg. Bis zum Cache ist es dann noch ein Fußweg von ca. 1 km. 
+
+Microcache at a small chapel on the edge of the forest near the village Allmus. You can park at N 50°35.913 E 009°48.950 simply beside the field path. To the cache you have to walk about 1 km.</groundspeak:long_description>
+      <groundspeak:encoded_hints>gegenüber des Herzens
+opposite to the heart</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="135744905">
+          <groundspeak:date>2010-11-14T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3973786">Mogeli</groundspeak:finder>
+          <groundspeak:text encoded="False">Mein erster gefundener Cache :-) kleiner Ausflug mit der Familie...</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="132510929">
+          <groundspeak:date>2010-10-22T22:22:40Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3881127">geezie</groundspeak:finder>
+          <groundspeak:text encoded="False">Nach Anlaufschwierigkeiten auch gefunden. </groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="131314093">
+          <groundspeak:date>2010-10-14T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3881223">Riesemils</groundspeak:finder>
+          <groundspeak:text encoded="False">Wohne ganz in der Nähe, habe aber nicht gewusst das dort eine Kapelle steht. Schöner Platz.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="128721660">
+          <groundspeak:date>2010-09-26T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3665179">sema2505</groundspeak:finder>
+          <groundspeak:text encoded="False">Vielen Dank fürs Verstecken und Zeigen!!Sehr, sehr hübsches Kapellchen:-) Wir wollten die Suche gerade aufgeben, als wir zuerst den Cache und dann den Hint gefunden haben :-D
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="128118367">
+          <groundspeak:date>2010-09-23T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1894990">S***T</groundspeak:finder>
+          <groundspeak:text encoded="False">Heute nach laaaanger Radtour ging mir zwar langsam das Wasser und die Puste aus, aber den kleinen Umweg habe ich bei dem schönen Wetter noch geschafft ;-)</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

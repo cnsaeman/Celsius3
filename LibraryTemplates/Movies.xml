@@ -1,0 +1,129 @@
+<?xml version="1.0"?>
+<celsiusv2.2.librarytemplates>
+<element>
+  <name>Movies</name>
+  <index>title|year|rating|people</index>
+  <tablecolumns>title|year|rating</tablecolumns>
+  <columnheaders>Title|Year|Rating</columnheaders>
+  <columntypes>symbol|text|people</columntypes>
+  <columnsizes>781|-91|-91</columnsizes>
+  <autosortcolumn>1</autosortcolumn>
+  <people>people|director|writers|cast</people>
+  <plugins-manual>Look at IMDB</plugins-manual>
+  <plugins-auto></plugins-auto>
+  <plugins-export></plugins-export>
+  <filetypes>avi|mpg|mkv|mp4|m4v</filetypes>
+  <searchtags>title|director|cast|writers|tagline|plot</searchtags>
+  <hide>MenuItem:Set my location to current item's location|Menu:Bibliography|Tab:Bibliography|Tab:Search|Tab:Thumbnail|Import:BibTeX</hide>
+  <essential-fields>title</essential-fields>
+  <differentiating-fields>title|year</differentiating-fields>
+  <item-representation>"#title#" (#year#)</item-representation>
+  <naming-convention>#title# [#year#].#filetype#</naming-convention>
+  <choice-fields></choice-fields>
+  <icon-fields></icon-fields>
+  <item-folder>LD::documents</item-folder>
+  <infoMode-0><html>
+<body>
+<table width='100%'>
+<tr>
+<td valign='top'>
+<h2>#title#</h2>
+<b>Rating: #rating#</b>&nbsp;&nbsp;<a href="http://www.imdb.org/title/#imdb-id#">IMDB-link</a><br>
+<b>Release date:</b> #release date#&nbsp;<br>
+<b>Genre:</b> #genre#<br>
+#if#tagline#<b>Tag line:</b> #tagline#<br>
+<b>Plot:</b> #plot#<br>
+<b>Director:</b> #director&3#<br>
+<b>Writers:</b> #writers&3#<br>
+<h4>Cast:</h4> #cast&3#<br>
+<h3>Celsius related information</h3>
+ID: #id#
+#if#recognition#, recognition level: #recognition#
+</td><td valign='top'>
+#if#thumbnail#<img src='file:#$thumbnail#'>
+</td></tr>
+</table>
+</body>
+</html></infoMode-0>
+  <infoMode-1><html><body>
+<h2>#person#</h2>
+<hr>
+<br>
+This person was involved in #currentitems# movies in the library.<br>
+<br>
+#if#homepage# <a href="#homepage#">Homepage</a>&nbsp;
+#if#email# #email#&nbsp;
+<br><br>
+<b>Collaborators:</b><br>
+#collaborators#
+#if#remarks# <br><br><b>Remarks:</b><br>#remarks#</body></html></infoMode-1>
+  <infoMode-2><html><body>
+<h2>#category#</h2>
+<hr>
+<br>
+In this category: #currentitems# movies in the library.<br>
+</body></html></infoMode-2>
+  <infoMode-3><html><body>
+<h2>Multiple movies selected</h2>
+<hr>
+<br>
+In this selection: #currentitems# movies.<br>
+</body></html></infoMode-3>
+  <infoMode-4><html><body>
+<h2>Keyword Search</h2>
+<hr>
+<br>
+In these search results: #currentitems# movies in the library.<br>
+</body></html></infoMode-4>
+  <infoMode-5><html><body>
+<h2>General Search</h2>
+<hr>
+<br>
+In these search results: #currentitems# movies in the library.<br>
+</body></html></infoMode-5>
+  <infoMode-6><html><body>
+<h2>Keyword Search</h2>
+<hr>
+<br>
+In these search results: #currentitems# movies in the library.<br>
+</body></html></infoMode-6>
+  <infoMode-7><html><body>
+<h2>Links</h2>
+<hr>
+<br>
+Links of this type: #currentitems# movies in the library.<br>
+</body></html></infoMode-7>
+  <stylesheet>##??java.lang.NullPointerException</stylesheet>
+  <librarystructure><?xml version='1.0'?>
+<menu title="Library">
+    <menu title="Horror"/>
+    <menu title="Sci-Fi">
+        <menu title="Star Wars"/>
+        <menu title="Aliens"/>
+    </menu>
+    <menu title="Thriller"/>
+    <menu title="Crime"/>
+    <menu title="Action"/>
+    <menu title="Adventure">
+        <menu title="Indiana Jones"/>
+        <menu title="Jurrasic Park"/>
+        <menu title="James Bond"/>
+    </menu>
+    <menu title="Comedy"/>
+    <menu title="Drama"/>
+    <menu title="Mystery"/>
+    <menu title="Romance"/>
+    <menu title="Fantasy"/>
+    <menu title="Documentary"/>
+    <menu title="History"/>
+    <menu title="By Languages">
+        <menu title="German"/>
+        <menu title="French"/>
+    </menu>
+</menu>
+</librarystructure>
+  <libraryrules><?xml version='1.0'?>
+<rules/>
+</libraryrules>
+</element>
+</celsiusv2.2.librarytemplates>

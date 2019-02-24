@@ -1,0 +1,114 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>000665</id>
+  <cache-id>GC1EA7J</cache-id>
+  <type>Multi-cache</type>
+  <name>SOS by Ubx, Multi-cache (1.5/2)</name>
+  <size>Small</size>
+  <difficulty>1.5</difficulty>
+  <terrain>2</terrain>
+  <last-found>2010-09-17</last-found>
+  <placed>2008-07-18</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Ubx</placedby>
+  <found>Geocache</found>
+  <lat>50.54415</lat>
+  <lon>9.563433</lon>
+  <last-logs>EDF</last-logs>
+  <owner>ubx</owner>
+  <description>Drei in einer Reihe. 2. von 3 ( geändertes Versteck )</description>
+  <long-description>Einige Meter von der Notrufsäule entfernt steht eine sehr alte Steinsäule. Auf der Rückseite !! ( 17?? ) steht eine Jahreszahl. Die letzten beiden Ziffern ergeben die Zahl=B. 
+rechnet B - 58 = C
+rechnet B - 21 = D
+
+für den N-Wert 50.32. // 649 + C //
+für den E-Wert 09.33. // 806 + D //
+
+Additional Waypoints
+PK1EA7J - parken
+N 50° 32.633 E 009° 33.814
+
+</long-description>
+  <encoded-hints>Baumstumpf</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=8c7e0cf5-f33d-49b5-9424-000d33ce7dea</url>
+  <url-name>SOS</url-name>
+  <logs><ul><li>2010-12-06T18:42:40Z : Enable Listing by ubx <br />neue Dose und neuer leicht geänderter Finalort</li><li>2010-11-22T16:30:49Z : Temporarily Disable Listing by ubx <br />muss mal alles neu machen , bis dann alles wieder passt, kanns etwas dauern.</li><li>2010-11-21T12:09:22Z : Needs Archived by schwap <br />Hier tut sich seit mitte september anscheinend nichts mehr. wir haben auch nichts gefunden. daher sollte im sinne aller über eine archivierung nachgedacht werden.</li><li>2010-09-17T20:10:08Z : Needs Maintenance by nickneck <br />Cache ist in einem schlechten Zustand. Die Tüte und die Dose sind kaputt. Es dringt Feuchtigkeit ein. Das Buch schimmelt schon. Bitte warten. </li><li>2010-09-17T20:09:24Z : Found it by nickneck <br />Erst im 2. Anlauf gefunden. Hatte die Säule erst nicht gesehen. 
+Cache ist in einem schlechten Zustand. Die Tüte und die Dose sind kaputt. Es dringt Feuchtigkeit ein. Das Buch schimmelt schon. Bitte warten. 
+Tftc nickneck </li></ul></logs>
+  <original-xml>  <wpt  lat="50.54415" lon="9.563433">
+    <time>2008-07-18T07:00:00Z</time>
+    <name>GC1EA7J</name>
+    <desc>SOS by Ubx, Multi-cache (1.5/2)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=8c7e0cf5-f33d-49b5-9424-000d33ce7dea</url>
+    <urlname>SOS</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Multi-cache</type>
+    <groundspeak:cache id="939320" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>SOS</groundspeak:name>
+      <groundspeak:placed_by>Ubx</groundspeak:placed_by>
+      <groundspeak:owner id="787613">ubx</groundspeak:owner>
+      <groundspeak:type>Multi-cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>2</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">Drei in einer Reihe. 2. von 3 ( geändertes Versteck )</groundspeak:short_description>
+      <groundspeak:long_description html="False">Einige Meter von der Notrufsäule entfernt steht eine sehr alte Steinsäule. Auf der Rückseite !! ( 17?? ) steht eine Jahreszahl. Die letzten beiden Ziffern ergeben die Zahl=B. 
+rechnet B - 58 = C
+rechnet B - 21 = D
+
+für den N-Wert 50.32. // 649 + C //
+für den E-Wert 09.33. // 806 + D //
+
+Additional Waypoints
+PK1EA7J - parken
+N 50° 32.633 E 009° 33.814
+
+</groundspeak:long_description>
+      <groundspeak:encoded_hints>Baumstumpf</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="138047600">
+          <groundspeak:date>2010-12-06T18:42:40Z</groundspeak:date>
+          <groundspeak:type>Enable Listing</groundspeak:type>
+          <groundspeak:finder id="787613">ubx</groundspeak:finder>
+          <groundspeak:text encoded="False">neue Dose und neuer leicht geänderter Finalort</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="136821427">
+          <groundspeak:date>2010-11-22T16:30:49Z</groundspeak:date>
+          <groundspeak:type>Temporarily Disable Listing</groundspeak:type>
+          <groundspeak:finder id="787613">ubx</groundspeak:finder>
+          <groundspeak:text encoded="False">muss mal alles neu machen , bis dann alles wieder passt, kanns etwas dauern.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="136590655">
+          <groundspeak:date>2010-11-21T12:09:22Z</groundspeak:date>
+          <groundspeak:type>Needs Archived</groundspeak:type>
+          <groundspeak:finder id="3060114">schwap</groundspeak:finder>
+          <groundspeak:text encoded="False">Hier tut sich seit mitte september anscheinend nichts mehr. wir haben auch nichts gefunden. daher sollte im sinne aller über eine archivierung nachgedacht werden.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="127188731">
+          <groundspeak:date>2010-09-17T20:10:08Z</groundspeak:date>
+          <groundspeak:type>Needs Maintenance</groundspeak:type>
+          <groundspeak:finder id="2463372">nickneck</groundspeak:finder>
+          <groundspeak:text encoded="False">Cache ist in einem schlechten Zustand. Die Tüte und die Dose sind kaputt. Es dringt Feuchtigkeit ein. Das Buch schimmelt schon. Bitte warten. </groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="127188730">
+          <groundspeak:date>2010-09-17T20:09:24Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2463372">nickneck</groundspeak:finder>
+          <groundspeak:text encoded="False">Erst im 2. Anlauf gefunden. Hatte die Säule erst nicht gesehen. 
+Cache ist in einem schlechten Zustand. Die Tüte und die Dose sind kaputt. Es dringt Feuchtigkeit ein. Das Buch schimmelt schon. Bitte warten. 
+Tftc nickneck </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs>
+        <groundspeak:travelbug id="498393" ref="TBZGD4">
+          <groundspeak:name>#4FARVE Take me home to Mississippi</groundspeak:name>
+        </groundspeak:travelbug>
+      </groundspeak:travelbugs>
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

@@ -1,0 +1,140 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>000966</id>
+  <cache-id>GC27MYT</cache-id>
+  <type>Unknown Cache</type>
+  <name>1. Schulstunde: Spiel und Spaß by f.etcher, Unknown Cache (2.5/2)</name>
+  <size>Micro</size>
+  <difficulty>2.5</difficulty>
+  <terrain>2</terrain>
+  <last-found>2010-09-12</last-found>
+  <placed>2010-05-01</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>f.etcher</placedby>
+  <found>Geocache</found>
+  <lat>50.513417</lat>
+  <lon>9.76225</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>f.etcher</owner>
+  <description>
+      </description>
+  <long-description>1.Schulstunde: Spiel und Spaß
+
+Um an der 1. Schulstunde teilnehmen zu können, müsst ihr zunächst den Einschulungsstest bestehen und im Klassenzimmer erscheinen. Vor Ort müsst ihr dann die 1. Klausur zum Thema Spiel und Spaß „schreiben“. 
+
+Um den Spaß und die Herausforderung zu vergrößern, würde ich empfehlen die Klausur vor Ort zu schreiben. Ihr findet diese im Cache "Einschulungstest". Da dieser cache sonst aber nicht freigeschaltet wird, folgt hier die Aufgabe. Wer also die kleine Herausforderung annehmen und vor Ort lösen möchte, sollte nicht weiterlesen.
+
+Fünf normale sechsseitige Würfel seien willkürlich übereinander gestapelt. 
+Die Augenzahl der obersten Seite des oben liegenden Würfels beträgt 2. 
+Wie viele Augen sind insgesamt sichtbar?
+N50°30.(Anzahl der Augen*9)-3  E009°45.(Anzahl der Augen*9)-1
+
+1. Lesson: game and fun
+
+To find the cache you have to answer the following question:
+Five normal hexagonal dices lying upon another. The eyes of of the dice on the top is 16. 
+How much eyes can you see?
+N50°30(number of the eyes*9)-3 E009°45.(number of the eyes*9)-1
+
+Additional Waypoints
+1S27MYT - 1. Schulstunde
+N/S  __ ° __ . ___ W/E ___ ° __ . ___ 
+
+</long-description>
+  <encoded-hints>
+      </encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=6b219ad7-a697-47b3-8089-55d67fb67e89</url>
+  <url-name>1. Schulstunde: Spiel und Spaß</url-name>
+  <logs><ul><li>2010-10-11T19:00:00Z : Found it by Maluma <br />Heute bei bestem Wetter zusammen mit HubiFD gelöst und gefunden
+
+TFTC MALUMA</li><li>2010-10-09T19:00:00Z : Found it by Camuvlash <br />Tolle Idee ^^
+TFTC</li><li>2010-09-21T19:00:00Z : Found it by Dagosch <br />Mit Spiel, Spaß und "Verstecken" geht der Unterricht ganz locker!
+Danke sagt Dagosch</li><li>2010-09-21T19:00:00Z : Found it by Mamomi-1 <br />Die 1. Schulstunde war ganz schnell rum, da das Döschen ruck zuck gefunden war.</li><li>2010-09-12T19:00:00Z : Found it by snefnug <br />zusammen mir morger hab ich diese runde absolviert. auch wenn die schulzeit schon etwas her ist, konnten wir alle caches gut meistern. vielen dank für den schönen spaziergang.</li></ul></logs>
+  <original-xml>  <wpt  lat="50.513417" lon="9.76225">
+    <time>2010-05-01T07:00:00Z</time>
+    <name>GC27MYT</name>
+    <desc>1. Schulstunde: Spiel und Spaß by f.etcher, Unknown Cache (2.5/2)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=6b219ad7-a697-47b3-8089-55d67fb67e89</url>
+    <urlname>1. Schulstunde: Spiel und Spaß</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Unknown Cache</type>
+    <groundspeak:cache id="1664603" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>1. Schulstunde: Spiel und Spaß</groundspeak:name>
+      <groundspeak:placed_by>f.etcher</groundspeak:placed_by>
+      <groundspeak:owner id="1498819">f.etcher</groundspeak:owner>
+      <groundspeak:type>Unknown Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>2.5</groundspeak:difficulty>
+      <groundspeak:terrain>2</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">
+      </groundspeak:short_description>
+      <groundspeak:long_description html="False">1.Schulstunde: Spiel und Spaß
+
+Um an der 1. Schulstunde teilnehmen zu können, müsst ihr zunächst den Einschulungsstest bestehen und im Klassenzimmer erscheinen. Vor Ort müsst ihr dann die 1. Klausur zum Thema Spiel und Spaß „schreiben“. 
+
+Um den Spaß und die Herausforderung zu vergrößern, würde ich empfehlen die Klausur vor Ort zu schreiben. Ihr findet diese im Cache "Einschulungstest". Da dieser cache sonst aber nicht freigeschaltet wird, folgt hier die Aufgabe. Wer also die kleine Herausforderung annehmen und vor Ort lösen möchte, sollte nicht weiterlesen.
+
+Fünf normale sechsseitige Würfel seien willkürlich übereinander gestapelt. 
+Die Augenzahl der obersten Seite des oben liegenden Würfels beträgt 2. 
+Wie viele Augen sind insgesamt sichtbar?
+N50°30.(Anzahl der Augen*9)-3  E009°45.(Anzahl der Augen*9)-1
+
+1. Lesson: game and fun
+
+To find the cache you have to answer the following question:
+Five normal hexagonal dices lying upon another. The eyes of of the dice on the top is 16. 
+How much eyes can you see?
+N50°30(number of the eyes*9)-3 E009°45.(number of the eyes*9)-1
+
+Additional Waypoints
+1S27MYT - 1. Schulstunde
+N/S  __ ° __ . ___ W/E ___ ° __ . ___ 
+
+</groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="130895032">
+          <groundspeak:date>2010-10-11T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1380311">Maluma</groundspeak:finder>
+          <groundspeak:text encoded="False">Heute bei bestem Wetter zusammen mit HubiFD gelöst und gefunden
+
+TFTC MALUMA</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="130306443">
+          <groundspeak:date>2010-10-09T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2724623">Camuvlash</groundspeak:finder>
+          <groundspeak:text encoded="False">Tolle Idee ^^
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="127917797">
+          <groundspeak:date>2010-09-21T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="374782">Dagosch</groundspeak:finder>
+          <groundspeak:text encoded="False">Mit Spiel, Spaß und "Verstecken" geht der Unterricht ganz locker!
+Danke sagt Dagosch</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="127894581">
+          <groundspeak:date>2010-09-21T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="275727">Mamomi-1</groundspeak:finder>
+          <groundspeak:text encoded="False">Die 1. Schulstunde war ganz schnell rum, da das Döschen ruck zuck gefunden war.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="126945165">
+          <groundspeak:date>2010-09-12T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2600711">snefnug</groundspeak:finder>
+          <groundspeak:text encoded="False">zusammen mir morger hab ich diese runde absolviert. auch wenn die schulzeit schon etwas her ist, konnten wir alle caches gut meistern. vielen dank für den schönen spaziergang.</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

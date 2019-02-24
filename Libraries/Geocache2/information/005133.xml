@@ -1,0 +1,184 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>005133</id>
+  <cache-id>GC2A8PF</cache-id>
+  <type>Multi-cache</type>
+  <name>Chapel of Mone by Fitzet, Multi-cache (1/1)</name>
+  <size>Small</size>
+  <difficulty>1</difficulty>
+  <terrain>1</terrain>
+  <last-found>2010-06-15</last-found>
+  <placed>2010-06-14</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>Fitzet</placedby>
+  <found>Geocache</found>
+  <lat>53.387383</lat>
+  <lon>-6.13335</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>Fitzet</owner>
+  <description><img src=
+"http://img.geocaching.com/cache/02d75fcd-c246-4bb9-83ad-603ae001251a.jpg" />
+You will find the starting point for this simple multi-cache in old
+Kilbarrack graveyard located along the coast road.</description>
+  <long-description><p>The following description of the location comes from the
+Kilbarrack Parish Website: &lsquo;The ruins of a 13th century
+church stand on the site today on the seafront between Clontarf and
+Howth. It was later a mariners' Church, where sailors came to give
+thanks for a safe voyage and to bury their dead. It may also have
+been a haven for shipwrecked sailors.&rsquo;</p>
+<p>The churchyard adjoining is chiefly notable as the burying-place
+of Francis Higgins, called from an early incident in his career the
+Sham Squire. He was a somewhat unscrupulous adventurer who managed
+to obtain a questionable political prominence in Dublin in the last
+troubled years of the eighteenth century. Another resident of the
+graveyard is Gaelic League and Irish Volunteers founder Eoin
+MacNeill.</p>
+<p>The location is mentioned by Brendan Behan in Borstal Boy
+&lsquo;So many belonging to me lay buried in Kilbarrack, the
+healthiest graveyard in Ireland, they said, because it is so close
+to the sea...&rsquo;</p>
+<p>The Topographical Dictionary of Ireland from 1837 describes it
+as &lsquo;unfenced and overgrown with weeds&rsquo; a description
+that is still somewhat accurate today. The church is noted in some
+records as the Chapel of Mone.</p>
+<p>The cache is a small size lock and lock container located away
+from the graveyard at stage 2. Be aware that getting to stage 2
+involves crossing a very busy road so use the pedestrian crossings
+if accompanied by small children. It is in a highly muggled area so
+please take great care retrieving and replacing the cache.</p>
+<p>Bus routes along the coast road are the 31, 31b, 32a and 32/b.
+The cache is about a 15 minute walk from Bayside dart station.</p>
+<p><strong>Stage 1:</strong> N 53 23.243 W 006 08.001 Look for
+Rosetta&rsquo;s gravestone. Call her date of birth ABCD and her
+date of death EFGH.</p>
+Use the letters you worked out above in following equation to
+calculate the final co-ordinates:
+<p>N 53 ((B*C)+D).(A+E)((B+D+H)*(A+G)) W 06 0D.F0E</p>
+<p><strong>Final Stage:</strong> At stage 2 look for a sign written
+at your feet. The number of letters in the second word will give
+you the number of steps down you need to go to find the cache.</p></long-description>
+  <additional-waypoints>A12A8PF - Stage 1<br />N 53° 23.243 W 006° 08.001<br />Look for Rosetta’s gravestone.  
+
+Call her date of birth ABCD and her date of death EFGH.
+Calculate the stage 2 co-ordinates using this equation.
+
+
+N 53 ((B*C)+D).(A+E)((B+D+H)*(A+G))
+W 06 0D.F0E<br />FL2A8PF - Final Location<br />N/S  __ ° __ . ___ W/E ___ ° __ . ___ <br />At the final co-ordinates look for a sign written at your feet.  The number of letters in the second word will give you the number of steps down you need to go to find the cache.<br />PK2A8PF - Nearby Parking<br />N 53° 23.300 W 006° 07.770<br />Parking is available at Sutton Park, a nearby residential area.<br /></additional-waypoints>
+  <links>waypoints:cache-id:A12A8PF|waypoints:cache-id:FL2A8PF|waypoints:cache-id:PK2A8PF</links>
+  <encoded-hints>
+      </encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=b4f9b05f-9898-4edc-96a7-99719b8405dc</url>
+  <url-name>Chapel of Mone</url-name>
+  <logs><ul><li>2010-06-17T19:00:00Z : Found it by kazidrat <br />Nice spot, found easily...
+# 728
+TFTC...[:D]</li><li>2010-06-17T19:00:00Z : Found it by Windsockers <br />Easy find with snoopy TfTc</li><li>2010-06-15T19:00:00Z : Found it by theswerve <br />Found on a nice sunny evening...TFTC....</li><li>2010-06-15T19:00:00Z : Found it by hollmanr <br />Found it on a lovely sunny evening. 3 kids so excited with all the little goodies that the black bag blew away without anyone noticing .. it took a lot longer to find that than the cache but eventually all was well. Left 2 keyrings and a badge; took teeth and 2 skulls. Took Cookie travel bug. Lovely cache and nice to see one in Bayside!  SL (as 14th June rather than 15th by mistake) TFTC</li><li>2010-06-15T19:00:00Z : Found it by Crannyn <br />Our 3rd FTF! Living very close to this location I have to admit that was my first time to visit the grave yard.Junior cranny was there once before with the school.After returning from a trip to Chicago this morning , it was an easy enough find considering the jet lag! Also I am very familiar with the final location as I,m there most mornings(don,t want to give too much away!) IN- TB + stretchy man  OUT- geo whistle + alien. TFTC </li></ul></logs>
+  <original-xml>  <wpt  lat="53.387383" lon="-6.13335">
+    <time>2010-06-14T07:00:00Z</time>
+    <name>GC2A8PF</name>
+    <desc>Chapel of Mone by Fitzet, Multi-cache (1/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=b4f9b05f-9898-4edc-96a7-99719b8405dc</url>
+    <urlname>Chapel of Mone</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Multi-cache</type>
+    <groundspeak:cache id="1742217" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Chapel of Mone</groundspeak:name>
+      <groundspeak:placed_by>Fitzet</groundspeak:placed_by>
+      <groundspeak:owner id="2451856">Fitzet</groundspeak:owner>
+      <groundspeak:type>Multi-cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>Dublin</groundspeak:state>
+      <groundspeak:short_description html="True">&lt;img src=
+"http://img.geocaching.com/cache/02d75fcd-c246-4bb9-83ad-603ae001251a.jpg" /&gt;
+You will find the starting point for this simple multi-cache in old
+Kilbarrack graveyard located along the coast road.</groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;p&gt;The following description of the location comes from the
+Kilbarrack Parish Website: &amp;lsquo;The ruins of a 13th century
+church stand on the site today on the seafront between Clontarf and
+Howth. It was later a mariners' Church, where sailors came to give
+thanks for a safe voyage and to bury their dead. It may also have
+been a haven for shipwrecked sailors.&amp;rsquo;&lt;/p&gt;
+&lt;p&gt;The churchyard adjoining is chiefly notable as the burying-place
+of Francis Higgins, called from an early incident in his career the
+Sham Squire. He was a somewhat unscrupulous adventurer who managed
+to obtain a questionable political prominence in Dublin in the last
+troubled years of the eighteenth century. Another resident of the
+graveyard is Gaelic League and Irish Volunteers founder Eoin
+MacNeill.&lt;/p&gt;
+&lt;p&gt;The location is mentioned by Brendan Behan in Borstal Boy
+&amp;lsquo;So many belonging to me lay buried in Kilbarrack, the
+healthiest graveyard in Ireland, they said, because it is so close
+to the sea...&amp;rsquo;&lt;/p&gt;
+&lt;p&gt;The Topographical Dictionary of Ireland from 1837 describes it
+as &amp;lsquo;unfenced and overgrown with weeds&amp;rsquo; a description
+that is still somewhat accurate today. The church is noted in some
+records as the Chapel of Mone.&lt;/p&gt;
+&lt;p&gt;The cache is a small size lock and lock container located away
+from the graveyard at stage 2. Be aware that getting to stage 2
+involves crossing a very busy road so use the pedestrian crossings
+if accompanied by small children. It is in a highly muggled area so
+please take great care retrieving and replacing the cache.&lt;/p&gt;
+&lt;p&gt;Bus routes along the coast road are the 31, 31b, 32a and 32/b.
+The cache is about a 15 minute walk from Bayside dart station.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Stage 1:&lt;/strong&gt; N 53 23.243 W 006 08.001 Look for
+Rosetta&amp;rsquo;s gravestone. Call her date of birth ABCD and her
+date of death EFGH.&lt;/p&gt;
+Use the letters you worked out above in following equation to
+calculate the final co-ordinates:
+&lt;p&gt;N 53 ((B*C)+D).(A+E)((B+D+H)*(A+G)) W 06 0D.F0E&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Final Stage:&lt;/strong&gt; At stage 2 look for a sign written
+at your feet. The number of letters in the second word will give
+you the number of steps down you need to go to find the cache.&lt;/p&gt;&lt;p&gt;Additional Waypoints&lt;/p&gt;A12A8PF - Stage 1&lt;br /&gt;N 53° 23.243 W 006° 08.001&lt;br /&gt;Look for Rosetta’s gravestone.  
+
+Call her date of birth ABCD and her date of death EFGH.
+Calculate the stage 2 co-ordinates using this equation.
+
+
+N 53 ((B*C)+D).(A+E)((B+D+H)*(A+G))
+W 06 0D.F0E&lt;br /&gt;FL2A8PF - Final Location&lt;br /&gt;N/S  __ ° __ . ___ W/E ___ ° __ . ___ &lt;br /&gt;At the final co-ordinates look for a sign written at your feet.  The number of letters in the second word will give you the number of steps down you need to go to find the cache.&lt;br /&gt;PK2A8PF - Nearby Parking&lt;br /&gt;N 53° 23.300 W 006° 07.770&lt;br /&gt;Parking is available at Sutton Park, a nearby residential area.&lt;br /&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="113273875">
+          <groundspeak:date>2010-06-17T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1851316">kazidrat</groundspeak:finder>
+          <groundspeak:text encoded="False">Nice spot, found easily...
+# 728
+TFTC...[:D]</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="113226937">
+          <groundspeak:date>2010-06-17T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="271623">Windsockers</groundspeak:finder>
+          <groundspeak:text encoded="False">Easy find with snoopy TfTc</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="113029605">
+          <groundspeak:date>2010-06-15T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1032462">theswerve</groundspeak:finder>
+          <groundspeak:text encoded="False">Found on a nice sunny evening...TFTC....</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="113012635">
+          <groundspeak:date>2010-06-15T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2511647">hollmanr</groundspeak:finder>
+          <groundspeak:text encoded="False">Found it on a lovely sunny evening. 3 kids so excited with all the little goodies that the black bag blew away without anyone noticing .. it took a lot longer to find that than the cache but eventually all was well. Left 2 keyrings and a badge; took teeth and 2 skulls. Took Cookie travel bug. Lovely cache and nice to see one in Bayside!  SL (as 14th June rather than 15th by mistake) TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="113000075">
+          <groundspeak:date>2010-06-15T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2557004">Crannyn</groundspeak:finder>
+          <groundspeak:text encoded="False">Our 3rd FTF! Living very close to this location I have to admit that was my first time to visit the grave yard.Junior cranny was there once before with the school.After returning from a trip to Chicago this morning , it was an easy enough find considering the jet lag! Also I am very familiar with the final location as I,m there most mornings(don,t want to give too much away!) IN- TB + stretchy man  OUT- geo whistle + alien. TFTC </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

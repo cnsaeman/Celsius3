@@ -1,0 +1,110 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>006551</id>
+  <cache-id>GCZZG5</cache-id>
+  <type>Unknown Cache</type>
+  <name>Repent Hill by Windsockers, Unknown Cache (2.5/1.5)</name>
+  <size>Small</size>
+  <difficulty>2.5</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2008-11-01</last-found>
+  <placed>2007-05-11</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>Windsockers</placedby>
+  <found>Geocache</found>
+  <lat>53.55555</lat>
+  <lon>-6.2037</lon>
+  <last-logs>FFMFF</last-logs>
+  <owner>Windsockers</owner>
+  <description><center>
+<img src="http://img.geocaching.com/cache/6ca464f4-ca90-4cf8-b25d-0a12e627fb7e.jpg" />
+</center></description>
+  <long-description><p><b>The Cache</b></p>
+<p>The Cache is not at the listed coordinates, to find the cache
+you must solve the puzzle.</p>
+<p>Please rehide the cache well to prevent Muggles from finding
+it.</p>
+<center>
+<img src="http://www.northbeach.ie/gallery/albums/userpics/10001/windsock-anim-small.gif" />
+<br />
+<b>The Windsockers</b></center></long-description>
+  <additional-waypoints>FLZZG5 - Final Location<br />N/S  __ ° __ . ___ W/E ___ ° __ . ___ <br /><br /></additional-waypoints>
+  <links>waypoints:cache-id:FLZZG5</links>
+  <encoded-hints>
+      </encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=761a725c-720f-49db-9d15-ba6edecdbc16</url>
+  <url-name>Repent Hill</url-name>
+  <logs><ul><li>2010-03-28T19:00:00Z : Found it by Donnacha <br />Found on a quick trip out today.</li><li>2009-10-31T19:00:00Z : Found it by GerIRL <br />Very nicely constructed puzzle that a few of us solved a couple of years ago. Stopped by with my mom today and she made the find. Left a couple of geocoins. Thanks for the cache. </li><li>2008-12-05T20:00:00Z : Owner Maintenance by Windsockers <br />Cache checked</li><li>2008-11-02T20:00:00Z : Found it by merann <br />We had this one solved a while ago but weren't sure if we were right or not, when driving to the co-ords we thought we were completely off track until we pulled into the parking place. Found the cache fairly quickly, it's a lovely location with good views. TNLNSL.
+TFTC, Merann. </li><li>2008-11-01T19:00:00Z : Found it by theswerve <br />Glad to knock a puzzle cache off list...took a bit of time to sort but finally got around to it</li></ul></logs>
+  <original-xml>  <wpt  lat="53.55555" lon="-6.2037">
+    <time>2007-05-11T07:00:00Z</time>
+    <name>GCZZG5</name>
+    <desc>Repent Hill by Windsockers, Unknown Cache (2.5/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=761a725c-720f-49db-9d15-ba6edecdbc16</url>
+    <urlname>Repent Hill</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Unknown Cache</type>
+    <groundspeak:cache id="511941" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Repent Hill</groundspeak:name>
+      <groundspeak:placed_by>Windsockers</groundspeak:placed_by>
+      <groundspeak:owner id="271623">Windsockers</groundspeak:owner>
+      <groundspeak:type>Unknown Cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>2.5</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>Leinster</groundspeak:state>
+      <groundspeak:short_description html="True">&lt;center&gt;
+&lt;img src="http://img.geocaching.com/cache/6ca464f4-ca90-4cf8-b25d-0a12e627fb7e.jpg" /&gt;
+&lt;/center&gt;</groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;p&gt;&lt;b&gt;The Cache&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;The Cache is not at the listed coordinates, to find the cache
+you must solve the puzzle.&lt;/p&gt;
+&lt;p&gt;Please rehide the cache well to prevent Muggles from finding
+it.&lt;/p&gt;
+&lt;center&gt;
+&lt;img src="http://www.northbeach.ie/gallery/albums/userpics/10001/windsock-anim-small.gif" /&gt;
+&lt;br /&gt;
+&lt;b&gt;The Windsockers&lt;/b&gt;&lt;/center&gt;&lt;p&gt;Additional Waypoints&lt;/p&gt;FLZZG5 - Final Location&lt;br /&gt;N/S  __ ° __ . ___ W/E ___ ° __ . ___ &lt;br /&gt;&lt;br /&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="101377960">
+          <groundspeak:date>2010-03-28T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="61401">Donnacha</groundspeak:finder>
+          <groundspeak:text encoded="False">Found on a quick trip out today.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="89044852">
+          <groundspeak:date>2009-10-31T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="323663">GerIRL</groundspeak:finder>
+          <groundspeak:text encoded="False">Very nicely constructed puzzle that a few of us solved a couple of years ago. Stopped by with my mom today and she made the find. Left a couple of geocoins. Thanks for the cache. </groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="58292098">
+          <groundspeak:date>2008-12-05T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Owner Maintenance</groundspeak:type>
+          <groundspeak:finder id="271623">Windsockers</groundspeak:finder>
+          <groundspeak:text encoded="False">Cache checked</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="56492804">
+          <groundspeak:date>2008-11-02T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="134212">merann</groundspeak:finder>
+          <groundspeak:text encoded="False">We had this one solved a while ago but weren't sure if we were right or not, when driving to the co-ords we thought we were completely off track until we pulled into the parking place. Found the cache fairly quickly, it's a lovely location with good views. TNLNSL.
+TFTC, Merann. </groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="56262497">
+          <groundspeak:date>2008-11-01T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1032462">theswerve</groundspeak:finder>
+          <groundspeak:text encoded="False">Glad to knock a puzzle cache off list...took a bit of time to sort but finally got around to it</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

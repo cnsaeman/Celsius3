@@ -1,0 +1,146 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>006675</id>
+  <cache-id>GC24BP6</cache-id>
+  <type>Multi-cache</type>
+  <name>Mauras Memory by elless, Multi-cache (3.5/3)</name>
+  <size>Small</size>
+  <difficulty>3.5</difficulty>
+  <terrain>3</terrain>
+  <last-found>2010-08-21</last-found>
+  <placed>2010-02-21</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>elless</placedby>
+  <found>Geocache</found>
+  <lat>50.598133</lat>
+  <lon>9.64535</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>elless</owner>
+  <description>
+      </description>
+  <long-description>Du befindest dich nur am Ausgangspunkt auf der Suche nach dem Cache!
+
+Genauere Informationen über den Ort des Verstecks findest du bei einem Zwischenstopp. 
+Mache dich dazu auf den Weg zu den Glocken, die dreimal täglich läuten und folge dann dem Weg des Godehards. Er führt dich zu einer großen Behausung für die Bewohner der Lüfte. 
+
+Gehe nun über die Brücke und suche einen Punkt, an dem du das ganze Tal überblicken kannst. Der rechte Weg führt dich direkt dorthin.
+
+Das Versteck befindet sich nicht am Wegesrand. Mit Gottes Hilfe wirst du es in einer Ecke finden.
+
+
+Die genauen Koordinaten kannst du nicht im Fluss finden, doch das Leben am Fluss wird dir bei der Bestimmung des Verstecks sehr hilfreich sein.
+
+Additional Waypoints
+MM24BP6 - Mauras Memory
+N/S  __ ° __ . ___ W/E ___ ° __ . ___ 
+Um die Koordinaten richtig zu ergänzen musst du Lachmöwe, Rotmilan und Flussläufer numerisch in diese richtige Reihenfolge bringen:
+N 50° 35,_ _ _'
+Für die restlichen fehlenden Zahlen musst du Mäusebussard un Rotfeder miteinander multiplizieren und an der richtigen Stelle einsetzen:
+E 9° 38,_ _ 3
+QA24BP6 - Mauras Memory
+N/S  __ ° __ . ___ W/E ___ ° __ . ___ 
+Du kannst den Wegpunkt finden wenn du die Anzahl der Randsteine zwischen Laterne und öffentlicher Treppe verdoppelst eins dazuzählst und mit der Quadratzahl auf der Straße ergänzt und richtig einsetzt:
+N 50° 35,_ _ _'
+Die Zahl der Randsteine multipliziert mit der Anzahl der Treppenstufen minus 4 ergibt die übrigen fehlenden Zahlen:
+E 9° 38, _ _ _'
+</long-description>
+  <encoded-hints>Der Cache soll für niemanden eine Geißel sein, obwohl das sehr naheliegend wäre.</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=09b96936-a1ef-44b0-bf69-46f7271e20b2</url>
+  <url-name>Mauras Memory</url-name>
+  <logs><ul><li>2010-10-22T23:06:07Z : Found it by ubx <br />Ubx was here !</li><li>2010-10-10T19:00:00Z : Found it by LI*MO <br />Zusammen mit f.etcher and born to Cache bei diesem tollen Wetter gefunden.
+Wie schon von f.etcher gessagt, hätten wir mal genauer lesen sollen, aber es hat ja auch so geklappt [:)]
+
+TFCT
+
+</li><li>2010-10-10T19:00:00Z : Found it by born to cache <br />Zusammen mit f.etcher und LI*MO gesucht und gefunden. TFTC</li><li>2010-10-10T19:00:00Z : Found it by f.etcher <br />Mauras Memory? Also irgendwie haben wir beim Memory versagt, weil wir mussten uns zig mal die Cachebeschreibung durchlesen. Aber anhand dieser den Cache schnell gefunden. Erst als wir wieder beim Auto waren, haben wir festgestlellt, dass wir einen Teil der Cachebeschreibung überlesen hatten, aber es ging ja auch ohne... Danke für die nette kleine Runde, die wir zusammen mit LI*Mo und natürlich born to cache gelaufen sind. </li><li>2010-08-21T19:00:00Z : Found it by Anonyme_Laeufer <br />Erst waren wir uns nicht sicher, wie dieser Cache zu lösen ist, aber nachdem wir am Start standen ging es dann recht fix und alles war irgendwie klar. Auch den Final konnten wir schnell heben und loggen.TFTC</li></ul></logs>
+  <original-xml>  <wpt  lat="50.598133" lon="9.64535">
+    <time>2010-02-21T08:00:00Z</time>
+    <name>GC24BP6</name>
+    <desc>Mauras Memory by elless, Multi-cache (3.5/3)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=09b96936-a1ef-44b0-bf69-46f7271e20b2</url>
+    <urlname>Mauras Memory</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Multi-cache</type>
+    <groundspeak:cache id="1566345" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Mauras Memory</groundspeak:name>
+      <groundspeak:placed_by>elless</groundspeak:placed_by>
+      <groundspeak:owner id="2923688">elless</groundspeak:owner>
+      <groundspeak:type>Multi-cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>3.5</groundspeak:difficulty>
+      <groundspeak:terrain>3</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">
+      </groundspeak:short_description>
+      <groundspeak:long_description html="False">Du befindest dich nur am Ausgangspunkt auf der Suche nach dem Cache!
+
+Genauere Informationen über den Ort des Verstecks findest du bei einem Zwischenstopp. 
+Mache dich dazu auf den Weg zu den Glocken, die dreimal täglich läuten und folge dann dem Weg des Godehards. Er führt dich zu einer großen Behausung für die Bewohner der Lüfte. 
+
+Gehe nun über die Brücke und suche einen Punkt, an dem du das ganze Tal überblicken kannst. Der rechte Weg führt dich direkt dorthin.
+
+Das Versteck befindet sich nicht am Wegesrand. Mit Gottes Hilfe wirst du es in einer Ecke finden.
+
+
+Die genauen Koordinaten kannst du nicht im Fluss finden, doch das Leben am Fluss wird dir bei der Bestimmung des Verstecks sehr hilfreich sein.
+
+Additional Waypoints
+MM24BP6 - Mauras Memory
+N/S  __ ° __ . ___ W/E ___ ° __ . ___ 
+Um die Koordinaten richtig zu ergänzen musst du Lachmöwe, Rotmilan und Flussläufer numerisch in diese richtige Reihenfolge bringen:
+N 50° 35,_ _ _'
+Für die restlichen fehlenden Zahlen musst du Mäusebussard un Rotfeder miteinander multiplizieren und an der richtigen Stelle einsetzen:
+E 9° 38,_ _ 3
+QA24BP6 - Mauras Memory
+N/S  __ ° __ . ___ W/E ___ ° __ . ___ 
+Du kannst den Wegpunkt finden wenn du die Anzahl der Randsteine zwischen Laterne und öffentlicher Treppe verdoppelst eins dazuzählst und mit der Quadratzahl auf der Straße ergänzt und richtig einsetzt:
+N 50° 35,_ _ _'
+Die Zahl der Randsteine multipliziert mit der Anzahl der Treppenstufen minus 4 ergibt die übrigen fehlenden Zahlen:
+E 9° 38, _ _ _'
+</groundspeak:long_description>
+      <groundspeak:encoded_hints>Der Cache soll für niemanden eine Geißel sein, obwohl das sehr naheliegend wäre.</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="132513018">
+          <groundspeak:date>2010-10-22T23:06:07Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="787613">ubx</groundspeak:finder>
+          <groundspeak:text encoded="False">Ubx was here !</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="130816008">
+          <groundspeak:date>2010-10-10T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2583892">LI*MO</groundspeak:finder>
+          <groundspeak:text encoded="False">Zusammen mit f.etcher and born to Cache bei diesem tollen Wetter gefunden.
+Wie schon von f.etcher gessagt, hätten wir mal genauer lesen sollen, aber es hat ja auch so geklappt [:)]
+
+TFCT
+
+</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="130550880">
+          <groundspeak:date>2010-10-10T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3473620">born to cache</groundspeak:finder>
+          <groundspeak:text encoded="False">Zusammen mit f.etcher und LI*MO gesucht und gefunden. TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="130542282">
+          <groundspeak:date>2010-10-10T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1498819">f.etcher</groundspeak:finder>
+          <groundspeak:text encoded="False">Mauras Memory? Also irgendwie haben wir beim Memory versagt, weil wir mussten uns zig mal die Cachebeschreibung durchlesen. Aber anhand dieser den Cache schnell gefunden. Erst als wir wieder beim Auto waren, haben wir festgestlellt, dass wir einen Teil der Cachebeschreibung überlesen hatten, aber es ging ja auch ohne... Danke für die nette kleine Runde, die wir zusammen mit LI*Mo und natürlich born to cache gelaufen sind. </groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="122985458">
+          <groundspeak:date>2010-08-21T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1648570">Anonyme_Laeufer</groundspeak:finder>
+          <groundspeak:text encoded="False">Erst waren wir uns nicht sicher, wie dieser Cache zu lösen ist, aber nachdem wir am Start standen ging es dann recht fix und alles war irgendwie klar. Auch den Final konnten wir schnell heben und loggen.TFTC</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

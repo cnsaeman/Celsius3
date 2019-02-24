@@ -1,0 +1,118 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>007754</id>
+  <cache-id>GC2GG7H</cache-id>
+  <type>Traditional Cache</type>
+  <name>Ascensus by Camuvlash, Traditional Cache (1.5/2)</name>
+  <size>Small</size>
+  <difficulty>1.5</difficulty>
+  <terrain>2</terrain>
+  <last-found>2010-11-09</last-found>
+  <placed>2010-10-10</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Camuvlash</placedby>
+  <found>Geocache</found>
+  <lat>50.5249</lat>
+  <lon>9.696283</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>Camuvlash</owner>
+  <description>Von hier aus könnt ihre euren Blick ganz entspannt über ganz Fulda schweifen lassen ^^</description>
+  <long-description>
+      </long-description>
+  <encoded-hints>37 oder 10</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=84861182-7304-4c3f-ae86-b73ab70a77a3</url>
+  <url-name>Ascensus</url-name>
+  <logs><ul><li>2010-11-27T20:00:00Z : Found it by Talon Silverhawk <br />Echt netter Ausblick, musste den Coin über die Landesgrenze bringen...
+Hab dabei den Hulk nicht mehr losbekommen.
+T4TC</li><li>2010-11-21T20:00:00Z : Found it by michael01 <br />Heute haben wir eine kleine Cache-Runde am Sonntag-Nachmittag durch Fulda gedreht.
+
+Sehr witziger Hint. Wir waren schon bei 47, dann haben wir ihn verstanden. Also haben wir wieder 10 abgezogen und schon wurden wir fündig [;)].
+Endlich mal eine Dose, in die unser TB passt.
+
+In: TB Hulk
+
+Danke und viele Grüße 
+Michael01
+#3211</li><li>2010-11-21T20:00:00Z : Found it by daruch <br />Bei kaltem und nebligem Wetter gut gefunden.
+
+TFTC</li><li>2010-11-20T20:00:00Z : Found it by Aldokyl <br />Gefunden</li><li>2010-11-09T20:00:00Z : Found it by mayday malone <br />heute mittag muggelfrei gefunden. bei sonnenschein eine super aussicht gehabt. danke und gruß. mayday
+In: Coin</li></ul></logs>
+  <original-xml>  <wpt  lat="50.5249" lon="9.696283">
+    <time>2010-10-10T07:00:00Z</time>
+    <name>GC2GG7H</name>
+    <desc>Ascensus by Camuvlash, Traditional Cache (1.5/2)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=84861182-7304-4c3f-ae86-b73ab70a77a3</url>
+    <urlname>Ascensus</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1928188" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Ascensus</groundspeak:name>
+      <groundspeak:placed_by>Camuvlash</groundspeak:placed_by>
+      <groundspeak:owner id="2724623">Camuvlash</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>2</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">Von hier aus könnt ihre euren Blick ganz entspannt über ganz Fulda schweifen lassen ^^</groundspeak:short_description>
+      <groundspeak:long_description html="False">
+      </groundspeak:long_description>
+      <groundspeak:encoded_hints>37 oder 10</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="137299193">
+          <groundspeak:date>2010-11-27T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3947433">Talon Silverhawk</groundspeak:finder>
+          <groundspeak:text encoded="False">Echt netter Ausblick, musste den Coin über die Landesgrenze bringen...
+Hab dabei den Hulk nicht mehr losbekommen.
+T4TC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="136687937">
+          <groundspeak:date>2010-11-21T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1225681">michael01</groundspeak:finder>
+          <groundspeak:text encoded="False">Heute haben wir eine kleine Cache-Runde am Sonntag-Nachmittag durch Fulda gedreht.
+
+Sehr witziger Hint. Wir waren schon bei 47, dann haben wir ihn verstanden. Also haben wir wieder 10 abgezogen und schon wurden wir fündig [;)].
+Endlich mal eine Dose, in die unser TB passt.
+
+In: TB Hulk
+
+Danke und viele Grüße 
+Michael01
+#3211</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="136589521">
+          <groundspeak:date>2010-11-21T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3100425">daruch</groundspeak:finder>
+          <groundspeak:text encoded="False">Bei kaltem und nebligem Wetter gut gefunden.
+
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="136436905">
+          <groundspeak:date>2010-11-20T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="438973">Aldokyl</groundspeak:finder>
+          <groundspeak:text encoded="False">Gefunden</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="135210807">
+          <groundspeak:date>2010-11-09T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3592921">mayday malone</groundspeak:finder>
+          <groundspeak:text encoded="False">heute mittag muggelfrei gefunden. bei sonnenschein eine super aussicht gehabt. danke und gruß. mayday
+In: Coin</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs>
+        <groundspeak:travelbug id="1890845" ref="TB2F8BY">
+          <groundspeak:name>Rhein-Nahe Geocoin 2008 #1</groundspeak:name>
+        </groundspeak:travelbug>
+      </groundspeak:travelbugs>
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

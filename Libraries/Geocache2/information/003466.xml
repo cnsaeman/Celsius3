@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>003466</id>
+  <cache-id>A11J3MC</cache-id>
+  <type>Waypoint</type>
+  <name>Location for answer 1</name>
+  <placed>2010-01-23</placed>
+  <lat>53.3724</lat>
+  <lon>-6.15785</lon>
+  <attributes>hidden</attributes>
+  <description>Depending on when you visit this cache, your observations will
+vary. Based on your direct observation, name and describe TWO landscpes that lie before you at this location.</description>
+  <url>http://www.geocaching.com/seek/wpt.aspx?WID=f1d56d4f-0ddf-4c42-a52c-1854c2fe51f4</url>
+  <url-name>Location for answer 1</url-name>
+</element>
+</celsiusv2.1.addinfofile>

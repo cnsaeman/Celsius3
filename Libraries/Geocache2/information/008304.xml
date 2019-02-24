@@ -1,0 +1,124 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>008304</id>
+  <cache-id>GCJR3C</cache-id>
+  <type>Traditional Cache</type>
+  <name>Speedway by Donnacha, Traditional Cache (3/2)</name>
+  <size>Small</size>
+  <difficulty>3</difficulty>
+  <terrain>2</terrain>
+  <last-found>2010-02-22</last-found>
+  <placed>2004-06-20</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>Donnacha</placedby>
+  <found>Geocache</found>
+  <lat>53.148783</lat>
+  <lon>-6.098767</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>Donnacha</owner>
+  <description><p align="center"><a target="_blank"
+href="http://www.geocachingireland.com"><img border="0"
+src="http://geocachingireland.com/logo4.jpg" width="328"
+height="53" align="middle" /></a></p>
+<p align="center"><a target="_blank"
+href="http://www.facebook.com/#/group.php?gid=34042039725"><img border="0"
+     src="http://www.geocachingireland.com/facebook_logo_gci.jpg"
+     width="450" height="169" /></a></p></description>
+  <long-description><p>Cache is located in a small forest in Delgany, Co. Wicklow. I
+mountain bike up here all the time, so bring your bike if you're up
+for it. Parking available at <b>N53 08.822 W006 06.322</b>. Start
+at the end of the car park and take the track to the left, and
+follow to the top.</p>
+<br />
+<hr size="2" />
+<center><font color="Green">Visit the Geocaching Ireland discussion
+forum <a rel="nofollow" href="http://forums.geocachingireland.com"
+target="_blank">HERE</a></font></center>
+<hr size="2" /></long-description>
+  <additional-waypoints>PKJR3C - Car Park<br />N 53° 08.822 W 006° 06.322<br /><br /></additional-waypoints>
+  <links>waypoints:cache-id:PKJR3C</links>
+  <encoded-hints>As you come to the end of the rocks while walking towards the coast, there are two tress on your left. Behind one of the trees is an evergreen tree. Cache is at the base of the tree on the forest side.</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=f4b7048e-b000-4dc4-a71a-210f9a85d045</url>
+  <url-name>Speedway</url-name>
+  <logs><ul><li>2010-05-22T19:00:00Z : Found it by SKUKUZA <br />TFTC Found it with Carl & Alan
+Took wooden box left iPod ccover.
+Beautiful view</li><li>2010-05-03T19:00:00Z : Found it by blue_eyes_ie <br />Found with wavydave_ie. Beautiful view. Took some "treasure" and placed it somewhere else today (16/5/2010), Thanks for the cache.</li><li>2010-05-03T19:00:00Z : Found it by wavydave_ie <br />Found on a lovely Bank Holiday Monday.  Fantastic View.  </li><li>2010-04-17T19:00:00Z : Found it by Spark_ie <br />Second of today's finds. Lovely woods, love the smell of the trees, reminds me of Canada !   Cache nicely hidden, TFTC, Spark_ie</li><li>2010-02-22T20:00:00Z : Found it by didi2206 <br />lovely walk, enjoyed seeing Bellevue house banquet hall on the way back.. TFTC</li></ul></logs>
+  <original-xml>  <wpt  lat="53.148783" lon="-6.098767">
+    <time>2004-06-20T07:00:00Z</time>
+    <name>GCJR3C</name>
+    <desc>Speedway by Donnacha, Traditional Cache (3/2)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=f4b7048e-b000-4dc4-a71a-210f9a85d045</url>
+    <urlname>Speedway</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="148287" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Speedway</groundspeak:name>
+      <groundspeak:placed_by>Donnacha</groundspeak:placed_by>
+      <groundspeak:owner id="61401">Donnacha</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>3</groundspeak:difficulty>
+      <groundspeak:terrain>2</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>Leinster</groundspeak:state>
+      <groundspeak:short_description html="True">&lt;p align="center"&gt;&lt;a target="_blank"
+href="http://www.geocachingireland.com"&gt;&lt;img border="0"
+src="http://geocachingireland.com/logo4.jpg" width="328"
+height="53" align="middle" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p align="center"&gt;&lt;a target="_blank"
+href="http://www.facebook.com/#/group.php?gid=34042039725"&gt;&lt;img border="0"
+     src="http://www.geocachingireland.com/facebook_logo_gci.jpg"
+     width="450" height="169" /&gt;&lt;/a&gt;&lt;/p&gt;</groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;p&gt;Cache is located in a small forest in Delgany, Co. Wicklow. I
+mountain bike up here all the time, so bring your bike if you're up
+for it. Parking available at &lt;b&gt;N53 08.822 W006 06.322&lt;/b&gt;. Start
+at the end of the car park and take the track to the left, and
+follow to the top.&lt;/p&gt;
+&lt;br /&gt;
+&lt;hr size="2" /&gt;
+&lt;center&gt;&lt;font color="Green"&gt;Visit the Geocaching Ireland discussion
+forum &lt;a rel="nofollow" href="http://forums.geocachingireland.com"
+target="_blank"&gt;HERE&lt;/a&gt;&lt;/font&gt;&lt;/center&gt;
+&lt;hr size="2" /&gt;&lt;p&gt;Additional Waypoints&lt;/p&gt;PKJR3C - Car Park&lt;br /&gt;N 53° 08.822 W 006° 06.322&lt;br /&gt;&lt;br /&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>As you come to the end of the rocks while walking towards the coast, there are two tress on your left. Behind one of the trees is an evergreen tree. Cache is at the base of the tree on the forest side.</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="109450549">
+          <groundspeak:date>2010-05-22T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3192026">SKUKUZA</groundspeak:finder>
+          <groundspeak:text encoded="False">TFTC Found it with Carl &amp; Alan
+Took wooden box left iPod ccover.
+Beautiful view</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="108841865">
+          <groundspeak:date>2010-05-03T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3164260">blue_eyes_ie</groundspeak:finder>
+          <groundspeak:text encoded="False">Found with wavydave_ie. Beautiful view. Took some "treasure" and placed it somewhere else today (16/5/2010), Thanks for the cache.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="107031454">
+          <groundspeak:date>2010-05-03T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3153679">wavydave_ie</groundspeak:finder>
+          <groundspeak:text encoded="False">Found on a lovely Bank Holiday Monday.  Fantastic View.  </groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="104523249">
+          <groundspeak:date>2010-04-17T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="950104">Spark_ie</groundspeak:finder>
+          <groundspeak:text encoded="False">Second of today's finds. Lovely woods, love the smell of the trees, reminds me of Canada !   Cache nicely hidden, TFTC, Spark_ie</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="97957770">
+          <groundspeak:date>2010-02-22T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2623045">didi2206</groundspeak:finder>
+          <groundspeak:text encoded="False">lovely walk, enjoyed seeing Bellevue house banquet hall on the way back.. TFTC</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

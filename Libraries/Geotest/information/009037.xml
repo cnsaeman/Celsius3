@@ -1,0 +1,124 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>009037</id>
+  <cache-id>GC2H9FB</cache-id>
+  <type>Traditional Cache</type>
+  <name>Alter Hochbehälter  by Papa Schlumpf, Traditional Cache (1.5/1)</name>
+  <size>Micro</size>
+  <difficulty>1.5</difficulty>
+  <terrain>1</terrain>
+  <last-found>2010-11-07</last-found>
+  <placed>2010-10-25</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Papa Schlumpf</placedby>
+  <found>Geocache</found>
+  <lat>50.621017</lat>
+  <lon>9.706317</lon>
+  <last-logs>MFFFF</last-logs>
+  <owner>Papa Schlumpf</owner>
+  <description>Hier befand sich der ehemalige Wasserhochbehälter von Marbach. Er wurde 1995 abgreissen. Übrig geblieben ist nur ein kleiner Platz an dem sich viel Wildwuchs befindet. Die Bank zum ausruhen ganz in der nähe bietet bei schönem Wetter einen tolles Blickfeld über Marbach bis hin zur Wasserkuppe und Milseburg!</description>
+  <long-description>
+      </long-description>
+  <encoded-hints>Holzbehälter</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=ec613e99-64fd-41c8-8a71-6762c26b8a63</url>
+  <url-name>Alter Hochbehälter </url-name>
+  <logs><ul><li>2010-11-25T20:00:00Z : Owner Maintenance by Papa Schlumpf <br />Der Cach ist überarbeitet und liegt nun an fast gleicher Stelle! Viel Spaß bein suchen!</li><li>2010-11-21T20:00:00Z : Found it by michael01 <br />Heute haben wir eine kleine Cache-Runde am Sonntag-Nachmittag durch Fulda gedreht.
+
+Auf dem Heimweg ist uns dieser Cache noch auf dem Display erschienen. 
+Also haben wir noch einen kurzen Abstecher nach Marbach gemacht.
+An der Location angekommen, haben wir den Cache schnell gefunden, allerdings nicht in seinem ursprünglichen Versteck.
+
+Danke und viele Grüße 
+Michael01
+#3213</li><li>2010-11-11T20:00:00Z : Found it by Svegar <br />War gut zu finden. Schöne Aussicht von hier oben.
+
+TFTC</li><li>2010-11-07T20:00:00Z : Found it by Ivy69 <br />Der war schnell gefunden,auch wenn uns das Navi etwas verar...  hat. TFTC</li><li>2010-11-07T20:00:00Z : Found it by Johansibär <br />[font=comic sans ms][i]gut gefunden, danke fürs verstecken![/i] 
+
+[b] [red]TFTC
+
+[b] [green]...nach der Cache-Kontrolle am Haunesee diesen noch gesucht und gefunden[:)]
+Für ne schöne Aussicht war leider das Wetter zu schlecht...
+
+[:)] [b] [size=3] [green]J[black]o[green]h[black]a[green]n[black]s[green]i[black]b[green]ä[black]r   [orange]#817[/orange] [:)][/b]    
+   
+</li></ul></logs>
+  <original-xml>  <wpt  lat="50.621017" lon="9.706317">
+    <time>2010-10-25T07:00:00Z</time>
+    <name>GC2H9FB</name>
+    <desc>Alter Hochbehälter  by Papa Schlumpf, Traditional Cache (1.5/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=ec613e99-64fd-41c8-8a71-6762c26b8a63</url>
+    <urlname>Alter Hochbehälter </urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1951494" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Alter Hochbehälter </groundspeak:name>
+      <groundspeak:placed_by>Papa Schlumpf</groundspeak:placed_by>
+      <groundspeak:owner id="2518451">Papa Schlumpf</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">Hier befand sich der ehemalige Wasserhochbehälter von Marbach. Er wurde 1995 abgreissen. Übrig geblieben ist nur ein kleiner Platz an dem sich viel Wildwuchs befindet. Die Bank zum ausruhen ganz in der nähe bietet bei schönem Wetter einen tolles Blickfeld über Marbach bis hin zur Wasserkuppe und Milseburg!</groundspeak:short_description>
+      <groundspeak:long_description html="False">
+      </groundspeak:long_description>
+      <groundspeak:encoded_hints>Holzbehälter</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="137060840">
+          <groundspeak:date>2010-11-25T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Owner Maintenance</groundspeak:type>
+          <groundspeak:finder id="2518451">Papa Schlumpf</groundspeak:finder>
+          <groundspeak:text encoded="False">Der Cach ist überarbeitet und liegt nun an fast gleicher Stelle! Viel Spaß bein suchen!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="136691577">
+          <groundspeak:date>2010-11-21T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1225681">michael01</groundspeak:finder>
+          <groundspeak:text encoded="False">Heute haben wir eine kleine Cache-Runde am Sonntag-Nachmittag durch Fulda gedreht.
+
+Auf dem Heimweg ist uns dieser Cache noch auf dem Display erschienen. 
+Also haben wir noch einen kurzen Abstecher nach Marbach gemacht.
+An der Location angekommen, haben wir den Cache schnell gefunden, allerdings nicht in seinem ursprünglichen Versteck.
+
+Danke und viele Grüße 
+Michael01
+#3213</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="135367624">
+          <groundspeak:date>2010-11-11T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3056833">Svegar</groundspeak:finder>
+          <groundspeak:text encoded="False">War gut zu finden. Schöne Aussicht von hier oben.
+
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="134896441">
+          <groundspeak:date>2010-11-07T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3091672">Ivy69</groundspeak:finder>
+          <groundspeak:text encoded="False">Der war schnell gefunden,auch wenn uns das Navi etwas verar...  hat. TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="134843465">
+          <groundspeak:date>2010-11-07T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1858674">Johansibär</groundspeak:finder>
+          <groundspeak:text encoded="False">[font=comic sans ms][i]gut gefunden, danke fürs verstecken![/i] 
+
+[b] [red]TFTC
+
+[b] [green]...nach der Cache-Kontrolle am Haunesee diesen noch gesucht und gefunden[:)]
+Für ne schöne Aussicht war leider das Wetter zu schlecht...
+
+[:)] [b] [size=3] [green]J[black]o[green]h[black]a[green]n[black]s[green]i[black]b[green]ä[black]r   [orange]#817[/orange] [:)][/b]    
+   
+</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

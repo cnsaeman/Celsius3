@@ -1,0 +1,100 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>009219</id>
+  <cache-id>GC1QBQG</cache-id>
+  <type>Traditional Cache</type>
+  <name>Abbey Bridge by Eternal Treasure Seekers, Traditional Cache (1.5/1.5)</name>
+  <size>Micro</size>
+  <difficulty>1.5</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-05-29</last-found>
+  <placed>2009-04-21</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>Eternal Treasure Seekers</placedby>
+  <found>Geocache</found>
+  <lat>53.219767</lat>
+  <lon>-6.666467</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>Eternal Treasure Seekers</owner>
+  <description>Stop number 5 on the Naas Historic Trail</description>
+  <long-description>The Abbey Bridge was built in 1789 over the newly completed Naas Extension of the Royal Canal. Its name comes from the fact that, according to some sources, it was built of stones from an old Abbey nearby. 
+
+This cache is part of a series that would make a great family walking outing. 
+
+This is a micro-cache in a 35mm film canister with room only for a log. Please bring along a pen/pencil.</long-description>
+  <encoded-hints>Ivy covered crevice just inside cemetery wall</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=a3e724f1-c199-4fef-bbc4-82987de995d1</url>
+  <url-name>Abbey Bridge</url-name>
+  <logs><ul><li>2010-06-13T19:00:00Z : Found it by RosMcC <br />Great canal walk, even when it was raining. Found quickly. SL Thanks.</li><li>2010-06-03T19:00:00Z : Found it by anice77 <br />2010-06-03 14:00 Uhr
+Found this cache at my vacation and caching trip in Irland.
+[b]Thx a lot for this cool location.Thanks for this cache which is my find [red]#2739#[/red]
+anice77
+</li><li>2010-06-02T19:00:00Z : Found it by Spark_ie <br />Nice little hide [:)] Found as part of a lovely walk along the canal. TFTC, Spark_ie</li><li>2010-05-29T19:00:00Z : Found it by BlueFoxPL <br />Another great day for caching... found with some friends. TFTC.</li><li>2010-05-29T19:00:00Z : Found it by Wicca Cailín <br />Fourth find of ten today with Adam. Quick find in a hidden graveyard. TFTC.</li></ul></logs>
+  <original-xml>  <wpt  lat="53.219767" lon="-6.666467">
+    <time>2009-04-21T07:00:00Z</time>
+    <name>GC1QBQG</name>
+    <desc>Abbey Bridge by Eternal Treasure Seekers, Traditional Cache (1.5/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=a3e724f1-c199-4fef-bbc4-82987de995d1</url>
+    <urlname>Abbey Bridge</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1208894" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Abbey Bridge</groundspeak:name>
+      <groundspeak:placed_by>Eternal Treasure Seekers</groundspeak:placed_by>
+      <groundspeak:owner id="972796">Eternal Treasure Seekers</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>Leinster</groundspeak:state>
+      <groundspeak:short_description html="False">Stop number 5 on the Naas Historic Trail</groundspeak:short_description>
+      <groundspeak:long_description html="False">The Abbey Bridge was built in 1789 over the newly completed Naas Extension of the Royal Canal. Its name comes from the fact that, according to some sources, it was built of stones from an old Abbey nearby. 
+
+This cache is part of a series that would make a great family walking outing. 
+
+This is a micro-cache in a 35mm film canister with room only for a log. Please bring along a pen/pencil.</groundspeak:long_description>
+      <groundspeak:encoded_hints>Ivy covered crevice just inside cemetery wall</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="112740771">
+          <groundspeak:date>2010-06-13T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="774796">RosMcC</groundspeak:finder>
+          <groundspeak:text encoded="False">Great canal walk, even when it was raining. Found quickly. SL Thanks.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="111335941">
+          <groundspeak:date>2010-06-03T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1814974">anice77</groundspeak:finder>
+          <groundspeak:text encoded="False">2010-06-03 14:00 Uhr
+Found this cache at my vacation and caching trip in Irland.
+[b]Thx a lot for this cool location.Thanks for this cache which is my find [red]#2739#[/red]
+anice77
+</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="111389875">
+          <groundspeak:date>2010-06-02T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="950104">Spark_ie</groundspeak:finder>
+          <groundspeak:text encoded="False">Nice little hide [:)] Found as part of a lovely walk along the canal. TFTC, Spark_ie</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="113111537">
+          <groundspeak:date>2010-05-29T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3361446">BlueFoxPL</groundspeak:finder>
+          <groundspeak:text encoded="False">Another great day for caching... found with some friends. TFTC.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="110611656">
+          <groundspeak:date>2010-05-29T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3215858">Wicca Cailín</groundspeak:finder>
+          <groundspeak:text encoded="False">Fourth find of ten today with Adam. Quick find in a hidden graveyard. TFTC.</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

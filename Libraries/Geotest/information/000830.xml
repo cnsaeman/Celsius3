@@ -1,0 +1,108 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>000830</id>
+  <cache-id>GC23CV5</cache-id>
+  <type>Traditional Cache</type>
+  <name>DGH by Kabal88, Traditional Cache (1.5/1.5)</name>
+  <size>Micro</size>
+  <difficulty>1.5</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-07-12</last-found>
+  <placed>2010-01-27</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Kabal88</placedby>
+  <found>Geocache</found>
+  <lat>50.63365</lat>
+  <lon>9.5832</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>Kabal88</owner>
+  <description>
+      </description>
+  <long-description>Das ist mein 1. gelegter Cache, also seit etwas nachsichtig ;-).
+Für Tipps bin ich immer gerne offen. Thx
+
+Dies ist das Dorfgemeinschaftshaus von Hartershausen, was früher als Dorfschule diente.
+Mittlerweile leider ziemlich heruntergekommen, da (wie überall) das Geld bei der Gemeinde fehlt.
+Auch die Freiwillige Feuerwehr hat hier ihr Gerätehaus drin, was in genau dem selben Zustand ist.
+
+Sollte eigentlich leicht zu finden sein, relativ unbeobachteter Fleck.
+
+Bitte Stift mitbringen.</long-description>
+  <encoded-hints>hinter einem Stein</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=77152836-3957-4b31-9acf-06b8ba2119f5</url>
+  <url-name>DGH</url-name>
+  <logs><ul><li>2010-11-14T20:00:00Z : Found it by Eckhardt <br />Während einer Fahrradtour bei wunderschönen Wetter gut gefunden.</li><li>2010-09-25T19:00:00Z : Found it by Camuvlash <br />TFTC.</li><li>2010-08-16T19:00:00Z : Found it by ktmkatie <br />Auf der Durchfahrt, schnell mal gelogt...</li><li>2010-07-23T19:00:00Z : Found it by BRDS <br />Da haben wir gerne einen kleinen Abstecher vom Bahnradweg unternommen um die Dose an diesem schönen Haus zu heben ... besonders das Backhaus hat uns gefallen...TFTC sagen _RD_</li><li>2010-07-12T19:00:00Z : Found it by El Commandante <br />Im Team mit SchnatterRinchen, Bengelchen und DevillsAngel haben wir den heute Abend noch schnell gefunden und geloggt.
+
+DFDC sagt El Commandante</li></ul></logs>
+  <original-xml>  <wpt  lat="50.63365" lon="9.5832">
+    <time>2010-01-27T08:00:00Z</time>
+    <name>GC23CV5</name>
+    <desc>DGH by Kabal88, Traditional Cache (1.5/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=77152836-3957-4b31-9acf-06b8ba2119f5</url>
+    <urlname>DGH</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1537638" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>DGH</groundspeak:name>
+      <groundspeak:placed_by>Kabal88</groundspeak:placed_by>
+      <groundspeak:owner id="1843265">Kabal88</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">
+      </groundspeak:short_description>
+      <groundspeak:long_description html="False">Das ist mein 1. gelegter Cache, also seit etwas nachsichtig ;-).
+Für Tipps bin ich immer gerne offen. Thx
+
+Dies ist das Dorfgemeinschaftshaus von Hartershausen, was früher als Dorfschule diente.
+Mittlerweile leider ziemlich heruntergekommen, da (wie überall) das Geld bei der Gemeinde fehlt.
+Auch die Freiwillige Feuerwehr hat hier ihr Gerätehaus drin, was in genau dem selben Zustand ist.
+
+Sollte eigentlich leicht zu finden sein, relativ unbeobachteter Fleck.
+
+Bitte Stift mitbringen.</groundspeak:long_description>
+      <groundspeak:encoded_hints>hinter einem Stein</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="136194464">
+          <groundspeak:date>2010-11-14T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1802355">Eckhardt</groundspeak:finder>
+          <groundspeak:text encoded="False">Während einer Fahrradtour bei wunderschönen Wetter gut gefunden.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="128390672">
+          <groundspeak:date>2010-09-25T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2724623">Camuvlash</groundspeak:finder>
+          <groundspeak:text encoded="False">TFTC.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="122242360">
+          <groundspeak:date>2010-08-16T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="767677">ktmkatie</groundspeak:finder>
+          <groundspeak:text encoded="False">Auf der Durchfahrt, schnell mal gelogt...</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="118431383">
+          <groundspeak:date>2010-07-23T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2905584">BRDS</groundspeak:finder>
+          <groundspeak:text encoded="False">Da haben wir gerne einen kleinen Abstecher vom Bahnradweg unternommen um die Dose an diesem schönen Haus zu heben ... besonders das Backhaus hat uns gefallen...TFTC sagen _RD_</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="127477722">
+          <groundspeak:date>2010-07-12T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2321617">El Commandante</groundspeak:finder>
+          <groundspeak:text encoded="False">Im Team mit SchnatterRinchen, Bengelchen und DevillsAngel haben wir den heute Abend noch schnell gefunden und geloggt.
+
+DFDC sagt El Commandante</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

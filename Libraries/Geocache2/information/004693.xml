@@ -1,0 +1,172 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>004693</id>
+  <cache-id>GCW1DP</cache-id>
+  <type>Traditional Cache</type>
+  <name>Kenure Church by Windsockers, Traditional Cache (1.5/1.5)</name>
+  <size>Small</size>
+  <difficulty>1.5</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2008-09-27</last-found>
+  <placed>2006-05-14</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>Windsockers</placedby>
+  <found>Geocache Found</found>
+  <lat>53.52955</lat>
+  <lon>-6.0908</lon>
+  <last-logs>FFXFFF</last-logs>
+  <owner>Windsockers</owner>
+  <description><br />
+<center>The Cache is located in The grounds of Kenure Church<br />
+<br />
+<center>
+<img src="http://www.northbeach.ie/gallery/albums/userpics/10001/normal_kenure_church.JPG" />
+</center></center></description>
+  <long-description><p>In 1866, the beautiful little Kenure Church, on the Skerries
+Road, was built and endowed by the Palmers. The building was
+designed by James Edward Rogers, (1838-1896), (who also designed
+the Church of Ireland church in Skerries), and built by Gilbert
+Cockburn and Son, at a cost of approximately £1200. The buildings
+is of cut limestone with bands of red sandstone, and is surmounted
+by a one arch bell turret, the arch of which is carried on marble
+shafts, as are the window arches. The porch is of Portland stone
+and red sandstone, finely moulded and carved.</p>
+<p>Over the communion table is a beautiful stained glass window in
+memory of Mary Ellen Peel, nee Ellen Palmer, who was the daughter
+of Sir Roger Palmer, the 4th Baronet. She married Archie Peel, a
+nephew of the Prime Minister, but she died tragically, ten days
+after giving birth to her third child, in 1863. Her colourful and
+romantic life is described in Betty Askwith's introduction to
+"Crimean Courtship", in which Ellen's recently discovered diaries
+are published</p>
+<p>There is also a circular stained glass window in the western
+gable of the chapel, which is unusual and exquisite. Even the roof
+slates of the building are set in a shaded pattern of diamonds and
+the building is in a peaceful setting surrounded by trees. In 1899,
+Archbishop Peacock of Dublin consecrated the burial ground around
+the church. On that occasion, Sir Roger Palmer read the lesson, and
+Lady Gertrude presided at the organ, and "conducted the psalmody of
+a hearty and efficient choir". The congregation and clergy
+afterwards dined in Kenure House.</p>
+<p><b>The Cache</b></p>
+<p>The cache is a small box containing a log book and the usual
+goodies</p>
+<center>
+<img src="http://www.northbeach.ie/gallery/albums/userpics/10001/windsock-anim-small.gif" />
+<br />
+<b>The Windsockers</b></center></long-description>
+  <encoded-hints>
+      </encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=dab95c7c-c219-49c9-9c03-d04c6b28f783</url>
+  <url-name>Kenure Church</url-name>
+  <logs><ul><li>2010-05-15T19:00:00Z : Found it by Alastair74 <br />Found with Wildfowler while spending the day in Dublin for the WWFM. TFTC</li><li>2010-05-15T19:00:00Z : Found it by wildfowler <br />Found on a caching weekend around Dublin with Alastair74! TNLNSL TFTC</li><li>2010-04-04T19:00:00Z : Didn't find it by johnrm <br />Nice little church, but no dice with the cache.
+The signal was bouncing a bit and after doing a few laps of GZ, we left empty handed.</li><li>2010-03-20T19:00:00Z : Found it by CheekyCheetah <br />Found when out with my parents (Frezeluberz), gilliancclarke (& sprogs) and Zoe andDaddy
+TFTC</li><li>2010-03-20T19:00:00Z : Found it by WeeBookWorm <br />Found when out with my parents (Frezeluberz), gilliancclarke (& sprogs) and Zoe andDaddy
+TFTC</li><li>2008-09-27T19:00:00Z : Found it by Kersti.com <br />A gorgeous little church, love the bell. I wonder if it still rings? Took us a little while to find as the cache was not in the normal sort of place we'd expect but rather in a lesser version nearby. Cache contents are a bit soggy. </li></ul></logs>
+  <original-xml>  <wpt  lat="53.52955" lon="-6.0908">
+    <time>2006-05-14T07:00:00Z</time>
+    <name>GCW1DP</name>
+    <desc>Kenure Church by Windsockers, Traditional Cache (1.5/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=dab95c7c-c219-49c9-9c03-d04c6b28f783</url>
+    <urlname>Kenure Church</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="394623" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Kenure Church</groundspeak:name>
+      <groundspeak:placed_by>Windsockers</groundspeak:placed_by>
+      <groundspeak:owner id="271623">Windsockers</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>Leinster</groundspeak:state>
+      <groundspeak:short_description html="True">&lt;br /&gt;
+&lt;center&gt;The Cache is located in The grounds of Kenure Church&lt;br /&gt;
+&lt;br /&gt;
+&lt;center&gt;
+&lt;img src="http://www.northbeach.ie/gallery/albums/userpics/10001/normal_kenure_church.JPG" /&gt;
+&lt;/center&gt;&lt;/center&gt;</groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;p&gt;In 1866, the beautiful little Kenure Church, on the Skerries
+Road, was built and endowed by the Palmers. The building was
+designed by James Edward Rogers, (1838-1896), (who also designed
+the Church of Ireland church in Skerries), and built by Gilbert
+Cockburn and Son, at a cost of approximately £1200. The buildings
+is of cut limestone with bands of red sandstone, and is surmounted
+by a one arch bell turret, the arch of which is carried on marble
+shafts, as are the window arches. The porch is of Portland stone
+and red sandstone, finely moulded and carved.&lt;/p&gt;
+&lt;p&gt;Over the communion table is a beautiful stained glass window in
+memory of Mary Ellen Peel, nee Ellen Palmer, who was the daughter
+of Sir Roger Palmer, the 4th Baronet. She married Archie Peel, a
+nephew of the Prime Minister, but she died tragically, ten days
+after giving birth to her third child, in 1863. Her colourful and
+romantic life is described in Betty Askwith's introduction to
+"Crimean Courtship", in which Ellen's recently discovered diaries
+are published&lt;/p&gt;
+&lt;p&gt;There is also a circular stained glass window in the western
+gable of the chapel, which is unusual and exquisite. Even the roof
+slates of the building are set in a shaded pattern of diamonds and
+the building is in a peaceful setting surrounded by trees. In 1899,
+Archbishop Peacock of Dublin consecrated the burial ground around
+the church. On that occasion, Sir Roger Palmer read the lesson, and
+Lady Gertrude presided at the organ, and "conducted the psalmody of
+a hearty and efficient choir". The congregation and clergy
+afterwards dined in Kenure House.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;The Cache&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;The cache is a small box containing a log book and the usual
+goodies&lt;/p&gt;
+&lt;center&gt;
+&lt;img src="http://www.northbeach.ie/gallery/albums/userpics/10001/windsock-anim-small.gif" /&gt;
+&lt;br /&gt;
+&lt;b&gt;The Windsockers&lt;/b&gt;&lt;/center&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="109094436">
+          <groundspeak:date>2010-05-15T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2453409">Alastair74</groundspeak:finder>
+          <groundspeak:text encoded="False">Found with Wildfowler while spending the day in Dublin for the WWFM. TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="108921026">
+          <groundspeak:date>2010-05-15T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="182407">wildfowler</groundspeak:finder>
+          <groundspeak:text encoded="False">Found on a caching weekend around Dublin with Alastair74! TNLNSL TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="102796509">
+          <groundspeak:date>2010-04-04T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Didn't find it</groundspeak:type>
+          <groundspeak:finder id="1249281">johnrm</groundspeak:finder>
+          <groundspeak:text encoded="False">Nice little church, but no dice with the cache.
+The signal was bouncing a bit and after doing a few laps of GZ, we left empty handed.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="100688779">
+          <groundspeak:date>2010-03-20T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2111140">CheekyCheetah</groundspeak:finder>
+          <groundspeak:text encoded="False">Found when out with my parents (Frezeluberz), gilliancclarke (&amp; sprogs) and Zoe andDaddy
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="100687959">
+          <groundspeak:date>2010-03-20T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2111147">WeeBookWorm</groundspeak:finder>
+          <groundspeak:text encoded="False">Found when out with my parents (Frezeluberz), gilliancclarke (&amp; sprogs) and Zoe andDaddy
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="53965776">
+          <groundspeak:date>2008-09-27T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="320206">Kersti.com</groundspeak:finder>
+          <groundspeak:text encoded="False">A gorgeous little church, love the bell. I wonder if it still rings? Took us a little while to find as the cache was not in the normal sort of place we'd expect but rather in a lesser version nearby. Cache contents are a bit soggy. </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

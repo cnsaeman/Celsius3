@@ -1,0 +1,101 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>001264</id>
+  <cache-id>GC17Q65</cache-id>
+  <type>Traditional Cache</type>
+  <name>St. Cuthbert's by moyle, Traditional Cache (1.5/1)</name>
+  <size>Micro</size>
+  <difficulty>1.5</difficulty>
+  <terrain>1</terrain>
+  <last-found>2009-05-05</last-found>
+  <placed>2007-12-01</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>moyle</placedby>
+  <found>Geocache</found>
+  <lat>53.324133</lat>
+  <lon>-6.422383</lon>
+  <last-logs>XXXF</last-logs>
+  <owner>moyle</owner>
+  <description>A quick cache and dash or is it? There is an entrance to a school nearby so time it right.</description>
+  <long-description>
+      </long-description>
+  <encoded-hints>About five foot high.</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=44983ea4-0816-4dce-a2bd-3553911160a0</url>
+  <url-name>St. Cuthbert's</url-name>
+  <logs><ul><li>2010-04-10T23:34:46Z : Needs Maintenance by anxie <br />thought I'd check this one out to round off the day and as the school hols will be over when I'm back this way next week. No joy in finding it.
+I note that it hasn't been found for 11 months now and the last couple of visits are listed as not found.
+
+I am maybe jumping ahead of myself here by marking it as requiring maintenance, but if anyone wants to give me exact location details on the quiet, I can check out if it is still there any day next week and report back.
+
+anxie
+</li><li>2009-08-27T19:00:00Z : Didn't find it by mrmac250 <br />Sorry to say, I couldn't find it anywhere.
+I know I'm at the right spot, and despite the ravaging thorns that's around this, I had a really good look!</li><li>2009-07-19T19:00:00Z : Didn't find it by jme1979 <br />Spent quite a while hunting around for this with kersti.com, before finally giving up [:(]</li><li>2009-07-19T19:00:00Z : Didn't find it by Kersti.com <br />No luck finding this one today</li><li>2009-05-05T19:00:00Z : Found it by rooske <br />Easy find</li></ul></logs>
+  <original-xml>  <wpt  lat="53.324133" lon="-6.422383">
+    <time>2007-12-01T08:00:00Z</time>
+    <name>GC17Q65</name>
+    <desc>St. Cuthbert's by moyle, Traditional Cache (1.5/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=44983ea4-0816-4dce-a2bd-3553911160a0</url>
+    <urlname>St. Cuthbert's</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="743232" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>St. Cuthbert's</groundspeak:name>
+      <groundspeak:placed_by>moyle</groundspeak:placed_by>
+      <groundspeak:owner id="1183128">moyle</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>
+      </groundspeak:state>
+      <groundspeak:short_description html="False">A quick cache and dash or is it? There is an entrance to a school nearby so time it right.</groundspeak:short_description>
+      <groundspeak:long_description html="False">
+      </groundspeak:long_description>
+      <groundspeak:encoded_hints>About five foot high.</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="103517230">
+          <groundspeak:date>2010-04-10T23:34:46Z</groundspeak:date>
+          <groundspeak:type>Needs Maintenance</groundspeak:type>
+          <groundspeak:finder id="2190344">anxie</groundspeak:finder>
+          <groundspeak:text encoded="False">thought I'd check this one out to round off the day and as the school hols will be over when I'm back this way next week. No joy in finding it.
+I note that it hasn't been found for 11 months now and the last couple of visits are listed as not found.
+
+I am maybe jumping ahead of myself here by marking it as requiring maintenance, but if anyone wants to give me exact location details on the quiet, I can check out if it is still there any day next week and report back.
+
+anxie
+</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="82241707">
+          <groundspeak:date>2009-08-27T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Didn't find it</groundspeak:type>
+          <groundspeak:finder id="2590439">mrmac250</groundspeak:finder>
+          <groundspeak:text encoded="False">Sorry to say, I couldn't find it anywhere.
+I know I'm at the right spot, and despite the ravaging thorns that's around this, I had a really good look!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="77757804">
+          <groundspeak:date>2009-07-19T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Didn't find it</groundspeak:type>
+          <groundspeak:finder id="1127500">jme1979</groundspeak:finder>
+          <groundspeak:text encoded="False">Spent quite a while hunting around for this with kersti.com, before finally giving up [:(]</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="77679475">
+          <groundspeak:date>2009-07-19T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Didn't find it</groundspeak:type>
+          <groundspeak:finder id="320206">Kersti.com</groundspeak:finder>
+          <groundspeak:text encoded="False">No luck finding this one today</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="69983692">
+          <groundspeak:date>2009-05-05T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1786087">rooske</groundspeak:finder>
+          <groundspeak:text encoded="False">Easy find</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

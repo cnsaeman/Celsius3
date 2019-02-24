@@ -1,0 +1,174 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>003340</id>
+  <cache-id>GC1ZA5W</cache-id>
+  <type>Multi-cache</type>
+  <name>Walking the Walk by Windsockers, Multi-cache (2/2)</name>
+  <size>Small</size>
+  <difficulty>2</difficulty>
+  <terrain>2</terrain>
+  <last-found>2010-01-23</last-found>
+  <placed>2009-11-08</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>Windsockers</placedby>
+  <found>Geocache</found>
+  <lat>53.4948</lat>
+  <lon>-6.109367</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>Windsockers</owner>
+  <description><center>
+<img src="http://img.geocaching.com/cache/f9034cc5-a449-4d2a-a847-a7c51bd80ef3.jpg" />
+</center></description>
+  <long-description><p>Portrane is a small seaside village in North County Dublin. The
+name Portrane comes from Portrachrainn, or the port of the Rechru.
+Rechru was the pre Norse name for Lambay Island, meaning Lamb
+Island, so called by the Danes because of the sheep grazing
+there.</p>
+<p>Burrow Beach is a long, sandy beach that extends from the
+village of Portrane northward into Rogerstown Estuary. The area
+supports a diverse range of native species and is known for certain
+birds and plants in particular.</p>
+<p><b>The Cache</b></p>
+<p>To find the cache you will need to take a walk along the Brook
+Beach and also the sand ladder pathway.</p>
+<p>But first you need to visit the information sign for “The Brook
+Beach” at the above coordinates and find the dates for the
+following.</p>
+<p>Note the year the "Brook" was first constructed call this
+ABCD.<br />
+Note the last to digits after Bishop Comyn Call this EF</p>
+<p>Go to N53 30.(B-D)C(C-D) W6 06.E(C-B+A)F</p>
+<p>At this location find the five digit number call this GHIJK</p>
+<p>Go to N53 30.IDJ W6 0G.(J-A)HF</p>
+<p>Near this location note the last two digits of the ID number
+mentioned call this LM</p>
+<p><b>Final Location</b></p>
+<p>The cache can be found at N53 30.M(E-M)(L+M) W 6 0G.J(M+L)I</p>
+<p>Please rehide the cache carefully to prevent muggles from
+discovering its location.</p>
+<center><br />
+<br />
+<img src="http://www.northbeach.ie/gallery/albums/userpics/10001/windsock-anim-small.gif" />
+<br />
+<br />
+<b>The Windsockers</b></center>
+<br />
+<br />
+<hr size="2" /></long-description>
+  <additional-waypoints>FN1ZA5W - GC1ZA5W Final<br />N/S  __ ° __ . ___ W/E ___ ° __ . ___ <br /><br />S11ZA5W - GC1ZA5W Stage 1<br />N 53° 29.710 W 006° 06.595<br /><br />S21ZA5W - GC1ZA5W Stage 2<br />N/S  __ ° __ . ___ W/E ___ ° __ . ___ <br /><br />S31ZA5W - GC1ZA5W Stage 3<br />N/S  __ ° __ . ___ W/E ___ ° __ . ___ <br /><br /></additional-waypoints>
+  <links>waypoints:cache-id:FN1ZA5W|waypoints:cache-id:S11ZA5W|waypoints:cache-id:S21ZA5W|waypoints:cache-id:S31ZA5W</links>
+  <encoded-hints>Seven</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=a8a24aaf-81a8-45fe-b9f4-f4e5b8c2f3a9</url>
+  <url-name>Walking the Walk</url-name>
+  <logs><ul><li>2010-03-27T19:00:00Z : Found it by steokelly <br />Nice walk will do this again for exercise....</li><li>2010-03-21T19:00:00Z : Found it by rooske <br />Lovely walk on a Sunday afternoon. Could see difficulty between 7 or 8!  Left TB </li><li>2010-03-14T19:00:00Z : Found it by orangetigerprawn <br />Found on a sunny spring afternoon. I hadn't been down this far in years. The last time I was here I think the old tram that had been used as a chalet was still here. An aunt of mine owned it for a period once upon a year. There were quite a number of walkers out and about along the beach but the area around the cache was quiet enough. The cache took a bit of finding and was being guarded by a ferocious slug.
+
+Go raibh maith agat as an taisce.</li><li>2010-01-30T20:00:00Z : Found it by kazidrat <br />Beautiful walk along the sea, found easily...
+In: GC
+TFTC...[:D]</li><li>2010-01-23T20:00:00Z : Found it by Fjon <br />I've no idea how I missed this yesterday! 
+Found it within seconds this time. I think I was too focused on 7 last time, when it's actually 8!</li></ul></logs>
+  <original-xml>  <wpt  lat="53.4948" lon="-6.109367">
+    <time>2009-11-08T08:00:00Z</time>
+    <name>GC1ZA5W</name>
+    <desc>Walking the Walk by Windsockers, Multi-cache (2/2)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=a8a24aaf-81a8-45fe-b9f4-f4e5b8c2f3a9</url>
+    <urlname>Walking the Walk</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Multi-cache</type>
+    <groundspeak:cache id="1415923" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Walking the Walk</groundspeak:name>
+      <groundspeak:placed_by>Windsockers</groundspeak:placed_by>
+      <groundspeak:owner id="271623">Windsockers</groundspeak:owner>
+      <groundspeak:type>Multi-cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>2</groundspeak:difficulty>
+      <groundspeak:terrain>2</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>Leinster</groundspeak:state>
+      <groundspeak:short_description html="True">&lt;center&gt;
+&lt;img src="http://img.geocaching.com/cache/f9034cc5-a449-4d2a-a847-a7c51bd80ef3.jpg" /&gt;
+&lt;/center&gt;</groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;p&gt;Portrane is a small seaside village in North County Dublin. The
+name Portrane comes from Portrachrainn, or the port of the Rechru.
+Rechru was the pre Norse name for Lambay Island, meaning Lamb
+Island, so called by the Danes because of the sheep grazing
+there.&lt;/p&gt;
+&lt;p&gt;Burrow Beach is a long, sandy beach that extends from the
+village of Portrane northward into Rogerstown Estuary. The area
+supports a diverse range of native species and is known for certain
+birds and plants in particular.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;The Cache&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;To find the cache you will need to take a walk along the Brook
+Beach and also the sand ladder pathway.&lt;/p&gt;
+&lt;p&gt;But first you need to visit the information sign for “The Brook
+Beach” at the above coordinates and find the dates for the
+following.&lt;/p&gt;
+&lt;p&gt;Note the year the "Brook" was first constructed call this
+ABCD.&lt;br /&gt;
+Note the last to digits after Bishop Comyn Call this EF&lt;/p&gt;
+&lt;p&gt;Go to N53 30.(B-D)C(C-D) W6 06.E(C-B+A)F&lt;/p&gt;
+&lt;p&gt;At this location find the five digit number call this GHIJK&lt;/p&gt;
+&lt;p&gt;Go to N53 30.IDJ W6 0G.(J-A)HF&lt;/p&gt;
+&lt;p&gt;Near this location note the last two digits of the ID number
+mentioned call this LM&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Final Location&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;The cache can be found at N53 30.M(E-M)(L+M) W 6 0G.J(M+L)I&lt;/p&gt;
+&lt;p&gt;Please rehide the cache carefully to prevent muggles from
+discovering its location.&lt;/p&gt;
+&lt;center&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;img src="http://www.northbeach.ie/gallery/albums/userpics/10001/windsock-anim-small.gif" /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;The Windsockers&lt;/b&gt;&lt;/center&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;hr size="2" /&gt;&lt;p&gt;Additional Waypoints&lt;/p&gt;FN1ZA5W - GC1ZA5W Final&lt;br /&gt;N/S  __ ° __ . ___ W/E ___ ° __ . ___ &lt;br /&gt;&lt;br /&gt;S11ZA5W - GC1ZA5W Stage 1&lt;br /&gt;N 53° 29.710 W 006° 06.595&lt;br /&gt;&lt;br /&gt;S21ZA5W - GC1ZA5W Stage 2&lt;br /&gt;N/S  __ ° __ . ___ W/E ___ ° __ . ___ &lt;br /&gt;&lt;br /&gt;S31ZA5W - GC1ZA5W Stage 3&lt;br /&gt;N/S  __ ° __ . ___ W/E ___ ° __ . ___ &lt;br /&gt;&lt;br /&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>Seven</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="101451140">
+          <groundspeak:date>2010-03-27T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2933361">steokelly</groundspeak:finder>
+          <groundspeak:text encoded="False">Nice walk will do this again for exercise....</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="100562125">
+          <groundspeak:date>2010-03-21T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1786087">rooske</groundspeak:finder>
+          <groundspeak:text encoded="False">Lovely walk on a Sunday afternoon. Could see difficulty between 7 or 8!  Left TB </groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="99739117">
+          <groundspeak:date>2010-03-14T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2167131">orangetigerprawn</groundspeak:finder>
+          <groundspeak:text encoded="False">Found on a sunny spring afternoon. I hadn't been down this far in years. The last time I was here I think the old tram that had been used as a chalet was still here. An aunt of mine owned it for a period once upon a year. There were quite a number of walkers out and about along the beach but the area around the cache was quiet enough. The cache took a bit of finding and was being guarded by a ferocious slug.
+
+Go raibh maith agat as an taisce.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="96261064">
+          <groundspeak:date>2010-01-30T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1851316">kazidrat</groundspeak:finder>
+          <groundspeak:text encoded="False">Beautiful walk along the sea, found easily...
+In: GC
+TFTC...[:D]</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="95857017">
+          <groundspeak:date>2010-01-23T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="243261">Fjon</groundspeak:finder>
+          <groundspeak:text encoded="False">I've no idea how I missed this yesterday! 
+Found it within seconds this time. I think I was too focused on 7 last time, when it's actually 8!</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs>
+        <groundspeak:travelbug id="2659770" ref="TB3A2FZ">
+          <groundspeak:name>Pororoca ~ Endless Wave Geocoin</groundspeak:name>
+        </groundspeak:travelbug>
+      </groundspeak:travelbugs>
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

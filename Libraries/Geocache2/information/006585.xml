@@ -1,0 +1,150 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>006585</id>
+  <cache-id>GC1DZ5D</cache-id>
+  <type>Traditional Cache</type>
+  <name>Holy Nano ! by AbbeyAckbar, Traditional Cache (1/1)</name>
+  <size>Other</size>
+  <difficulty>1</difficulty>
+  <terrain>1</terrain>
+  <last-found>2009-12-31</last-found>
+  <placed>2008-07-07</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>AbbeyAckbar</placedby>
+  <found>Geocache</found>
+  <lat>53.395883</lat>
+  <lon>-6.164383</lon>
+  <last-logs>FFFFW</last-logs>
+  <owner>AbbeyAckbar</owner>
+  <description>The nano is attached to a super magnet, so be careful to replace the nano back on it as the magnetic strength of the nano by itself isn't all that strong. 
+
+
+Don't forget to bring your own pen :) 
+
+
+Parking is available in the shopping centre opposite the cache site</description>
+  <long-description>The 10 Commandments of this cache
+
+1. You shall seek out many a cache hereafter this one
+
+2. You shall not place for yourself a cache beside this one
+
+3. You shall not take the name of another cacher in vain
+    (Even if it is your 3rd DNF on a cache of theirs)
+
+4. Remember, any day makes for a good caching day
+
+5. Honor your geocaching mentor(s) 
+
+6. You shall not muggle this cache
+
+7. You shall replace this cache EXACTLY as you found it
+
+8. You shall do all in your power to prevent a muggle discovering the cache location
+
+9. You shall not lie about finding this cache, & then log that you did
+
+AND FINALLY:.....
+
+10. Hear no DNF, See no DNF, Speak no DNF !</long-description>
+  <encoded-hints>
+      </encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=84cb9e38-9fba-4843-8a21-91f814cad736</url>
+  <url-name>Holy Nano !</url-name>
+  <logs><ul><li>2010-05-15T19:00:00Z : Found it by WeeBookWorm <br />Found when out with my dad (Frezeluberz), gilliancclarke (and her two geo-sprogs) & Zoe andDaddy
+TFTC</li><li>2010-05-15T19:00:00Z : Found it by CheekyCheetah <br />Found when out with my dad (Frezeluberz), gilliancclarke (and her two geo-sprogs) & Zoe andDaddy
+TFTC</li><li>2010-05-15T19:00:00Z : Found it by Frezeluberz <br />Cache was found quickly with no problems.
+TFTC.</li><li>2010-05-15T19:00:00Z : Found it by gilliancclarke <br />Nice little cache and dash</li><li>2009-12-31T20:00:00Z : Write note by Lil' JeePSr <br />I can't believe that I was in Ireland and didn't find even one cache! But I had fun staying with Nana and Grandad while Mammy and Daddy went out without me.[:o)]</li></ul></logs>
+  <original-xml>  <wpt  lat="53.395883" lon="-6.164383">
+    <time>2008-07-07T07:00:00Z</time>
+    <name>GC1DZ5D</name>
+    <desc>Holy Nano ! by AbbeyAckbar, Traditional Cache (1/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=84cb9e38-9fba-4843-8a21-91f814cad736</url>
+    <urlname>Holy Nano !</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="928682" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Holy Nano !</groundspeak:name>
+      <groundspeak:placed_by>AbbeyAckbar</groundspeak:placed_by>
+      <groundspeak:owner id="1265839">AbbeyAckbar</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Other</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>Dublin</groundspeak:state>
+      <groundspeak:short_description html="False">The nano is attached to a super magnet, so be careful to replace the nano back on it as the magnetic strength of the nano by itself isn't all that strong. 
+
+
+Don't forget to bring your own pen :) 
+
+
+Parking is available in the shopping centre opposite the cache site</groundspeak:short_description>
+      <groundspeak:long_description html="False">The 10 Commandments of this cache
+
+1. You shall seek out many a cache hereafter this one
+
+2. You shall not place for yourself a cache beside this one
+
+3. You shall not take the name of another cacher in vain
+    (Even if it is your 3rd DNF on a cache of theirs)
+
+4. Remember, any day makes for a good caching day
+
+5. Honor your geocaching mentor(s) 
+
+6. You shall not muggle this cache
+
+7. You shall replace this cache EXACTLY as you found it
+
+8. You shall do all in your power to prevent a muggle discovering the cache location
+
+9. You shall not lie about finding this cache, &amp; then log that you did
+
+AND FINALLY:.....
+
+10. Hear no DNF, See no DNF, Speak no DNF !</groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="109063707">
+          <groundspeak:date>2010-05-15T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2111147">WeeBookWorm</groundspeak:finder>
+          <groundspeak:text encoded="False">Found when out with my dad (Frezeluberz), gilliancclarke (and her two geo-sprogs) &amp; Zoe andDaddy
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="109062928">
+          <groundspeak:date>2010-05-15T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2111140">CheekyCheetah</groundspeak:finder>
+          <groundspeak:text encoded="False">Found when out with my dad (Frezeluberz), gilliancclarke (and her two geo-sprogs) &amp; Zoe andDaddy
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="108912887">
+          <groundspeak:date>2010-05-15T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1548662">Frezeluberz</groundspeak:finder>
+          <groundspeak:text encoded="False">Cache was found quickly with no problems.
+TFTC.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="108803292">
+          <groundspeak:date>2010-05-15T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="655648">gilliancclarke</groundspeak:finder>
+          <groundspeak:text encoded="False">Nice little cache and dash</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="110380395">
+          <groundspeak:date>2009-12-31T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Write note</groundspeak:type>
+          <groundspeak:finder id="3306421">Lil' JeePSr</groundspeak:finder>
+          <groundspeak:text encoded="False">I can't believe that I was in Ireland and didn't find even one cache! But I had fun staying with Nana and Grandad while Mammy and Daddy went out without me.[:o)]</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

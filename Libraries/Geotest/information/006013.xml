@@ -1,0 +1,96 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>006013</id>
+  <cache-id>GC2KAEB</cache-id>
+  <type>Traditional Cache</type>
+  <name>Nuff un Nopp 006 Kerch by Maluma, Traditional Cache (1.5/1.5)</name>
+  <size>Micro</size>
+  <difficulty>1.5</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-12-13</last-found>
+  <placed>2010-12-13</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Maluma</placedby>
+  <found>Geocache</found>
+  <lat>50.518917</lat>
+  <lon>9.68445</lon>
+  <last-logs>FFF</last-logs>
+  <owner>Maluma</owner>
+  <description>wieder ein weiterer Cache der Serie Nuff un Nopp. Dieser hier hat im übertagenen Sinne was mit Nuff un Nopp zu tun</description>
+  <long-description>
+      </long-description>
+  <encoded-hints>
+      </encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=aa8fbc1e-8cc0-4f90-9962-cbaaf722f2e2</url>
+  <url-name>Nuff un Nopp 006 Kerch</url-name>
+  <logs><ul><li>2010-12-25T20:00:00Z : Found it by Aldokyl <br />Endlich mal wieder cachen im Team.
+Gut, dass der Cache schneesicher war.</li><li>2010-12-14T20:00:00Z : Found it by HubiFD <br />Heute Mittag hat es mich dann doch noch nach draussen gezogen, aber den T5er, der umme Ecke liegt wollte ich dann doch nicht alleine angehen,
+so blieb es dann bei dem Pfarrhausbesuch. 
+Glückwunsch an Garry zum FTF.
+
+TFTC und Gruß an den Owner.</li><li>2010-12-14T20:00:00Z : Found it by 2000wu6 <br />Auf dem Weg nach Frankfurt hier noch kurz einen Zwischenstopp eingelegt ... nach kurzen Orientierungsproblemen dann in die richtige Richtung gegangen, wobei allerdings die Zielzone genau im Blickfeld eines Büro-Muggles lag ... ein Blick offenbarte mir dann aber doch recht schnell das Versteck, aus dem ich den Cache unauffällig bergen konnte ...
+Das Logbuch war - nach den beiden in den Kaiserwiesen gestern - auch hier leer, juchhu, FTF! :)
+TFTC, Garry</li><li>2010-12-13T22:00:29Z : Publish Listing by GC-Knecht <br />Published</li></ul></logs>
+  <original-xml>  <wpt  lat="50.518917" lon="9.68445">
+    <time>2010-12-13T08:00:00Z</time>
+    <name>GC2KAEB</name>
+    <desc>Nuff un Nopp 006 Kerch by Maluma, Traditional Cache (1.5/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=aa8fbc1e-8cc0-4f90-9962-cbaaf722f2e2</url>
+    <urlname>Nuff un Nopp 006 Kerch</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="2012006" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Nuff un Nopp 006 Kerch</groundspeak:name>
+      <groundspeak:placed_by>Maluma</groundspeak:placed_by>
+      <groundspeak:owner id="1380311">Maluma</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">wieder ein weiterer Cache der Serie Nuff un Nopp. Dieser hier hat im übertagenen Sinne was mit Nuff un Nopp zu tun</groundspeak:short_description>
+      <groundspeak:long_description html="False">
+      </groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="139192048">
+          <groundspeak:date>2010-12-25T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="438973">Aldokyl</groundspeak:finder>
+          <groundspeak:text encoded="False">Endlich mal wieder cachen im Team.
+Gut, dass der Cache schneesicher war.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="138588363">
+          <groundspeak:date>2010-12-14T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2729325">HubiFD</groundspeak:finder>
+          <groundspeak:text encoded="False">Heute Mittag hat es mich dann doch noch nach draussen gezogen, aber den T5er, der umme Ecke liegt wollte ich dann doch nicht alleine angehen,
+so blieb es dann bei dem Pfarrhausbesuch. 
+Glückwunsch an Garry zum FTF.
+
+TFTC und Gruß an den Owner.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="138577267">
+          <groundspeak:date>2010-12-14T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2645299">2000wu6</groundspeak:finder>
+          <groundspeak:text encoded="False">Auf dem Weg nach Frankfurt hier noch kurz einen Zwischenstopp eingelegt ... nach kurzen Orientierungsproblemen dann in die richtige Richtung gegangen, wobei allerdings die Zielzone genau im Blickfeld eines Büro-Muggles lag ... ein Blick offenbarte mir dann aber doch recht schnell das Versteck, aus dem ich den Cache unauffällig bergen konnte ...
+Das Logbuch war - nach den beiden in den Kaiserwiesen gestern - auch hier leer, juchhu, FTF! :)
+TFTC, Garry</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="138547855">
+          <groundspeak:date>2010-12-13T22:00:29Z</groundspeak:date>
+          <groundspeak:type>Publish Listing</groundspeak:type>
+          <groundspeak:finder id="1493602">GC-Knecht</groundspeak:finder>
+          <groundspeak:text encoded="False">Published</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

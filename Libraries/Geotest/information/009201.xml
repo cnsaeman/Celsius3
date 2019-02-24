@@ -1,0 +1,136 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>009201</id>
+  <cache-id>GC1B615</cache-id>
+  <type>Multi-cache</type>
+  <name>Jakobsweg by Ubx, Multi-cache (1/1.5)</name>
+  <size>Small</size>
+  <difficulty>1</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-09-19</last-found>
+  <placed>2008-04-13</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Ubx</placedby>
+  <found>Geocache</found>
+  <lat>50.575233</lat>
+  <lon>9.716783</lon>
+  <last-logs>FFFF</last-logs>
+  <owner>ubx</owner>
+  <description>kurzer Multi , der auch von der A7 aus gesucht werden kann</description>
+  <long-description>dieser Cache liegt an dem früheren Wanderweg der Mönche , wenn sie aus der Rhön ins Kloster Fulda wollten und er ist auch für Durchreisende auf der A7 in Richtung Süd machbar.
+Parkplatz für die Landstrasse mit RMV 8260 BUS-Anschluss ist bei  N 50.34.667/E 09.43.087.
+Parkplatz für A7 Richtung Süd ist N 50.34.519/E 09.43.028.
+Bei den Startkoords seht ihr farbige Doppelpfeile, Anzahl= A
+leider sind die Pfeile VERSCHWUNDEN, deshalb A=5  
+Wieviele Sitzbänke mit Lehne sind auf diesem AB Parkplatz, Anzahl = B und die Tische dazu, Anzahl = C. Auf dem Weg nach unten kommt ihr an einer Sitzbank auf einer kleinen Mauer vorbei. Wieviele Bretter, Anzahl = D.
+Der Final ist bei N 50.34.DB0 / E 09.43.0A(C*C)
+bitte wieder an gleicher Stelle und genau so tarnen !!!!
+
+Additional Waypoints
+PA1B615 - parken A7 Süd
+N 50° 34.519 E 009° 43.028
+
+PR1B615 - parken RMV
+N 50° 34.667 E 009° 43.087
+
+</long-description>
+  <encoded-hints>in einer Baumastgabel</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=44dcbe93-8c61-482c-b6b0-bbfcca70cf6a</url>
+  <url-name>Jakobsweg</url-name>
+  <logs><ul><li>2010-11-13T20:00:00Z : Found it by s186003 <br />Schnell gefunden.
+TFTC</li><li>2010-10-17T19:00:00Z : Found it by Rhabarberohr <br />Bei nem schönen Spaziergang mit Muggel Moni und Stierwade auch diesen hier schnell gefunden!
+Logbuch etwas feucht!
+TFTC Gruß Rhabarberohr</li><li>2010-10-17T19:00:00Z : Found it by Stierwade <br />bei wunderschönem Herbstwetter sind wir heute mit Rhabarberohr und Muggel Moni diese schöne Runde angegangen. Leider ist das Logbuch ziemlich feucht!
+TFTC Gruß Stierwade</li><li>2010-09-19T19:39:41Z : Needs Maintenance by framaka <br />Hallo UBX,
+das Logbuch ist Klatschnass. Das Terrain mit den hhen Büschen durch die man durch muss ist 2,5 bis 3 und nicht 1,5. Die Bank auf der Mauer existiert nicht mehr. Nur noch die Halter für die Bretter. Aber dei Zahl Löcher in der Halterung lässt auf die Anzahl Bretter schließen. 
+Vielleicht kannst Du die T-Wertung. erhöhen. Und das Rätsel mit der Bank anpassen. Und, wenn Du den Cache höher bindest, bleibt er trocken.
+(-:
+Frank</li><li>2010-09-19T19:00:00Z : Found it by framaka <br />Hallo Leute,
+# 474 - gehoben um 18:40h - Auf dem Rückweg von Nordhausen nach Aschaffenburg nach etwas Suchen doch gefunden. die Hohen Büsche und überwuchterten Anlagen. Es hat etwas von einem Lost Place....
+Vielen Dank fürs Zeigen!</li></ul></logs>
+  <original-xml>  <wpt  lat="50.575233" lon="9.716783">
+    <time>2008-04-13T07:00:00Z</time>
+    <name>GC1B615</name>
+    <desc>Jakobsweg by Ubx, Multi-cache (1/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=44dcbe93-8c61-482c-b6b0-bbfcca70cf6a</url>
+    <urlname>Jakobsweg</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Multi-cache</type>
+    <groundspeak:cache id="845904" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Jakobsweg</groundspeak:name>
+      <groundspeak:placed_by>Ubx</groundspeak:placed_by>
+      <groundspeak:owner id="787613">ubx</groundspeak:owner>
+      <groundspeak:type>Multi-cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">kurzer Multi , der auch von der A7 aus gesucht werden kann</groundspeak:short_description>
+      <groundspeak:long_description html="False">dieser Cache liegt an dem früheren Wanderweg der Mönche , wenn sie aus der Rhön ins Kloster Fulda wollten und er ist auch für Durchreisende auf der A7 in Richtung Süd machbar.
+Parkplatz für die Landstrasse mit RMV 8260 BUS-Anschluss ist bei  N 50.34.667/E 09.43.087.
+Parkplatz für A7 Richtung Süd ist N 50.34.519/E 09.43.028.
+Bei den Startkoords seht ihr farbige Doppelpfeile, Anzahl= A
+leider sind die Pfeile VERSCHWUNDEN, deshalb A=5  
+Wieviele Sitzbänke mit Lehne sind auf diesem AB Parkplatz, Anzahl = B und die Tische dazu, Anzahl = C. Auf dem Weg nach unten kommt ihr an einer Sitzbank auf einer kleinen Mauer vorbei. Wieviele Bretter, Anzahl = D.
+Der Final ist bei N 50.34.DB0 / E 09.43.0A(C*C)
+bitte wieder an gleicher Stelle und genau so tarnen !!!!
+
+Additional Waypoints
+PA1B615 - parken A7 Süd
+N 50° 34.519 E 009° 43.028
+
+PR1B615 - parken RMV
+N 50° 34.667 E 009° 43.087
+
+</groundspeak:long_description>
+      <groundspeak:encoded_hints>in einer Baumastgabel</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="136074485">
+          <groundspeak:date>2010-11-13T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2819456">s186003</groundspeak:finder>
+          <groundspeak:text encoded="False">Schnell gefunden.
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="131869183">
+          <groundspeak:date>2010-10-17T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2874229">Rhabarberohr</groundspeak:finder>
+          <groundspeak:text encoded="False">Bei nem schönen Spaziergang mit Muggel Moni und Stierwade auch diesen hier schnell gefunden!
+Logbuch etwas feucht!
+TFTC Gruß Rhabarberohr</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="131800710">
+          <groundspeak:date>2010-10-17T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2618790">Stierwade</groundspeak:finder>
+          <groundspeak:text encoded="False">bei wunderschönem Herbstwetter sind wir heute mit Rhabarberohr und Muggel Moni diese schöne Runde angegangen. Leider ist das Logbuch ziemlich feucht!
+TFTC Gruß Stierwade</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="127615990">
+          <groundspeak:date>2010-09-19T19:39:41Z</groundspeak:date>
+          <groundspeak:type>Needs Maintenance</groundspeak:type>
+          <groundspeak:finder id="2848908">framaka</groundspeak:finder>
+          <groundspeak:text encoded="False">Hallo UBX,
+das Logbuch ist Klatschnass. Das Terrain mit den hhen Büschen durch die man durch muss ist 2,5 bis 3 und nicht 1,5. Die Bank auf der Mauer existiert nicht mehr. Nur noch die Halter für die Bretter. Aber dei Zahl Löcher in der Halterung lässt auf die Anzahl Bretter schließen. 
+Vielleicht kannst Du die T-Wertung. erhöhen. Und das Rätsel mit der Bank anpassen. Und, wenn Du den Cache höher bindest, bleibt er trocken.
+(-:
+Frank</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="127612405">
+          <groundspeak:date>2010-09-19T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2848908">framaka</groundspeak:finder>
+          <groundspeak:text encoded="False">Hallo Leute,
+# 474 - gehoben um 18:40h - Auf dem Rückweg von Nordhausen nach Aschaffenburg nach etwas Suchen doch gefunden. die Hohen Büsche und überwuchterten Anlagen. Es hat etwas von einem Lost Place....
+Vielen Dank fürs Zeigen!</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

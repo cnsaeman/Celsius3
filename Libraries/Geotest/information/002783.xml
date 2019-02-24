@@ -1,0 +1,172 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>002783</id>
+  <cache-id>GC1TEVY</cache-id>
+  <type>Traditional Cache</type>
+  <name>Edelsturm - Zahn der Zeit by smartnautilus, Traditional Cache (2/5)</name>
+  <size>Small</size>
+  <difficulty>2</difficulty>
+  <terrain>5</terrain>
+  <last-found>2010-10-09</last-found>
+  <placed>2009-06-03</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>smartnautilus</placedby>
+  <found>Geocache</found>
+  <lat>50.5942</lat>
+  <lon>9.65555</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>smartnautilus</owner>
+  <description>
+      </description>
+  <long-description>Zwischen Kämmerzell und dem Aschenberg befindet sich der
+Edelsturm.<br />
+Ich fand ihn auf einer meiner Touren durch die Umgebung von
+Fulda.<br />
+Zum Glück lag hier noch kein 1/1 Micro Tradi und ich konnte
+einen<br />
+schönen Small legen, der jedoch einfache Kletterfähigkeiten
+erfordert.<br />
+Mutige bzw. Fähige können sicher ohne Sicherung den Cache
+erreichen.<br />
+Offizielle Empfehlung ist natürlich Gurt, Seil und
+Sicherungsgerät<br />
+mitzubringen. Jeder handelt auf eigene Verantworung und
+Gefahr.<br />
+Der Turm bietet bei schönem Wetter eine tolle Aussicht auf
+das<br />
+Umland und Ruhe abseits normaler Radwanderwege. Ein paar
+Photos<br />
+lege ich der Beschreibung noch bei, dann könnt ihr euch einen<br />
+Eindruck vom Turm verschaffen. Für die/den ErstfinderIn liegt<br />
+ein TB und eine Coin im Cache parat.<br />
+<br />
+ <b>1. Logbuch bitte eng beschriften. Danke!</b><br />
+<b>2. Die Location bitte pfleglich behandeln!</b><br />
+<b>3. Bitte wieder die gleiche Tarnung anbringen,<br />
+um den Jugendmuggeln gleich keine Chance zu geben!</b></long-description>
+  <encoded-hints>Tarnung entsteht durch Anpassung an die Umgebung.</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=072a8f8f-848e-4b8c-afe0-55b041099c47</url>
+  <url-name>Edelsturm - Zahn der Zeit</url-name>
+  <logs><ul><li>2010-10-31T19:00:00Z : Found it by fantasio78 <br />War das Zweite Highlight des tages....
+Sehr Cool.
+Ein Wunder das man keinen eintritt zahlen muss....
+DSEF</li><li>2010-10-10T19:00:00Z : Found it by LI*MO <br />Zusammen mit f.etcher und born to Cache konnten wir den Cache sicher ohne Sicherung bergen [:)]
+T</li><li>2010-10-10T19:00:00Z : Found it by born to cache <br />Zusammen mit f.etcher und LI*MO gesucht und gefunden. TFTC</li><li>2010-10-10T19:00:00Z : Found it by f.etcher <br />Zusammen mit LI*Mo und born to cache gefunden. Dank unserem Kletterkünstler war es eine schnelle Sache, auch ohne Sicherung. TFTC</li><li>2010-10-09T19:00:00Z : Found it by Amaronis <br />Ein echt suuuper Turm!!!
+Gefragt sind vor allem Technik und Feingefühl für die Pilotleine.
+Tolle Sache!
+Der krönende Abschluss unserer heutigen Tour.
+Aber der Reihe nach:
+Waren heute im Morgengrauen (06:00) in Franken aufgebrochen, um ein paar vielversprechende Caches in Nordhessen zu machen. Coole Tour!
+Kann mich den Logs von Deichkind und Cessna nur anschließen.
+Hatten vor allem die T5er der Kanonenbahn im Visier, aber der ein oder andere „kleine“ Tradi und der oder andere T5er-Cache auf der Route waren auch geplant. 
+Ihr Jungs/Mädels in Nordhessen habt gute Ideen für und gute Umsetzung von Caches!!
+Super Caches, tolle Locations und ein super Team!!
+Danke an den Owner für den Cache,
+danke an Deichkind und Cessna für die echt suuuper Tour in Nordhessen,
+danke an den „Wettergott“, es herrschten ideale meteorologische Bedingungen.
+Amaronis
+</li></ul></logs>
+  <original-xml>  <wpt  lat="50.5942" lon="9.65555">
+    <time>2009-06-03T07:00:00Z</time>
+    <name>GC1TEVY</name>
+    <desc>Edelsturm - Zahn der Zeit by smartnautilus, Traditional Cache (2/5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=072a8f8f-848e-4b8c-afe0-55b041099c47</url>
+    <urlname>Edelsturm - Zahn der Zeit</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1271465" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Edelsturm - Zahn der Zeit</groundspeak:name>
+      <groundspeak:placed_by>smartnautilus</groundspeak:placed_by>
+      <groundspeak:owner id="1982891">smartnautilus</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>2</groundspeak:difficulty>
+      <groundspeak:terrain>5</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="True">
+      </groundspeak:short_description>
+      <groundspeak:long_description html="True">Zwischen Kämmerzell und dem Aschenberg befindet sich der
+Edelsturm.&lt;br /&gt;
+Ich fand ihn auf einer meiner Touren durch die Umgebung von
+Fulda.&lt;br /&gt;
+Zum Glück lag hier noch kein 1/1 Micro Tradi und ich konnte
+einen&lt;br /&gt;
+schönen Small legen, der jedoch einfache Kletterfähigkeiten
+erfordert.&lt;br /&gt;
+Mutige bzw. Fähige können sicher ohne Sicherung den Cache
+erreichen.&lt;br /&gt;
+Offizielle Empfehlung ist natürlich Gurt, Seil und
+Sicherungsgerät&lt;br /&gt;
+mitzubringen. Jeder handelt auf eigene Verantworung und
+Gefahr.&lt;br /&gt;
+Der Turm bietet bei schönem Wetter eine tolle Aussicht auf
+das&lt;br /&gt;
+Umland und Ruhe abseits normaler Radwanderwege. Ein paar
+Photos&lt;br /&gt;
+lege ich der Beschreibung noch bei, dann könnt ihr euch einen&lt;br /&gt;
+Eindruck vom Turm verschaffen. Für die/den ErstfinderIn liegt&lt;br /&gt;
+ein TB und eine Coin im Cache parat.&lt;br /&gt;
+&lt;br /&gt;
+ &lt;b&gt;1. Logbuch bitte eng beschriften. Danke!&lt;/b&gt;&lt;br /&gt;
+&lt;b&gt;2. Die Location bitte pfleglich behandeln!&lt;/b&gt;&lt;br /&gt;
+&lt;b&gt;3. Bitte wieder die gleiche Tarnung anbringen,&lt;br /&gt;
+um den Jugendmuggeln gleich keine Chance zu geben!&lt;/b&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>Tarnung entsteht durch Anpassung an die Umgebung.</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="134229276">
+          <groundspeak:date>2010-10-31T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1247904">fantasio78</groundspeak:finder>
+          <groundspeak:text encoded="False">War das Zweite Highlight des tages....
+Sehr Cool.
+Ein Wunder das man keinen eintritt zahlen muss....
+DSEF</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="130816371">
+          <groundspeak:date>2010-10-10T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2583892">LI*MO</groundspeak:finder>
+          <groundspeak:text encoded="False">Zusammen mit f.etcher und born to Cache konnten wir den Cache sicher ohne Sicherung bergen [:)]
+T</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="130551238">
+          <groundspeak:date>2010-10-10T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3473620">born to cache</groundspeak:finder>
+          <groundspeak:text encoded="False">Zusammen mit f.etcher und LI*MO gesucht und gefunden. TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="130543832">
+          <groundspeak:date>2010-10-10T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1498819">f.etcher</groundspeak:finder>
+          <groundspeak:text encoded="False">Zusammen mit LI*Mo und born to cache gefunden. Dank unserem Kletterkünstler war es eine schnelle Sache, auch ohne Sicherung. TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="131469271">
+          <groundspeak:date>2010-10-09T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1904208">Amaronis</groundspeak:finder>
+          <groundspeak:text encoded="False">Ein echt suuuper Turm!!!
+Gefragt sind vor allem Technik und Feingefühl für die Pilotleine.
+Tolle Sache!
+Der krönende Abschluss unserer heutigen Tour.
+Aber der Reihe nach:
+Waren heute im Morgengrauen (06:00) in Franken aufgebrochen, um ein paar vielversprechende Caches in Nordhessen zu machen. Coole Tour!
+Kann mich den Logs von Deichkind und Cessna nur anschließen.
+Hatten vor allem die T5er der Kanonenbahn im Visier, aber der ein oder andere „kleine“ Tradi und der oder andere T5er-Cache auf der Route waren auch geplant. 
+Ihr Jungs/Mädels in Nordhessen habt gute Ideen für und gute Umsetzung von Caches!!
+Super Caches, tolle Locations und ein super Team!!
+Danke an den Owner für den Cache,
+danke an Deichkind und Cessna für die echt suuuper Tour in Nordhessen,
+danke an den „Wettergott“, es herrschten ideale meteorologische Bedingungen.
+Amaronis
+</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

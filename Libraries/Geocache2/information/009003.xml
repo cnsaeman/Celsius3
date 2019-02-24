@@ -1,0 +1,132 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>009003</id>
+  <cache-id>GC1QFR7</cache-id>
+  <type>Traditional Cache</type>
+  <name>Jigginstown Village by Eternal Treasure Seekers, Traditional Cache (1/1)</name>
+  <size>Small</size>
+  <difficulty>1</difficulty>
+  <terrain>1</terrain>
+  <last-found>2010-05-29</last-found>
+  <placed>2009-04-24</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>Eternal Treasure Seekers</placedby>
+  <found>Geocache</found>
+  <lat>53.212067</lat>
+  <lon>-6.693083</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>Eternal Treasure Seekers</owner>
+  <description>A quick cache and dash just outside Naas</description>
+  <long-description>Jigginstown, or Sigginstown House as it was also known, one of Kildare’s most prominent ruins, was constructed under the guidance of Thomas Wentworth. Wentworth was Earl of Stafford and was Lord Lieutenant of Ireland during the reign of Charles I. Stafford had planned the building with the idea that it could be home to the king on royal visits to Ireland.
+
+
+Whether this would have been accepted by the king is debatable. Stafford was accused of treason by enemies in the House of Commons never lived to see if indeed he housed a king, as he was sentenced to death and died on the scaffold.
+
+While the building of Jigginstown castle is reputed to be the work of Rev. Mr. Johnson, rector of Dromlease, in the diocese of Kilmore, Cromwell in his ‘Excursions through Ireland’ credits the construction to a member of the Allen family - most likely John Allen, who was noted for his taste in architecture. A reasonable explanation for this conflict regarding the constructor of Jigginstown, is that Allen was responsible for the planning of the building while Johnson carried them out. The building itself measures 448ft in length.
+
+The main entrance of the castle was the hall door which would have led out on to a balustraded platform. At the back of the house are traces of an old fish pond, a feature was contemporary to country houses of that period. Wentworth estimated that the cost of the construction of Jigginstown amounted to £6,000. There is still controversy today as to whether the building was ever really finished. 
+
+From kildare.ie website
+
+A small community developed near the ruins of the castle. It used to be on the main Limerick road, but is now a lovely drive or stroll. 
+
+This an easy grab. Some minor stealthing may be required. 
+
+Initial contents:
+
+Log
+Pencil
+2 euro FTF reward
+3 small toys</long-description>
+  <encoded-hints>In the bridge</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=51484362-399e-4283-a569-03298912ffff</url>
+  <url-name>Jigginstown Village</url-name>
+  <logs><ul><li>2010-06-13T19:00:00Z : Found it by RosMcC <br />No-one about, so a quick cache and dash. TNLNSL Thanks.</li><li>2010-06-06T19:00:00Z : Found it by NaasCacheHunters <br />Thanks for the cache.
+It was our first Geo Cache find.
+Hopefully first of many !
+
+RBHK.</li><li>2010-06-04T19:00:00Z : Found it by Antefix <br />A very good hide! Thank you for the cache and regards from Switzerland</li><li>2010-06-02T19:00:00Z : Found it by Spark_ie <br />Co-ords spot on, and with no one about, it made for an easy grab. Lovely river, looks beautiful with all the water lillies. TFTC !! Spark_ie</li><li>2010-05-29T19:00:00Z : Found it by BlueFoxPL <br />Another great day for caching... found with some friends. TFTC.</li></ul></logs>
+  <original-xml>  <wpt  lat="53.212067" lon="-6.693083">
+    <time>2009-04-24T07:00:00Z</time>
+    <name>GC1QFR7</name>
+    <desc>Jigginstown Village by Eternal Treasure Seekers, Traditional Cache (1/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=51484362-399e-4283-a569-03298912ffff</url>
+    <urlname>Jigginstown Village</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1212760" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Jigginstown Village</groundspeak:name>
+      <groundspeak:placed_by>Eternal Treasure Seekers</groundspeak:placed_by>
+      <groundspeak:owner id="972796">Eternal Treasure Seekers</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>Leinster</groundspeak:state>
+      <groundspeak:short_description html="False">A quick cache and dash just outside Naas</groundspeak:short_description>
+      <groundspeak:long_description html="False">Jigginstown, or Sigginstown House as it was also known, one of Kildare’s most prominent ruins, was constructed under the guidance of Thomas Wentworth. Wentworth was Earl of Stafford and was Lord Lieutenant of Ireland during the reign of Charles I. Stafford had planned the building with the idea that it could be home to the king on royal visits to Ireland.
+
+
+Whether this would have been accepted by the king is debatable. Stafford was accused of treason by enemies in the House of Commons never lived to see if indeed he housed a king, as he was sentenced to death and died on the scaffold.
+
+While the building of Jigginstown castle is reputed to be the work of Rev. Mr. Johnson, rector of Dromlease, in the diocese of Kilmore, Cromwell in his ‘Excursions through Ireland’ credits the construction to a member of the Allen family - most likely John Allen, who was noted for his taste in architecture. A reasonable explanation for this conflict regarding the constructor of Jigginstown, is that Allen was responsible for the planning of the building while Johnson carried them out. The building itself measures 448ft in length.
+
+The main entrance of the castle was the hall door which would have led out on to a balustraded platform. At the back of the house are traces of an old fish pond, a feature was contemporary to country houses of that period. Wentworth estimated that the cost of the construction of Jigginstown amounted to £6,000. There is still controversy today as to whether the building was ever really finished. 
+
+From kildare.ie website
+
+A small community developed near the ruins of the castle. It used to be on the main Limerick road, but is now a lovely drive or stroll. 
+
+This an easy grab. Some minor stealthing may be required. 
+
+Initial contents:
+
+Log
+Pencil
+2 euro FTF reward
+3 small toys</groundspeak:long_description>
+      <groundspeak:encoded_hints>In the bridge</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="112739029">
+          <groundspeak:date>2010-06-13T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="774796">RosMcC</groundspeak:finder>
+          <groundspeak:text encoded="False">No-one about, so a quick cache and dash. TNLNSL Thanks.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="111787984">
+          <groundspeak:date>2010-06-06T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3379136">NaasCacheHunters</groundspeak:finder>
+          <groundspeak:text encoded="False">Thanks for the cache.
+It was our first Geo Cache find.
+Hopefully first of many !
+
+RBHK.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="113115478">
+          <groundspeak:date>2010-06-04T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="886457">Antefix</groundspeak:finder>
+          <groundspeak:text encoded="False">A very good hide! Thank you for the cache and regards from Switzerland</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="111389654">
+          <groundspeak:date>2010-06-02T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="950104">Spark_ie</groundspeak:finder>
+          <groundspeak:text encoded="False">Co-ords spot on, and with no one about, it made for an easy grab. Lovely river, looks beautiful with all the water lillies. TFTC !! Spark_ie</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="113112419">
+          <groundspeak:date>2010-05-29T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3361446">BlueFoxPL</groundspeak:finder>
+          <groundspeak:text encoded="False">Another great day for caching... found with some friends. TFTC.</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

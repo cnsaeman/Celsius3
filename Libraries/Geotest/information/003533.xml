@@ -1,0 +1,160 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>003533</id>
+  <cache-id>GC27E95</cache-id>
+  <type>Traditional Cache</type>
+  <name>Rhönblick - Waldrandcache by HubiFD, Traditional Cache (1.5/1.5)</name>
+  <size>Micro</size>
+  <difficulty>1.5</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-10-25</last-found>
+  <placed>2010-04-25</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>HubiFD</placedby>
+  <found>Geocache</found>
+  <lat>50.555017</lat>
+  <lon>9.792783</lon>
+  <last-logs>FFFWF</last-logs>
+  <owner>HubiFD</owner>
+  <description>
+      </description>
+  <long-description><b>Wieder ein Cache aus der Rhönblick-Reihe, der zum Verweilen und
+Genießen der Aussicht einlädt.<br />
+Ihr habt hier wieder einen schönen Blick in die Rhön und auf Schloß
+Bieberstein.<br />
+<br />
+Man kann diesen Cache wunderbar mit einer Radtour verbinden.<br />
+Auch hier handelt es sich wieder um eine Filmdose,<br />
+also bitte Stift mitbringen.<br />
+<br />
+<br />
+<br />
+Viel Spaß beim Suchen wünscht Euch<br /></b>
+<table>
+<tr>
+<td align="center"><img src=
+"http://www.zrx-ig-forum.de/phpbb/images/avatars/88864716449a2c1d31eb44.gif" /></td>
+</tr>
+</table>
+<br />
+<br />
+<b>Glückwunsch dem Erstfinder: jonny-blue</b></long-description>
+  <encoded-hints>
+      </encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=8cefa4d9-5dc2-48a3-8187-3551095be129</url>
+  <url-name>Rhönblick - Waldrandcache</url-name>
+  <logs><ul><li>2010-12-05T20:00:00Z : Found it by Camuvlash <br />Trotz Schnee gut gefunden, vielen Dank.</li><li>2010-11-27T20:00:00Z : Found it by Maluma <br />Heute bei Eiseskälte uns auf dei Socken gemacht und eine Hubi-Runde gedreht..
+
+TFTC MALUMA</li><li>2010-11-04T19:00:00Z : Found it by Riesemils <br />Jetzt war es der Richtige.  Nun stehe ich im originalen Logbuch. Konnte ja nicht wissen, das dort 2 Dosen innerhalb von 30 cm liegen. Jetzt ist aber wieder alles in Ordnung. Dabei noch ein schönes Herbstbild  von dort gemacht.                  Danke sagt der RieseMils
+
+
+
+
+This entry was edited by Riesemils on Thursday, 04 November 2010 at 13:40:18.</li><li>2010-11-03T19:00:00Z : Write note by HubiFD <br />Nachdem laut "Riesemils" angeblich kein Logbuch im Cache sein sollte, habe ich heute eine Cachewartung durchgeführt. 
+Mit meinem Cache ist alles in Ordnung, irgend jemand hat dort eine zweite Dose deponiert und sie so offensichtlich in der Wurzel versteckt dass der Vorlogger meinte er hätte die richtige Dose gefunden. Dem war aber nicht so.
+Um diese Verwechslung auszuschließen habe ich die fremde Dose entfernt und all meine Caches auf Geocaching.de bzw. Opencaching.de gelöscht bzw. archiviert, da in der zweiten Dose das Listing von Opencaching.de drinne war.
+Nach Kontrolle des Logbuches, ist der Online-Log von "Riesemils" leider ungültig und wird gelöscht, sein Name steht ja leider nicht im Logbuch meines Caches und gilt deshalb als nicht gefunden.
+
+Gruß Hubi</li><li>2010-10-25T23:51:07Z : Found it by Daimonion <br />Netter Feierabend-Cache mit herbstlicher Aussicht.
+
+Es grüßt
+
+Daimonion</li></ul></logs>
+  <original-xml>  <wpt  lat="50.555017" lon="9.792783">
+    <time>2010-04-25T07:00:00Z</time>
+    <name>GC27E95</name>
+    <desc>Rhönblick - Waldrandcache by HubiFD, Traditional Cache (1.5/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=8cefa4d9-5dc2-48a3-8187-3551095be129</url>
+    <urlname>Rhönblick - Waldrandcache</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1658197" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Rhönblick - Waldrandcache</groundspeak:name>
+      <groundspeak:placed_by>HubiFD</groundspeak:placed_by>
+      <groundspeak:owner id="2729325">HubiFD</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="True">
+      </groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;b&gt;Wieder ein Cache aus der Rhönblick-Reihe, der zum Verweilen und
+Genießen der Aussicht einlädt.&lt;br /&gt;
+Ihr habt hier wieder einen schönen Blick in die Rhön und auf Schloß
+Bieberstein.&lt;br /&gt;
+&lt;br /&gt;
+Man kann diesen Cache wunderbar mit einer Radtour verbinden.&lt;br /&gt;
+Auch hier handelt es sich wieder um eine Filmdose,&lt;br /&gt;
+also bitte Stift mitbringen.&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+Viel Spaß beim Suchen wünscht Euch&lt;br /&gt;&lt;/b&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td align="center"&gt;&lt;img src=
+"http://www.zrx-ig-forum.de/phpbb/images/avatars/88864716449a2c1d31eb44.gif" /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Glückwunsch dem Erstfinder: jonny-blue&lt;/b&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="137952889">
+          <groundspeak:date>2010-12-05T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2724623">Camuvlash</groundspeak:finder>
+          <groundspeak:text encoded="False">Trotz Schnee gut gefunden, vielen Dank.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="137231639">
+          <groundspeak:date>2010-11-27T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1380311">Maluma</groundspeak:finder>
+          <groundspeak:text encoded="False">Heute bei Eiseskälte uns auf dei Socken gemacht und eine Hubi-Runde gedreht..
+
+TFTC MALUMA</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="134458564">
+          <groundspeak:date>2010-11-04T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3881223">Riesemils</groundspeak:finder>
+          <groundspeak:text encoded="False">Jetzt war es der Richtige.  Nun stehe ich im originalen Logbuch. Konnte ja nicht wissen, das dort 2 Dosen innerhalb von 30 cm liegen. Jetzt ist aber wieder alles in Ordnung. Dabei noch ein schönes Herbstbild  von dort gemacht.                  Danke sagt der RieseMils
+
+
+
+
+This entry was edited by Riesemils on Thursday, 04 November 2010 at 13:40:18.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="134409067">
+          <groundspeak:date>2010-11-03T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Write note</groundspeak:type>
+          <groundspeak:finder id="2729325">HubiFD</groundspeak:finder>
+          <groundspeak:text encoded="False">Nachdem laut "Riesemils" angeblich kein Logbuch im Cache sein sollte, habe ich heute eine Cachewartung durchgeführt. 
+Mit meinem Cache ist alles in Ordnung, irgend jemand hat dort eine zweite Dose deponiert und sie so offensichtlich in der Wurzel versteckt dass der Vorlogger meinte er hätte die richtige Dose gefunden. Dem war aber nicht so.
+Um diese Verwechslung auszuschließen habe ich die fremde Dose entfernt und all meine Caches auf Geocaching.de bzw. Opencaching.de gelöscht bzw. archiviert, da in der zweiten Dose das Listing von Opencaching.de drinne war.
+Nach Kontrolle des Logbuches, ist der Online-Log von "Riesemils" leider ungültig und wird gelöscht, sein Name steht ja leider nicht im Logbuch meines Caches und gilt deshalb als nicht gefunden.
+
+Gruß Hubi</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="133079544">
+          <groundspeak:date>2010-10-25T23:51:07Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="750446">Daimonion</groundspeak:finder>
+          <groundspeak:text encoded="False">Netter Feierabend-Cache mit herbstlicher Aussicht.
+
+Es grüßt
+
+Daimonion</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

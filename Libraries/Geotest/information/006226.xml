@@ -1,0 +1,112 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>006226</id>
+  <cache-id>GC21XTE</cache-id>
+  <type>Unknown Cache</type>
+  <name>Arbor Pust (Bonus) by Lietz-Cacher, Unknown Cache (1.5/2)</name>
+  <size>Micro</size>
+  <difficulty>1.5</difficulty>
+  <terrain>2</terrain>
+  <last-found>2010-10-25</last-found>
+  <placed>2009-12-11</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Lietz-Cacher</placedby>
+  <found>Geocache</found>
+  <lat>50.615517</lat>
+  <lon>9.75865</lon>
+  <last-logs>WFFFW</last-logs>
+  <owner>Lietz-Cacher</owner>
+  <description>Bonus zu dem Nachtcache "Arboretum"</description>
+  <long-description>Zusammen mir "Arbor Knick" zeigt dieser Bonus-Cache den einfachsten Weg zurück zum Auto. 
+
+Die Bonuszahl befindet sich im Logbuch von "Arboretum". Damit erhaltet ihr:
+
+N    37.(6 * Bonuszahl - 2)
+E    45.(55 * Bonuszahl + 3)
+
+Gekennzeichnet mit Doppelreflektor.
+
+Additional Waypoints
+</long-description>
+  <encoded-hints>inderbaumruineaufkopfhoehe</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=5f5152aa-72e6-4009-8bfc-15336fa9d8e5</url>
+  <url-name>Arbor Pust (Bonus)</url-name>
+  <logs><ul><li>2010-12-11T20:00:00Z : Write note by Lietz-Cacher <br />Leider haben wir die Dose heute bei unserer Wartung von Arboretum nicht mehr austauschen können. Bitte erst mal weiter per Foto dokumentiere, dass die olle alte Dose gefunden wurde und einen "found" loggen.</li><li>2010-12-03T20:00:00Z : Found it by Aldokyl <br />Ja ja, hier kommt das angesprochene Bild.
+Man kann deutlich erkennen, dass wir 5 Cacher waren.</li><li>2010-12-03T20:00:00Z : Found it by TT-Diver76 <br />tiefgefrohrenes Logbuch gehoben, da war kein Deckel drauf. Aldokyl hat ein Bild von uns gmeacht, bzw von unserem NC-Zubehör
+tftc Jan</li><li>2010-12-03T20:00:00Z : Found it by Krass-D <br />Aldokyl hat noch ein Foto vom Logbuch gemacht...  stellt er bestimmt mit ein!</li><li>2010-10-25T19:00:00Z : Write note by HubiFD <br />Coin nachgeloggt.
+
+Gruß Hubi</li></ul></logs>
+  <original-xml>  <wpt  lat="50.615517" lon="9.75865">
+    <time>2009-12-11T08:00:00Z</time>
+    <name>GC21XTE</name>
+    <desc>Arbor Pust (Bonus) by Lietz-Cacher, Unknown Cache (1.5/2)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=5f5152aa-72e6-4009-8bfc-15336fa9d8e5</url>
+    <urlname>Arbor Pust (Bonus)</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Unknown Cache</type>
+    <groundspeak:cache id="1493410" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Arbor Pust (Bonus)</groundspeak:name>
+      <groundspeak:placed_by>Lietz-Cacher</groundspeak:placed_by>
+      <groundspeak:owner id="1965442">Lietz-Cacher</groundspeak:owner>
+      <groundspeak:type>Unknown Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>2</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">Bonus zu dem Nachtcache "Arboretum"</groundspeak:short_description>
+      <groundspeak:long_description html="False">Zusammen mir "Arbor Knick" zeigt dieser Bonus-Cache den einfachsten Weg zurück zum Auto. 
+
+Die Bonuszahl befindet sich im Logbuch von "Arboretum". Damit erhaltet ihr:
+
+N    37.(6 * Bonuszahl - 2)
+E    45.(55 * Bonuszahl + 3)
+
+Gekennzeichnet mit Doppelreflektor.
+
+Additional Waypoints
+</groundspeak:long_description>
+      <groundspeak:encoded_hints>inderbaumruineaufkopfhoehe</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="138345060">
+          <groundspeak:date>2010-12-11T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Write note</groundspeak:type>
+          <groundspeak:finder id="1965442">Lietz-Cacher</groundspeak:finder>
+          <groundspeak:text encoded="False">Leider haben wir die Dose heute bei unserer Wartung von Arboretum nicht mehr austauschen können. Bitte erst mal weiter per Foto dokumentiere, dass die olle alte Dose gefunden wurde und einen "found" loggen.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="138254405">
+          <groundspeak:date>2010-12-03T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="438973">Aldokyl</groundspeak:finder>
+          <groundspeak:text encoded="False">Ja ja, hier kommt das angesprochene Bild.
+Man kann deutlich erkennen, dass wir 5 Cacher waren.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="138022226">
+          <groundspeak:date>2010-12-03T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1477790">TT-Diver76</groundspeak:finder>
+          <groundspeak:text encoded="False">tiefgefrohrenes Logbuch gehoben, da war kein Deckel drauf. Aldokyl hat ein Bild von uns gmeacht, bzw von unserem NC-Zubehör
+tftc Jan</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="137826852">
+          <groundspeak:date>2010-12-03T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1309085">Krass-D</groundspeak:finder>
+          <groundspeak:text encoded="False">Aldokyl hat noch ein Foto vom Logbuch gemacht...  stellt er bestimmt mit ein!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="133434098">
+          <groundspeak:date>2010-10-25T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Write note</groundspeak:type>
+          <groundspeak:finder id="2729325">HubiFD</groundspeak:finder>
+          <groundspeak:text encoded="False">Coin nachgeloggt.
+
+Gruß Hubi</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

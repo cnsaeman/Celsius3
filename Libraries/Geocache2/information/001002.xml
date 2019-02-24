@@ -1,0 +1,142 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>001002</id>
+  <cache-id>GC23C21</cache-id>
+  <type>Traditional Cache</type>
+  <name>The Skerries stash  by winsac, Traditional Cache (1.5/1.5)</name>
+  <size>Small</size>
+  <difficulty>1.5</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-05-16</last-found>
+  <placed>2010-01-26</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>winsac</placedby>
+  <found>Geocache</found>
+  <lat>53.586283</lat>
+  <lon>-6.1366</lon>
+  <last-logs>FXWFF</last-logs>
+  <owner>winsac</owner>
+  <description>
+      </description>
+  <long-description>Skerries has five islands off its coast. These are Shenick Island,
+St Patrick's, Colt and Rockabill. Rockabill is in fact two islands,
+the Rock and the Bill, separated by a narrow channel. There is also
+Red Island which, despite the name, is actually a tombolo.
+
+ The town
+itself is built around two long streets - Strand Street and Church
+Street and between the surrounding hills of North Fingal and
+low-lying beaches. Red Island, Mill Hill, Hillside, The public
+Ardgillan Park and Demesne, Barnageera and to a lesser extent
+Baldungan Castle are high points on which you can look over the
+town.
+
+ Baldungan Castle Rockabill has the largest numbers of
+breeding Roseate Terns in Europe. It is also the farthest away from
+the town and has a lighthouse. On Shenick Island can be found a
+Martello tower, one of a number of defensive towers erected during
+the Napoleonic era along the Irish coast by the British. Shenick is
+accessible on foot at the lowest tides. The other islands are
+harder to reach, but it is possible by boat. Red Island also has a
+Martello Tower. St Patrick's Island is so called because this is
+where the Irish patron saint is reputed to have landed and begun
+his mission to convert the country to Christianity. It is also
+known locally as Church Island.
+
+
+ Please take a photo and post if you
+can.</long-description>
+  <encoded-hints>Look out to sea through the pointed eye , then look left to land, you will soon find the pipe for cache in hand.</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=5124c762-c9d7-4b6d-af7f-d9f735c07baf</url>
+  <url-name>The Skerries stash </url-name>
+  <logs><ul><li>2010-06-05T19:00:00Z : Found it by thomasvm <br />Quick find - interesting location - took coin. TFTC.</li><li>2010-05-31T19:00:00Z : Didn't find it by BaznGuy <br />Just down the road from our freinds house in Skerries, but despite 4 of us looking in every kind of pipe for over half an hour we couldn't find it.</li><li>2010-05-21T19:00:00Z : Write note by Petr Skacha <br />In:GC
+Out:GC</li><li>2010-05-16T19:00:00Z : Found it by Alastair74 <br />Found with Wildfowler on the way home from Dublin after a weekends caching.TFTC. Left Geocoin.</li><li>2010-05-16T19:00:00Z : Found it by wildfowler <br />Found on the way home from a caching weekend around Dublin with Alastair74! TNLNSL TFTC</li></ul></logs>
+  <original-xml>  <wpt  lat="53.586283" lon="-6.1366">
+    <time>2010-01-26T08:00:00Z</time>
+    <name>GC23C21</name>
+    <desc>The Skerries stash  by winsac, Traditional Cache (1.5/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=5124c762-c9d7-4b6d-af7f-d9f735c07baf</url>
+    <urlname>The Skerries stash </urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1536890" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>The Skerries stash </groundspeak:name>
+      <groundspeak:placed_by>winsac</groundspeak:placed_by>
+      <groundspeak:owner id="2920571">winsac</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>Leinster</groundspeak:state>
+      <groundspeak:short_description html="False">
+      </groundspeak:short_description>
+      <groundspeak:long_description html="False">Skerries has five islands off its coast. These are Shenick Island,
+St Patrick's, Colt and Rockabill. Rockabill is in fact two islands,
+the Rock and the Bill, separated by a narrow channel. There is also
+Red Island which, despite the name, is actually a tombolo.
+
+ The town
+itself is built around two long streets - Strand Street and Church
+Street and between the surrounding hills of North Fingal and
+low-lying beaches. Red Island, Mill Hill, Hillside, The public
+Ardgillan Park and Demesne, Barnageera and to a lesser extent
+Baldungan Castle are high points on which you can look over the
+town.
+
+ Baldungan Castle Rockabill has the largest numbers of
+breeding Roseate Terns in Europe. It is also the farthest away from
+the town and has a lighthouse. On Shenick Island can be found a
+Martello tower, one of a number of defensive towers erected during
+the Napoleonic era along the Irish coast by the British. Shenick is
+accessible on foot at the lowest tides. The other islands are
+harder to reach, but it is possible by boat. Red Island also has a
+Martello Tower. St Patrick's Island is so called because this is
+where the Irish patron saint is reputed to have landed and begun
+his mission to convert the country to Christianity. It is also
+known locally as Church Island.
+
+
+ Please take a photo and post if you
+can.</groundspeak:long_description>
+      <groundspeak:encoded_hints>Look out to sea through the pointed eye , then look left to land, you will soon find the pipe for cache in hand.</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="111609774">
+          <groundspeak:date>2010-06-05T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2849183">thomasvm</groundspeak:finder>
+          <groundspeak:text encoded="False">Quick find - interesting location - took coin. TFTC.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="111665682">
+          <groundspeak:date>2010-05-31T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Didn't find it</groundspeak:type>
+          <groundspeak:finder id="859481">BaznGuy</groundspeak:finder>
+          <groundspeak:text encoded="False">Just down the road from our freinds house in Skerries, but despite 4 of us looking in every kind of pipe for over half an hour we couldn't find it.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="110747716">
+          <groundspeak:date>2010-05-21T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Write note</groundspeak:type>
+          <groundspeak:finder id="821695">Petr Skacha</groundspeak:finder>
+          <groundspeak:text encoded="False">In:GC
+Out:GC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="109095348">
+          <groundspeak:date>2010-05-16T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2453409">Alastair74</groundspeak:finder>
+          <groundspeak:text encoded="False">Found with Wildfowler on the way home from Dublin after a weekends caching.TFTC. Left Geocoin.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="108921783">
+          <groundspeak:date>2010-05-16T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="182407">wildfowler</groundspeak:finder>
+          <groundspeak:text encoded="False">Found on the way home from a caching weekend around Dublin with Alastair74! TNLNSL TFTC</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

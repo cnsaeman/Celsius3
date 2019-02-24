@@ -1,0 +1,122 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>008948</id>
+  <cache-id>GC1J8H3</cache-id>
+  <type>Traditional Cache</type>
+  <name>Motorway Mayhem M1 J5 (Irelands First) by Windsockers, Traditional Cache (1.5/1.5)</name>
+  <size>Micro</size>
+  <difficulty>1.5</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2009-04-11</last-found>
+  <placed>2008-12-02</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>Windsockers</placedby>
+  <found>Geocache</found>
+  <lat>53.5647</lat>
+  <lon>-6.2106</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>Windsockers</owner>
+  <description><center>
+<img src="http://img.groundspeak.com/cache/91177e20-0e54-461a-8d39-1ef289f358cf.jpg" />
+</center></description>
+  <long-description><p>A quick cache and dash at Ireland's first motorway service
+station which opened this week.<br />
+Motorway Mayhem caches are designed to provide fairly easy drive-by
+caches for travellers who are in need of a break.<br />
+You can access this cache from Junction 5 at both the North and
+South bound exits.</p>
+<p><b>The Cache</b></p>
+<p>The cache is a magnetic micro container please rehide it with
+care to prevent muggles from discovering its location</p>
+<center>
+<img src="http://www.northbeach.ie/gallery/albums/userpics/10001/windsock-anim-small.gif" />
+<br />
+<b>The Windsockers</b></center>
+<hr size="2" /></long-description>
+  <encoded-hints>Guard Rail</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=74ee75c5-cee7-4898-98b3-04593db3c610</url>
+  <url-name>Motorway Mayhem M1 J5 (Irelands First)</url-name>
+  <logs><ul><li>2010-06-07T19:00:00Z : Found it by niallk1234 <br />Easy find, the first of 6 for today. Had to be careful as a truck was parked beside GZ, but the driver was on his phone and didn't take much notice of me. Log is a bit damp. TFTC</li><li>2010-05-31T19:00:00Z : Found it by thomasvm <br />Easy find on the way home. TFTC.</li><li>2010-05-09T19:00:00Z : Found it by salt'n'light <br />Would NEVER have come here were it not for the cache!
+Easy!
+TFTC</li><li>2009-04-11T19:00:00Z : Found it by CheekyCheetah <br />Found when out with my parents (Frezeluberz)
+TFTC</li><li>2009-04-11T19:00:00Z : Found it by WeeBookWorm <br />Found when out with my parents (Frezeluberz)
+TFTC</li></ul></logs>
+  <original-xml>  <wpt  lat="53.5647" lon="-6.2106">
+    <time>2008-12-02T08:00:00Z</time>
+    <name>GC1J8H3</name>
+    <desc>Motorway Mayhem M1 J5 (Irelands First) by Windsockers, Traditional Cache (1.5/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=74ee75c5-cee7-4898-98b3-04593db3c610</url>
+    <urlname>Motorway Mayhem M1 J5 (Irelands First)</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1056857" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Motorway Mayhem M1 J5 (Irelands First)</groundspeak:name>
+      <groundspeak:placed_by>Windsockers</groundspeak:placed_by>
+      <groundspeak:owner id="271623">Windsockers</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>Leinster</groundspeak:state>
+      <groundspeak:short_description html="True">&lt;center&gt;
+&lt;img src="http://img.groundspeak.com/cache/91177e20-0e54-461a-8d39-1ef289f358cf.jpg" /&gt;
+&lt;/center&gt;</groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;p&gt;A quick cache and dash at Ireland's first motorway service
+station which opened this week.&lt;br /&gt;
+Motorway Mayhem caches are designed to provide fairly easy drive-by
+caches for travellers who are in need of a break.&lt;br /&gt;
+You can access this cache from Junction 5 at both the North and
+South bound exits.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;The Cache&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;The cache is a magnetic micro container please rehide it with
+care to prevent muggles from discovering its location&lt;/p&gt;
+&lt;center&gt;
+&lt;img src="http://www.northbeach.ie/gallery/albums/userpics/10001/windsock-anim-small.gif" /&gt;
+&lt;br /&gt;
+&lt;b&gt;The Windsockers&lt;/b&gt;&lt;/center&gt;
+&lt;hr size="2" /&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>Guard Rail</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="112005681">
+          <groundspeak:date>2010-06-07T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2923926">niallk1234</groundspeak:finder>
+          <groundspeak:text encoded="False">Easy find, the first of 6 for today. Had to be careful as a truck was parked beside GZ, but the driver was on his phone and didn't take much notice of me. Log is a bit damp. TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="110960812">
+          <groundspeak:date>2010-05-31T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2849183">thomasvm</groundspeak:finder>
+          <groundspeak:text encoded="False">Easy find on the way home. TFTC.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="108004072">
+          <groundspeak:date>2010-05-09T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2812617">salt'n'light</groundspeak:finder>
+          <groundspeak:text encoded="False">Would NEVER have come here were it not for the cache!
+Easy!
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="103073300">
+          <groundspeak:date>2009-04-11T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2111140">CheekyCheetah</groundspeak:finder>
+          <groundspeak:text encoded="False">Found when out with my parents (Frezeluberz)
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="103058783">
+          <groundspeak:date>2009-04-11T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2111147">WeeBookWorm</groundspeak:finder>
+          <groundspeak:text encoded="False">Found when out with my parents (Frezeluberz)
+TFTC</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

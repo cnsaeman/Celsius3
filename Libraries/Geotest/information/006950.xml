@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>006950</id>
+  <cache-id>1227T5F</cache-id>
+  <type>Waypoint</type>
+  <name>B-Land</name>
+  <placed>2010-05-01</placed>
+  <lat>50.473483</lat>
+  <lon>9.625683</lon>
+  <attributes>hidden</attributes>
+  <description>Hier könnt Ihr parken, wenn Ihr von Süd/West kommt</description>
+  <url>http://www.geocaching.com/seek/wpt.aspx?WID=a2f9ab7d-8d3c-4f7a-ad81-7d5bd6e466f7</url>
+  <url-name>B-Land</url-name>
+</element>
+</celsiusv2.1.addinfofile>

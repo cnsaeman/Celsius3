@@ -1,0 +1,96 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>001596</id>
+  <cache-id>GC17V4Q</cache-id>
+  <type>Traditional Cache</type>
+  <name>alte B 254 by ubx, Traditional Cache (1/1)</name>
+  <size>Micro</size>
+  <difficulty>1</difficulty>
+  <terrain>1</terrain>
+  <last-found>2010-10-29</last-found>
+  <placed>2007-12-07</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>ubx</placedby>
+  <found>Geocache</found>
+  <lat>50.595517</lat>
+  <lon>9.52875</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>ubx</owner>
+  <description>ein micro an der alten B 254</description>
+  <long-description>dies ist noch ein Stück der alten B 254 über die vor 40 Jahren  der ganze Verkehr über Lauterbach nach Alsfeld lief.Noch gut erhalten und für einen Drive-in sehr gut geeignet für alle , die hier vorbeikommen.</long-description>
+  <encoded-hints>in Augenhöhe angebracht</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=267f75bc-4234-4349-8c0d-95faf95ce86c</url>
+  <url-name>alte B 254</url-name>
+  <logs><ul><li>2010-11-16T20:00:00Z : Found it by Eckhardt <br />Schnell gefunden</li><li>2010-11-05T19:00:00Z : Found it by reidi <br />Nachdem gestern genau bei den Zielkoordinaten ein bemanntes mugglemobil stand, konnten wir nicht suchen. Heute hats geklappt und wir haben das schöne Versteck gefunden. 
+Zusammen mit "toter Baum" haben wir einen schönen Halbkreis um Großenlüder gedreht. 
+Vielen Dank! [^]</li><li>2010-11-01T19:00:00Z : Found it by deepthought2003 <br />#73
+Auf unserem Weg vorbei kurz angehalten und schnell gefunden.
+TFTC</li><li>2010-10-31T19:00:00Z : Found it by balu-fd <br />Heute vormittag nach dem Kirchgang schnell gefunden und geloggt. TFTC! Gruß balu-fd</li><li>2010-10-29T19:00:00Z : Found it by Luca_DA <br />Zusammen mit Fla20m an einem Freitagabend gefunden :)
+
+TFTC</li></ul></logs>
+  <original-xml>  <wpt  lat="50.595517" lon="9.52875">
+    <time>2007-12-07T08:00:00Z</time>
+    <name>GC17V4Q</name>
+    <desc>alte B 254 by ubx, Traditional Cache (1/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=267f75bc-4234-4349-8c0d-95faf95ce86c</url>
+    <urlname>alte B 254</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="746071" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>alte B 254</groundspeak:name>
+      <groundspeak:placed_by>ubx</groundspeak:placed_by>
+      <groundspeak:owner id="787613">ubx</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">ein micro an der alten B 254</groundspeak:short_description>
+      <groundspeak:long_description html="False">dies ist noch ein Stück der alten B 254 über die vor 40 Jahren  der ganze Verkehr über Lauterbach nach Alsfeld lief.Noch gut erhalten und für einen Drive-in sehr gut geeignet für alle , die hier vorbeikommen.</groundspeak:long_description>
+      <groundspeak:encoded_hints>in Augenhöhe angebracht</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="136198299">
+          <groundspeak:date>2010-11-16T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1802355">Eckhardt</groundspeak:finder>
+          <groundspeak:text encoded="False">Schnell gefunden</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="134554922">
+          <groundspeak:date>2010-11-05T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1918862">reidi</groundspeak:finder>
+          <groundspeak:text encoded="False">Nachdem gestern genau bei den Zielkoordinaten ein bemanntes mugglemobil stand, konnten wir nicht suchen. Heute hats geklappt und wir haben das schöne Versteck gefunden. 
+Zusammen mit "toter Baum" haben wir einen schönen Halbkreis um Großenlüder gedreht. 
+Vielen Dank! [^]</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="134172799">
+          <groundspeak:date>2010-11-01T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3744532">deepthought2003</groundspeak:finder>
+          <groundspeak:text encoded="False">#73
+Auf unserem Weg vorbei kurz angehalten und schnell gefunden.
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="133888708">
+          <groundspeak:date>2010-10-31T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3122379">balu-fd</groundspeak:finder>
+          <groundspeak:text encoded="False">Heute vormittag nach dem Kirchgang schnell gefunden und geloggt. TFTC! Gruß balu-fd</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="134489337">
+          <groundspeak:date>2010-10-29T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3421688">Luca_DA</groundspeak:finder>
+          <groundspeak:text encoded="False">Zusammen mit Fla20m an einem Freitagabend gefunden :)
+
+TFTC</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

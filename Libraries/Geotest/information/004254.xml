@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>004254</id>
+  <cache-id>GC27C2Z</cache-id>
+  <type>Traditional Cache</type>
+  <name>Tukka Takka Land  by f.etcher, Traditional Cache (1.5/1.5)</name>
+  <size>Micro</size>
+  <difficulty>1.5</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-11-19</last-found>
+  <placed>2010-04-24</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>f.etcher</placedby>
+  <found>Geocache</found>
+  <lat>50.5374</lat>
+  <lon>9.72145</lon>
+  <last-logs>WFWFF</last-logs>
+  <owner>f.etcher</owner>
+  <description>
+      </description>
+  <long-description>Ein einfacher drive-inn Tradi. Besonders geeignet für den kurzen Cache vor oder nach Besuch der sehr nahe gelegenen Vergnügungs- und Entspannungsmöglichkeiten. Parken ist daher in unmittelbarer Umgebung möglich.
+
+A simple drive-inn cache. The cache is especially for visitors of the "takka-tukka land", "Sieben Welten" and hotel guests. Parking is possible in direct surrounding area.</long-description>
+  <encoded-hints>nuaZ /  ecnef</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=5f7a2530-ba34-4ea2-818d-07180e809d50</url>
+  <url-name>Tukka Takka Land </url-name>
+  <logs><ul><li>2010-11-23T20:00:00Z : Write note by f.etcher <br />coin</li><li>2010-11-22T20:00:00Z : Found it by poenni <br />Als Hotelgast war das wirklich mal ein Bonuscache ;-) T4TC!
+
+Gruß aus Ostwestfalen,
+Poenni</li><li>2010-11-21T20:00:00Z : Write note by born to cache <br />coin</li><li>2010-11-21T20:00:00Z : Found it by lillyfelix <br />Schnell gefunden.
+TFTC</li><li>2010-11-19T20:00:00Z : Found it by fuertecrazy <br />Während eines Workshops schnell gefunden.</li></ul></logs>
+  <original-xml>  <wpt  lat="50.5374" lon="9.72145">
+    <time>2010-04-24T07:00:00Z</time>
+    <name>GC27C2Z</name>
+    <desc>Tukka Takka Land  by f.etcher, Traditional Cache (1.5/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=5f7a2530-ba34-4ea2-818d-07180e809d50</url>
+    <urlname>Tukka Takka Land </urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1656083" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Tukka Takka Land </groundspeak:name>
+      <groundspeak:placed_by>f.etcher</groundspeak:placed_by>
+      <groundspeak:owner id="1498819">f.etcher</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">
+      </groundspeak:short_description>
+      <groundspeak:long_description html="False">Ein einfacher drive-inn Tradi. Besonders geeignet für den kurzen Cache vor oder nach Besuch der sehr nahe gelegenen Vergnügungs- und Entspannungsmöglichkeiten. Parken ist daher in unmittelbarer Umgebung möglich.
+
+A simple drive-inn cache. The cache is especially for visitors of the "takka-tukka land", "Sieben Welten" and hotel guests. Parking is possible in direct surrounding area.</groundspeak:long_description>
+      <groundspeak:encoded_hints>nuaZ /  ecnef</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="136937004">
+          <groundspeak:date>2010-11-23T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Write note</groundspeak:type>
+          <groundspeak:finder id="1498819">f.etcher</groundspeak:finder>
+          <groundspeak:text encoded="False">coin</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="136935514">
+          <groundspeak:date>2010-11-22T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="800027">poenni</groundspeak:finder>
+          <groundspeak:text encoded="False">Als Hotelgast war das wirklich mal ein Bonuscache ;-) T4TC!
+
+Gruß aus Ostwestfalen,
+Poenni</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="136936721">
+          <groundspeak:date>2010-11-21T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Write note</groundspeak:type>
+          <groundspeak:finder id="3473620">born to cache</groundspeak:finder>
+          <groundspeak:text encoded="False">coin</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="136669258">
+          <groundspeak:date>2010-11-21T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3765430">lillyfelix</groundspeak:finder>
+          <groundspeak:text encoded="False">Schnell gefunden.
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="136477356">
+          <groundspeak:date>2010-11-19T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1724195">fuertecrazy</groundspeak:finder>
+          <groundspeak:text encoded="False">Während eines Workshops schnell gefunden.</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

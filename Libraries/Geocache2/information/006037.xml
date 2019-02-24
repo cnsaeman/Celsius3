@@ -1,0 +1,162 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>006037</id>
+  <cache-id>GC23KEB</cache-id>
+  <type>Traditional Cache</type>
+  <name> Dunsany Cross by Windsockers, Traditional Cache (1.5/1.5)</name>
+  <size>Micro</size>
+  <difficulty>1.5</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-03-05</last-found>
+  <placed>2010-02-14</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>Windsockers</placedby>
+  <found>Geocache</found>
+  <lat>53.538383</lat>
+  <lon>-6.617233</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>Windsockers</owner>
+  <description><center><img src=
+"http://img.geocaching.com/cache/f3ebc5ce-b9e1-4a48-835d-f1f0d98d6b9c.jpg" /></center></description>
+  <long-description><p>This small cross probably dates from the beginning of the 17th
+century. On one face it has a Crucifixion set within a recessed
+cross-shaped panel. This is surmounted by a winged ox, the symbol
+of St Luke. This cross is mounted on a large rectangular base which
+contains two bullauns, each about 20cm diameter. It is almost
+directly opposite the entrance to Dunsany Castle.</p>
+<p>Dunsany Castle and Demesne are situated in the townland of
+Dunsany (Dun Samhnaigh or Dun Samhna), between the historic town of
+Trim, with Ireland's largest castle (King John's Castle or simply
+Trim Castle, a former Dunsany holding) and the large village of
+Dunshaughlin on one of the country's main routes, in County
+Meath.<br />
+The Castle is the longest occupied home and one of the oldest
+continuously inhabited buildings in Ireland, though the Lords of
+Dunsany have suffered on a couple of occasions, such as when the
+ninth Lord, elected by the Catholic peers of Ireland to assert
+their loyalty to the State, was imprisoned for several years in
+Dublin Castle before being sent to Connaught. While his family died
+on the journey, he was reinstated at the time of the Restoration.
+Later, the tenth Lord fought for James II at the Battle of the
+Boyne and was outlawed but the estates were restored to his
+successor after the Treaty of Limerick.</p>
+<p><b>The Cache</b></p>
+<p>The cache is a micro container please rehide it well to prevent
+muggles from discovering its location.<br /></p>
+<center><br />
+<br />
+<img src=
+"http://www.northbeach.ie/gallery/albums/userpics/10001/windsock-anim-small.gif" />
+<br />
+<br />
+<b>Windsockers</b></center>
+<br />
+<br />
+<hr size="2" /></long-description>
+  <encoded-hints>Waist high</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=0365b86b-6f06-4ad9-9e32-5f6ce3d81058</url>
+  <url-name> Dunsany Cross</url-name>
+  <logs><ul><li>2010-06-17T19:00:00Z : Found it by Spark_ie <br />Quick find while caching in the area after work [:)] TFTC, Spark_ie</li><li>2010-05-18T19:00:00Z : Found it by Serapis <br />A quick find on my way from Kells to Waterford. The road was quite busy here and it took me a few minutes to reteieve and replace. TFTC. Serapis.</li><li>2010-04-11T19:00:00Z : Found it by merann <br />Took a few minutes to find this one. Co-ords had us on the other side of the road but we couldn't see anywhere it could be, once we crossed over the cache was soon found. Good hide! SL.
+TFTC, Merann. </li><li>2010-03-27T19:00:00Z : Found it by Fjon <br />Nice easy find - thanks!</li><li>2010-03-05T20:00:00Z : Found it by Blue Jay 59 <br />Found this on my way to Cavan on Friday morning. Used to come to Dunsany when I was a child, so brought back memories. See you can do tours of the castle now, will have to return for that [:D]
+TFTC
+Blue Jay 59
+#235</li></ul></logs>
+  <original-xml>  <wpt  lat="53.538383" lon="-6.617233">
+    <time>2010-02-14T08:00:00Z</time>
+    <name>GC23KEB</name>
+    <desc> Dunsany Cross by Windsockers, Traditional Cache (1.5/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=0365b86b-6f06-4ad9-9e32-5f6ce3d81058</url>
+    <urlname> Dunsany Cross</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1543999" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name> Dunsany Cross</groundspeak:name>
+      <groundspeak:placed_by>Windsockers</groundspeak:placed_by>
+      <groundspeak:owner id="271623">Windsockers</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>Leinster</groundspeak:state>
+      <groundspeak:short_description html="True">&lt;center&gt;&lt;img src=
+"http://img.geocaching.com/cache/f3ebc5ce-b9e1-4a48-835d-f1f0d98d6b9c.jpg" /&gt;&lt;/center&gt;</groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;p&gt;This small cross probably dates from the beginning of the 17th
+century. On one face it has a Crucifixion set within a recessed
+cross-shaped panel. This is surmounted by a winged ox, the symbol
+of St Luke. This cross is mounted on a large rectangular base which
+contains two bullauns, each about 20cm diameter. It is almost
+directly opposite the entrance to Dunsany Castle.&lt;/p&gt;
+&lt;p&gt;Dunsany Castle and Demesne are situated in the townland of
+Dunsany (Dun Samhnaigh or Dun Samhna), between the historic town of
+Trim, with Ireland's largest castle (King John's Castle or simply
+Trim Castle, a former Dunsany holding) and the large village of
+Dunshaughlin on one of the country's main routes, in County
+Meath.&lt;br /&gt;
+The Castle is the longest occupied home and one of the oldest
+continuously inhabited buildings in Ireland, though the Lords of
+Dunsany have suffered on a couple of occasions, such as when the
+ninth Lord, elected by the Catholic peers of Ireland to assert
+their loyalty to the State, was imprisoned for several years in
+Dublin Castle before being sent to Connaught. While his family died
+on the journey, he was reinstated at the time of the Restoration.
+Later, the tenth Lord fought for James II at the Battle of the
+Boyne and was outlawed but the estates were restored to his
+successor after the Treaty of Limerick.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;The Cache&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;The cache is a micro container please rehide it well to prevent
+muggles from discovering its location.&lt;br /&gt;&lt;/p&gt;
+&lt;center&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;img src=
+"http://www.northbeach.ie/gallery/albums/userpics/10001/windsock-anim-small.gif" /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Windsockers&lt;/b&gt;&lt;/center&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;hr size="2" /&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>Waist high</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="113237956">
+          <groundspeak:date>2010-06-17T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="950104">Spark_ie</groundspeak:finder>
+          <groundspeak:text encoded="False">Quick find while caching in the area after work [:)] TFTC, Spark_ie</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="109091964">
+          <groundspeak:date>2010-05-18T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1019524">Serapis</groundspeak:finder>
+          <groundspeak:text encoded="False">A quick find on my way from Kells to Waterford. The road was quite busy here and it took me a few minutes to reteieve and replace. TFTC. Serapis.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="103944272">
+          <groundspeak:date>2010-04-11T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="134212">merann</groundspeak:finder>
+          <groundspeak:text encoded="False">Took a few minutes to find this one. Co-ords had us on the other side of the road but we couldn't see anywhere it could be, once we crossed over the cache was soon found. Good hide! SL.
+TFTC, Merann. </groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="101318140">
+          <groundspeak:date>2010-03-27T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="243261">Fjon</groundspeak:finder>
+          <groundspeak:text encoded="False">Nice easy find - thanks!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="99082941">
+          <groundspeak:date>2010-03-05T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2709154">Blue Jay 59</groundspeak:finder>
+          <groundspeak:text encoded="False">Found this on my way to Cavan on Friday morning. Used to come to Dunsany when I was a child, so brought back memories. See you can do tours of the castle now, will have to return for that [:D]
+TFTC
+Blue Jay 59
+#235</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

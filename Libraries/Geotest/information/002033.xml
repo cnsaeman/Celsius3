@@ -1,0 +1,128 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>002033</id>
+  <cache-id>GC27PD9</cache-id>
+  <type>Unknown Cache</type>
+  <name>5. Schulstunde: Chemie by f.etcher, Unknown Cache (2/1.5)</name>
+  <size>Micro</size>
+  <difficulty>2</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-09-12</last-found>
+  <placed>2010-05-01</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>f.etcher</placedby>
+  <found>Geocache</found>
+  <lat>50.511417</lat>
+  <lon>9.76225</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>f.etcher</owner>
+  <description>
+      </description>
+  <long-description>5.Schulstunde: Chemie
+
+Um an der 5. Schulstunde teilnehmen zu können, müsst ihr zunächst am Einschulungstest teilnehmen und erst die 1. bis 4. Stunde überstanden und bestanden haben. Vor Ort müsst ihr dann die 5. Klausur zum Thema Chemie „schreiben“.
+
+Um den Spaß und die Herausforderung zu vergrößern, würde ich empfehlen die Klausur vor Ort zu schreiben. Ihr findet diese im Cache "4. Schulstunde". Da dieser cache sonst aber nicht freigeschaltet wird, folgt hier die Aufgabe. Wer also die kleine Herausforderung annehmen und vor Ort lösen möchte, sollte nicht weiterlesen.
+
+
+Salzsäure ist eine sehr bekannte Säure. Auch unsere Magensäure ist eine etwa 
+0,5 prozentige Salzsäure. Säuren und Basen können mit dem ph-Wert gemessen 
+werden. Dieser geht von minimal 0 bis maximal 14. Welchen pH-Wert hat Salzsäure?
+
+Möglichkeit 1: ph-Wert kleiner 7		N50°30.366  E009°45.759
+Möglichkeit 2: ph-Wert = 7		N50°30.505  E009°45.761
+Möglichkeit 3: ph-Wert größer 7 		N50°30.403  E009°45.786
+
+Additional Waypoints
+5S27PD9 - 5. Schulstunde: Chemie
+N/S  __ ° __ . ___ W/E ___ ° __ . ___ 
+
+</long-description>
+  <encoded-hints>ynamreg ni edam dnu dnur</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=d5887c65-ef4e-4d90-bf49-1afd5ef36811</url>
+  <url-name>5. Schulstunde: Chemie</url-name>
+  <logs><ul><li>2010-10-09T19:00:00Z : Found it by Camuvlash <br />TFTC</li><li>2010-09-21T19:00:00Z : Found it by Dagosch <br />In der Chemiestunde noch Nachhilfe in Bio bekommen (Pilzkunde) und nachdem der Nachhilfelehrer weg war schnell die Chemieklausur unterschrieben!!!!!!!
+Danke sagt Dagosch</li><li>2010-09-21T19:00:00Z : Found it by Mamomi-1 <br />Auch in Chemie hatte ich keine Probleme. Aber dieses runde Teil passt irgendwie nicht in den schönen Wald.</li><li>2010-09-12T19:00:00Z : Found it by snefnug <br />zusammen mir morger hab ich diese runde absolviert. auch wenn die schulzeit schon etwas her ist, konnten wir alle caches gut meistern. vielen dank für den schönen spaziergang.</li><li>2010-09-12T19:00:00Z : Found it by morger <br />Chemie war nichts für uns. Hier mussten wir zum ersten mal spicken, um sicher zu gehen.
+Die Dose haben wir zunächst ohne Hint vergeblich gesucht, mit ihm ging es dann ganz schnell. Danke für diese Dose!</li></ul></logs>
+  <original-xml>  <wpt  lat="50.511417" lon="9.76225">
+    <time>2010-05-01T07:00:00Z</time>
+    <name>GC27PD9</name>
+    <desc>5. Schulstunde: Chemie by f.etcher, Unknown Cache (2/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=d5887c65-ef4e-4d90-bf49-1afd5ef36811</url>
+    <urlname>5. Schulstunde: Chemie</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Unknown Cache</type>
+    <groundspeak:cache id="1666013" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>5. Schulstunde: Chemie</groundspeak:name>
+      <groundspeak:placed_by>f.etcher</groundspeak:placed_by>
+      <groundspeak:owner id="1498819">f.etcher</groundspeak:owner>
+      <groundspeak:type>Unknown Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>2</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">
+      </groundspeak:short_description>
+      <groundspeak:long_description html="False">5.Schulstunde: Chemie
+
+Um an der 5. Schulstunde teilnehmen zu können, müsst ihr zunächst am Einschulungstest teilnehmen und erst die 1. bis 4. Stunde überstanden und bestanden haben. Vor Ort müsst ihr dann die 5. Klausur zum Thema Chemie „schreiben“.
+
+Um den Spaß und die Herausforderung zu vergrößern, würde ich empfehlen die Klausur vor Ort zu schreiben. Ihr findet diese im Cache "4. Schulstunde". Da dieser cache sonst aber nicht freigeschaltet wird, folgt hier die Aufgabe. Wer also die kleine Herausforderung annehmen und vor Ort lösen möchte, sollte nicht weiterlesen.
+
+
+Salzsäure ist eine sehr bekannte Säure. Auch unsere Magensäure ist eine etwa 
+0,5 prozentige Salzsäure. Säuren und Basen können mit dem ph-Wert gemessen 
+werden. Dieser geht von minimal 0 bis maximal 14. Welchen pH-Wert hat Salzsäure?
+
+Möglichkeit 1: ph-Wert kleiner 7		N50°30.366  E009°45.759
+Möglichkeit 2: ph-Wert = 7		N50°30.505  E009°45.761
+Möglichkeit 3: ph-Wert größer 7 		N50°30.403  E009°45.786
+
+Additional Waypoints
+5S27PD9 - 5. Schulstunde: Chemie
+N/S  __ ° __ . ___ W/E ___ ° __ . ___ 
+
+</groundspeak:long_description>
+      <groundspeak:encoded_hints>ynamreg ni edam dnu dnur</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="130306762">
+          <groundspeak:date>2010-10-09T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2724623">Camuvlash</groundspeak:finder>
+          <groundspeak:text encoded="False">TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="127919434">
+          <groundspeak:date>2010-09-21T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="374782">Dagosch</groundspeak:finder>
+          <groundspeak:text encoded="False">In der Chemiestunde noch Nachhilfe in Bio bekommen (Pilzkunde) und nachdem der Nachhilfelehrer weg war schnell die Chemieklausur unterschrieben!!!!!!!
+Danke sagt Dagosch</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="127895690">
+          <groundspeak:date>2010-09-21T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="275727">Mamomi-1</groundspeak:finder>
+          <groundspeak:text encoded="False">Auch in Chemie hatte ich keine Probleme. Aber dieses runde Teil passt irgendwie nicht in den schönen Wald.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="126945228">
+          <groundspeak:date>2010-09-12T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2600711">snefnug</groundspeak:finder>
+          <groundspeak:text encoded="False">zusammen mir morger hab ich diese runde absolviert. auch wenn die schulzeit schon etwas her ist, konnten wir alle caches gut meistern. vielen dank für den schönen spaziergang.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="126917236">
+          <groundspeak:date>2010-09-12T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2545432">morger</groundspeak:finder>
+          <groundspeak:text encoded="False">Chemie war nichts für uns. Hier mussten wir zum ersten mal spicken, um sicher zu gehen.
+Die Dose haben wir zunächst ohne Hint vergeblich gesucht, mit ihm ging es dann ganz schnell. Danke für diese Dose!</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

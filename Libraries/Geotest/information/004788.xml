@@ -1,0 +1,112 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>004788</id>
+  <cache-id>GC17J53</cache-id>
+  <type>Multi-cache</type>
+  <name>Grotte Gr.Lüder by ubx, Multi-cache (1/1.5)</name>
+  <size>Small</size>
+  <difficulty>1</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-09-22</last-found>
+  <placed>2007-11-22</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>ubx</placedby>
+  <found>Geocache</found>
+  <lat>50.58285</lat>
+  <lon>9.539717</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>ubx</owner>
+  <description>Grotte und Mehr</description>
+  <long-description>eine schöne Grotte mit wievielen Stufen bis oben zum Gitter. Rechnet die Stufen plus 3 mal 100. Das ist die Entfernung in Meter, die ihr dem Weg in südlicher Richtung folgen müsst,um zum 2. Cachort zu kommen. (schaut euch das Bild "Blick vom Cache" gut an, dann wisst ihr, was der 2. Cacheort ist, er hat was mit dem 1. Cacheort gemeinsam.)
+
+Additional Waypoints
+</long-description>
+  <encoded-hints>15 m hinter dem 2. Cacheort liegt der Cache
+</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=9a5d250f-7ffd-4e8d-a60d-6a67f3e66786</url>
+  <url-name>Grotte Gr.Lüder</url-name>
+  <logs><ul><li>2010-10-31T19:00:00Z : Found it by bg_ptbg <br />Schnell gefunden</li><li>2010-10-10T19:00:00Z : Found it by 3Delphinos <br />Schöner Spaziergang bei schönem Herbstwetter mit Sternenkinder und Little Ann. TFTC
+
+3 Delphinos und Cache Hundi Faye</li><li>2010-10-10T19:00:00Z : Found it by Little_Ann <br />Found it!
+
+tftc
+Little_Ann</li><li>2010-09-25T19:00:00Z : Found it by Utemucki <br /># 211
+
+Der richtige Spaziergang nach einer längeren Autofahrt von Nürnberg hierher. Die Grotte war schnell gefunden und weiter ging's auf schönen Wegen zur 2. Station. Die Aussicht war trotz Regenwetters sehr schön. Das Döschen konnte sich nicht lange vor uns verstecken. Danke fürs Herführen sagen die
+
+Utemuckis aus Nürnberg</li><li>2010-09-22T19:00:00Z : Found it by vriskodromo <br />Bei bestem Wetter musste ich mal wieder raus - da gab es doch noch einen Multi... Habe den Cache gut gefunden und den Coin für die Weiterreise geborgen.
+DFDC, vriskodromo</li></ul></logs>
+  <original-xml>  <wpt  lat="50.58285" lon="9.539717">
+    <time>2007-11-22T08:00:00Z</time>
+    <name>GC17J53</name>
+    <desc>Grotte Gr.Lüder by ubx, Multi-cache (1/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=9a5d250f-7ffd-4e8d-a60d-6a67f3e66786</url>
+    <urlname>Grotte Gr.Lüder</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Multi-cache</type>
+    <groundspeak:cache id="738394" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Grotte Gr.Lüder</groundspeak:name>
+      <groundspeak:placed_by>ubx</groundspeak:placed_by>
+      <groundspeak:owner id="787613">ubx</groundspeak:owner>
+      <groundspeak:type>Multi-cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">Grotte und Mehr</groundspeak:short_description>
+      <groundspeak:long_description html="False">eine schöne Grotte mit wievielen Stufen bis oben zum Gitter. Rechnet die Stufen plus 3 mal 100. Das ist die Entfernung in Meter, die ihr dem Weg in südlicher Richtung folgen müsst,um zum 2. Cachort zu kommen. (schaut euch das Bild "Blick vom Cache" gut an, dann wisst ihr, was der 2. Cacheort ist, er hat was mit dem 1. Cacheort gemeinsam.)
+
+Additional Waypoints
+</groundspeak:long_description>
+      <groundspeak:encoded_hints>15 m hinter dem 2. Cacheort liegt der Cache
+</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="133901753">
+          <groundspeak:date>2010-10-31T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2328101">bg_ptbg</groundspeak:finder>
+          <groundspeak:text encoded="False">Schnell gefunden</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="130839047">
+          <groundspeak:date>2010-10-10T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1227147">3Delphinos</groundspeak:finder>
+          <groundspeak:text encoded="False">Schöner Spaziergang bei schönem Herbstwetter mit Sternenkinder und Little Ann. TFTC
+
+3 Delphinos und Cache Hundi Faye</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="130609779">
+          <groundspeak:date>2010-10-10T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1227688">Little_Ann</groundspeak:finder>
+          <groundspeak:text encoded="False">Found it!
+
+tftc
+Little_Ann</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="128332193">
+          <groundspeak:date>2010-09-25T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2388348">Utemucki</groundspeak:finder>
+          <groundspeak:text encoded="False"># 211
+
+Der richtige Spaziergang nach einer längeren Autofahrt von Nürnberg hierher. Die Grotte war schnell gefunden und weiter ging's auf schönen Wegen zur 2. Station. Die Aussicht war trotz Regenwetters sehr schön. Das Döschen konnte sich nicht lange vor uns verstecken. Danke fürs Herführen sagen die
+
+Utemuckis aus Nürnberg</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="128048058">
+          <groundspeak:date>2010-09-22T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2740513">vriskodromo</groundspeak:finder>
+          <groundspeak:text encoded="False">Bei bestem Wetter musste ich mal wieder raus - da gab es doch noch einen Multi... Habe den Cache gut gefunden und den Coin für die Weiterreise geborgen.
+DFDC, vriskodromo</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

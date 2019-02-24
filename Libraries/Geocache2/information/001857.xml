@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>001857</id>
+  <cache-id>PK789A</cache-id>
+  <type>Waypoint</type>
+  <name>Parking</name>
+  <placed>2009-10-17</placed>
+  <lat>53.200717</lat>
+  <lon>-6.2922</lon>
+  <attributes>hidden</attributes>
+  <description></description>
+  <url>http://www.geocaching.com/seek/wpt.aspx?WID=6a60e0ec-0de2-4673-ba11-dbd79de35a54</url>
+  <url-name>Parking</url-name>
+</element>
+</celsiusv2.1.addinfofile>

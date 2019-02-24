@@ -1,0 +1,146 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>002450</id>
+  <cache-id>GC27P3Y</cache-id>
+  <type>Unknown Cache</type>
+  <name>3. Schulstunde: Geografie by f.etcher, Unknown Cache (2.5/2)</name>
+  <size>Micro</size>
+  <difficulty>2.5</difficulty>
+  <terrain>2</terrain>
+  <last-found>2010-09-12</last-found>
+  <placed>2010-05-01</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>f.etcher</placedby>
+  <found>Geocache</found>
+  <lat>50.512417</lat>
+  <lon>9.76225</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>f.etcher</owner>
+  <description>
+      </description>
+  <long-description>3.Schulstunde: Geografie
+
+Um an der 3. Schulstunde teilnehmen zu können, müsst ihr zunächst am Einschulungstest teilnehmen und erst die 1. und 2. Stunde überstanden und bestanden haben. Vor Ort müsst ihr dann die 3. Klausur zum Thema Geografie „schreiben“.
+
+Um den Spaß und die Herausforderung zu vergrößern, würde ich empfehlen die Klausur vor Ort zu schreiben. Ihr findet diese im Cache "2. Schulstunde". Da dieser cache sonst aber nicht freigeschaltet wird, folgt hier die Aufgabe. Wer also die kleine Herausforderung annehmen und vor Ort lösen möchte, sollte nicht weiterlesen.
+
+3. Stunde: Geografie
+Ordne den Bundesländern die jeweils richtige Landeshauptstadt zu:
+1) Sachsen-Anhalt
+2) Mecklenburg-Vorpommern
+3) Niedersachsen
+4) Nordrhein-Westfalen
+
+A) Schwerin
+B) Hannover
+C) Düsseldorf 
+D) Magdeburg
+
+Wie lautet die korrekte Kombination?
+Möglichkeit 1: 1:A; 2:B; 3:D; 4:C 	Koordinate: N50°30.529  E009°45.437
+Möglichkeit 2: 1:D; 2:A; 3:C; 4:B  	Koordinate: N50°30.656  E009°45.322
+Möglichkeit 3: 1:D; 2:A; 3:B; 4:C 	Koordinate: N50°30.531  E009°45.543
+
+Additional Waypoints
+3S27P3Y - 3. Schulstunde: Geografie
+N/S  __ ° __ . ___ W/E ___ ° __ . ___ 
+
+</long-description>
+  <encoded-hints>.nies hcilkcülg dnu gidnüf ud tsriw nietS med retnu dnu lezruW red retnU</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=263453fd-d129-403c-b055-57483b671a7f</url>
+  <url-name>3. Schulstunde: Geografie</url-name>
+  <logs><ul><li>2010-10-11T19:00:00Z : Found it by Maluma <br />Heute bei bestem Wetter zusammen mit HubiFD gelöst und gefunden
+
+TFTC MALUMA</li><li>2010-10-09T19:00:00Z : Found it by Camuvlash <br />TFTC</li><li>2010-09-21T19:00:00Z : Found it by Dagosch <br />Geografie mochte ich früher schon gerne, somit war diese Stunde kein Problem. So macht Schule Spaß!
+Danke sagt Dagosch</li><li>2010-09-21T19:00:00Z : Found it by Mamomi-1 <br />Die Geografie-Stunde war auch blitzschnell zu Ende, geloggt und weiter zur 4. Schulstunde. </li><li>2010-09-12T19:00:00Z : Found it by snefnug <br />zusammen mir morger hab ich diese runde absolviert. auch wenn die schulzeit schon etwas her ist, konnten wir alle caches gut meistern. vielen dank für den schönen spaziergang.</li></ul></logs>
+  <original-xml>  <wpt  lat="50.512417" lon="9.76225">
+    <time>2010-05-01T07:00:00Z</time>
+    <name>GC27P3Y</name>
+    <desc>3. Schulstunde: Geografie by f.etcher, Unknown Cache (2.5/2)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=263453fd-d129-403c-b055-57483b671a7f</url>
+    <urlname>3. Schulstunde: Geografie</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Unknown Cache</type>
+    <groundspeak:cache id="1665723" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>3. Schulstunde: Geografie</groundspeak:name>
+      <groundspeak:placed_by>f.etcher</groundspeak:placed_by>
+      <groundspeak:owner id="1498819">f.etcher</groundspeak:owner>
+      <groundspeak:type>Unknown Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>2.5</groundspeak:difficulty>
+      <groundspeak:terrain>2</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">
+      </groundspeak:short_description>
+      <groundspeak:long_description html="False">3.Schulstunde: Geografie
+
+Um an der 3. Schulstunde teilnehmen zu können, müsst ihr zunächst am Einschulungstest teilnehmen und erst die 1. und 2. Stunde überstanden und bestanden haben. Vor Ort müsst ihr dann die 3. Klausur zum Thema Geografie „schreiben“.
+
+Um den Spaß und die Herausforderung zu vergrößern, würde ich empfehlen die Klausur vor Ort zu schreiben. Ihr findet diese im Cache "2. Schulstunde". Da dieser cache sonst aber nicht freigeschaltet wird, folgt hier die Aufgabe. Wer also die kleine Herausforderung annehmen und vor Ort lösen möchte, sollte nicht weiterlesen.
+
+3. Stunde: Geografie
+Ordne den Bundesländern die jeweils richtige Landeshauptstadt zu:
+1) Sachsen-Anhalt
+2) Mecklenburg-Vorpommern
+3) Niedersachsen
+4) Nordrhein-Westfalen
+
+A) Schwerin
+B) Hannover
+C) Düsseldorf 
+D) Magdeburg
+
+Wie lautet die korrekte Kombination?
+Möglichkeit 1: 1:A; 2:B; 3:D; 4:C 	Koordinate: N50°30.529  E009°45.437
+Möglichkeit 2: 1:D; 2:A; 3:C; 4:B  	Koordinate: N50°30.656  E009°45.322
+Möglichkeit 3: 1:D; 2:A; 3:B; 4:C 	Koordinate: N50°30.531  E009°45.543
+
+Additional Waypoints
+3S27P3Y - 3. Schulstunde: Geografie
+N/S  __ ° __ . ___ W/E ___ ° __ . ___ 
+
+</groundspeak:long_description>
+      <groundspeak:encoded_hints>.nies hcilkcülg dnu gidnüf ud tsriw nietS med retnu dnu lezruW red retnU</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="130896640">
+          <groundspeak:date>2010-10-11T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1380311">Maluma</groundspeak:finder>
+          <groundspeak:text encoded="False">Heute bei bestem Wetter zusammen mit HubiFD gelöst und gefunden
+
+TFTC MALUMA</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="130306616">
+          <groundspeak:date>2010-10-09T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2724623">Camuvlash</groundspeak:finder>
+          <groundspeak:text encoded="False">TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="127918342">
+          <groundspeak:date>2010-09-21T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="374782">Dagosch</groundspeak:finder>
+          <groundspeak:text encoded="False">Geografie mochte ich früher schon gerne, somit war diese Stunde kein Problem. So macht Schule Spaß!
+Danke sagt Dagosch</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="127894934">
+          <groundspeak:date>2010-09-21T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="275727">Mamomi-1</groundspeak:finder>
+          <groundspeak:text encoded="False">Die Geografie-Stunde war auch blitzschnell zu Ende, geloggt und weiter zur 4. Schulstunde. </groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="126945191">
+          <groundspeak:date>2010-09-12T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2600711">snefnug</groundspeak:finder>
+          <groundspeak:text encoded="False">zusammen mir morger hab ich diese runde absolviert. auch wenn die schulzeit schon etwas her ist, konnten wir alle caches gut meistern. vielen dank für den schönen spaziergang.</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

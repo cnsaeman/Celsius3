@@ -1,0 +1,124 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>005121</id>
+  <cache-id>GC1C8B9</cache-id>
+  <type>Traditional Cache</type>
+  <name>Baumbart by team-pandora, Traditional Cache (2/3)</name>
+  <size>Micro</size>
+  <difficulty>2</difficulty>
+  <terrain>3</terrain>
+  <last-found>2010-08-22</last-found>
+  <placed>2008-05-14</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>team-pandora</placedby>
+  <found>Geocache</found>
+  <lat>50.61515</lat>
+  <lon>9.619617</lon>
+  <last-logs>WFMFF</last-logs>
+  <owner>team-pandora</owner>
+  <description>Ein wunderschöner alter Baum in einer Herr-der-Ringe-Umgebung.<br>
+<img src=
+"http://img.geocaching.com/cache/971b3d83-163b-4f0d-85f9-fb7891bb695b.jpg"></description>
+  <long-description><h3><font color="##a10000">BAUMBART</font></h3>
+Bei den täglichen Streifzügen mit unserem Hund Emma haben wir
+diesen Platz entdeckt.<br>
+Sofort springen einem Bilder aus "Herr der Ringe" durch den Kopf
+und man wartet auf den Moment, an dem sich der alte Baum unter
+lautem Knarren erhebt.<br>
+ Das er dies nie tun wird, liegt wohl auch daran, dass unter seinen
+alten Wurzeln eine kleine Quelle sprudelt…<br>
+ Wir haben beim Legen des Caches darauf geachtet, dem Baum
+keinerlei Schaden zuzufügen. Beim Suchen also vorsichtig
+sein…</long-description>
+  <encoded-hints>
+      </encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=d146fc6a-0c1e-4993-9b16-0da507926790</url>
+  <url-name>Baumbart</url-name>
+  <logs><ul><li>2010-10-04T19:00:00Z : Write note by HubiFD <br />Coin nachgeloggt.
+
+Gruß Hubi</li><li>2010-10-04T19:00:00Z : Found it by HubiFD <br />Heute das schöne Herbstwetter genutzt um eine ausgedehnte Radtiour zu machen und ein paar Caches abzuhaken.
+Gut und schnell gefunden. TFTC Gruß Hubi</li><li>2010-09-28T19:00:00Z : Owner Maintenance by team-pandora <br />Baumbart bekommt ein neues Logbuch!</li><li>2010-09-25T19:00:00Z : Found it by Camuvlash <br />TFTC, Schöner Baum. Logbuch voll.</li><li>2010-08-22T19:00:00Z : Found it by daruch <br />Mit dem Rad unterwegs gewesen,
+auch hier vorbei geschaut.
+
+(Logbuch immer noch voll)
+TFTC</li></ul></logs>
+  <original-xml>  <wpt  lat="50.61515" lon="9.619617">
+    <time>2008-05-14T07:00:00Z</time>
+    <name>GC1C8B9</name>
+    <desc>Baumbart by team-pandora, Traditional Cache (2/3)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=d146fc6a-0c1e-4993-9b16-0da507926790</url>
+    <urlname>Baumbart</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="877931" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Baumbart</groundspeak:name>
+      <groundspeak:placed_by>team-pandora</groundspeak:placed_by>
+      <groundspeak:owner id="1234738">team-pandora</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>2</groundspeak:difficulty>
+      <groundspeak:terrain>3</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="True">Ein wunderschöner alter Baum in einer Herr-der-Ringe-Umgebung.&lt;br&gt;
+&lt;img src=
+"http://img.geocaching.com/cache/971b3d83-163b-4f0d-85f9-fb7891bb695b.jpg"&gt;</groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;h3&gt;&lt;font color="##a10000"&gt;BAUMBART&lt;/font&gt;&lt;/h3&gt;
+Bei den täglichen Streifzügen mit unserem Hund Emma haben wir
+diesen Platz entdeckt.&lt;br&gt;
+Sofort springen einem Bilder aus "Herr der Ringe" durch den Kopf
+und man wartet auf den Moment, an dem sich der alte Baum unter
+lautem Knarren erhebt.&lt;br&gt;
+ Das er dies nie tun wird, liegt wohl auch daran, dass unter seinen
+alten Wurzeln eine kleine Quelle sprudelt…&lt;br&gt;
+ Wir haben beim Legen des Caches darauf geachtet, dem Baum
+keinerlei Schaden zuzufügen. Beim Suchen also vorsichtig
+sein…</groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="133429882">
+          <groundspeak:date>2010-10-04T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Write note</groundspeak:type>
+          <groundspeak:finder id="2729325">HubiFD</groundspeak:finder>
+          <groundspeak:text encoded="False">Coin nachgeloggt.
+
+Gruß Hubi</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="129755648">
+          <groundspeak:date>2010-10-04T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2729325">HubiFD</groundspeak:finder>
+          <groundspeak:text encoded="False">Heute das schöne Herbstwetter genutzt um eine ausgedehnte Radtiour zu machen und ein paar Caches abzuhaken.
+Gut und schnell gefunden. TFTC Gruß Hubi</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="128879381">
+          <groundspeak:date>2010-09-28T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Owner Maintenance</groundspeak:type>
+          <groundspeak:finder id="1234738">team-pandora</groundspeak:finder>
+          <groundspeak:text encoded="False">Baumbart bekommt ein neues Logbuch!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="128390549">
+          <groundspeak:date>2010-09-25T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2724623">Camuvlash</groundspeak:finder>
+          <groundspeak:text encoded="False">TFTC, Schöner Baum. Logbuch voll.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="123682892">
+          <groundspeak:date>2010-08-22T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3100425">daruch</groundspeak:finder>
+          <groundspeak:text encoded="False">Mit dem Rad unterwegs gewesen,
+auch hier vorbei geschaut.
+
+(Logbuch immer noch voll)
+TFTC</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

@@ -1,0 +1,188 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>006819</id>
+  <cache-id>GC22BYG</cache-id>
+  <type>Unknown Cache</type>
+  <name>Stadt, Land, Fluss, Final by swordmasterH, Unknown Cache (2.5/1.5)</name>
+  <size>Small</size>
+  <difficulty>2.5</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-09-25</last-found>
+  <placed>2009-12-28</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>swordmasterH</placedby>
+  <found>Geocache</found>
+  <lat>50.536333</lat>
+  <lon>9.667333</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>swordmasterH</owner>
+  <description>
+      </description>
+  <long-description>Um diesen Cache zu finden, müsst ihr zunächst ein paar
+Städte,<br />
+ein weit entferntes Land und einen Fluss ermitteln.<br />
+<br />
+ <b><i>ACHTUNG!<br />
+ Die oben genannten Koordinaten sind nicht die Final
+Koordinaten!!<br />
+Sie müssen erst errechnet werden.</i></b><br />
+<br />
+ <b>1) Städte als Buchstaben</b> <br />
+ Manchmal kann man auf Dingen des alltäglichen Lebens ein A sehen.
+Diese A bedeutet dann Berlin. Steht dort ein D bedeutet es München.
+Für welche drei Städte stehen dann die Buchstaben F,G und J ?<br />
+<br />
+ <i>Die Anzahl aller Buchstaben dieser drei Städte ergibt
+<b>A</b></i><br />
+<br />
+ <b>2) Land:</b> <br />
+Bei dieser Frage geht es um Land im Meer. Eine sehr bekannte
+deutsche Insel gehört zu Deutschland, weil sie seinerzeit gegen
+eine weit entfernte Inselgruppe eingetauscht wurde. Viele von euch
+kennen diese Inselgruppe aus der Schule im Zusammenhang mit einem
+Klosterschüler.<br />
+<br />
+ <i>Die Anzahl der Buchstaben der weit entfernten Inselgruppe
+ergibt <b>B</b></i><br />
+<br />
+ <b>3) Fluss:</b><br />
+In der größten Stadt an diesem Fluss rufen manchmal die
+Auswärtsfans im Stadion den Namen des Flusses.<br />
+Das klingt dann so: "Ihr gehört doch alle an die
+............".<br />
+In das Stadion passen rund 49000 Fans.<br />
+ Der gesuchte Fluss läuft direkt daran vorbei.<br />
+Der Fluss trägt die offiziellen Bezeichnung 488.<br />
+<br />
+ <i>Die Anzahl der Buchstaben des Flusses ergibt <b>C</b></i><br />
+<br />
+ <b>4) Final:</b><br />
+ Mit den Werten für die Buchstaben A,B und C könnt ihr jetzt<br />
+die Final-Koordinaten berechnen.<br />
+<br />
+ <b>N 050° 32.(5*A)+17</b><br />
+ <b>E 009° 40.(2*B*C)+A+7</b><br />
+<br />
+ VIEL SPASS WÜNSCHT EUCH<br />
+swordmasterH</long-description>
+  <encoded-hints>an der Ostseite</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=851f9042-5dc3-46a3-b985-20b6519a56bf</url>
+  <url-name>Stadt, Land, Fluss, Final</url-name>
+  <logs><ul><li>2010-11-05T19:00:00Z : Found it by capitanok9 <br />Hatte den Cache schon mindestens 4 Wochen auf meinem Schreibtisch, bin immer wieder an der 1. Aufgabe gescheitert.
+Bis gestern meine Tochter die Idee hatte.
+TFTC</li><li>2010-10-23T19:00:00Z : Found it by kirchhain <br />kann eine Frau diese Fragen ohne das "google" lösen? Ich denke kaum, jedoch hatte ich vor Ort meinen Traumjoker! ;-) dafür gab es einen TB in die BOX</li><li>2010-10-23T19:00:00Z : Found it by Fla20m <br />ohne einmal googlen zu müssen konnte ich heute den Cache problemlos lösen. TFTC</li><li>2010-10-18T19:00:00Z : Found it by s186003 <br />Schönes Rätsel.
+TFTC</li><li>2010-09-25T19:00:00Z : Found it by smurk <br />Schönes Rätsel - hat echt Spass gemacht. Vielen Dank dafür!</li></ul></logs>
+  <original-xml>  <wpt  lat="50.536333" lon="9.667333">
+    <time>2009-12-28T08:00:00Z</time>
+    <name>GC22BYG</name>
+    <desc>Stadt, Land, Fluss, Final by swordmasterH, Unknown Cache (2.5/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=851f9042-5dc3-46a3-b985-20b6519a56bf</url>
+    <urlname>Stadt, Land, Fluss, Final</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Unknown Cache</type>
+    <groundspeak:cache id="1506990" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Stadt, Land, Fluss, Final</groundspeak:name>
+      <groundspeak:placed_by>swordmasterH</groundspeak:placed_by>
+      <groundspeak:owner id="1270277">swordmasterH</groundspeak:owner>
+      <groundspeak:type>Unknown Cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>2.5</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="True">
+      </groundspeak:short_description>
+      <groundspeak:long_description html="True">Um diesen Cache zu finden, müsst ihr zunächst ein paar
+Städte,&lt;br /&gt;
+ein weit entferntes Land und einen Fluss ermitteln.&lt;br /&gt;
+&lt;br /&gt;
+ &lt;b&gt;&lt;i&gt;ACHTUNG!&lt;br /&gt;
+ Die oben genannten Koordinaten sind nicht die Final
+Koordinaten!!&lt;br /&gt;
+Sie müssen erst errechnet werden.&lt;/i&gt;&lt;/b&gt;&lt;br /&gt;
+&lt;br /&gt;
+ &lt;b&gt;1) Städte als Buchstaben&lt;/b&gt; &lt;br /&gt;
+ Manchmal kann man auf Dingen des alltäglichen Lebens ein A sehen.
+Diese A bedeutet dann Berlin. Steht dort ein D bedeutet es München.
+Für welche drei Städte stehen dann die Buchstaben F,G und J ?&lt;br /&gt;
+&lt;br /&gt;
+ &lt;i&gt;Die Anzahl aller Buchstaben dieser drei Städte ergibt
+&lt;b&gt;A&lt;/b&gt;&lt;/i&gt;&lt;br /&gt;
+&lt;br /&gt;
+ &lt;b&gt;2) Land:&lt;/b&gt; &lt;br /&gt;
+Bei dieser Frage geht es um Land im Meer. Eine sehr bekannte
+deutsche Insel gehört zu Deutschland, weil sie seinerzeit gegen
+eine weit entfernte Inselgruppe eingetauscht wurde. Viele von euch
+kennen diese Inselgruppe aus der Schule im Zusammenhang mit einem
+Klosterschüler.&lt;br /&gt;
+&lt;br /&gt;
+ &lt;i&gt;Die Anzahl der Buchstaben der weit entfernten Inselgruppe
+ergibt &lt;b&gt;B&lt;/b&gt;&lt;/i&gt;&lt;br /&gt;
+&lt;br /&gt;
+ &lt;b&gt;3) Fluss:&lt;/b&gt;&lt;br /&gt;
+In der größten Stadt an diesem Fluss rufen manchmal die
+Auswärtsfans im Stadion den Namen des Flusses.&lt;br /&gt;
+Das klingt dann so: "Ihr gehört doch alle an die
+............".&lt;br /&gt;
+In das Stadion passen rund 49000 Fans.&lt;br /&gt;
+ Der gesuchte Fluss läuft direkt daran vorbei.&lt;br /&gt;
+Der Fluss trägt die offiziellen Bezeichnung 488.&lt;br /&gt;
+&lt;br /&gt;
+ &lt;i&gt;Die Anzahl der Buchstaben des Flusses ergibt &lt;b&gt;C&lt;/b&gt;&lt;/i&gt;&lt;br /&gt;
+&lt;br /&gt;
+ &lt;b&gt;4) Final:&lt;/b&gt;&lt;br /&gt;
+ Mit den Werten für die Buchstaben A,B und C könnt ihr jetzt&lt;br /&gt;
+die Final-Koordinaten berechnen.&lt;br /&gt;
+&lt;br /&gt;
+ &lt;b&gt;N 050° 32.(5*A)+17&lt;/b&gt;&lt;br /&gt;
+ &lt;b&gt;E 009° 40.(2*B*C)+A+7&lt;/b&gt;&lt;br /&gt;
+&lt;br /&gt;
+ VIEL SPASS WÜNSCHT EUCH&lt;br /&gt;
+swordmasterH&lt;p&gt;Additional Waypoints&lt;/p&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>an der Ostseite</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="134560745">
+          <groundspeak:date>2010-11-05T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3123857">capitanok9</groundspeak:finder>
+          <groundspeak:text encoded="False">Hatte den Cache schon mindestens 4 Wochen auf meinem Schreibtisch, bin immer wieder an der 1. Aufgabe gescheitert.
+Bis gestern meine Tochter die Idee hatte.
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="132690945">
+          <groundspeak:date>2010-10-23T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3443890">kirchhain</groundspeak:finder>
+          <groundspeak:text encoded="False">kann eine Frau diese Fragen ohne das "google" lösen? Ich denke kaum, jedoch hatte ich vor Ort meinen Traumjoker! ;-) dafür gab es einen TB in die BOX</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="132688538">
+          <groundspeak:date>2010-10-23T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3087275">Fla20m</groundspeak:finder>
+          <groundspeak:text encoded="False">ohne einmal googlen zu müssen konnte ich heute den Cache problemlos lösen. TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="132167565">
+          <groundspeak:date>2010-10-18T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2819456">s186003</groundspeak:finder>
+          <groundspeak:text encoded="False">Schönes Rätsel.
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="128443600">
+          <groundspeak:date>2010-09-25T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3374811">smurk</groundspeak:finder>
+          <groundspeak:text encoded="False">Schönes Rätsel - hat echt Spass gemacht. Vielen Dank dafür!</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs>
+        <groundspeak:travelbug id="1997209" ref="TB2JV21">
+          <groundspeak:name>Dominik the SPD R (right)</groundspeak:name>
+        </groundspeak:travelbug>
+      </groundspeak:travelbugs>
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

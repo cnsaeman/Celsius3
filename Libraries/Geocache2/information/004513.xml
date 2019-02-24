@@ -1,0 +1,182 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>004513</id>
+  <cache-id>GC1JRXT</cache-id>
+  <type>Unknown Cache</type>
+  <name>River Liffey by toczygroszek, Unknown Cache (4.5/1)</name>
+  <size>Small</size>
+  <difficulty>4.5</difficulty>
+  <terrain>1</terrain>
+  <last-found>2009-07-12</last-found>
+  <placed>2008-12-20</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>toczygroszek</placedby>
+  <found>Geocache</found>
+  <lat>53.347833</lat>
+  <lon>-6.25335</lon>
+  <last-logs>WWFFF</last-logs>
+  <owner>daraconn</owner>
+  <description>
+      </description>
+  <long-description>The River Liffey (Irish: An Life) is a major river in Dublin. It
+begins in Sally Gap in the Wicklow mountains. The length of this
+river is about 125 km. <br />
+<br />
+ The cache is placed close to the Liffey. Coordinates above are for
+reference only. To get the true coordinates you must find
+<b><a href="http://www.geocaching.com/seek/cache_details.aspx?guid=8b4e8e70-1505-4b08-98b9-fec91ef0f76b"
+   target="_blank">River Tolka</a></b> and
+   <b><a href="http://www.geocaching.com/seek/cache_details.aspx?guid=a3deb4b6-e568-4afd-9a7c-2b447fe05035"
+   target="_blank">River Dodder</a></b> cache and obtain
+   information placed on lids of the caches. Use it with the
+   picture below and you will get coordinates for the final
+   cache.<br />
+<br />
+ 
+<center>
+<img src="http://img.geocaching.com/cache/217eca25-239d-48c8-b39c-403b9d0eddae.jpg" />
+</center>
+<br />
+The cache is a small container with some goodies. A new not
+registered Travel Bug tag is the FTF prize. 
+<p>You can check your answers for this puzzle on
+<a href="http://www.geochecker.com/index.php?code=a1212089f7608715fe21b7b17e0ee7fb&action=check&wp=4743314a525854&name=5269766572204c6966666579&visitcount=1">
+Geochecker.com</a>.</p>
+<br />
+<br />
+<a href="http://flagcounter.com/more/qQ1y"><img src="http://flagcounter.com/count/qQ1y/bg=FFFFFF/txt=000000/border=CCCCCC/columns=6/maxflags=248/viewers=0/labels=1/"
+     alt="free counters" border="0" /></a> <br />
+<br />
+<!--start of handicaching link-->
+<p><a href="http://www.handicaching.com/show.php?waypoint=GC1JRXT"
+target="_blank"><img src="http://www.handicaching.com/images/seal_rater2.gif"
+     border="0" alt="View the ratings for GC1JRXT" /></a></p>
+<!--end of handicaching link--></long-description>
+  <additional-waypoints>RL1JRXT - The Cache<br />N/S  __ ° __ . ___ W/E ___ ° __ . ___ <br /><br /></additional-waypoints>
+  <links>waypoints:cache-id:RL1JRXT</links>
+  <encoded-hints>
+      </encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=74ef6804-7be5-4d0c-9a9f-8b66b3857deb</url>
+  <url-name>River Liffey</url-name>
+  <logs><ul><li>2009-12-12T01:16:32Z : Write note by daraconn <br />River Liffey was transferred from toczygroszek to user daraconn</li><li>2009-12-01T20:00:00Z : Write note by toczygroszek <br />Congratulations to Dara not only for finding this cache, but for #1000 find in my all caches [:D]</li><li>2009-12-01T20:00:00Z : Found it by daraconn <br />I made a night-time visit to this area to find Inexorable and this cache. I was very impressed with how this whole area has changed. Thanks for an excellent series - 3 well-designed, tricky, and enjoyable puzzles.</li><li>2009-07-12T19:00:00Z : Found it by Elethiomel <br />Found today with tolmaion. An excellent trio of caches that we really enjoyed.
+
+TFTC!
+
+
+
+</li><li>2009-07-12T19:00:00Z : Found it by tolmaion <br />Solved the puzzle late last night after finding River Dodder and River Tolka earlier in the day. But when I went to the coordinates, I could not find anything in the darkness...
+
+I came back during the day today and together with Elethiomel did a thorough search of a wider radius, finally locating the cache about 10m from the GPS coordinates.
+
+In: -
+Out: -
+
+The three river caches are a great little series with fun riddles. TFTC!</li></ul></logs>
+  <original-xml>  <wpt  lat="53.347833" lon="-6.25335">
+    <time>2008-12-20T08:00:00Z</time>
+    <name>GC1JRXT</name>
+    <desc>River Liffey by toczygroszek, Unknown Cache (4.5/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=74ef6804-7be5-4d0c-9a9f-8b66b3857deb</url>
+    <urlname>River Liffey</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Unknown Cache</type>
+    <groundspeak:cache id="1072596" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>River Liffey</groundspeak:name>
+      <groundspeak:placed_by>toczygroszek</groundspeak:placed_by>
+      <groundspeak:owner id="591662">daraconn</groundspeak:owner>
+      <groundspeak:type>Unknown Cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>4.5</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>Dublin</groundspeak:state>
+      <groundspeak:short_description html="True">
+      </groundspeak:short_description>
+      <groundspeak:long_description html="True">The River Liffey (Irish: An Life) is a major river in Dublin. It
+begins in Sally Gap in the Wicklow mountains. The length of this
+river is about 125 km. &lt;br /&gt;
+&lt;br /&gt;
+ The cache is placed close to the Liffey. Coordinates above are for
+reference only. To get the true coordinates you must find
+&lt;b&gt;&lt;a href="http://www.geocaching.com/seek/cache_details.aspx?guid=8b4e8e70-1505-4b08-98b9-fec91ef0f76b"
+   target="_blank"&gt;River Tolka&lt;/a&gt;&lt;/b&gt; and
+   &lt;b&gt;&lt;a href="http://www.geocaching.com/seek/cache_details.aspx?guid=a3deb4b6-e568-4afd-9a7c-2b447fe05035"
+   target="_blank"&gt;River Dodder&lt;/a&gt;&lt;/b&gt; cache and obtain
+   information placed on lids of the caches. Use it with the
+   picture below and you will get coordinates for the final
+   cache.&lt;br /&gt;
+&lt;br /&gt;
+ 
+&lt;center&gt;
+&lt;img src="http://img.geocaching.com/cache/217eca25-239d-48c8-b39c-403b9d0eddae.jpg" /&gt;
+&lt;/center&gt;
+&lt;br /&gt;
+The cache is a small container with some goodies. A new not
+registered Travel Bug tag is the FTF prize. 
+&lt;p&gt;You can check your answers for this puzzle on
+&lt;a href="http://www.geochecker.com/index.php?code=a1212089f7608715fe21b7b17e0ee7fb&amp;amp;action=check&amp;amp;wp=4743314a525854&amp;amp;name=5269766572204c6966666579&amp;amp;visitcount=1"&gt;
+Geochecker.com&lt;/a&gt;.&lt;/p&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;a href="http://flagcounter.com/more/qQ1y"&gt;&lt;img src="http://flagcounter.com/count/qQ1y/bg=FFFFFF/txt=000000/border=CCCCCC/columns=6/maxflags=248/viewers=0/labels=1/"
+     alt="free counters" border="0" /&gt;&lt;/a&gt; &lt;br /&gt;
+&lt;br /&gt;
+&lt;!--start of handicaching link--&gt;
+&lt;p&gt;&lt;a href="http://www.handicaching.com/show.php?waypoint=GC1JRXT"
+target="_blank"&gt;&lt;img src="http://www.handicaching.com/images/seal_rater2.gif"
+     border="0" alt="View the ratings for GC1JRXT" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;!--end of handicaching link--&gt;&lt;p&gt;Additional Waypoints&lt;/p&gt;RL1JRXT - The Cache&lt;br /&gt;N/S  __ ° __ . ___ W/E ___ ° __ . ___ &lt;br /&gt;&lt;br /&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="92659516">
+          <groundspeak:date>2009-12-12T01:16:32Z</groundspeak:date>
+          <groundspeak:type>Write note</groundspeak:type>
+          <groundspeak:finder id="591662">daraconn</groundspeak:finder>
+          <groundspeak:text encoded="False">River Liffey was transferred from toczygroszek to user daraconn</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="92026807">
+          <groundspeak:date>2009-12-01T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Write note</groundspeak:type>
+          <groundspeak:finder id="1429023">toczygroszek</groundspeak:finder>
+          <groundspeak:text encoded="False">Congratulations to Dara not only for finding this cache, but for #1000 find in my all caches [:D]</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="92026636">
+          <groundspeak:date>2009-12-01T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="591662">daraconn</groundspeak:finder>
+          <groundspeak:text encoded="False">I made a night-time visit to this area to find Inexorable and this cache. I was very impressed with how this whole area has changed. Thanks for an excellent series - 3 well-designed, tricky, and enjoyable puzzles.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="76934087">
+          <groundspeak:date>2009-07-12T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2427351">Elethiomel</groundspeak:finder>
+          <groundspeak:text encoded="False">Found today with tolmaion. An excellent trio of caches that we really enjoyed.
+
+TFTC!
+
+
+
+</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="76931555">
+          <groundspeak:date>2009-07-12T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2382264">tolmaion</groundspeak:finder>
+          <groundspeak:text encoded="False">Solved the puzzle late last night after finding River Dodder and River Tolka earlier in the day. But when I went to the coordinates, I could not find anything in the darkness...
+
+I came back during the day today and together with Elethiomel did a thorough search of a wider radius, finally locating the cache about 10m from the GPS coordinates.
+
+In: -
+Out: -
+
+The three river caches are a great little series with fun riddles. TFTC!</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

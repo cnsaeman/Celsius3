@@ -1,0 +1,117 @@
+<?xml version="1.0"?>
+<celsiusv2.2.librarytemplates>
+<element>
+  <name>Default</name>
+  <index>title|authors|pages|identifier|type|keywords</index>
+  <standardfields>abstract|remarks</standardfields>
+  <tablecolumns>type|title|authors&1|identifier</tablecolumns>
+  <columnheaders>|Title|Authors|Identifier</columnheaders>
+  <columntypes>symbol|text|people</columntypes>
+  <columnsizes>-22|580|181|180</columnsizes>
+  <autosortcolumn>1</autosortcolumn>
+  <people>authors</people>
+  <plugins>*</plugins>
+  <filetypes>*</filetypes>  
+  <searchtags>title|authors|identifier|abstract|remarks|pages|type|filetype|lastmodified|date|filesize|plaintext</searchtags>
+  <hide>MenuItem:Set my location to current item's location</hide>
+  <essential-fields>title|authors</essential-fields>
+  <differentiating-fields>title|authors</differentiating-fields>
+  <item-representation>"#title#" by #authors&1#</item-representation>
+  <naming-convention>#title# (#authors&1#).#filetype#</naming-convention>
+  <choice-fields>type:Book,eBook,Lecture Notes,Other,Paper,Preprint,Review,Talk,Thesis,Book Chapter</choice-fields>
+  <icon-fields>type</icon-fields>
+  <item-folder>LD::documents</item-folder>
+  <infoMode-0><html>
+<body>
+<table width='100%'>
+<tr>
+<td valign='top'>
+<b>#authors&3#</b>
+<h2>#title#</h2>
+#if#type# #type#,
+#if#pages# #pages# pages
+#if#location#, #filesize#
+#if#date#, #date#
+<br>registered in:
+#if#autoregistered# |#autoregistered#|
+#if#registered# |#registered#|
+<br>
+#if#filetype#<a href='http://$$view'>#filetype#-file</a>&nbsp;
+#if#altversions# #altversions#
+<br>
+#if#keywords# <b>Keywords:</b> #keywords#<br>
+#if#remarks# <b>Remarks:</b> #remarks#
+<h3>Celsius related information</h3>
+ID: #id#
+#if#recognition#, recognition level: #recognition#.
+</td><td valign='top'>
+#if#thumbnail#<img src='file:#$thumbnail#'>
+</td></tr>
+</table>
+</body>
+</html></infoMode-0>
+  <infoMode-1><html><body>
+<h2>#person#</h2>
+<hr>
+<br>
+From this author: #currentitems# documents with #currentpages# pages in the library.<br>
+<br>
+#if#homepage# <a href="#homepage#">Homepage</a>&nbsp;
+#if#email# #email#&nbsp;
+<a href="http://www.slac.stanford.edu/spires/find/hep/wwwscan?subfile=wwwhepau&rawcmd=#person#">Look at Slac Spires for #person#</a>
+<br><br>
+<b>Collaborators:</b><br>
+#collaborators#
+#if#remarks# <br><br><b>Remarks:</b><br>#remarks#</body></html></infoMode-1>
+  <infoMode-2><html><body>
+<h2>#category#</h2>
+<hr>
+<br>
+In this category: #currentitems# documents with #currentpages# pages in the library.<br>
+#if#remarks# <br><hr><pre>#remarks#</pre>
+</body></html></infoMode-2>
+  <infoMode-3><html><body>
+<h2>Multiple documents selected</h2>
+<hr>
+<br>
+In this selection: #currentitems# documents with #currentpages# pages in the library.<br>
+</body></html></infoMode-3>
+  <infoMode-4><html><body>
+<h2>General Search</h2>
+<hr>
+<br>
+In these search results: #currentitems# documents with #currentpages# pages in the library.<br>
+</body></html></infoMode-4>
+  <infoMode-5><html><body>
+<h2>General Search</h2>
+<hr>
+<br>
+In these search results: #currentitems# documents with #currentpages# pages in the library.<br>
+</body></html></infoMode-5>
+  <infoMode-6><html><body>
+<h2>Keyword Search</h2>
+<hr>
+<br>
+In these search results: #currentitems# documents with #currentpages# pages in the library.<br>
+</body></html></infoMode-6>
+  <infoMode-7><html><body>
+<h2>Links</h2>
+<hr>
+<br>
+Links of this type: #currentitems# documents with #currentpages# pages in the library.<br>
+</body></html></infoMode-7>
+  <stylesheet>body {color:#000; font-family:sans; margin: 4px; }
+h1 {color: darkgray;}
+h2 {color: darkgray;}
+</stylesheet>
+  <librarystructure><?xml version='1.0'?>
+<menu title="Maths/Physics">
+  <menu title="Category1"/>
+</menu>
+</librarystructure>
+  <libraryrules><?xml version='1.0'?>
+<rules>
+</rules>
+</libraryrules>
+</element>
+</celsiusv2.2.librarytemplates>

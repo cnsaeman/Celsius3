@@ -1,0 +1,82 @@
+<?xml version='1.0'?>
+<rules>
+<contains tag="title" value="relativ" target="Relativity"/>
+<test>
+<contains tag="abstract" value="thesis" action="a+=2"/>
+<contains tag="abstract" action="a+=2" value="dissertation"/>
+<contains tag="comments" value="thesis" action="a+=2"/>
+<contains tag="comments" action="a+=2" value="dissertation"/>
+<if conditions="a>1" target="PhD Theses"/>
+</test>
+<test>
+<contains tag="abstract" value="talk" action="a+=2"/>
+<contains tag="abstract" action="a+=2" value="proceedings"/>
+<contains tag="abstract" action="a+=2" value="conference"/>
+<contains tag="comments" value="talk" action="a+=2"/>
+<contains tag="comments" action="a+=2" value="proceedings"/>
+<contains tag="comments" action="a+=2" value="conference"/>
+<if conditions="a>1" target="Talks"/>
+</test>
+<contains tag="title" value="ads" target="AdS/CFT"/>
+<contains tag="title" value="twistor" target="Twistors"/>
+<contains-mainly tag="title" value="mechanics" target="Mechanics"/>
+<contains-mainly tag="title" value="elektrodyn" target="Electrodynamics"/>
+<contains-mainly tag="title" value="electrodyn" target="Electrodynamics"/>
+<contains-mainly tag="title" value="quantenmechanik" target="Quantum Mechanics"/>
+<contains-mainly tag="title" value="quantum mechanics" target="Quantum Mechanics"/>
+<contains-mainly tag="title" value="algebra" target="Algebra"/>
+<contains-mainly tag="title" value="calculus" target="Analytical areas"/>
+<contains-mainly tag="title" value="complex analysis" target="Complex analysis"/>
+<contains-mainly tag="title" value="funktionentheorie" target="Complex analysis"/>
+<contains-mainly tag="title" value="differentialgleichung" target="Differential equations"/>
+<contains-mainly tag="title" value="differential equation" target="Differential equations"/>
+<contains-mainly tag="title" value="quantum field theory" target="Lecture Notes (QFT)"/>
+<contains-mainly tag="title" value="quantenfeldtheorie" target="Lecture Notes (QFT)"/>
+<contains-mainly tag="title" value="conformal field theory" target="Conformal Field Theory"/>
+<contains-mainly tag="title" value="konforme feldtheorie" target="Conformal Field Theory"/>
+<contains-mainly tag="title" value="supersymmetry" target="Supersymmetry"/>
+<contains tag="title" value="algebraic geometry" target="Algebraic geometry"/>
+<contains tag="title" value="algebraische geometrie" target="Algebraic geometry"/>
+<contains tag="title" value="algebraic topology" target="Algebraic topology"/>
+<contains tag="title" value="algebraische topologie" target="Algebraic topology"/>
+<contains tag="title" value="thermal field theory" target="Thermal Field Theory"/>
+<contains tag="title" value="differential geometry" target="Differential geometry"/>
+<contains tag="title" value="differentialgeometrie" target="Differential geometry"/>
+<test>
+<contains tag="title" action="a+=2" value="geometry"/>
+<contains tag="title" action="a+=2" value="geometrie"/>
+<contains tag="title" action="a+=2" value="differential geometry"/>
+<contains tag="title" action="a+=2" value="differentialgeometrie"/>
+<if conditions="a>1" target="Geometrical areas"/>
+</test>
+<contains-mainly tag="title" value="gauge theory" target="Gauge Theories"/>
+<contains-mainly tag="title" value="gauge theories" target="Gauge Theories"/>
+<contains-mainly tag="title" value="eichtheorie" target="Gauge Theories"/>
+<contains tag="title" value="Thermale Feldtheorie" target="Thermal Field Theory"/>
+<contains tag="title" value="string field theory" target="String Field Theory"/>
+<contains tag="title" value="topological string theory" target="Topological String Theory"/>
+<contains tag="title" value="konforme feldtheorie" target="Conformal Field Theory"/>
+<contains tag="title" value="analysis" target="Analytical areas"/>
+<contains tag="title" value="zahlentheorie" target="Number theory"/>
+<contains tag="title" value="number theory" target="Number theory"/>
+<contains-mainly tag="title" value="infinitesimalrechnung" target="Analytical areas"/>
+<contains tag="title" value="lie group" target="Lie groups"/>
+<contains tag="title" value="lie gruppe" target="Lie groups"/>
+<contains tag="title" value="thermodynam" target="Thermodynamics and Statistics"/>
+<contains tag="title" value="elliptic curves" target="Elliptic curves"/>
+<contains tag="title" value="elliptische kurven" target="Elliptic curves"/>
+<contains tag="title" value="matrix model" target="Matrix Models"/>
+<contains tag="title" value="topolog" target="Topology"/>
+<contains tag="title" value="gruppentheorie" target="Group theory"/>
+<contains tag="title" value="group theory" target="Group theory"/>
+<contains tag="title" value="statistische physik" target="Thermodynamics and Statistics"/>
+<contains tag="title" value="statistische mechanik" target="Thermodynamics and Statistics"/>
+<contains tag="title" value="numerik" target="Numerics"/>
+<contains tag="title" value="standard model" target="Standard model"/>
+<contains tag="title" value="standardmodell" target="Standard model"/>
+<contains tag="title" value="cosmolog" target="Cosmology"/>
+<contains tag="title" value="kosmolog" target="Cosmology"/>
+<contains tag="title" value="functional analysis" target="Functional analysis"/>
+<contains tag="title" value="funktionalanalysis" target="Functional analysis"/>
+<contains tag="title" value="k-theo" target="K-Theory"/>
+</rules>

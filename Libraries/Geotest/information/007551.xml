@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>007551</id>
+  <cache-id>GC1P9QX</cache-id>
+  <type>Traditional Cache</type>
+  <name>Daimonion by Daimonion, Traditional Cache (1.5/1.5)</name>
+  <size>Small</size>
+  <difficulty>1.5</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-09-12</last-found>
+  <placed>2009-03-29</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Daimonion</placedby>
+  <found>Geocache</found>
+  <lat>50.641833</lat>
+  <lon>9.7745</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>Daimonion</owner>
+  <description>Mein Beitrag zur Keimzellenserie.</description>
+  <long-description>Ein kleiner Pflanztopf, der Coins und kleine TBs aufnehmen kann.</long-description>
+  <encoded-hints>Holz - Steine - Holz</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=129d1ae1-6cb5-441a-94a8-2c53e00f4f0a</url>
+  <url-name>Daimonion</url-name>
+  <logs><ul><li>2010-11-21T20:00:00Z : Found it by balalaika <br />Heute eine kleine Rundtour um Dammersbach gemacht. Auch den hier gut gefunden.
+in: TB Feuerwehrkelle
+Danke sagt team balalaika</li><li>2010-11-21T20:00:00Z : Found it by burgen13 <br />Auf einer Sonntagstour rund um Dammersbach gut gefunden.
+Danke sagt burgen13</li><li>2010-11-20T20:00:00Z : Found it by digger09 <br />auf dem rückweg der cachetour auch noch mitgenommen
+dfdc</li><li>2010-10-02T19:00:00Z : Found it by Camuvlash <br />TFTC
+das war der 100.!!! ^^</li><li>2010-09-12T19:00:00Z : Found it by super sunshine <br />Cache schnell gefunden. Danke und Grüße</li></ul></logs>
+  <original-xml>  <wpt  lat="50.641833" lon="9.7745">
+    <time>2009-03-29T07:00:00Z</time>
+    <name>GC1P9QX</name>
+    <desc>Daimonion by Daimonion, Traditional Cache (1.5/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=129d1ae1-6cb5-441a-94a8-2c53e00f4f0a</url>
+    <urlname>Daimonion</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1177193" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Daimonion</groundspeak:name>
+      <groundspeak:placed_by>Daimonion</groundspeak:placed_by>
+      <groundspeak:owner id="750446">Daimonion</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">Mein Beitrag zur Keimzellenserie.</groundspeak:short_description>
+      <groundspeak:long_description html="False">Ein kleiner Pflanztopf, der Coins und kleine TBs aufnehmen kann.</groundspeak:long_description>
+      <groundspeak:encoded_hints>Holz - Steine - Holz</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="136648535">
+          <groundspeak:date>2010-11-21T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1414299">balalaika</groundspeak:finder>
+          <groundspeak:text encoded="False">Heute eine kleine Rundtour um Dammersbach gemacht. Auch den hier gut gefunden.
+in: TB Feuerwehrkelle
+Danke sagt team balalaika</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="136640583">
+          <groundspeak:date>2010-11-21T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2887618">burgen13</groundspeak:finder>
+          <groundspeak:text encoded="False">Auf einer Sonntagstour rund um Dammersbach gut gefunden.
+Danke sagt burgen13</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="136669681">
+          <groundspeak:date>2010-11-20T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3042502">digger09</groundspeak:finder>
+          <groundspeak:text encoded="False">auf dem rückweg der cachetour auch noch mitgenommen
+dfdc</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="129387393">
+          <groundspeak:date>2010-10-02T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2724623">Camuvlash</groundspeak:finder>
+          <groundspeak:text encoded="False">TFTC
+das war der 100.!!! ^^</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="126494332">
+          <groundspeak:date>2010-09-12T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2807204">super sunshine</groundspeak:finder>
+          <groundspeak:text encoded="False">Cache schnell gefunden. Danke und Grüße</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

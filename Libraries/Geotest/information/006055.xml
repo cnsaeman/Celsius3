@@ -1,0 +1,184 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>006055</id>
+  <cache-id>GC1Q1MQ</cache-id>
+  <type>Traditional Cache</type>
+  <name>Johansibär(en) für alle! by Johansibär, Traditional Cache (1.5/1)</name>
+  <size>Micro</size>
+  <difficulty>1.5</difficulty>
+  <terrain>1</terrain>
+  <last-found>2010-10-25</last-found>
+  <placed>2009-04-14</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Johansibär</placedby>
+  <found>Geocache</found>
+  <lat>50.581033</lat>
+  <lon>9.700867</lon>
+  <last-logs>FFFMF</last-logs>
+  <owner>Johansibär</owner>
+  <description><br />
+<br />
+<table width="100%" border="5" bordercolor="black" bgcolor="green">
+<tr>
+<td><br />
+<br />
+<p align="center"><b><font face="comic sans ms" size="7"
+color="black">Johansibär(en) für alle!</font></b></p>
+<br />
+<br /></td></tr></table></description>
+  <long-description><table width="100%" border="5" bordercolor="black" bgcolor="green">
+<tr>
+<td><br />
+<p align="center">&nbsp;</p>
+<p align="center">
+<img src="http://img.geocaching.com/cache/399fe555-3cba-4988-a8a8-f897e6ec59d6.jpg" />
+</p>
+<p align="center"><b><font face="comic sans ms" size="4"
+color="black">kleiner Drive-In für zwischendurch / BYOP<br />
+auch gut machbar für Durchreisende:<br />
+A7 Abfahrt 91 Fulda-Nord</font></b></p>
+<p align="center">
+<img src="http://img.geocaching.com/cache/84d856e7-9ede-4413-a411-62008944ca0a.jpg" />
+</p>
+<br />
+<br /></td></tr></table>
+<p align="center">Fotos im Log (keine Spoiler) willkommen!<br />
+<a target="blank"
+href="http://www.opencaching.de/viewcache.php?cacheid=135554">Opencaching.de</a></p>
+<br />
+<br />
+<p><a target="blank"
+href="http://johansibaer.superprovider.de"><img src="http://img.geocaching.com/user/display/7a5e703e-67da-4dd3-a0c1-c1c12b8d35f8.jpg"
+     alt="Johansibär´s-Geo-Caching-Page" /></a></p></long-description>
+  <encoded-hints>Format</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=1d76e319-7839-4b97-86f3-d9eaa4b51eeb</url>
+  <url-name>Johansibär(en) für alle!</url-name>
+  <logs><ul><li>2010-11-20T20:00:00Z : Found it by CC! <br />#716@15.10
+
+Kleine runde nach den Arbeit!
+
+Gut gefunden. Viel polizei auf das gleiss....nicht gut ausgesehen...
+
+Danke und gruss aus NL
+
+CC!-RULZ</li><li>2010-11-13T20:00:00Z : Found it by s186003 <br />Schnell gefunden.
+TFTC</li><li>2010-11-07T20:00:00Z : Found it by EmmettDe <br />Interessant, wofür in der Nähe alles der Johannesbeersaft empfohlen wird... [;)]
+Gut gefunden. Leider war ich vor der heutigen Wartung da und fand noch das feuchte Logbuch vor.
+Übigens, da der Cache nicht rollstuhltauglich ist, sollte auch die Geländewertung auf 1,5 gesetzt werden.
+Danke für den Cache.</li><li>2010-11-07T20:00:00Z : Owner Maintenance by Johansibär <br />
+[b] [green]...Behälter und Logbuch erneuert...
+
+[:)] [b] [size=3] [green]J[black]o[green]h[black]a[green]n[black]s[green]i[black]b[green]ä[black]r   [orange]2010[/orange] [:)][/b]    
+   
+</li><li>2010-10-25T19:00:00Z : Found it by mit-glied <br />Auf 1000km-Nord-Süd-Nord-Tour zusammen mit Manny1967 ein paar Zwischenstopps eingelegt und diesen hier schnell finden können!
+TFTC und Gruß aus Hannover</li></ul></logs>
+  <original-xml>  <wpt  lat="50.581033" lon="9.700867">
+    <time>2009-04-14T07:00:00Z</time>
+    <name>GC1Q1MQ</name>
+    <desc>Johansibär(en) für alle! by Johansibär, Traditional Cache (1.5/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=1d76e319-7839-4b97-86f3-d9eaa4b51eeb</url>
+    <urlname>Johansibär(en) für alle!</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1199198" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Johansibär(en) für alle!</groundspeak:name>
+      <groundspeak:placed_by>Johansibär</groundspeak:placed_by>
+      <groundspeak:owner id="1858674">Johansibär</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="True">&lt;br /&gt;
+&lt;br /&gt;
+&lt;table width="100%" border="5" bordercolor="black" bgcolor="green"&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;p align="center"&gt;&lt;b&gt;&lt;font face="comic sans ms" size="7"
+color="black"&gt;Johansibär(en) für alle!&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;table width="100%" border="5" bordercolor="black" bgcolor="green"&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;br /&gt;
+&lt;p align="center"&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p align="center"&gt;
+&lt;img src="http://img.geocaching.com/cache/399fe555-3cba-4988-a8a8-f897e6ec59d6.jpg" /&gt;
+&lt;/p&gt;
+&lt;p align="center"&gt;&lt;b&gt;&lt;font face="comic sans ms" size="4"
+color="black"&gt;kleiner Drive-In für zwischendurch / BYOP&lt;br /&gt;
+auch gut machbar für Durchreisende:&lt;br /&gt;
+A7 Abfahrt 91 Fulda-Nord&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p align="center"&gt;
+&lt;img src="http://img.geocaching.com/cache/84d856e7-9ede-4413-a411-62008944ca0a.jpg" /&gt;
+&lt;/p&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;p align="center"&gt;Fotos im Log (keine Spoiler) willkommen!&lt;br /&gt;
+&lt;a target="blank"
+href="http://www.opencaching.de/viewcache.php?cacheid=135554"&gt;Opencaching.de&lt;/a&gt;&lt;/p&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;p&gt;&lt;a target="blank"
+href="http://johansibaer.superprovider.de"&gt;&lt;img src="http://img.geocaching.com/user/display/7a5e703e-67da-4dd3-a0c1-c1c12b8d35f8.jpg"
+     alt="Johansibär´s-Geo-Caching-Page" /&gt;&lt;/a&gt;&lt;/p&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>Format</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="136442685">
+          <groundspeak:date>2010-11-20T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="582069">CC!</groundspeak:finder>
+          <groundspeak:text encoded="False">#716@15.10
+
+Kleine runde nach den Arbeit!
+
+Gut gefunden. Viel polizei auf das gleiss....nicht gut ausgesehen...
+
+Danke und gruss aus NL
+
+CC!-RULZ</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="136074554">
+          <groundspeak:date>2010-11-13T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2819456">s186003</groundspeak:finder>
+          <groundspeak:text encoded="False">Schnell gefunden.
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="134911564">
+          <groundspeak:date>2010-11-07T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1099481">EmmettDe</groundspeak:finder>
+          <groundspeak:text encoded="False">Interessant, wofür in der Nähe alles der Johannesbeersaft empfohlen wird... [;)]
+Gut gefunden. Leider war ich vor der heutigen Wartung da und fand noch das feuchte Logbuch vor.
+Übigens, da der Cache nicht rollstuhltauglich ist, sollte auch die Geländewertung auf 1,5 gesetzt werden.
+Danke für den Cache.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="134843785">
+          <groundspeak:date>2010-11-07T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Owner Maintenance</groundspeak:type>
+          <groundspeak:finder id="1858674">Johansibär</groundspeak:finder>
+          <groundspeak:text encoded="False">
+[b] [green]...Behälter und Logbuch erneuert...
+
+[:)] [b] [size=3] [green]J[black]o[green]h[black]a[green]n[black]s[green]i[black]b[green]ä[black]r   [orange]2010[/orange] [:)][/b]    
+   
+</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="133285853">
+          <groundspeak:date>2010-10-25T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2806293">mit-glied</groundspeak:finder>
+          <groundspeak:text encoded="False">Auf 1000km-Nord-Süd-Nord-Tour zusammen mit Manny1967 ein paar Zwischenstopps eingelegt und diesen hier schnell finden können!
+TFTC und Gruß aus Hannover</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

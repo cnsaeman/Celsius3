@@ -1,0 +1,156 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>001850</id>
+  <cache-id>GC1B9WR</cache-id>
+  <type>Traditional Cache</type>
+  <name>Montpelier by Hezekiah, Traditional Cache (1.5/2.5)</name>
+  <size>Regular</size>
+  <difficulty>1.5</difficulty>
+  <terrain>2.5</terrain>
+  <last-found>never</last-found>
+  <placed>2008-04-16</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>Hezekiah</placedby>
+  <found>Geocache</found>
+  <lat>53.251867</lat>
+  <lon>-6.331117</lon>
+  <last-logs>XXXXX</last-logs>
+  <owner>Hezekiah</owner>
+  <description><p align="center"><a target="_blank" href=
+   "http://www.geocachingireland.com/index.html"><img border="0"
+   src=
+   "http://img.geocaching.com/cache/2280ab19-c5fc-4d33-8efb-797df9c0ac8c.jpg"
+     width="150" height="43" align="middle"></a></p>
+<hr size="2">
+<center><font color="Green">Visit the <b>new</b> Geocaching Ireland
+discussion forum <a rel="nofollow" href=
+"http://www.mccartan.org/forums/" target=
+"_blank">HERE</a></font></center>
+<hr size="2"></description>
+  <long-description><p>Overlooking Dublin city from the south west, at an altitude of
+383m (1264ft), is a foreboding ruined hunting lodge, marked on
+Ordnance Survey maps as the 'Hell-Fire Club'.</p>
+<p>Current urban lore insists on telling us that it was - and still
+is - a site commonly used for the practice of 'Satanism' and other
+occult activities, and that the Devil himself made a brief
+appearance there at some unspecified time in the past.</p>
+<p>In a story similar to the one attached to Loftus Hall (a haunted
+house on the Hook Peninsula), a mysterious stranger seeks shelter
+on a stormy night, and a card game ensues. A member of the
+household drops a card, and sees that below the table, the
+otherwise affable and charming visitor has a cloven hoof. Her
+screams made the Devil "aware of her discovery, and he at once
+vanished in a thunder-clap leaving a brimstone smell behind
+him"</p>
+<p>Whatever the truth of the matter is, there are great views out
+over the greater Dublin area - a good return for the effort put
+into the climb!</p>
+<p>Please note that the cache adheres to the Leave no Trace
+Principle - details at <a href='http://www.leavenotraceireland.org'
+target="_blank">this link</a></p>
+<br></long-description>
+  <encoded-hints>In furze, of gorse!</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=8432174e-b336-4b14-a319-f7c793cf826f</url>
+  <url-name>Montpelier</url-name>
+  <logs><ul><li>2010-06-12T19:00:00Z : Didn't find it by Cibak <br />There is nothing anymore. 
+Cibak</li><li>2010-05-10T19:00:00Z : Didn't find it by jdunne17 <br />I think this one is Dead. </li><li>2010-04-27T19:00:00Z : Didn't find it by colmyster <br />Second miss of the day. Looks like a local farmer may have been doing some work here. Hope the cache isn't lost...</li><li>2009-10-19T19:00:00Z : Didn't find it by Brocky88 <br />Couldnt find it. Alot of Dirt Bikers around as usual so couldnt get a good look with out looking suspicious! maybe the Devil took it! I hear he pays the odd visit to the old Hunting Lodge! ;p</li><li>2009-09-05T19:00:00Z : Didn't find it by Grimes2002 <br />Went looking for a long time. Could not find anything except cans and at one stage picked up a tesco bag full of rubbish thinking it was the cache. Boo urns. After that walk I was very upset :) . Graham & Siobhan.</li></ul></logs>
+  <original-xml>  <wpt  lat="53.251867" lon="-6.331117">
+    <time>2008-04-16T07:00:00Z</time>
+    <name>GC1B9WR</name>
+    <desc>Montpelier by Hezekiah, Traditional Cache (1.5/2.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=8432174e-b336-4b14-a319-f7c793cf826f</url>
+    <urlname>Montpelier</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="849612" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Montpelier</groundspeak:name>
+      <groundspeak:placed_by>Hezekiah</groundspeak:placed_by>
+      <groundspeak:owner id="274644">Hezekiah</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Regular</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>2.5</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>
+      </groundspeak:state>
+      <groundspeak:short_description html="True">&lt;p align="center"&gt;&lt;a target="_blank" href=
+   "http://www.geocachingireland.com/index.html"&gt;&lt;img border="0"
+   src=
+   "http://img.geocaching.com/cache/2280ab19-c5fc-4d33-8efb-797df9c0ac8c.jpg"
+     width="150" height="43" align="middle"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;hr size="2"&gt;
+&lt;center&gt;&lt;font color="Green"&gt;Visit the &lt;b&gt;new&lt;/b&gt; Geocaching Ireland
+discussion forum &lt;a rel="nofollow" href=
+"http://www.mccartan.org/forums/" target=
+"_blank"&gt;HERE&lt;/a&gt;&lt;/font&gt;&lt;/center&gt;
+&lt;hr size="2"&gt;</groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;p&gt;Overlooking Dublin city from the south west, at an altitude of
+383m (1264ft), is a foreboding ruined hunting lodge, marked on
+Ordnance Survey maps as the 'Hell-Fire Club'.&lt;/p&gt;
+&lt;p&gt;Current urban lore insists on telling us that it was - and still
+is - a site commonly used for the practice of 'Satanism' and other
+occult activities, and that the Devil himself made a brief
+appearance there at some unspecified time in the past.&lt;/p&gt;
+&lt;p&gt;In a story similar to the one attached to Loftus Hall (a haunted
+house on the Hook Peninsula), a mysterious stranger seeks shelter
+on a stormy night, and a card game ensues. A member of the
+household drops a card, and sees that below the table, the
+otherwise affable and charming visitor has a cloven hoof. Her
+screams made the Devil "aware of her discovery, and he at once
+vanished in a thunder-clap leaving a brimstone smell behind
+him"&lt;/p&gt;
+&lt;p&gt;Whatever the truth of the matter is, there are great views out
+over the greater Dublin area - a good return for the effort put
+into the climb!&lt;/p&gt;
+&lt;p&gt;Please note that the cache adheres to the Leave no Trace
+Principle - details at &lt;a href='http://www.leavenotraceireland.org'
+target="_blank"&gt;this link&lt;/a&gt;&lt;/p&gt;
+&lt;br&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>In furze, of gorse!</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="112553720">
+          <groundspeak:date>2010-06-12T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Didn't find it</groundspeak:type>
+          <groundspeak:finder id="3319426">Cibak</groundspeak:finder>
+          <groundspeak:text encoded="False">There is nothing anymore. 
+Cibak</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="107939120">
+          <groundspeak:date>2010-05-10T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Didn't find it</groundspeak:type>
+          <groundspeak:finder id="3250084">jdunne17</groundspeak:finder>
+          <groundspeak:text encoded="False">I think this one is Dead. </groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="106039788">
+          <groundspeak:date>2010-04-27T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Didn't find it</groundspeak:type>
+          <groundspeak:finder id="1495386">colmyster</groundspeak:finder>
+          <groundspeak:text encoded="False">Second miss of the day. Looks like a local farmer may have been doing some work here. Hope the cache isn't lost...</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="87975342">
+          <groundspeak:date>2009-10-19T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Didn't find it</groundspeak:type>
+          <groundspeak:finder id="2437666">Brocky88</groundspeak:finder>
+          <groundspeak:text encoded="False">Couldnt find it. Alot of Dirt Bikers around as usual so couldnt get a good look with out looking suspicious! maybe the Devil took it! I hear he pays the odd visit to the old Hunting Lodge! ;p</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="83320056">
+          <groundspeak:date>2009-09-05T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Didn't find it</groundspeak:type>
+          <groundspeak:finder id="2649593">Grimes2002</groundspeak:finder>
+          <groundspeak:text encoded="False">Went looking for a long time. Could not find anything except cans and at one stage picked up a tesco bag full of rubbish thinking it was the cache. Boo urns. After that walk I was very upset :) . Graham &amp; Siobhan.</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs>
+        <groundspeak:travelbug id="19597" ref="TB4C8D">
+          <groundspeak:name>Woodrow</groundspeak:name>
+        </groundspeak:travelbug>
+        <groundspeak:travelbug id="1969024" ref="TB2HWPV">
+          <groundspeak:name>Matroschka Bug</groundspeak:name>
+        </groundspeak:travelbug>
+      </groundspeak:travelbugs>
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

@@ -1,0 +1,128 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>002823</id>
+  <cache-id>GC1ETZV</cache-id>
+  <type>Traditional Cache</type>
+  <name>Nasse Sohle I. by PlanBe, Traditional Cache (1.5/1.5)</name>
+  <size>Micro</size>
+  <difficulty>1.5</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-07-18</last-found>
+  <placed>2008-08-02</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>PlanBe</placedby>
+  <found>Geocache</found>
+  <lat>50.482633</lat>
+  <lon>9.6635</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>PlanBe</owner>
+  <description>Cache liegt bei den Koordinaten!</description>
+  <long-description>Dies ist der erste Cache einer Serie von 5 Caches welche an der Döllbach entlang versteckt wurden. Von der Mündung bis zur Quelle könnt ihr vier Caches bergen. In jedem der Caches steht im Deckel ein Teil der Koordinaten des Bonuscaches. Dieser liegt in der Nähe der Quelle.
+
+Im Deckel von Nasse Sohle I. stehen die Minuten von Nord. 
+Mit dem Auto kann man drauf fahren 
+(ist es nun ein Drive in oder ein Drive off?)
+Achtung: Bei Hochwasser kann der Cache in der Regel nicht geborgen werden! Sportplatz in der Nähe - Muggelgefahr!
+
+Hier die Liste der Nasse-Sohle-Serie: 
+Nasse Sohle I.   GC1ETZV  http://www.geocaching.com/seek/cache_details.aspx?guid=14e40d3c-e3d3-44c3-b7c1-40b978e12894
+Nasse Sohle II.  GC1ZXC0
+http://www.geocaching.com/seek/cache_details.aspx?guid=a4336448-1d2f-43f7-b76e-8b736ba0ed51
+Nasse Sohle III. GC1ZXC1  http://www.geocaching.com/seek/cache_details.aspx?guid=4352921b-225e-45e6-b1fd-172fa36a0127
+Nasse Sohle IV. GC1ZXC6  http://www.geocaching.com/seek/cache_details.aspx?guid=4db0ab33-95e2-41a7-b9f0-ad6e7955fae5
+Nasse Sohle V.  GC1ZXC9  http://www.geocaching.com/seek/cache_details.aspx?guid=fee39c71-9b3c-43d5-b475-5cbe3988da6f</long-description>
+  <encoded-hints>Der Name sagt alles!</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=14e40d3c-e3d3-44c3-b7c1-40b978e12894</url>
+  <url-name>Nasse Sohle I.</url-name>
+  <logs><ul><li>2010-08-26T19:00:00Z : Found it by woodi65 <br />Hab ewig gesucht, obwohl ich schon drei mal an der richtigen Stelle geschaut hatte.
+Toller Cache, auch wenn ich von einem "Muggel" überrascht wurde [:B].
+TFTC</li><li>2010-08-20T19:00:00Z : Found it by mayday malone <br />schnell gefunden. danke dafür. gruß mayday</li><li>2010-08-10T19:00:00Z : Found it by sammy84 <br />Schnell ausgemacht. Es war unser erster an diesem Tag :)
+(naja Nachts um kurz nach 0 ^^ )
+
+TFTC Sammy84 und Anhang</li><li>2010-08-06T07:00:00Z : Found it by thomasp90 <br />Gefunden klasse</li><li>2010-07-18T19:00:00Z : Found it by andalf <br />Nach kurzer Suche gut gefunden.
+
+TFTC
+
+Team andalf</li></ul></logs>
+  <original-xml>  <wpt  lat="50.482633" lon="9.6635">
+    <time>2008-08-02T07:00:00Z</time>
+    <name>GC1ETZV</name>
+    <desc>Nasse Sohle I. by PlanBe, Traditional Cache (1.5/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=14e40d3c-e3d3-44c3-b7c1-40b978e12894</url>
+    <urlname>Nasse Sohle I.</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="954456" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Nasse Sohle I.</groundspeak:name>
+      <groundspeak:placed_by>PlanBe</groundspeak:placed_by>
+      <groundspeak:owner id="283938">PlanBe</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">Cache liegt bei den Koordinaten!</groundspeak:short_description>
+      <groundspeak:long_description html="False">Dies ist der erste Cache einer Serie von 5 Caches welche an der Döllbach entlang versteckt wurden. Von der Mündung bis zur Quelle könnt ihr vier Caches bergen. In jedem der Caches steht im Deckel ein Teil der Koordinaten des Bonuscaches. Dieser liegt in der Nähe der Quelle.
+
+Im Deckel von Nasse Sohle I. stehen die Minuten von Nord. 
+Mit dem Auto kann man drauf fahren 
+(ist es nun ein Drive in oder ein Drive off?)
+Achtung: Bei Hochwasser kann der Cache in der Regel nicht geborgen werden! Sportplatz in der Nähe - Muggelgefahr!
+
+Hier die Liste der Nasse-Sohle-Serie: 
+Nasse Sohle I.   GC1ETZV  http://www.geocaching.com/seek/cache_details.aspx?guid=14e40d3c-e3d3-44c3-b7c1-40b978e12894
+Nasse Sohle II.  GC1ZXC0
+http://www.geocaching.com/seek/cache_details.aspx?guid=a4336448-1d2f-43f7-b76e-8b736ba0ed51
+Nasse Sohle III. GC1ZXC1  http://www.geocaching.com/seek/cache_details.aspx?guid=4352921b-225e-45e6-b1fd-172fa36a0127
+Nasse Sohle IV. GC1ZXC6  http://www.geocaching.com/seek/cache_details.aspx?guid=4db0ab33-95e2-41a7-b9f0-ad6e7955fae5
+Nasse Sohle V.  GC1ZXC9  http://www.geocaching.com/seek/cache_details.aspx?guid=fee39c71-9b3c-43d5-b475-5cbe3988da6f</groundspeak:long_description>
+      <groundspeak:encoded_hints>Der Name sagt alles!</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="123784958">
+          <groundspeak:date>2010-08-26T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3620737">woodi65</groundspeak:finder>
+          <groundspeak:text encoded="False">Hab ewig gesucht, obwohl ich schon drei mal an der richtigen Stelle geschaut hatte.
+Toller Cache, auch wenn ich von einem "Muggel" überrascht wurde [:B].
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="122968357">
+          <groundspeak:date>2010-08-20T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3592921">mayday malone</groundspeak:finder>
+          <groundspeak:text encoded="False">schnell gefunden. danke dafür. gruß mayday</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="121220890">
+          <groundspeak:date>2010-08-10T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2917407">sammy84</groundspeak:finder>
+          <groundspeak:text encoded="False">Schnell ausgemacht. Es war unser erster an diesem Tag :)
+(naja Nachts um kurz nach 0 ^^ )
+
+TFTC Sammy84 und Anhang</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="120486026">
+          <groundspeak:date>2010-08-06T07:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3476208">thomasp90</groundspeak:finder>
+          <groundspeak:text encoded="False">Gefunden klasse</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="117716385">
+          <groundspeak:date>2010-07-18T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2304925">andalf</groundspeak:finder>
+          <groundspeak:text encoded="False">Nach kurzer Suche gut gefunden.
+
+TFTC
+
+Team andalf</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

@@ -1,0 +1,113 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>008553</id>
+  <cache-id>GC11F4K</cache-id>
+  <type>Traditional Cache</type>
+  <name>R is for Roundabout by Hezekiah, Traditional Cache (1/1)</name>
+  <size>Micro</size>
+  <difficulty>1</difficulty>
+  <terrain>1</terrain>
+  <last-found>2007-09-02</last-found>
+  <placed>2007-03-15</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>Hezekiah</placedby>
+  <found>Geocache Found</found>
+  <lat>53.31125</lat>
+  <lon>-6.24475</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>Hezekiah</owner>
+  <description><p align="center"><a target="_blank" href=
+   "http://www.geocachingireland.com/index.html"><img border="0"
+   src="http://geocachingireland.com/logo4.jpg" width="328"
+     height="53" align="middle"></a></p>
+<hr align="center" size="2" width="40%">
+<center><font color="blue">Visit the <b>new</b> Geocaching Ireland
+discussion forum <a rel="nofollow" href=
+"http://www.mccartan.org/forums/" target=
+"_blank">HERE</a></font></center>
+<hr align="center" size="2" width="40%">
+<br>
+<br></description>
+  <long-description>One of Dublin's many roundabouts in a quiet suburban setting.</long-description>
+  <encoded-hints>Ivy covered tree - sawn-off stump</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=7ae61a7f-0227-4b44-a7ba-eb788d8183b9</url>
+  <url-name>R is for Roundabout</url-name>
+  <logs><ul><li>2010-05-12T19:00:00Z : Found it by Lynjas <br />Nice easy cache. TFTC.</li><li>2010-05-05T21:56:25Z : Needs Maintenance by Ravenheart <br />Logbook is full.  It needs a new one.</li><li>2010-05-05T19:00:00Z : Found it by PhantomGuy <br />Found it with Ravenheart.  TFTC</li><li>2010-05-05T19:00:00Z : Found it by Ravenheart <br />Found this one with PhantomGuy.TFTC</li><li>2010-04-25T19:00:00Z : Found it by Laura374 <br />Found with pplsgod - TFTC</li><li>2007-09-02T07:00:00Z : Found it by Kersti.com <br />Found it very quickly with CMB50. TNLNSL</li></ul></logs>
+  <original-xml>  <wpt  lat="53.31125" lon="-6.24475">
+    <time>2007-03-15T07:00:00Z</time>
+    <name>GC11F4K</name>
+    <desc>R is for Roundabout by Hezekiah, Traditional Cache (1/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=7ae61a7f-0227-4b44-a7ba-eb788d8183b9</url>
+    <urlname>R is for Roundabout</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="556750" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>R is for Roundabout</groundspeak:name>
+      <groundspeak:placed_by>Hezekiah</groundspeak:placed_by>
+      <groundspeak:owner id="274644">Hezekiah</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>
+      </groundspeak:state>
+      <groundspeak:short_description html="True">&lt;p align="center"&gt;&lt;a target="_blank" href=
+   "http://www.geocachingireland.com/index.html"&gt;&lt;img border="0"
+   src="http://geocachingireland.com/logo4.jpg" width="328"
+     height="53" align="middle"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;hr align="center" size="2" width="40%"&gt;
+&lt;center&gt;&lt;font color="blue"&gt;Visit the &lt;b&gt;new&lt;/b&gt; Geocaching Ireland
+discussion forum &lt;a rel="nofollow" href=
+"http://www.mccartan.org/forums/" target=
+"_blank"&gt;HERE&lt;/a&gt;&lt;/font&gt;&lt;/center&gt;
+&lt;hr align="center" size="2" width="40%"&gt;
+&lt;br&gt;
+&lt;br&gt;</groundspeak:short_description>
+      <groundspeak:long_description html="True">One of Dublin's many roundabouts in a quiet suburban setting.</groundspeak:long_description>
+      <groundspeak:encoded_hints>Ivy covered tree - sawn-off stump</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="108697830">
+          <groundspeak:date>2010-05-12T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2781925">Lynjas</groundspeak:finder>
+          <groundspeak:text encoded="False">Nice easy cache. TFTC.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="107266127">
+          <groundspeak:date>2010-05-05T21:56:25Z</groundspeak:date>
+          <groundspeak:type>Needs Maintenance</groundspeak:type>
+          <groundspeak:finder id="919389">Ravenheart</groundspeak:finder>
+          <groundspeak:text encoded="False">Logbook is full.  It needs a new one.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="107934021">
+          <groundspeak:date>2010-05-05T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3247254">PhantomGuy</groundspeak:finder>
+          <groundspeak:text encoded="False">Found it with Ravenheart.  TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="107266027">
+          <groundspeak:date>2010-05-05T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="919389">Ravenheart</groundspeak:finder>
+          <groundspeak:text encoded="False">Found this one with PhantomGuy.TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="105683479">
+          <groundspeak:date>2010-04-25T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2677878">Laura374</groundspeak:finder>
+          <groundspeak:text encoded="False">Found with pplsgod - TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="32021914">
+          <groundspeak:date>2007-09-02T07:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="320206">Kersti.com</groundspeak:finder>
+          <groundspeak:text encoded="False">Found it very quickly with CMB50. TNLNSL</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

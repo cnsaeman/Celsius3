@@ -1,0 +1,194 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>004923</id>
+  <cache-id>GC10C4K</cache-id>
+  <type>Traditional Cache</type>
+  <name>St Anne's - Rose Garden by Bootle, Traditional Cache (1/1)</name>
+  <size>Micro</size>
+  <difficulty>1</difficulty>
+  <terrain>1</terrain>
+  <last-found>2007-08-30</last-found>
+  <placed>2007-01-14</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>Bootle</placedby>
+  <found>Geocache Found</found>
+  <lat>53.369967</lat>
+  <lon>-6.1793</lon>
+  <last-logs>FFFFFF</last-logs>
+  <owner>Bootle</owner>
+  <description>
+      </description>
+  <long-description><p align="center"><a target="_blank"
+href="http://www.geocachingireland.com"><img border="0"
+src="http://geocachingireland.com/logo4.jpg" width="328"
+height="53" align="middle" /></a></p>
+<br />
+This cache is one of a series of caches located in St. Anne's Park
+in north Dublin. The park, straddling the suburbs of Clontarf and
+Raheny, covers 305 acres, and provides a wide range of facilities,
+including football pitches, tennis courts, a golf course, chilren's
+play area, boules courts and model car track. There's even a
+farmer's market in the "red stables" area of the park every
+Saturday. The main avenue, woodland paths, arboretum, rose garden
+and walled garden all provide ideal locations for peaceful walks.
+<br />
+<br />
+ The lands for the park were originally acquired by the Guinness
+family in the 1830s. Over the next century the lands were developed
+into a magnificent estate before being acquired by Dublin
+corporation in 1930. While a portion of the estate was transformed
+into a moden housing estate, thankfully most was retained as a
+public park. For a more detailed history of the park, please read
+Joan Ussher Sharkey's "St Anne's - The Story of a Guinness Estate"
+(Woodfield Press, 2002). <br />
+<br />
+Admission to the park is free. Parking can be found at Sybil Hill
+Road, James Larkin Road and Mount Prospect Avenue. While the park
+is generally a very pleasant place, it's probably best to visit the
+park during daylight hours and to make sure you leave no valuables
+on display in your car. <br />
+<br />
+This cache is located in the Rose Gardens area of the park.
+Officially opened in 1975, the Rose Gardens have been a centre for
+the international rose trials, with the newest unnamed varieties of
+roses judged by a jury of local and world experts each year. During
+the summer the park hosts a rose festival where the public can
+learn more about the flowers and browse through an interesting
+crafts fair. <br />
+<br />
+The cache is located in a small container, about 4cm by 4cm. Please
+bring your own pen / pencil to sign the log, as there is none in
+the cache. Please replace the cache as you found it,
+thanks!</long-description>
+  <encoded-hints>[Look for] "Mermaid climber". Up nearby trellis.</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=8e0b7472-2c8e-4e2f-abdb-2417558f08a8</url>
+  <url-name>St Anne's - Rose Garden</url-name>
+  <logs><ul><li>2010-06-05T19:00:00Z : Found it by eve1987 <br />Great location and a quick find!
+
+In the near there was a planting-exhibition and they had a delicious chester cake [:D]
+
+TFTC, eve</li><li>2010-06-02T19:00:00Z : Found it by Gruntplace <br />Found it!! Nicely hidden</li><li>2010-05-21T19:00:00Z : Found it by GudrunXY <br />Lots of people with their dogs walking by and two men walked around the roses at least three times until I had finally found the cache, logged and re-hidden it. The last time they were looking at me a bit funny ... standing there, looking at the same roses again.
+TFTC, GudrunXY</li><li>2010-05-15T19:00:00Z : Found it by WeeBookWorm <br />Found when out with my dad (Frezeluberz), gilliancclarke (and her two geo-sprogs) & Zoe andDaddy
+TFTC</li><li>2010-05-15T19:00:00Z : Found it by CheekyCheetah <br />Found when out with my dad (Frezeluberz), gilliancclarke (and her two geo-sprogs) & Zoe andDaddy
+TFTC</li><li>2007-08-30T07:00:00Z : Found it by Kersti.com <br />Came here with CMB50 and found most of the roses in bloom. The scent was gorgeous, very pretty spot. Had to take the clue literally to get this one. 
+OUT A family of spiders making home
+IN Aussie $1 coin
+</li></ul></logs>
+  <original-xml>  <wpt  lat="53.369967" lon="-6.1793">
+    <time>2007-01-14T08:00:00Z</time>
+    <name>GC10C4K</name>
+    <desc>St Anne's - Rose Garden by Bootle, Traditional Cache (1/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=8e0b7472-2c8e-4e2f-abdb-2417558f08a8</url>
+    <urlname>St Anne's - Rose Garden</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="524076" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>St Anne's - Rose Garden</groundspeak:name>
+      <groundspeak:placed_by>Bootle</groundspeak:placed_by>
+      <groundspeak:owner id="96113">Bootle</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>Leinster</groundspeak:state>
+      <groundspeak:short_description html="True">
+      </groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;p align="center"&gt;&lt;a target="_blank"
+href="http://www.geocachingireland.com"&gt;&lt;img border="0"
+src="http://geocachingireland.com/logo4.jpg" width="328"
+height="53" align="middle" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;br /&gt;
+This cache is one of a series of caches located in St. Anne's Park
+in north Dublin. The park, straddling the suburbs of Clontarf and
+Raheny, covers 305 acres, and provides a wide range of facilities,
+including football pitches, tennis courts, a golf course, chilren's
+play area, boules courts and model car track. There's even a
+farmer's market in the "red stables" area of the park every
+Saturday. The main avenue, woodland paths, arboretum, rose garden
+and walled garden all provide ideal locations for peaceful walks.
+&lt;br /&gt;
+&lt;br /&gt;
+ The lands for the park were originally acquired by the Guinness
+family in the 1830s. Over the next century the lands were developed
+into a magnificent estate before being acquired by Dublin
+corporation in 1930. While a portion of the estate was transformed
+into a moden housing estate, thankfully most was retained as a
+public park. For a more detailed history of the park, please read
+Joan Ussher Sharkey's "St Anne's - The Story of a Guinness Estate"
+(Woodfield Press, 2002). &lt;br /&gt;
+&lt;br /&gt;
+Admission to the park is free. Parking can be found at Sybil Hill
+Road, James Larkin Road and Mount Prospect Avenue. While the park
+is generally a very pleasant place, it's probably best to visit the
+park during daylight hours and to make sure you leave no valuables
+on display in your car. &lt;br /&gt;
+&lt;br /&gt;
+This cache is located in the Rose Gardens area of the park.
+Officially opened in 1975, the Rose Gardens have been a centre for
+the international rose trials, with the newest unnamed varieties of
+roses judged by a jury of local and world experts each year. During
+the summer the park hosts a rose festival where the public can
+learn more about the flowers and browse through an interesting
+crafts fair. &lt;br /&gt;
+&lt;br /&gt;
+The cache is located in a small container, about 4cm by 4cm. Please
+bring your own pen / pencil to sign the log, as there is none in
+the cache. Please replace the cache as you found it,
+thanks!</groundspeak:long_description>
+      <groundspeak:encoded_hints>[Look for] "Mermaid climber". Up nearby trellis.</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="112541166">
+          <groundspeak:date>2010-06-05T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1617792">eve1987</groundspeak:finder>
+          <groundspeak:text encoded="False">Great location and a quick find!
+
+In the near there was a planting-exhibition and they had a delicious chester cake [:D]
+
+TFTC, eve</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="111335737">
+          <groundspeak:date>2010-06-02T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3344705">Gruntplace</groundspeak:finder>
+          <groundspeak:text encoded="False">Found it!! Nicely hidden</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="109378483">
+          <groundspeak:date>2010-05-21T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2694097">GudrunXY</groundspeak:finder>
+          <groundspeak:text encoded="False">Lots of people with their dogs walking by and two men walked around the roses at least three times until I had finally found the cache, logged and re-hidden it. The last time they were looking at me a bit funny ... standing there, looking at the same roses again.
+TFTC, GudrunXY</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="109063747">
+          <groundspeak:date>2010-05-15T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2111147">WeeBookWorm</groundspeak:finder>
+          <groundspeak:text encoded="False">Found when out with my dad (Frezeluberz), gilliancclarke (and her two geo-sprogs) &amp; Zoe andDaddy
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="109062974">
+          <groundspeak:date>2010-05-15T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2111140">CheekyCheetah</groundspeak:finder>
+          <groundspeak:text encoded="False">Found when out with my dad (Frezeluberz), gilliancclarke (and her two geo-sprogs) &amp; Zoe andDaddy
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="31863052">
+          <groundspeak:date>2007-08-30T07:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="320206">Kersti.com</groundspeak:finder>
+          <groundspeak:text encoded="False">Came here with CMB50 and found most of the roses in bloom. The scent was gorgeous, very pretty spot. Had to take the clue literally to get this one. 
+OUT A family of spiders making home
+IN Aussie $1 coin
+</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

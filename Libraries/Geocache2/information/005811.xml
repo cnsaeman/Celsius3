@@ -1,0 +1,127 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>005811</id>
+  <cache-id>GC15B8N</cache-id>
+  <type>Traditional Cache</type>
+  <name>Mossy by moyle, Traditional Cache (1/1.5)</name>
+  <size>Small</size>
+  <difficulty>1</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-04-11</last-found>
+  <placed>2007-08-22</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>moyle</placedby>
+  <found>Geocache</found>
+  <lat>53.24795</lat>
+  <lon>-6.28825</lon>
+  <last-logs>FFFFX</last-logs>
+  <owner>moyle</owner>
+  <description>Follow the path, enjoy the views and the sound of running water.</description>
+  <long-description>
+
+Additional Waypoints
+HH15B8N - Mossy
+N 53° 14.919 W 006° 17.129
+Small space at gate with room for one car.
+</long-description>
+  <encoded-hints>Beware the mossy monster is watching!!</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=b46548a7-07e7-4b0f-9988-497cc6a1a6b2</url>
+  <url-name>Mossy</url-name>
+  <logs><ul><li>2010-06-13T19:00:00Z : Found it by slands <br />Initially I had put the wrong co-ords into my GPS, and ended up at another "Mossy". Spent a lot of time, and got lots of nettle stings checking all possible places around there. Just as I was about to give up, I double checked the co-ords on my phone, and found that I was 200M away from GZ [:I]
+
+After re-setting my GPS I was off again. This time got to the right spot. Like others my GPS was all over the place at the site - probably not helped by all the wet trees around. After searching for a while decided to check the hint and spoiler...they did not really help much, apart from telling me which side of the track I should be searching on. It was raining heavily at this point, and I was just about to give up when I spotted it...very well hidden indeed. 
+
+Note...it is fairly overgrown here now, so the "Mossy" referred to in the hint and spoiler photo is no longer obvious!
+
+TNLNSL
+
+TFTC.
+
+Stephen...</li><li>2010-06-10T19:00:00Z : Found it by colmyster <br />Third cache of the day. Lovely spot. Even spotted a beekeeper attending his bees... Almost didn't find the cache in the end it was well hidden. Thanks for bringing me here...and so close to home...
+
+In: Dinosaur
+Out: diabetes travel bug</li><li>2010-04-25T19:00:00Z : Found it by Murphymoores <br />Thanks Great spot</li><li>2010-04-25T12:54:59Z : Found it by MurphInerney <br />Super thanks </li><li>2010-04-11T19:00:00Z : Didn't find it by AbbeyAckbar <br />DNF! Not to worry, we won't mind having to come back here again [:)] It's a lovely spot. From looking at the cache page, seems our GPSr led us to look on the wrong side of the path.</li></ul></logs>
+  <original-xml>  <wpt  lat="53.24795" lon="-6.28825">
+    <time>2007-08-22T07:00:00Z</time>
+    <name>GC15B8N</name>
+    <desc>Mossy by moyle, Traditional Cache (1/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=b46548a7-07e7-4b0f-9988-497cc6a1a6b2</url>
+    <urlname>Mossy</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="672196" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Mossy</groundspeak:name>
+      <groundspeak:placed_by>moyle</groundspeak:placed_by>
+      <groundspeak:owner id="1183128">moyle</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>
+      </groundspeak:state>
+      <groundspeak:short_description html="False">Follow the path, enjoy the views and the sound of running water.</groundspeak:short_description>
+      <groundspeak:long_description html="False">
+
+Additional Waypoints
+HH15B8N - Mossy
+N 53° 14.919 W 006° 17.129
+Small space at gate with room for one car.
+</groundspeak:long_description>
+      <groundspeak:encoded_hints>Beware the mossy monster is watching!!</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="112695494">
+          <groundspeak:date>2010-06-13T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="235284">slands</groundspeak:finder>
+          <groundspeak:text encoded="False">Initially I had put the wrong co-ords into my GPS, and ended up at another "Mossy". Spent a lot of time, and got lots of nettle stings checking all possible places around there. Just as I was about to give up, I double checked the co-ords on my phone, and found that I was 200M away from GZ [:I]
+
+After re-setting my GPS I was off again. This time got to the right spot. Like others my GPS was all over the place at the site - probably not helped by all the wet trees around. After searching for a while decided to check the hint and spoiler...they did not really help much, apart from telling me which side of the track I should be searching on. It was raining heavily at this point, and I was just about to give up when I spotted it...very well hidden indeed. 
+
+Note...it is fairly overgrown here now, so the "Mossy" referred to in the hint and spoiler photo is no longer obvious!
+
+TNLNSL
+
+TFTC.
+
+Stephen...</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="112328756">
+          <groundspeak:date>2010-06-10T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1495386">colmyster</groundspeak:finder>
+          <groundspeak:text encoded="False">Third cache of the day. Lovely spot. Even spotted a beekeeper attending his bees... Almost didn't find the cache in the end it was well hidden. Thanks for bringing me here...and so close to home...
+
+In: Dinosaur
+Out: diabetes travel bug</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="106938948">
+          <groundspeak:date>2010-04-25T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2331790">Murphymoores</groundspeak:finder>
+          <groundspeak:text encoded="False">Thanks Great spot</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="105715925">
+          <groundspeak:date>2010-04-25T12:54:59Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2325660">MurphInerney</groundspeak:finder>
+          <groundspeak:text encoded="False">Super thanks </groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="103779484">
+          <groundspeak:date>2010-04-11T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Didn't find it</groundspeak:type>
+          <groundspeak:finder id="1265839">AbbeyAckbar</groundspeak:finder>
+          <groundspeak:text encoded="False">DNF! Not to worry, we won't mind having to come back here again [:)] It's a lovely spot. From looking at the cache page, seems our GPSr led us to look on the wrong side of the path.</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs>
+        <groundspeak:travelbug id="485490" ref="TBZ2ZX">
+          <groundspeak:name>Kot</groundspeak:name>
+        </groundspeak:travelbug>
+      </groundspeak:travelbugs>
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

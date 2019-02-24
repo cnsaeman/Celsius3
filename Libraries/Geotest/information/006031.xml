@@ -1,0 +1,104 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>006031</id>
+  <cache-id>GCMPA4</cache-id>
+  <type>Traditional Cache</type>
+  <name>Wasserhaus Rauschenberg by Mamomi-1, Traditional Cache (1.5/2)</name>
+  <size>Small</size>
+  <difficulty>1.5</difficulty>
+  <terrain>2</terrain>
+  <last-found>2010-11-01</last-found>
+  <placed>2005-02-05</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Mamomi-1</placedby>
+  <found>Geocache</found>
+  <lat>50.5709</lat>
+  <lon>9.70955</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>Mamomi-1</owner>
+  <description>
+      </description>
+  <long-description>Ein weiteres Wasserhaus mit schöner Aussicht. 
+Da direkt am Wasserhaus keine Möglichkeit bestand, einen Cache mit Tauschmöglichkeit zu legen, habe ich ihn im Wald plaziert.  Aber Achtung !! Sehr starkes Muggelaufkommen, besonders bei schönem Wetter und am Wochenende. 
+Bitte nur kleine Gegenstände zum Tauschen mitnehmen, den Deckel der Dose bitte wieder fest zuschrauben und wieder gut tarnen.
+
+Erstinhalt: Logrolle, Bleistift, Schlüsselanhänger, 2 Schmuckstücke, TB</long-description>
+  <encoded-hints>Wurzelbereich eines großen Baumstumpfes</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=d9152882-d0f0-4fc6-8dae-70d9352b672e</url>
+  <url-name>Wasserhaus Rauschenberg</url-name>
+  <logs><ul><li>2010-12-11T20:00:00Z : Found it by Joebleifuss <br />Bei nassem Tauwetter schnell gefunden
+TFTC</li><li>2010-11-17T20:00:00Z : Found it by Bromtraube <br />Bei super Wetter den Cache noch schnell zusammen mit Laros98 mitgenommen. TFTC</li><li>2010-11-14T20:00:00Z : Found it by Laros98 <br />Als wir den cache "above the clouds" gemacht haben sind wir auch über diesen cache gestolpert, als bromtraube sagte wir müssen in den wald rein hab ich gedacht sein gps spinnt, aber im endeffekt ein gutes versteck.</li><li>2010-11-13T20:00:00Z : Found it by s186003 <br />Schnell gefunden.
+TFTC</li><li>2010-11-01T20:24:46Z : Found it by Daimonion <br />Schneller Mittagspausencache.
+Ich war froh, daß ich so weit vorn im Logbuch meinen Eintrag machen durfte.
+
+Gruß Daimonion</li></ul></logs>
+  <original-xml>  <wpt  lat="50.5709" lon="9.70955">
+    <time>2005-02-05T08:00:00Z</time>
+    <name>GCMPA4</name>
+    <desc>Wasserhaus Rauschenberg by Mamomi-1, Traditional Cache (1.5/2)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=d9152882-d0f0-4fc6-8dae-70d9352b672e</url>
+    <urlname>Wasserhaus Rauschenberg</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="206156" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Wasserhaus Rauschenberg</groundspeak:name>
+      <groundspeak:placed_by>Mamomi-1</groundspeak:placed_by>
+      <groundspeak:owner id="275727">Mamomi-1</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>2</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">
+      </groundspeak:short_description>
+      <groundspeak:long_description html="False">Ein weiteres Wasserhaus mit schöner Aussicht. 
+Da direkt am Wasserhaus keine Möglichkeit bestand, einen Cache mit Tauschmöglichkeit zu legen, habe ich ihn im Wald plaziert.  Aber Achtung !! Sehr starkes Muggelaufkommen, besonders bei schönem Wetter und am Wochenende. 
+Bitte nur kleine Gegenstände zum Tauschen mitnehmen, den Deckel der Dose bitte wieder fest zuschrauben und wieder gut tarnen.
+
+Erstinhalt: Logrolle, Bleistift, Schlüsselanhänger, 2 Schmuckstücke, TB</groundspeak:long_description>
+      <groundspeak:encoded_hints>Wurzelbereich eines großen Baumstumpfes</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="138445178">
+          <groundspeak:date>2010-12-11T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3778495">Joebleifuss</groundspeak:finder>
+          <groundspeak:text encoded="False">Bei nassem Tauwetter schnell gefunden
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="136189924">
+          <groundspeak:date>2010-11-17T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3543550">Bromtraube</groundspeak:finder>
+          <groundspeak:text encoded="False">Bei super Wetter den Cache noch schnell zusammen mit Laros98 mitgenommen. TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="135864516">
+          <groundspeak:date>2010-11-14T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2988114">Laros98</groundspeak:finder>
+          <groundspeak:text encoded="False">Als wir den cache "above the clouds" gemacht haben sind wir auch über diesen cache gestolpert, als bromtraube sagte wir müssen in den wald rein hab ich gedacht sein gps spinnt, aber im endeffekt ein gutes versteck.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="136074458">
+          <groundspeak:date>2010-11-13T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2819456">s186003</groundspeak:finder>
+          <groundspeak:text encoded="False">Schnell gefunden.
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="134078599">
+          <groundspeak:date>2010-11-01T20:24:46Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="750446">Daimonion</groundspeak:finder>
+          <groundspeak:text encoded="False">Schneller Mittagspausencache.
+Ich war froh, daß ich so weit vorn im Logbuch meinen Eintrag machen durfte.
+
+Gruß Daimonion</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

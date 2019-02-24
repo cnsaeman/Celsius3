@@ -1,0 +1,138 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>000424</id>
+  <cache-id>GC1A1KR</cache-id>
+  <type>Multi-cache</type>
+  <name>Im Gieseler Forst by thyrie, Multi-cache (1.5/2)</name>
+  <size>Regular</size>
+  <difficulty>1.5</difficulty>
+  <terrain>2</terrain>
+  <last-found>2010-06-13</last-found>
+  <placed>2008-03-09</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>thyrie</placedby>
+  <found>Geocache</found>
+  <lat>50.521</lat>
+  <lon>9.581067</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>thyrie</owner>
+  <description>Mitten im Wald auf guten Wegen zu erreichen, ein paar Höhenmeter sind aber zu überwinden!
+
+Parken könnt ihr z.B. bei 50 31.208  009 36.065, ist gegenüber der Strassenkreuzung Richtung Istergiesel</description>
+  <long-description>An den oben genannten Koordinaten findet ihr den ersten Hinweis. 
+
+Der zweite Hinweis befindet sich bei N 50 31AB9 O 009 34.968
+Für AB ist die Zahl  auf der Rückseite des Inlays der Hinweisbox einzusetzen. 
+
+Dort ist eine vierstellige Jahreszahl zu finden. 
+
+Der Cache befindet sich bei N 50 31.CD7 O 009 35.0EF
+Für CD sind die beiden ersten Ziffern der Jahreszahl +10 zu setzen. 
+
+Auch bei Opencaching gelistet
+EF erhaltet ihr, wenn ihr -2 nehmt und die beiden letzten Ziffern der Jahreszahl dazurechnet.
+
+Additional Waypoints
+AB1A1KR - Jahreszahl
+N/S  __ ° __ . ___ W/E ___ ° __ . ___ 
+Hinweis Nr.2
+</long-description>
+  <encoded-hints>Hinweis 1 am Fusse eines gekennzeichneten Baumes.
+
+Der Cache selbst ist an einem Baumstumpf</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=ac1997b6-4db3-46ab-9f62-46714686ce26</url>
+  <url-name>Im Gieseler Forst</url-name>
+  <logs><ul><li>2010-10-03T19:00:00Z : Found it by Herzl <br />Am Rande der Wandertour im Heidelbeerland sind wir auch diesen Cache gelaufen. Leider kann man den Text an Stage 2 nciht mehr so gut lesen - die Jahreszahl ist kein Problem - aber die Geschichte hätte uns doch interressiert.
+Danke fürs Zeigen!</li><li>2010-10-03T19:00:00Z : Found it by daruch <br />Auf kleiner Fahrradtour gut gefunden.</li><li>2010-08-14T19:00:00Z : Found it by Helup <br />Klasse Cache.Bei schönem Wetter gut gefunden.Danke fürs zeigen!
+Gruß Team Helup</li><li>2010-06-13T19:00:00Z : Found it by Jobsti(Juppy) <br />Auch ich hab einen kleinen Abstecher von der  "Wandertour im Heidelbeerland " gemacht um diesen Cache zu besuchen.
+Bin 2 Stunden nach  capitanok9 hier gewesen.
+
+Danke für den Cache, Jobsti!</li><li>2010-06-13T19:00:00Z : Found it by capitanok9 <br />Heute schnell gefunden. Optimal mit der " Wandertour im Heidelbeerland " zu kombinieren
+TFTC</li></ul></logs>
+  <original-xml>  <wpt  lat="50.521" lon="9.581067">
+    <time>2008-03-09T08:00:00Z</time>
+    <name>GC1A1KR</name>
+    <desc>Im Gieseler Forst by thyrie, Multi-cache (1.5/2)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=ac1997b6-4db3-46ab-9f62-46714686ce26</url>
+    <urlname>Im Gieseler Forst</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Multi-cache</type>
+    <groundspeak:cache id="811885" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Im Gieseler Forst</groundspeak:name>
+      <groundspeak:placed_by>thyrie</groundspeak:placed_by>
+      <groundspeak:owner id="1329435">thyrie</groundspeak:owner>
+      <groundspeak:type>Multi-cache</groundspeak:type>
+      <groundspeak:container>Regular</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>2</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">Mitten im Wald auf guten Wegen zu erreichen, ein paar Höhenmeter sind aber zu überwinden!
+
+Parken könnt ihr z.B. bei 50 31.208  009 36.065, ist gegenüber der Strassenkreuzung Richtung Istergiesel</groundspeak:short_description>
+      <groundspeak:long_description html="False">An den oben genannten Koordinaten findet ihr den ersten Hinweis. 
+
+Der zweite Hinweis befindet sich bei N 50 31AB9 O 009 34.968
+Für AB ist die Zahl  auf der Rückseite des Inlays der Hinweisbox einzusetzen. 
+
+Dort ist eine vierstellige Jahreszahl zu finden. 
+
+Der Cache befindet sich bei N 50 31.CD7 O 009 35.0EF
+Für CD sind die beiden ersten Ziffern der Jahreszahl +10 zu setzen. 
+
+Auch bei Opencaching gelistet
+EF erhaltet ihr, wenn ihr -2 nehmt und die beiden letzten Ziffern der Jahreszahl dazurechnet.
+
+Additional Waypoints
+AB1A1KR - Jahreszahl
+N/S  __ ° __ . ___ W/E ___ ° __ . ___ 
+Hinweis Nr.2
+</groundspeak:long_description>
+      <groundspeak:encoded_hints>Hinweis 1 am Fusse eines gekennzeichneten Baumes.
+
+Der Cache selbst ist an einem Baumstumpf</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="129606884">
+          <groundspeak:date>2010-10-03T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1970181">Herzl</groundspeak:finder>
+          <groundspeak:text encoded="False">Am Rande der Wandertour im Heidelbeerland sind wir auch diesen Cache gelaufen. Leider kann man den Text an Stage 2 nciht mehr so gut lesen - die Jahreszahl ist kein Problem - aber die Geschichte hätte uns doch interressiert.
+Danke fürs Zeigen!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="129495356">
+          <groundspeak:date>2010-10-03T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3100425">daruch</groundspeak:finder>
+          <groundspeak:text encoded="False">Auf kleiner Fahrradtour gut gefunden.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="121825137">
+          <groundspeak:date>2010-08-14T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2254555">Helup</groundspeak:finder>
+          <groundspeak:text encoded="False">Klasse Cache.Bei schönem Wetter gut gefunden.Danke fürs zeigen!
+Gruß Team Helup</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="112937486">
+          <groundspeak:date>2010-06-13T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="451798">Jobsti(Juppy)</groundspeak:finder>
+          <groundspeak:text encoded="False">Auch ich hab einen kleinen Abstecher von der  "Wandertour im Heidelbeerland " gemacht um diesen Cache zu besuchen.
+Bin 2 Stunden nach  capitanok9 hier gewesen.
+
+Danke für den Cache, Jobsti!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="112697286">
+          <groundspeak:date>2010-06-13T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3123857">capitanok9</groundspeak:finder>
+          <groundspeak:text encoded="False">Heute schnell gefunden. Optimal mit der " Wandertour im Heidelbeerland " zu kombinieren
+TFTC</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

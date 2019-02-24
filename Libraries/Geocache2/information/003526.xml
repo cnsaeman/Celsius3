@@ -1,0 +1,120 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>003526</id>
+  <cache-id>GC1GZKK</cache-id>
+  <type>Traditional Cache</type>
+  <name>Art's Cross by Windsockers, Traditional Cache (1/1.5)</name>
+  <size>Micro</size>
+  <difficulty>1</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-04-01</last-found>
+  <placed>2009-03-21</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>Windsockers</placedby>
+  <found>Geocache</found>
+  <lat>53.627133</lat>
+  <lon>-6.44895</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>Windsockers</owner>
+  <description><center>
+<img src="http://img.geocaching.com/cache/9ec9b35e-574b-4d79-a103-590acf18e45d.jpg" />
+</center></description>
+  <long-description><p>Around 1600 a wayside cross (White Cross) was erected here by
+Dame Janet Dowdall, who was born at Athlumney, Navan. The cross
+features a crucifixion and Virgin and Child. The arms of the
+Dowdall and Bathe families are also incorporated</p>
+<p><b>The Cache</b></p>
+<p>The cache is a micro container hidden at a safe distance from
+the cross please rehide it carefully to prevent puggles from
+dicovering its location.</p>
+<br />
+ 
+<hr size="2" />
+<br />
+<center>
+<img src="http://www.northbeach.ie/gallery/albums/userpics/10001/windsock-anim-small.gif" />
+<br />
+<b>The Windsockers</b></center>
+<hr size="2" /></long-description>
+  <encoded-hints>sign</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=989128a3-a603-4efe-b966-16b53d6bc200</url>
+  <url-name>Art's Cross</url-name>
+  <logs><ul><li>2010-06-06T19:00:00Z : Found it by abra123cadabra <br />Should trust my GPSr. Couldn't see the cross where the sat nav indicated GZ. As per cache description it's not at the cross. Kind of creepy monument and indeed very old! Found together with photomaniac99 after the Arts in Action event at Townley Hall.</li><li>2010-06-02T19:00:00Z : Found it by thomasvm <br />Quick find. TFTC.</li><li>2010-04-11T19:00:00Z : Found it by niallk1234 <br />Instant find, first of 3 for today. Thanks for the cache.</li><li>2010-04-01T19:00:00Z : Found it by poohbear50 <br />Quick find. TFTC</li><li>2010-04-01T19:00:00Z : Found it by Wild Rover <br />Quick find as we started to turn for home. TFTC</li></ul></logs>
+  <original-xml>  <wpt  lat="53.627133" lon="-6.44895">
+    <time>2009-03-21T07:00:00Z</time>
+    <name>GC1GZKK</name>
+    <desc>Art's Cross by Windsockers, Traditional Cache (1/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=989128a3-a603-4efe-b966-16b53d6bc200</url>
+    <urlname>Art's Cross</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1018495" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Art's Cross</groundspeak:name>
+      <groundspeak:placed_by>Windsockers</groundspeak:placed_by>
+      <groundspeak:owner id="271623">Windsockers</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>Leinster</groundspeak:state>
+      <groundspeak:short_description html="True">&lt;center&gt;
+&lt;img src="http://img.geocaching.com/cache/9ec9b35e-574b-4d79-a103-590acf18e45d.jpg" /&gt;
+&lt;/center&gt;</groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;p&gt;Around 1600 a wayside cross (White Cross) was erected here by
+Dame Janet Dowdall, who was born at Athlumney, Navan. The cross
+features a crucifixion and Virgin and Child. The arms of the
+Dowdall and Bathe families are also incorporated&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;The Cache&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;The cache is a micro container hidden at a safe distance from
+the cross please rehide it carefully to prevent puggles from
+dicovering its location.&lt;/p&gt;
+&lt;br /&gt;
+ 
+&lt;hr size="2" /&gt;
+&lt;br /&gt;
+&lt;center&gt;
+&lt;img src="http://www.northbeach.ie/gallery/albums/userpics/10001/windsock-anim-small.gif" /&gt;
+&lt;br /&gt;
+&lt;b&gt;The Windsockers&lt;/b&gt;&lt;/center&gt;
+&lt;hr size="2" /&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>sign</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="112385048">
+          <groundspeak:date>2010-06-06T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2383033">abra123cadabra</groundspeak:finder>
+          <groundspeak:text encoded="False">Should trust my GPSr. Couldn't see the cross where the sat nav indicated GZ. As per cache description it's not at the cross. Kind of creepy monument and indeed very old! Found together with photomaniac99 after the Arts in Action event at Townley Hall.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="111233036">
+          <groundspeak:date>2010-06-02T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2849183">thomasvm</groundspeak:finder>
+          <groundspeak:text encoded="False">Quick find. TFTC.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="103683637">
+          <groundspeak:date>2010-04-11T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2923926">niallk1234</groundspeak:finder>
+          <groundspeak:text encoded="False">Instant find, first of 3 for today. Thanks for the cache.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="102727343">
+          <groundspeak:date>2010-04-01T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="46645">poohbear50</groundspeak:finder>
+          <groundspeak:text encoded="False">Quick find. TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="102305131">
+          <groundspeak:date>2010-04-01T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="32570">Wild Rover</groundspeak:finder>
+          <groundspeak:text encoded="False">Quick find as we started to turn for home. TFTC</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

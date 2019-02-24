@@ -1,0 +1,123 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>006528</id>
+  <cache-id>GC11GG6</cache-id>
+  <type>Traditional Cache</type>
+  <name>V is for Viaduct by Hezekiah, Traditional Cache (1/1)</name>
+  <size>Small</size>
+  <difficulty>1</difficulty>
+  <terrain>1</terrain>
+  <last-found>2007-09-06</last-found>
+  <placed>2007-03-17</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>Hezekiah</placedby>
+  <found>Geocache Found</found>
+  <lat>53.266717</lat>
+  <lon>-6.280067</lon>
+  <last-logs>FFFFFF</last-logs>
+  <owner>Hezekiah</owner>
+  <description><p align="center"><a target="_blank" href=
+   "http://www.geocachingireland.com/index.html"><img border="0"
+   src=
+   "http://img.geocaching.com/cache/2280ab19-c5fc-4d33-8efb-797df9c0ac8c.jpg"
+     width="150" height="43" align="middle"></a></p>
+<hr size="2">
+<center><font color="Green">Visit the <b>new</b> Geocaching Ireland
+discussion forum <a rel="nofollow" href=
+"http://www.mccartan.org/forums/" target=
+"_blank">HERE</a></font></center>
+<hr size="2"></description>
+  <long-description>There are many new bridges in the area, some quite attractive -
+this is one of the boring ones!</long-description>
+  <encoded-hints>Half way up the slope, under rocks</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=5356ef92-d8e5-4c1f-95bf-91f50d40bdce</url>
+  <url-name>V is for Viaduct</url-name>
+  <logs><ul><li>2010-06-12T19:00:00Z : Found it by BlueFoxPL <br />Another great day for caching... found with some friends. TFTC.</li><li>2010-06-12T19:00:00Z : Found it by Wicca Cailín <br />Easy find, 2nd of eleven today. TFTC</li><li>2010-05-09T19:00:00Z : Found it by merann <br />Quick easy find on a very busy wee roundabout. SL.
+TFTC, Merann.</li><li>2010-04-27T07:00:00Z : Found it by colmyster <br />Easy find. TFTC 
+In: skater dude </li><li>2010-04-03T19:00:00Z : Found it by Legodude_uk <br />Found on the 2nd day of Easter Hols heading across Ireland
+
+Logging through my H4H coin, the DudeMobile and the Pay It Forward Coin
+</li><li>2007-09-06T07:00:00Z : Found it by Kersti.com <br />Our second cache of our final hire car day. We parked in a large driveway nearby. Very quickly found the cache which was bigger than we expected. Dropped off TB Force Be With You</li></ul></logs>
+  <original-xml>  <wpt  lat="53.266717" lon="-6.280067">
+    <time>2007-03-17T07:00:00Z</time>
+    <name>GC11GG6</name>
+    <desc>V is for Viaduct by Hezekiah, Traditional Cache (1/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=5356ef92-d8e5-4c1f-95bf-91f50d40bdce</url>
+    <urlname>V is for Viaduct</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="558070" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>V is for Viaduct</groundspeak:name>
+      <groundspeak:placed_by>Hezekiah</groundspeak:placed_by>
+      <groundspeak:owner id="274644">Hezekiah</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>
+      </groundspeak:state>
+      <groundspeak:short_description html="True">&lt;p align="center"&gt;&lt;a target="_blank" href=
+   "http://www.geocachingireland.com/index.html"&gt;&lt;img border="0"
+   src=
+   "http://img.geocaching.com/cache/2280ab19-c5fc-4d33-8efb-797df9c0ac8c.jpg"
+     width="150" height="43" align="middle"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;hr size="2"&gt;
+&lt;center&gt;&lt;font color="Green"&gt;Visit the &lt;b&gt;new&lt;/b&gt; Geocaching Ireland
+discussion forum &lt;a rel="nofollow" href=
+"http://www.mccartan.org/forums/" target=
+"_blank"&gt;HERE&lt;/a&gt;&lt;/font&gt;&lt;/center&gt;
+&lt;hr size="2"&gt;</groundspeak:short_description>
+      <groundspeak:long_description html="True">There are many new bridges in the area, some quite attractive -
+this is one of the boring ones!</groundspeak:long_description>
+      <groundspeak:encoded_hints>Half way up the slope, under rocks</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="113118246">
+          <groundspeak:date>2010-06-12T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3361446">BlueFoxPL</groundspeak:finder>
+          <groundspeak:text encoded="False">Another great day for caching... found with some friends. TFTC.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="112589581">
+          <groundspeak:date>2010-06-12T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3215858">Wicca Cailín</groundspeak:finder>
+          <groundspeak:text encoded="False">Easy find, 2nd of eleven today. TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="108402544">
+          <groundspeak:date>2010-05-09T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="134212">merann</groundspeak:finder>
+          <groundspeak:text encoded="False">Quick easy find on a very busy wee roundabout. SL.
+TFTC, Merann.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="106034478">
+          <groundspeak:date>2010-04-27T07:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1495386">colmyster</groundspeak:finder>
+          <groundspeak:text encoded="False">Easy find. TFTC 
+In: skater dude </groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="103873202">
+          <groundspeak:date>2010-04-03T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="691907">Legodude_uk</groundspeak:finder>
+          <groundspeak:text encoded="False">Found on the 2nd day of Easter Hols heading across Ireland
+
+Logging through my H4H coin, the DudeMobile and the Pay It Forward Coin
+</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="32247511">
+          <groundspeak:date>2007-09-06T07:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="320206">Kersti.com</groundspeak:finder>
+          <groundspeak:text encoded="False">Our second cache of our final hire car day. We parked in a large driveway nearby. Very quickly found the cache which was bigger than we expected. Dropped off TB Force Be With You</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

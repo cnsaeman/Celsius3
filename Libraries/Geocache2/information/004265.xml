@@ -1,0 +1,216 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>004265</id>
+  <cache-id>GC226T3</cache-id>
+  <type>Unknown Cache</type>
+  <name>Crop Circles by orangetigerprawn, Unknown Cache (4/1.5)</name>
+  <size>Small</size>
+  <difficulty>4</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2009-12-27</last-found>
+  <placed>2009-12-22</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>orangetigerprawn</placedby>
+  <found>Geocache</found>
+  <lat>53.435</lat>
+  <lon>-6.364167</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>orangetigerprawn</owner>
+  <description><center><b><font size="+2">Crop Circles</font></b></center>
+<br />
+<br />
+<center>Is there something supernatural about this, a logical
+explanation, or is it just a little bit fishy? Meditate on the
+meaning of life and hum along to the resonance of the nearby high
+tension power lines to tune into the essence of the
+universe.</center>
+<br />
+<br /></description>
+  <long-description><center><img src=
+"http://img.geocaching.com/cache/9c627ae4-42d1-484d-b886-369cf94f2b98.jpg"
+width="350" height="450" align="bottom" border="0" naturalsizeflag=
+"3" /></center>
+<br />
+<br />
+<center>&nbsp;</center>
+<br />
+<br />
+<center>In order to find the capsule at the end of this cosmic
+rainbow you'll have to contemplate the following mental
+challenges.</center>
+<center>&nbsp;</center>
+<br />
+<center>The above coordinates are on private land to which you have
+no right of access.</center>
+<center>Calculate the circumference of the circle at this location.
+Round it to the nearest hecto metre. A</center>
+<center>How many access points are there to the circle? B</center>
+<center>How many roads border the field in which the circle is
+located? C</center>
+<center>How many thousand volts are carried by the most powerful
+high tension cables that criss cross the general area? D</center>
+<center>&nbsp;</center>
+<br />
+<center>At N 53&deg; 26.101 W 006&deg; 22.033</center>
+<center>At this location count the number of gates. E</center>
+<center>&nbsp;</center>
+<center>&nbsp;</center>
+<center>The end of the rainbow is located at:</center>
+<center>&nbsp;</center>
+<center>N 53&deg; A*E+C.(A+C+E)^C-B+D<br />
+W 006&deg; A*E-C.ZERO D/(B+E)+A+E</center>
+<center>&nbsp;</center>
+<center>&nbsp;</center>
+<br />
+<br />
+<center><b><font size="+2">The Cache</font></b></center>
+<center>&nbsp;</center>
+<center>The contaimer may seem familiar yet different when you find
+it. Stealth might be needed at the final location due to the
+presence of large windows nearby.</center></long-description>
+  <additional-waypoints>2C226T3 - Second Crop<br />N 53° 26.101 W 006° 22.033<br />Second Stage: How many gates?<br /></additional-waypoints>
+  <links>waypoints:cache-id:2C226T3</links>
+  <encoded-hints>Were you a hero in the year of our Arthur 39 AG?</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=65811c63-8b7f-4239-bd4b-36c76d55360a</url>
+  <url-name>Crop Circles</url-name>
+  <logs><ul><li>2010-03-10T20:00:00Z : Found it by Blue Jay 59 <br />Worked this out handy enough, so when Toffee Man came in this evening we took a quick spin and grabbed the cache. 
+Hardest part was finding out how many volts etc. took a bit of googling. That Prof. Google is marvellous [:)]
+Yes different but familiar. 
+Had no clue what the hint meant. 
+TFTC & the puzzle 
+Blue Jay 59 
+#240</li><li>2010-03-10T20:00:00Z : Found it by Toffee Man <br />Found the cache today with Blue Jay 59.
+Nice hiding spot & contained is certainly a bit different.
+Have you given up the coke?
+TFTC
+Toffee Man
+#242</li><li>2010-02-19T20:00:00Z : Found it by Fjon <br />Cache no. 1300. 
+Took a while to figure out this one and eventually find it! Lucky it's close to where I work so had a few trips out during lunch time. 
+</li><li>2010-01-03T20:00:00Z : Found it by snoopyandmickey <br />The brainiac team member needed to solve this one!  TFTC!  </li><li>2009-12-27T20:00:00Z : Found it by Hezekiah <br />Found after a fair bit of head scratching - and a certain amount of car rescue!  Roads were like glass, but 4x4 wins every time - bit baffled by the hint.
+
+TFTC!</li></ul></logs>
+  <original-xml>  <wpt  lat="53.435" lon="-6.364167">
+    <time>2009-12-22T08:00:00Z</time>
+    <name>GC226T3</name>
+    <desc>Crop Circles by orangetigerprawn, Unknown Cache (4/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=65811c63-8b7f-4239-bd4b-36c76d55360a</url>
+    <urlname>Crop Circles</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Unknown Cache</type>
+    <groundspeak:cache id="1502048" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Crop Circles</groundspeak:name>
+      <groundspeak:placed_by>orangetigerprawn</groundspeak:placed_by>
+      <groundspeak:owner id="2167131">orangetigerprawn</groundspeak:owner>
+      <groundspeak:type>Unknown Cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>4</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>Leinster</groundspeak:state>
+      <groundspeak:short_description html="True">&lt;center&gt;&lt;b&gt;&lt;font size="+2"&gt;Crop Circles&lt;/font&gt;&lt;/b&gt;&lt;/center&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;center&gt;Is there something supernatural about this, a logical
+explanation, or is it just a little bit fishy? Meditate on the
+meaning of life and hum along to the resonance of the nearby high
+tension power lines to tune into the essence of the
+universe.&lt;/center&gt;
+&lt;br /&gt;
+&lt;br /&gt;</groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;center&gt;&lt;img src=
+"http://img.geocaching.com/cache/9c627ae4-42d1-484d-b886-369cf94f2b98.jpg"
+width="350" height="450" align="bottom" border="0" naturalsizeflag=
+"3" /&gt;&lt;/center&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;center&gt;&amp;nbsp;&lt;/center&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;center&gt;In order to find the capsule at the end of this cosmic
+rainbow you'll have to contemplate the following mental
+challenges.&lt;/center&gt;
+&lt;center&gt;&amp;nbsp;&lt;/center&gt;
+&lt;br /&gt;
+&lt;center&gt;The above coordinates are on private land to which you have
+no right of access.&lt;/center&gt;
+&lt;center&gt;Calculate the circumference of the circle at this location.
+Round it to the nearest hecto metre. A&lt;/center&gt;
+&lt;center&gt;How many access points are there to the circle? B&lt;/center&gt;
+&lt;center&gt;How many roads border the field in which the circle is
+located? C&lt;/center&gt;
+&lt;center&gt;How many thousand volts are carried by the most powerful
+high tension cables that criss cross the general area? D&lt;/center&gt;
+&lt;center&gt;&amp;nbsp;&lt;/center&gt;
+&lt;br /&gt;
+&lt;center&gt;At N 53&amp;deg; 26.101 W 006&amp;deg; 22.033&lt;/center&gt;
+&lt;center&gt;At this location count the number of gates. E&lt;/center&gt;
+&lt;center&gt;&amp;nbsp;&lt;/center&gt;
+&lt;center&gt;&amp;nbsp;&lt;/center&gt;
+&lt;center&gt;The end of the rainbow is located at:&lt;/center&gt;
+&lt;center&gt;&amp;nbsp;&lt;/center&gt;
+&lt;center&gt;N 53&amp;deg; A*E+C.(A+C+E)^C-B+D&lt;br /&gt;
+W 006&amp;deg; A*E-C.ZERO D/(B+E)+A+E&lt;/center&gt;
+&lt;center&gt;&amp;nbsp;&lt;/center&gt;
+&lt;center&gt;&amp;nbsp;&lt;/center&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;center&gt;&lt;b&gt;&lt;font size="+2"&gt;The Cache&lt;/font&gt;&lt;/b&gt;&lt;/center&gt;
+&lt;center&gt;&amp;nbsp;&lt;/center&gt;
+&lt;center&gt;The contaimer may seem familiar yet different when you find
+it. Stealth might be needed at the final location due to the
+presence of large windows nearby.&lt;/center&gt;&lt;p&gt;Additional Waypoints&lt;/p&gt;2C226T3 - Second Crop&lt;br /&gt;N 53° 26.101 W 006° 22.033&lt;br /&gt;Second Stage: How many gates?&lt;br /&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>Were you a hero in the year of our Arthur 39 AG?</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="99369350">
+          <groundspeak:date>2010-03-10T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2709154">Blue Jay 59</groundspeak:finder>
+          <groundspeak:text encoded="False">Worked this out handy enough, so when Toffee Man came in this evening we took a quick spin and grabbed the cache. 
+Hardest part was finding out how many volts etc. took a bit of googling. That Prof. Google is marvellous [:)]
+Yes different but familiar. 
+Had no clue what the hint meant. 
+TFTC &amp; the puzzle 
+Blue Jay 59 
+#240</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="99363964">
+          <groundspeak:date>2010-03-10T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2826452">Toffee Man</groundspeak:finder>
+          <groundspeak:text encoded="False">Found the cache today with Blue Jay 59.
+Nice hiding spot &amp; contained is certainly a bit different.
+Have you given up the coke?
+TFTC
+Toffee Man
+#242</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="97628143">
+          <groundspeak:date>2010-02-19T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="243261">Fjon</groundspeak:finder>
+          <groundspeak:text encoded="False">Cache no. 1300. 
+Took a while to figure out this one and eventually find it! Lucky it's close to where I work so had a few trips out during lunch time. 
+</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="94584046">
+          <groundspeak:date>2010-01-03T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="289646">snoopyandmickey</groundspeak:finder>
+          <groundspeak:text encoded="False">The brainiac team member needed to solve this one!  TFTC!  </groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="93582562">
+          <groundspeak:date>2009-12-27T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="274644">Hezekiah</groundspeak:finder>
+          <groundspeak:text encoded="False">Found after a fair bit of head scratching - and a certain amount of car rescue!  Roads were like glass, but 4x4 wins every time - bit baffled by the hint.
+
+TFTC!</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

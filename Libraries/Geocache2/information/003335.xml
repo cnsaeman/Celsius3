@@ -1,0 +1,116 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>003335</id>
+  <cache-id>GC12YZH</cache-id>
+  <type>Traditional Cache</type>
+  <name>ArdCache by Windsockers, Traditional Cache (1/1.5)</name>
+  <size>Small</size>
+  <difficulty>1</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2009-09-20</last-found>
+  <placed>2007-06-05</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>Windsockers</placedby>
+  <found>Geocache</found>
+  <lat>53.60735</lat>
+  <lon>-6.39385</lon>
+  <last-logs>XFFFF</last-logs>
+  <owner>Windsockers</owner>
+  <description><table align="center">
+<tr>
+<td>
+<img src="http://img.geocaching.com/cache/0b7e5986-6bab-497b-ba7f-8a37fa684d72.jpg" />
+</td></tr></table></description>
+  <long-description><p><b>Ardcath</b> which translates to <b>"the height of a
+battle."</b> is a hamlet in County Meath, Ireland. It has a
+population of 378 and was the location of one of the fiercest
+battles of ancient Ireland between the Fianna and the Firbolgs. A
+link with history was kept with the provision of a safe house to
+DeValera during the Irish War of Independence, 1916 to 1922.</p>
+<p><b>The Cache</b></p>
+<p>Please re hide it well to prevent Muggles finding the cache.</p>
+<center>
+<img src="http://www.northbeach.ie/gallery/albums/userpics/10001/windsock-anim-small.gif" />
+<br />
+<b>The Windsockers</b></center></long-description>
+  <encoded-hints>
+      </encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=0de45487-db55-47da-a255-b69e76ba0487</url>
+  <url-name>ArdCache</url-name>
+  <logs><ul><li>2010-05-01T19:00:00Z : Didn't find it by abra123cadabra <br />Both Colorado and Cacheberry were all over the place. Too many potential hiding places. Retreated when rain got more persistent. Nice location, though. Will come back another time.</li><li>2010-03-21T19:00:00Z : Found it by Mullingar Man <br />TFTC</li><li>2009-12-13T20:00:00Z : Found it by Spark_ie <br />Quick grab while on tour in Louth/Meath today, with Donnacha.  TFTC, Spark_ie</li><li>2009-12-13T20:00:00Z : Found it by Donnacha <br />Found with Spark_ie while on a tour of Winsocker land. Thanks for the cache. </li><li>2009-09-20T19:00:00Z : Found it by shorty.b <br />found it hidden very well</li></ul></logs>
+  <original-xml>  <wpt  lat="53.60735" lon="-6.39385">
+    <time>2007-06-05T07:00:00Z</time>
+    <name>GC12YZH</name>
+    <desc>ArdCache by Windsockers, Traditional Cache (1/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=0de45487-db55-47da-a255-b69e76ba0487</url>
+    <urlname>ArdCache</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="600799" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>ArdCache</groundspeak:name>
+      <groundspeak:placed_by>Windsockers</groundspeak:placed_by>
+      <groundspeak:owner id="271623">Windsockers</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>Leinster</groundspeak:state>
+      <groundspeak:short_description html="True">&lt;table align="center"&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;img src="http://img.geocaching.com/cache/0b7e5986-6bab-497b-ba7f-8a37fa684d72.jpg" /&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;p&gt;&lt;b&gt;Ardcath&lt;/b&gt; which translates to &lt;b&gt;"the height of a
+battle."&lt;/b&gt; is a hamlet in County Meath, Ireland. It has a
+population of 378 and was the location of one of the fiercest
+battles of ancient Ireland between the Fianna and the Firbolgs. A
+link with history was kept with the provision of a safe house to
+DeValera during the Irish War of Independence, 1916 to 1922.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;The Cache&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Please re hide it well to prevent Muggles finding the cache.&lt;/p&gt;
+&lt;center&gt;
+&lt;img src="http://www.northbeach.ie/gallery/albums/userpics/10001/windsock-anim-small.gif" /&gt;
+&lt;br /&gt;
+&lt;b&gt;The Windsockers&lt;/b&gt;&lt;/center&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="106559620">
+          <groundspeak:date>2010-05-01T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Didn't find it</groundspeak:type>
+          <groundspeak:finder id="2383033">abra123cadabra</groundspeak:finder>
+          <groundspeak:text encoded="False">Both Colorado and Cacheberry were all over the place. Too many potential hiding places. Retreated when rain got more persistent. Nice location, though. Will come back another time.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="100594185">
+          <groundspeak:date>2010-03-21T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2717815">Mullingar Man</groundspeak:finder>
+          <groundspeak:text encoded="False">TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="92818821">
+          <groundspeak:date>2009-12-13T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="950104">Spark_ie</groundspeak:finder>
+          <groundspeak:text encoded="False">Quick grab while on tour in Louth/Meath today, with Donnacha.  TFTC, Spark_ie</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="92807521">
+          <groundspeak:date>2009-12-13T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="61401">Donnacha</groundspeak:finder>
+          <groundspeak:text encoded="False">Found with Spark_ie while on a tour of Winsocker land. Thanks for the cache. </groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="85103415">
+          <groundspeak:date>2009-09-20T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2226632">shorty.b</groundspeak:finder>
+          <groundspeak:text encoded="False">found it hidden very well</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

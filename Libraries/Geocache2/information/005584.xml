@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>005584</id>
+  <cache-id>SB1QHJT</cache-id>
+  <type>Waypoint</type>
+  <name>Sandycove Beach</name>
+  <placed>2009-04-25</placed>
+  <lat>53.288683</lat>
+  <lon>-6.11435</lon>
+  <attributes>hidden</attributes>
+  <description></description>
+  <url>http://www.geocaching.com/seek/wpt.aspx?WID=5168b818-af3f-4073-b608-bf895031613f</url>
+  <url-name>Sandycove Beach</url-name>
+</element>
+</celsiusv2.1.addinfofile>

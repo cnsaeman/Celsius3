@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<celsiusv2.1.library>
+<element>
+  <directory>Geocache2</directory>
+  <name>Geocache2</name>
+  <index>cache-id|type|name|size|difficulty|terrain|last-found|placed|gpx-date|placedby|found|lat|lon|last-logs</index>
+  <tablecolumns>cache-id|type|name|size|distance&|heading&|found|difficulty|terrain|last-found|last-logs&5|placed|gpx-date</tablecolumns>
+  <columnheaders>ID||Name|Size|DST|H|F|D|T|Last Found|Last Logs|Placed|GPX date</columnheaders>
+  <columntypes>text|symbol|text|symbol|unit:km|text|symbol|number|number|date|text|date|date</columntypes>
+  <columnsizes>-74|-20|333|-49|63|-31|-19|-31|-31|-83|-63|-83|-83</columnsizes>
+  <autosortcolumn>1</autosortcolumn>
+  <people>placedby</people>
+  <plugins-manual></plugins-manual>
+  <plugins-auto></plugins-auto>
+  <plugins-export>Export GPX</plugins-export>
+  <filetypes>*</filetypes>
+  <searchtags>cache-id|name|size|description|long-description|distance|date</searchtags>
+  <hide>Menu:Bibliography|Tab:Bibliography|Tab:Search|Tab:Thumbnail|Import:BibTeX</hide>
+  <essential-fields>cache-id</essential-fields>
+  <differentiating-fields>cache-id</differentiating-fields>
+  <item-representation>#cache-id#: #name#</item-representation>
+  <naming-convention></naming-convention>
+  <choice-fields>type:Traditional Cache,Multi-cache,Virtual Cache,Unknown Cache,Letterbox Hybrid,Webcam Cache,Event Cache,Earthcache|size:Micro,Small,Regular,Large,Virtual,Not chosen,Other|found:Geocache,Geocache Found</choice-fields>
+  <icon-fields>type|size|found</icon-fields>
+  <icon-dictionary>Traditional Cache:geocaching/traditional|Multi-cache:geocaching/multi|Unknown Cache:geocaching/unknown|Virtual Cache:geocaching/virtual|Letterbox Hybrid:geocaching/letterbox|Webcam Cache:geocaching/webcam|Event Cache:geocaching/eventcache|Earthcache:geocaching/earthcache|Geocache Found:geocaching/found|Geocache:geocaching/notyetfound|Micro:geocaching/micro|Small:geocaching/small|Regular:geocaching/regular|Large:geocaching/large|Virtual:geocaching/not_chosen|Other:geocaching/not_chosen|Not chosen:geocaching/not_chosen</icon-dictionary>
+  <item-folder>LD::documents</item-folder>
+  <style>LD::style.css</style>
+  <dir::importzip>/home/cnsaeman/Desktop/test</dir::importzip>
+</element>
+</celsiusv2.1.library>

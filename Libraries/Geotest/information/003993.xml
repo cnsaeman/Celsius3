@@ -1,0 +1,100 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>003993</id>
+  <cache-id>GC2K9F1</cache-id>
+  <type>Traditional Cache</type>
+  <name>Nuff un Nopp 005 o?wie by Maluma, Traditional Cache (2/2)</name>
+  <size>Micro</size>
+  <difficulty>2</difficulty>
+  <terrain>2</terrain>
+  <last-found>2010-12-13</last-found>
+  <placed>2010-12-12</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Maluma</placedby>
+  <found>Geocache</found>
+  <lat>50.531717</lat>
+  <lon>9.694233</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>Maluma</owner>
+  <description>Die Fortsetzung der Nuff und Nopp Reihe..Ein leichter Cache für zwischendurch...fast ein Drive In</description>
+  <long-description>
+      </long-description>
+  <encoded-hints>
+      </encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=f2ea8576-6741-4e48-9b86-f7dfaa5fa805</url>
+  <url-name>Nuff un Nopp 005 o?wie</url-name>
+  <logs><ul><li>2010-12-25T20:00:00Z : Found it by Aldokyl <br />Heute, so ohne Muggels war das Bergen kein Problem.</li><li>2010-12-20T20:00:00Z : Found it by al_bundy_hessen <br />Um eine kleine Pause im vorweihnachtlichen Einkaufswahnsinn einzulegen, wurde dieser Cache am Rande des völligen Verkehrschaos gehoben [^]
+[b]TFTC#232 [/b]und viele Grüsse von [i][b][red]al[/red][white]_[/white][blue]bundy[/blue][white]_[/white][green]hessen[/green][/b][/i]</li><li>2010-12-19T20:00:00Z : Found it by jonny-blue <br />Gestern reichte die Muggelautoschlange bis hierher ... heute war's dann schon fast einsam [:)].
+Dose gut gefunden, einmal Nuff und wieder Nopp [:D].
+
+TFTC</li><li>2010-12-18T20:00:00Z : Found it by Fla20m <br />schönes Versteck für einen Cache!</li><li>2010-12-13T20:00:00Z : Found it by 2000wu6 <br />Ach wie schön, mal wieder ein neuer Cache ... und der Zeitplan läßt einen kurzen Abstecher zu! Bei etwas 2 km Luftlinie muß man das ja nutzen ... ab in's Auto und zu den Kaiserwiesen ... 
+17m vom Cache geparkt, kurz orientiert und schon von weitem etwas Auffälliges gesehen ... kurz zugegriffen - und den Cache in der Hand gehabt! Das Logbuch noch dazu jungräulich, FTF!
+TFTC, Garry</li></ul></logs>
+  <original-xml>  <wpt  lat="50.531717" lon="9.694233">
+    <time>2010-12-12T08:00:00Z</time>
+    <name>GC2K9F1</name>
+    <desc>Nuff un Nopp 005 o?wie by Maluma, Traditional Cache (2/2)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=f2ea8576-6741-4e48-9b86-f7dfaa5fa805</url>
+    <urlname>Nuff un Nopp 005 o?wie</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="2011066" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Nuff un Nopp 005 o?wie</groundspeak:name>
+      <groundspeak:placed_by>Maluma</groundspeak:placed_by>
+      <groundspeak:owner id="1380311">Maluma</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>2</groundspeak:difficulty>
+      <groundspeak:terrain>2</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">Die Fortsetzung der Nuff und Nopp Reihe..Ein leichter Cache für zwischendurch...fast ein Drive In</groundspeak:short_description>
+      <groundspeak:long_description html="False">
+      </groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="139192259">
+          <groundspeak:date>2010-12-25T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="438973">Aldokyl</groundspeak:finder>
+          <groundspeak:text encoded="False">Heute, so ohne Muggels war das Bergen kein Problem.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="138924885">
+          <groundspeak:date>2010-12-20T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="878351">al_bundy_hessen</groundspeak:finder>
+          <groundspeak:text encoded="False">Um eine kleine Pause im vorweihnachtlichen Einkaufswahnsinn einzulegen, wurde dieser Cache am Rande des völligen Verkehrschaos gehoben [^]
+[b]TFTC#232 [/b]und viele Grüsse von [i][b][red]al[/red][white]_[/white][blue]bundy[/blue][white]_[/white][green]hessen[/green][/b][/i]</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="138825545">
+          <groundspeak:date>2010-12-19T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2197776">jonny-blue</groundspeak:finder>
+          <groundspeak:text encoded="False">Gestern reichte die Muggelautoschlange bis hierher ... heute war's dann schon fast einsam [:)].
+Dose gut gefunden, einmal Nuff und wieder Nopp [:D].
+
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="138898263">
+          <groundspeak:date>2010-12-18T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3087275">Fla20m</groundspeak:finder>
+          <groundspeak:text encoded="False">schönes Versteck für einen Cache!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="138527395">
+          <groundspeak:date>2010-12-13T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2645299">2000wu6</groundspeak:finder>
+          <groundspeak:text encoded="False">Ach wie schön, mal wieder ein neuer Cache ... und der Zeitplan läßt einen kurzen Abstecher zu! Bei etwas 2 km Luftlinie muß man das ja nutzen ... ab in's Auto und zu den Kaiserwiesen ... 
+17m vom Cache geparkt, kurz orientiert und schon von weitem etwas Auffälliges gesehen ... kurz zugegriffen - und den Cache in der Hand gehabt! Das Logbuch noch dazu jungräulich, FTF!
+TFTC, Garry</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

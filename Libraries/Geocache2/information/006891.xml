@@ -1,0 +1,162 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>006891</id>
+  <cache-id>GC11YE9</cache-id>
+  <type>Traditional Cache</type>
+  <name>Forgotton Façade by Bootle, Traditional Cache (1/1)</name>
+  <size>Micro</size>
+  <difficulty>1</difficulty>
+  <terrain>1</terrain>
+  <last-found>2007-09-12</last-found>
+  <placed>2007-04-05</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>Bootle</placedby>
+  <found>Geocache Found</found>
+  <lat>53.354217</lat>
+  <lon>-6.250667</lon>
+  <last-logs>EFFDF</last-logs>
+  <owner>Bootle</owner>
+  <description>A neglected relic in the heart of Dublin's inner city.</description>
+  <long-description><p align="center"><a target="_blank"
+href="http://www.geocachingireland.com"><img border="0"
+src="http://geocachingireland.com/logo4.jpg" width="328"
+height="53" align="middle" /></a></p>
+<br />
+ Located on Sean Mac Dermott Street, this architectural leftover is
+a pitiful sight. This once fine building, a Protestant Church in
+the Greek revival style, dates from the 1850s, and was designed by
+a Scottish architect called Ferguson. Today, all that is left of
+the structure is a lonely facade, with the remainder of the
+building having been destroyed by fire in the 1980s. <br />
+<br />
+Today the facade stands in stark contrast to the bland functional
+buildings that surround it. Little attempt to highlight the
+building, or restore any part of it, appears to have been made. In
+a more upmarket neighbourhood there would undoubtedly have been a
+campaign to restore the building, but alas, here it is left
+untouched. <br />
+<br />
+Note: This street and many of it's surrounding neighbours have
+something of a bad reputation. While this may well be exaggerated
+somewhat, it is nonetheless advisable to keep your wits about you
+and hide any obvious valuables. I would be reluctant to seek this
+cache after dark! <br />
+<br />
+The cache is a magnetic micro. Please replace it exactly as you
+found it, making sure it is not visible. Enjoy!</long-description>
+  <encoded-hints>largest indentation in railings opposite; right; low</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=964b36f6-b51f-452f-a7b6-5c37d072605b</url>
+  <url-name>Forgotton Façade</url-name>
+  <logs><ul><li>2010-06-05T17:25:33Z : Enable Listing by Bootle <br />replaced cache</li><li>2010-05-24T19:00:00Z : Found it by Nachtwolf <br />Hello.
+After our boating holydays on the beautiful River Shannon we spent a few days in Dublin.
+
+I explored this interesting lively city on foot and visited some caches. I found this one without any problems.
+
+Attention: The log book is wet.
+
+Thank you for this nice cache and greetings from Germany.
+Nachtwolf</li><li>2010-05-23T19:00:00Z : Found it by Bus&Betty <br />Well, we found it today in very bad shape, as previously noted by the finder.  The building across the street is indeed lovely and it's a shame that it was allowed to sink into disrepair.
+
+For obvious reasons, did not sign log.</li><li>2010-05-22T20:13:21Z : Temporarily Disable Listing by Bootle <br />needs to be replaced</li><li>2010-05-22T16:44:52Z : Needs Maintenance by GudrunXY <br />see log</li><li>2007-09-12T07:00:00Z : Found it by Kersti.com <br />Found this one while out with CMB50. In fact, we found two caches in this spot... </li></ul></logs>
+  <original-xml>  <wpt  lat="53.354217" lon="-6.250667">
+    <time>2007-04-05T07:00:00Z</time>
+    <name>GC11YE9</name>
+    <desc>Forgotton Façade by Bootle, Traditional Cache (1/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=964b36f6-b51f-452f-a7b6-5c37d072605b</url>
+    <urlname>Forgotton Façade</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="570504" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Forgotton Façade</groundspeak:name>
+      <groundspeak:placed_by>Bootle</groundspeak:placed_by>
+      <groundspeak:owner id="96113">Bootle</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>Dublin</groundspeak:state>
+      <groundspeak:short_description html="True">A neglected relic in the heart of Dublin's inner city.</groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;p align="center"&gt;&lt;a target="_blank"
+href="http://www.geocachingireland.com"&gt;&lt;img border="0"
+src="http://geocachingireland.com/logo4.jpg" width="328"
+height="53" align="middle" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;br /&gt;
+ Located on Sean Mac Dermott Street, this architectural leftover is
+a pitiful sight. This once fine building, a Protestant Church in
+the Greek revival style, dates from the 1850s, and was designed by
+a Scottish architect called Ferguson. Today, all that is left of
+the structure is a lonely facade, with the remainder of the
+building having been destroyed by fire in the 1980s. &lt;br /&gt;
+&lt;br /&gt;
+Today the facade stands in stark contrast to the bland functional
+buildings that surround it. Little attempt to highlight the
+building, or restore any part of it, appears to have been made. In
+a more upmarket neighbourhood there would undoubtedly have been a
+campaign to restore the building, but alas, here it is left
+untouched. &lt;br /&gt;
+&lt;br /&gt;
+Note: This street and many of it's surrounding neighbours have
+something of a bad reputation. While this may well be exaggerated
+somewhat, it is nonetheless advisable to keep your wits about you
+and hide any obvious valuables. I would be reluctant to seek this
+cache after dark! &lt;br /&gt;
+&lt;br /&gt;
+The cache is a magnetic micro. Please replace it exactly as you
+found it, making sure it is not visible. Enjoy!</groundspeak:long_description>
+      <groundspeak:encoded_hints>largest indentation in railings opposite; right; low</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="111602872">
+          <groundspeak:date>2010-06-05T17:25:33Z</groundspeak:date>
+          <groundspeak:type>Enable Listing</groundspeak:type>
+          <groundspeak:finder id="96113">Bootle</groundspeak:finder>
+          <groundspeak:text encoded="False">replaced cache</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="110188564">
+          <groundspeak:date>2010-05-24T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1414461">Nachtwolf</groundspeak:finder>
+          <groundspeak:text encoded="False">Hello.
+After our boating holydays on the beautiful River Shannon we spent a few days in Dublin.
+
+I explored this interesting lively city on foot and visited some caches. I found this one without any problems.
+
+Attention: The log book is wet.
+
+Thank you for this nice cache and greetings from Germany.
+Nachtwolf</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="109655678">
+          <groundspeak:date>2010-05-23T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1225625">Bus&amp;Betty</groundspeak:finder>
+          <groundspeak:text encoded="False">Well, we found it today in very bad shape, as previously noted by the finder.  The building across the street is indeed lovely and it's a shame that it was allowed to sink into disrepair.
+
+For obvious reasons, did not sign log.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="109512810">
+          <groundspeak:date>2010-05-22T20:13:21Z</groundspeak:date>
+          <groundspeak:type>Temporarily Disable Listing</groundspeak:type>
+          <groundspeak:finder id="96113">Bootle</groundspeak:finder>
+          <groundspeak:text encoded="False">needs to be replaced</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="109474269">
+          <groundspeak:date>2010-05-22T16:44:52Z</groundspeak:date>
+          <groundspeak:type>Needs Maintenance</groundspeak:type>
+          <groundspeak:finder id="2694097">GudrunXY</groundspeak:finder>
+          <groundspeak:text encoded="False">see log</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="32513699">
+          <groundspeak:date>2007-09-12T07:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="320206">Kersti.com</groundspeak:finder>
+          <groundspeak:text encoded="False">Found this one while out with CMB50. In fact, we found two caches in this spot... </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

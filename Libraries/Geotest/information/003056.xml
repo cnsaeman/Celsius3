@@ -1,0 +1,106 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>003056</id>
+  <cache-id>GC208FQ</cache-id>
+  <type>Traditional Cache</type>
+  <name>Am alten Gärtchen by fezi, Traditional Cache (1.5/2)</name>
+  <size>Small</size>
+  <difficulty>1.5</difficulty>
+  <terrain>2</terrain>
+  <last-found>2010-09-21</last-found>
+  <placed>2009-10-25</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>fezi</placedby>
+  <found>Geocache</found>
+  <lat>50.518183</lat>
+  <lon>9.671517</lon>
+  <last-logs>FFFWX</last-logs>
+  <owner>fezi</owner>
+  <description>
+      </description>
+  <long-description>Dies ist unser erster Cache, den wir versteckt haben, aber es wird nicht der letzte sein!
+Der Cache liegt bei einem alten Garten, der nicht mehr gepflegt wird.
+Die Location ist bequem zu Fuß oder mit dem Fahrrad über den in der Nähe liegenden Radweg zu erreichen.Mit dem Auto kann man bei N 50°31.025 E009°40.380 parken.Vom Parkplatz/Radweg sind es bis zum Cache ca. 400 Meter.
+Erstinhalt:
+-Schlüsselband
+-2 Anhänger
+-2 Münzen</long-description>
+  <encoded-hints>
+      </encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=1150febf-6371-4a91-a138-1db53afca299</url>
+  <url-name>Am alten Gärtchen</url-name>
+  <logs><ul><li>2010-11-16T20:00:00Z : Found it by Herzl <br />Ziemlich feuchte Umgebung zur Zeit - aber der Dose gehts gut.</li><li>2010-10-30T20:01:03Z : Found it by SchüWa <br />Mit Ubx gefunden</li><li>2010-10-30T19:59:04Z : Found it by ubx <br />Ubx was here ! mit SchüWa</li><li>2010-10-12T19:00:00Z : Write note by fezi <br />Wir haben heute nach unserem Cache geschaut und ihn so vorgefunden, wie wir ihn vertsteckt haben. Es kann also gesucht werden.</li><li>2010-09-21T19:00:00Z : Didn't find it by Griesgor <br />Nicht gefunden .Sehr frustriert von dannen gezogen.Für mich war das kein schöer Ort.Es sei den er läuft unter dem Titel zurück zur Natur.Mich würde es mal freuen wenn sich der Owner oder jemand der den Cache gefunden hat mit mir zwecks Kontrolle oder mal gemeinsam hingehen melden würde.
+Gruß Grießgor .    schmoll</li></ul></logs>
+  <original-xml>  <wpt  lat="50.518183" lon="9.671517">
+    <time>2009-10-25T07:00:00Z</time>
+    <name>GC208FQ</name>
+    <desc>Am alten Gärtchen by fezi, Traditional Cache (1.5/2)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=1150febf-6371-4a91-a138-1db53afca299</url>
+    <urlname>Am alten Gärtchen</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1444098" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Am alten Gärtchen</groundspeak:name>
+      <groundspeak:placed_by>fezi</groundspeak:placed_by>
+      <groundspeak:owner id="2007251">fezi</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>2</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">
+      </groundspeak:short_description>
+      <groundspeak:long_description html="False">Dies ist unser erster Cache, den wir versteckt haben, aber es wird nicht der letzte sein!
+Der Cache liegt bei einem alten Garten, der nicht mehr gepflegt wird.
+Die Location ist bequem zu Fuß oder mit dem Fahrrad über den in der Nähe liegenden Radweg zu erreichen.Mit dem Auto kann man bei N 50°31.025 E009°40.380 parken.Vom Parkplatz/Radweg sind es bis zum Cache ca. 400 Meter.
+Erstinhalt:
+-Schlüsselband
+-2 Anhänger
+-2 Münzen</groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="136090610">
+          <groundspeak:date>2010-11-16T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1970181">Herzl</groundspeak:finder>
+          <groundspeak:text encoded="False">Ziemlich feuchte Umgebung zur Zeit - aber der Dose gehts gut.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="133621863">
+          <groundspeak:date>2010-10-30T20:01:03Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3353018">SchüWa</groundspeak:finder>
+          <groundspeak:text encoded="False">Mit Ubx gefunden</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="133621704">
+          <groundspeak:date>2010-10-30T19:59:04Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="787613">ubx</groundspeak:finder>
+          <groundspeak:text encoded="False">Ubx was here ! mit SchüWa</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="131076134">
+          <groundspeak:date>2010-10-12T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Write note</groundspeak:type>
+          <groundspeak:finder id="2007251">fezi</groundspeak:finder>
+          <groundspeak:text encoded="False">Wir haben heute nach unserem Cache geschaut und ihn so vorgefunden, wie wir ihn vertsteckt haben. Es kann also gesucht werden.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="127874100">
+          <groundspeak:date>2010-09-21T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Didn't find it</groundspeak:type>
+          <groundspeak:finder id="3701621">Griesgor</groundspeak:finder>
+          <groundspeak:text encoded="False">Nicht gefunden .Sehr frustriert von dannen gezogen.Für mich war das kein schöer Ort.Es sei den er läuft unter dem Titel zurück zur Natur.Mich würde es mal freuen wenn sich der Owner oder jemand der den Cache gefunden hat mit mir zwecks Kontrolle oder mal gemeinsam hingehen melden würde.
+Gruß Grießgor .    schmoll</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs>
+        <groundspeak:travelbug id="1476749" ref="TB21BF0">
+          <groundspeak:name>Swissboy</groundspeak:name>
+        </groundspeak:travelbug>
+      </groundspeak:travelbugs>
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

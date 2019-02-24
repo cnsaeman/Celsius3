@@ -1,0 +1,140 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>001352</id>
+  <cache-id>GC28608</cache-id>
+  <type>Unknown Cache</type>
+  <name>Mal was mit Farben!!! by f.etcher, Unknown Cache (4.5/1.5)</name>
+  <size>Micro</size>
+  <difficulty>4.5</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-09-13</last-found>
+  <placed>2010-05-08</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>f.etcher</placedby>
+  <found>Geocache</found>
+  <lat>50.53675</lat>
+  <lon>9.709283</lon>
+  <last-logs>FFWFF</last-logs>
+  <owner>f.etcher</owner>
+  <description>
+      </description>
+  <long-description>Ich hab mir mal was schweres für euch ausgedacht, mal was mit Farben!!! 
+
+(siehe beigefügtes Bild)
+
+
+Ihr könnt eure Lösung auf geochecker überprüfen: 
+http://www.geochecker.com/index.php?code=45da806ad5e6fd21b78e751efef94f4a&action=check&wp=47433238363038&name=4d616c20776173206d69742046617262656e212121
+
+Additional Waypoints
+FI28608 - Mal was mit Farben!!!
+N/S  __ ° __ . ___ W/E ___ ° __ . ___ 
+
+</long-description>
+  <encoded-hints>Farben in Buchstaben umwandeln</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=6fca323c-4add-4190-929c-bf0167d81f4a</url>
+  <url-name>Mal was mit Farben!!!</url-name>
+  <logs><ul><li>2010-11-14T20:00:00Z : Found it by mayday malone <br />sehr schönes rätsel, das uns schon ein wenig beschäftigt hat. heute war es dann so weit, erfolgreich geloggt [^]
+danke dafür und gruß. mayday malone</li><li>2010-11-09T20:00:00Z : Found it by mausezahntiger <br />[:I]
+Also da muss ich was falsch gemacht haben: Das Rätsel war gestern Abend nach erstmaligem Ansehen in weniger als 5 Minuten gelöst, obwohl ich nicht weiß, wie ich das gemacht habe und mit dem Hint wirklich gar nichts anfangen kann. Jedenfalls hat geochecker mir die KOs bestätigt und ich dachte, dass vielleicht geochecker nicht richtig funktioniert - also mache ich die Probe aufs Exempel und habe falsche KOs eingegeben, die natürlich (!) von geochecker als falsch bezeichnet wurden.
+
+Hatte ich also wirklich die richtigen KOs durch mehr Glück als Verstand ermittelt? Ich war skeptisch...
+
+Heute Mittag musste das geklärt werden und ich machte mich auf den kurzen Weg (Luftlinie 350m, wahrscheinlich kann ich im Winter die Dose von meinem Schlafzimmer aus "beobachten"). Unterwegs habe ich mir dann überlegt, ob vielleicht das Rätsel gar nicht so schwer ist, sondern die Difficulty-Wertung sich auf das Versteck vorort bezieht. Die Dose lag allerdings vollkommen frei [:O] !
+
+Also ich gebe mir freiwillig dafür nur 2 difficulty-Sterne. Dieser Cache wird mir ein Rätsel bleiben... [?]</li><li>2010-09-13T19:00:00Z : Write note by HubiFD <br />Coin nachgeloggt.
+
+Gruß Hubi</li><li>2010-09-13T19:00:00Z : Found it by TaDaRhön <br />Das Rätsel hat uns schon ne zeitlang beschäftigt...aber in bewährter Teamarbeit
+haben wir es dann doch geschafft [:)]
+Das Döschen haben wir dann heute schnell finden können!
+DfdC, sagen TaDaRhön</li><li>2010-09-13T19:00:00Z : Found it by HubiFD <br />Nach einem kleinen Denkanstoß von Maluma hatte ich auch einenAnsatz um das Rätsel zu lösen.
+Gefunden war er dann schnell auf der heutigen Tour.
+TFTC Gruß Hubi.</li></ul></logs>
+  <original-xml>  <wpt  lat="50.53675" lon="9.709283">
+    <time>2010-05-08T07:00:00Z</time>
+    <name>GC28608</name>
+    <desc>Mal was mit Farben!!! by f.etcher, Unknown Cache (4.5/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=6fca323c-4add-4190-929c-bf0167d81f4a</url>
+    <urlname>Mal was mit Farben!!!</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Unknown Cache</type>
+    <groundspeak:cache id="1680024" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Mal was mit Farben!!!</groundspeak:name>
+      <groundspeak:placed_by>f.etcher</groundspeak:placed_by>
+      <groundspeak:owner id="1498819">f.etcher</groundspeak:owner>
+      <groundspeak:type>Unknown Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>4.5</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">
+      </groundspeak:short_description>
+      <groundspeak:long_description html="False">Ich hab mir mal was schweres für euch ausgedacht, mal was mit Farben!!! 
+
+(siehe beigefügtes Bild)
+
+
+Ihr könnt eure Lösung auf geochecker überprüfen: 
+http://www.geochecker.com/index.php?code=45da806ad5e6fd21b78e751efef94f4a&amp;action=check&amp;wp=47433238363038&amp;name=4d616c20776173206d69742046617262656e212121
+
+Additional Waypoints
+FI28608 - Mal was mit Farben!!!
+N/S  __ ° __ . ___ W/E ___ ° __ . ___ 
+
+</groundspeak:long_description>
+      <groundspeak:encoded_hints>Farben in Buchstaben umwandeln</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="135852271">
+          <groundspeak:date>2010-11-14T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3592921">mayday malone</groundspeak:finder>
+          <groundspeak:text encoded="False">sehr schönes rätsel, das uns schon ein wenig beschäftigt hat. heute war es dann so weit, erfolgreich geloggt [^]
+danke dafür und gruß. mayday malone</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="135181693">
+          <groundspeak:date>2010-11-09T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1087380">mausezahntiger</groundspeak:finder>
+          <groundspeak:text encoded="False">[:I]
+Also da muss ich was falsch gemacht haben: Das Rätsel war gestern Abend nach erstmaligem Ansehen in weniger als 5 Minuten gelöst, obwohl ich nicht weiß, wie ich das gemacht habe und mit dem Hint wirklich gar nichts anfangen kann. Jedenfalls hat geochecker mir die KOs bestätigt und ich dachte, dass vielleicht geochecker nicht richtig funktioniert - also mache ich die Probe aufs Exempel und habe falsche KOs eingegeben, die natürlich (!) von geochecker als falsch bezeichnet wurden.
+
+Hatte ich also wirklich die richtigen KOs durch mehr Glück als Verstand ermittelt? Ich war skeptisch...
+
+Heute Mittag musste das geklärt werden und ich machte mich auf den kurzen Weg (Luftlinie 350m, wahrscheinlich kann ich im Winter die Dose von meinem Schlafzimmer aus "beobachten"). Unterwegs habe ich mir dann überlegt, ob vielleicht das Rätsel gar nicht so schwer ist, sondern die Difficulty-Wertung sich auf das Versteck vorort bezieht. Die Dose lag allerdings vollkommen frei [:O] !
+
+Also ich gebe mir freiwillig dafür nur 2 difficulty-Sterne. Dieser Cache wird mir ein Rätsel bleiben... [?]</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="133423670">
+          <groundspeak:date>2010-09-13T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Write note</groundspeak:type>
+          <groundspeak:finder id="2729325">HubiFD</groundspeak:finder>
+          <groundspeak:text encoded="False">Coin nachgeloggt.
+
+Gruß Hubi</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="126785613">
+          <groundspeak:date>2010-09-13T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2946542">TaDaRhön</groundspeak:finder>
+          <groundspeak:text encoded="False">Das Rätsel hat uns schon ne zeitlang beschäftigt...aber in bewährter Teamarbeit
+haben wir es dann doch geschafft [:)]
+Das Döschen haben wir dann heute schnell finden können!
+DfdC, sagen TaDaRhön</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="126770998">
+          <groundspeak:date>2010-09-13T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2729325">HubiFD</groundspeak:finder>
+          <groundspeak:text encoded="False">Nach einem kleinen Denkanstoß von Maluma hatte ich auch einenAnsatz um das Rätsel zu lösen.
+Gefunden war er dann schnell auf der heutigen Tour.
+TFTC Gruß Hubi.</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

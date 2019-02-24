@@ -1,0 +1,100 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>006370</id>
+  <cache-id>GC287NA</cache-id>
+  <type>Traditional Cache</type>
+  <name>Drei Lärchen by capitanok9, Traditional Cache (1.5/1.5)</name>
+  <size>Micro</size>
+  <difficulty>1.5</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-09-21</last-found>
+  <placed>2010-05-09</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>capitanok9</placedby>
+  <found>Geocache</found>
+  <lat>50.507283</lat>
+  <lon>9.646633</lon>
+  <last-logs>FFXFF</last-logs>
+  <owner>capitanok9</owner>
+  <description>3 Lärchen ( Bäume ) und 1 Kreuz und 1 Bank Bitte nicht auf das
+Kreuz klettern</description>
+  <long-description>Wenn der Anstieg mit dem Fahrrad auf 345 HM auch etwas anstrengend
+ist, wird man mit einem herrlichen Ausblick auf Fulda und die Rhön
+belohnt. Bitte Stift zum loggen mitbringen und wieder gut
+verstecken.</long-description>
+  <encoded-hints>Nicht am oder auf dem Kreuz</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=27db7939-7b78-4752-8958-ff472c88626e</url>
+  <url-name>Drei Lärchen</url-name>
+  <logs><ul><li>2010-11-18T20:00:00Z : Found it by Ivy69 <br />Der war schnell gefunden. Leider war die Aussicht heute nicht so toll wegen Nebel.TFTC</li><li>2010-11-07T20:00:00Z : Found it by Camuvlash <br />TFTC. Über´s Versteck gestolpert. :-)</li><li>2010-10-17T19:00:00Z : Didn't find it by f.etcher <br />Irgendwie war heute nicht mein Tag...</li><li>2010-10-13T19:00:00Z : Found it by Maluma <br />Heute zusammen mit HubiFD gut und schnell gefunden
+
+TFTFC MALUMA</li><li>2010-09-21T19:00:00Z : Found it by Griesgor <br />Schönes Fleckchen Erde und super Aussicht.Danke
+Gefunden morgens um 10 Uhr.
+Gruß Griesgor</li></ul></logs>
+  <original-xml>  <wpt  lat="50.507283" lon="9.646633">
+    <time>2010-05-09T07:00:00Z</time>
+    <name>GC287NA</name>
+    <desc>Drei Lärchen by capitanok9, Traditional Cache (1.5/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=27db7939-7b78-4752-8958-ff472c88626e</url>
+    <urlname>Drei Lärchen</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1681638" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Drei Lärchen</groundspeak:name>
+      <groundspeak:placed_by>capitanok9</groundspeak:placed_by>
+      <groundspeak:owner id="3123857">capitanok9</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="True">3 Lärchen ( Bäume ) und 1 Kreuz und 1 Bank Bitte nicht auf das
+Kreuz klettern</groundspeak:short_description>
+      <groundspeak:long_description html="True">Wenn der Anstieg mit dem Fahrrad auf 345 HM auch etwas anstrengend
+ist, wird man mit einem herrlichen Ausblick auf Fulda und die Rhön
+belohnt. Bitte Stift zum loggen mitbringen und wieder gut
+verstecken.</groundspeak:long_description>
+      <groundspeak:encoded_hints>Nicht am oder auf dem Kreuz</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="136248054">
+          <groundspeak:date>2010-11-18T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3091672">Ivy69</groundspeak:finder>
+          <groundspeak:text encoded="False">Der war schnell gefunden. Leider war die Aussicht heute nicht so toll wegen Nebel.TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="134879261">
+          <groundspeak:date>2010-11-07T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2724623">Camuvlash</groundspeak:finder>
+          <groundspeak:text encoded="False">TFTC. Über´s Versteck gestolpert. :-)</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="131725247">
+          <groundspeak:date>2010-10-17T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Didn't find it</groundspeak:type>
+          <groundspeak:finder id="1498819">f.etcher</groundspeak:finder>
+          <groundspeak:text encoded="False">Irgendwie war heute nicht mein Tag...</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="131174888">
+          <groundspeak:date>2010-10-13T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1380311">Maluma</groundspeak:finder>
+          <groundspeak:text encoded="False">Heute zusammen mit HubiFD gut und schnell gefunden
+
+TFTFC MALUMA</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="127874316">
+          <groundspeak:date>2010-09-21T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3701621">Griesgor</groundspeak:finder>
+          <groundspeak:text encoded="False">Schönes Fleckchen Erde und super Aussicht.Danke
+Gefunden morgens um 10 Uhr.
+Gruß Griesgor</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

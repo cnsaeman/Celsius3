@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>006803</id>
+  <cache-id>PKY843</cache-id>
+  <type>Waypoint</type>
+  <name>GCY843 Parking</name>
+  <placed>2006-09-17</placed>
+  <lat>53.617683</lat>
+  <lon>-6.5077</lon>
+  <attributes>hidden</attributes>
+  <description></description>
+  <url>http://www.geocaching.com/seek/wpt.aspx?WID=be095f46-6da2-405c-a3f7-6a2012a62279</url>
+  <url-name>GCY843 Parking</url-name>
+</element>
+</celsiusv2.1.addinfofile>

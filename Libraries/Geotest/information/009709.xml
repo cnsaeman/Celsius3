@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>009709</id>
+  <cache-id>GC2H2MT</cache-id>
+  <type>Traditional Cache</type>
+  <name>Bank bei den fliegenden Bällen by Riesemils, Traditional Cache (1.5/1.5)</name>
+  <size>Small</size>
+  <difficulty>1.5</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-11-14</last-found>
+  <placed>2010-10-21</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Riesemils</placedby>
+  <found>Geocache</found>
+  <lat>50.581167</lat>
+  <lon>9.825983</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>Riesemils</owner>
+  <description>Mein 1.Cache. Sport und Natur vereinigen sich hier.</description>
+  <long-description>Golfplatz Hofbieber. Bitte nur die erlaubten Wege benutzen und die Golfbälle liegenlassen.</long-description>
+  <encoded-hints>Zwischen den Steinen.</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=b32adbd5-d867-411b-b04c-ca16aa36344c</url>
+  <url-name>Bank bei den fliegenden Bällen</url-name>
+  <logs><ul><li>2010-12-04T20:00:00Z : Found it by digger09 <br />trotz eis und schnee schnell enddeckt
+dfdc</li><li>2010-11-21T20:00:00Z : Found it by super sunshine <br />Cache schnell gefunden. Danke und Grüße</li><li>2010-11-20T20:00:00Z : Found it by Aldokyl <br />Ein einziger Golfer war heute auf dem Platz, der mich auch gleich fragte, ob er mir helfen könne.
+Musste er nicht und ich habe auf dem Rückweg noch einige Golfbälle aus den Büschen geholt.
+Danke für den Cache.</li><li>2010-11-14T20:00:00Z : Found it by Maluma <br />Bei Bombenwetter einen kleinen Ausflug zum Golplatz gemacht und die Spieler bewundert...wir durften sogar direkt beim Abschlagen zuschauen. Der Cache war schnell gefunden
+
+TFTC MALUMA</li><li>2010-11-14T20:00:00Z : Found it by webfraggle <br />Den Cache erahnten wir schon von weitem. Bei diesem tollen Wetter setzten wir uns dann noch eine Weile auf die Bank und genossen das super schöne Panorama. Vielen Dank für den Cache.</li></ul></logs>
+  <original-xml>  <wpt  lat="50.581167" lon="9.825983">
+    <time>2010-10-21T07:00:00Z</time>
+    <name>GC2H2MT</name>
+    <desc>Bank bei den fliegenden Bällen by Riesemils, Traditional Cache (1.5/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=b32adbd5-d867-411b-b04c-ca16aa36344c</url>
+    <urlname>Bank bei den fliegenden Bällen</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1944936" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Bank bei den fliegenden Bällen</groundspeak:name>
+      <groundspeak:placed_by>Riesemils</groundspeak:placed_by>
+      <groundspeak:owner id="3881223">Riesemils</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">Mein 1.Cache. Sport und Natur vereinigen sich hier.</groundspeak:short_description>
+      <groundspeak:long_description html="False">Golfplatz Hofbieber. Bitte nur die erlaubten Wege benutzen und die Golfbälle liegenlassen.</groundspeak:long_description>
+      <groundspeak:encoded_hints>Zwischen den Steinen.</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="137942061">
+          <groundspeak:date>2010-12-04T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3042502">digger09</groundspeak:finder>
+          <groundspeak:text encoded="False">trotz eis und schnee schnell enddeckt
+dfdc</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="136651579">
+          <groundspeak:date>2010-11-21T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2807204">super sunshine</groundspeak:finder>
+          <groundspeak:text encoded="False">Cache schnell gefunden. Danke und Grüße</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="136440288">
+          <groundspeak:date>2010-11-20T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="438973">Aldokyl</groundspeak:finder>
+          <groundspeak:text encoded="False">Ein einziger Golfer war heute auf dem Platz, der mich auch gleich fragte, ob er mir helfen könne.
+Musste er nicht und ich habe auf dem Rückweg noch einige Golfbälle aus den Büschen geholt.
+Danke für den Cache.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="135792844">
+          <groundspeak:date>2010-11-14T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1380311">Maluma</groundspeak:finder>
+          <groundspeak:text encoded="False">Bei Bombenwetter einen kleinen Ausflug zum Golplatz gemacht und die Spieler bewundert...wir durften sogar direkt beim Abschlagen zuschauen. Der Cache war schnell gefunden
+
+TFTC MALUMA</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="135789822">
+          <groundspeak:date>2010-11-14T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="199604">webfraggle</groundspeak:finder>
+          <groundspeak:text encoded="False">Den Cache erahnten wir schon von weitem. Bei diesem tollen Wetter setzten wir uns dann noch eine Weile auf die Bank und genossen das super schöne Panorama. Vielen Dank für den Cache.</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

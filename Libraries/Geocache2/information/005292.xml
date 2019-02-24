@@ -1,0 +1,140 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>005292</id>
+  <cache-id>GC205EM</cache-id>
+  <type>Traditional Cache</type>
+  <name>Insignificant by Donnacha, Traditional Cache (1/1.5)</name>
+  <size>Small</size>
+  <difficulty>1</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-04-11</last-found>
+  <placed>2009-10-22</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>Donnacha</placedby>
+  <found>Geocache</found>
+  <lat>53.1422</lat>
+  <lon>-6.061017</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>Donnacha</owner>
+  <description><p align="center"><a target="_blank" href=
+"http://www.geocachingireland.com"><img border="0" src=
+"http://geocachingireland.com/logo4.jpg" width="328" height="53"
+align="middle" /></a></p>
+<p align="center"><a target="_blank" href=
+"http://www.facebook.com/#/group.php?gid=34042039725"><img border=
+"0" src="http://www.geocachingireland.com/facebook_logo_gci.jpg"
+width="450" height="169" /></a></p></description>
+  <long-description>A simple cache localed in a park just off of the town centre in
+Greystones. Greystones is easily assessable by bus or train with
+the park a short stroll from the bus stop and train station. Nice
+area to bring the kids to kick around a ball, with the beach across
+the road also. If the kids are old enough there's a playground down
+the road. You'll need to be careful retrieving the cache as the
+area can be quite busy. Please put the cache back in the location
+you found it so it won't be easily seen by passers by.
+<hr size="2" />
+<center><font color="green">Visit the Geocaching Ireland discussion
+forum <a target="_blank" href=
+"http://forums.geocachingireland.com">HERE</a></font></center>
+<hr size="2" /></long-description>
+  <encoded-hints>Attached to fence behind hedge - 20 paces from end of fence nearest the town. Look for whitish looking bush in front of hedge.</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=f032e29b-23bb-41df-80d5-f8f0d669b744</url>
+  <url-name>Insignificant</url-name>
+  <logs><ul><li>2010-05-23T19:00:00Z : Found it by Sally&eL <br />16:54 #587
+
+quick find
+
+TFTC
+</li><li>2010-05-21T19:00:00Z : Found it by Ice Verus <br />thank you</li><li>2010-05-21T19:00:00Z : Found it by Fosy <br />thank you</li><li>2010-05-06T19:00:00Z : Found it by kaputing <br />Really liked this one.
+Great hide
+TFTC</li><li>2010-04-11T19:00:00Z : Found it by blue_eyes_ie <br />[Easy enough to find but had the potential to be quite frustrating] if I hadn't had someone tall with me. [TFTC]
+
+</li></ul></logs>
+  <original-xml>  <wpt  lat="53.1422" lon="-6.061017">
+    <time>2009-10-22T07:00:00Z</time>
+    <name>GC205EM</name>
+    <desc>Insignificant by Donnacha, Traditional Cache (1/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=f032e29b-23bb-41df-80d5-f8f0d669b744</url>
+    <urlname>Insignificant</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1441181" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Insignificant</groundspeak:name>
+      <groundspeak:placed_by>Donnacha</groundspeak:placed_by>
+      <groundspeak:owner id="61401">Donnacha</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>Leinster</groundspeak:state>
+      <groundspeak:short_description html="True">&lt;p align="center"&gt;&lt;a target="_blank" href=
+"http://www.geocachingireland.com"&gt;&lt;img border="0" src=
+"http://geocachingireland.com/logo4.jpg" width="328" height="53"
+align="middle" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p align="center"&gt;&lt;a target="_blank" href=
+"http://www.facebook.com/#/group.php?gid=34042039725"&gt;&lt;img border=
+"0" src="http://www.geocachingireland.com/facebook_logo_gci.jpg"
+width="450" height="169" /&gt;&lt;/a&gt;&lt;/p&gt;</groundspeak:short_description>
+      <groundspeak:long_description html="True">A simple cache localed in a park just off of the town centre in
+Greystones. Greystones is easily assessable by bus or train with
+the park a short stroll from the bus stop and train station. Nice
+area to bring the kids to kick around a ball, with the beach across
+the road also. If the kids are old enough there's a playground down
+the road. You'll need to be careful retrieving the cache as the
+area can be quite busy. Please put the cache back in the location
+you found it so it won't be easily seen by passers by.
+&lt;hr size="2" /&gt;
+&lt;center&gt;&lt;font color="green"&gt;Visit the Geocaching Ireland discussion
+forum &lt;a target="_blank" href=
+"http://forums.geocachingireland.com"&gt;HERE&lt;/a&gt;&lt;/font&gt;&lt;/center&gt;
+&lt;hr size="2" /&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>Attached to fence behind hedge - 20 paces from end of fence nearest the town. Look for whitish looking bush in front of hedge.</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="110157964">
+          <groundspeak:date>2010-05-23T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1466841">Sally&amp;eL</groundspeak:finder>
+          <groundspeak:text encoded="False">16:54 #587
+
+quick find
+
+TFTC
+</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="109620101">
+          <groundspeak:date>2010-05-21T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3324753">Ice Verus</groundspeak:finder>
+          <groundspeak:text encoded="False">thank you</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="109617483">
+          <groundspeak:date>2010-05-21T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2289398">Fosy</groundspeak:finder>
+          <groundspeak:text encoded="False">thank you</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="108028869">
+          <groundspeak:date>2010-05-06T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="991137">kaputing</groundspeak:finder>
+          <groundspeak:text encoded="False">Really liked this one.
+Great hide
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="108842849">
+          <groundspeak:date>2010-04-11T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3164260">blue_eyes_ie</groundspeak:finder>
+          <groundspeak:text encoded="True">[Easy enough to find but had the potential to be quite frustrating] if I hadn't had someone tall with me. [TFTC]
+
+</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

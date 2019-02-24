@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>007397</id>
+  <cache-id>PK2DEG2</cache-id>
+  <type>Waypoint</type>
+  <name>GC2DEG2 Parking</name>
+  <placed>2010-08-15</placed>
+  <lat>50.558633</lat>
+  <lon>9.6858</lon>
+  <attributes>hidden</attributes>
+  <description></description>
+  <url>http://www.geocaching.com/seek/wpt.aspx?WID=5fdfe453-af15-418d-a6bc-cbca9c807c8c</url>
+  <url-name>GC2DEG2 Parking</url-name>
+</element>
+</celsiusv2.1.addinfofile>

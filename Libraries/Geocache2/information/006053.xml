@@ -1,0 +1,190 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>006053</id>
+  <cache-id>GCVYCA</cache-id>
+  <type>Multi-cache</type>
+  <name>Lambay View by Windsockers, Multi-cache (2/2)</name>
+  <size>Small</size>
+  <difficulty>2</difficulty>
+  <terrain>2</terrain>
+  <last-found>2009-08-22</last-found>
+  <placed>2006-05-08</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>Windsockers</placedby>
+  <found>Geocache</found>
+  <lat>53.478133</lat>
+  <lon>-6.116517</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>Windsockers</owner>
+  <description><center>
+<img src="http://www.northbeach.ie/gallery/albums/userpics/10001/normal_Lambay_view.JPG" />
+</center></description>
+  <long-description><p>The coastal walk from Portrane to Donabate Beach, featured in
+the magazine “Walking World Ireland” has spectacular views of
+Lambay Island, Howth Head and the Dublin Mountains. Martello
+Towers, build by the British in 1806 in anticipation of a French
+invasion can be seen en route.</p>
+<p>There are also numerous small coves and caves, which were the
+haunt of smugglers in the 18th Century. Charming names such as “The
+Camel’s Hump”, “Pipers Hole”, “The Priests Chamber”, “The Chink
+Well”, “The Bleeding Pig” and the “Mermaids Churn” are attributed
+to some of these natural rock features.</p>
+<b>The route</b> 
+<p>To complete this cache it requires a 4.5 k walk along level
+Pathways there are some area’s which have steep drops from the
+Pathway so please be aware of the dangers involved and heed the
+Warning signs.</p>
+<p>The starting point for the walk is at the Martello tower beside
+The Waterside Hotel at Donabate beach.</p>
+<p><b>The Cache</b></p>
+<p><b>The Cache</b></p>
+<p>There is an information board showing the route and a car Park
+at <b>N53 28.688 W6 06.991</b></p>
+<p>Study this and note the date that a tower was used to resist
+Forces call it <b>A B C D</b></p>
+<p>Also take note of how many Beadlet Anemone’s there are call them
+<b>E</b></p>
+<p>Also take note of how many Acorn Barnacle’s there are call them
+<b>F</b></p>
+<p>Also take note of how many Swans there are call them
+<b>G</b></p>
+<p>Then go to the start of the path at <b>N53 28.720 W6 06.911</b>
+Continue along this pathway to <b>N 53 29.DF(A+B) W 006
+0(E+D).CGF</b></p>
+<p>There you will see another sign were you will need to get the
+following information.</p>
+Note the width of the tower call it <b>ST</b><br />
+<br />
+ 
+<p>Date that George died Call this <b>UVWX</b></p>
+<p>Note the number of crabs on the sign call this <b>Y</b> Note the
+Number of limpets on the sign call this <b>Z</b>.</p>
+<p>Your nearly done now so just fill in the spaces <b>N53 2C.TWS W6
+0(W+X).XV(A+U+Y+Z)</b> then it’s off to the cache.</p>
+<center>
+<img src="http://www.northbeach.ie/gallery/albums/userpics/10001/windsock-anim-small.gif" />
+<br />
+<b>The Windsockers</b></center></long-description>
+  <additional-waypoints>CLVYCA - Cache location<br />N/S  __ ° __ . ___ W/E ___ ° __ . ___ <br /><br />CPVYCA - Parking Area<br />N 53° 28.688 W 006° 06.991<br /><br />WSVYCA - Costal walk start<br />N 53° 28.720 W 006° 06.911<br /><br /></additional-waypoints>
+  <links>waypoints:cache-id:CLVYCA|waypoints:cache-id:CPVYCA|waypoints:cache-id:WSVYCA</links>
+  <encoded-hints>Chest High</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=d076d6f6-01bc-4bcd-98af-c27576d11175</url>
+  <url-name>Lambay View</url-name>
+  <logs><ul><li>2010-06-17T19:00:00Z : Found it by RoobyDoo <br />Only the second cache we did today while on holiday here. Amazed to see how long it's been since last found. A glorious walk on another superb sunny day, with beautiful views.
+Cache in good order.
+TFTC
+RD </li><li>2009-10-31T19:00:00Z : Found it by daraconn <br />This was a lovely walk, and a lovely day for it! I have always had a great interest in Lambay Island, and this cache lives up to its name by providing some excellent views of the island (which is the easternmost land of the republic of Ireland). We found a dead baby seal on the beach, which was a sad sight. At Tower Beach we went into some caves and we saw a seagull flying carrying a starfish in its beak. Thanks for a very enjoyable and scenic cache.</li><li>2009-10-18T19:00:00Z : Found it by orangetigerprawn <br />Great cache. I loved the walk and knew the area very well. It brought back childhood memories of summers spent in a caravan in Donabate.
+
+Go raibh maith agat.</li><li>2009-08-30T19:00:00Z : Found it by sandmartin <br />Our first multi cache! Fouund it easily and had a great day even though it started to rain. Left candle from Verona opera, took keyring. TFTC</li><li>2009-08-22T19:00:00Z : Found it by rooske <br />A brisk walk very enjoyabl as the clowds rooled in but the rain held off.</li></ul></logs>
+  <original-xml>  <wpt  lat="53.478133" lon="-6.116517">
+    <time>2006-05-08T07:00:00Z</time>
+    <name>GCVYCA</name>
+    <desc>Lambay View by Windsockers, Multi-cache (2/2)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=d076d6f6-01bc-4bcd-98af-c27576d11175</url>
+    <urlname>Lambay View</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Multi-cache</type>
+    <groundspeak:cache id="391697" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Lambay View</groundspeak:name>
+      <groundspeak:placed_by>Windsockers</groundspeak:placed_by>
+      <groundspeak:owner id="271623">Windsockers</groundspeak:owner>
+      <groundspeak:type>Multi-cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>2</groundspeak:difficulty>
+      <groundspeak:terrain>2</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>Leinster</groundspeak:state>
+      <groundspeak:short_description html="True">&lt;center&gt;
+&lt;img src="http://www.northbeach.ie/gallery/albums/userpics/10001/normal_Lambay_view.JPG" /&gt;
+&lt;/center&gt;</groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;p&gt;The coastal walk from Portrane to Donabate Beach, featured in
+the magazine “Walking World Ireland” has spectacular views of
+Lambay Island, Howth Head and the Dublin Mountains. Martello
+Towers, build by the British in 1806 in anticipation of a French
+invasion can be seen en route.&lt;/p&gt;
+&lt;p&gt;There are also numerous small coves and caves, which were the
+haunt of smugglers in the 18th Century. Charming names such as “The
+Camel’s Hump”, “Pipers Hole”, “The Priests Chamber”, “The Chink
+Well”, “The Bleeding Pig” and the “Mermaids Churn” are attributed
+to some of these natural rock features.&lt;/p&gt;
+&lt;b&gt;The route&lt;/b&gt; 
+&lt;p&gt;To complete this cache it requires a 4.5 k walk along level
+Pathways there are some area’s which have steep drops from the
+Pathway so please be aware of the dangers involved and heed the
+Warning signs.&lt;/p&gt;
+&lt;p&gt;The starting point for the walk is at the Martello tower beside
+The Waterside Hotel at Donabate beach.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;The Cache&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;The Cache&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;There is an information board showing the route and a car Park
+at &lt;b&gt;N53 28.688 W6 06.991&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Study this and note the date that a tower was used to resist
+Forces call it &lt;b&gt;A B C D&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Also take note of how many Beadlet Anemone’s there are call them
+&lt;b&gt;E&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Also take note of how many Acorn Barnacle’s there are call them
+&lt;b&gt;F&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Also take note of how many Swans there are call them
+&lt;b&gt;G&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Then go to the start of the path at &lt;b&gt;N53 28.720 W6 06.911&lt;/b&gt;
+Continue along this pathway to &lt;b&gt;N 53 29.DF(A+B) W 006
+0(E+D).CGF&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;There you will see another sign were you will need to get the
+following information.&lt;/p&gt;
+Note the width of the tower call it &lt;b&gt;ST&lt;/b&gt;&lt;br /&gt;
+&lt;br /&gt;
+ 
+&lt;p&gt;Date that George died Call this &lt;b&gt;UVWX&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Note the number of crabs on the sign call this &lt;b&gt;Y&lt;/b&gt; Note the
+Number of limpets on the sign call this &lt;b&gt;Z&lt;/b&gt;.&lt;/p&gt;
+&lt;p&gt;Your nearly done now so just fill in the spaces &lt;b&gt;N53 2C.TWS W6
+0(W+X).XV(A+U+Y+Z)&lt;/b&gt; then it’s off to the cache.&lt;/p&gt;
+&lt;center&gt;
+&lt;img src="http://www.northbeach.ie/gallery/albums/userpics/10001/windsock-anim-small.gif" /&gt;
+&lt;br /&gt;
+&lt;b&gt;The Windsockers&lt;/b&gt;&lt;/center&gt;&lt;p&gt;Additional Waypoints&lt;/p&gt;CLVYCA - Cache location&lt;br /&gt;N/S  __ ° __ . ___ W/E ___ ° __ . ___ &lt;br /&gt;&lt;br /&gt;CPVYCA - Parking Area&lt;br /&gt;N 53° 28.688 W 006° 06.991&lt;br /&gt;&lt;br /&gt;WSVYCA - Costal walk start&lt;br /&gt;N 53° 28.720 W 006° 06.911&lt;br /&gt;&lt;br /&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>Chest High</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="113215293">
+          <groundspeak:date>2010-06-17T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="668764">RoobyDoo</groundspeak:finder>
+          <groundspeak:text encoded="False">Only the second cache we did today while on holiday here. Amazed to see how long it's been since last found. A glorious walk on another superb sunny day, with beautiful views.
+Cache in good order.
+TFTC
+RD </groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="89066614">
+          <groundspeak:date>2009-10-31T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="591662">daraconn</groundspeak:finder>
+          <groundspeak:text encoded="False">This was a lovely walk, and a lovely day for it! I have always had a great interest in Lambay Island, and this cache lives up to its name by providing some excellent views of the island (which is the easternmost land of the republic of Ireland). We found a dead baby seal on the beach, which was a sad sight. At Tower Beach we went into some caves and we saw a seagull flying carrying a starfish in its beak. Thanks for a very enjoyable and scenic cache.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="87803675">
+          <groundspeak:date>2009-10-18T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2167131">orangetigerprawn</groundspeak:finder>
+          <groundspeak:text encoded="False">Great cache. I loved the walk and knew the area very well. It brought back childhood memories of summers spent in a caravan in Donabate.
+
+Go raibh maith agat.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="82600861">
+          <groundspeak:date>2009-08-30T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1966213">sandmartin</groundspeak:finder>
+          <groundspeak:text encoded="False">Our first multi cache! Fouund it easily and had a great day even though it started to rain. Left candle from Verona opera, took keyring. TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="81706156">
+          <groundspeak:date>2009-08-22T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1786087">rooske</groundspeak:finder>
+          <groundspeak:text encoded="False">A brisk walk very enjoyabl as the clowds rooled in but the rain held off.</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

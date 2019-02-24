@@ -1,0 +1,144 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>001573</id>
+  <cache-id>GC1NPQB</cache-id>
+  <type>Traditional Cache</type>
+  <name>Blick über Dammersbach by Michael01, Traditional Cache (1.5/1.5)</name>
+  <size>Micro</size>
+  <difficulty>1.5</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-08-20</last-found>
+  <placed>2009-03-15</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Michael01</placedby>
+  <found>Geocache</found>
+  <lat>50.62355</lat>
+  <lon>9.7719</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>michael01</owner>
+  <description>
+      </description>
+  <long-description><p align="center">
+&nbsp;<span style="font-size: 16pt; font-family: Comic Sans MS"
+id="LongDescription0">Dammersbach</span></p>
+<p align="center"><img style="width: 400px; height: 300px"
+src="http://www.loeschner.homepage.t-online.de/Geocaching%20eigene/Dammersbach/Dammersbach.jpg"
+     border="2" alt="" /></p>
+<p align="center">
+<span style="font-size: 16pt; font-family: Comic Sans MS"
+id="LongDescription">Dieser PETling ist ein weiterer
+Keimzellen-Nachwuchs.</span></p>
+<p align="center">
+<span style="font-size: 16pt; font-family: Comic Sans MS"
+id="LongDescription">Es war keine schwere Geburt:</span></p>
+<p align="center">
+<span style="font-size: 16pt; font-family: Comic Sans MS"
+id="LongDescription">er war 13 cm groß und wog 37 g ;-)</span></p>
+<p align="center"><span style="font-family: Comic Sans MS"
+id="LongDescription1"><font size="4">Viel Spaß beim Suchen
+!</font></span></p>
+<p align="left">&nbsp;</p></long-description>
+  <encoded-hints>in Bauchhöhe</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=25750eb8-437d-4758-a0c5-d4fef7f18852</url>
+  <url-name>Blick über Dammersbach</url-name>
+  <logs><ul><li>2010-11-20T20:00:00Z : Found it by digger09 <br />bei einer runde durch die vorderhön  gefunden
+dfdc</li><li>2010-10-02T19:00:00Z : Found it by Camuvlash <br />TFTC</li><li>2010-09-11T19:00:00Z : Found it by sema2505 <br />recht lange gesucht, große wege im umkreis von 300m gelaufen,
+da gps-empfang schlecht, trotzdem sehr sehr schönes versteck!!
+
+TFTC</li><li>2010-08-25T19:00:00Z : Found it by Mike Rosoft <br />Dank hint doch noch gefunden. Der Empfang unter den Laubbäumen war "schwierig" und das Versteck ist gut gewählt
+
+vielen Dank
+Mike</li><li>2010-08-20T19:00:00Z : Found it by LI*MO <br />Wir waren heute 2mal da, da wir beim ersten Versuch blind waren. 
+Schönes Versteck un super Aussicht an diesem tollen Tag
+
+TFTC</li></ul></logs>
+  <original-xml>  <wpt  lat="50.62355" lon="9.7719">
+    <time>2009-03-15T07:00:00Z</time>
+    <name>GC1NPQB</name>
+    <desc>Blick über Dammersbach by Michael01, Traditional Cache (1.5/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=25750eb8-437d-4758-a0c5-d4fef7f18852</url>
+    <urlname>Blick über Dammersbach</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1159878" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Blick über Dammersbach</groundspeak:name>
+      <groundspeak:placed_by>Michael01</groundspeak:placed_by>
+      <groundspeak:owner id="1225681">michael01</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="True">
+      </groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;p align="center"&gt;
+&amp;nbsp;&lt;span style="font-size: 16pt; font-family: Comic Sans MS"
+id="LongDescription0"&gt;Dammersbach&lt;/span&gt;&lt;/p&gt;
+&lt;p align="center"&gt;&lt;img style="width: 400px; height: 300px"
+src="http://www.loeschner.homepage.t-online.de/Geocaching%20eigene/Dammersbach/Dammersbach.jpg"
+     border="2" alt="" /&gt;&lt;/p&gt;
+&lt;p align="center"&gt;
+&lt;span style="font-size: 16pt; font-family: Comic Sans MS"
+id="LongDescription"&gt;Dieser PETling ist ein weiterer
+Keimzellen-Nachwuchs.&lt;/span&gt;&lt;/p&gt;
+&lt;p align="center"&gt;
+&lt;span style="font-size: 16pt; font-family: Comic Sans MS"
+id="LongDescription"&gt;Es war keine schwere Geburt:&lt;/span&gt;&lt;/p&gt;
+&lt;p align="center"&gt;
+&lt;span style="font-size: 16pt; font-family: Comic Sans MS"
+id="LongDescription"&gt;er war 13 cm groß und wog 37 g ;-)&lt;/span&gt;&lt;/p&gt;
+&lt;p align="center"&gt;&lt;span style="font-family: Comic Sans MS"
+id="LongDescription1"&gt;&lt;font size="4"&gt;Viel Spaß beim Suchen
+!&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p align="left"&gt;&amp;nbsp;&lt;/p&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>in Bauchhöhe</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="136670017">
+          <groundspeak:date>2010-11-20T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3042502">digger09</groundspeak:finder>
+          <groundspeak:text encoded="False">bei einer runde durch die vorderhön  gefunden
+dfdc</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="129386291">
+          <groundspeak:date>2010-10-02T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2724623">Camuvlash</groundspeak:finder>
+          <groundspeak:text encoded="False">TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="126329079">
+          <groundspeak:date>2010-09-11T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3665179">sema2505</groundspeak:finder>
+          <groundspeak:text encoded="False">recht lange gesucht, große wege im umkreis von 300m gelaufen,
+da gps-empfang schlecht, trotzdem sehr sehr schönes versteck!!
+
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="123727519">
+          <groundspeak:date>2010-08-25T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2391346">Mike Rosoft</groundspeak:finder>
+          <groundspeak:text encoded="False">Dank hint doch noch gefunden. Der Empfang unter den Laubbäumen war "schwierig" und das Versteck ist gut gewählt
+
+vielen Dank
+Mike</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="123124809">
+          <groundspeak:date>2010-08-20T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2583892">LI*MO</groundspeak:finder>
+          <groundspeak:text encoded="False">Wir waren heute 2mal da, da wir beim ersten Versuch blind waren. 
+Schönes Versteck un super Aussicht an diesem tollen Tag
+
+TFTC</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

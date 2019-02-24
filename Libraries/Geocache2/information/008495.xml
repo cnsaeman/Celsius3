@@ -1,0 +1,131 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>008495</id>
+  <cache-id>GC159WD</cache-id>
+  <type>Traditional Cache</type>
+  <name>Dib Dib by moyle, Traditional Cache (1/1)</name>
+  <size>Small</size>
+  <difficulty>1</difficulty>
+  <terrain>1</terrain>
+  <last-found>2010-04-11</last-found>
+  <placed>2007-08-20</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>moyle</placedby>
+  <found>Geocache</found>
+  <lat>53.2553</lat>
+  <lon>-6.2891</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>moyle</owner>
+  <description>I HAVE CHANGED THE CO-ORDINATES FOR THIS CACHE.
+
+The old hiding place is no longer usable so I have moved the cache, it is still in the same general area.
+
+A very easy cache. It was difficult to get accurate coordinates because of the trees but that should not put you off.</description>
+  <long-description>
+      </long-description>
+  <encoded-hints>NEW: at your feet near an entrance not watched by CCTV!!!</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=d57b9e75-ca49-4a6a-833d-73a13d59cbbf</url>
+  <url-name>Dib Dib</url-name>
+  <logs><ul><li>2010-06-13T19:00:00Z : Found it by slands <br />Nice simple find....Lots of cars coming to and from the nearby Scouting centre, so the walk up the road from where I had parked my car was spent constantly hopping into and out of the ditch!
+
+TNLNSL
+
+TFTC.
+
+Stephen...</li><li>2010-06-10T19:00:00Z : Found it by colmyster <br />Second find of the day. TFTC
+
+TNLN</li><li>2010-06-07T19:00:00Z : Found it by Fitzet <br />Picking up our cub scout from Larch Hill was the perfect opportunity to look for this cache.  Waited for a lull in traffic and retrieved it.
+
+Took a racing geocoin to move on.
+
+SL TFTC</li><li>2010-05-09T19:00:00Z : Found it by merann <br />Found it! no problems.
+Out - Heart clip.
+In - Dice.
+TFTC, Merann. </li><li>2010-04-11T19:00:00Z : Found it by AbbeyAckbar <br />(#624 @ 16:05)
+Quick find. I don't like the camo on the box though, It doesn't seem necessary given what's hiding the container anyway.
+
+TFTC</li></ul></logs>
+  <original-xml>  <wpt  lat="53.2553" lon="-6.2891">
+    <time>2007-08-20T07:00:00Z</time>
+    <name>GC159WD</name>
+    <desc>Dib Dib by moyle, Traditional Cache (1/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=d57b9e75-ca49-4a6a-833d-73a13d59cbbf</url>
+    <urlname>Dib Dib</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="670855" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Dib Dib</groundspeak:name>
+      <groundspeak:placed_by>moyle</groundspeak:placed_by>
+      <groundspeak:owner id="1183128">moyle</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>
+      </groundspeak:state>
+      <groundspeak:short_description html="False">I HAVE CHANGED THE CO-ORDINATES FOR THIS CACHE.
+
+The old hiding place is no longer usable so I have moved the cache, it is still in the same general area.
+
+A very easy cache. It was difficult to get accurate coordinates because of the trees but that should not put you off.</groundspeak:short_description>
+      <groundspeak:long_description html="False">
+      </groundspeak:long_description>
+      <groundspeak:encoded_hints>NEW: at your feet near an entrance not watched by CCTV!!!</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="112692051">
+          <groundspeak:date>2010-06-13T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="235284">slands</groundspeak:finder>
+          <groundspeak:text encoded="False">Nice simple find....Lots of cars coming to and from the nearby Scouting centre, so the walk up the road from where I had parked my car was spent constantly hopping into and out of the ditch!
+
+TNLNSL
+
+TFTC.
+
+Stephen...</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="112328400">
+          <groundspeak:date>2010-06-10T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1495386">colmyster</groundspeak:finder>
+          <groundspeak:text encoded="False">Second find of the day. TFTC
+
+TNLN</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="112001147">
+          <groundspeak:date>2010-06-07T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2451856">Fitzet</groundspeak:finder>
+          <groundspeak:text encoded="False">Picking up our cub scout from Larch Hill was the perfect opportunity to look for this cache.  Waited for a lull in traffic and retrieved it.
+
+Took a racing geocoin to move on.
+
+SL TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="108403049">
+          <groundspeak:date>2010-05-09T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="134212">merann</groundspeak:finder>
+          <groundspeak:text encoded="False">Found it! no problems.
+Out - Heart clip.
+In - Dice.
+TFTC, Merann. </groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="105471274">
+          <groundspeak:date>2010-04-11T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1265839">AbbeyAckbar</groundspeak:finder>
+          <groundspeak:text encoded="False">(#624 @ 16:05)
+Quick find. I don't like the camo on the box though, It doesn't seem necessary given what's hiding the container anyway.
+
+TFTC</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

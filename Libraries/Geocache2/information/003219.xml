@@ -1,0 +1,210 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>003219</id>
+  <cache-id>GC21AAB</cache-id>
+  <type>Multi-cache</type>
+  <name>Slí Slán Eile by orangetigerprawn, Multi-cache (2/2.5)</name>
+  <size>Small</size>
+  <difficulty>2</difficulty>
+  <terrain>2.5</terrain>
+  <last-found>2009-11-24</last-found>
+  <placed>2009-11-22</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>orangetigerprawn</placedby>
+  <found>Geocache</found>
+  <lat>53.454467</lat>
+  <lon>-6.225533</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>orangetigerprawn</owner>
+  <description><center><b><font size="+2">Slí Slán Eile</font></b></center></description>
+  <long-description><center>This is the second of three multicache based around the Slí
+na Sláinte routes in Swords. This one follows the Highfield Slí.
+The walks are circular routes to be walked in either direction from
+any starting point.</center>
+<br />
+<br />
+<center>
+<img src="http://img.geocaching.com/cache/6fbf0d1c-c7f9-4167-9aa9-a3bf99ca0c5f.jpg"
+     width="500" height="375" align="bottom" border="0"
+     naturalsizeflag="3" /></center>
+<br />
+<br />
+ 
+<center>Similarly, this cache can be started from any waypoint in
+any order. Find the required information at each waypoint, work out
+the final coordinates and find the cache. In the spirit of the Slí
+doing it on foot will do your heart a world of good. This Slí is
+about 4k long. Finding the cache may be a bit more depending on
+your starting point.</center>
+<br />
+<br />
+<center>A handy pdf map of walks can be downloaded
+<a href="http://www.irishheart.ie/iopen24/pub/slinaslainte/maps/swords.pdf">
+here</a>.</center>
+<br />
+ <br />
+ 
+<center><b>At the above coordinates:</b><br />
+ How many pillars guard the entrance? A<br />
+<br />
+ <b>View Stage:</b> N 53° 27.239 W 006° 14.390<br />
+ How many Slí na Sláinte signs are visible at this point?
+B</center>
+<center><br />
+ <b>Park Stage:</b> N 53° 27.195 W 006° 14.502<br />
+ How many lamp posts illuminate this area? C<br />
+<br />
+ <b>Forest Stage:</b> N 53° 26.988 W 006° 14.509<br />
+ Count the number of letters on the signs? D<br />
+<br />
+ <b>Boru Stage:</b> N 53° 26.844 W 006° 14.251<br />
+ How many speed bumps are there between this junction and
+the</center>
+<center>marked starting point at N 53° 27.268 W 006° 13.532?
+E<br />
+<br />
+ <b><font size="+2">The Cache</font></b></center>
+<br />
+<center><b>Final Location:</b> N 53° 27.(B*D*E)-(D-A*B)<br />
+W 006° 1C.0(D*B+A+E)</center>
+<br />
+<br />
+<center>&nbsp;</center>
+<br />
+<br /></long-description>
+  <additional-waypoints>BS21AAB - Boru Stage<br />N 53° 26.844 W 006° 14.251<br /><br />FS21AAB - Forest Stage<br />N 53° 26.988 W 006° 14.509<br /><br />PS21AAB - Park Stage<br />N 53° 27.195 W 006° 14.502<br /><br />VS21AAB - View Stage<br />N 53° 27.239 W 006° 14.390<br /><br /></additional-waypoints>
+  <links>waypoints:cache-id:BS21AAB|waypoints:cache-id:FS21AAB|waypoints:cache-id:PS21AAB|waypoints:cache-id:VS21AAB</links>
+  <encoded-hints>About yeah high.</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=6399acd8-d6c7-4e8d-aff4-ebbcfe74789e</url>
+  <url-name>Slí Slán Eile</url-name>
+  <logs><ul><li>2010-04-09T19:00:00Z : Found it by Fjon <br />Found this one ok after a drive and walk through Swords' housing estates. The park was lovely this morning, the days are starting to get warmer and plenty of people were out walking dogs and jogging.</li><li>2009-12-28T20:00:00Z : Found it by theswerve <br />Nice little multi...found ok after a bit of maths...TFTC..</li><li>2009-12-07T20:00:00Z : Found it by toczygroszek <br />Decided go for 3 "Slí Slán" caches today, but found only this one. Good bit of walk, and nice area. TFTC</li><li>2009-12-07T20:00:00Z : Found it by Hezekiah <br />Found easily - great day for a walkabout!  TFTC!</li><li>2009-11-24T20:00:00Z : Found it by Windsockers <br />This was an old stomping ground for me years ago never really noticed how large the area is till today.
+
+At one point I had to do a uturn thanks to todays picketlines :-)
+
+Found the cache with spot on coords.
+
+TnLnSl
+
+Thanks for the ramble.  </li></ul></logs>
+  <original-xml>  <wpt  lat="53.454467" lon="-6.225533">
+    <time>2009-11-22T08:00:00Z</time>
+    <name>GC21AAB</name>
+    <desc>Slí Slán Eile by orangetigerprawn, Multi-cache (2/2.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=6399acd8-d6c7-4e8d-aff4-ebbcfe74789e</url>
+    <urlname>Slí Slán Eile</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Multi-cache</type>
+    <groundspeak:cache id="1475644" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Slí Slán Eile</groundspeak:name>
+      <groundspeak:placed_by>orangetigerprawn</groundspeak:placed_by>
+      <groundspeak:owner id="2167131">orangetigerprawn</groundspeak:owner>
+      <groundspeak:type>Multi-cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>2</groundspeak:difficulty>
+      <groundspeak:terrain>2.5</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>Leinster</groundspeak:state>
+      <groundspeak:short_description html="True">&lt;center&gt;&lt;b&gt;&lt;font size="+2"&gt;Slí Slán Eile&lt;/font&gt;&lt;/b&gt;&lt;/center&gt;</groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;center&gt;This is the second of three multicache based around the Slí
+na Sláinte routes in Swords. This one follows the Highfield Slí.
+The walks are circular routes to be walked in either direction from
+any starting point.&lt;/center&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;center&gt;
+&lt;img src="http://img.geocaching.com/cache/6fbf0d1c-c7f9-4167-9aa9-a3bf99ca0c5f.jpg"
+     width="500" height="375" align="bottom" border="0"
+     naturalsizeflag="3" /&gt;&lt;/center&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+ 
+&lt;center&gt;Similarly, this cache can be started from any waypoint in
+any order. Find the required information at each waypoint, work out
+the final coordinates and find the cache. In the spirit of the Slí
+doing it on foot will do your heart a world of good. This Slí is
+about 4k long. Finding the cache may be a bit more depending on
+your starting point.&lt;/center&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;center&gt;A handy pdf map of walks can be downloaded
+&lt;a href="http://www.irishheart.ie/iopen24/pub/slinaslainte/maps/swords.pdf"&gt;
+here&lt;/a&gt;.&lt;/center&gt;
+&lt;br /&gt;
+ &lt;br /&gt;
+ 
+&lt;center&gt;&lt;b&gt;At the above coordinates:&lt;/b&gt;&lt;br /&gt;
+ How many pillars guard the entrance? A&lt;br /&gt;
+&lt;br /&gt;
+ &lt;b&gt;View Stage:&lt;/b&gt; N 53° 27.239 W 006° 14.390&lt;br /&gt;
+ How many Slí na Sláinte signs are visible at this point?
+B&lt;/center&gt;
+&lt;center&gt;&lt;br /&gt;
+ &lt;b&gt;Park Stage:&lt;/b&gt; N 53° 27.195 W 006° 14.502&lt;br /&gt;
+ How many lamp posts illuminate this area? C&lt;br /&gt;
+&lt;br /&gt;
+ &lt;b&gt;Forest Stage:&lt;/b&gt; N 53° 26.988 W 006° 14.509&lt;br /&gt;
+ Count the number of letters on the signs? D&lt;br /&gt;
+&lt;br /&gt;
+ &lt;b&gt;Boru Stage:&lt;/b&gt; N 53° 26.844 W 006° 14.251&lt;br /&gt;
+ How many speed bumps are there between this junction and
+the&lt;/center&gt;
+&lt;center&gt;marked starting point at N 53° 27.268 W 006° 13.532?
+E&lt;br /&gt;
+&lt;br /&gt;
+ &lt;b&gt;&lt;font size="+2"&gt;The Cache&lt;/font&gt;&lt;/b&gt;&lt;/center&gt;
+&lt;br /&gt;
+&lt;center&gt;&lt;b&gt;Final Location:&lt;/b&gt; N 53° 27.(B*D*E)-(D-A*B)&lt;br /&gt;
+W 006° 1C.0(D*B+A+E)&lt;/center&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;center&gt;&amp;nbsp;&lt;/center&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;p&gt;Additional Waypoints&lt;/p&gt;BS21AAB - Boru Stage&lt;br /&gt;N 53° 26.844 W 006° 14.251&lt;br /&gt;&lt;br /&gt;FS21AAB - Forest Stage&lt;br /&gt;N 53° 26.988 W 006° 14.509&lt;br /&gt;&lt;br /&gt;PS21AAB - Park Stage&lt;br /&gt;N 53° 27.195 W 006° 14.502&lt;br /&gt;&lt;br /&gt;VS21AAB - View Stage&lt;br /&gt;N 53° 27.239 W 006° 14.390&lt;br /&gt;&lt;br /&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>About yeah high.</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="103257224">
+          <groundspeak:date>2010-04-09T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="243261">Fjon</groundspeak:finder>
+          <groundspeak:text encoded="False">Found this one ok after a drive and walk through Swords' housing estates. The park was lovely this morning, the days are starting to get warmer and plenty of people were out walking dogs and jogging.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="93751349">
+          <groundspeak:date>2009-12-28T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1032462">theswerve</groundspeak:finder>
+          <groundspeak:text encoded="False">Nice little multi...found ok after a bit of maths...TFTC..</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="92466019">
+          <groundspeak:date>2009-12-07T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1429023">toczygroszek</groundspeak:finder>
+          <groundspeak:text encoded="False">Decided go for 3 "Slí Slán" caches today, but found only this one. Good bit of walk, and nice area. TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="92445894">
+          <groundspeak:date>2009-12-07T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="274644">Hezekiah</groundspeak:finder>
+          <groundspeak:text encoded="False">Found easily - great day for a walkabout!  TFTC!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="91330913">
+          <groundspeak:date>2009-11-24T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="271623">Windsockers</groundspeak:finder>
+          <groundspeak:text encoded="False">This was an old stomping ground for me years ago never really noticed how large the area is till today.
+
+At one point I had to do a uturn thanks to todays picketlines :-)
+
+Found the cache with spot on coords.
+
+TnLnSl
+
+Thanks for the ramble.  </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

@@ -1,0 +1,128 @@
+<?xml version="1.0"?>
+<celsiusv2.2.librarytemplates>
+<element>
+  <name>Geocaches</name>
+  <index>cache-id|type|name|size|difficulty|terrain|last-found|placed|gpx-date|placedby|found|lat|lon|last-logs</index>
+  <tablecolumns>cache-id|type|name|size|distance&|heading&|found|difficulty|terrain|last-found|last-logs&5|placed|gpx-date</tablecolumns>
+  <columnheaders>ID||Name|Size|DST|H|F|D|T|Last Found|Last Logs|Placed|GPX date</columnheaders>
+  <columntypes>text|symbol|text|symbol|unit:km|text|symbol|number|number|date|text|date|date</columntypes>
+  <columnsizes>-74|-20|333|-49|63|-31|-19|-31|-31|-83|-63|-83|-83</columnsizes>
+  <autosortcolumn>1</autosortcolumn>
+  <people>placedby</people>
+  <plugins-manual></plugins-manual>
+  <plugins-auto></plugins-auto>
+  <plugins-export>Export GPX</plugins-export>
+  <filetypes>*</filetypes>
+  <searchtags>cache-id|name|size|description|long-description|distance|date</searchtags>
+  <hide>Menu:Bibliography|Tab:Bibliography|Tab:Search|Tab:Thumbnail|Import:BibTeX</hide>
+  <essential-fields>cache-id</essential-fields>
+  <differentiating-fields>cache-id</differentiating-fields>
+  <item-representation>#cache-id#: #name#</item-representation>
+  <naming-convention></naming-convention>
+  <choice-fields>type:Traditional Cache,Multi-cache,Virtual Cache,Unknown Cache,Letterbox Hybrid,Webcam Cache,Event Cache,Earthcache|size:Micro,Small,Regular,Large,Virtual,Not chosen,Other|found:Geocache,Geocache Found</choice-fields>
+  <icon-fields>type|size|found</icon-fields>
+  <icon-dictionary>Traditional Cache:geocaching/traditional|Multi-cache:geocaching/multi|Unknown Cache:geocaching/unknown|Virtual Cache:geocaching/virtual|Letterbox Hybrid:geocaching/letterbox|Webcam Cache:geocaching/webcam|Event Cache:geocaching/eventcache|Earthcache:geocaching/earthcache|Geocache Found:geocaching/found|Geocache:geocaching/notyetfound|Micro:geocaching/micro|Small:geocaching/small|Regular:geocaching/regular|Large:geocaching/large|Virtual:geocaching/not_chosen|Other:geocaching/not_chosen|Not chosen:geocaching/not_chosen</icon-dictionary>
+  <item-folder>LD::documents</item-folder>
+  <infoMode-0><html>
+<body>
+<table width='100%'>
+<tr>
+<td valign='top'>
+<h2>#cache-id#: #name#</h2>
+Distance: #distance&# Heading: #heading&# Location: #lat&#, #lon&#<br>
+#type#, #size#, Difficulty: #difficulty#, Terrain: #terrain#<br>
+Date placed: #placed#<br>
+Last found: #last-found#<br>
+<br><br>
+#description#<br><br>
+#long-description#<br><br>
+<br>
+#if#encoded-hints#<a href='http://$$display-message:Encoded Hints:#encoded-hints#'>Display Hint</a>
+<br>
+#if#logs#<br><b>Logs:</b> #logs#<br>
+#if#keywords# <b>Keywords:</b> #keywords#<br>
+#if#remarks# <b>Remarks:</b> #remarks#
+#if#bibtex# <h3>Bibliographic information</h3>
+#if#bibtex# <pre width="20">#bibtex#</pre><br>
+<hl>
+<h3>Celsius related information</h3>
+registered in:
+#if#autoregistered# |#autoregistered#|
+#if#registered# |#registered#|
+<br>
+ID: #id#
+#if#recognition#, recognition level: #recognition#.
+</td><td valign='top'>
+#if#thumbnail#<img src='file:#$thumbnail#'>
+</td></tr>
+</table>
+</body>
+</html></infoMode-0>
+  <infoMode-1><html><body>
+<h2>#person#</h2>
+<hr>
+<br>
+From this person: #currentitems# caches in the library.<br>
+<br>
+#if#homepage# <a href="#homepage#">Homepage</a>&nbsp;
+#if#email# #email#&nbsp;
+<br><br>
+#if#remarks# <br><br><b>Remarks:</b><br>#remarks#</body></html></infoMode-1>
+  <infoMode-2><html><body>
+<h2>#category#</h2>
+<hr>
+<br>
+In this category: #currentitems# caches in the library.<br>
+</body></html></infoMode-2>
+  <infoMode-3><html><body>
+<h2>Multiple caches selected</h2>
+<hr>
+<br>
+#currentitems# caches in this selection.<br>
+</body></html></infoMode-3>
+  <infoMode-4><html><body>
+<h2>Identifier Search</h2>
+<hr>
+<br>
+In these search results: #currentitems# documents with #currentpages# pages in the library.<br>
+</body></html></infoMode-4>
+  <infoMode-5><html><body>
+<h2>General Search</h2>
+<hr>
+<br>
+In these search results: #currentitems# caches in the library.<br>
+</body></html></infoMode-5>
+  <infoMode-6><html><body>
+<h2>Keyword Search</h2>
+<hr>
+<br>
+In these search results: #currentitems# caches in the library.<br>
+</body></html></infoMode-6>
+  <infoMode-7><html><body>
+<h2>Linktype: #linktype#</h2>
+<hr>
+<br>
+Waypoints linked: #currentitems#.<br>
+</body></html></infoMode-7>
+  <stylesheet>body {color:#000; font-family:sans; margin: 4px; }
+h1 {color: darkgray;}
+h2 {color: darkgray;}
+</stylesheet>
+  <librarystructure><?xml version='1.0'?>
+<menu title="GeoCaching">
+    <menu title="to find with Kersti"/>
+    <menu title="found"/>
+    <menu title="nice ones"/>
+    <menu title="try again"/>
+    <menu title="by country">
+        <menu title="Ireland"/>
+        <menu title="UK"/>
+        <menu title="Germany"/>
+    </menu>
+</menu>
+</librarystructure>
+  <libraryrules><?xml version='1.0'?>
+<rules/>
+</libraryrules>
+</element>
+</celsiusv2.2.librarytemplates>

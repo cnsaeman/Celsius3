@@ -1,0 +1,192 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>008637</id>
+  <cache-id>GC27DTJ</cache-id>
+  <type>Traditional Cache</type>
+  <name>Feldkapelle Almendorf / Melzdorf by HubiFD, Traditional Cache (1.5/2)</name>
+  <size>Micro</size>
+  <difficulty>1.5</difficulty>
+  <terrain>2</terrain>
+  <last-found>2010-10-27</last-found>
+  <placed>2010-04-25</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>HubiFD</placedby>
+  <found>Geocache</found>
+  <lat>50.574583</lat>
+  <lon>9.75115</lon>
+  <last-logs>FFFE</last-logs>
+  <owner>HubiFD</owner>
+  <description>
+      </description>
+  <long-description><b>Diese kleine Feldkapelle liegt an einem Radweg in die
+Rhön.<br />
+Hier komme ich öfters vorbei wenn ich mit dem Fahrrad unterwegs
+bin.<br />
+Wer eine kleine Pause machen will kann dies hier gerne tun<br />
+und dabei den Blick in die Rhön schweifen lassen.<br />
+Bitte den Cache wieder genau dort platzieren wo ihr ihn gefunden
+habt,<br />
+so ist eine unkomplizierte Wartung auch gewährleistet.<br />
+<br />
+<br />
+Viel Spaß beim Suchen wünscht Euch<br /></b>
+<table>
+<tr>
+<td align="center"><img src=
+"http://www.zrx-ig-forum.de/phpbb/images/avatars/88864716449a2c1d31eb44.gif" /></td>
+</tr>
+</table>
+<br />
+<br />
+<b>Glückwunsch den Erstfindern: Anonyme_Laeufer</b></long-description>
+  <encoded-hints>
+      </encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=8bebe6b0-ba66-467e-9bc0-cd61ad4512ee</url>
+  <url-name>Feldkapelle Almendorf / Melzdorf</url-name>
+  <logs><ul><li>2010-11-27T20:00:00Z : Found it by Maluma <br />Heute bei Eiseskälte uns auf dei Socken gemacht und eine Hubi-Runde gedreht..
+
+TFTC MALUMA</li><li>2010-11-19T20:00:00Z : Found it by Camuvlash <br />TFTC.</li><li>2010-11-14T20:00:00Z : Found it by Limoel <br />Nachdem ich schon lange auf die freischaltung gewartet habe, diesen Cache heute mitgenommen.
+Dies war der dritte Hubi Cache an diesem Morgen.
+
+TFTC Limoel</li><li>2010-11-03T21:31:38Z : Enable Listing by HubiFD <br />Nach etwas längerer Pause kann nun wieder gesucht werden.
+Nun ist ein PETling installiert, ich hoffe dass dieser länger dort verweilt als die beiden vorherigen Filmdosen. </li><li>2010-10-27T19:00:00Z : Post Reviewer Note by GC-Knecht <br />Hallo Owner,
+
+dieser Cache ist nun schon mehr als 3 Monate "temporär nicht verfügbar".
+
+ Im Interesse aller Cacher, die diese Website benutzen um sich [b][red]auffindbare[/red][/b] Geocaches listen zu lassen bitte ich dich um Folgendes (möglichst innerhalb der nächsten 14 Tage):
+- zeitnahe Pflege (Ist der Cache noch vorhanden?) bzw. Wartung des Caches
+- oder Suche nach einem Cacher, der die Ownerschaft des Caches und damit die Wartung übernehmen kann
+- oder Archivierung des Caches, bitte in diesem Falle an eventuell angefallenen GeoMüll denken (z.B. Zwischenstationen von Multis)
+
+Die Regeln dieser Website erlauben es, dass Caches, die längere Zeit "temporär nicht verfügbar" sind, auch durch einen Reviewer archiviert werden können, was wir aber nicht anstreben.
+
+
+ Wenn Du Änderungen vorgenommen hast, kontaktiere mich bitte, damit ich mir den Cache noch einmal anschauen und freischalten kann.
+
+Vielen Dank und Grüße vom Main.
+
+[b]Jörg / GC-Knecht [/b] (Volunteer Geocaching.com Reviewer)
+
+Die Info-Seiten der deutschsprachigen Reviewer: http://www.die-reviewer.info
+
+
+[b][red]Bitte gib [u]immer[/u] den Wegpunkt (GCxxxx) deines Caches und einen Cacher-Name an [/red] [/b]und sende den bisherigen Mail-Verlauf hierzu mit.
+Bitte schreibe neben der eMail an mich auch eine Note im Cache.
+
+gc.com Messaging: http://www.geocaching.com/email/?u=gc-knecht
+
+Oder schreib mir direkt: gcknecht [ a t ] googlemail.com</li></ul></logs>
+  <original-xml>  <wpt  lat="50.574583" lon="9.75115">
+    <time>2010-04-25T07:00:00Z</time>
+    <name>GC27DTJ</name>
+    <desc>Feldkapelle Almendorf / Melzdorf by HubiFD, Traditional Cache (1.5/2)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=8bebe6b0-ba66-467e-9bc0-cd61ad4512ee</url>
+    <urlname>Feldkapelle Almendorf / Melzdorf</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1657745" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Feldkapelle Almendorf / Melzdorf</groundspeak:name>
+      <groundspeak:placed_by>HubiFD</groundspeak:placed_by>
+      <groundspeak:owner id="2729325">HubiFD</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>2</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="True">
+      </groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;b&gt;Diese kleine Feldkapelle liegt an einem Radweg in die
+Rhön.&lt;br /&gt;
+Hier komme ich öfters vorbei wenn ich mit dem Fahrrad unterwegs
+bin.&lt;br /&gt;
+Wer eine kleine Pause machen will kann dies hier gerne tun&lt;br /&gt;
+und dabei den Blick in die Rhön schweifen lassen.&lt;br /&gt;
+Bitte den Cache wieder genau dort platzieren wo ihr ihn gefunden
+habt,&lt;br /&gt;
+so ist eine unkomplizierte Wartung auch gewährleistet.&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+Viel Spaß beim Suchen wünscht Euch&lt;br /&gt;&lt;/b&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td align="center"&gt;&lt;img src=
+"http://www.zrx-ig-forum.de/phpbb/images/avatars/88864716449a2c1d31eb44.gif" /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Glückwunsch den Erstfindern: Anonyme_Laeufer&lt;/b&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="137231504">
+          <groundspeak:date>2010-11-27T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1380311">Maluma</groundspeak:finder>
+          <groundspeak:text encoded="False">Heute bei Eiseskälte uns auf dei Socken gemacht und eine Hubi-Runde gedreht..
+
+TFTC MALUMA</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="136337953">
+          <groundspeak:date>2010-11-19T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2724623">Camuvlash</groundspeak:finder>
+          <groundspeak:text encoded="False">TFTC.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="135710443">
+          <groundspeak:date>2010-11-14T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2878802">Limoel</groundspeak:finder>
+          <groundspeak:text encoded="False">Nachdem ich schon lange auf die freischaltung gewartet habe, diesen Cache heute mitgenommen.
+Dies war der dritte Hubi Cache an diesem Morgen.
+
+TFTC Limoel</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="134407044">
+          <groundspeak:date>2010-11-03T21:31:38Z</groundspeak:date>
+          <groundspeak:type>Enable Listing</groundspeak:type>
+          <groundspeak:finder id="2729325">HubiFD</groundspeak:finder>
+          <groundspeak:text encoded="False">Nach etwas längerer Pause kann nun wieder gesucht werden.
+Nun ist ein PETling installiert, ich hoffe dass dieser länger dort verweilt als die beiden vorherigen Filmdosen. </groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="133348776">
+          <groundspeak:date>2010-10-27T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Post Reviewer Note</groundspeak:type>
+          <groundspeak:finder id="1493602">GC-Knecht</groundspeak:finder>
+          <groundspeak:text encoded="False">Hallo Owner,
+
+dieser Cache ist nun schon mehr als 3 Monate "temporär nicht verfügbar".
+
+ Im Interesse aller Cacher, die diese Website benutzen um sich [b][red]auffindbare[/red][/b] Geocaches listen zu lassen bitte ich dich um Folgendes (möglichst innerhalb der nächsten 14 Tage):
+- zeitnahe Pflege (Ist der Cache noch vorhanden?) bzw. Wartung des Caches
+- oder Suche nach einem Cacher, der die Ownerschaft des Caches und damit die Wartung übernehmen kann
+- oder Archivierung des Caches, bitte in diesem Falle an eventuell angefallenen GeoMüll denken (z.B. Zwischenstationen von Multis)
+
+Die Regeln dieser Website erlauben es, dass Caches, die längere Zeit "temporär nicht verfügbar" sind, auch durch einen Reviewer archiviert werden können, was wir aber nicht anstreben.
+
+
+ Wenn Du Änderungen vorgenommen hast, kontaktiere mich bitte, damit ich mir den Cache noch einmal anschauen und freischalten kann.
+
+Vielen Dank und Grüße vom Main.
+
+[b]Jörg / GC-Knecht [/b] (Volunteer Geocaching.com Reviewer)
+
+Die Info-Seiten der deutschsprachigen Reviewer: http://www.die-reviewer.info
+
+
+[b][red]Bitte gib [u]immer[/u] den Wegpunkt (GCxxxx) deines Caches und einen Cacher-Name an [/red] [/b]und sende den bisherigen Mail-Verlauf hierzu mit.
+Bitte schreibe neben der eMail an mich auch eine Note im Cache.
+
+gc.com Messaging: http://www.geocaching.com/email/?u=gc-knecht
+
+Oder schreib mir direkt: gcknecht [ a t ] googlemail.com</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

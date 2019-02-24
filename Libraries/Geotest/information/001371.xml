@@ -1,0 +1,116 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>001371</id>
+  <cache-id>GC2FDP7</cache-id>
+  <type>Traditional Cache</type>
+  <name>Bärenfalle by jrg77, Traditional Cache (2/2.5)</name>
+  <size>Small</size>
+  <difficulty>2</difficulty>
+  <terrain>2.5</terrain>
+  <last-found>2010-10-25</last-found>
+  <placed>2010-09-19</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>jrg77</placedby>
+  <found>Geocache</found>
+  <lat>50.506717</lat>
+  <lon>9.718983</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>jrg77</owner>
+  <description>Bärenfalle liegt da wo Bären auftauchen könnten. Am Rande eines Waldes. Zum Wald führt ein breiter Wanderweg. Den muss man dann verlassen um im Wald zu suchen, was aber unproblematisch sein sollte.
+Natürlich gibt es da keine echten Bären. Zumindest haben wir keinen getroffen.
+Parken kann man nicht in der Nähe. sondern z.B. bei N50°30.648,  E009°42.631, dann einen kleinen Spaziergang von 15 Minuten bis zum Cache.</description>
+  <long-description>
+      </long-description>
+  <encoded-hints>
+      </encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=88c6a15c-6006-4d44-b0e6-dde7f8f24fa3</url>
+  <url-name>Bärenfalle</url-name>
+  <logs><ul><li>2010-11-01T19:00:00Z : Found it by Voronwe-the-guide <br />Das Wetter war schön, also warum nicht mal die Fasanerie besuchen. Wir wollten den Cacher erst vom Schloßpark aus angehen, da war aber ein Tor davor, also zurück zur Ausgangsposition und außen am Schloß entlang and der Pferden vorbei in den Wald gegangen. Der Cache war schnell gefunden, aber, oh Schreck, kein Stift dabei und im Cache war auch keiner.
+Also schreib ich den Found jetzt mal, ohne daß wir ich im logbuch stehe, und hoffe, des er mir anerkannt wird - Bei Bedarf hätte ich noch ein Bild vom Cache als Beweis.
+
+Raus: U-Ei, TB-Lisa
+Rein: Spritznashorn, TB Fahrrad</li><li>2010-11-01T19:00:00Z : Found it by Seekuh <br />Die Falle schnappte zu, meine Hose war das Opfer (Dreiecksriß).
+In: TB Lisa Simpson; out: GC; TFTC #812</li><li>2010-10-31T19:00:00Z : Found it by f.etcher <br />Gut und schnell gefunden. Lustige "Bärenfalle". Den TB bridges and water hab ich aber nicht gesehen. TFTC
+
+in: coin</li><li>2010-10-30T19:00:00Z : Found it by Bosi1964 <br />Heute auf einer großen Fahrradtour auch hier vorbeigeradelt und auch diese Dose schnell gefunden.
+TFTC
+Bosi
+# 1664</li><li>2010-10-25T06:05:38Z : Found it by Clowns 4ever <br />Supi ;-))) Die Clowns 4ever</li></ul></logs>
+  <original-xml>  <wpt  lat="50.506717" lon="9.718983">
+    <time>2010-09-19T07:00:00Z</time>
+    <name>GC2FDP7</name>
+    <desc>Bärenfalle by jrg77, Traditional Cache (2/2.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=88c6a15c-6006-4d44-b0e6-dde7f8f24fa3</url>
+    <urlname>Bärenfalle</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1895969" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Bärenfalle</groundspeak:name>
+      <groundspeak:placed_by>jrg77</groundspeak:placed_by>
+      <groundspeak:owner id="2669551">jrg77</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>2</groundspeak:difficulty>
+      <groundspeak:terrain>2.5</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">Bärenfalle liegt da wo Bären auftauchen könnten. Am Rande eines Waldes. Zum Wald führt ein breiter Wanderweg. Den muss man dann verlassen um im Wald zu suchen, was aber unproblematisch sein sollte.
+Natürlich gibt es da keine echten Bären. Zumindest haben wir keinen getroffen.
+Parken kann man nicht in der Nähe. sondern z.B. bei N50°30.648,  E009°42.631, dann einen kleinen Spaziergang von 15 Minuten bis zum Cache.</groundspeak:short_description>
+      <groundspeak:long_description html="False">
+      </groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="134177674">
+          <groundspeak:date>2010-11-01T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2175390">Voronwe-the-guide</groundspeak:finder>
+          <groundspeak:text encoded="False">Das Wetter war schön, also warum nicht mal die Fasanerie besuchen. Wir wollten den Cacher erst vom Schloßpark aus angehen, da war aber ein Tor davor, also zurück zur Ausgangsposition und außen am Schloß entlang and der Pferden vorbei in den Wald gegangen. Der Cache war schnell gefunden, aber, oh Schreck, kein Stift dabei und im Cache war auch keiner.
+Also schreib ich den Found jetzt mal, ohne daß wir ich im logbuch stehe, und hoffe, des er mir anerkannt wird - Bei Bedarf hätte ich noch ein Bild vom Cache als Beweis.
+
+Raus: U-Ei, TB-Lisa
+Rein: Spritznashorn, TB Fahrrad</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="134097082">
+          <groundspeak:date>2010-11-01T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="456592">Seekuh</groundspeak:finder>
+          <groundspeak:text encoded="False">Die Falle schnappte zu, meine Hose war das Opfer (Dreiecksriß).
+In: TB Lisa Simpson; out: GC; TFTC #812</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="133826833">
+          <groundspeak:date>2010-10-31T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1498819">f.etcher</groundspeak:finder>
+          <groundspeak:text encoded="False">Gut und schnell gefunden. Lustige "Bärenfalle". Den TB bridges and water hab ich aber nicht gesehen. TFTC
+
+in: coin</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="133737471">
+          <groundspeak:date>2010-10-30T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2308415">Bosi1964</groundspeak:finder>
+          <groundspeak:text encoded="False">Heute auf einer großen Fahrradtour auch hier vorbeigeradelt und auch diese Dose schnell gefunden.
+TFTC
+Bosi
+# 1664</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="132966217">
+          <groundspeak:date>2010-10-25T06:05:38Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3918255">Clowns 4ever</groundspeak:finder>
+          <groundspeak:text encoded="False">Supi ;-))) Die Clowns 4ever</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs>
+        <groundspeak:travelbug id="2190651" ref="TB2TAB3">
+          <groundspeak:name>orange bike</groundspeak:name>
+        </groundspeak:travelbug>
+      </groundspeak:travelbugs>
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

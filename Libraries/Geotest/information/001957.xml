@@ -1,0 +1,144 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>001957</id>
+  <cache-id>GC1N9T4</cache-id>
+  <type>Multi-cache</type>
+  <name>West/Süd/Ost--&gt; Nord by Ubx, Multi-cache (1.5/2)</name>
+  <size>Small</size>
+  <difficulty>1.5</difficulty>
+  <terrain>2</terrain>
+  <last-found>2010-02-27</last-found>
+  <placed>2009-03-03</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Ubx</placedby>
+  <found>Geocache</found>
+  <lat>50.574667</lat>
+  <lon>9.5681</lon>
+  <last-logs>XFWFF</last-logs>
+  <owner>ubx</owner>
+  <description>dieser Cache ist eine kleine Wanderung im Ortskern vom Bimbach</description>
+  <long-description>Geht von den Startkoordinaten aus.                                         
+Wendet euch genau nach Westen, wo ihr in 355 m Luftlinie rechts eine Strassenlaterne mit 4 Schildern findet. Dahinter ist Haus Nr. 4 !!! Addiert die vier 3stelligen Zahlen hinter H ... , S ... , S ... , S ...  und zieht davon 25 ab. Das ist der gesuchte Wert A.
+
+Geht zurück zum Ausgangspunkt und von da 245 m Luftlinie genau nach Süden. Dort steht ein steinernes Feldkreuz mit einer dreistelligen Zahl auf der Südseite. Die beiden Zahlen hinter der 8 ..  ist der gesuchte Wert B.
+
+Wieder vom Ausgangspunk geht es nun 405 m Luftlinie nach Osten, dort steht ein Naturdenkmal und ein steinernes Kreuz. Bildet die Quersumme der höheren Jahreszahl und zieht davon 20 ab, das ist der gesuchte Wert C.
+
+Von hier aus geht es nordwärts zu N 50.34.A und E 09.34.BC. Dort liegt der Cache.
+
+Additional Waypoints
+NO1N9T4 - Nord
+N/S  __ ° __ . ___ W/E ___ ° __ . ___ 
+
+OS1N9T4 - Ost
+N/S  __ ° __ . ___ W/E ___ ° __ . ___ 
+
+ST1N9T4 - Start
+N 50° 34.477 E 009° 34.096
+
+SU1N9T4 - Süd
+N/S  __ ° __ . ___ W/E ___ ° __ . ___ 
+
+WE1N9T4 - West
+N/S  __ ° __ . ___ W/E ___ ° __ . ___ 
+
+</long-description>
+  <encoded-hints>tief in der Mauer</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=013e5a93-7cad-4bb1-a006-3d0e70f8ae80</url>
+  <url-name>West/Süd/Ost--&gt; Nord</url-name>
+  <logs><ul><li>2010-08-21T19:00:00Z : Didn't find it by smeagol <br />Also irgendwie solls bei diesem Cache einfach nicht sein ... Jetzt waren wir schon zum zweiten Mal hier (beim ersten Mal war er gemuggelt) und konnten wieder nicht fündig werden ... [:(] Diesmal versperrten uns dichte Brennessel-"Hecken" den Weg zum vermuteten Final (der richtige Ort wurde uns per Telefon vom Owner noch bestätigt), so dass man nicht wirklich gut an den Cache herankam (wenn er denn überhaupt noch da ist ... seit Mai kein Fund mehr?). Gesucht haben wir trotzdem (soll ja gut gegen Rheuma sein ...), haben dann aber irgendwann entnervt aufgegeben. Das nächste Mal werden wir dann wohl in vegetationsfeindlicheren Zeiten oder mit einer Machete hier vorbei schauen ... Irgendwann muss es ja mal klappen! [;)]</li><li>2010-05-02T19:00:00Z : Found it by s186003 <br />Auf Fahrradtour gefunden.
+TFTC</li><li>2010-03-01T20:00:00Z : Write note by HubiFD <br />Coin nachgeloggt.
+
+Gruß Hubi</li><li>2010-03-01T20:00:00Z : Found it by HubiFD <br />Dieser Multi war mal wieder eine Abwechslung nach der Winterpause. Schnell gefunden und geloggt. TFTC Gruß Hubi.</li><li>2010-02-27T20:00:00Z : Found it by kaFFeeTrinKer <br />Vor dem Event war auch dieser schöne Multi fällig. Danke an Ubx - Gruß kaFFeeTrinKer
+
+in: Coin</li></ul></logs>
+  <original-xml>  <wpt  lat="50.574667" lon="9.5681">
+    <time>2009-03-03T08:00:00Z</time>
+    <name>GC1N9T4</name>
+    <desc>West/Süd/Ost--&gt; Nord by Ubx, Multi-cache (1.5/2)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=013e5a93-7cad-4bb1-a006-3d0e70f8ae80</url>
+    <urlname>West/Süd/Ost--&gt; Nord</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Multi-cache</type>
+    <groundspeak:cache id="1147440" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>West/Süd/Ost--&gt; Nord</groundspeak:name>
+      <groundspeak:placed_by>Ubx</groundspeak:placed_by>
+      <groundspeak:owner id="787613">ubx</groundspeak:owner>
+      <groundspeak:type>Multi-cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>2</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">dieser Cache ist eine kleine Wanderung im Ortskern vom Bimbach</groundspeak:short_description>
+      <groundspeak:long_description html="False">Geht von den Startkoordinaten aus.                                         
+Wendet euch genau nach Westen, wo ihr in 355 m Luftlinie rechts eine Strassenlaterne mit 4 Schildern findet. Dahinter ist Haus Nr. 4 !!! Addiert die vier 3stelligen Zahlen hinter H ... , S ... , S ... , S ...  und zieht davon 25 ab. Das ist der gesuchte Wert A.
+
+Geht zurück zum Ausgangspunkt und von da 245 m Luftlinie genau nach Süden. Dort steht ein steinernes Feldkreuz mit einer dreistelligen Zahl auf der Südseite. Die beiden Zahlen hinter der 8 ..  ist der gesuchte Wert B.
+
+Wieder vom Ausgangspunk geht es nun 405 m Luftlinie nach Osten, dort steht ein Naturdenkmal und ein steinernes Kreuz. Bildet die Quersumme der höheren Jahreszahl und zieht davon 20 ab, das ist der gesuchte Wert C.
+
+Von hier aus geht es nordwärts zu N 50.34.A und E 09.34.BC. Dort liegt der Cache.
+
+Additional Waypoints
+NO1N9T4 - Nord
+N/S  __ ° __ . ___ W/E ___ ° __ . ___ 
+
+OS1N9T4 - Ost
+N/S  __ ° __ . ___ W/E ___ ° __ . ___ 
+
+ST1N9T4 - Start
+N 50° 34.477 E 009° 34.096
+
+SU1N9T4 - Süd
+N/S  __ ° __ . ___ W/E ___ ° __ . ___ 
+
+WE1N9T4 - West
+N/S  __ ° __ . ___ W/E ___ ° __ . ___ 
+
+</groundspeak:long_description>
+      <groundspeak:encoded_hints>tief in der Mauer</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="123092356">
+          <groundspeak:date>2010-08-21T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Didn't find it</groundspeak:type>
+          <groundspeak:finder id="144836">smeagol</groundspeak:finder>
+          <groundspeak:text encoded="False">Also irgendwie solls bei diesem Cache einfach nicht sein ... Jetzt waren wir schon zum zweiten Mal hier (beim ersten Mal war er gemuggelt) und konnten wieder nicht fündig werden ... [:(] Diesmal versperrten uns dichte Brennessel-"Hecken" den Weg zum vermuteten Final (der richtige Ort wurde uns per Telefon vom Owner noch bestätigt), so dass man nicht wirklich gut an den Cache herankam (wenn er denn überhaupt noch da ist ... seit Mai kein Fund mehr?). Gesucht haben wir trotzdem (soll ja gut gegen Rheuma sein ...), haben dann aber irgendwann entnervt aufgegeben. Das nächste Mal werden wir dann wohl in vegetationsfeindlicheren Zeiten oder mit einer Machete hier vorbei schauen ... Irgendwann muss es ja mal klappen! [;)]</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="106927747">
+          <groundspeak:date>2010-05-02T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2819456">s186003</groundspeak:finder>
+          <groundspeak:text encoded="False">Auf Fahrradtour gefunden.
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="133407577">
+          <groundspeak:date>2010-03-01T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Write note</groundspeak:type>
+          <groundspeak:finder id="2729325">HubiFD</groundspeak:finder>
+          <groundspeak:text encoded="False">Coin nachgeloggt.
+
+Gruß Hubi</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="98583901">
+          <groundspeak:date>2010-03-01T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2729325">HubiFD</groundspeak:finder>
+          <groundspeak:text encoded="False">Dieser Multi war mal wieder eine Abwechslung nach der Winterpause. Schnell gefunden und geloggt. TFTC Gruß Hubi.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="98380519">
+          <groundspeak:date>2010-02-27T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1197640">kaFFeeTrinKer</groundspeak:finder>
+          <groundspeak:text encoded="False">Vor dem Event war auch dieser schöne Multi fällig. Danke an Ubx - Gruß kaFFeeTrinKer
+
+in: Coin</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

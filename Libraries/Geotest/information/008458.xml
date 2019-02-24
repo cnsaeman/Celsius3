@@ -1,0 +1,120 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>008458</id>
+  <cache-id>GC165A5</cache-id>
+  <type>Traditional Cache</type>
+  <name>Im Schatten der A7 by rhoenhaeschen + bluemchenpfluecker, Traditional Cache (1.5/2)</name>
+  <size>Micro</size>
+  <difficulty>1.5</difficulty>
+  <terrain>2</terrain>
+  <last-found>2008-03-23</last-found>
+  <placed>2007-09-23</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>rhoenhaeschen + bluemchenpfluecker</placedby>
+  <found>Geocache Found</found>
+  <lat>50.604417</lat>
+  <lon>9.681033</lon>
+  <last-logs>FFFFFWF</last-logs>
+  <owner>rhoenhaeschen</owner>
+  <description>Vorsicht - der Cache ist NICHT von der A7 aus zu erreichen.</description>
+  <long-description>Kleiner Micro für Zwischendurch...
+Bei N 50°36.230 E 009°40.725 parken. 
+
+Unbedingt Stift zum loggen mitbringen!</long-description>
+  <encoded-hints>Baumstumpf</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=04563659-ec4a-48b1-85af-a2cb15bc7239</url>
+  <url-name>Im Schatten der A7</url-name>
+  <logs><ul><li>2010-10-23T19:00:00Z : Found it by midway1958 <br />Gut Gefunden 
+
+Danke und Gruß Midway u. Pharao</li><li>2010-10-05T19:00:00Z : Found it by Maluma <br />Heute mit Leonie und zwei weiteren Neucachern gefunden
+
+TFTC MALUMA</li><li>2010-09-16T19:00:00Z : Found it by H37P39 <br />Heute mal eben mitgenommen
+Danke fürs zeigen
+TFC</li><li>2010-08-29T19:00:00Z : Found it by super sunshine <br />Cache schnell gefunden. Danke und Grüße</li><li>2010-06-10T19:00:00Z : Found it by burgen13 <br />Auf dem Heimweg von Fulda konnten wir nach dem Fernsehturm auch diese Dose schnell finden.
+Danke sagt burgen13</li><li>2008-03-23T19:00:00Z : Write note by Kersti.com <br />Personal Tracking Coin Drop
+Fergus the Frog hopped here</li><li>2008-03-23T19:00:00Z : Found it by Kersti.com <br />On a walk with Florian, Julia and Anton the Jack Russell we decided to introduce them to the fun of geocaching - I think Anton was the most excited when it was he who located the cache first! TNLNSL TFTC
+</li></ul></logs>
+  <original-xml>  <wpt  lat="50.604417" lon="9.681033">
+    <time>2007-09-23T07:00:00Z</time>
+    <name>GC165A5</name>
+    <desc>Im Schatten der A7 by rhoenhaeschen + bluemchenpfluecker, Traditional Cache (1.5/2)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=04563659-ec4a-48b1-85af-a2cb15bc7239</url>
+    <urlname>Im Schatten der A7</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="696267" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Im Schatten der A7</groundspeak:name>
+      <groundspeak:placed_by>rhoenhaeschen + bluemchenpfluecker</groundspeak:placed_by>
+      <groundspeak:owner id="781149">rhoenhaeschen</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>2</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">Vorsicht - der Cache ist NICHT von der A7 aus zu erreichen.</groundspeak:short_description>
+      <groundspeak:long_description html="False">Kleiner Micro für Zwischendurch...
+Bei N 50°36.230 E 009°40.725 parken. 
+
+Unbedingt Stift zum loggen mitbringen!</groundspeak:long_description>
+      <groundspeak:encoded_hints>Baumstumpf</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="132685500">
+          <groundspeak:date>2010-10-23T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2095153">midway1958</groundspeak:finder>
+          <groundspeak:text encoded="False">Gut Gefunden 
+
+Danke und Gruß Midway u. Pharao</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="129888017">
+          <groundspeak:date>2010-10-05T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1380311">Maluma</groundspeak:finder>
+          <groundspeak:text encoded="False">Heute mit Leonie und zwei weiteren Neucachern gefunden
+
+TFTC MALUMA</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="127111214">
+          <groundspeak:date>2010-09-16T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2873898">H37P39</groundspeak:finder>
+          <groundspeak:text encoded="False">Heute mal eben mitgenommen
+Danke fürs zeigen
+TFC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="124263388">
+          <groundspeak:date>2010-08-29T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2807204">super sunshine</groundspeak:finder>
+          <groundspeak:text encoded="False">Cache schnell gefunden. Danke und Grüße</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="112314222">
+          <groundspeak:date>2010-06-10T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2887618">burgen13</groundspeak:finder>
+          <groundspeak:text encoded="False">Auf dem Heimweg von Fulda konnten wir nach dem Fernsehturm auch diese Dose schnell finden.
+Danke sagt burgen13</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="116082586">
+          <groundspeak:date>2008-03-23T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Write note</groundspeak:type>
+          <groundspeak:finder id="320206">Kersti.com</groundspeak:finder>
+          <groundspeak:text encoded="False">Personal Tracking Coin Drop
+Fergus the Frog hopped here</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="41089986">
+          <groundspeak:date>2008-03-23T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="320206">Kersti.com</groundspeak:finder>
+          <groundspeak:text encoded="False">On a walk with Florian, Julia and Anton the Jack Russell we decided to introduce them to the fun of geocaching - I think Anton was the most excited when it was he who located the cache first! TNLNSL TFTC
+</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

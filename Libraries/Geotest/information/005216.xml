@@ -1,0 +1,96 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>005216</id>
+  <cache-id>GC1K204</cache-id>
+  <type>Traditional Cache</type>
+  <name>Blick Aschenberg by Ubx, Traditional Cache (1/1.5)</name>
+  <size>Small</size>
+  <difficulty>1</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-10-04</last-found>
+  <placed>2008-12-22</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Ubx</placedby>
+  <found>Geocache</found>
+  <lat>50.56845</lat>
+  <lon>9.621167</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>ubx</owner>
+  <description>eine Dose im Gebüsch</description>
+  <long-description>An diesem Ort hat man den besten Blick auf den Aschenberg von der Gläserzeller Seite aus. Man gelangt direkt bis zum Cache auf Feldwegen. Ist ein schöner Ort zum Verdauungsspaziergang machen und dem Hund Feld und Flur zu zeigen.</long-description>
+  <encoded-hints>im Gebüsch / siehe Spoilerbild</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=6c171fca-be8d-415c-86c3-2bdd6b25b548</url>
+  <url-name>Blick Aschenberg</url-name>
+  <logs><ul><li>2010-11-24T20:00:00Z : Found it by Schweffe <br />schöne Aussicht auch bei Novemberwetter.
+Haben noch nen TB da gelassen weil es in Fulda nur Mikros gibt. 
+Danke fürs Dösle verstecken sagen
+Schweffe, Takaya & Nopfi</li><li>2010-11-13T20:00:00Z : Found it by Fla20m <br />Ein wirklich toller Blick auf Aschenberg & ganz Fulda! TFTC</li><li>2010-10-24T19:00:00Z : Found it by Camuvlash <br />TFTC.</li><li>2010-10-22T19:00:00Z : Found it by s186003 <br />Schnell gefunden.
+TFTC</li><li>2010-10-04T19:00:00Z : Found it by S***T <br />Heute habe ich mal wieder aufgrund des schönen Wetters eine Radtour gemacht und den Cache umzingelt von pflügenden Landwirten unauffällig gesucht und gefunden. </li></ul></logs>
+  <original-xml>  <wpt  lat="50.56845" lon="9.621167">
+    <time>2008-12-22T08:00:00Z</time>
+    <name>GC1K204</name>
+    <desc>Blick Aschenberg by Ubx, Traditional Cache (1/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=6c171fca-be8d-415c-86c3-2bdd6b25b548</url>
+    <urlname>Blick Aschenberg</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1080356" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Blick Aschenberg</groundspeak:name>
+      <groundspeak:placed_by>Ubx</groundspeak:placed_by>
+      <groundspeak:owner id="787613">ubx</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">eine Dose im Gebüsch</groundspeak:short_description>
+      <groundspeak:long_description html="False">An diesem Ort hat man den besten Blick auf den Aschenberg von der Gläserzeller Seite aus. Man gelangt direkt bis zum Cache auf Feldwegen. Ist ein schöner Ort zum Verdauungsspaziergang machen und dem Hund Feld und Flur zu zeigen.</groundspeak:long_description>
+      <groundspeak:encoded_hints>im Gebüsch / siehe Spoilerbild</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="136970239">
+          <groundspeak:date>2010-11-24T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2355077">Schweffe</groundspeak:finder>
+          <groundspeak:text encoded="False">schöne Aussicht auch bei Novemberwetter.
+Haben noch nen TB da gelassen weil es in Fulda nur Mikros gibt. 
+Danke fürs Dösle verstecken sagen
+Schweffe, Takaya &amp; Nopfi</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="135951406">
+          <groundspeak:date>2010-11-13T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3087275">Fla20m</groundspeak:finder>
+          <groundspeak:text encoded="False">Ein wirklich toller Blick auf Aschenberg &amp; ganz Fulda! TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="132868315">
+          <groundspeak:date>2010-10-24T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2724623">Camuvlash</groundspeak:finder>
+          <groundspeak:text encoded="False">TFTC.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="133057987">
+          <groundspeak:date>2010-10-22T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2819456">s186003</groundspeak:finder>
+          <groundspeak:text encoded="False">Schnell gefunden.
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="129781468">
+          <groundspeak:date>2010-10-04T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1894990">S***T</groundspeak:finder>
+          <groundspeak:text encoded="False">Heute habe ich mal wieder aufgrund des schönen Wetters eine Radtour gemacht und den Cache umzingelt von pflügenden Landwirten unauffällig gesucht und gefunden. </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs>
+        <groundspeak:travelbug id="2459569" ref="TB33B5W">
+          <groundspeak:name>Lego Travel Bug </groundspeak:name>
+        </groundspeak:travelbug>
+      </groundspeak:travelbugs>
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

@@ -1,0 +1,152 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>003773</id>
+  <cache-id>GC23GDK</cache-id>
+  <type>Multi-cache</type>
+  <name>Rooske Graveyard by rooske, Multi-cache (1/1.5)</name>
+  <size>Small</size>
+  <difficulty>1</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-03-02</last-found>
+  <placed>2010-01-31</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>rooske</placedby>
+  <found>Geocache</found>
+  <lat>53.4032</lat>
+  <lon>-6.47095</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>rooske</owner>
+  <description>Multi cache near country graveyard
+
+Stage 1:
+At the above co-ords take note of the day & month Michael died. Call this A,B, C, D
+
+Stage 2:
+At co-ords 53.24.210n   006.28.306
+Take note of Marys(who was never late) age. Call this E, F
+
+Final co-ords:
+53.24.C(E-A)E
+006.28.(A+C)(E-E)(A+C+F)</description>
+  <long-description>Tab Box containing log book & small trade items.
+
+Additional Waypoints
+</long-description>
+  <encoded-hints>
+      </encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=441804f6-87a9-4517-8f36-78800711ed10</url>
+  <url-name>Rooske Graveyard</url-name>
+  <logs><ul><li>2010-06-10T19:00:00Z : Found it by Serapis <br />Myself and the good wife were at a wedding in Dunboyne castle a few weeks ago and we decided to go for this. Why did we not find it? Well we forgot it. We were well on the way back to Waterford when I remembered it. How do you forget to find a cache? To much grog the night before, probably. 
+Today I found it eventually after wandering around the graveyard avoiding the intense cleanup that was going on. Mary’s grave hasn’t had a trim yet and the strimmer man probably thought I was a bit strange (mad [;)]).
+The final co-ords were about 10 m off for me. I had to endure a few muggle infringes, including the a man in a BMX X5 who probably was the occupier of the nearby house, I got a bit of a stare as he waited for his gates to open. My Oregon 400 sometimes doubles up as a handy mobile phone. Had to do a bit of ‘where would I hide it’ sort of thing until it came up trumps. TNLNSL, Serapis.
+
+
+This entry was edited by Serapis on Friday, 11 June 2010 at 01:04:58.</li><li>2010-04-11T19:00:00Z : Found it by orangetigerprawn <br />Oh Mary, oh, Mary, oh Mary! 
+
+The first stage was no bother, the trouble with Mary was finding her. Once that had been done the rest was a walk in the ... park.
+
+Go raibh maith agat as an taisce.</li><li>2010-03-12T20:00:00Z : Found it by Maji <br />Quiet place, quick find TFTC</li><li>2010-03-02T20:00:00Z : Found it by Toffee Man <br />Found this one this evening with Blue Jay 59.
+As she said, you wouldn't want to be looking for Mary in the dark.
+Nice final hiding spot.
+TFTC
+Toffee Man
+#236</li><li>2010-03-02T20:00:00Z : Found it by Blue Jay 59 <br />Found this one this evening easily enough, not too far from home either. 
+Found Michael and then found the 3 Mary's. You'd want your glasses on to find the right Mary, wouldn't like to be looking for her in the dark.[:D]
+Congrats on your first cache hide. Nice one. Look forward to more.
+TFTC
+Blue Jay 59
+#234</li></ul></logs>
+  <original-xml>  <wpt  lat="53.4032" lon="-6.47095">
+    <time>2010-01-31T08:00:00Z</time>
+    <name>GC23GDK</name>
+    <desc>Rooske Graveyard by rooske, Multi-cache (1/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=441804f6-87a9-4517-8f36-78800711ed10</url>
+    <urlname>Rooske Graveyard</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Multi-cache</type>
+    <groundspeak:cache id="1541093" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Rooske Graveyard</groundspeak:name>
+      <groundspeak:placed_by>rooske</groundspeak:placed_by>
+      <groundspeak:owner id="1786087">rooske</groundspeak:owner>
+      <groundspeak:type>Multi-cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>Leinster</groundspeak:state>
+      <groundspeak:short_description html="False">Multi cache near country graveyard
+
+Stage 1:
+At the above co-ords take note of the day &amp; month Michael died. Call this A,B, C, D
+
+Stage 2:
+At co-ords 53.24.210n   006.28.306
+Take note of Marys(who was never late) age. Call this E, F
+
+Final co-ords:
+53.24.C(E-A)E
+006.28.(A+C)(E-E)(A+C+F)</groundspeak:short_description>
+      <groundspeak:long_description html="False">Tab Box containing log book &amp; small trade items.
+
+Additional Waypoints
+</groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="112333160">
+          <groundspeak:date>2010-06-10T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1019524">Serapis</groundspeak:finder>
+          <groundspeak:text encoded="False">Myself and the good wife were at a wedding in Dunboyne castle a few weeks ago and we decided to go for this. Why did we not find it? Well we forgot it. We were well on the way back to Waterford when I remembered it. How do you forget to find a cache? To much grog the night before, probably. 
+Today I found it eventually after wandering around the graveyard avoiding the intense cleanup that was going on. Mary’s grave hasn’t had a trim yet and the strimmer man probably thought I was a bit strange (mad [;)]).
+The final co-ords were about 10 m off for me. I had to endure a few muggle infringes, including the a man in a BMX X5 who probably was the occupier of the nearby house, I got a bit of a stare as he waited for his gates to open. My Oregon 400 sometimes doubles up as a handy mobile phone. Had to do a bit of ‘where would I hide it’ sort of thing until it came up trumps. TNLNSL, Serapis.
+
+
+This entry was edited by Serapis on Friday, 11 June 2010 at 01:04:58.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="103732636">
+          <groundspeak:date>2010-04-11T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2167131">orangetigerprawn</groundspeak:finder>
+          <groundspeak:text encoded="False">Oh Mary, oh, Mary, oh Mary! 
+
+The first stage was no bother, the trouble with Mary was finding her. Once that had been done the rest was a walk in the ... park.
+
+Go raibh maith agat as an taisce.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="99494761">
+          <groundspeak:date>2010-03-12T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="67549">Maji</groundspeak:finder>
+          <groundspeak:text encoded="False">Quiet place, quick find TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="98629933">
+          <groundspeak:date>2010-03-02T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2826452">Toffee Man</groundspeak:finder>
+          <groundspeak:text encoded="False">Found this one this evening with Blue Jay 59.
+As she said, you wouldn't want to be looking for Mary in the dark.
+Nice final hiding spot.
+TFTC
+Toffee Man
+#236</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="98616940">
+          <groundspeak:date>2010-03-02T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2709154">Blue Jay 59</groundspeak:finder>
+          <groundspeak:text encoded="False">Found this one this evening easily enough, not too far from home either. 
+Found Michael and then found the 3 Mary's. You'd want your glasses on to find the right Mary, wouldn't like to be looking for her in the dark.[:D]
+Congrats on your first cache hide. Nice one. Look forward to more.
+TFTC
+Blue Jay 59
+#234</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

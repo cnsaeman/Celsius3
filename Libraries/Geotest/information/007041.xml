@@ -1,0 +1,184 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>007041</id>
+  <cache-id>GC291PD</cache-id>
+  <type>Multi-cache</type>
+  <name>Fridolin - ein Gartenzwerg auf Wanderschaft by balalaika, Multi-cache (2.5/2)</name>
+  <size>Regular</size>
+  <difficulty>2.5</difficulty>
+  <terrain>2</terrain>
+  <last-found>2010-10-22</last-found>
+  <placed>2010-05-23</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>balalaika</placedby>
+  <found>Geocache</found>
+  <lat>50.556483</lat>
+  <lon>9.62735</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>balalaika</owner>
+  <description>
+      </description>
+  <long-description>Eigentlich ist Fridolin ein ganz normaler Gartenzwerg. Viele Jahre stand er in einem Vorgarten neben einigen anderen Kollegen. Irgendwann wurde es ihm dort aber zu langweilig. Er wollte hinaus in die große weite Welt. So kam es, dass sich Fridolin eines Nachts heimlich davon geschlichen hat. Begleite ihn ein Stück auf seinem Weg.
+
+Der Cache ist ein Rundweg. Parken könnt ihr bei N50°33.445;  E009°37.657.
+
+Wir hoffen, dass nicht nur die kleinen Cacher beim Lösen Spaß haben. 
+
+Der Cache besteht aus 5 Stationen und dem Final.
+
+Additional Waypoints
+S1291PD - 1
+N 50° 33.389 E 009° 37.641
+
+</long-description>
+  <encoded-hints>stage 1, 5, 6 : Baumwurzel
+stage 2 : im Baum
+stage 4 : im Zaun
+
+</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=d69d24f5-82ea-4847-8361-940d04c350f0</url>
+  <url-name>Fridolin - ein Gartenzwerg auf Wanderschaft</url-name>
+  <logs><ul><li>2010-11-14T20:00:00Z : Found it by Luca_DA <br />Zusammen mit Fla20m bei einer Sonntag-Nachmittags-Cache-Runde mitgenommen :) 
+Da hat sich der Owner wirklich viel Mühe gegeben!
+
+TFTC</li><li>2010-11-14T20:00:00Z : Found it by Fla20m <br />Beim Sonnenuntergang den Cache zunächst angegangen... am Ende sind wir nach 1,25 Stunden in völliger Dunkelheit am Startpunkt wieder angekommen. 
+Zu keiner Zeit wurde es jemals langweilig! Die Geschichte um Fridolin war super ausgedacht, dabei mit viel Mühe die Stages vorbereitet und herrliche Wege ausgesucht! 
+An diesem Multicache sollten sich viele ein Beispiel nehmen!!! So macht unser Hobby Spass, auch wenn wir beim Final fast verzfeifelt sind! ;-) 
+...da hat sich wohl die weite Anreise aus Darmstadt gelohnt! 
+Beste Grüße und vielen Dank!
+
+PS: Als Belohnung gab es einen herrlichen Coin!!!</li><li>2010-11-14T20:00:00Z : Found it by ChrisFX <br />Endlich konnten wir diesen Cache bei Novembertraumwetter und ohne Zeitdruck im Nacken angehen.
+Eine schöne Runde mit machbaren, nett ausgedachten Rätseln sollte unsere Belohnung sein.
+
+Mit Brett vor´m Kopf kann man bei Station 2 auch auf eine andere Lösung kommen, wenn man aber dann die Überschrift in die Fragestellung mit einbezieht wird es plötzlich klarer :-)
+Die vielleicht nicht unbedingt notwendigen Tüten um die löblichen Aufbewahrungsdosen haben es etwas leichter gemacht, so manches Versteck zu finden, insbesondere am Final.
+
+Vielen Dank für dieses schöne Exemplar von Multicache.</li><li>2010-10-31T19:00:00Z : Found it by sosgeo <br />Ein wirklich sehr gut und durchdachter Multi-Cache.
+Witzige Rätzel, schöne verstecke rund um den Schulzenberg.
+
+Bei Station 5 brauchten wir ein paar Minuten länger mit dem heben des Schatzes. 
+Das GPS-Gerät zeigte uns den Punkt ca. 13 m im Wald an. 
+Als wir nix finden konnten suchten wir die ersten Baumreihen direkt am Weg ab und hatten dann erfolg.
+
+Station 6 konnten wir leider auch nach einem 2. Versuch nicht finden.
+Somit bleibt uns dieser Schatz (noch) verborgen.
+
+Später wollen wir noch einmal einen 3. Versuch unternehmen und hoffen ihn dann zu finden.
+2 Std. sollte man mindestens einplanen, bis auf ein paar Meter ist der Weg auch gut mit einem Kinderwagen zu befahren.
+
+Hat uns riesigen Spaß gemacht und hoffen mehr auf solche schön gemachten Multi-Cachs.
+Wenn jemand für uns Tipps zu ähnliches Rundweg-Cachs hat, darf uns gerne eine PM schreiben.
+</li><li>2010-10-22T19:00:00Z : Found it by s186003 <br />Der schönste Cache auf meiner heutigen Runde. Vor allem die Rätsel haben mir gefallen.
+TFTC</li></ul></logs>
+  <original-xml>  <wpt  lat="50.556483" lon="9.62735">
+    <time>2010-05-23T07:00:00Z</time>
+    <name>GC291PD</name>
+    <desc>Fridolin - ein Gartenzwerg auf Wanderschaft by balalaika, Multi-cache (2.5/2)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=d69d24f5-82ea-4847-8361-940d04c350f0</url>
+    <urlname>Fridolin - ein Gartenzwerg auf Wanderschaft</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Multi-cache</type>
+    <groundspeak:cache id="1705697" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Fridolin - ein Gartenzwerg auf Wanderschaft</groundspeak:name>
+      <groundspeak:placed_by>balalaika</groundspeak:placed_by>
+      <groundspeak:owner id="1414299">balalaika</groundspeak:owner>
+      <groundspeak:type>Multi-cache</groundspeak:type>
+      <groundspeak:container>Regular</groundspeak:container>
+      <groundspeak:difficulty>2.5</groundspeak:difficulty>
+      <groundspeak:terrain>2</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">
+      </groundspeak:short_description>
+      <groundspeak:long_description html="False">Eigentlich ist Fridolin ein ganz normaler Gartenzwerg. Viele Jahre stand er in einem Vorgarten neben einigen anderen Kollegen. Irgendwann wurde es ihm dort aber zu langweilig. Er wollte hinaus in die große weite Welt. So kam es, dass sich Fridolin eines Nachts heimlich davon geschlichen hat. Begleite ihn ein Stück auf seinem Weg.
+
+Der Cache ist ein Rundweg. Parken könnt ihr bei N50°33.445;  E009°37.657.
+
+Wir hoffen, dass nicht nur die kleinen Cacher beim Lösen Spaß haben. 
+
+Der Cache besteht aus 5 Stationen und dem Final.
+
+Additional Waypoints
+S1291PD - 1
+N 50° 33.389 E 009° 37.641
+
+</groundspeak:long_description>
+      <groundspeak:encoded_hints>stage 1, 5, 6 : Baumwurzel
+stage 2 : im Baum
+stage 4 : im Zaun
+
+</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="136987556">
+          <groundspeak:date>2010-11-14T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3421688">Luca_DA</groundspeak:finder>
+          <groundspeak:text encoded="False">Zusammen mit Fla20m bei einer Sonntag-Nachmittags-Cache-Runde mitgenommen :) 
+Da hat sich der Owner wirklich viel Mühe gegeben!
+
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="135952501">
+          <groundspeak:date>2010-11-14T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3087275">Fla20m</groundspeak:finder>
+          <groundspeak:text encoded="False">Beim Sonnenuntergang den Cache zunächst angegangen... am Ende sind wir nach 1,25 Stunden in völliger Dunkelheit am Startpunkt wieder angekommen. 
+Zu keiner Zeit wurde es jemals langweilig! Die Geschichte um Fridolin war super ausgedacht, dabei mit viel Mühe die Stages vorbereitet und herrliche Wege ausgesucht! 
+An diesem Multicache sollten sich viele ein Beispiel nehmen!!! So macht unser Hobby Spass, auch wenn wir beim Final fast verzfeifelt sind! ;-) 
+...da hat sich wohl die weite Anreise aus Darmstadt gelohnt! 
+Beste Grüße und vielen Dank!
+
+PS: Als Belohnung gab es einen herrlichen Coin!!!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="135817933">
+          <groundspeak:date>2010-11-14T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2837683">ChrisFX</groundspeak:finder>
+          <groundspeak:text encoded="False">Endlich konnten wir diesen Cache bei Novembertraumwetter und ohne Zeitdruck im Nacken angehen.
+Eine schöne Runde mit machbaren, nett ausgedachten Rätseln sollte unsere Belohnung sein.
+
+Mit Brett vor´m Kopf kann man bei Station 2 auch auf eine andere Lösung kommen, wenn man aber dann die Überschrift in die Fragestellung mit einbezieht wird es plötzlich klarer :-)
+Die vielleicht nicht unbedingt notwendigen Tüten um die löblichen Aufbewahrungsdosen haben es etwas leichter gemacht, so manches Versteck zu finden, insbesondere am Final.
+
+Vielen Dank für dieses schöne Exemplar von Multicache.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="134575138">
+          <groundspeak:date>2010-10-31T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3898107">sosgeo</groundspeak:finder>
+          <groundspeak:text encoded="False">Ein wirklich sehr gut und durchdachter Multi-Cache.
+Witzige Rätzel, schöne verstecke rund um den Schulzenberg.
+
+Bei Station 5 brauchten wir ein paar Minuten länger mit dem heben des Schatzes. 
+Das GPS-Gerät zeigte uns den Punkt ca. 13 m im Wald an. 
+Als wir nix finden konnten suchten wir die ersten Baumreihen direkt am Weg ab und hatten dann erfolg.
+
+Station 6 konnten wir leider auch nach einem 2. Versuch nicht finden.
+Somit bleibt uns dieser Schatz (noch) verborgen.
+
+Später wollen wir noch einmal einen 3. Versuch unternehmen und hoffen ihn dann zu finden.
+2 Std. sollte man mindestens einplanen, bis auf ein paar Meter ist der Weg auch gut mit einem Kinderwagen zu befahren.
+
+Hat uns riesigen Spaß gemacht und hoffen mehr auf solche schön gemachten Multi-Cachs.
+Wenn jemand für uns Tipps zu ähnliches Rundweg-Cachs hat, darf uns gerne eine PM schreiben.
+</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="133057870">
+          <groundspeak:date>2010-10-22T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2819456">s186003</groundspeak:finder>
+          <groundspeak:text encoded="False">Der schönste Cache auf meiner heutigen Runde. Vor allem die Rätsel haben mir gefallen.
+TFTC</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs>
+        <groundspeak:travelbug id="2096594" ref="TB2P5F0">
+          <groundspeak:name>Swiss Micro Geocoin</groundspeak:name>
+        </groundspeak:travelbug>
+      </groundspeak:travelbugs>
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

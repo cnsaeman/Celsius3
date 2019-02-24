@@ -1,0 +1,106 @@
+<?xml version="1.0"?>
+<celsiusv2.2.htmltemplates>
+<element>
+  <infoMode>0</infoMode>
+  <template><html>
+<body>
+<table width='100%'>
+<tr>
+<td valign='top'>
+<h2>#cache-id#: #name#</h2>
+Distance: #distance&# Heading: #heading&# Location: #lat&#, #lon&#<br>
+#type#, #size#, Difficulty: #difficulty#, Terrain: #terrain#<br>
+Date placed: #placed#<br>
+Last found: #last-found#<br>
+<br>registered in:
+#if#autoregistered# |#autoregistered#|
+#if#registered# |#registered#|
+<br><br>
+#description#<br><br>
+#long-description#<br><br>
+<br>
+#if#encoded-hints#<a href='http://$$display-message:Encoded Hints:#encoded-hints#'>Display Hint</a>
+<br>
+#if#logs#<br><b>Logs:</b> #logs#<br>
+#if#keywords# <b>Keywords:</b> #keywords#<br>
+#if#remarks# <b>Remarks:</b> #remarks#
+#if#bibtex# <h3>Bibliographic information</h3>
+#if#bibtex# <pre width="20">#bibtex#</pre><br>
+<h3>Celsius related information</h3>
+ID: #id#
+#if#recognition#, recognition level: #recognition#.
+</td><td valign='top'>
+#if#thumbnail#<img src='file:#$thumbnail#'>
+</td></tr>
+</table>
+</body>
+</html></template>
+</element>
+<element>
+  <infoMode>1</infoMode>
+  <template><html><body>
+<h2>#placedby#</h2>
+<hr>
+<br>
+From this person: #currentitems# caches in the library.<br>
+<br>
+#if#homepage# <a href="#homepage#">Homepage</a>&nbsp;
+#if#email# #email#&nbsp;
+<br>
+#if#remarks# <br><br><b>Remarks:</b><br>#remarks#</body></html></template>
+</element>
+<element>
+  <infoMode>2</infoMode>
+  <template><html><body>
+<h2>#category#</h2>
+<hr>
+<br>
+In this category: #currentitems# caches in the library.<br>
+</body></html></template>
+</element>
+<element>
+  <infoMode>3</infoMode>
+  <template><html><body>
+<h2>Multiple caches selected</h2>
+<hr>
+<br>
+#currentitems# caches in this selection.<br>
+</body></html></template>
+</element>
+<element>
+  <infoMode>4</infoMode>
+  <template><html><body>
+<h2>Identifier Search</h2>
+<hr>
+<br>
+In these search results: #currentitems# documents with #currentpages# pages in the library.<br>
+</body></html></template>
+</element>
+<element>
+  <infoMode>5</infoMode>
+  <template><html><body>
+<h2>General Search</h2>
+<hr>
+<br>
+In these search results: #currentitems# documents with #currentpages# pages in the library.<br>
+</body></html></template>
+</element>
+<element>
+  <infoMode>6</infoMode>
+  <template><html><body>
+<h2>Keyword Search</h2>
+<hr>
+<br>
+In these search results: #currentitems# documents with #currentpages# pages in the library.<br>
+</body></html></template>
+</element>
+<element>
+  <infoMode>7</infoMode>
+  <template><html><body>
+<h2>Linktype: #linktype#</h2>
+<hr>
+<br>
+Documents linked: #currentitems# documents with #currentpages# pages in the library.<br>
+</body></html></template>
+</element>
+</celsiusv2.2.htmltemplates>

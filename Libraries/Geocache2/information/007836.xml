@@ -1,0 +1,101 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>007836</id>
+  <cache-id>GC178H9</cache-id>
+  <type>Traditional Cache</type>
+  <name>Camac Cache by Besiebob, Traditional Cache (1/1)</name>
+  <size>Small</size>
+  <difficulty>1</difficulty>
+  <terrain>1</terrain>
+  <last-found>2009-07-19</last-found>
+  <placed>2007-11-08</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>Besiebob</placedby>
+  <found>Geocache Found</found>
+  <lat>53.304467</lat>
+  <lon>-6.4147</lon>
+  <last-logs>FFFFFF</last-logs>
+  <owner>Besiebob</owner>
+  <description>A handy cache and dash in the park. Room for 2 or 3 cars to park within feet of the cache.</description>
+  <long-description>
+      </long-description>
+  <encoded-hints>Behind a rock.</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=e20b489e-297a-4b8b-90a9-99ef0395a39b</url>
+  <url-name>Camac Cache</url-name>
+  <logs><ul><li>2010-06-05T19:00:00Z : Found it by orrs <br />Easy find, tftc. </li><li>2010-05-31T19:00:00Z : Found it by thomasvm <br />Easy find on the to Dublin - should be called bunny cache as there must have been 20 bunnies hopping around. TFTC.</li><li>2010-05-29T19:00:00Z : Found it by BlueFoxPL <br />Another great day for caching... found with some friends. TFTC.</li><li>2010-05-29T19:00:00Z : Found it by Wicca Cailín <br />Found this one quickly. Log sheet has become very damp and is almost full. Nice little park, lots of people about walking dogs. Found with Adam. TFTC
+
+In; Irish Guide Dogs Badge
+Out: Marble</li><li>2010-05-13T19:00:00Z : Found it by st5346 <br />Found this one on my way along the coast in a 2 week vacation in Ireland!
+Very nice place, thanks for sharing this one!</li><li>2009-07-19T19:00:00Z : Found it by Kersti.com <br />Out for a day of caching with JME1979 - this was our forth for the day and my 301st overall. </li></ul></logs>
+  <original-xml>  <wpt  lat="53.304467" lon="-6.4147">
+    <time>2007-11-08T08:00:00Z</time>
+    <name>GC178H9</name>
+    <desc>Camac Cache by Besiebob, Traditional Cache (1/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=e20b489e-297a-4b8b-90a9-99ef0395a39b</url>
+    <urlname>Camac Cache</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="729162" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Camac Cache</groundspeak:name>
+      <groundspeak:placed_by>Besiebob</groundspeak:placed_by>
+      <groundspeak:owner id="1193258">Besiebob</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>
+      </groundspeak:state>
+      <groundspeak:short_description html="False">A handy cache and dash in the park. Room for 2 or 3 cars to park within feet of the cache.</groundspeak:short_description>
+      <groundspeak:long_description html="False">
+      </groundspeak:long_description>
+      <groundspeak:encoded_hints>Behind a rock.</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="111636660">
+          <groundspeak:date>2010-06-05T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3112326">orrs</groundspeak:finder>
+          <groundspeak:text encoded="False">Easy find, tftc. </groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="110961245">
+          <groundspeak:date>2010-05-31T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2849183">thomasvm</groundspeak:finder>
+          <groundspeak:text encoded="False">Easy find on the to Dublin - should be called bunny cache as there must have been 20 bunnies hopping around. TFTC.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="113111259">
+          <groundspeak:date>2010-05-29T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3361446">BlueFoxPL</groundspeak:finder>
+          <groundspeak:text encoded="False">Another great day for caching... found with some friends. TFTC.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="110533875">
+          <groundspeak:date>2010-05-29T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3215858">Wicca Cailín</groundspeak:finder>
+          <groundspeak:text encoded="False">Found this one quickly. Log sheet has become very damp and is almost full. Nice little park, lots of people about walking dogs. Found with Adam. TFTC
+
+In; Irish Guide Dogs Badge
+Out: Marble</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="109261874">
+          <groundspeak:date>2010-05-13T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1604112">st5346</groundspeak:finder>
+          <groundspeak:text encoded="False">Found this one on my way along the coast in a 2 week vacation in Ireland!
+Very nice place, thanks for sharing this one!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="77679937">
+          <groundspeak:date>2009-07-19T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="320206">Kersti.com</groundspeak:finder>
+          <groundspeak:text encoded="False">Out for a day of caching with JME1979 - this was our forth for the day and my 301st overall. </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

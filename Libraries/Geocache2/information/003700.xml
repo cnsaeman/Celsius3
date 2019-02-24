@@ -1,0 +1,156 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>003700</id>
+  <cache-id>GC1JE6Z</cache-id>
+  <type>Traditional Cache</type>
+  <name>Rath Maeve by Windsockers, Traditional Cache (2/2)</name>
+  <size>Micro</size>
+  <difficulty>2</difficulty>
+  <terrain>2</terrain>
+  <last-found>2010-04-04</last-found>
+  <placed>2009-04-09</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>Windsockers</placedby>
+  <found>Geocache</found>
+  <lat>53.567183</lat>
+  <lon>-6.607817</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>Windsockers</owner>
+  <description><center>
+<img src="http://img.geocaching.com/cache/36d410fd-9faf-4642-ad9c-b8fbfbda113a.jpg" />
+</center>
+<center><b>Queen Maeve on an Irish Punt</b></center></description>
+  <long-description><p><b>Rath Maeve</b></p>
+<p>This Hill fort is named after Queen Maeve,it originally measured
+approximately 250 metres in diameter.<br />
+unfortunatley this site which is obviously connected to Tara has
+been very neglected all that remains now is a well preserved
+embankment near the road leading to Tara.<br />
+ Queen Maeve was queen of Connacht during the Iron Age.</p>
+<p><b>Queen Maeve</b></p>
+<p>Queen Maeve has many names among the druids of Ireland some of
+which include Mab/Mabh/Meda(meev)/Medh/Medhbh. She is considered
+the "Drunken Woman" or the "Queen-wolf". But nonetheless Maeve is
+the queen of the fairy whose name means "mead". Mead was a red
+drink or claret that she gave to her many consorts.<br />
+ Queen Maeve was also a warrior queen of the Ulster cycle. She was
+a Goddess of War that actually participated in the
+fighting;combined with mother and warrior aspects of the
+goddess.<br />
+ Maeve represents physical sexuality and fertility, revenge, and
+war!</p>
+<p><b>The Cache</b></p>
+<p>The Cache is a small contaner Please rehide the cache with care
+to prevent muggles from discovering its location.</p>
+<br />
+<center>
+<img src="http://www.northbeach.ie/gallery/albums/userpics/10001/windsock-anim-small.gif" />
+<br />
+<b>The Windsockers</b></center></long-description>
+  <encoded-hints>
+      </encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=86758aa2-65a1-4d59-b1a7-e12c398ba37d</url>
+  <url-name>Rath Maeve</url-name>
+  <logs><ul><li>2010-06-17T19:00:00Z : Found it by Spark_ie <br />Took me a few minutes to spot this one.. But it was right there all along [:)]  TFTC, Spark_ie</li><li>2010-05-18T19:00:00Z : Found it by Serapis <br />A quick find on my way from Kells to Waterford. Loads of muck here the last time which barred my approach, but a bit drier today. Took a few minutes to locate the cache. Serapis.</li><li>2010-04-11T19:00:00Z : Found it by merann <br />Found eventually, discovered we were initially searching too low. SL.
+TFTC, Merann. </li><li>2010-04-08T19:00:00Z : Found it by Pitri & Benns <br />We found this cache during our two-week tour around Ireland. Without all these caches we would not have seen many of the nice places we have been! Thanks a million
+
+Pitri & Benns from Germany
+
+We sadly had to discover that ca each second cache has been wet sometimes with the log mouldy. Please check by your cache as soon as possible to change the log!
+</li><li>2010-04-04T19:00:00Z : Found it by Trove Chasers <br />Stopped by to nab this one before heading up to the hill of Tara.  We were a little concerned about private property at first but we got over it.  TNLNSL.  Thanks for placing this cache</li></ul></logs>
+  <original-xml>  <wpt  lat="53.567183" lon="-6.607817">
+    <time>2009-04-09T07:00:00Z</time>
+    <name>GC1JE6Z</name>
+    <desc>Rath Maeve by Windsockers, Traditional Cache (2/2)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=86758aa2-65a1-4d59-b1a7-e12c398ba37d</url>
+    <urlname>Rath Maeve</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1062309" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Rath Maeve</groundspeak:name>
+      <groundspeak:placed_by>Windsockers</groundspeak:placed_by>
+      <groundspeak:owner id="271623">Windsockers</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>2</groundspeak:difficulty>
+      <groundspeak:terrain>2</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>Leinster</groundspeak:state>
+      <groundspeak:short_description html="True">&lt;center&gt;
+&lt;img src="http://img.geocaching.com/cache/36d410fd-9faf-4642-ad9c-b8fbfbda113a.jpg" /&gt;
+&lt;/center&gt;
+&lt;center&gt;&lt;b&gt;Queen Maeve on an Irish Punt&lt;/b&gt;&lt;/center&gt;</groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;p&gt;&lt;b&gt;Rath Maeve&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;This Hill fort is named after Queen Maeve,it originally measured
+approximately 250 metres in diameter.&lt;br /&gt;
+unfortunatley this site which is obviously connected to Tara has
+been very neglected all that remains now is a well preserved
+embankment near the road leading to Tara.&lt;br /&gt;
+ Queen Maeve was queen of Connacht during the Iron Age.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Queen Maeve&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Queen Maeve has many names among the druids of Ireland some of
+which include Mab/Mabh/Meda(meev)/Medh/Medhbh. She is considered
+the "Drunken Woman" or the "Queen-wolf". But nonetheless Maeve is
+the queen of the fairy whose name means "mead". Mead was a red
+drink or claret that she gave to her many consorts.&lt;br /&gt;
+ Queen Maeve was also a warrior queen of the Ulster cycle. She was
+a Goddess of War that actually participated in the
+fighting;combined with mother and warrior aspects of the
+goddess.&lt;br /&gt;
+ Maeve represents physical sexuality and fertility, revenge, and
+war!&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;The Cache&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;The Cache is a small contaner Please rehide the cache with care
+to prevent muggles from discovering its location.&lt;/p&gt;
+&lt;br /&gt;
+&lt;center&gt;
+&lt;img src="http://www.northbeach.ie/gallery/albums/userpics/10001/windsock-anim-small.gif" /&gt;
+&lt;br /&gt;
+&lt;b&gt;The Windsockers&lt;/b&gt;&lt;/center&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="113238074">
+          <groundspeak:date>2010-06-17T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="950104">Spark_ie</groundspeak:finder>
+          <groundspeak:text encoded="False">Took me a few minutes to spot this one.. But it was right there all along [:)]  TFTC, Spark_ie</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="109091606">
+          <groundspeak:date>2010-05-18T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1019524">Serapis</groundspeak:finder>
+          <groundspeak:text encoded="False">A quick find on my way from Kells to Waterford. Loads of muck here the last time which barred my approach, but a bit drier today. Took a few minutes to locate the cache. Serapis.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="103944144">
+          <groundspeak:date>2010-04-11T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="134212">merann</groundspeak:finder>
+          <groundspeak:text encoded="False">Found eventually, discovered we were initially searching too low. SL.
+TFTC, Merann. </groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="106086978">
+          <groundspeak:date>2010-04-08T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1026854">Pitri &amp; Benns</groundspeak:finder>
+          <groundspeak:text encoded="True">We found this cache during our two-week tour around Ireland. Without all these caches we would not have seen many of the nice places we have been! Thanks a million
+
+Pitri &amp; Benns from Germany
+
+We sadly had to discover that ca each second cache has been wet sometimes with the log mouldy. Please check by your cache as soon as possible to change the log!
+</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="103397633">
+          <groundspeak:date>2010-04-04T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1144936">Trove Chasers</groundspeak:finder>
+          <groundspeak:text encoded="False">Stopped by to nab this one before heading up to the hill of Tara.  We were a little concerned about private property at first but we got over it.  TNLNSL.  Thanks for placing this cache</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

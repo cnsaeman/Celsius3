@@ -1,0 +1,169 @@
+<?xml version="1.0"?>
+<celsiusv2.1.configuration.plugins>
+<tags>
+  name, type, parameters  
+</tags>
+<element>
+  <name>PluginBarcode</name>
+  <type>barcode</type>
+</element>
+<element>
+  <name>PluginFileName</name>
+  <type>auto</type>
+  <parameters></parameters>
+</element>
+<element>
+  <name>PluginHeader</name>
+  <type>auto</type>
+</element>
+<element>
+  <name>PluginArXiv</name>
+  <type>auto</type>
+</element>
+<element>
+  <name>PluginSpires</name>
+  <type>auto</type>
+  <parameters>http://www-spires.dur.ac.uk/cgi-bin/spiface/</parameters>
+</element>
+<element>
+  <name>PluginJSTOR</name>
+  <type>auto</type>
+  <parameters>http://www-spires.dur.ac.uk/cgi-bin/spiface/</parameters>
+</element>
+<element>
+  <name>PluginJournalSpires</name>
+  <type>auto</type>
+  <parameters>http://www-spires.dur.ac.uk/cgi-bin/spiface/</parameters>
+</element>
+<element>
+  <name>PluginIMSLP</name>
+  <type>auto</type>
+</element>
+<element>
+  <name>PluginMutopia</name>
+  <type>auto</type>
+</element>
+<element>
+  <name>PluginPDFHeader</name>
+  <type>auto</type>
+</element>
+<element>
+  <name>PluginWAR</name>
+  <type>auto</type>
+</element>
+<element>
+  <name>PluginFileNameTV</name>
+  <type>auto</type>
+  <parameters></parameters>
+</element>
+<element>
+  <name>PluginTVShow</name>
+  <type>auto</type>
+  <parameters></parameters>
+</element>
+<element>
+  <name>PluginLookAtSpires</name>
+  <type>manual</type>
+  <parameters>http://www-spires.dur.ac.uk/cgi-bin/spiface/</parameters>
+</element>
+<element>
+  <name>PluginAmazon</name>
+  <type>manual</type>
+</element>
+<element>
+  <name>PluginArXiv</name>
+  <type>manual</type>
+</element>
+<element>
+  <name>PluginSpires</name>
+  <type>manual</type>
+  <parameters>http://www-spires.dur.ac.uk/cgi-bin/spiface/</parameters>
+</element>
+<element>
+  <name>PluginUpdateComplete</name>
+  <type>manual</type>
+  <parameters>http://www-spires.dur.ac.uk/cgi-bin/spiface/</parameters>
+</element>
+<element>
+  <name>PluginPDFHeader</name>
+  <type>manual</type>
+</element>
+<element>
+  <name>PluginSetIdentifier</name>
+  <type>manual</type>
+</element>
+<element>
+  <name>PluginGetDOI</name>
+  <type>manual</type>
+  <parameters>http://www-spires.dur.ac.uk/cgi-bin/spiface/</parameters>
+</element>
+<element>
+  <name>PluginCreateThumb</name>
+  <type>manual</type>
+</element>
+<element>
+  <name>PluginUpdateCompleteRecent</name>
+  <type>manual</type>
+  <parameters>http://www-spires.dur.ac.uk/cgi-bin/spiface/</parameters>
+</element>
+<element>
+  <name>PluginAdjustType</name>
+  <type>manual</type>
+</element>
+<element>
+  <name>PluginLinksSpires</name>
+  <type>manual</type>
+  <parameters>http://www-spires.dur.ac.uk/cgi-bin/spiface/</parameters>
+</element>
+<element>
+  <name>PluginCropPDF</name>
+  <type>manual</type>
+  <parameters>/media/disk/database/media/books</parameters>
+</element>
+<element>
+  <name>PluginConvertps2pdf</name>
+  <type>manual</type>
+</element>
+<element>
+  <name>PluginPhilSci</name>
+  <type>manual</type>
+  <parameters></parameters>
+</element>
+<element>
+  <name>PluginLookAtIMDB</name>
+  <type>manual</type>
+  <parameters></parameters>
+</element>
+<element>
+  <name>PluginLookAtIMDBTV</name>
+  <type>manual</type>
+  <parameters></parameters>
+</element>
+<element>
+  <name>PluginTVShow</name>
+  <type>manual</type>
+  <parameters></parameters>
+</element>
+<element>
+  <name>PluginPDFStamper</name>
+  <type>manual</type>
+  <parameters></parameters>
+</element>
+<element>
+  <name>PluginRepairPDF</name>
+  <type>manual</type>
+  <parameters></parameters>
+</element>
+<element>
+  <name>PluginStdLaTeX</name>
+  <type>bibliography</type>
+</element>
+<element>
+  <name>PluginSimple</name>
+  <type>bibliography</type>
+</element>
+<element>
+  <name>PluginExtLaTeX</name>
+  <type>bibliography</type>
+</element>
+</celsiusv2.1.configuration.plugins>

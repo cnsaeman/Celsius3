@@ -1,0 +1,122 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>007247</id>
+  <cache-id>GC2JMJ4</cache-id>
+  <type>Traditional Cache</type>
+  <name>Nuff un Nopp 003 Funkturm by Maluma, Traditional Cache (2.5/5)</name>
+  <size>Small</size>
+  <difficulty>2.5</difficulty>
+  <terrain>5</terrain>
+  <last-found>2010-12-13</last-found>
+  <placed>2010-11-23</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Maluma</placedby>
+  <found>Geocache</found>
+  <lat>50.521017</lat>
+  <lon>9.689733</lon>
+  <last-logs>FF</last-logs>
+  <owner>Maluma</owner>
+  <description>Die Fortsetzung der Nuff un Nopp Reihe...Ihr habt bestimmt schon drauf gewartet..Es handelt sich hier um einen Klettercache. Achtung: Ihr handelt auf eigene Gefahr!! Hubi wollte mal sein neues Grigri ausprobieren, da habe ich einfach noch ein Döschen dagelassen.</description>
+  <long-description>Die Dose ist ca 10 cm hoch und hat einen Durchmesser von 5 cm. Ihr findet das Döschen in ca 10 m Höhe über Grund. 
+
+Besondere Ausrüstung ist erforderlich.
+
+Fotolog ist natürlich gerne gesehen
+
+Vorschlag Ausrüstung:
+- Pilotleine
+- Seil
+- Gurtzeug
+- Steigschlingen oder Alternativen um sich am Seil hochzuarbeiten
+- Portion Mut
+
+Viel Spaß und nun macht Euch endlich auf die Socken!
+
+MALUMA</long-description>
+  <encoded-hints>Ein paar lose Hölzer liegen am Stamm</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=8bfa2dbf-9223-497b-b6d1-74e354af8e2e</url>
+  <url-name>Nuff un Nopp 003 Funkturm</url-name>
+  <logs><ul><li>2010-12-25T20:00:00Z : Found it by Aldokyl <br />Auch dieser Cache war absolut schneesicher.
+Allerdings war es heute ziemlich kalt da oben.
+Vielen Dank für den T5er.</li><li>2010-12-16T20:00:00Z : Found it by HubiFD <br />[:D][:D][:D] FTF [:D][:D][:D]
+
+Nun, da hier wohl bei den Temperaturen keiner seine Klettersachen auspacken will, hab ich mich mal wieder etwas in die Höhe gemacht, 
+natürlich nicht alleine, ein Sicherungsposten ist bei solchen Aktionen immer dabei. Oben am Cache schwankte der Baum dann doch etwas,
+so dass ich mich nicht all zu lange da oben aufhalten wollte. Es war windig und auch etwas frisch ;-)
+
+TFTC Gruß an den Owner.
+
+Da für diesen Cache Kletterzeug benötigt wird, ist es meiner Meinung nach ein T5er. Der Owner sollte die Terrainwertung evtl. anpassen.</li><li>2010-12-13T21:58:36Z : Publish Listing by GC-Knecht <br />Published</li></ul></logs>
+  <original-xml>  <wpt  lat="50.521017" lon="9.689733">
+    <time>2010-11-23T08:00:00Z</time>
+    <name>GC2JMJ4</name>
+    <desc>Nuff un Nopp 003 Funkturm by Maluma, Traditional Cache (2.5/5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=8bfa2dbf-9223-497b-b6d1-74e354af8e2e</url>
+    <urlname>Nuff un Nopp 003 Funkturm</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1991942" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Nuff un Nopp 003 Funkturm</groundspeak:name>
+      <groundspeak:placed_by>Maluma</groundspeak:placed_by>
+      <groundspeak:owner id="1380311">Maluma</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>2.5</groundspeak:difficulty>
+      <groundspeak:terrain>5</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">Die Fortsetzung der Nuff un Nopp Reihe...Ihr habt bestimmt schon drauf gewartet..Es handelt sich hier um einen Klettercache. Achtung: Ihr handelt auf eigene Gefahr!! Hubi wollte mal sein neues Grigri ausprobieren, da habe ich einfach noch ein Döschen dagelassen.</groundspeak:short_description>
+      <groundspeak:long_description html="False">Die Dose ist ca 10 cm hoch und hat einen Durchmesser von 5 cm. Ihr findet das Döschen in ca 10 m Höhe über Grund. 
+
+Besondere Ausrüstung ist erforderlich.
+
+Fotolog ist natürlich gerne gesehen
+
+Vorschlag Ausrüstung:
+- Pilotleine
+- Seil
+- Gurtzeug
+- Steigschlingen oder Alternativen um sich am Seil hochzuarbeiten
+- Portion Mut
+
+Viel Spaß und nun macht Euch endlich auf die Socken!
+
+MALUMA</groundspeak:long_description>
+      <groundspeak:encoded_hints>Ein paar lose Hölzer liegen am Stamm</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="139192120">
+          <groundspeak:date>2010-12-25T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="438973">Aldokyl</groundspeak:finder>
+          <groundspeak:text encoded="False">Auch dieser Cache war absolut schneesicher.
+Allerdings war es heute ziemlich kalt da oben.
+Vielen Dank für den T5er.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="138672263">
+          <groundspeak:date>2010-12-16T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2729325">HubiFD</groundspeak:finder>
+          <groundspeak:text encoded="False">[:D][:D][:D] FTF [:D][:D][:D]
+
+Nun, da hier wohl bei den Temperaturen keiner seine Klettersachen auspacken will, hab ich mich mal wieder etwas in die Höhe gemacht, 
+natürlich nicht alleine, ein Sicherungsposten ist bei solchen Aktionen immer dabei. Oben am Cache schwankte der Baum dann doch etwas,
+so dass ich mich nicht all zu lange da oben aufhalten wollte. Es war windig und auch etwas frisch ;-)
+
+TFTC Gruß an den Owner.
+
+Da für diesen Cache Kletterzeug benötigt wird, ist es meiner Meinung nach ein T5er. Der Owner sollte die Terrainwertung evtl. anpassen.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="138547695">
+          <groundspeak:date>2010-12-13T21:58:36Z</groundspeak:date>
+          <groundspeak:type>Publish Listing</groundspeak:type>
+          <groundspeak:finder id="1493602">GC-Knecht</groundspeak:finder>
+          <groundspeak:text encoded="False">Published</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

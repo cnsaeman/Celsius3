@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>008712</id>
+  <type>Preprint</type>
+  <title>On M5-branes in N=6 Membrane Action</title>
+  <authors>Terashima, Seiji</authors>
+  <pages>12</pages>
+  <identifier>0807.0197 [hep-th]</identifier>
+  <location>LD::documents/On M5-branes in N=6 Membrane Action (Terashima).pdf</location>
+  <filetype>pdf</filetype>
+  <abstract>In this note we study M5-branes in the multiple membrane action which is recently proposed by Aharony-Bergman-Jafferis-Maldacena. We write down the N=6 supersymmetry transformation of the action and obtain 1/2 BPS equations and their solutions. They are expected to represent membranes ending on a M5-brane. We also consider the M5-M2 bound state in the action.</abstract>
+  <remarks>Comments: 12 pages; v2: references added, comments added, BPS solutions for N&gt;2 are given; v3: corrected typos; v4: version to appear in JHEP; v5: comments for the convention of the spinors added</remarks>
+  <plaintxt>AI::.txt.gz</plaintxt>
+  <parse>all</parse>
+  <recognition>100</recognition>
+  <arxiv-ref>0807.0197</arxiv-ref>
+  <arxiv-name>hep-th</arxiv-name>
+  <arxiv-number>0807.0197</arxiv-number>
+  <journal-ref>JHEP0808:080,2008</journal-ref>
+  <bibtex></bibtex>
+  <updated>2009-10-07</updated>
+  <created>2008-07-01</created>
+  <categories>hep-th</categories>
+  <spires-key>?</spires-key>
+  <links></links>
+  <citation-tag>empty</citation-tag>
+</element>
+</celsiusv2.1.addinfofile>

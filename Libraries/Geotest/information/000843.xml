@@ -1,0 +1,132 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>000843</id>
+  <cache-id>GC27T5F</cache-id>
+  <type>Multi-cache</type>
+  <name>Rund um Neuhof 3 by capitanok9, Multi-cache (2/2)</name>
+  <size>Small</size>
+  <difficulty>2</difficulty>
+  <terrain>2</terrain>
+  <last-found>2010-10-13</last-found>
+  <placed>2010-05-01</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>capitanok9</placedby>
+  <found>Geocache</found>
+  <lat>50.487533</lat>
+  <lon>9.609983</lon>
+  <last-logs>FWWFF</last-logs>
+  <owner>capitanok9</owner>
+  <description>Der " Rote Born " befindet sich zwischen Neuhof und Nonnenrod und
+speist die Weiher bei Nonnenrod. Hier stand früher eine
+Schutzhütte, an der wir auf unseren Vatertagswanderungen immer die
+1. oder letzte Rast eingelegt haben.</description>
+  <long-description>Um den Final-Cache zu finden, müßt Ihr folgende Aufgabe lösen: An
+der Wegkreuzung steht ein Radweg-Hinweisschild. Addiert alle Zahlen
+( nur km-Angaben ) auf den Schildern ( Dezimalzahlen sind ganze
+Zahlen z.B. 2,8 = 28 ) Das Ergebnis ergibt N 50 29.xxx. Die
+Koordinate für E 009 37.xxx findet Ihr im Micro-Cache. Bitte den
+Final-Cache wieder sehr sorgfältig verstecken !!</long-description>
+  <additional-waypoints>1227T5F - B-Land<br />N 50° 28.409 E 009° 37.541<br />Hier könnt Ihr parken, wenn Ihr von Süd/West kommt<br />1327T5F - Nonnenrod<br />N 50° 30.233 E 009° 37.693<br />Hier sind Parkmöglichkeiten, wenn Ihr von Norden kommt<br /></additional-waypoints>
+  <links>waypoints:cache-id:1227T5F|waypoints:cache-id:1327T5F</links>
+  <encoded-hints>Der Final-Cache liegt 8 m entfernt  von einem von Spechten gelöcherten Baum in östlicher Richtung.</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=a970cbbe-7f55-4012-a157-f663f91b0842</url>
+  <url-name>Rund um Neuhof 3</url-name>
+  <logs><ul><li>2010-11-21T20:00:00Z : Found it by Helup <br />Mit dem Fahrrad diesen schönen Cache gefunden.Echt klasse hat riessig Spass gemacht!
+
+Gruß und danke Team Helup</li><li>2010-10-29T19:00:00Z : Write note by capitanok9 <br />Da die Schwarzen Weiher im Moment Hochwasser haben, habe ich die Dose etwas verlegen müssen.
+Sie befindet sich jetzt ca. 8 m vom " Spechtbaum " entfernt in östlicher Richtung.
+Habe auch den Schwierigkeitsgrad und das Gelände herunter gesetzt.</li><li>2010-10-13T19:00:00Z : Write note by HubiFD <br />Coin nachgeloggt.
+
+Gruß Hubi</li><li>2010-10-13T19:00:00Z : Found it by HubiFD <br />Was hat mich dieser Cache Nerven gekostet. Anfangs an der Schilder-Station einen fatalen Fehler begangen und nicht "alle" Km-Zahlen notiert, sondern nur von einer Seite.
+Kurioserweise kam man dann mit den Finalkoords ebenfalls bei einem Spechtbaum heraus. Damals gab es aber leider das Spoilerbild im Listing noch nicht, sonst hätte ich gleich gemerkt dass ich dort falsch bin. Somit habe ich dort mehrfach alles abgegrast und fast schon umgepflügt, was ja nicht im Sinne des Geocachens ist, man soll die Natur ja nicht zerstören. 
+Also  gestern einen erneuten Anlauf gestartet und diesmal auch an der richtigen Location heraus gekommen. Aber trotz Suche nach etwas dünnem Transparentem blieb ich gestern erfolglos. 
+Heute nach einiger akribischer Sucherei dann doch noch zusammen mit Maluma fündig geworden.
+
+TFTC Gruß Hubi</li><li>2010-10-13T19:00:00Z : Found it by Maluma <br />Heute zusammen mit HubiFD im zweiten Anlauf gefunden. Der Beutel und die Dose war komplett mit Wasser vollgelaufen. Ein wenig hat sogar das Logbuch abbekommen. Wir haben ihn jetzt trockener gelegt, da die Dose scheinbar defekt ist, damit das Logbuch überlebt. Vielleicht kann sich der Owner da mal ein etwas dichteres ausdenken
+
+TFTFC MALUMA</li></ul></logs>
+  <original-xml>  <wpt  lat="50.487533" lon="9.609983">
+    <time>2010-05-01T07:00:00Z</time>
+    <name>GC27T5F</name>
+    <desc>Rund um Neuhof 3 by capitanok9, Multi-cache (2/2)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=a970cbbe-7f55-4012-a157-f663f91b0842</url>
+    <urlname>Rund um Neuhof 3</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Multi-cache</type>
+    <groundspeak:cache id="1668654" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Rund um Neuhof 3</groundspeak:name>
+      <groundspeak:placed_by>capitanok9</groundspeak:placed_by>
+      <groundspeak:owner id="3123857">capitanok9</groundspeak:owner>
+      <groundspeak:type>Multi-cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>2</groundspeak:difficulty>
+      <groundspeak:terrain>2</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="True">Der " Rote Born " befindet sich zwischen Neuhof und Nonnenrod und
+speist die Weiher bei Nonnenrod. Hier stand früher eine
+Schutzhütte, an der wir auf unseren Vatertagswanderungen immer die
+1. oder letzte Rast eingelegt haben.</groundspeak:short_description>
+      <groundspeak:long_description html="True">Um den Final-Cache zu finden, müßt Ihr folgende Aufgabe lösen: An
+der Wegkreuzung steht ein Radweg-Hinweisschild. Addiert alle Zahlen
+( nur km-Angaben ) auf den Schildern ( Dezimalzahlen sind ganze
+Zahlen z.B. 2,8 = 28 ) Das Ergebnis ergibt N 50 29.xxx. Die
+Koordinate für E 009 37.xxx findet Ihr im Micro-Cache. Bitte den
+Final-Cache wieder sehr sorgfältig verstecken !!&lt;p&gt;Additional Waypoints&lt;/p&gt;1227T5F - B-Land&lt;br /&gt;N 50° 28.409 E 009° 37.541&lt;br /&gt;Hier könnt Ihr parken, wenn Ihr von Süd/West kommt&lt;br /&gt;1327T5F - Nonnenrod&lt;br /&gt;N 50° 30.233 E 009° 37.693&lt;br /&gt;Hier sind Parkmöglichkeiten, wenn Ihr von Norden kommt&lt;br /&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>Der Final-Cache liegt 8 m entfernt  von einem von Spechten gelöcherten Baum in östlicher Richtung.</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="136692862">
+          <groundspeak:date>2010-11-21T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2254555">Helup</groundspeak:finder>
+          <groundspeak:text encoded="False">Mit dem Fahrrad diesen schönen Cache gefunden.Echt klasse hat riessig Spass gemacht!
+
+Gruß und danke Team Helup</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="133519249">
+          <groundspeak:date>2010-10-29T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Write note</groundspeak:type>
+          <groundspeak:finder id="3123857">capitanok9</groundspeak:finder>
+          <groundspeak:text encoded="False">Da die Schwarzen Weiher im Moment Hochwasser haben, habe ich die Dose etwas verlegen müssen.
+Sie befindet sich jetzt ca. 8 m vom " Spechtbaum " entfernt in östlicher Richtung.
+Habe auch den Schwierigkeitsgrad und das Gelände herunter gesetzt.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="133431279">
+          <groundspeak:date>2010-10-13T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Write note</groundspeak:type>
+          <groundspeak:finder id="2729325">HubiFD</groundspeak:finder>
+          <groundspeak:text encoded="False">Coin nachgeloggt.
+
+Gruß Hubi</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="131234063">
+          <groundspeak:date>2010-10-13T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2729325">HubiFD</groundspeak:finder>
+          <groundspeak:text encoded="False">Was hat mich dieser Cache Nerven gekostet. Anfangs an der Schilder-Station einen fatalen Fehler begangen und nicht "alle" Km-Zahlen notiert, sondern nur von einer Seite.
+Kurioserweise kam man dann mit den Finalkoords ebenfalls bei einem Spechtbaum heraus. Damals gab es aber leider das Spoilerbild im Listing noch nicht, sonst hätte ich gleich gemerkt dass ich dort falsch bin. Somit habe ich dort mehrfach alles abgegrast und fast schon umgepflügt, was ja nicht im Sinne des Geocachens ist, man soll die Natur ja nicht zerstören. 
+Also  gestern einen erneuten Anlauf gestartet und diesmal auch an der richtigen Location heraus gekommen. Aber trotz Suche nach etwas dünnem Transparentem blieb ich gestern erfolglos. 
+Heute nach einiger akribischer Sucherei dann doch noch zusammen mit Maluma fündig geworden.
+
+TFTC Gruß Hubi</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="131175044">
+          <groundspeak:date>2010-10-13T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1380311">Maluma</groundspeak:finder>
+          <groundspeak:text encoded="False">Heute zusammen mit HubiFD im zweiten Anlauf gefunden. Der Beutel und die Dose war komplett mit Wasser vollgelaufen. Ein wenig hat sogar das Logbuch abbekommen. Wir haben ihn jetzt trockener gelegt, da die Dose scheinbar defekt ist, damit das Logbuch überlebt. Vielleicht kann sich der Owner da mal ein etwas dichteres ausdenken
+
+TFTFC MALUMA</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs>
+        <groundspeak:travelbug id="1643002" ref="TB26YF0">
+          <groundspeak:name>Denise Warmerdam</groundspeak:name>
+        </groundspeak:travelbug>
+      </groundspeak:travelbugs>
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

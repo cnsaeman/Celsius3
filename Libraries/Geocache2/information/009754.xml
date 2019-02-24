@@ -1,0 +1,158 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>009754</id>
+  <cache-id>GC1FRRW</cache-id>
+  <type>Traditional Cache</type>
+  <name>Sweet Hiking by theswerve, Traditional Cache (2.5/3)</name>
+  <size>Small</size>
+  <difficulty>2.5</difficulty>
+  <terrain>3</terrain>
+  <last-found>2010-05-18</last-found>
+  <placed>2008-08-30</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>theswerve</placedby>
+  <found>Geocache</found>
+  <lat>53.153733</lat>
+  <lon>-6.150117</lon>
+  <last-logs>FFWFF</last-logs>
+  <owner>theswerve</owner>
+  <description><center>Great Sugar Loaf 501 m</center>
+<br />
+<center>
+<img src="http://img.geocaching.com/cache/c5fbfc2a-17df-4a36-92c3-5a97aae61022.jpg" />
+</center>
+<br /></description>
+  <long-description><p align="justify">Great Sugar Loaf isn't the highest peak in the
+Wicklow Mts., being only 501 m high, it is one of the most popular
+hills . It's the most distinctive mount when looking from Dublin.
+It has very steep slopes, and many people think it's an extinct
+volcano, because it really looks like a volcano. But it isn't one,
+is made of quartzite, which isn't a volcanic rock. In good weather
+you can see marvellous view.<br />
+<br />
+ The best way to get there is from the gap at coordinates N53
+08.652 W6 09.305 where you can park your car (or bike). From there
+it is 30-45 min walk to the summit. Don't forget hiking boots,
+because this peak is very rocky and it is easy to sprinkle your
+ankle.<br />
+<br />
+ The cache is 1 litre steel container, well-hidden about 60 m from
+the Sugar Loaf summit. There are some goodies inside and special
+FTF prize. Watch for Muggles, because it's quite a busy place
+especially at weekends.</p>
+<br />
+<br />
+<a href="http://flagcounter.com/more/xAdI"><img src="http://flagcounter.com/count/xAdI/bg=FFFFFF/txt=000000/border=CCCCCC/columns=6/maxflags=248/viewers=0/labels=1/"
+     alt="free counters" border="0" /></a> <br />
+<br />
+<!--start of handicaching link-->
+<p><a href="http://www.handicaching.com/show.php?waypoint=GC1FRRW"
+target="_blank"><img src="http://www.handicaching.com/images/seal_rater2.gif"
+     border="0" alt="View the ratings for GC1FRRW" /></a></p></long-description>
+  <additional-waypoints>PK1FRRW - Parking<br />N 53° 08.652 W 006° 09.305<br /><br /></additional-waypoints>
+  <links>waypoints:cache-id:PK1FRRW</links>
+  <encoded-hints>What for the hint? There are only rocks!</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=f3246b14-f53c-4b69-9556-590c5407544d</url>
+  <url-name>Sweet Hiking</url-name>
+  <logs><ul><li>2010-05-27T19:00:00Z : Found it by EVILPETE <br />EVILPETE + MISSUS
+On holiday from England.
+What a climb but well worth it Gps was spot on thank goodness.
+T TB
+LN
+TFTC</li><li>2010-05-26T19:00:00Z : Found it by Tranicka <br />Pick up GC, TFTC</li><li>2010-05-26T19:00:00Z : Write note by Petr Skacha <br />TT drop.</li><li>2010-05-23T19:00:00Z : Found it by roybrindley <br />Fantastic location. Dropped off Geocoin.</li><li>2010-05-18T19:00:00Z : Found it by Windsockers <br />Easy find TfTc</li></ul></logs>
+  <original-xml>  <wpt  lat="53.153733" lon="-6.150117">
+    <time>2008-08-30T07:00:00Z</time>
+    <name>GC1FRRW</name>
+    <desc>Sweet Hiking by theswerve, Traditional Cache (2.5/3)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=f3246b14-f53c-4b69-9556-590c5407544d</url>
+    <urlname>Sweet Hiking</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="983101" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Sweet Hiking</groundspeak:name>
+      <groundspeak:placed_by>theswerve</groundspeak:placed_by>
+      <groundspeak:owner id="1032462">theswerve</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>2.5</groundspeak:difficulty>
+      <groundspeak:terrain>3</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>Leinster</groundspeak:state>
+      <groundspeak:short_description html="True">&lt;center&gt;Great Sugar Loaf 501 m&lt;/center&gt;
+&lt;br /&gt;
+&lt;center&gt;
+&lt;img src="http://img.geocaching.com/cache/c5fbfc2a-17df-4a36-92c3-5a97aae61022.jpg" /&gt;
+&lt;/center&gt;
+&lt;br /&gt;</groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;p align="justify"&gt;Great Sugar Loaf isn't the highest peak in the
+Wicklow Mts., being only 501 m high, it is one of the most popular
+hills . It's the most distinctive mount when looking from Dublin.
+It has very steep slopes, and many people think it's an extinct
+volcano, because it really looks like a volcano. But it isn't one,
+is made of quartzite, which isn't a volcanic rock. In good weather
+you can see marvellous view.&lt;br /&gt;
+&lt;br /&gt;
+ The best way to get there is from the gap at coordinates N53
+08.652 W6 09.305 where you can park your car (or bike). From there
+it is 30-45 min walk to the summit. Don't forget hiking boots,
+because this peak is very rocky and it is easy to sprinkle your
+ankle.&lt;br /&gt;
+&lt;br /&gt;
+ The cache is 1 litre steel container, well-hidden about 60 m from
+the Sugar Loaf summit. There are some goodies inside and special
+FTF prize. Watch for Muggles, because it's quite a busy place
+especially at weekends.&lt;/p&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;a href="http://flagcounter.com/more/xAdI"&gt;&lt;img src="http://flagcounter.com/count/xAdI/bg=FFFFFF/txt=000000/border=CCCCCC/columns=6/maxflags=248/viewers=0/labels=1/"
+     alt="free counters" border="0" /&gt;&lt;/a&gt; &lt;br /&gt;
+&lt;br /&gt;
+&lt;!--start of handicaching link--&gt;
+&lt;p&gt;&lt;a href="http://www.handicaching.com/show.php?waypoint=GC1FRRW"
+target="_blank"&gt;&lt;img src="http://www.handicaching.com/images/seal_rater2.gif"
+     border="0" alt="View the ratings for GC1FRRW" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Additional Waypoints&lt;/p&gt;PK1FRRW - Parking&lt;br /&gt;N 53° 08.652 W 006° 09.305&lt;br /&gt;&lt;br /&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>What for the hint? There are only rocks!</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="110897163">
+          <groundspeak:date>2010-05-27T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="614041">EVILPETE</groundspeak:finder>
+          <groundspeak:text encoded="False">EVILPETE + MISSUS
+On holiday from England.
+What a climb but well worth it Gps was spot on thank goodness.
+T TB
+LN
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="110317075">
+          <groundspeak:date>2010-05-26T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2731117">Tranicka</groundspeak:finder>
+          <groundspeak:text encoded="False">Pick up GC, TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="110316148">
+          <groundspeak:date>2010-05-26T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Write note</groundspeak:type>
+          <groundspeak:finder id="821695">Petr Skacha</groundspeak:finder>
+          <groundspeak:text encoded="False">TT drop.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="109756262">
+          <groundspeak:date>2010-05-23T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3097917">roybrindley</groundspeak:finder>
+          <groundspeak:text encoded="False">Fantastic location. Dropped off Geocoin.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="111248717">
+          <groundspeak:date>2010-05-18T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="271623">Windsockers</groundspeak:finder>
+          <groundspeak:text encoded="False">Easy find TfTc</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

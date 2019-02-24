@@ -1,0 +1,318 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>001127</id>
+  <cache-id>GC28098</cache-id>
+  <type>Multi-cache</type>
+  <name>Wandertour im Heidelbeerland by Anonyme_Laeufer, Multi-cache (2/2.5)</name>
+  <size>Regular</size>
+  <difficulty>2</difficulty>
+  <terrain>2.5</terrain>
+  <last-found>2010-08-07</last-found>
+  <placed>2010-05-04</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Anonyme_Laeufer</placedby>
+  <found>Geocache</found>
+  <lat>50.522833</lat>
+  <lon>9.615717</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>Anonyme_Laeufer</owner>
+  <description>Schöne Tageswanderung (12,9 km) im Gieseler und Neuhofer Forst mit 11 Stationen.</description>
+  <long-description>Dieser Multi führt euch auf eine Wanderung durch den Gieseler und den Neuhofer Forst rund um das Dorf Istergiesel. Die Länge ist 12,9 km. Es sollte also eine Tageswanderung eingeplant werden. Alle Wege sind mit dem Fahrrad befahrbar, Autos müssen draussen bleiben.
+
+Dieser Multi wurde im Rahmen einer Wanderung des Deutschen Alpenvereins gelegt und wurde dort erstmals begangen.
+
+Startpunkt ist die Niederröder Höhe bei N50 31.389 E9 36.940. Hier ist der Parkplatz des dortigen Gasthof.
+
+Stage 1: An den Koordinaten findet ihr zwei Verkehrschilder. Auf jedem ist eine Zahl. Die größere steht für a und die kleinere für b.
+
+Die nächste Station findet ihr bei N 50° (a+b).4a  E 009° (a+b+5).(17 * a)
+
+Stage 2: Ihr erreicht einen Rastplatz. Schaut euch um und ihr entdeckt zwei Bäume und einen Stein mit Zahlen markiert. Merkt euch die die größere Zahl auf den Bäumen für c und auf dem Stein für d.
+
+Weiter geht es bei N 50° (a+b).(2,5 * c)   E 009° (a+b+4).(4,5 * d)
+
+Stage3: Wenn ihr richtig seid, findet ihr hier einen Hochsitz. Hier müsst ihr den nächsten Hinweis suchen. Schaut euch die Bäume genauer an. Hier findet ihr auch den ersten Koordinatenteil (K1) für den finalen Cache.
+
+Stage 4: Wenn ihr euch umschaut seht ihr einen Gedenkbaum. Zählt die Buchstaben. Die Anzahl ist e.
+
+Den nächsten Hinweis gibt es bei N 50° (a+b).0((4 * e) - 4)   E 009° (a+4).((17 * e) + 6)
+
+Stage 5: Hier findest ihr einen Stein mit einer Wegbezeichnung und einer Jahreszahl. Merkt euch die letzten drei Ziffern der Jahrszahl für f. Die Berufsbezeichnung, die im Namen des Weges enthalten ist, in Zahlen um (A=1, B=2 ,…., Z=26) umwandeln und addieren (Umlaute Ä=AE, Ü=UE, Ö=OE). Ihr erhaltet g.
+
+Den nächsten Hinweis dürft ihr bei den Koordinaten N 50° a.(f – 272) E 009° (a+4).((6 * g) – 12) suchen.
+
+Stage 6: Ihr erreicht eine Bank mit einem Blick auf das Heidelbeerdorf Giesel. Hier müsst ihr euch nach dem nächsten Hinweis suchen. Hier findest ihr auch Teil 2 der Koordinaten K2 für den finalen Cache.
+
+Stage 7: Ein Kreuz am Wegesrand lädt zum Rasten ein. Hier ist die Hälfte der Wanderung erreicht. Doch auch die nächste Station will gefunden sein. Daher schaut euch das Kreuz genauer an und ihr entdeckt zwei Zahlen. Die letzten drei Ziffern der Jahrezahl merkt ihr euch in umgekehrter Reihenfolge für h (wenn die drei Ziffern =123 wären, dann wäre h=321). Die zweite Zahl ist i.
+
+Bei der nächsten Station wird es etwas schwieriger. Aufgepasst ist angesagt bei den Koordinaten N 50° a.(28 * i)  E 009° (a+5).h
+
+Stage 8: An dieser Stelle trefft ihr auf eine Anordnung von Stangen. (ACHTUNG: Schaut auch in der Umgebung). Wieviele farbig gekennzeichnete Stangen findet ihr hier. (Der Pflock von K+S zählt nicht). Die Anzahl der Stangen ist j.
+
+Weiter geht es bei den Koordinaten N 50° a.(j + 3)0(j + 3)  E 009° (a+6).(j – 1)5(j – 1)
+
+Stage 9: Hier ist Orientierung gefragt. Ihr seht eine grüne Bank. Wenn ihr euch jetzt in Richtung des kleinen Dorfes Istergiesel wendet, fällt euch der Hochsitz und ein großer Silage-Turm auf. Bringt diese in eine Linie und ihr seht am gegenüberliegenden Waldrand links dieser gedachten Linie einen bestimmten Ort der Ruhe. Wandelt wie in Station 5 die Buchstaben der Bezeichnung in Zahlen um und addiert diese. Ihr erhaltet k.
+
+Suchen dürft ihr wieder bei den Koordinaten 	N 50° a.((7 * k) – 10) E 009° (a + 6).((10 * k) + 34)
+
+Stage 10: Hier findet ihr am Wegesrand eine Markierung einer sehr bekannten Institution, die durch ihre Signalfarbe bekannt ist. In der Nähe der Markierung findet ihr den nächsten Hinweis. Der dritte Teil K3 der Finalkoordinaten ist hier ebenfalls versteckt.
+
+Stage 11: Ihr kommt an ein Schild, das auf ein besonderes Gebiet hinweist. Wandelt die Bezeichnung des Gebietes nach althergebrachter Art in Zahlen um und addiert diese. Damit habt ihr K4 zur Ermittlung des Final.
+
+Final: Den Final findet ihr bei 
+
+N 50°     K1. K3
+E 009°   K2. (K4-87)
+
+Viel Spass beim Wandern.
+
+Additional Waypoints
+PK28098 - Parkplatz
+N 50° 31.389 E 009° 36.940
+
+S128098 - Stage 1: Niederröder Höhe
+N 50° 31.370 E 009° 36.943
+An den obigen Koordinaten findet ihr zwei Verkehrschilder. Auf jedem ist eine Zahl. Die größere steht für a und die kleinere für b.
+
+Die nächste Station findet ihr bei N 50° (a+b).4a E 009° (a+b+5).(17 * a)
+S228098 - Stage 2: Am Homerstrauch
+N/S  __ ° __ . ___ W/E ___ ° __ . ___ 
+Ihr erreicht einen Rastplatz. Schaut euch um und ihr entdeckt zwei Bäume und einen Stein mit Zahlen markiert. Merkt euch die die größere Zahl auf den Bäumen für c und auf dem Stein für d.
+
+Weiter geht es bei N 50° (a+b).(2,5 * c) E 009° (a+b+4).(4,5 * d)
+S328098 - Stage 3: Waidmann's Ruh
+N/S  __ ° __ . ___ W/E ___ ° __ . ___ 
+Wenn ihr richtig seid, findet ihr hier einen Hochsitz. Hier müsst ihr den nächsten Hinweis suchen. Schaut euch die Bäume genauer an. Hier findet ihr auch den ersten Koordinatenteil (K1) für den finalen Cache.
+S428098 - Stage 4: Ein Baum zum Gedenken
+N/S  __ ° __ . ___ W/E ___ ° __ . ___ 
+Wenn ihr euch umschaut seht ihr einen Gedenkbaum. Zählt die Buchstaben. Die Anzahl ist e.
+
+Den nächsten Hinweis gibt es bei N 50° (a+b).0((4 * e) - 4) E 009° (a+4).((17 * e) +6)
+S528098 - Stage 5: Ein Stein am Wegesrand
+N/S  __ ° __ . ___ W/E ___ ° __ . ___ 
+Hier findest ihr einen Stein mit einer Wegbezeichnung und einer Jahreszahl. Merkt euch die letzten drei Ziffern der Jahrszahl für f. Die Berufsbezeichnung, die im Namen des Weges enthalten ist, in Zahlen um (A=1, B=2 ,…., Z=26) umwandeln und addieren (Umlaute Ä=AE, Ü=UE, Ö=OE). Ihr erhaltet g.
+
+Den nächsten Hinweis dürft ihr bei den Koordinaten N 50° a.(f – 272) E 009° (a+4).((6 * g) – 12) suchen.
+S628098 - Stage 6: Blick auf's Heidelbeerdorf
+N/S  __ ° __ . ___ W/E ___ ° __ . ___ 
+Ihr erreicht eine Bank mit einem Blick auf das Heidelbeerdorf Giesel. Hier müsst ihr euch nach dem nächsten Hinweis suchen. Hier findest ihr auch Teil 2 der Koordinaten K2 für den finalen Cache.
+S728098 - Stage 7: Ein Kreuz am Wegesrand
+N/S  __ ° __ . ___ W/E ___ ° __ . ___ 
+Ein Kreuz am Wegesrand lädt zum Rasten ein. Hier ist die Hälfte der Wanderung erreicht. Doch auch die nächste Station will gefunden sein. Daher schaut euch das Kreuz genauer an und ihr entdeckt zwei Zahlen. Die letzten drei Ziffern der Jahrezahl merkt ihr euch in umgekehrter Reihenfolge für h (wenn die drei Ziffern =123 wären, dann wäre h=321). Die zweite Zahl ist i.
+
+Bei der nächsten Station wird es etwas schwieriger. Aufgepasst ist angesagt bei den Koordinaten N 50° a.(28 * i) E 009° (a+5).h
+S828098 - Stage 8: Stangen im Wald
+N/S  __ ° __ . ___ W/E ___ ° __ . ___ 
+An dieser Stelle trefft ihr auf eine Anordnung von Stangen. (ACHTUNG: Schaut auch in der Umgebung). Wieviele farbig gekennzeichnete Stangen findet ihr hier. (Der Pflock von K+S zählt nicht). Die Anzahl der Stangen ist j.
+
+Weiter geht es bei den Koordinaten N 50° a.(j + 3)0(j + 3) E 009° (a+6).(j – 1)5(j – 1)
+S928098 - Stage 9: Blick über Istergiesel
+N/S  __ ° __ . ___ W/E ___ ° __ . ___ 
+Ihr seht eine grüne Bank. Wenn ihr euch jetzt in Richtung des kleinen Dorfes Istergiesel wendet, fällt euch der Hochsitz und ein großer Silage-Turm auf. Bringt diese in eine Linie und ihr seht am gegenüberliegenden Waldrand links dieser gedachten Linie einen bestimmten Ort der Ruhe. Wandelt wie in Station 5 die Buchstaben der Bezeichnung in Zahlen um und addiert diese. Ihr erhaltet k.
+
+Suchen dürft ihr wieder bei den Koordinaten N 50° a.((7 * k) – 10) E 009° (a + 6).((10 * k) + 34)
+SA28098 - Stage 10: Schreib mal wieder
+N/S  __ ° __ . ___ W/E ___ ° __ . ___ 
+Hier findet ihr am Wegesrand eine Markierung einer sehr bekannten Institution, die durch ihre Signalfarbe bekannt ist. In der Nähe der Markierung findet ihr den nächsten Hinweis. Der dritte Teil K3 der Finalkoordinaten ist hier ebenfalls versteckt.
+SB28098 - Stage 11: Zum Schutz
+N/S  __ ° __ . ___ W/E ___ ° __ . ___ 
+Ihr kommt an ein Schild, das auf ein besonderes Gebiet hinweist. Wandelt die Bezeichnung des Gebietes nach althergebrachter Art in Zahlen um und addiert diese. Damit habt ihr K4 zur Ermittlung des Final.
+XX28098 - Final:
+N/S  __ ° __ . ___ W/E ___ ° __ . ___ 
+Den Final findet ihr bei 
+N 50°   K1. K3
+E 009° K2.(K4-87)
+</long-description>
+  <encoded-hints>Stage 3: Baum rechts
+Stage 6: Baum links
+Stage 8: Anzahl ist gerade
+Stage 10: gelb, Baum rechts
+Stage 11: 17 Buchstaben
+Final: Im Wurzelbereich</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=77ea8902-f906-4c60-add5-03e3d0a933eb</url>
+  <url-name>Wandertour im Heidelbeerland</url-name>
+  <logs><ul><li>2010-11-14T20:00:00Z : Found it by Helup <br />Mit dem MTB on Tour.Alle Stage gut gefunden,am Finale schnell fündig geworden!
+
+Gruß und Danke Team Helup</li><li>2010-10-10T19:00:00Z : Found it by Sa*Dine <br />Schöne Sonntagstour. Im Damenteam alle Stages gut gefunden.</li><li>2010-10-03T19:00:00Z : Found it by Herzl <br />Da heute super Wanderwetter war sind wir zu dieser doch etwas längeren Runde aufgebrochen und wurden nicht enttäuscht! Super Wege, lösbare Aufgaben, wunderschöner Wald und machmal ein wunderschöner Blick. Lediglich an Stage 6 musste ich etwas länger suchen, ansonsten alles gut gefunden. 
+Danke für diese tolle Wanderung!</li><li>2010-08-07T19:00:00Z : Found it by hotelzulu <br />Ich bin der Drive-In-Cacher, so fiel diese Weltumrundung total aus meinem Profil.......
+Es war aber auch eine tolle Tour durch die schöne Landschaft und zum Glück von Erfolg gekrönt.
+Im bewährten Team grüssen
+der Heinz mit Maskottchen</li><li>2010-08-07T19:00:00Z : Found it by Aldokyl <br />Was für ein Cache. 12 einzelne Dosen zum Loggen hätten uns natürlich viel besser gefallen. Aber so war es eine nachmittagsfüllende Angelegenheit, die wir bei bestem Wetter absolviert haben.
+Danke für die schöne Wanderung.</li></ul></logs>
+  <original-xml>  <wpt  lat="50.522833" lon="9.615717">
+    <time>2010-05-04T07:00:00Z</time>
+    <name>GC28098</name>
+    <desc>Wandertour im Heidelbeerland by Anonyme_Laeufer, Multi-cache (2/2.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=77ea8902-f906-4c60-add5-03e3d0a933eb</url>
+    <urlname>Wandertour im Heidelbeerland</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Multi-cache</type>
+    <groundspeak:cache id="1674537" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Wandertour im Heidelbeerland</groundspeak:name>
+      <groundspeak:placed_by>Anonyme_Laeufer</groundspeak:placed_by>
+      <groundspeak:owner id="1648570">Anonyme_Laeufer</groundspeak:owner>
+      <groundspeak:type>Multi-cache</groundspeak:type>
+      <groundspeak:container>Regular</groundspeak:container>
+      <groundspeak:difficulty>2</groundspeak:difficulty>
+      <groundspeak:terrain>2.5</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">Schöne Tageswanderung (12,9 km) im Gieseler und Neuhofer Forst mit 11 Stationen.</groundspeak:short_description>
+      <groundspeak:long_description html="False">Dieser Multi führt euch auf eine Wanderung durch den Gieseler und den Neuhofer Forst rund um das Dorf Istergiesel. Die Länge ist 12,9 km. Es sollte also eine Tageswanderung eingeplant werden. Alle Wege sind mit dem Fahrrad befahrbar, Autos müssen draussen bleiben.
+
+Dieser Multi wurde im Rahmen einer Wanderung des Deutschen Alpenvereins gelegt und wurde dort erstmals begangen.
+
+Startpunkt ist die Niederröder Höhe bei N50 31.389 E9 36.940. Hier ist der Parkplatz des dortigen Gasthof.
+
+Stage 1: An den Koordinaten findet ihr zwei Verkehrschilder. Auf jedem ist eine Zahl. Die größere steht für a und die kleinere für b.
+
+Die nächste Station findet ihr bei N 50° (a+b).4a  E 009° (a+b+5).(17 * a)
+
+Stage 2: Ihr erreicht einen Rastplatz. Schaut euch um und ihr entdeckt zwei Bäume und einen Stein mit Zahlen markiert. Merkt euch die die größere Zahl auf den Bäumen für c und auf dem Stein für d.
+
+Weiter geht es bei N 50° (a+b).(2,5 * c)   E 009° (a+b+4).(4,5 * d)
+
+Stage3: Wenn ihr richtig seid, findet ihr hier einen Hochsitz. Hier müsst ihr den nächsten Hinweis suchen. Schaut euch die Bäume genauer an. Hier findet ihr auch den ersten Koordinatenteil (K1) für den finalen Cache.
+
+Stage 4: Wenn ihr euch umschaut seht ihr einen Gedenkbaum. Zählt die Buchstaben. Die Anzahl ist e.
+
+Den nächsten Hinweis gibt es bei N 50° (a+b).0((4 * e) - 4)   E 009° (a+4).((17 * e) + 6)
+
+Stage 5: Hier findest ihr einen Stein mit einer Wegbezeichnung und einer Jahreszahl. Merkt euch die letzten drei Ziffern der Jahrszahl für f. Die Berufsbezeichnung, die im Namen des Weges enthalten ist, in Zahlen um (A=1, B=2 ,…., Z=26) umwandeln und addieren (Umlaute Ä=AE, Ü=UE, Ö=OE). Ihr erhaltet g.
+
+Den nächsten Hinweis dürft ihr bei den Koordinaten N 50° a.(f – 272) E 009° (a+4).((6 * g) – 12) suchen.
+
+Stage 6: Ihr erreicht eine Bank mit einem Blick auf das Heidelbeerdorf Giesel. Hier müsst ihr euch nach dem nächsten Hinweis suchen. Hier findest ihr auch Teil 2 der Koordinaten K2 für den finalen Cache.
+
+Stage 7: Ein Kreuz am Wegesrand lädt zum Rasten ein. Hier ist die Hälfte der Wanderung erreicht. Doch auch die nächste Station will gefunden sein. Daher schaut euch das Kreuz genauer an und ihr entdeckt zwei Zahlen. Die letzten drei Ziffern der Jahrezahl merkt ihr euch in umgekehrter Reihenfolge für h (wenn die drei Ziffern =123 wären, dann wäre h=321). Die zweite Zahl ist i.
+
+Bei der nächsten Station wird es etwas schwieriger. Aufgepasst ist angesagt bei den Koordinaten N 50° a.(28 * i)  E 009° (a+5).h
+
+Stage 8: An dieser Stelle trefft ihr auf eine Anordnung von Stangen. (ACHTUNG: Schaut auch in der Umgebung). Wieviele farbig gekennzeichnete Stangen findet ihr hier. (Der Pflock von K+S zählt nicht). Die Anzahl der Stangen ist j.
+
+Weiter geht es bei den Koordinaten N 50° a.(j + 3)0(j + 3)  E 009° (a+6).(j – 1)5(j – 1)
+
+Stage 9: Hier ist Orientierung gefragt. Ihr seht eine grüne Bank. Wenn ihr euch jetzt in Richtung des kleinen Dorfes Istergiesel wendet, fällt euch der Hochsitz und ein großer Silage-Turm auf. Bringt diese in eine Linie und ihr seht am gegenüberliegenden Waldrand links dieser gedachten Linie einen bestimmten Ort der Ruhe. Wandelt wie in Station 5 die Buchstaben der Bezeichnung in Zahlen um und addiert diese. Ihr erhaltet k.
+
+Suchen dürft ihr wieder bei den Koordinaten 	N 50° a.((7 * k) – 10) E 009° (a + 6).((10 * k) + 34)
+
+Stage 10: Hier findet ihr am Wegesrand eine Markierung einer sehr bekannten Institution, die durch ihre Signalfarbe bekannt ist. In der Nähe der Markierung findet ihr den nächsten Hinweis. Der dritte Teil K3 der Finalkoordinaten ist hier ebenfalls versteckt.
+
+Stage 11: Ihr kommt an ein Schild, das auf ein besonderes Gebiet hinweist. Wandelt die Bezeichnung des Gebietes nach althergebrachter Art in Zahlen um und addiert diese. Damit habt ihr K4 zur Ermittlung des Final.
+
+Final: Den Final findet ihr bei 
+
+N 50°     K1. K3
+E 009°   K2. (K4-87)
+
+Viel Spass beim Wandern.
+
+Additional Waypoints
+PK28098 - Parkplatz
+N 50° 31.389 E 009° 36.940
+
+S128098 - Stage 1: Niederröder Höhe
+N 50° 31.370 E 009° 36.943
+An den obigen Koordinaten findet ihr zwei Verkehrschilder. Auf jedem ist eine Zahl. Die größere steht für a und die kleinere für b.
+
+Die nächste Station findet ihr bei N 50° (a+b).4a E 009° (a+b+5).(17 * a)
+S228098 - Stage 2: Am Homerstrauch
+N/S  __ ° __ . ___ W/E ___ ° __ . ___ 
+Ihr erreicht einen Rastplatz. Schaut euch um und ihr entdeckt zwei Bäume und einen Stein mit Zahlen markiert. Merkt euch die die größere Zahl auf den Bäumen für c und auf dem Stein für d.
+
+Weiter geht es bei N 50° (a+b).(2,5 * c) E 009° (a+b+4).(4,5 * d)
+S328098 - Stage 3: Waidmann's Ruh
+N/S  __ ° __ . ___ W/E ___ ° __ . ___ 
+Wenn ihr richtig seid, findet ihr hier einen Hochsitz. Hier müsst ihr den nächsten Hinweis suchen. Schaut euch die Bäume genauer an. Hier findet ihr auch den ersten Koordinatenteil (K1) für den finalen Cache.
+S428098 - Stage 4: Ein Baum zum Gedenken
+N/S  __ ° __ . ___ W/E ___ ° __ . ___ 
+Wenn ihr euch umschaut seht ihr einen Gedenkbaum. Zählt die Buchstaben. Die Anzahl ist e.
+
+Den nächsten Hinweis gibt es bei N 50° (a+b).0((4 * e) - 4) E 009° (a+4).((17 * e) +6)
+S528098 - Stage 5: Ein Stein am Wegesrand
+N/S  __ ° __ . ___ W/E ___ ° __ . ___ 
+Hier findest ihr einen Stein mit einer Wegbezeichnung und einer Jahreszahl. Merkt euch die letzten drei Ziffern der Jahrszahl für f. Die Berufsbezeichnung, die im Namen des Weges enthalten ist, in Zahlen um (A=1, B=2 ,…., Z=26) umwandeln und addieren (Umlaute Ä=AE, Ü=UE, Ö=OE). Ihr erhaltet g.
+
+Den nächsten Hinweis dürft ihr bei den Koordinaten N 50° a.(f – 272) E 009° (a+4).((6 * g) – 12) suchen.
+S628098 - Stage 6: Blick auf's Heidelbeerdorf
+N/S  __ ° __ . ___ W/E ___ ° __ . ___ 
+Ihr erreicht eine Bank mit einem Blick auf das Heidelbeerdorf Giesel. Hier müsst ihr euch nach dem nächsten Hinweis suchen. Hier findest ihr auch Teil 2 der Koordinaten K2 für den finalen Cache.
+S728098 - Stage 7: Ein Kreuz am Wegesrand
+N/S  __ ° __ . ___ W/E ___ ° __ . ___ 
+Ein Kreuz am Wegesrand lädt zum Rasten ein. Hier ist die Hälfte der Wanderung erreicht. Doch auch die nächste Station will gefunden sein. Daher schaut euch das Kreuz genauer an und ihr entdeckt zwei Zahlen. Die letzten drei Ziffern der Jahrezahl merkt ihr euch in umgekehrter Reihenfolge für h (wenn die drei Ziffern =123 wären, dann wäre h=321). Die zweite Zahl ist i.
+
+Bei der nächsten Station wird es etwas schwieriger. Aufgepasst ist angesagt bei den Koordinaten N 50° a.(28 * i) E 009° (a+5).h
+S828098 - Stage 8: Stangen im Wald
+N/S  __ ° __ . ___ W/E ___ ° __ . ___ 
+An dieser Stelle trefft ihr auf eine Anordnung von Stangen. (ACHTUNG: Schaut auch in der Umgebung). Wieviele farbig gekennzeichnete Stangen findet ihr hier. (Der Pflock von K+S zählt nicht). Die Anzahl der Stangen ist j.
+
+Weiter geht es bei den Koordinaten N 50° a.(j + 3)0(j + 3) E 009° (a+6).(j – 1)5(j – 1)
+S928098 - Stage 9: Blick über Istergiesel
+N/S  __ ° __ . ___ W/E ___ ° __ . ___ 
+Ihr seht eine grüne Bank. Wenn ihr euch jetzt in Richtung des kleinen Dorfes Istergiesel wendet, fällt euch der Hochsitz und ein großer Silage-Turm auf. Bringt diese in eine Linie und ihr seht am gegenüberliegenden Waldrand links dieser gedachten Linie einen bestimmten Ort der Ruhe. Wandelt wie in Station 5 die Buchstaben der Bezeichnung in Zahlen um und addiert diese. Ihr erhaltet k.
+
+Suchen dürft ihr wieder bei den Koordinaten N 50° a.((7 * k) – 10) E 009° (a + 6).((10 * k) + 34)
+SA28098 - Stage 10: Schreib mal wieder
+N/S  __ ° __ . ___ W/E ___ ° __ . ___ 
+Hier findet ihr am Wegesrand eine Markierung einer sehr bekannten Institution, die durch ihre Signalfarbe bekannt ist. In der Nähe der Markierung findet ihr den nächsten Hinweis. Der dritte Teil K3 der Finalkoordinaten ist hier ebenfalls versteckt.
+SB28098 - Stage 11: Zum Schutz
+N/S  __ ° __ . ___ W/E ___ ° __ . ___ 
+Ihr kommt an ein Schild, das auf ein besonderes Gebiet hinweist. Wandelt die Bezeichnung des Gebietes nach althergebrachter Art in Zahlen um und addiert diese. Damit habt ihr K4 zur Ermittlung des Final.
+XX28098 - Final:
+N/S  __ ° __ . ___ W/E ___ ° __ . ___ 
+Den Final findet ihr bei 
+N 50°   K1. K3
+E 009° K2.(K4-87)
+</groundspeak:long_description>
+      <groundspeak:encoded_hints>Stage 3: Baum rechts
+Stage 6: Baum links
+Stage 8: Anzahl ist gerade
+Stage 10: gelb, Baum rechts
+Stage 11: 17 Buchstaben
+Final: Im Wurzelbereich</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="135753223">
+          <groundspeak:date>2010-11-14T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2254555">Helup</groundspeak:finder>
+          <groundspeak:text encoded="False">Mit dem MTB on Tour.Alle Stage gut gefunden,am Finale schnell fündig geworden!
+
+Gruß und Danke Team Helup</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="130577983">
+          <groundspeak:date>2010-10-10T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2904942">Sa*Dine</groundspeak:finder>
+          <groundspeak:text encoded="False">Schöne Sonntagstour. Im Damenteam alle Stages gut gefunden.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="129605942">
+          <groundspeak:date>2010-10-03T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1970181">Herzl</groundspeak:finder>
+          <groundspeak:text encoded="False">Da heute super Wanderwetter war sind wir zu dieser doch etwas längeren Runde aufgebrochen und wurden nicht enttäuscht! Super Wege, lösbare Aufgaben, wunderschöner Wald und machmal ein wunderschöner Blick. Lediglich an Stage 6 musste ich etwas länger suchen, ansonsten alles gut gefunden. 
+Danke für diese tolle Wanderung!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="120622681">
+          <groundspeak:date>2010-08-07T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="586326">hotelzulu</groundspeak:finder>
+          <groundspeak:text encoded="False">Ich bin der Drive-In-Cacher, so fiel diese Weltumrundung total aus meinem Profil.......
+Es war aber auch eine tolle Tour durch die schöne Landschaft und zum Glück von Erfolg gekrönt.
+Im bewährten Team grüssen
+der Heinz mit Maskottchen</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="120612579">
+          <groundspeak:date>2010-08-07T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="438973">Aldokyl</groundspeak:finder>
+          <groundspeak:text encoded="False">Was für ein Cache. 12 einzelne Dosen zum Loggen hätten uns natürlich viel besser gefallen. Aber so war es eine nachmittagsfüllende Angelegenheit, die wir bei bestem Wetter absolviert haben.
+Danke für die schöne Wanderung.</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

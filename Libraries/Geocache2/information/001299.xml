@@ -1,0 +1,140 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>001299</id>
+  <cache-id>GC27FAP</cache-id>
+  <type>Traditional Cache</type>
+  <name>Phoenix Park - Castleknock Gate by Lahtac, Traditional Cache (1/1.5)</name>
+  <size>Micro</size>
+  <difficulty>1</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-05-15</last-found>
+  <placed>2010-04-25</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>Lahtac</placedby>
+  <found>Geocache</found>
+  <lat>53.36965</lat>
+  <lon>-6.346617</lon>
+  <last-logs>FFFFX</last-logs>
+  <owner>Lahtac</owner>
+  <description>Dublin&rsquo;s Phoenix Park is a treasure with more than 1700 acres
+of walled parkland just 3km from the centre of the city.
+<p>At 707 hectares (1752 acres) is one of the largest enclosed
+recreational spaces within any European capital city.</p></description>
+  <long-description><center><img src=
+"http://img.geocaching.com/cache/bfd1c04a-d069-4f8d-92b5-6d95bc3d0b77.jpg" /></center>
+<p>Few cities have such a facility on their doorsteps &ndash; it is
+more than twice as large as Central Park in New York.</p>
+<p>The park was for centuries the property of the King&rsquo;s
+representatives in Ireland, used as a Royal hunting park &ndash;
+which is why it was enclosed by a wall, to keep the game in.</p>
+<p>However it was opened to the public in 1747 and so for more than
+250 years has been a favourite playground for generations of
+Dubliners.</p>
+<p>The Park is also home to the Zoological Gardens and Aras an
+Uachtarain and Victorian flower gardens. The Phoenix Park is only
+1.5 miles from O'Connell Street. Both passive and active
+recreational pursuits may be viewed or pursued such as walking,
+running, polo, cricket, hurling, etc. The Glen Pond is set in very
+scenic surrounds in the Furry Glen. There are many walks and cycle
+routes available to the public.</p>
+<p>The park is open all year round, there is no admission charge
+and visitors can explore freely.</p>
+<center><img src=
+"http://img.geocaching.com/cache/61016556-ebae-41d8-92b2-c89c4b6e5808.jpg" /></center>
+<p>Bus Route(s): No's 10, 37, 38, 39, 66, 67 from city centre.</p>
+<p>The cache is located on a trek adjacent to the gate
+keeper&rsquo;s lodge.</p>
+<p>Parking is freely available at N53.22.166 W06.20.885</p></long-description>
+  <encoded-hints>Get Stumped</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=835677ee-e16c-4e8f-aa49-83787e782496</url>
+  <url-name>Phoenix Park - Castleknock Gate</url-name>
+  <logs><ul><li>2010-06-15T19:00:00Z : Found it by nisse_perlemo <br />Found after some searching among creepy crawlies and nettles. Well hidden.
+TFTC!</li><li>2010-06-06T19:00:00Z : Found it by poohbear50 <br />See GC284RJ Phoenix Park Ashdown lodge for our comments for this series. TFTC Log full</li><li>2010-06-06T19:00:00Z : Found it by Wild Rover <br />See GC248RJ Phoenix Park Ashdown lodge for our comments and story for this Phoenix Park series. TFTC</li><li>2010-06-02T19:00:00Z : Found it by rooske <br />handy find on a lovley walk in the park</li><li>2010-05-15T19:00:00Z : Didn't find it by garrethmolloy <br />Must have missed it, see someone else found it same day so may have been absent for a little while, will try again.</li></ul></logs>
+  <original-xml>  <wpt  lat="53.36965" lon="-6.346617">
+    <time>2010-04-25T07:00:00Z</time>
+    <name>GC27FAP</name>
+    <desc>Phoenix Park - Castleknock Gate by Lahtac, Traditional Cache (1/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=835677ee-e16c-4e8f-aa49-83787e782496</url>
+    <urlname>Phoenix Park - Castleknock Gate</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1659206" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Phoenix Park - Castleknock Gate</groundspeak:name>
+      <groundspeak:placed_by>Lahtac</groundspeak:placed_by>
+      <groundspeak:owner id="2847528">Lahtac</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>Dublin</groundspeak:state>
+      <groundspeak:short_description html="True">Dublin&amp;rsquo;s Phoenix Park is a treasure with more than 1700 acres
+of walled parkland just 3km from the centre of the city.
+&lt;p&gt;At 707 hectares (1752 acres) is one of the largest enclosed
+recreational spaces within any European capital city.&lt;/p&gt;</groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;center&gt;&lt;img src=
+"http://img.geocaching.com/cache/bfd1c04a-d069-4f8d-92b5-6d95bc3d0b77.jpg" /&gt;&lt;/center&gt;
+&lt;p&gt;Few cities have such a facility on their doorsteps &amp;ndash; it is
+more than twice as large as Central Park in New York.&lt;/p&gt;
+&lt;p&gt;The park was for centuries the property of the King&amp;rsquo;s
+representatives in Ireland, used as a Royal hunting park &amp;ndash;
+which is why it was enclosed by a wall, to keep the game in.&lt;/p&gt;
+&lt;p&gt;However it was opened to the public in 1747 and so for more than
+250 years has been a favourite playground for generations of
+Dubliners.&lt;/p&gt;
+&lt;p&gt;The Park is also home to the Zoological Gardens and Aras an
+Uachtarain and Victorian flower gardens. The Phoenix Park is only
+1.5 miles from O'Connell Street. Both passive and active
+recreational pursuits may be viewed or pursued such as walking,
+running, polo, cricket, hurling, etc. The Glen Pond is set in very
+scenic surrounds in the Furry Glen. There are many walks and cycle
+routes available to the public.&lt;/p&gt;
+&lt;p&gt;The park is open all year round, there is no admission charge
+and visitors can explore freely.&lt;/p&gt;
+&lt;center&gt;&lt;img src=
+"http://img.geocaching.com/cache/61016556-ebae-41d8-92b2-c89c4b6e5808.jpg" /&gt;&lt;/center&gt;
+&lt;p&gt;Bus Route(s): No's 10, 37, 38, 39, 66, 67 from city centre.&lt;/p&gt;
+&lt;p&gt;The cache is located on a trek adjacent to the gate
+keeper&amp;rsquo;s lodge.&lt;/p&gt;
+&lt;p&gt;Parking is freely available at N53.22.166 W06.20.885&lt;/p&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>Get Stumped</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="113024053">
+          <groundspeak:date>2010-06-15T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2334345">nisse_perlemo</groundspeak:finder>
+          <groundspeak:text encoded="False">Found after some searching among creepy crawlies and nettles. Well hidden.
+TFTC!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="111890051">
+          <groundspeak:date>2010-06-06T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="46645">poohbear50</groundspeak:finder>
+          <groundspeak:text encoded="False">See GC284RJ Phoenix Park Ashdown lodge for our comments for this series. TFTC Log full</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="111881880">
+          <groundspeak:date>2010-06-06T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="32570">Wild Rover</groundspeak:finder>
+          <groundspeak:text encoded="False">See GC248RJ Phoenix Park Ashdown lodge for our comments and story for this Phoenix Park series. TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="111727027">
+          <groundspeak:date>2010-06-02T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1786087">rooske</groundspeak:finder>
+          <groundspeak:text encoded="False">handy find on a lovley walk in the park</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="112157794">
+          <groundspeak:date>2010-05-15T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Didn't find it</groundspeak:type>
+          <groundspeak:finder id="3265584">garrethmolloy</groundspeak:finder>
+          <groundspeak:text encoded="False">Must have missed it, see someone else found it same day so may have been absent for a little while, will try again.</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

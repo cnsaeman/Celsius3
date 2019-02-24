@@ -1,0 +1,140 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>002408</id>
+  <cache-id>GC27C2G</cache-id>
+  <type>Traditional Cache</type>
+  <name>Phoenix Park - White's Gate by Lahtac, Traditional Cache (1/1.5)</name>
+  <size>Other</size>
+  <difficulty>1</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-06-02</last-found>
+  <placed>2010-04-25</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>Lahtac</placedby>
+  <found>Geocache</found>
+  <lat>53.366983</lat>
+  <lon>-6.3508</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>Lahtac</owner>
+  <description>Dublin&rsquo;s Phoenix Park is a treasure with more than 1700 acres
+of walled parkland just 3km from the centre of the city.
+<p>At 707 hectares (1752 acres) is one of the largest enclosed
+recreational spaces within any European capital city.<br /></p></description>
+  <long-description><center><img src=
+"http://img.geocaching.com/cache/ca003062-b3dd-46a0-8dc5-fcfc855f6d84.jpg" /></center>
+<p>Few cities have such a facility on their doorsteps &ndash; it is
+more than twice as large as Central Park in New York.</p>
+<p>The park was for centuries the property of the King&rsquo;s
+representatives in Ireland, used as a Royal hunting park &ndash;
+which is why it was enclosed by a wall, to keep the game in.</p>
+<p>However it was opened to the public in 1747 and so for more than
+250 years has been a favourite playground for generations of
+Dubliners.</p>
+<p>The park is open all year round, there is no admission charge
+and visitors can explore freely.</p>
+<p>The nearest gate to the cache location is pedestrian only access
+point beside Farmleigh which is an estate of 78 acres situated to
+the north-west of the park.</p>
+<p>However the cache location is accessible from any entrance point
+to the park.</p>
+<center><img src=
+"http://img.geocaching.com/cache/70876cfe-c541-42fe-b5f9-ca12469b361f.jpg" /></center>
+<p>The cache is located on a trek adjacent to the gate
+keeper&rsquo;s lodge.</p>
+<p>Parking is freely available on Whites Road leading up to the
+gate. N53.21.992 W06.21.180 and on Chesterfield Avenue at
+N53.22.166 W06.20.885 where the final location is a pleasent walk
+away off road on a flat treelined track</p></long-description>
+  <additional-waypoints>CR27C2G - Parking Location 1<br />N 53° 21.992 W 006° 21.180<br />This is the nearest parking location on Whites Road to the final destination. The cache is just off road on a flat track.<br />PK27C2G - Parking Location 2<br />N 53° 22.166 W 006° 20.885<br />Parking is available at this location at the side of the road. The final location is just a pleasent walk along a treelined track.<br /></additional-waypoints>
+  <links>waypoints:cache-id:CR27C2G|waypoints:cache-id:PK27C2G</links>
+  <encoded-hints>Under Big Limb</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=2d8b783a-5d91-4d98-bfbf-a274da25f0ad</url>
+  <url-name>Phoenix Park - White's Gate</url-name>
+  <logs><ul><li>2010-06-06T19:00:00Z : Found it by poohbear50 <br />See GC284RJ Phoenix Park Ashdown lodge for our comments for this series. TFTC</li><li>2010-06-06T19:00:00Z : Found it by Wild Rover <br />See GC248RJ Phoenix Park Ashdown lodge for our comments and story for this Phoenix Park series. TFTC</li><li>2010-06-05T19:00:00Z : Found it by daraconn <br />4th of our walk around the park. This part of the park is new to me, and I didn't really know about this gate. Thanks!</li><li>2010-06-02T19:00:00Z : Found it by rooske <br />Nice container </li><li>2010-06-02T19:00:00Z : Found it by THE O CONNOR CREW <br />found it while walking the dog. Great cache,first one i've found like that.</li></ul></logs>
+  <original-xml>  <wpt  lat="53.366983" lon="-6.3508">
+    <time>2010-04-25T07:00:00Z</time>
+    <name>GC27C2G</name>
+    <desc>Phoenix Park - White's Gate by Lahtac, Traditional Cache (1/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=2d8b783a-5d91-4d98-bfbf-a274da25f0ad</url>
+    <urlname>Phoenix Park - White's Gate</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1656069" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Phoenix Park - White's Gate</groundspeak:name>
+      <groundspeak:placed_by>Lahtac</groundspeak:placed_by>
+      <groundspeak:owner id="2847528">Lahtac</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Other</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>Dublin</groundspeak:state>
+      <groundspeak:short_description html="True">Dublin&amp;rsquo;s Phoenix Park is a treasure with more than 1700 acres
+of walled parkland just 3km from the centre of the city.
+&lt;p&gt;At 707 hectares (1752 acres) is one of the largest enclosed
+recreational spaces within any European capital city.&lt;br /&gt;&lt;/p&gt;</groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;center&gt;&lt;img src=
+"http://img.geocaching.com/cache/ca003062-b3dd-46a0-8dc5-fcfc855f6d84.jpg" /&gt;&lt;/center&gt;
+&lt;p&gt;Few cities have such a facility on their doorsteps &amp;ndash; it is
+more than twice as large as Central Park in New York.&lt;/p&gt;
+&lt;p&gt;The park was for centuries the property of the King&amp;rsquo;s
+representatives in Ireland, used as a Royal hunting park &amp;ndash;
+which is why it was enclosed by a wall, to keep the game in.&lt;/p&gt;
+&lt;p&gt;However it was opened to the public in 1747 and so for more than
+250 years has been a favourite playground for generations of
+Dubliners.&lt;/p&gt;
+&lt;p&gt;The park is open all year round, there is no admission charge
+and visitors can explore freely.&lt;/p&gt;
+&lt;p&gt;The nearest gate to the cache location is pedestrian only access
+point beside Farmleigh which is an estate of 78 acres situated to
+the north-west of the park.&lt;/p&gt;
+&lt;p&gt;However the cache location is accessible from any entrance point
+to the park.&lt;/p&gt;
+&lt;center&gt;&lt;img src=
+"http://img.geocaching.com/cache/70876cfe-c541-42fe-b5f9-ca12469b361f.jpg" /&gt;&lt;/center&gt;
+&lt;p&gt;The cache is located on a trek adjacent to the gate
+keeper&amp;rsquo;s lodge.&lt;/p&gt;
+&lt;p&gt;Parking is freely available on Whites Road leading up to the
+gate. N53.21.992 W06.21.180 and on Chesterfield Avenue at
+N53.22.166 W06.20.885 where the final location is a pleasent walk
+away off road on a flat treelined track&lt;/p&gt;&lt;p&gt;Additional Waypoints&lt;/p&gt;CR27C2G - Parking Location 1&lt;br /&gt;N 53° 21.992 W 006° 21.180&lt;br /&gt;This is the nearest parking location on Whites Road to the final destination. The cache is just off road on a flat track.&lt;br /&gt;PK27C2G - Parking Location 2&lt;br /&gt;N 53° 22.166 W 006° 20.885&lt;br /&gt;Parking is available at this location at the side of the road. The final location is just a pleasent walk along a treelined track.&lt;br /&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>Under Big Limb</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="111889865">
+          <groundspeak:date>2010-06-06T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="46645">poohbear50</groundspeak:finder>
+          <groundspeak:text encoded="False">See GC284RJ Phoenix Park Ashdown lodge for our comments for this series. TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="111881785">
+          <groundspeak:date>2010-06-06T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="32570">Wild Rover</groundspeak:finder>
+          <groundspeak:text encoded="False">See GC248RJ Phoenix Park Ashdown lodge for our comments and story for this Phoenix Park series. TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="111644207">
+          <groundspeak:date>2010-06-05T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="591662">daraconn</groundspeak:finder>
+          <groundspeak:text encoded="False">4th of our walk around the park. This part of the park is new to me, and I didn't really know about this gate. Thanks!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="111727286">
+          <groundspeak:date>2010-06-02T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1786087">rooske</groundspeak:finder>
+          <groundspeak:text encoded="False">Nice container </groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="111217516">
+          <groundspeak:date>2010-06-02T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2097812">THE O CONNOR CREW</groundspeak:finder>
+          <groundspeak:text encoded="False">found it while walking the dog. Great cache,first one i've found like that.</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

@@ -1,0 +1,234 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>009895</id>
+  <cache-id>GC19CFQ</cache-id>
+  <type>Traditional Cache</type>
+  <name>Starry Starry Night by Kersti.com, Traditional Cache (3/1)</name>
+  <size>Not chosen</size>
+  <difficulty>3</difficulty>
+  <terrain>1</terrain>
+  <last-found>2008-03-20</last-found>
+  <placed>2008-02-16</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>Kersti.com</placedby>
+  <found>Geocache</found>
+  <lat>53.349067</lat>
+  <lon>-6.254617</lon>
+  <last-logs>FFFFEDWWMWMEDW</last-logs>
+  <owner>Kersti.com</owner>
+  <description>Dublin inner city nano.</description>
+  <long-description><b>Background:</b><br />
+James Connolly, who gives his name to one of Dublin´s major train
+stations, was born on June 5, 1868, Edinburgh and died by firing
+squad May 12, 1916 in Dublin. <br />
+<br />
+ Connolly was the first major Marxist union leader in Ireland and
+was decisive in bringing about the Easter Rising (April 24–29,
+1916) in Dublin against British rule. In 1896, soon after his
+arrival in Dublin, Connolly helped found the Irish Socialist
+Republican Party. <br />
+<br />
+<b>The Cache:</b><br />
+The cache is a magnetic nano. Please bring your own pen for signing
+the log and replace in the same location. Please note that this is
+a VERY busy area so stealth is required.<br />
+<br />
+<b>A Note:</b><br />
+There is a *massive* iron bridge right next to the cache location
+which may (or may not) interfere with your GPS. The name should
+help you no matter how far off your reading and if you still can't
+find it go with the clue. <br />
+<b>Update July 2009:</b><br />
+I've increased the difficulty as this one sees a lot of DNFs
+followed by finds. It's *really* small. <b>Update Sept
+2009:</b><br />
+Many many thanks to anacreon for helping with the latest round of
+maintenance on this one</long-description>
+  <encoded-hints>Railing behind the monument, loose shoe laces won't help</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=fb6b5223-7f86-45a3-9589-951100e6789c</url>
+  <url-name>Starry Starry Night</url-name>
+  <logs><ul><li>2010-06-14T19:00:00Z : Found it by scheff <br />Together with sina1507 we started our holiday in Dublin today with geocaching.
+TFTC scheff from Germany</li><li>2010-06-14T19:00:00Z : Found it by sina1507 <br />Together with scheff we started our holiday in Dublin today with geocaching.
+TFTC sina1507 from Germany
+
+The logbook needs to be changed. It is completely wet!</li><li>2010-06-14T18:14:19Z : Needs Maintenance by sina1507 <br />The logbook is completely wet!</li><li>2010-06-01T19:00:00Z : Found it by eve1987 <br />Quick find and our first in Dublin-City [:)]
+
+TFTC and kind regards from Austria, eve </li><li>2010-05-25T19:00:00Z : Found it by tmob <br />#2399
+
+We looked for this cache during our holidays in Ireland.
+Six fantastic days, 1800kms driven, and a bunch of caches found.
+Definitely a great way to get to know this beautiful island!
+
+The hint was very useful, the gps were pointing a place at 20m.
+Even so, i didn't understand why the cache is only accessible by the parking lot... would it make a difference to moved one or two meters so people could reach it from the outside?
+
+Thanks for this one...
+Greetings from Portugal
+
+
+</li><li>2009-09-22T16:13:33Z : Enable Listing by Kersti.com <br />Many thanks to anacreon who has helped get this one back out there</li><li>2009-07-11T23:37:07Z : Temporarily Disable Listing by Kersti.com <br />Will check this out shortly - may have been washed away in the recent storms.</li><li>2009-03-15T19:00:00Z : Write note by Kersti.com <br />While the cache is still there to be found the log is full. I'm hoping to sort it out in the next couple of weeks</li><li>2009-03-06T20:00:00Z : Write note by Kersti.com <br />The log book needs changing, hoping to get there in the next few days.</li><li>2008-10-11T19:00:00Z : Owner Maintenance by Kersti.com <br />New log book now available</li><li>2008-10-06T19:00:00Z : Write note by Kersti.com <br />I'm hoping to get to this one during this week to perform some maintenance.</li><li>2008-07-13T19:00:00Z : Owner Maintenance by Kersti.com <br />Finally got a chance today to replace the logbook. Also gave it a little more of an anchor. Please be sure to replace exactly where found.</li><li>2008-04-01T15:05:24Z : Enable Listing by Kersti.com <br />Back... hoping this is a little more storm-proof. No change to details.</li><li>2008-03-27T14:26:58Z : Temporarily Disable Listing by Kersti.com <br />Will get this one back up and running ASAP</li><li>2008-03-20T19:00:00Z : Write note by Kersti.com <br />Will check out when I return from Easter holidays. </li></ul></logs>
+  <original-xml>  <wpt  lat="53.349067" lon="-6.254617">
+    <time>2008-02-16T08:00:00Z</time>
+    <name>GC19CFQ</name>
+    <desc>Starry Starry Night by Kersti.com, Traditional Cache (3/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=fb6b5223-7f86-45a3-9589-951100e6789c</url>
+    <urlname>Starry Starry Night</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="792540" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Starry Starry Night</groundspeak:name>
+      <groundspeak:placed_by>Kersti.com</groundspeak:placed_by>
+      <groundspeak:owner id="320206">Kersti.com</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Not chosen</groundspeak:container>
+      <groundspeak:difficulty>3</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>Dublin</groundspeak:state>
+      <groundspeak:short_description html="True">Dublin inner city nano.</groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;b&gt;Background:&lt;/b&gt;&lt;br /&gt;
+James Connolly, who gives his name to one of Dublin´s major train
+stations, was born on June 5, 1868, Edinburgh and died by firing
+squad May 12, 1916 in Dublin. &lt;br /&gt;
+&lt;br /&gt;
+ Connolly was the first major Marxist union leader in Ireland and
+was decisive in bringing about the Easter Rising (April 24–29,
+1916) in Dublin against British rule. In 1896, soon after his
+arrival in Dublin, Connolly helped found the Irish Socialist
+Republican Party. &lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;The Cache:&lt;/b&gt;&lt;br /&gt;
+The cache is a magnetic nano. Please bring your own pen for signing
+the log and replace in the same location. Please note that this is
+a VERY busy area so stealth is required.&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;A Note:&lt;/b&gt;&lt;br /&gt;
+There is a *massive* iron bridge right next to the cache location
+which may (or may not) interfere with your GPS. The name should
+help you no matter how far off your reading and if you still can't
+find it go with the clue. &lt;br /&gt;
+&lt;b&gt;Update July 2009:&lt;/b&gt;&lt;br /&gt;
+I've increased the difficulty as this one sees a lot of DNFs
+followed by finds. It's *really* small. &lt;b&gt;Update Sept
+2009:&lt;/b&gt;&lt;br /&gt;
+Many many thanks to anacreon for helping with the latest round of
+maintenance on this one</groundspeak:long_description>
+      <groundspeak:encoded_hints>Railing behind the monument, loose shoe laces won't help</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="112896451">
+          <groundspeak:date>2010-06-14T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="374472">scheff</groundspeak:finder>
+          <groundspeak:text encoded="False">Together with sina1507 we started our holiday in Dublin today with geocaching.
+TFTC scheff from Germany</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="112895392">
+          <groundspeak:date>2010-06-14T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2183349">sina1507</groundspeak:finder>
+          <groundspeak:text encoded="False">Together with scheff we started our holiday in Dublin today with geocaching.
+TFTC sina1507 from Germany
+
+The logbook needs to be changed. It is completely wet!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="112895487">
+          <groundspeak:date>2010-06-14T18:14:19Z</groundspeak:date>
+          <groundspeak:type>Needs Maintenance</groundspeak:type>
+          <groundspeak:finder id="2183349">sina1507</groundspeak:finder>
+          <groundspeak:text encoded="False">The logbook is completely wet!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="111863030">
+          <groundspeak:date>2010-06-01T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1617792">eve1987</groundspeak:finder>
+          <groundspeak:text encoded="False">Quick find and our first in Dublin-City [:)]
+
+TFTC and kind regards from Austria, eve </groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="111477234">
+          <groundspeak:date>2010-05-25T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="868022">tmob</groundspeak:finder>
+          <groundspeak:text encoded="False">#2399
+
+We looked for this cache during our holidays in Ireland.
+Six fantastic days, 1800kms driven, and a bunch of caches found.
+Definitely a great way to get to know this beautiful island!
+
+The hint was very useful, the gps were pointing a place at 20m.
+Even so, i didn't understand why the cache is only accessible by the parking lot... would it make a difference to moved one or two meters so people could reach it from the outside?
+
+Thanks for this one...
+Greetings from Portugal
+
+
+</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="85197065">
+          <groundspeak:date>2009-09-22T16:13:33Z</groundspeak:date>
+          <groundspeak:type>Enable Listing</groundspeak:type>
+          <groundspeak:finder id="320206">Kersti.com</groundspeak:finder>
+          <groundspeak:text encoded="False">Many thanks to anacreon who has helped get this one back out there</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="76774288">
+          <groundspeak:date>2009-07-11T23:37:07Z</groundspeak:date>
+          <groundspeak:type>Temporarily Disable Listing</groundspeak:type>
+          <groundspeak:finder id="320206">Kersti.com</groundspeak:finder>
+          <groundspeak:text encoded="False">Will check this out shortly - may have been washed away in the recent storms.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="64814207">
+          <groundspeak:date>2009-03-15T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Write note</groundspeak:type>
+          <groundspeak:finder id="320206">Kersti.com</groundspeak:finder>
+          <groundspeak:text encoded="False">While the cache is still there to be found the log is full. I'm hoping to sort it out in the next couple of weeks</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="63945146">
+          <groundspeak:date>2009-03-06T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Write note</groundspeak:type>
+          <groundspeak:finder id="320206">Kersti.com</groundspeak:finder>
+          <groundspeak:text encoded="False">The log book needs changing, hoping to get there in the next few days.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="54843934">
+          <groundspeak:date>2008-10-11T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Owner Maintenance</groundspeak:type>
+          <groundspeak:finder id="320206">Kersti.com</groundspeak:finder>
+          <groundspeak:text encoded="False">New log book now available</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="54526480">
+          <groundspeak:date>2008-10-06T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Write note</groundspeak:type>
+          <groundspeak:finder id="320206">Kersti.com</groundspeak:finder>
+          <groundspeak:text encoded="False">I'm hoping to get to this one during this week to perform some maintenance.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="48351044">
+          <groundspeak:date>2008-07-13T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Owner Maintenance</groundspeak:type>
+          <groundspeak:finder id="320206">Kersti.com</groundspeak:finder>
+          <groundspeak:text encoded="False">Finally got a chance today to replace the logbook. Also gave it a little more of an anchor. Please be sure to replace exactly where found.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="41666831">
+          <groundspeak:date>2008-04-01T15:05:24Z</groundspeak:date>
+          <groundspeak:type>Enable Listing</groundspeak:type>
+          <groundspeak:finder id="320206">Kersti.com</groundspeak:finder>
+          <groundspeak:text encoded="False">Back... hoping this is a little more storm-proof. No change to details.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="41291374">
+          <groundspeak:date>2008-03-27T14:26:58Z</groundspeak:date>
+          <groundspeak:type>Temporarily Disable Listing</groundspeak:type>
+          <groundspeak:finder id="320206">Kersti.com</groundspeak:finder>
+          <groundspeak:text encoded="False">Will get this one back up and running ASAP</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="40805891">
+          <groundspeak:date>2008-03-20T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Write note</groundspeak:type>
+          <groundspeak:finder id="320206">Kersti.com</groundspeak:finder>
+          <groundspeak:text encoded="False">Will check out when I return from Easter holidays. </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

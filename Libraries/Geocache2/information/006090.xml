@@ -1,0 +1,322 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>006090</id>
+  <cache-id>GCYBHE</cache-id>
+  <type>Unknown Cache</type>
+  <name>Paddie's Goat by Windsockers, Unknown Cache (5/5)</name>
+  <size>Other</size>
+  <difficulty>5</difficulty>
+  <terrain>5</terrain>
+  <last-found>never</last-found>
+  <placed>2007-09-18</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>Windsockers</placedby>
+  <found>Geocache</found>
+  <lat>53.57845</lat>
+  <lon>-6.106433</lon>
+  <last-logs>WXWWW</last-logs>
+  <owner>Windsockers</owner>
+  <description><center>
+<img src="http://www.northbeach.ie/gallery/albums/userpics/10001/goat.jpg" />
+</center></description>
+  <long-description><p>When St. Patrick was expelled from Wicklow by the pagan natives
+he sailed northwards and landed on a small island off Skerries,
+which is now known as St. Patrick's Island in his honour. When the
+saint arrived on this island he had with him a goat, which was his
+companion and source of milk. .</p>
+<p>From this island St. Patrick came to the mainland to convert the
+local people. While St. Patrick was ashore on one of these visits
+some people from Skerries went out to the island and stole his
+goat. They killed the goat, cooked it and feasted on it. When St,
+Patrick went to the island he found his goat missing. This made him
+very angry and in two giant strides he reached the mainland. The
+first step took him to the back of Colt Island and the second to
+Red Island, where he confronted the people of Skerries.</p>
+<p>When they tried to deny interfering with his goat they found
+they could only bleat. When they were prepared to tell the saint
+the truth their voices returned.</p>
+<p>Where St. Patrick stepped onto Red island his footprint is to be
+seen in the rock to this day.</p>
+<center>
+<img src="http://www.northbeach.ie/gallery/albums/userpics/10001/footprnt.jpg" />
+</center>
+Since then the nickname Skerries Goats is given to the people of
+the town to remind them of this deed .<br />
+<br />
+ 
+<p>St. Patrick's footprint can be seen on the rocks near the
+Springboards, the tidal bathing place on Red Island.</p>
+<p>There is supposed to be another impression of the saint's foot
+on the rocks at the rear of Colt Island, where he took his first
+giant stride on his way to the mainland.</p>
+<p><b>Getting there</b></p>
+<p>If you want to visit this cache using public transport, the bus
+route to take from Dublin City centre is the No. 33 which will drop
+you off at Skerries,Alternatively, you can take the 41 from Dublin
+City Centre to Swords, and then take the 33A<br />
+ (which from Swords on follows the same route as the 33).</p>
+<p><b>The Cache</b></p>
+<p><font color="green">In order to claim this cache you will need
+to do the following :</font></p>
+<p><b><font color="red">You will need to bring a camera to take a
+photo of you and your Gps at the Second location in order to claim
+a find for this cache.<br />
+Logs without photo's will not be deleted due to the recent changes
+from groundspeak.however a photo will prove you didn't take any
+short cuts to your caching peers :-)</font></b></p>
+<p>In order to find the coordinates for each location you will
+first need to brush up on your calculus: we have constructed three
+equations for you and for each stage we will ask you to solve a
+standard problem related to these equations to get the next
+coordinates. We have also provided a plot for each equation, but
+these are there only to illustrate the problem that needs to be
+solved.</p>
+<p><b>1.</b> At the First location you will need to find Paddies
+Goat and take note of the date inscribed on it, call this date
+<b>ABCD</b> <i>(Note: This will also be used for the final
+location, so keep it safe!)</i></p>
+<p>To find the location for the second part of the cache you should
+look at the following linear equation:</p>
+<p><b>y = Q.A3QR36x - S.5T</b></p>
+<p>Where Q = D - B, R = (D - A) / 4, S = C / 2, T = C - A</p>
+<p>To get the North coordinates for stage 2 you need to find the
+point where the line intersects the x-axis <i>(marked as (X2,Y2) in
+the image)</i> and take the x-coordinate from that <i>(i.e. X2 in
+the image)</i>. Round the number you get to 3 decimal places to get
+something of the form aa.bbb and the first half of your next
+coordinates is <b>N53 aa.bbb</b></p>
+<p>To get the West coordinates you need to find the point where the
+line intersects the y-axis and use its y-coordinate <i>(i.e. use Y1
+of point (X1,-Y1))</i>, round this to 3 decimal places to get
+cc.ddd and your next West coordinate is <b>W006 cc.ddd</b></p>
+<p>
+<img src="http://img.geocaching.com/cache/8522a233-d25d-49fa-ab4c-8e2c603fe08e.jpg" />
+</p>
+<p><b>2.</b> At the second location you will find the information
+needed for the third location of this cache, no equation for this
+one!. <b><font color="green">(Don't forget to take your photo of
+the area in order to claim a find)</font></b></p>
+<p><b>3.</b> At the third location obtain the date on the wall and
+call this <b>EFGH</b></p>
+<p>To get the coordinates for the fourth location you need to look
+at the following equation:</p>
+<p><b>y = Ux<sup>2</sup> - V6.6FHx - HHG.GFE6</b></p>
+<p>Where U = G - E and V = E + H</p>
+<p>When plotting this equation you will get a parabola. This
+parabola intersects the x-axis at two different points: (-X1,Y1)
+and (X2,Y2). Round both x-coordinates to 3 decimal places to get X1
+= aa.bbb and X2 = cc.ddd and the coordinates for stage 4 are <b>N53
+cc.ddd W006 aa.bbb</b></p>
+<p>
+<img src="http://img.geocaching.com/cache/e7ad6aa2-60b8-4bb4-9dfc-c2c51df71abb.jpg" />
+</p>
+<p><b>4.</b> At the fourth location obtain the date of the floral
+competition and call this <b>IJKL</b>.Also note the date when the
+president of Ireland visited the site and call this date
+<b>MNOP</b>.</p>
+<p>The coordinates for this location can be got from the following
+equation:</p>
+<p><b>y = 2x<sup>3</sup> + CL.LNHx<sup>2</sup> - I2BL.2GCG2x +
+G.H5</b></p>
+<br />
+<br />
+<p>Instead of looking at intersections with the axis, we will now
+consider the maximum and minimum of this equation. The maximum is
+marked in the image as (-X1,Y1) and the minimum is marked as
+(X2,-Y2). Find the x-coordinates of these points and round them to
+3 decimal places to get X1 = aa.bbb and X2 = cc.ddd. The
+coordinates for the final information of this cache are then <b>N53
+aa.bbb W006 cc.ddd</b>.</p>
+<p>
+<img src="http://img.geocaching.com/cache/80de00cd-585a-4cb2-9b4e-38d665b7babe.jpg" />
+</p>
+<center>
+<img src="http://www.northbeach.ie/gallery/albums/userpics/10001/windsock-anim-small.gif" />
+<br />
+<b>The Windsockers</b></center></long-description>
+  <additional-waypoints>PAYBHE - Parking Area<br />N 53° 35.026 W 006° 06.295<br />Please use this free parking area while you visit the Island otherwise you could be liable to a fine if the parking meter runs out.<br /></additional-waypoints>
+  <links>waypoints:cache-id:PAYBHE</links>
+  <encoded-hints>
+      </encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=78b94f03-7f68-4a44-9e2e-c8ffe88371ca</url>
+  <url-name>Paddie's Goat</url-name>
+  <logs><ul><li>2009-12-20T20:00:00Z : Write note by Jumpin Jiminie <br />stopped by to get the info for the 2nd stage. Something tells me this one is going to be tough... To say the least!</li><li>2009-07-25T19:00:00Z : Didn't find it by toczygroszek <br />Went back from Ardgillan and decided check final location again. Didn't expect any success, so wasn't disappointed. It's my 3rd or 4th visit in this place (I don't understand why my previous DNF's were deleted?). Still no confirmation if cache is there (I think is not).</li><li>2009-07-18T19:00:00Z : Write note by abra123cadabra <br />After Ardgillan II, I and III I went to get the first stage of this cache. The "free" parking is only free Mon - Sat after 6 pm and on Sun. As it was well after 6 pm I decided to drive closer to stage 1. Quickly found the required information and did the maths in the car. Entered coordinates for stage 2 into my GPSr. Now this stage appears to need some serious planning. No way to do this today! I now understand why nobody found this cache yet. Will eventually try again! So far, thanks for the story.</li><li>2009-04-29T19:00:00Z : Write note by toczygroszek <br />Good news! After 1,5 years of cache existence fault is fixed! Now everything woks perfect and final location make sense. Only go there and find it - simple. If container is still there of course.
+Thanks to the owner for his maintenance.</li><li>2008-09-27T19:00:00Z : Write note by daraconn <br />Second location visited successfully this morning with toczygroszek and the swerve.</li></ul></logs>
+  <original-xml>  <wpt  lat="53.57845" lon="-6.106433">
+    <time>2007-09-18T07:00:00Z</time>
+    <name>GCYBHE</name>
+    <desc>Paddie's Goat by Windsockers, Unknown Cache (5/5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=78b94f03-7f68-4a44-9e2e-c8ffe88371ca</url>
+    <urlname>Paddie's Goat</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Unknown Cache</type>
+    <groundspeak:cache id="463931" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Paddie's Goat</groundspeak:name>
+      <groundspeak:placed_by>Windsockers</groundspeak:placed_by>
+      <groundspeak:owner id="271623">Windsockers</groundspeak:owner>
+      <groundspeak:type>Unknown Cache</groundspeak:type>
+      <groundspeak:container>Other</groundspeak:container>
+      <groundspeak:difficulty>5</groundspeak:difficulty>
+      <groundspeak:terrain>5</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>Leinster</groundspeak:state>
+      <groundspeak:short_description html="True">&lt;center&gt;
+&lt;img src="http://www.northbeach.ie/gallery/albums/userpics/10001/goat.jpg" /&gt;
+&lt;/center&gt;</groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;p&gt;When St. Patrick was expelled from Wicklow by the pagan natives
+he sailed northwards and landed on a small island off Skerries,
+which is now known as St. Patrick's Island in his honour. When the
+saint arrived on this island he had with him a goat, which was his
+companion and source of milk. .&lt;/p&gt;
+&lt;p&gt;From this island St. Patrick came to the mainland to convert the
+local people. While St. Patrick was ashore on one of these visits
+some people from Skerries went out to the island and stole his
+goat. They killed the goat, cooked it and feasted on it. When St,
+Patrick went to the island he found his goat missing. This made him
+very angry and in two giant strides he reached the mainland. The
+first step took him to the back of Colt Island and the second to
+Red Island, where he confronted the people of Skerries.&lt;/p&gt;
+&lt;p&gt;When they tried to deny interfering with his goat they found
+they could only bleat. When they were prepared to tell the saint
+the truth their voices returned.&lt;/p&gt;
+&lt;p&gt;Where St. Patrick stepped onto Red island his footprint is to be
+seen in the rock to this day.&lt;/p&gt;
+&lt;center&gt;
+&lt;img src="http://www.northbeach.ie/gallery/albums/userpics/10001/footprnt.jpg" /&gt;
+&lt;/center&gt;
+Since then the nickname Skerries Goats is given to the people of
+the town to remind them of this deed .&lt;br /&gt;
+&lt;br /&gt;
+ 
+&lt;p&gt;St. Patrick's footprint can be seen on the rocks near the
+Springboards, the tidal bathing place on Red Island.&lt;/p&gt;
+&lt;p&gt;There is supposed to be another impression of the saint's foot
+on the rocks at the rear of Colt Island, where he took his first
+giant stride on his way to the mainland.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Getting there&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;If you want to visit this cache using public transport, the bus
+route to take from Dublin City centre is the No. 33 which will drop
+you off at Skerries,Alternatively, you can take the 41 from Dublin
+City Centre to Swords, and then take the 33A&lt;br /&gt;
+ (which from Swords on follows the same route as the 33).&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;The Cache&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font color="green"&gt;In order to claim this cache you will need
+to do the following :&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;font color="red"&gt;You will need to bring a camera to take a
+photo of you and your Gps at the Second location in order to claim
+a find for this cache.&lt;br /&gt;
+Logs without photo's will not be deleted due to the recent changes
+from groundspeak.however a photo will prove you didn't take any
+short cuts to your caching peers :-)&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;In order to find the coordinates for each location you will
+first need to brush up on your calculus: we have constructed three
+equations for you and for each stage we will ask you to solve a
+standard problem related to these equations to get the next
+coordinates. We have also provided a plot for each equation, but
+these are there only to illustrate the problem that needs to be
+solved.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;1.&lt;/b&gt; At the First location you will need to find Paddies
+Goat and take note of the date inscribed on it, call this date
+&lt;b&gt;ABCD&lt;/b&gt; &lt;i&gt;(Note: This will also be used for the final
+location, so keep it safe!)&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;To find the location for the second part of the cache you should
+look at the following linear equation:&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;y = Q.A3QR36x - S.5T&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Where Q = D - B, R = (D - A) / 4, S = C / 2, T = C - A&lt;/p&gt;
+&lt;p&gt;To get the North coordinates for stage 2 you need to find the
+point where the line intersects the x-axis &lt;i&gt;(marked as (X2,Y2) in
+the image)&lt;/i&gt; and take the x-coordinate from that &lt;i&gt;(i.e. X2 in
+the image)&lt;/i&gt;. Round the number you get to 3 decimal places to get
+something of the form aa.bbb and the first half of your next
+coordinates is &lt;b&gt;N53 aa.bbb&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;To get the West coordinates you need to find the point where the
+line intersects the y-axis and use its y-coordinate &lt;i&gt;(i.e. use Y1
+of point (X1,-Y1))&lt;/i&gt;, round this to 3 decimal places to get
+cc.ddd and your next West coordinate is &lt;b&gt;W006 cc.ddd&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;img src="http://img.geocaching.com/cache/8522a233-d25d-49fa-ab4c-8e2c603fe08e.jpg" /&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;2.&lt;/b&gt; At the second location you will find the information
+needed for the third location of this cache, no equation for this
+one!. &lt;b&gt;&lt;font color="green"&gt;(Don't forget to take your photo of
+the area in order to claim a find)&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;3.&lt;/b&gt; At the third location obtain the date on the wall and
+call this &lt;b&gt;EFGH&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;To get the coordinates for the fourth location you need to look
+at the following equation:&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;y = Ux&lt;sup&gt;2&lt;/sup&gt; - V6.6FHx - HHG.GFE6&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Where U = G - E and V = E + H&lt;/p&gt;
+&lt;p&gt;When plotting this equation you will get a parabola. This
+parabola intersects the x-axis at two different points: (-X1,Y1)
+and (X2,Y2). Round both x-coordinates to 3 decimal places to get X1
+= aa.bbb and X2 = cc.ddd and the coordinates for stage 4 are &lt;b&gt;N53
+cc.ddd W006 aa.bbb&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;
+&lt;img src="http://img.geocaching.com/cache/e7ad6aa2-60b8-4bb4-9dfc-c2c51df71abb.jpg" /&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;4.&lt;/b&gt; At the fourth location obtain the date of the floral
+competition and call this &lt;b&gt;IJKL&lt;/b&gt;.Also note the date when the
+president of Ireland visited the site and call this date
+&lt;b&gt;MNOP&lt;/b&gt;.&lt;/p&gt;
+&lt;p&gt;The coordinates for this location can be got from the following
+equation:&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;y = 2x&lt;sup&gt;3&lt;/sup&gt; + CL.LNHx&lt;sup&gt;2&lt;/sup&gt; - I2BL.2GCG2x +
+G.H5&lt;/b&gt;&lt;/p&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;p&gt;Instead of looking at intersections with the axis, we will now
+consider the maximum and minimum of this equation. The maximum is
+marked in the image as (-X1,Y1) and the minimum is marked as
+(X2,-Y2). Find the x-coordinates of these points and round them to
+3 decimal places to get X1 = aa.bbb and X2 = cc.ddd. The
+coordinates for the final information of this cache are then &lt;b&gt;N53
+aa.bbb W006 cc.ddd&lt;/b&gt;.&lt;/p&gt;
+&lt;p&gt;
+&lt;img src="http://img.geocaching.com/cache/80de00cd-585a-4cb2-9b4e-38d665b7babe.jpg" /&gt;
+&lt;/p&gt;
+&lt;center&gt;
+&lt;img src="http://www.northbeach.ie/gallery/albums/userpics/10001/windsock-anim-small.gif" /&gt;
+&lt;br /&gt;
+&lt;b&gt;The Windsockers&lt;/b&gt;&lt;/center&gt;&lt;p&gt;Additional Waypoints&lt;/p&gt;PAYBHE - Parking Area&lt;br /&gt;N 53° 35.026 W 006° 06.295&lt;br /&gt;Please use this free parking area while you visit the Island otherwise you could be liable to a fine if the parking meter runs out.&lt;br /&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="93166307">
+          <groundspeak:date>2009-12-20T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Write note</groundspeak:type>
+          <groundspeak:finder id="2553511">Jumpin Jiminie</groundspeak:finder>
+          <groundspeak:text encoded="False">stopped by to get the info for the 2nd stage. Something tells me this one is going to be tough... To say the least!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="78325846">
+          <groundspeak:date>2009-07-25T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Didn't find it</groundspeak:type>
+          <groundspeak:finder id="1429023">toczygroszek</groundspeak:finder>
+          <groundspeak:text encoded="False">Went back from Ardgillan and decided check final location again. Didn't expect any success, so wasn't disappointed. It's my 3rd or 4th visit in this place (I don't understand why my previous DNF's were deleted?). Still no confirmation if cache is there (I think is not).</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="77581365">
+          <groundspeak:date>2009-07-18T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Write note</groundspeak:type>
+          <groundspeak:finder id="2383033">abra123cadabra</groundspeak:finder>
+          <groundspeak:text encoded="False">After Ardgillan II, I and III I went to get the first stage of this cache. The "free" parking is only free Mon - Sat after 6 pm and on Sun. As it was well after 6 pm I decided to drive closer to stage 1. Quickly found the required information and did the maths in the car. Entered coordinates for stage 2 into my GPSr. Now this stage appears to need some serious planning. No way to do this today! I now understand why nobody found this cache yet. Will eventually try again! So far, thanks for the story.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="69322725">
+          <groundspeak:date>2009-04-29T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Write note</groundspeak:type>
+          <groundspeak:finder id="1429023">toczygroszek</groundspeak:finder>
+          <groundspeak:text encoded="False">Good news! After 1,5 years of cache existence fault is fixed! Now everything woks perfect and final location make sense. Only go there and find it - simple. If container is still there of course.
+Thanks to the owner for his maintenance.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="53845717">
+          <groundspeak:date>2008-09-27T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Write note</groundspeak:type>
+          <groundspeak:finder id="591662">daraconn</groundspeak:finder>
+          <groundspeak:text encoded="False">Second location visited successfully this morning with toczygroszek and the swerve.</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

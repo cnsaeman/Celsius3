@@ -1,0 +1,142 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>001564</id>
+  <cache-id>GCJJ30</cache-id>
+  <type>Traditional Cache</type>
+  <name>Dun Laoghaire - West Pier by Bootle, Traditional Cache (1/1)</name>
+  <size>Regular</size>
+  <difficulty>1</difficulty>
+  <terrain>1</terrain>
+  <last-found>2007-08-23</last-found>
+  <placed>2004-05-28</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>Bootle</placedby>
+  <found>Geocache Found</found>
+  <lat>53.303883</lat>
+  <lon>-6.132833</lon>
+  <last-logs>FFFFFF</last-logs>
+  <owner>Bootle</owner>
+  <description>
+      </description>
+  <long-description><p align="center"><a target="_blank"
+href="http://www.geocachingireland.com"><img border="0"
+src="http://geocachingireland.com/logo4.jpg" width="328"
+height="53" align="middle" /></a></p>
+<br />
+<br />
+ This cache is located on the West Pier in Dun Laoghaire in South
+County Dublin. The town of Dun Laoghaire is pleasant enough, but
+the seafront area is most relaxing and scenic. The East Pier is the
+more popular and well kept of the two piers in Dun Laoghaire, but
+the West Pier has a peaceful charm to it. The views across Dublin
+Bay to Howth are worth the visit. Bring binoculars to fully enjoy
+the views. There are several transport links to the cache. It can
+be reached from the Salthill / Monkstown DART station, the 7, 46a
+and 75 buses, as well as the ferry from Holyhead!<br />
+<br />
+ The cache is a very small tupperware box (9cm x 9cm x 3cm), so
+please only bring small items. <br />
+<br />
+The cache site might be difficult to find, so it might be worth
+printing the spoiler photo. Apologies for the long
+clue...</long-description>
+  <encoded-hints>200ft [from the] abandoned house, [find a] stone [with a large] round man-made hole [and a] white quartz stripe. Look under the rocks [in front of this] stone.</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=79892237-58b7-45a8-97fe-072a63e8e8f1</url>
+  <url-name>Dun Laoghaire - West Pier</url-name>
+  <logs><ul><li>2010-06-11T19:15:51Z : Found it by Simotaniously <br />Lovely walk took me a few mins to find. Nice spot. Put in a little fish.</li><li>2010-06-05T19:00:00Z : Found it by poohbear50 <br />Lovely walk along the Pier on a warm, sunny day. Lots of yachts were out so it was a lovely sight. Found the cache then sat for awhile waching the yachts. On our way back from the cache we saw Stenaline boat sail out of the harbour and I got some very good photos of it sailing through the mouth of the harbour. TFTC</li><li>2010-06-05T19:00:00Z : Found it by Wild Rover <br />Brisk breeze and very sunny so lots of craft out - really nice to watch. Even got to watch Stena sailing and was very interested to watch the yachts moving to make passage for her. TFTC</li><li>2010-06-04T19:00:00Z : Found it by fmurphy <br />Without the photos I would have struggled, but found it easily with them. TFTC</li><li>2009-03-08T19:00:00Z : Found it by Mancunian Pyrocacher <br />yes I know I'm a bit late in logging this [:I], but my excuse is that as the UK is a lot busier than Eire cache wise. I've put my Geocaching time in publishing caches rather than log them [:D]
+
+Me and my bright ideas. Oh we'll get to the Ferry Port early and do the local caches. It didn't look that long a walk on the map [:D]. But hey I dragged my weary legs there and back [8D]. Gave a cool finish to a great weekend
+
+Dave</li><li>2007-08-23T07:00:00Z : Found it by Kersti.com <br />The alternate coordinates in a previous log certainly helped in this one. As did the clue. We noted, being Aussies, that there was the perfect stubby holder...</li></ul></logs>
+  <original-xml>  <wpt  lat="53.303883" lon="-6.132833">
+    <time>2004-05-28T07:00:00Z</time>
+    <name>GCJJ30</name>
+    <desc>Dun Laoghaire - West Pier by Bootle, Traditional Cache (1/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=79892237-58b7-45a8-97fe-072a63e8e8f1</url>
+    <urlname>Dun Laoghaire - West Pier</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="142509" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Dun Laoghaire - West Pier</groundspeak:name>
+      <groundspeak:placed_by>Bootle</groundspeak:placed_by>
+      <groundspeak:owner id="96113">Bootle</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Regular</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>Leinster</groundspeak:state>
+      <groundspeak:short_description html="True">
+      </groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;p align="center"&gt;&lt;a target="_blank"
+href="http://www.geocachingireland.com"&gt;&lt;img border="0"
+src="http://geocachingireland.com/logo4.jpg" width="328"
+height="53" align="middle" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+ This cache is located on the West Pier in Dun Laoghaire in South
+County Dublin. The town of Dun Laoghaire is pleasant enough, but
+the seafront area is most relaxing and scenic. The East Pier is the
+more popular and well kept of the two piers in Dun Laoghaire, but
+the West Pier has a peaceful charm to it. The views across Dublin
+Bay to Howth are worth the visit. Bring binoculars to fully enjoy
+the views. There are several transport links to the cache. It can
+be reached from the Salthill / Monkstown DART station, the 7, 46a
+and 75 buses, as well as the ferry from Holyhead!&lt;br /&gt;
+&lt;br /&gt;
+ The cache is a very small tupperware box (9cm x 9cm x 3cm), so
+please only bring small items. &lt;br /&gt;
+&lt;br /&gt;
+The cache site might be difficult to find, so it might be worth
+printing the spoiler photo. Apologies for the long
+clue...</groundspeak:long_description>
+      <groundspeak:encoded_hints>200ft [from the] abandoned house, [find a] stone [with a large] round man-made hole [and a] white quartz stripe. Look under the rocks [in front of this] stone.</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="112419219">
+          <groundspeak:date>2010-06-11T19:15:51Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3234270">Simotaniously</groundspeak:finder>
+          <groundspeak:text encoded="False">Lovely walk took me a few mins to find. Nice spot. Put in a little fish.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="111883200">
+          <groundspeak:date>2010-06-05T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="46645">poohbear50</groundspeak:finder>
+          <groundspeak:text encoded="False">Lovely walk along the Pier on a warm, sunny day. Lots of yachts were out so it was a lovely sight. Found the cache then sat for awhile waching the yachts. On our way back from the cache we saw Stenaline boat sail out of the harbour and I got some very good photos of it sailing through the mouth of the harbour. TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="111872770">
+          <groundspeak:date>2010-06-05T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="32570">Wild Rover</groundspeak:finder>
+          <groundspeak:text encoded="False">Brisk breeze and very sunny so lots of craft out - really nice to watch. Even got to watch Stena sailing and was very interested to watch the yachts moving to make passage for her. TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="111474909">
+          <groundspeak:date>2010-06-04T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3006298">fmurphy</groundspeak:finder>
+          <groundspeak:text encoded="False">Without the photos I would have struggled, but found it easily with them. TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="112886970">
+          <groundspeak:date>2009-03-08T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="77057">Mancunian Pyrocacher</groundspeak:finder>
+          <groundspeak:text encoded="False">yes I know I'm a bit late in logging this [:I], but my excuse is that as the UK is a lot busier than Eire cache wise. I've put my Geocaching time in publishing caches rather than log them [:D]
+
+Me and my bright ideas. Oh we'll get to the Ferry Port early and do the local caches. It didn't look that long a walk on the map [:D]. But hey I dragged my weary legs there and back [8D]. Gave a cool finish to a great weekend
+
+Dave</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="31530684">
+          <groundspeak:date>2007-08-23T07:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="320206">Kersti.com</groundspeak:finder>
+          <groundspeak:text encoded="False">The alternate coordinates in a previous log certainly helped in this one. As did the clue. We noted, being Aussies, that there was the perfect stubby holder...</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

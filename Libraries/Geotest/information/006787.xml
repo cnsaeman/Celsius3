@@ -1,0 +1,158 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>006787</id>
+  <cache-id>GC1YG7T</cache-id>
+  <type>Multi-cache</type>
+  <name>Aus längst vergangenen Zeiten by balalaika, Multi-cache (2.5/2.5)</name>
+  <size>Regular</size>
+  <difficulty>2.5</difficulty>
+  <terrain>2.5</terrain>
+  <last-found>2010-05-24</last-found>
+  <placed>2009-09-10</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>balalaika</placedby>
+  <found>Geocache</found>
+  <lat>50.58955</lat>
+  <lon>9.619833</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>balalaika</owner>
+  <description>
+      </description>
+  <long-description>Seit langem ist bekannt, dass am Trätzhof vorzeitliche Siedlungsspuren zu finden sind. Bereits im 19. Jahrhundert führten hier die Archäologen Pinder und Schneider, 100 Jahre später Vonderau Ausgrabungen durch. Dabei stießen sie auch auf Hügelgräber aus der Bronzezeit. 
+Als jetzt auf den seit 1930 für den Ackerbau genutzten Flächen immer mehr Steine ans Tageslicht kamen, entschloss man sich, die Hügelgräber freizulegen und genauer zu betrachten.
+ Auf unserem Rundgang bewegen wir uns in einem Gelände, in dem  mindestens zehn Hügelgräber liegen. Zwei davon befinden sich auf diesem Feld. Das ältere und größere stammt etwa aus dem Jahre 1500 v. Chr. Das kleinere daneben ist etwa 1000 Jahre jünger. 
+
+Hinweis:
+Für den Rundgang benötigst du ein Handy und je nach Jahreszeit festes Schuhwerk.
+Der Cache besteht aus insgesamt 6 Stationen. An einigen Stellen war der Empfang nicht so toll.
+
+Wir gehen heute auf Zeitreise in die Vergangenheit. Auf dem Weg zu Stage 1 kommt ihr an einer Ausgrabungsstelle vorbei. 
+
+
+Stage 1: 
+Hier stehst du an einem alten Grenzstein.  Auf ihm ist eine dreistellige Zahl zu sehen. 
+Nimm die letzte  Ziffer (x) und berechne damit die Nordkoordinate wie folgt: 		
+N  50°35 . abc 			
+200*2+x+150-x= abc . 
+Die ersten beiden Ziffern (y- als zweistellige Zahl)  der Zahl  benötigst du für die Ostkoordinate. Berechne wie folgt: 
+E 009°37. def  			
+14*y+6=def
+
+Die restlichen Stages findest du vor Ort.
+
+Additional Waypoints
+</long-description>
+  <encoded-hints>Stage 2: im Baum, Stage 3 u. 4: Wurzel, Stage 5: kleiner Nadelbaum</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=5aadbf60-aaa0-4f2c-9e8c-5229b0a49c8a</url>
+  <url-name>Aus längst vergangenen Zeiten</url-name>
+  <logs><ul><li>2010-08-24T19:00:00Z : Found it by Herzl <br />Im dritten Anlauf konnte ich nun heute endlich diese wunderschöne Runde beenden!
+Beim ersten Anlauf konnten wir an Stage 2 nicht fündig werden. Nach dem Lesen der Vorlogs dann beim zweiten Anlauf den Radius vergrößert und was gefunden. Nur konnte ich garnichts damit anfangen. Also nach Hause und die Owner kontaktiert. Die haben mir dann den Hinweis zur Lösung gegeben. Heute gingen die anderen Stages dann recht flott. 
+Toll fand ich auch den Hinweis in der Finaldose wie man am besten wieder zu seinem Cachemobil gelangt.
+Danke für diesen Cache - so macht cachen Spaß!!</li><li>2010-06-06T19:00:00Z : Found it by Langschläfer <br />mußten zweimal einen Telefonjoker einsetzen:danke an 5 stuges, aber haben ihn dann kurz vor dem großen Regen doch noch gefunden. Stage zwei ganz schön kniffelig - toller Cache zwischen vielen Hügelgräbern. No trade. Vielen Dank</li><li>2010-06-06T19:00:00Z : Found it by Die Apfelmonster <br />Eine harte Nuss (besonders Stage 2).
+Probleme hatten wir auch an Stage 5, aber mit Hilfe eines zweimal eingesetzten Telefonjokers konnten wir den Final heben. 
+Und so hatten ein Apfelmonster, ein Langschläfer und eine sehr begeisterte Neucachering einen schönen Abendspaziergang hinter sich und waren um einige Erfahrungen reicher. Vielen Dank für diesen schönen (nicht ganz einfachen) Cache. No trade.</li><li>2010-05-24T19:00:00Z : Found it by Waggi <br />Boah Ey...........das war ja eine Nuss. Man sollte unbedingt seine Ausrüstung checken bevor man sich einen Kopf macht. Nach der Stage 2 gings dann Schlag auf Schlag zum Final. Wir fanden, das dies eine ganz tolle Sonntagsrunde war. 
+Im Team mit Thomas_Bimbach dann doch noch gefunden.
+LG aus Steinau Waggi und Marion mit Zecke[:(!]
+
+[This entry was edited by Waggi on Monday, May 24, 2010 at 9:17:31 AM.]</li><li>2010-05-24T19:00:00Z : Found it by thomas_bimbach <br />Mit kleinem Zusatzhinweis durch die Cacheversteckerin zusammen mit Waggi dann endlich gefunden.
+Out: Glitzersteine (und außerhalb des Caches zwei Zecken)
+In: Schlüsselband und Schminkset
+
+TFTC</li></ul></logs>
+  <original-xml>  <wpt  lat="50.58955" lon="9.619833">
+    <time>2009-09-10T07:00:00Z</time>
+    <name>GC1YG7T</name>
+    <desc>Aus längst vergangenen Zeiten by balalaika, Multi-cache (2.5/2.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=5aadbf60-aaa0-4f2c-9e8c-5229b0a49c8a</url>
+    <urlname>Aus längst vergangenen Zeiten</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Multi-cache</type>
+    <groundspeak:cache id="1391958" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Aus längst vergangenen Zeiten</groundspeak:name>
+      <groundspeak:placed_by>balalaika</groundspeak:placed_by>
+      <groundspeak:owner id="1414299">balalaika</groundspeak:owner>
+      <groundspeak:type>Multi-cache</groundspeak:type>
+      <groundspeak:container>Regular</groundspeak:container>
+      <groundspeak:difficulty>2.5</groundspeak:difficulty>
+      <groundspeak:terrain>2.5</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">
+      </groundspeak:short_description>
+      <groundspeak:long_description html="False">Seit langem ist bekannt, dass am Trätzhof vorzeitliche Siedlungsspuren zu finden sind. Bereits im 19. Jahrhundert führten hier die Archäologen Pinder und Schneider, 100 Jahre später Vonderau Ausgrabungen durch. Dabei stießen sie auch auf Hügelgräber aus der Bronzezeit. 
+Als jetzt auf den seit 1930 für den Ackerbau genutzten Flächen immer mehr Steine ans Tageslicht kamen, entschloss man sich, die Hügelgräber freizulegen und genauer zu betrachten.
+ Auf unserem Rundgang bewegen wir uns in einem Gelände, in dem  mindestens zehn Hügelgräber liegen. Zwei davon befinden sich auf diesem Feld. Das ältere und größere stammt etwa aus dem Jahre 1500 v. Chr. Das kleinere daneben ist etwa 1000 Jahre jünger. 
+
+Hinweis:
+Für den Rundgang benötigst du ein Handy und je nach Jahreszeit festes Schuhwerk.
+Der Cache besteht aus insgesamt 6 Stationen. An einigen Stellen war der Empfang nicht so toll.
+
+Wir gehen heute auf Zeitreise in die Vergangenheit. Auf dem Weg zu Stage 1 kommt ihr an einer Ausgrabungsstelle vorbei. 
+
+
+Stage 1: 
+Hier stehst du an einem alten Grenzstein.  Auf ihm ist eine dreistellige Zahl zu sehen. 
+Nimm die letzte  Ziffer (x) und berechne damit die Nordkoordinate wie folgt: 		
+N  50°35 . abc 			
+200*2+x+150-x= abc . 
+Die ersten beiden Ziffern (y- als zweistellige Zahl)  der Zahl  benötigst du für die Ostkoordinate. Berechne wie folgt: 
+E 009°37. def  			
+14*y+6=def
+
+Die restlichen Stages findest du vor Ort.
+
+Additional Waypoints
+</groundspeak:long_description>
+      <groundspeak:encoded_hints>Stage 2: im Baum, Stage 3 u. 4: Wurzel, Stage 5: kleiner Nadelbaum</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="123550383">
+          <groundspeak:date>2010-08-24T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1970181">Herzl</groundspeak:finder>
+          <groundspeak:text encoded="False">Im dritten Anlauf konnte ich nun heute endlich diese wunderschöne Runde beenden!
+Beim ersten Anlauf konnten wir an Stage 2 nicht fündig werden. Nach dem Lesen der Vorlogs dann beim zweiten Anlauf den Radius vergrößert und was gefunden. Nur konnte ich garnichts damit anfangen. Also nach Hause und die Owner kontaktiert. Die haben mir dann den Hinweis zur Lösung gegeben. Heute gingen die anderen Stages dann recht flott. 
+Toll fand ich auch den Hinweis in der Finaldose wie man am besten wieder zu seinem Cachemobil gelangt.
+Danke für diesen Cache - so macht cachen Spaß!!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="112132989">
+          <groundspeak:date>2010-06-06T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="252199">Langschläfer</groundspeak:finder>
+          <groundspeak:text encoded="False">mußten zweimal einen Telefonjoker einsetzen:danke an 5 stuges, aber haben ihn dann kurz vor dem großen Regen doch noch gefunden. Stage zwei ganz schön kniffelig - toller Cache zwischen vielen Hügelgräbern. No trade. Vielen Dank</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="112131065">
+          <groundspeak:date>2010-06-06T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="374481">Die Apfelmonster</groundspeak:finder>
+          <groundspeak:text encoded="False">Eine harte Nuss (besonders Stage 2).
+Probleme hatten wir auch an Stage 5, aber mit Hilfe eines zweimal eingesetzten Telefonjokers konnten wir den Final heben. 
+Und so hatten ein Apfelmonster, ein Langschläfer und eine sehr begeisterte Neucachering einen schönen Abendspaziergang hinter sich und waren um einige Erfahrungen reicher. Vielen Dank für diesen schönen (nicht ganz einfachen) Cache. No trade.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="109884344">
+          <groundspeak:date>2010-05-24T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="28228">Waggi</groundspeak:finder>
+          <groundspeak:text encoded="False">Boah Ey...........das war ja eine Nuss. Man sollte unbedingt seine Ausrüstung checken bevor man sich einen Kopf macht. Nach der Stage 2 gings dann Schlag auf Schlag zum Final. Wir fanden, das dies eine ganz tolle Sonntagsrunde war. 
+Im Team mit Thomas_Bimbach dann doch noch gefunden.
+LG aus Steinau Waggi und Marion mit Zecke[:(!]
+
+[This entry was edited by Waggi on Monday, May 24, 2010 at 9:17:31 AM.]</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="109882471">
+          <groundspeak:date>2010-05-24T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2166343">thomas_bimbach</groundspeak:finder>
+          <groundspeak:text encoded="False">Mit kleinem Zusatzhinweis durch die Cacheversteckerin zusammen mit Waggi dann endlich gefunden.
+Out: Glitzersteine (und außerhalb des Caches zwei Zecken)
+In: Schlüsselband und Schminkset
+
+TFTC</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

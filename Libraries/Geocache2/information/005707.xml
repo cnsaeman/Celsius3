@@ -1,0 +1,110 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>005707</id>
+  <cache-id>GC1J6NB</cache-id>
+  <type>Traditional Cache</type>
+  <name>Wicklow Elephants by Hezekiah, Traditional Cache (1/1)</name>
+  <size>Small</size>
+  <difficulty>1</difficulty>
+  <terrain>1</terrain>
+  <last-found>2009-10-05</last-found>
+  <placed>2008-11-16</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>Hezekiah</placedby>
+  <found>Geocache</found>
+  <lat>53.0853</lat>
+  <lon>-6.220217</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>Hezekiah</owner>
+  <description><p align="center"><a target="_blank"
+href="http://www.geocachingireland.com/index.html"><img border="0"
+src="http://geocachingireland.com/logo4.jpg" width="328"
+height="53" align="middle" /></a></p>
+<hr align="center" size="2" width="40%" />
+<center><font color="blue">Visit the <b>new</b> Geocaching Ireland
+discussion forum <a href="http://www.mccartan.org/forums/"
+target="_blank">HERE</a></font></center>
+<hr align="center" size="2" width="40%" /></description>
+  <long-description><p>The cache is placed across the road from a unique park
+celebrating the Indian elephant god, Ganesh. The park details can
+be viewed at this link : <a href="http://www.victoriasway.eu"
+target="_blank">Victoria's Way</a></p></long-description>
+  <encoded-hints>At the base of a thorn tree</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=ef308f43-844a-4b02-8edc-0461d20637d2</url>
+  <url-name>Wicklow Elephants</url-name>
+  <logs><ul><li>2010-05-21T19:00:00Z : Found it by Numira <br />Nice cache on a nice place. Found during our search for a camping place.
+Thanks!
+Greetings from the Czech republic!</li><li>2010-05-15T19:00:00Z : Found it by brum. <br />Our first cache in Ireland, nice elephants found in a sunny day.</li><li>2010-03-28T19:00:00Z : Found it by Peta Amalka <br />Found the cache and thanks for showing us this place...we will definitely come back to see the sculptures :-) bye bye elephants</li><li>2010-03-03T20:00:00Z : Found it by markd_irl <br />Late updating, TFTC!</li><li>2009-10-05T19:00:00Z : Found it by kaputing <br />A prickly cache and dash at the end of the day</li></ul></logs>
+  <original-xml>  <wpt  lat="53.0853" lon="-6.220217">
+    <time>2008-11-16T08:00:00Z</time>
+    <name>GC1J6NB</name>
+    <desc>Wicklow Elephants by Hezekiah, Traditional Cache (1/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=ef308f43-844a-4b02-8edc-0461d20637d2</url>
+    <urlname>Wicklow Elephants</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1055067" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Wicklow Elephants</groundspeak:name>
+      <groundspeak:placed_by>Hezekiah</groundspeak:placed_by>
+      <groundspeak:owner id="274644">Hezekiah</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>Leinster</groundspeak:state>
+      <groundspeak:short_description html="True">&lt;p align="center"&gt;&lt;a target="_blank"
+href="http://www.geocachingireland.com/index.html"&gt;&lt;img border="0"
+src="http://geocachingireland.com/logo4.jpg" width="328"
+height="53" align="middle" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;hr align="center" size="2" width="40%" /&gt;
+&lt;center&gt;&lt;font color="blue"&gt;Visit the &lt;b&gt;new&lt;/b&gt; Geocaching Ireland
+discussion forum &lt;a href="http://www.mccartan.org/forums/"
+target="_blank"&gt;HERE&lt;/a&gt;&lt;/font&gt;&lt;/center&gt;
+&lt;hr align="center" size="2" width="40%" /&gt;</groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;p&gt;The cache is placed across the road from a unique park
+celebrating the Indian elephant god, Ganesh. The park details can
+be viewed at this link : &lt;a href="http://www.victoriasway.eu"
+target="_blank"&gt;Victoria's Way&lt;/a&gt;&lt;/p&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>At the base of a thorn tree</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="110917019">
+          <groundspeak:date>2010-05-21T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="610776">Numira</groundspeak:finder>
+          <groundspeak:text encoded="False">Nice cache on a nice place. Found during our search for a camping place.
+Thanks!
+Greetings from the Czech republic!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="109623672">
+          <groundspeak:date>2010-05-15T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1119602">brum.</groundspeak:finder>
+          <groundspeak:text encoded="False">Our first cache in Ireland, nice elephants found in a sunny day.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="101460057">
+          <groundspeak:date>2010-03-28T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2370522">Peta Amalka</groundspeak:finder>
+          <groundspeak:text encoded="False">Found the cache and thanks for showing us this place...we will definitely come back to see the sculptures :-) bye bye elephants</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="112197971">
+          <groundspeak:date>2010-03-03T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3004999">markd_irl</groundspeak:finder>
+          <groundspeak:text encoded="False">Late updating, TFTC!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="107027078">
+          <groundspeak:date>2009-10-05T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="991137">kaputing</groundspeak:finder>
+          <groundspeak:text encoded="False">A prickly cache and dash at the end of the day</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

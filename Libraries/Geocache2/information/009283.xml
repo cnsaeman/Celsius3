@@ -1,0 +1,123 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>009283</id>
+  <cache-id>GC11F4M</cache-id>
+  <type>Traditional Cache</type>
+  <name>W is for Wind by Hezekiah, Traditional Cache (1/1)</name>
+  <size>Micro</size>
+  <difficulty>1</difficulty>
+  <terrain>1</terrain>
+  <last-found>2007-09-02</last-found>
+  <placed>2007-03-15</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>Hezekiah</placedby>
+  <found>Geocache Found</found>
+  <lat>53.301383</lat>
+  <lon>-6.245917</lon>
+  <last-logs>FFFFFF</last-logs>
+  <owner>Hezekiah</owner>
+  <description><p align="center"><a target="_blank" href=
+   "http://www.geocachingireland.com/index.html"><img border="0"
+   src="http://geocachingireland.com/logo4.jpg" width="328"
+     height="53" align="middle"></a></p>
+<hr align="center" size="2" width="40%">
+<center><font color="blue">Visit the <b>new</b> Geocaching Ireland
+discussion forum <a rel="nofollow" href=
+"http://www.mccartan.org/forums/" target=
+"_blank">HERE</a></font></center>
+<hr align="center" size="2" width="40%">
+<br>
+<br></description>
+  <long-description>
+      </long-description>
+  <encoded-hints>Look carefully - hopefully something will shed a little light on this for you!</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=ca73bfff-d653-4611-9161-9f2f1b2ce4e3</url>
+  <url-name>W is for Wind</url-name>
+  <logs><ul><li>2010-06-13T19:00:00Z : Found it by BlueFoxPL <br />Another great day for caching... found with some friends. TFTC.</li><li>2010-06-13T19:00:00Z : Found it by colmyster <br />This one was soaked. TNLN</li><li>2010-06-13T19:00:00Z : Found it by Wicca Cailín <br />Found this one easily but it was soaked. Couldnt sign log as the paper was just falling apart in my hand. Needs maintenance. TFTC.</li><li>2010-04-25T19:00:00Z : Found it by pplsgod <br />Found with Laura374, as she said lots of muggles, we ended up just decrypting the clue to speed up the search when a little bit of searching would have produced the goods
+Maybe get this one done early
+TFTC</li><li>2010-04-25T19:00:00Z : Found it by Laura374 <br />Found with pplsgod. 
+
+TFTC - A lot of muggles around!</li><li>2007-09-02T07:00:00Z : Found it by Kersti.com <br />Very quickly located with CMB50 - rain kept the locals away. TNLNSL</li></ul></logs>
+  <original-xml>  <wpt  lat="53.301383" lon="-6.245917">
+    <time>2007-03-15T07:00:00Z</time>
+    <name>GC11F4M</name>
+    <desc>W is for Wind by Hezekiah, Traditional Cache (1/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=ca73bfff-d653-4611-9161-9f2f1b2ce4e3</url>
+    <urlname>W is for Wind</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="556751" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>W is for Wind</groundspeak:name>
+      <groundspeak:placed_by>Hezekiah</groundspeak:placed_by>
+      <groundspeak:owner id="274644">Hezekiah</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>
+      </groundspeak:state>
+      <groundspeak:short_description html="True">&lt;p align="center"&gt;&lt;a target="_blank" href=
+   "http://www.geocachingireland.com/index.html"&gt;&lt;img border="0"
+   src="http://geocachingireland.com/logo4.jpg" width="328"
+     height="53" align="middle"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;hr align="center" size="2" width="40%"&gt;
+&lt;center&gt;&lt;font color="blue"&gt;Visit the &lt;b&gt;new&lt;/b&gt; Geocaching Ireland
+discussion forum &lt;a rel="nofollow" href=
+"http://www.mccartan.org/forums/" target=
+"_blank"&gt;HERE&lt;/a&gt;&lt;/font&gt;&lt;/center&gt;
+&lt;hr align="center" size="2" width="40%"&gt;
+&lt;br&gt;
+&lt;br&gt;</groundspeak:short_description>
+      <groundspeak:long_description html="True">
+      </groundspeak:long_description>
+      <groundspeak:encoded_hints>Look carefully - hopefully something will shed a little light on this for you!</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="113120210">
+          <groundspeak:date>2010-06-13T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3361446">BlueFoxPL</groundspeak:finder>
+          <groundspeak:text encoded="False">Another great day for caching... found with some friends. TFTC.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="112779139">
+          <groundspeak:date>2010-06-13T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1495386">colmyster</groundspeak:finder>
+          <groundspeak:text encoded="False">This one was soaked. TNLN</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="112774977">
+          <groundspeak:date>2010-06-13T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3215858">Wicca Cailín</groundspeak:finder>
+          <groundspeak:text encoded="False">Found this one easily but it was soaked. Couldnt sign log as the paper was just falling apart in my hand. Needs maintenance. TFTC.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="105685847">
+          <groundspeak:date>2010-04-25T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2600769">pplsgod</groundspeak:finder>
+          <groundspeak:text encoded="False">Found with Laura374, as she said lots of muggles, we ended up just decrypting the clue to speed up the search when a little bit of searching would have produced the goods
+Maybe get this one done early
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="105685099">
+          <groundspeak:date>2010-04-25T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2677878">Laura374</groundspeak:finder>
+          <groundspeak:text encoded="False">Found with pplsgod. 
+
+TFTC - A lot of muggles around!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="32023304">
+          <groundspeak:date>2007-09-02T07:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="320206">Kersti.com</groundspeak:finder>
+          <groundspeak:text encoded="False">Very quickly located with CMB50 - rain kept the locals away. TNLNSL</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

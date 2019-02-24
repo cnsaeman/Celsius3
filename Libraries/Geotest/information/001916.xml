@@ -1,0 +1,132 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>001916</id>
+  <cache-id>GC1ZHN5</cache-id>
+  <type>Traditional Cache</type>
+  <name>St.Lukas Kirche und Versöhnungskirche by hungry.knight, Traditional Cache (2.5/1.5)</name>
+  <size>Micro</size>
+  <difficulty>2.5</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-06-20</last-found>
+  <placed>2009-10-06</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>hungry.knight</placedby>
+  <found>Geocache</found>
+  <lat>50.575533</lat>
+  <lon>9.658417</lon>
+  <last-logs>XXXF</last-logs>
+  <owner>hungry.knight</owner>
+  <description>Ein weiterer Cache der Fuldaer Kirchencachereihe. A further cache in a series of churches in Fulda.</description>
+  <long-description>Dies ist ein schneller Drive-In der Fuldaer Kirchencachereihe.
+
+Die Serie soll die Vielfalt der Kirchen in Fulda zeigen.
+Diesmal deckt ein Cache 2 Kirchen ab, da diese nebeneinander stehen.
+Hier findet man die evangelische Versöhnungskirche und gleich dahinter die katholische St. Lukas Kirche.
+
+Wer gerne mehr über die Kirchen erfahren will, findet auf folgenden Seiten weitere Informationen. 
+
+Vesöhnungskirche:
+http://www.versoehnungskirche-fulda.de/index.html
+St. Lukas Kirche:
+http://home.arcor.de/lysyedek/geschichte.htm
+http://home.arcor.de/lysyedek/
+
+
+Es handelt sich um einen kleinen Behälter.
+Bitte Stift mitbringen!!!
+Und am besten NICHT zu Kirchzeiten suchen. Zu viele Kirchenmuggels:) 
+Beim loggen hier besonders aufpassen, dass ihr nicht gesehen werdet.</long-description>
+  <encoded-hints>Augen auf</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=9653ee0c-4f85-4388-9527-42834a799ba8</url>
+  <url-name>St.Lukas Kirche und Versöhnungskirche</url-name>
+  <logs><ul><li>2010-10-20T08:15:00Z : Needs Maintenance by HubiFD <br />An der Örtlichkeit alles erdenkliche abgesucht, dann bei einem User nachgefragt der den Cache schon geloggt hat, ob sich der Cache an der vermuteten Stelle befand.
+Ich lag mit meiner Vermutung richtig und die beiden Vorlogger betätigen ebenfalls dass die Dose verschwunden ist.
+Hier sollte der Owner mal nach dem Rechten schauen.
+
+Gruß Hubi</li><li>2010-10-17T19:00:00Z : Didn't find it by HubiFD <br />Die Dose ist definitiv weg. Der Cache sollte vom Owner erstmal auf disabled gesetzt werden.
+
+Gruß Hubi</li><li>2010-10-16T19:00:00Z : Didn't find it by BB! <br />Dose war nicht da-bitte erneuern! RN  und BB!</li><li>2010-09-10T19:00:00Z : Didn't find it by CC! <br />Dose ist nicht mehr da....</li><li>2010-06-20T19:00:00Z : Found it by f.etcher <br />Schnell gefunden, aber man gibt es hier viele Ecken, wo Muggels unbemerkt um die Ecke kommen können, obwohl ich heute morgen um kurz nach acht dort gewesen bin. TFTC</li></ul></logs>
+  <original-xml>  <wpt  lat="50.575533" lon="9.658417">
+    <time>2009-10-06T07:00:00Z</time>
+    <name>GC1ZHN5</name>
+    <desc>St.Lukas Kirche und Versöhnungskirche by hungry.knight, Traditional Cache (2.5/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=9653ee0c-4f85-4388-9527-42834a799ba8</url>
+    <urlname>St.Lukas Kirche und Versöhnungskirche</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1423124" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>St.Lukas Kirche und Versöhnungskirche</groundspeak:name>
+      <groundspeak:placed_by>hungry.knight</groundspeak:placed_by>
+      <groundspeak:owner id="2129485">hungry.knight</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>2.5</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">Ein weiterer Cache der Fuldaer Kirchencachereihe. A further cache in a series of churches in Fulda.</groundspeak:short_description>
+      <groundspeak:long_description html="False">Dies ist ein schneller Drive-In der Fuldaer Kirchencachereihe.
+
+Die Serie soll die Vielfalt der Kirchen in Fulda zeigen.
+Diesmal deckt ein Cache 2 Kirchen ab, da diese nebeneinander stehen.
+Hier findet man die evangelische Versöhnungskirche und gleich dahinter die katholische St. Lukas Kirche.
+
+Wer gerne mehr über die Kirchen erfahren will, findet auf folgenden Seiten weitere Informationen. 
+
+Vesöhnungskirche:
+http://www.versoehnungskirche-fulda.de/index.html
+St. Lukas Kirche:
+http://home.arcor.de/lysyedek/geschichte.htm
+http://home.arcor.de/lysyedek/
+
+
+Es handelt sich um einen kleinen Behälter.
+Bitte Stift mitbringen!!!
+Und am besten NICHT zu Kirchzeiten suchen. Zu viele Kirchenmuggels:) 
+Beim loggen hier besonders aufpassen, dass ihr nicht gesehen werdet.</groundspeak:long_description>
+      <groundspeak:encoded_hints>Augen auf</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="132281427">
+          <groundspeak:date>2010-10-20T08:15:00Z</groundspeak:date>
+          <groundspeak:type>Needs Maintenance</groundspeak:type>
+          <groundspeak:finder id="2729325">HubiFD</groundspeak:finder>
+          <groundspeak:text encoded="False">An der Örtlichkeit alles erdenkliche abgesucht, dann bei einem User nachgefragt der den Cache schon geloggt hat, ob sich der Cache an der vermuteten Stelle befand.
+Ich lag mit meiner Vermutung richtig und die beiden Vorlogger betätigen ebenfalls dass die Dose verschwunden ist.
+Hier sollte der Owner mal nach dem Rechten schauen.
+
+Gruß Hubi</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="132281560">
+          <groundspeak:date>2010-10-17T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Didn't find it</groundspeak:type>
+          <groundspeak:finder id="2729325">HubiFD</groundspeak:finder>
+          <groundspeak:text encoded="False">Die Dose ist definitiv weg. Der Cache sollte vom Owner erstmal auf disabled gesetzt werden.
+
+Gruß Hubi</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="131550340">
+          <groundspeak:date>2010-10-16T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Didn't find it</groundspeak:type>
+          <groundspeak:finder id="3781589">BB!</groundspeak:finder>
+          <groundspeak:text encoded="False">Dose war nicht da-bitte erneuern! RN  und BB!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="126191999">
+          <groundspeak:date>2010-09-10T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Didn't find it</groundspeak:type>
+          <groundspeak:finder id="582069">CC!</groundspeak:finder>
+          <groundspeak:text encoded="False">Dose ist nicht mehr da....</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="113598728">
+          <groundspeak:date>2010-06-20T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1498819">f.etcher</groundspeak:finder>
+          <groundspeak:text encoded="False">Schnell gefunden, aber man gibt es hier viele Ecken, wo Muggels unbemerkt um die Ecke kommen können, obwohl ich heute morgen um kurz nach acht dort gewesen bin. TFTC</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

@@ -1,0 +1,114 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>004134</id>
+  <cache-id>GC27WAC</cache-id>
+  <type>Traditional Cache</type>
+  <name>Ein Drilling steht im Walde by Jabosamma, Traditional Cache (1.5/1)</name>
+  <size>Regular</size>
+  <difficulty>1.5</difficulty>
+  <terrain>1</terrain>
+  <last-found>2010-08-13</last-found>
+  <placed>2010-05-02</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Jabosamma</placedby>
+  <found>Geocache</found>
+  <lat>50.625567</lat>
+  <lon>9.789683</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>Jabosamma</owner>
+  <description>Unser Beitrag zur Keimzelle. Wie der Name des Caches schon sagt,befindet er sich im Wald. Er ist zu Fuß gut über einen Waldweg zu erreichen. Das Auto solltet ihr einige hundert Meter vor dem Waldrand parken.
+
+Dieser ist unser 1. Cache, den wir versteckt haben und hoffen, daß er Euch viel Freude macht.
+
+Viel Spaß beim suchen !!!!!!!!!!!!!!!
+
+wünscht das Team Jabosamma</description>
+  <long-description>
+      </long-description>
+  <encoded-hints>
+      </encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=ba2fa75f-aa3f-44e6-b1f8-fac1ff3b9c2d</url>
+  <url-name>Ein Drilling steht im Walde</url-name>
+  <logs><ul><li>2010-10-26T19:00:00Z : Found it by Dagosch <br />Völlig falsche Seite!!! Aber egal, gefunden! Falls die wilden Schweine aufgetaucht wären, hatte ich mir schon einen Fluchtplan ausgedacht. Ein paar Stufen höher!!! Aufgrund der Wildschweinmatsche habe ich jetzt dunkelbraune Schuhe, bin einmal mittenrein gepatscht. Aber der Drilling war schön anzusehen! Das Schätzchen benötigt vorm Winter nochmal eine neue Tüte denke ich, da waren schon einige Löcher drin!
+Danke für den von uns selbst organisierten Querwaldeinlauf sagt
+Dagosch</li><li>2010-10-26T19:00:00Z : Found it by Mamomi-1 <br />Wie um Himmels Willen findet man diesen Drilling mitten im Wald? Nur durchs Cachen oder man ist vielleicht Jäger in diesem Revier?  Bei dem Namen könnte man nämlich auch an etwas Anderes denken. Wir kamen wohl von der falschen Seite, war gar nicht so einfach sich steil bergab durchs Gebüsch und den von Wildschweinen hinterlassenen Morast zu quälen. Aber wir sind fündig geworden. 
+
+Cachergruß von Mamomi-1</li><li>2010-10-24T19:00:00Z : Found it by sema2505 <br />danke, schöner platz 
+
+sema2505</li><li>2010-10-02T19:00:00Z : Found it by Camuvlash <br />TFTC
+schönes Plätzchen</li><li>2010-08-13T19:00:00Z : Found it by Mammut-Baby <br />Der Name des Caches war hier Programm. Danke für einen weiteren Keimling.</li></ul></logs>
+  <original-xml>  <wpt  lat="50.625567" lon="9.789683">
+    <time>2010-05-02T07:00:00Z</time>
+    <name>GC27WAC</name>
+    <desc>Ein Drilling steht im Walde by Jabosamma, Traditional Cache (1.5/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=ba2fa75f-aa3f-44e6-b1f8-fac1ff3b9c2d</url>
+    <urlname>Ein Drilling steht im Walde</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1670728" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Ein Drilling steht im Walde</groundspeak:name>
+      <groundspeak:placed_by>Jabosamma</groundspeak:placed_by>
+      <groundspeak:owner id="2381902">Jabosamma</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Regular</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">Unser Beitrag zur Keimzelle. Wie der Name des Caches schon sagt,befindet er sich im Wald. Er ist zu Fuß gut über einen Waldweg zu erreichen. Das Auto solltet ihr einige hundert Meter vor dem Waldrand parken.
+
+Dieser ist unser 1. Cache, den wir versteckt haben und hoffen, daß er Euch viel Freude macht.
+
+Viel Spaß beim suchen !!!!!!!!!!!!!!!
+
+wünscht das Team Jabosamma</groundspeak:short_description>
+      <groundspeak:long_description html="False">
+      </groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="133216055">
+          <groundspeak:date>2010-10-26T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="374782">Dagosch</groundspeak:finder>
+          <groundspeak:text encoded="False">Völlig falsche Seite!!! Aber egal, gefunden! Falls die wilden Schweine aufgetaucht wären, hatte ich mir schon einen Fluchtplan ausgedacht. Ein paar Stufen höher!!! Aufgrund der Wildschweinmatsche habe ich jetzt dunkelbraune Schuhe, bin einmal mittenrein gepatscht. Aber der Drilling war schön anzusehen! Das Schätzchen benötigt vorm Winter nochmal eine neue Tüte denke ich, da waren schon einige Löcher drin!
+Danke für den von uns selbst organisierten Querwaldeinlauf sagt
+Dagosch</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="133188231">
+          <groundspeak:date>2010-10-26T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="275727">Mamomi-1</groundspeak:finder>
+          <groundspeak:text encoded="False">Wie um Himmels Willen findet man diesen Drilling mitten im Wald? Nur durchs Cachen oder man ist vielleicht Jäger in diesem Revier?  Bei dem Namen könnte man nämlich auch an etwas Anderes denken. Wir kamen wohl von der falschen Seite, war gar nicht so einfach sich steil bergab durchs Gebüsch und den von Wildschweinen hinterlassenen Morast zu quälen. Aber wir sind fündig geworden. 
+
+Cachergruß von Mamomi-1</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="132873556">
+          <groundspeak:date>2010-10-24T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3665179">sema2505</groundspeak:finder>
+          <groundspeak:text encoded="False">danke, schöner platz 
+
+sema2505</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="129386641">
+          <groundspeak:date>2010-10-02T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2724623">Camuvlash</groundspeak:finder>
+          <groundspeak:text encoded="False">TFTC
+schönes Plätzchen</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="121633276">
+          <groundspeak:date>2010-08-13T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2558498">Mammut-Baby</groundspeak:finder>
+          <groundspeak:text encoded="False">Der Name des Caches war hier Programm. Danke für einen weiteren Keimling.</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

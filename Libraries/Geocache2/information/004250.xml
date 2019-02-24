@@ -1,0 +1,164 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>004250</id>
+  <cache-id>GCJKTN</cache-id>
+  <type>Webcam Cache</type>
+  <name>Gardiner's Treat by Bootle, Webcam Cache (1/1)</name>
+  <size>Not chosen</size>
+  <difficulty>1</difficulty>
+  <terrain>1</terrain>
+  <last-found>never</last-found>
+  <placed>2004-06-03</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>Bootle</placedby>
+  <found>Geocache Found</found>
+  <lat>53.35075</lat>
+  <lon>-6.25415</lon>
+  <last-logs></last-logs>
+  <owner>Bootle</owner>
+  <description>Dublin's first Webcam cache!</description>
+  <long-description>This webcam cache is located at the junction of Gardiner Street and
+Talbot Street in North Dublin. You will need two people for this
+cache, one to visit the site and one to stay in front of a PC to
+save a picure of your visit. All you need to do is go to the
+coordinates listed above with your GPS and a mobile phone. The best
+place is probably the traffic island in the middle of the street.
+When you are there, phone your friend who is sitting in front of
+the PC. They need to log on to this site -
+(<a href="http://www.nci.ie/ispy/cam4.yp" target="_blank">visit
+link</a>) Confirm that they can see you with your GPS. Then they
+should save the picture by right clicking their mouse and choosing
+to "Save Picture As". Confirm that the picture is saved properly
+before you leave the spot!. Then log your find and picture here!
+<br />
+<br />
+NOTE: Only photos taken from the webcam will be accepted. Street
+level photos will have their logs deleted.</long-description>
+  <encoded-hints>
+      </encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=648aa1e3-3646-43e1-a6a1-33c49edf2937</url>
+  <url-name>Gardiner's Treat</url-name>
+  <logs><ul><li>2010-06-08T19:00:00Z : Webcam Photo Taken by Die-3-Fragezeichen <br />Used this cam to greet rest of team at home :-) TFTC 3???</li><li>2010-06-06T19:00:00Z : Webcam Photo Taken by de Bontjes <br />Our first webcam cache. We are on the picture together with 4-voeters.
+T4tc</li><li>2010-06-06T19:00:00Z : Webcam Photo Taken by 4voeters <br />Nice to do a webcam cache again. Always nice to log this once and a while.
+Thanks to Jaap Gaai who took the foto from Bergen op Zoom, The Netherlands at 19:50, Dutch time.
+Two teams are on the picture: 4voeters and De Bontjes</li><li>2010-06-02T19:00:00Z : Webcam Photo Taken by eve1987 <br />Funny ... the photo took a friend in Austria [:D]
+
+Photo is already online with the log from GudrunXY! 
+
+TFTC and kind regards from Austria, eve </li><li>2010-05-25T19:00:00Z : Webcam Photo Taken by tmob <br />#2400
+
+We looked for this cache during our holidays in Ireland.
+Six fantastic days, 1800kms driven, and a bunch of caches found.
+Definitely a great way to get to know this beautiful island!
+
+It's always nice to find this webcam caches, well, at least when the camera is still working like this one [:d].
+At first we had some doubts to where was the camera pointing, but after a phone call we figured out the right place.
+Thanks to our friend [url=http://www.geocaching.com/profile/?guid=9aae07e1-9f38-45e4-bf2d-9129af054cb5]SUp3rFM[/url] for saving the camera picture.
+
+Thanks for this one...
+Greetings from Portugal
+
+</li><li>2008-10-13T19:00:00Z : Webcam Photo Taken by Kersti.com <br />This has been on the todo list for some time and to be honest I'm just tired of seeing it on the map so I figured it was time to finally get around to doing it!</li></ul></logs>
+  <original-xml>  <wpt  lat="53.35075" lon="-6.25415">
+    <time>2004-06-03T07:00:00Z</time>
+    <name>GCJKTN</name>
+    <desc>Gardiner's Treat by Bootle, Webcam Cache (1/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=648aa1e3-3646-43e1-a6a1-33c49edf2937</url>
+    <urlname>Gardiner's Treat</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Webcam Cache</type>
+    <groundspeak:cache id="144173" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Gardiner's Treat</groundspeak:name>
+      <groundspeak:placed_by>Bootle</groundspeak:placed_by>
+      <groundspeak:owner id="96113">Bootle</groundspeak:owner>
+      <groundspeak:type>Webcam Cache</groundspeak:type>
+      <groundspeak:container>Not chosen</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>Dublin</groundspeak:state>
+      <groundspeak:short_description html="True">Dublin's first Webcam cache!</groundspeak:short_description>
+      <groundspeak:long_description html="True">This webcam cache is located at the junction of Gardiner Street and
+Talbot Street in North Dublin. You will need two people for this
+cache, one to visit the site and one to stay in front of a PC to
+save a picure of your visit. All you need to do is go to the
+coordinates listed above with your GPS and a mobile phone. The best
+place is probably the traffic island in the middle of the street.
+When you are there, phone your friend who is sitting in front of
+the PC. They need to log on to this site -
+(&lt;a href="http://www.nci.ie/ispy/cam4.yp" target="_blank"&gt;visit
+link&lt;/a&gt;) Confirm that they can see you with your GPS. Then they
+should save the picture by right clicking their mouse and choosing
+to "Save Picture As". Confirm that the picture is saved properly
+before you leave the spot!. Then log your find and picture here!
+&lt;br /&gt;
+&lt;br /&gt;
+NOTE: Only photos taken from the webcam will be accepted. Street
+level photos will have their logs deleted.</groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="112683050">
+          <groundspeak:date>2010-06-08T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Webcam Photo Taken</groundspeak:type>
+          <groundspeak:finder id="1455776">Die-3-Fragezeichen</groundspeak:finder>
+          <groundspeak:text encoded="False">Used this cam to greet rest of team at home :-) TFTC 3???</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="112434476">
+          <groundspeak:date>2010-06-06T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Webcam Photo Taken</groundspeak:type>
+          <groundspeak:finder id="2857509">de Bontjes</groundspeak:finder>
+          <groundspeak:text encoded="False">Our first webcam cache. We are on the picture together with 4-voeters.
+T4tc</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="112336989">
+          <groundspeak:date>2010-06-06T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Webcam Photo Taken</groundspeak:type>
+          <groundspeak:finder id="1051862">4voeters</groundspeak:finder>
+          <groundspeak:text encoded="False">Nice to do a webcam cache again. Always nice to log this once and a while.
+Thanks to Jaap Gaai who took the foto from Bergen op Zoom, The Netherlands at 19:50, Dutch time.
+Two teams are on the picture: 4voeters and De Bontjes</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="111888557">
+          <groundspeak:date>2010-06-02T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Webcam Photo Taken</groundspeak:type>
+          <groundspeak:finder id="1617792">eve1987</groundspeak:finder>
+          <groundspeak:text encoded="False">Funny ... the photo took a friend in Austria [:D]
+
+Photo is already online with the log from GudrunXY! 
+
+TFTC and kind regards from Austria, eve </groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="111477827">
+          <groundspeak:date>2010-05-25T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Webcam Photo Taken</groundspeak:type>
+          <groundspeak:finder id="868022">tmob</groundspeak:finder>
+          <groundspeak:text encoded="False">#2400
+
+We looked for this cache during our holidays in Ireland.
+Six fantastic days, 1800kms driven, and a bunch of caches found.
+Definitely a great way to get to know this beautiful island!
+
+It's always nice to find this webcam caches, well, at least when the camera is still working like this one [:d].
+At first we had some doubts to where was the camera pointing, but after a phone call we figured out the right place.
+Thanks to our friend [url=http://www.geocaching.com/profile/?guid=9aae07e1-9f38-45e4-bf2d-9129af054cb5]SUp3rFM[/url] for saving the camera picture.
+
+Thanks for this one...
+Greetings from Portugal
+
+</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="55016397">
+          <groundspeak:date>2008-10-13T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Webcam Photo Taken</groundspeak:type>
+          <groundspeak:finder id="320206">Kersti.com</groundspeak:finder>
+          <groundspeak:text encoded="False">This has been on the todo list for some time and to be honest I'm just tired of seeing it on the map so I figured it was time to finally get around to doing it!</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

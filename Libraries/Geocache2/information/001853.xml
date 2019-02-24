@@ -1,0 +1,172 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>001853</id>
+  <cache-id>GCN7DX</cache-id>
+  <type>Unknown Cache</type>
+  <name>The Circle by The Bridge Bandits, Unknown Cache (1/1)</name>
+  <size>Regular</size>
+  <difficulty>1</difficulty>
+  <terrain>1</terrain>
+  <last-found>2010-03-07</last-found>
+  <placed>2005-03-25</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>The Bridge Bandits</placedby>
+  <found>Geocache</found>
+  <lat>53.381567</lat>
+  <lon>-6.59105</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>The Bridge Bandits</owner>
+  <description><font size="+2" color="#FF0000"><b>The above co-ordinates are for
+reference only.</b></font></description>
+  <long-description>The above Co-ordinates are not exact and are for reference only,
+you will need to complete the Puzzle below to obtain the correct
+co-ordinates.<br />
+<br />
+ 
+<p>There's right-of-way access to this cache site via a designated
+entrance beside a closed gate, there is also an area to park your
+car close by.<br />
+Please do not bring dogs onto the site as there maybe horses
+grazing from time to time.<br />
+Please do not post "Spoilers" which might indicate the cache's
+location in your Logs, as this will ruin the Puzzle and the game
+for others. However, close-up photos won't do any harm I'm
+sure.</p>
+<p><b>The Puzzle</b><br />
+Below is a magic number square. What makes this square
+<font color="#0000FF"><b>"Magic"</b></font>?<br />
+Well I'll tell you; the numbers in each row, colum, and main
+diagonal lines have the same sum (65).<br />
+When the square is complete, the entries will consist of the
+numbers 1 through to 25,<br />
+with no duplicate numbers, and as I've already said, the common sum
+will be 65.</p>
+<p>
+<img src="http://homepage.tinet.ie/~nsjc/Images/New_Magic_Suqare.jpg"
+     width="150" height="150" /></p>
+<p><b>Cache Co-ordinates:</b><br />
+<font color="#FF0000"><b>N53°</b></font>
+<b><font color="#0000FF">D1</font><font size="3">.</font>
+<font color="#FF00FF">(C1xB3)+(D3xE2)</font><br />
+<font color="#FF0000">W006°</font>
+<font color="#0000FF">D1+A5</font><font size="3">.</font>
+<font color="#FF00FF">(E4xC4)+E3<br />
+x: Multiple within the brackets first, then add where
+required.</font></b></p>
+<p>I have forced a <i>single solution</i> to the puzzle by placing
+ten numbers in the square, so don't move them.<br />
+Good Luck!<br />
+FTF gets an un-activated Travel Bug. (Congratulations to Jim &
+Clo on their FTF)</p>
+<p><b>The cache container is a camouflaged Ammo-box.</b></p></long-description>
+  <encoded-hints>nearesttree</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=1aec0880-0836-459e-8150-9db93c0cd0a1</url>
+  <url-name>The Circle</url-name>
+  <logs><ul><li>2010-06-14T19:00:00Z : Found it by RosMcC <br />Great place. I enjoyed the little walk across the field, though I'm not so sure the sheep enjoyed having me there. Co-ords. spot on, and led me straight to the cache. TNLNSL Thanks.</li><li>2010-05-09T19:00:00Z : Found it by jdunne17 <br />My second cache. Puzzle took a while. But, I'm hooked.
+in: german-english dictionary
+out: disposable camera. </li><li>2010-04-01T19:00:00Z : Found it by roerne <br />Hilsen fra DENMARK</li><li>2010-03-28T19:00:00Z : Found it by Supergrass <br />Great location. Took TB Slug. TFTC!</li><li>2010-03-07T20:00:00Z : Found it by niripas <br />Solved the puzzle some time ago. Found the cache just after midnight. Really interesting place.
+Thanks!</li></ul></logs>
+  <original-xml>  <wpt  lat="53.381567" lon="-6.59105">
+    <time>2005-03-25T07:00:00Z</time>
+    <name>GCN7DX</name>
+    <desc>The Circle by The Bridge Bandits, Unknown Cache (1/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=1aec0880-0836-459e-8150-9db93c0cd0a1</url>
+    <urlname>The Circle</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Unknown Cache</type>
+    <groundspeak:cache id="221649" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>The Circle</groundspeak:name>
+      <groundspeak:placed_by>The Bridge Bandits</groundspeak:placed_by>
+      <groundspeak:owner id="153387">The Bridge Bandits</groundspeak:owner>
+      <groundspeak:type>Unknown Cache</groundspeak:type>
+      <groundspeak:container>Regular</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>Leinster</groundspeak:state>
+      <groundspeak:short_description html="True">&lt;font size="+2" color="#FF0000"&gt;&lt;b&gt;The above co-ordinates are for
+reference only.&lt;/b&gt;&lt;/font&gt;</groundspeak:short_description>
+      <groundspeak:long_description html="True">The above Co-ordinates are not exact and are for reference only,
+you will need to complete the Puzzle below to obtain the correct
+co-ordinates.&lt;br /&gt;
+&lt;br /&gt;
+ 
+&lt;p&gt;There's right-of-way access to this cache site via a designated
+entrance beside a closed gate, there is also an area to park your
+car close by.&lt;br /&gt;
+Please do not bring dogs onto the site as there maybe horses
+grazing from time to time.&lt;br /&gt;
+Please do not post "Spoilers" which might indicate the cache's
+location in your Logs, as this will ruin the Puzzle and the game
+for others. However, close-up photos won't do any harm I'm
+sure.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;The Puzzle&lt;/b&gt;&lt;br /&gt;
+Below is a magic number square. What makes this square
+&lt;font color="#0000FF"&gt;&lt;b&gt;"Magic"&lt;/b&gt;&lt;/font&gt;?&lt;br /&gt;
+Well I'll tell you; the numbers in each row, colum, and main
+diagonal lines have the same sum (65).&lt;br /&gt;
+When the square is complete, the entries will consist of the
+numbers 1 through to 25,&lt;br /&gt;
+with no duplicate numbers, and as I've already said, the common sum
+will be 65.&lt;/p&gt;
+&lt;p&gt;
+&lt;img src="http://homepage.tinet.ie/~nsjc/Images/New_Magic_Suqare.jpg"
+     width="150" height="150" /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Cache Co-ordinates:&lt;/b&gt;&lt;br /&gt;
+&lt;font color="#FF0000"&gt;&lt;b&gt;N53°&lt;/b&gt;&lt;/font&gt;
+&lt;b&gt;&lt;font color="#0000FF"&gt;D1&lt;/font&gt;&lt;font size="3"&gt;.&lt;/font&gt;
+&lt;font color="#FF00FF"&gt;(C1xB3)+(D3xE2)&lt;/font&gt;&lt;br /&gt;
+&lt;font color="#FF0000"&gt;W006°&lt;/font&gt;
+&lt;font color="#0000FF"&gt;D1+A5&lt;/font&gt;&lt;font size="3"&gt;.&lt;/font&gt;
+&lt;font color="#FF00FF"&gt;(E4xC4)+E3&lt;br /&gt;
+x: Multiple within the brackets first, then add where
+required.&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;I have forced a &lt;i&gt;single solution&lt;/i&gt; to the puzzle by placing
+ten numbers in the square, so don't move them.&lt;br /&gt;
+Good Luck!&lt;br /&gt;
+FTF gets an un-activated Travel Bug. (Congratulations to Jim &amp;amp;
+Clo on their FTF)&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;The cache container is a camouflaged Ammo-box.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Additional Waypoints&lt;/p&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>nearesttree</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="112987248">
+          <groundspeak:date>2010-06-14T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="774796">RosMcC</groundspeak:finder>
+          <groundspeak:text encoded="False">Great place. I enjoyed the little walk across the field, though I'm not so sure the sheep enjoyed having me there. Co-ords. spot on, and led me straight to the cache. TNLNSL Thanks.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="107815468">
+          <groundspeak:date>2010-05-09T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3250084">jdunne17</groundspeak:finder>
+          <groundspeak:text encoded="False">My second cache. Puzzle took a while. But, I'm hooked.
+in: german-english dictionary
+out: disposable camera. </groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="102171838">
+          <groundspeak:date>2010-04-01T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1038031">roerne</groundspeak:finder>
+          <groundspeak:text encoded="False">Hilsen fra DENMARK</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="101423264">
+          <groundspeak:date>2010-03-28T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2771640">Supergrass</groundspeak:finder>
+          <groundspeak:text encoded="False">Great location. Took TB Slug. TFTC!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="99188277">
+          <groundspeak:date>2010-03-07T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1720330">niripas</groundspeak:finder>
+          <groundspeak:text encoded="False">Solved the puzzle some time ago. Found the cache just after midnight. Really interesting place.
+Thanks!</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

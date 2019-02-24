@@ -1,0 +1,138 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>005366</id>
+  <cache-id>GC1RJ10</cache-id>
+  <type>Traditional Cache</type>
+  <name>Der kleine Feine by Cachegrillaz, Traditional Cache (1.5/1)</name>
+  <size>Micro</size>
+  <difficulty>1.5</difficulty>
+  <terrain>1</terrain>
+  <last-found>2010-10-27</last-found>
+  <placed>2009-05-19</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Cachegrillaz</placedby>
+  <found>Geocache</found>
+  <lat>50.555617</lat>
+  <lon>9.669233</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>Cachegrillaz</owner>
+  <description><p><img src=
+"http://img.geocaching.com/cache/e986e000-273b-4926-b58b-36f65e6a818d.jpg"
+alt="Der kleine Feine" /></p>
+<b>DEUTSCH:</b><br />
+Der Micro befindet sich an einer Straße mit Bürgersteig. Geparkt
+werden kann ein paar Meter weiter hinter dem DOM.
+<p><b>ENGLISH:</b><br />
+The micro is located at a street with a sidewalk. You can park your
+car within a couple of meters behind the Fulda minster.</p>
+<hr /></description>
+  <long-description><b>DEUTSCH:</b><br />
+Eine kleine Vitamindose welche wir auf dem Weg zur Arbeit plaziert
+haben.
+<p><b>ENGLISH:</b><br />
+A small vitamin capsule which we have deposited on our way to
+work.</p></long-description>
+  <encoded-hints>auch mal die Luft ablassen
+
+
+to vent one's anger</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=6515545d-16a7-4ef8-b2c1-e933a48dc476</url>
+  <url-name>Der kleine Feine</url-name>
+  <logs><ul><li>2010-11-28T20:00:00Z : Found it by BB! <br />beim 2.mal ging es jetzt schnell - RN und BB!</li><li>2010-11-24T20:00:00Z : Found it by yonex <br />Mit Hilfe des hints war es trotz zahlreicher Muggel doch möglich den Kleinen zu bergen.
+
+TFTC</li><li>2010-11-20T20:00:00Z : Found it by SaPhi <br />Ohne den Hint ist das schon ein fieses Versteck. [;)] Sind aber dennoch fündig geworden. [:D]
+
+Danke für den Cache.</li><li>2010-11-17T20:00:00Z : Found it by woodi65 <br />Der Hinweis war mir erst sehr rätselhaft, aber vor Ort war mir sofort klar, was er bedeutet.
+Trotzdem ist mir das Loggen erst beim zweiten mal gelungen.
+Und man muss wegen der erhöhten Muggeldichte sehr vorsichtig sein.
+Tolle Idee!!
+TFTC
+woodi65</li><li>2010-10-27T19:00:00Z : Found it by Stierwade <br />cooles Versteck - nachts sind nur ein paar Muggels unterwegs, deswegen schnell gefunden und geloggt.
+TFTC Gruß Stierwade</li></ul></logs>
+  <original-xml>  <wpt  lat="50.555617" lon="9.669233">
+    <time>2009-05-19T07:00:00Z</time>
+    <name>GC1RJ10</name>
+    <desc>Der kleine Feine by Cachegrillaz, Traditional Cache (1.5/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=6515545d-16a7-4ef8-b2c1-e933a48dc476</url>
+    <urlname>Der kleine Feine</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1244714" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Der kleine Feine</groundspeak:name>
+      <groundspeak:placed_by>Cachegrillaz</groundspeak:placed_by>
+      <groundspeak:owner id="998368">Cachegrillaz</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="True">&lt;p&gt;&lt;img src=
+"http://img.geocaching.com/cache/e986e000-273b-4926-b58b-36f65e6a818d.jpg"
+alt="Der kleine Feine" /&gt;&lt;/p&gt;
+&lt;b&gt;DEUTSCH:&lt;/b&gt;&lt;br /&gt;
+Der Micro befindet sich an einer Straße mit Bürgersteig. Geparkt
+werden kann ein paar Meter weiter hinter dem DOM.
+&lt;p&gt;&lt;b&gt;ENGLISH:&lt;/b&gt;&lt;br /&gt;
+The micro is located at a street with a sidewalk. You can park your
+car within a couple of meters behind the Fulda minster.&lt;/p&gt;
+&lt;hr /&gt;</groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;b&gt;DEUTSCH:&lt;/b&gt;&lt;br /&gt;
+Eine kleine Vitamindose welche wir auf dem Weg zur Arbeit plaziert
+haben.
+&lt;p&gt;&lt;b&gt;ENGLISH:&lt;/b&gt;&lt;br /&gt;
+A small vitamin capsule which we have deposited on our way to
+work.&lt;/p&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>auch mal die Luft ablassen
+
+
+to vent one's anger</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="137414999">
+          <groundspeak:date>2010-11-28T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3781589">BB!</groundspeak:finder>
+          <groundspeak:text encoded="False">beim 2.mal ging es jetzt schnell - RN und BB!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="137098591">
+          <groundspeak:date>2010-11-24T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1942538">yonex</groundspeak:finder>
+          <groundspeak:text encoded="False">Mit Hilfe des hints war es trotz zahlreicher Muggel doch möglich den Kleinen zu bergen.
+
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="136592932">
+          <groundspeak:date>2010-11-20T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1954574">SaPhi</groundspeak:finder>
+          <groundspeak:text encoded="False">Ohne den Hint ist das schon ein fieses Versteck. [;)] Sind aber dennoch fündig geworden. [:D]
+
+Danke für den Cache.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="136183474">
+          <groundspeak:date>2010-11-17T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3620737">woodi65</groundspeak:finder>
+          <groundspeak:text encoded="False">Der Hinweis war mir erst sehr rätselhaft, aber vor Ort war mir sofort klar, was er bedeutet.
+Trotzdem ist mir das Loggen erst beim zweiten mal gelungen.
+Und man muss wegen der erhöhten Muggeldichte sehr vorsichtig sein.
+Tolle Idee!!
+TFTC
+woodi65</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="133347531">
+          <groundspeak:date>2010-10-27T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2618790">Stierwade</groundspeak:finder>
+          <groundspeak:text encoded="False">cooles Versteck - nachts sind nur ein paar Muggels unterwegs, deswegen schnell gefunden und geloggt.
+TFTC Gruß Stierwade</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

@@ -1,0 +1,138 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>001615</id>
+  <cache-id>GCYMWT</cache-id>
+  <type>Traditional Cache</type>
+  <name>French Forrest by shaktimaan, Traditional Cache (1/1)</name>
+  <size>Micro</size>
+  <difficulty>1</difficulty>
+  <terrain>1</terrain>
+  <last-found>2008-12-22</last-found>
+  <placed>2006-10-02</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>shaktimaan</placedby>
+  <found>Geocache</found>
+  <lat>50.5494</lat>
+  <lon>9.682833</lon>
+  <last-logs>FXFFFX</last-logs>
+  <owner>shaktimaan</owner>
+  <description>
+      </description>
+  <long-description><div style="background-color:#eeeeee;padding:10px"><img src=
+     "http://dict.leo.org/de.gif">&nbsp;Kleiner Drive-In für
+     zwischendurch. Zentral in einem kleinen Fuldaer "Park"
+     gelegen, leicht anzufahren und zu finden.</div>
+<br>
+<br>
+<div style="background-color:#eeeeee;padding:10px"><img src=
+"http://dict.leo.org/en.gif">&nbsp;A small littel Drive-In in a
+small park in the city of fulda.drive in cache out</div></long-description>
+  <encoded-hints>im fusse eines grossen baumes
+at the bottom of a large tree</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=159def50-b9e9-4027-9d01-f2da5849725f</url>
+  <url-name>French Forrest</url-name>
+  <logs><ul><li>2010-12-09T20:00:00Z : Found it by Werder12 <br />Nach dem Seminar Lockerungsrunde gedreht und dabei auch diesen eingesammelt. Ok, hat etwas länger gedauert, aber im Dunkeln konnte ich mir etwas mehr Zeit lassen [;)] Hoffe, meine Bleistiftnotiz im vollen Logbuch ist irgendwie zu identifizieren. TFTC</li><li>2010-11-24T20:00:00Z : Didn't find it by Schweffe <br />Die diversen Versteckmöglichkeiten abgesucht, aber leider nichts gefunden... Konnten alllerdings nicht allzu genau suchen, da die Schule grad aus war und ein Haufen Schülermuggles unterwegs durch den Friedhof waren, vielleicht ein ander mal</li><li>2010-11-18T22:12:26Z : Found it by TIDDI <br />Nach Käsekauf schnell gefunden. Gruß TIDDI</li><li>2010-10-31T19:00:00Z : Found it by marvin.42 <br />Heute Bekannten das Geocaching schmackhaft gemacht und gleich mal zusammen probiert. Wir haben lange gesucht, wie sich herausstellte an der falschen Stelle. Wir hatten eigentlich schon aufgegeben als meine Tochter dann doch die richtige "verdächtige" Stelle gefunden hatte -&gt; Volltreffer.
+Cache gehoben und geloggt (irgendwo im Logbuch habe ich noch ein bisschen Platz gefunden).
+TFTC #22  
+31.10.2010 17:50</li><li>2010-10-30T19:00:00Z : Found it by mapl.e <br />TTFTC
+Bitte Log erneuern!</li><li>2008-12-22T20:00:00Z : Didn't find it by Kersti.com <br />In Fulda for Christmas and thought I'd do a little caching. I found the spot no problem, unfortunately I could not find the cache but did find a cache label on the ground. I would suspect that this one is nolonger.
+
+Now to try my fledgling German....
+
+Das Schild von dem Cache liegt neben dem Baum, auf dem Boden.</li><li>2008-12-22T16:55:01Z : Needs Maintenance by Kersti.com <br />Das Schild von dem Cache liegt neben dem Baum, auf dem Boden.
+
+
+I suspect that this one may be nolonger there, I could not find anything except the label on the ground.</li></ul></logs>
+  <original-xml>  <wpt  lat="50.5494" lon="9.682833">
+    <time>2006-10-02T07:00:00Z</time>
+    <name>GCYMWT</name>
+    <desc>French Forrest by shaktimaan, Traditional Cache (1/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=159def50-b9e9-4027-9d01-f2da5849725f</url>
+    <urlname>French Forrest</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="472901" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>French Forrest</groundspeak:name>
+      <groundspeak:placed_by>shaktimaan</groundspeak:placed_by>
+      <groundspeak:owner id="700750">shaktimaan</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="True">
+      </groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;div style="background-color:#eeeeee;padding:10px"&gt;&lt;img src=
+     "http://dict.leo.org/de.gif"&gt;&amp;nbsp;Kleiner Drive-In für
+     zwischendurch. Zentral in einem kleinen Fuldaer "Park"
+     gelegen, leicht anzufahren und zu finden.&lt;/div&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;div style="background-color:#eeeeee;padding:10px"&gt;&lt;img src=
+"http://dict.leo.org/en.gif"&gt;&amp;nbsp;A small littel Drive-In in a
+small park in the city of fulda.drive in cache out&lt;/div&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>im fusse eines grossen baumes
+at the bottom of a large tree</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="138314311">
+          <groundspeak:date>2010-12-09T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2430465">Werder12</groundspeak:finder>
+          <groundspeak:text encoded="False">Nach dem Seminar Lockerungsrunde gedreht und dabei auch diesen eingesammelt. Ok, hat etwas länger gedauert, aber im Dunkeln konnte ich mir etwas mehr Zeit lassen [;)] Hoffe, meine Bleistiftnotiz im vollen Logbuch ist irgendwie zu identifizieren. TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="137007806">
+          <groundspeak:date>2010-11-24T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Didn't find it</groundspeak:type>
+          <groundspeak:finder id="2355077">Schweffe</groundspeak:finder>
+          <groundspeak:text encoded="False">Die diversen Versteckmöglichkeiten abgesucht, aber leider nichts gefunden... Konnten alllerdings nicht allzu genau suchen, da die Schule grad aus war und ein Haufen Schülermuggles unterwegs durch den Friedhof waren, vielleicht ein ander mal</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="136257978">
+          <groundspeak:date>2010-11-18T22:12:26Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3293314">TIDDI</groundspeak:finder>
+          <groundspeak:text encoded="False">Nach Käsekauf schnell gefunden. Gruß TIDDI</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="133966256">
+          <groundspeak:date>2010-10-31T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2728057">marvin.42</groundspeak:finder>
+          <groundspeak:text encoded="False">Heute Bekannten das Geocaching schmackhaft gemacht und gleich mal zusammen probiert. Wir haben lange gesucht, wie sich herausstellte an der falschen Stelle. Wir hatten eigentlich schon aufgegeben als meine Tochter dann doch die richtige "verdächtige" Stelle gefunden hatte -&gt; Volltreffer.
+Cache gehoben und geloggt (irgendwo im Logbuch habe ich noch ein bisschen Platz gefunden).
+TFTC #22  
+31.10.2010 17:50</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="133657145">
+          <groundspeak:date>2010-10-30T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2146110">mapl.e</groundspeak:finder>
+          <groundspeak:text encoded="False">TTFTC
+Bitte Log erneuern!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="58997803">
+          <groundspeak:date>2008-12-22T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Didn't find it</groundspeak:type>
+          <groundspeak:finder id="320206">Kersti.com</groundspeak:finder>
+          <groundspeak:text encoded="False">In Fulda for Christmas and thought I'd do a little caching. I found the spot no problem, unfortunately I could not find the cache but did find a cache label on the ground. I would suspect that this one is nolonger.
+
+Now to try my fledgling German....
+
+Das Schild von dem Cache liegt neben dem Baum, auf dem Boden.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="58997847">
+          <groundspeak:date>2008-12-22T16:55:01Z</groundspeak:date>
+          <groundspeak:type>Needs Maintenance</groundspeak:type>
+          <groundspeak:finder id="320206">Kersti.com</groundspeak:finder>
+          <groundspeak:text encoded="False">Das Schild von dem Cache liegt neben dem Baum, auf dem Boden.
+
+
+I suspect that this one may be nolonger there, I could not find anything except the label on the ground.</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

@@ -1,0 +1,162 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>006107</id>
+  <cache-id>GC2J0Q0</cache-id>
+  <type>Traditional Cache</type>
+  <name>Am Rande der Rhöner Fluggeschosse by Riesemils & Rhönbengel, Traditional Cache (3/1.5)</name>
+  <size>Micro</size>
+  <difficulty>3</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-11-13</last-found>
+  <placed>2010-11-09</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Riesemils & Rhönbengel</placedby>
+  <found>Geocache</found>
+  <lat>50.584267</lat>
+  <lon>9.821483</lon>
+  <last-logs>FFFF</last-logs>
+  <owner>HubiFD</owner>
+  <description>
+      </description>
+  <long-description><b>Kleiner Nano, am Rande bei den Rhöner Fluggeschossen.</b><br />
+<br />
+Parken kann man beim Panorama-Hotel beim Golfplatz Hofbieber, von
+dort aus<br />
+macht man am Besten einen kurzen Spaziergang durch den Golfplatz
+bis ihr diese Hütte seht.<br />
+<br />
+<img src=
+"http://www.HubiFD.de/Bildernetz/GC/Rhoenklub_Huette_Hofbieber.jpg"
+width="800" height="600" /><br />
+<br />
+Dort angekommen steht ihr vor der Herausforderung.<br />
+Die Koords befinden sich bei der Rhönklub-Hütte am Rande des
+Golfplatzes,<br />
+von hier aus hat man einen schönen Blick in Richtung Fuldaer
+Land.<br />
+<br />
+An Wochenenden und an schönen Tagen kann es sich evtl. schwierig
+gestalten<br />
+den Cache zu heben, da die Rhönklub-Hütte dann wahrscheinlich
+geöffnet hat<br />
+und mit erhöhtem Muggelaufkommen zu rechnen ist.<br />
+Die Golf-Muggels sind eigentlich kein großes Hindernis, aber<br />
+mit Spazier-Muggels muss trotzdem gerechnet werden.<br />
+<br />
+<b>Bitte beachtet bei der Suche folgendes:</b><br />
+<br />
+-sollten zu viele Muggels unterwegs sein, dann brecht die Suche
+lieber ab. Bringt den Cache nicht unütz in Gefahr!<br />
+-da es hier in letzter Zeit Fälle von Vandalismus gab, gibt es hier
+eine Überwachungskamera!<br />
+-befestigt bitte alles wieder so wie Ihr es vorgefunden habt.<br />
+<br />
+<br />
+<b>So, und nun wünschen Euch der Riesemils und der Rhönbengel viel
+Spaß bei der Suche.</b></long-description>
+  <encoded-hints>
+      </encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=3fce3d89-45d3-4db6-a061-633e3e9c13a5</url>
+  <url-name>Am Rande der Rhöner Fluggeschosse</url-name>
+  <logs><ul><li>2010-11-21T20:00:00Z : Found it by super sunshine <br />Toller Cache, super Idee. So einen ähnlichen Cache habe ich schon mal in Göttingen gehabt. Daher wusste ich, wonach ich suchen musste. Danke und Grüße</li><li>2010-11-20T20:00:00Z : Found it by Aldokyl <br />Ein etwas grenzwärtiger Cache, vor allem, wenn hier auch noch Muggels wären. Das war heute glücklicherweise nicht der Fall und so konnte ich ungestört suchen. Ohne eine kleine Hilfe wäre ich sicher ohne Fund abgezogen.
+Ein solches Versteck hatte ich bisher noch nicht.</li><li>2010-11-14T20:00:00Z : Found it by webfraggle <br />Man merkt, dass wir nur noch sehr selten Cachen. Wir waren schon kurz vor der Aufgabe, aber dank dem Team Maluma konnten wir den Cache dann doch noch heben. Vielen Dank für die nette Idee.</li><li>2010-11-14T20:00:00Z : Found it by Maluma <br />FTF!!! Da der Riesemils bestimmt noch schläft nach seinem Einsatz heute Nacht, habe ich die Gunst der Stunde genutzt und mit der Familie einen Ausflug nach Hofbieber gemacht. Nach etwas Suchen haben wir  ihn auch dann endlich gefunden...wie bei Hubifd´s Cachen so üblich, liegt meist der Hint im Text verborgen. Auf dem Rückweg dann die nächsten beim Suchen beobachtet...grins...wir waren schneller ätsch!
+TFTC MALUMA</li><li>2010-11-13T07:54:53Z : Publish Listing by Don Rocbeer <br />Published</li></ul></logs>
+  <original-xml>  <wpt  lat="50.584267" lon="9.821483">
+    <time>2010-11-09T08:00:00Z</time>
+    <name>GC2J0Q0</name>
+    <desc>Am Rande der Rhöner Fluggeschosse by Riesemils &amp; Rhönbengel, Traditional Cache (3/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=3fce3d89-45d3-4db6-a061-633e3e9c13a5</url>
+    <urlname>Am Rande der Rhöner Fluggeschosse</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1972873" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Am Rande der Rhöner Fluggeschosse</groundspeak:name>
+      <groundspeak:placed_by>Riesemils &amp; Rhönbengel</groundspeak:placed_by>
+      <groundspeak:owner id="2729325">HubiFD</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>3</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="True">
+      </groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;b&gt;Kleiner Nano, am Rande bei den Rhöner Fluggeschossen.&lt;/b&gt;&lt;br /&gt;
+&lt;br /&gt;
+Parken kann man beim Panorama-Hotel beim Golfplatz Hofbieber, von
+dort aus&lt;br /&gt;
+macht man am Besten einen kurzen Spaziergang durch den Golfplatz
+bis ihr diese Hütte seht.&lt;br /&gt;
+&lt;br /&gt;
+&lt;img src=
+"http://www.HubiFD.de/Bildernetz/GC/Rhoenklub_Huette_Hofbieber.jpg"
+width="800" height="600" /&gt;&lt;br /&gt;
+&lt;br /&gt;
+Dort angekommen steht ihr vor der Herausforderung.&lt;br /&gt;
+Die Koords befinden sich bei der Rhönklub-Hütte am Rande des
+Golfplatzes,&lt;br /&gt;
+von hier aus hat man einen schönen Blick in Richtung Fuldaer
+Land.&lt;br /&gt;
+&lt;br /&gt;
+An Wochenenden und an schönen Tagen kann es sich evtl. schwierig
+gestalten&lt;br /&gt;
+den Cache zu heben, da die Rhönklub-Hütte dann wahrscheinlich
+geöffnet hat&lt;br /&gt;
+und mit erhöhtem Muggelaufkommen zu rechnen ist.&lt;br /&gt;
+Die Golf-Muggels sind eigentlich kein großes Hindernis, aber&lt;br /&gt;
+mit Spazier-Muggels muss trotzdem gerechnet werden.&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Bitte beachtet bei der Suche folgendes:&lt;/b&gt;&lt;br /&gt;
+&lt;br /&gt;
+-sollten zu viele Muggels unterwegs sein, dann brecht die Suche
+lieber ab. Bringt den Cache nicht unütz in Gefahr!&lt;br /&gt;
+-da es hier in letzter Zeit Fälle von Vandalismus gab, gibt es hier
+eine Überwachungskamera!&lt;br /&gt;
+-befestigt bitte alles wieder so wie Ihr es vorgefunden habt.&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;So, und nun wünschen Euch der Riesemils und der Rhönbengel viel
+Spaß bei der Suche.&lt;/b&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="136651345">
+          <groundspeak:date>2010-11-21T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2807204">super sunshine</groundspeak:finder>
+          <groundspeak:text encoded="False">Toller Cache, super Idee. So einen ähnlichen Cache habe ich schon mal in Göttingen gehabt. Daher wusste ich, wonach ich suchen musste. Danke und Grüße</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="136439395">
+          <groundspeak:date>2010-11-20T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="438973">Aldokyl</groundspeak:finder>
+          <groundspeak:text encoded="False">Ein etwas grenzwärtiger Cache, vor allem, wenn hier auch noch Muggels wären. Das war heute glücklicherweise nicht der Fall und so konnte ich ungestört suchen. Ohne eine kleine Hilfe wäre ich sicher ohne Fund abgezogen.
+Ein solches Versteck hatte ich bisher noch nicht.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="135788109">
+          <groundspeak:date>2010-11-14T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="199604">webfraggle</groundspeak:finder>
+          <groundspeak:text encoded="False">Man merkt, dass wir nur noch sehr selten Cachen. Wir waren schon kurz vor der Aufgabe, aber dank dem Team Maluma konnten wir den Cache dann doch noch heben. Vielen Dank für die nette Idee.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="135753628">
+          <groundspeak:date>2010-11-14T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1380311">Maluma</groundspeak:finder>
+          <groundspeak:text encoded="False">FTF!!! Da der Riesemils bestimmt noch schläft nach seinem Einsatz heute Nacht, habe ich die Gunst der Stunde genutzt und mit der Familie einen Ausflug nach Hofbieber gemacht. Nach etwas Suchen haben wir  ihn auch dann endlich gefunden...wie bei Hubifd´s Cachen so üblich, liegt meist der Hint im Text verborgen. Auf dem Rückweg dann die nächsten beim Suchen beobachtet...grins...wir waren schneller ätsch!
+TFTC MALUMA</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="135537823">
+          <groundspeak:date>2010-11-13T07:54:53Z</groundspeak:date>
+          <groundspeak:type>Publish Listing</groundspeak:type>
+          <groundspeak:finder id="1291446">Don Rocbeer</groundspeak:finder>
+          <groundspeak:text encoded="False">Published</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

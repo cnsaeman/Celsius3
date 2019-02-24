@@ -1,0 +1,160 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>001489</id>
+  <cache-id>GC1MX5B</cache-id>
+  <type>Unknown Cache</type>
+  <name>My name is... by the incachibles, Unknown Cache (2/1.5)</name>
+  <size>Micro</size>
+  <difficulty>2</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>never</last-found>
+  <placed>2009-02-20</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>the incachibles</placedby>
+  <found>Geocache</found>
+  <lat>53.406</lat>
+  <lon>-6.212083</lon>
+  <last-logs>EWX</last-logs>
+  <owner>The Incachibles</owner>
+  <description>This is my very first hide so I hope you will like it.The cache is hidden in  a park where I've been walking my dog every now and then.Its close to where I live as well.
+The coordinates above will take you to one of several entrances of the park,for the actual coordinates you will need to look very close at my account name.Park is accessible 24/7/365 and there is loads of free parking everywhere.Bring your own pen as the cache is too small to hold one.
+Below is the key to the real coordinates.</description>
+  <long-description>There will be 15 steps and each step will give you one digit of the real coordinates.
+
+Letters from A to G will stand for numbers from the first coordinate,A is first digit,B second ,C third etc..
+Letters from H to O will stand for numbers from the second coordinate.H is first,I second etc...
+
+Look at my name  -The Incachibles-
+
+A - number of letters in second word minus 6
+B - number of letters in first word
+C - how many letters "i" are there in my name
+D - number of letters "c" plus letters "i" in my name
+E - number of letters in first word 
+F - number of letters in the second word minus 2
+G - how many caches have I hidden prior to this one using this account ...
+
+
+H - number of letters "z" in my name
+I - number of digits in my name
+J - number of letters in the first word multiplied by 2
+K - number of letters "t" in my name
+L - number of words in my name
+M - the answer to question C(third) multiplied by 2
+N - the answer to question A plus answer to question    B  minus 7
+O - number of letters in the first word multiplied by 2 minus 1
+
+
+Good luck with this one!
+
+Additional Waypoints
+AA1MX5B - entrance to park
+N 53° 24.360 W 006° 12.725
+
+</long-description>
+  <encoded-hints>tree,knee high</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=9362535e-342a-4e35-a86d-c18abc4cfbfd</url>
+  <url-name>My name is...</url-name>
+  <logs><ul><li>2010-06-03T13:38:14Z : Enable Listing by The Incachibles <br />Apologies for taking so long with replacing this cache but its there now,brand new,bit harder to find and some 150 meters from the original one.Coordinates updated..Good luck!</li><li>2010-05-29T15:15:23Z : Needs Archived by Spark_ie <br />No efforts from Cache owner to maintain this cache [:(]</li><li>2010-05-15T19:00:00Z : Write note by Frezeluberz <br />Solved this but when driving to go for it realised that it hasn't been found since June last year so didn't bother.
+Headed on to another cache instead.</li><li>2010-03-20T19:00:00Z : Needs Maintenance by Crannyn <br />I don't think this cache is still there. 
+We were at the correct place.</li><li>2010-01-16T20:00:00Z : Didn't find it by Spark_ie <br />Had a good look in a number of different locations, but couldn't find the cache.. Can the owner confirm the cache is still there? Regards, Spark_ie</li></ul></logs>
+  <original-xml>  <wpt  lat="53.406" lon="-6.212083">
+    <time>2009-02-20T08:00:00Z</time>
+    <name>GC1MX5B</name>
+    <desc>My name is... by the incachibles, Unknown Cache (2/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=9362535e-342a-4e35-a86d-c18abc4cfbfd</url>
+    <urlname>My name is...</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Unknown Cache</type>
+    <groundspeak:cache id="1135295" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>My name is...</groundspeak:name>
+      <groundspeak:placed_by>the incachibles</groundspeak:placed_by>
+      <groundspeak:owner id="2132809">The Incachibles</groundspeak:owner>
+      <groundspeak:type>Unknown Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>2</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>Dublin</groundspeak:state>
+      <groundspeak:short_description html="False">This is my very first hide so I hope you will like it.The cache is hidden in  a park where I've been walking my dog every now and then.Its close to where I live as well.
+The coordinates above will take you to one of several entrances of the park,for the actual coordinates you will need to look very close at my account name.Park is accessible 24/7/365 and there is loads of free parking everywhere.Bring your own pen as the cache is too small to hold one.
+Below is the key to the real coordinates.</groundspeak:short_description>
+      <groundspeak:long_description html="False">There will be 15 steps and each step will give you one digit of the real coordinates.
+
+Letters from A to G will stand for numbers from the first coordinate,A is first digit,B second ,C third etc..
+Letters from H to O will stand for numbers from the second coordinate.H is first,I second etc...
+
+Look at my name  -The Incachibles-
+
+A - number of letters in second word minus 6
+B - number of letters in first word
+C - how many letters "i" are there in my name
+D - number of letters "c" plus letters "i" in my name
+E - number of letters in first word 
+F - number of letters in the second word minus 2
+G - how many caches have I hidden prior to this one using this account ...
+
+
+H - number of letters "z" in my name
+I - number of digits in my name
+J - number of letters in the first word multiplied by 2
+K - number of letters "t" in my name
+L - number of words in my name
+M - the answer to question C(third) multiplied by 2
+N - the answer to question A plus answer to question    B  minus 7
+O - number of letters in the first word multiplied by 2 minus 1
+
+
+Good luck with this one!
+
+Additional Waypoints
+AA1MX5B - entrance to park
+N 53° 24.360 W 006° 12.725
+
+</groundspeak:long_description>
+      <groundspeak:encoded_hints>tree,knee high</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="111331122">
+          <groundspeak:date>2010-06-03T13:38:14Z</groundspeak:date>
+          <groundspeak:type>Enable Listing</groundspeak:type>
+          <groundspeak:finder id="2132809">The Incachibles</groundspeak:finder>
+          <groundspeak:text encoded="False">Apologies for taking so long with replacing this cache but its there now,brand new,bit harder to find and some 150 meters from the original one.Coordinates updated..Good luck!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="110532645">
+          <groundspeak:date>2010-05-29T15:15:23Z</groundspeak:date>
+          <groundspeak:type>Needs Archived</groundspeak:type>
+          <groundspeak:finder id="950104">Spark_ie</groundspeak:finder>
+          <groundspeak:text encoded="False">No efforts from Cache owner to maintain this cache [:(]</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="108912177">
+          <groundspeak:date>2010-05-15T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Write note</groundspeak:type>
+          <groundspeak:finder id="1548662">Frezeluberz</groundspeak:finder>
+          <groundspeak:text encoded="False">Solved this but when driving to go for it realised that it hasn't been found since June last year so didn't bother.
+Headed on to another cache instead.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="100324617">
+          <groundspeak:date>2010-03-20T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Needs Maintenance</groundspeak:type>
+          <groundspeak:finder id="2557004">Crannyn</groundspeak:finder>
+          <groundspeak:text encoded="False">I don't think this cache is still there. 
+We were at the correct place.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="95289904">
+          <groundspeak:date>2010-01-16T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Didn't find it</groundspeak:type>
+          <groundspeak:finder id="950104">Spark_ie</groundspeak:finder>
+          <groundspeak:text encoded="False">Had a good look in a number of different locations, but couldn't find the cache.. Can the owner confirm the cache is still there? Regards, Spark_ie</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs>
+        <groundspeak:travelbug id="1223706" ref="TB1QW5A">
+          <groundspeak:name>TB Monkey </groundspeak:name>
+        </groundspeak:travelbug>
+      </groundspeak:travelbugs>
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

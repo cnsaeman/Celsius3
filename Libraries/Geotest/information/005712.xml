@@ -1,0 +1,141 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>005712</id>
+  <cache-id>GC13F7V</cache-id>
+  <type>Traditional Cache</type>
+  <name>A7 TB-Hotel Richtung Süden (Hummelskopf)  by webfraggle, Traditional Cache (1/1)</name>
+  <size>Regular</size>
+  <difficulty>1</difficulty>
+  <terrain>1</terrain>
+  <last-found>2010-11-16</last-found>
+  <placed>2007-06-07</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>webfraggle</placedby>
+  <found>Geocache</found>
+  <lat>50.6059</lat>
+  <lon>9.679683</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>webfraggle</owner>
+  <description>
+      </description>
+  <long-description>Ein nahe Fulda gelegenes Travel-Bug Hotel für alle TBs, die Richtung Süden wollen. 
+
+P.S.: Wie der Name schon sagt, ist der Cache nur von der A7 über den dortigen Parkplatz erreichbar.</long-description>
+  <encoded-hints>Doppelpack</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=1abcd0c6-37f3-4390-a997-44950c67189f</url>
+  <url-name>A7 TB-Hotel Richtung Süden (Hummelskopf) </url-name>
+  <logs><ul><li>2010-12-06T20:00:00Z : Found it by reddragoneye <br />Schon spaßig durch die verschneite nächtliche Winterlandschaft zu wandern auf der Suche nach dem Cache.
+
+In: C4 Lonely Screw
+
+TFTC
+Sonnenbluemle & Reddragoneye</li><li>2010-12-05T20:00:00Z : Found it by Tigger&Schlumpf <br />Heute auf der Heimfahrt mal schnell Rast auf diesem Parkplatz gemacht. Wir hatten schon Angst das aufgrund der massigen Rodungsarbeiten der Cache womöglich den Baumfällern zum Opfer gefallen wäre. Wir waren dann doch erfreut das Versteck trotz des massigen Schnees gefunden zu haben.
+
+Leider war außer dem Logbuch kein TB oder Coin drin :-(. Kann mir nicht erklären, wo der "Suncompass" sein sollte. Vielleicht war doch der ganze Schnee Schuld. 
+
+TFTC sagen der Tigger und der Schlumpf</li><li>2010-11-19T20:00:00Z : Found it by Zaubi86 <br />heute gefunden - und im dunkeln mal schnell nen coin abgelegt
+
+tftc</li><li>2010-11-19T20:00:00Z : Found it by stefan1968 <br />Auf dem Heimweg auch hier noch mal die Füße vertreten und natürlich die Dose besucht.
+Grüße aus Augsburg und 
+
+TFTC [;)] Stefan1968</li><li>2010-11-16T20:00:00Z : Found it by NoMaPa <br />Eine echt gute, gemeinsame Cache-Zeit mit Spaß und Spannung in Uslar und im 
+Uslarer Land. H von H-U-P und NoMaPa "on tour" als Dosensammler. 
+Da waren jede Menge Statistikdosen versteckt, aber auch phatasiereiche "Peterchen".
+Die Vielzahl der Dosen kann gar nicht gewürdigt werden. 
+So verzeiht einen Standartlog. 
+Danke an alle die´s angeht sagen
+NoMaPa aus MM im Allgäu
+.
+Das waren 2 tolle Tage. Jetzt noch 3 TB´s auf dem Heimweg !</li></ul></logs>
+  <original-xml>  <wpt  lat="50.6059" lon="9.679683">
+    <time>2007-06-07T07:00:00Z</time>
+    <name>GC13F7V</name>
+    <desc>A7 TB-Hotel Richtung Süden (Hummelskopf)  by webfraggle, Traditional Cache (1/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=1abcd0c6-37f3-4390-a997-44950c67189f</url>
+    <urlname>A7 TB-Hotel Richtung Süden (Hummelskopf) </urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="616432" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>A7 TB-Hotel Richtung Süden (Hummelskopf) </groundspeak:name>
+      <groundspeak:placed_by>webfraggle</groundspeak:placed_by>
+      <groundspeak:owner id="199604">webfraggle</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Regular</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">
+      </groundspeak:short_description>
+      <groundspeak:long_description html="False">Ein nahe Fulda gelegenes Travel-Bug Hotel für alle TBs, die Richtung Süden wollen. 
+
+P.S.: Wie der Name schon sagt, ist der Cache nur von der A7 über den dortigen Parkplatz erreichbar.</groundspeak:long_description>
+      <groundspeak:encoded_hints>Doppelpack</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="138056039">
+          <groundspeak:date>2010-12-06T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1547712">reddragoneye</groundspeak:finder>
+          <groundspeak:text encoded="False">Schon spaßig durch die verschneite nächtliche Winterlandschaft zu wandern auf der Suche nach dem Cache.
+
+In: C4 Lonely Screw
+
+TFTC
+Sonnenbluemle &amp; Reddragoneye</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="138048888">
+          <groundspeak:date>2010-12-05T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2814841">Tigger&amp;Schlumpf</groundspeak:finder>
+          <groundspeak:text encoded="False">Heute auf der Heimfahrt mal schnell Rast auf diesem Parkplatz gemacht. Wir hatten schon Angst das aufgrund der massigen Rodungsarbeiten der Cache womöglich den Baumfällern zum Opfer gefallen wäre. Wir waren dann doch erfreut das Versteck trotz des massigen Schnees gefunden zu haben.
+
+Leider war außer dem Logbuch kein TB oder Coin drin :-(. Kann mir nicht erklären, wo der "Suncompass" sein sollte. Vielleicht war doch der ganze Schnee Schuld. 
+
+TFTC sagen der Tigger und der Schlumpf</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="136370161">
+          <groundspeak:date>2010-11-19T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2820346">Zaubi86</groundspeak:finder>
+          <groundspeak:text encoded="False">heute gefunden - und im dunkeln mal schnell nen coin abgelegt
+
+tftc</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="136369184">
+          <groundspeak:date>2010-11-19T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1990816">stefan1968</groundspeak:finder>
+          <groundspeak:text encoded="False">Auf dem Heimweg auch hier noch mal die Füße vertreten und natürlich die Dose besucht.
+Grüße aus Augsburg und 
+
+TFTC [;)] Stefan1968</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="136253302">
+          <groundspeak:date>2010-11-16T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2479107">NoMaPa</groundspeak:finder>
+          <groundspeak:text encoded="False">Eine echt gute, gemeinsame Cache-Zeit mit Spaß und Spannung in Uslar und im 
+Uslarer Land. H von H-U-P und NoMaPa "on tour" als Dosensammler. 
+Da waren jede Menge Statistikdosen versteckt, aber auch phatasiereiche "Peterchen".
+Die Vielzahl der Dosen kann gar nicht gewürdigt werden. 
+So verzeiht einen Standartlog. 
+Danke an alle die´s angeht sagen
+NoMaPa aus MM im Allgäu
+.
+Das waren 2 tolle Tage. Jetzt noch 3 TB´s auf dem Heimweg !</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs>
+        <groundspeak:travelbug id="287809" ref="TBQE93">
+          <groundspeak:name>C4's Lonely Screw</groundspeak:name>
+        </groundspeak:travelbug>
+        <groundspeak:travelbug id="2277605" ref="TB2X7V2">
+          <groundspeak:name>Suncompass Geocoin</groundspeak:name>
+        </groundspeak:travelbug>
+      </groundspeak:travelbugs>
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

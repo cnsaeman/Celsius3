@@ -1,0 +1,124 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>008408</id>
+  <cache-id>GC1ZAAN</cache-id>
+  <type>Multi-cache</type>
+  <name>A Good Walk Spoiled by Orangetigerprawn, Multi-cache (1.5/1.5)</name>
+  <size>Small</size>
+  <difficulty>1.5</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-03-06</last-found>
+  <placed>2009-09-30</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>Orangetigerprawn</placedby>
+  <found>Geocache</found>
+  <lat>53.459133</lat>
+  <lon>-6.322567</lon>
+  <last-logs>FFFMF</last-logs>
+  <owner>orangetigerprawn</owner>
+  <description><center><b><font size="+2">A Good Walk Spoiled</font></b></center></description>
+  <long-description><center>Easy Multicache in North County Dublin</center>
+<center><br />
+<img src="http://img.geocaching.com/cache/e5beeab1-163f-4d10-84e8-e4ff3a955dff.jpg"
+     width="600" height="450" align="bottom" border="0"
+     naturalsizeflag="3" /></center>
+<br />
+<center>At the given coordinates you will find a couple of
+signs.</center>
+<center>One of these has a series of numbers.</center>
+<center>Substitute the letter A for the first number, B for the
+second, and so on.</center>
+<center>&nbsp;</center>
+<center>The cache location is: <b>N 53° 27.EH(C-B) W 006°
+1(D+I).BB(G-H)</b></center>
+<br />
+<br />
+ 
+<center>&nbsp;</center>
+<br />
+<br /></long-description>
+  <encoded-hints>What do you get when you cross a politician with with Humpty Dumpty?</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=7a3fffe9-8e7b-4a1f-85be-bd97814e9f45</url>
+  <url-name>A Good Walk Spoiled</url-name>
+  <logs><ul><li>2010-06-04T19:00:00Z : Found it by Antefix <br />There was nothing spoiled about this day and this cache - easy found after a short walk to the final co-ordinates. Thanks</li><li>2010-05-25T19:00:00Z : Found it by Serapis <br />Quickly found after crunching the numbers. Thanks for the cache. Signed log. Thanks fort the cache. </li><li>2010-05-13T19:00:00Z : Found it by st5346 <br />Found this one on my way along the coast in a 2 week vacation in Ireland!
+Very nice place, thanks for sharing this one!</li><li>2010-04-11T19:00:00Z : Owner Maintenance by orangetigerprawn <br />Maintenance visit.</li><li>2010-03-06T20:00:00Z : Found it by niripas <br />Don't know about the clue, but I parked with cache under my car... I put it back to the nearest hiding place (that's what GPSr was saying [;)])</li></ul></logs>
+  <original-xml>  <wpt  lat="53.459133" lon="-6.322567">
+    <time>2009-09-30T07:00:00Z</time>
+    <name>GC1ZAAN</name>
+    <desc>A Good Walk Spoiled by Orangetigerprawn, Multi-cache (1.5/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=7a3fffe9-8e7b-4a1f-85be-bd97814e9f45</url>
+    <urlname>A Good Walk Spoiled</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Multi-cache</type>
+    <groundspeak:cache id="1416072" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>A Good Walk Spoiled</groundspeak:name>
+      <groundspeak:placed_by>Orangetigerprawn</groundspeak:placed_by>
+      <groundspeak:owner id="2167131">orangetigerprawn</groundspeak:owner>
+      <groundspeak:type>Multi-cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>Leinster</groundspeak:state>
+      <groundspeak:short_description html="True">&lt;center&gt;&lt;b&gt;&lt;font size="+2"&gt;A Good Walk Spoiled&lt;/font&gt;&lt;/b&gt;&lt;/center&gt;</groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;center&gt;Easy Multicache in North County Dublin&lt;/center&gt;
+&lt;center&gt;&lt;br /&gt;
+&lt;img src="http://img.geocaching.com/cache/e5beeab1-163f-4d10-84e8-e4ff3a955dff.jpg"
+     width="600" height="450" align="bottom" border="0"
+     naturalsizeflag="3" /&gt;&lt;/center&gt;
+&lt;br /&gt;
+&lt;center&gt;At the given coordinates you will find a couple of
+signs.&lt;/center&gt;
+&lt;center&gt;One of these has a series of numbers.&lt;/center&gt;
+&lt;center&gt;Substitute the letter A for the first number, B for the
+second, and so on.&lt;/center&gt;
+&lt;center&gt;&amp;nbsp;&lt;/center&gt;
+&lt;center&gt;The cache location is: &lt;b&gt;N 53° 27.EH(C-B) W 006°
+1(D+I).BB(G-H)&lt;/b&gt;&lt;/center&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+ 
+&lt;center&gt;&amp;nbsp;&lt;/center&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;p&gt;Additional Waypoints&lt;/p&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>What do you get when you cross a politician with with Humpty Dumpty?</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="113111785">
+          <groundspeak:date>2010-06-04T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="886457">Antefix</groundspeak:finder>
+          <groundspeak:text encoded="False">There was nothing spoiled about this day and this cache - easy found after a short walk to the final co-ordinates. Thanks</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="110527105">
+          <groundspeak:date>2010-05-25T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1019524">Serapis</groundspeak:finder>
+          <groundspeak:text encoded="False">Quickly found after crunching the numbers. Thanks for the cache. Signed log. Thanks fort the cache. </groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="109262031">
+          <groundspeak:date>2010-05-13T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1604112">st5346</groundspeak:finder>
+          <groundspeak:text encoded="False">Found this one on my way along the coast in a 2 week vacation in Ireland!
+Very nice place, thanks for sharing this one!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="103759152">
+          <groundspeak:date>2010-04-11T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Owner Maintenance</groundspeak:type>
+          <groundspeak:finder id="2167131">orangetigerprawn</groundspeak:finder>
+          <groundspeak:text encoded="False">Maintenance visit.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="99174761">
+          <groundspeak:date>2010-03-06T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1720330">niripas</groundspeak:finder>
+          <groundspeak:text encoded="False">Don't know about the clue, but I parked with cache under my car... I put it back to the nearest hiding place (that's what GPSr was saying [;)])</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

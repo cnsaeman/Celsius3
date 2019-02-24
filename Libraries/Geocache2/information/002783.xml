@@ -1,0 +1,214 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>002783</id>
+  <cache-id>GC21AJP</cache-id>
+  <type>Multi-cache</type>
+  <name>Slí Slán Breise by orangetigerprawn, Multi-cache (2/2.5)</name>
+  <size>Small</size>
+  <difficulty>2</difficulty>
+  <terrain>2.5</terrain>
+  <last-found>2009-12-07</last-found>
+  <placed>2009-11-22</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>orangetigerprawn</placedby>
+  <found>Geocache</found>
+  <lat>53.456017</lat>
+  <lon>-6.232583</lon>
+  <last-logs>FFFXF</last-logs>
+  <owner>orangetigerprawn</owner>
+  <description><center><b><font size="+2">Slí Slán Breise</font></b></center>
+<br />
+<br /></description>
+  <long-description><center>This is the last of three multicache based around the Slí
+na Sláinte routes in Swords. This one follows the River Valley Park
+variation of the Highfield Slí. The walks are circular routes to be
+walked in either direction from any starting point.</center>
+<br />
+ 
+<center>
+<img src="http://img.geocaching.com/cache/c8271246-e5ee-4707-8338-55a7b73e81c9.jpg"
+     width="450" height="600" align="bottom" border="0"
+     naturalsizeflag="3" /></center>
+<br />
+ 
+<center>Similarly, this cache can be started from any waypoint in
+any order. Find the required information at each waypoint, work out
+the final coordinates and find the cache. The cache is most easily
+done on foot or by bike as most of the stages and the final
+location are within the park. This Slí is about 4.5k long. The
+cache only follows part of the trail. Start to finish this cache
+covers a distance of about 2k; you'll have to make your own way
+back.</center>
+<br />
+<br />
+<center>A handy pdf map of walks can be downloaded
+<a href="http://www.irishheart.ie/iopen24/pub/slinaslainte/maps/swords.pdf">
+here</a>.</center>
+<center>&nbsp;</center>
+<br />
+ 
+<center><b>At the above coordinates:</b><br />
+ How many spheres are watching for the troll? A<br />
+<br />
+ <b>Play Stage:</b> N 53° 27.444 W 006° 14.504<br />
+ How many entrances are there to this area? B</center>
+<center><br />
+ <b>Island Stage:</b> N 53° 27.394 W 006° 14.579<br />
+ How many trees on the island? C<br />
+<br />
+ <b>Hill Stage:</b> N 53° 27.391 W 006° 14.508<br />
+ How many steps on the ninth flight down? D<br />
+<br />
+ <b>Church Stage:</b> N 53° 27.212 W 006° 14.490<br />
+ How many rows of cars can park here? E</center>
+<br />
+ 
+<center>&nbsp;</center>
+<br />
+ 
+<center><br />
+ <b><font size="+2">The Cache</font></b></center>
+<br />
+<center><b>Final Location:</b> N 53° 27.A*B*D*E+A+E<br />
+W 006° A+B+E.(BCB*E)</center>
+<br />
+<br />
+<center>&nbsp;</center>
+<br />
+<br /></long-description>
+  <additional-waypoints>CS21AJP - Church Stage<br />N 53° 27.212 W 006° 14.490<br /><br />HS21AJP - Hill Stage<br />N 53° 27.391 W 006° 14.508<br /><br />IS21AJP - Island Stage<br />N 53° 27.394 W 006° 14.579<br /><br />PS21AJP - Play Stage<br />N 53° 27.444 W 006° 14.504<br /><br /></additional-waypoints>
+  <links>waypoints:cache-id:CS21AJP|waypoints:cache-id:HS21AJP|waypoints:cache-id:IS21AJP|waypoints:cache-id:PS21AJP</links>
+  <encoded-hints>
+      </encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=a552aac3-37ce-408e-b066-44b48199827e</url>
+  <url-name>Slí Slán Breise</url-name>
+  <logs><ul><li>2010-04-13T19:00:00Z : Found it by Fjon <br />Lazily I drove this one (mostly). I had to do it over two visits though as I miscounted at the Play Stage. 
+Nice walk on both occasions, and I had great weather for it. </li><li>2009-12-28T20:00:00Z : Found it by theswerve <br />Bit of a longer walk this...bit of crunching of maths but got there after hint from owner...TFTC...</li><li>2009-12-10T20:00:00Z : Found it by toczygroszek <br />How can I miss this one last time?? I'm pretty sure I was looking at that place where I found cache now, must be magical container [:D]
+And I think that is 2nd cache in Swords area where description mentioned about troll - it looks this town must be full of these creatures. Beware of trolls! :bad:
+Really thanks for walk in nice area</li><li>2009-12-07T20:00:00Z : Didn't find it by toczygroszek <br />I think I figured out coordinates correct, and place was pretty obvious, but spent too much time looking for "Slí Slán Amhain", and arrived there at darkness. Want sure about coordinates, so just checked most obvious place but didn't find there cache... [:(]
+
+Very bad geocaching day :sad:</li><li>2009-12-07T20:00:00Z : Found it by Hezekiah <br />Found easily - great day for a walkabout!  TFTC!</li></ul></logs>
+  <original-xml>  <wpt  lat="53.456017" lon="-6.232583">
+    <time>2009-11-22T08:00:00Z</time>
+    <name>GC21AJP</name>
+    <desc>Slí Slán Breise by orangetigerprawn, Multi-cache (2/2.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=a552aac3-37ce-408e-b066-44b48199827e</url>
+    <urlname>Slí Slán Breise</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Multi-cache</type>
+    <groundspeak:cache id="1475903" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Slí Slán Breise</groundspeak:name>
+      <groundspeak:placed_by>orangetigerprawn</groundspeak:placed_by>
+      <groundspeak:owner id="2167131">orangetigerprawn</groundspeak:owner>
+      <groundspeak:type>Multi-cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>2</groundspeak:difficulty>
+      <groundspeak:terrain>2.5</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>Leinster</groundspeak:state>
+      <groundspeak:short_description html="True">&lt;center&gt;&lt;b&gt;&lt;font size="+2"&gt;Slí Slán Breise&lt;/font&gt;&lt;/b&gt;&lt;/center&gt;
+&lt;br /&gt;
+&lt;br /&gt;</groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;center&gt;This is the last of three multicache based around the Slí
+na Sláinte routes in Swords. This one follows the River Valley Park
+variation of the Highfield Slí. The walks are circular routes to be
+walked in either direction from any starting point.&lt;/center&gt;
+&lt;br /&gt;
+ 
+&lt;center&gt;
+&lt;img src="http://img.geocaching.com/cache/c8271246-e5ee-4707-8338-55a7b73e81c9.jpg"
+     width="450" height="600" align="bottom" border="0"
+     naturalsizeflag="3" /&gt;&lt;/center&gt;
+&lt;br /&gt;
+ 
+&lt;center&gt;Similarly, this cache can be started from any waypoint in
+any order. Find the required information at each waypoint, work out
+the final coordinates and find the cache. The cache is most easily
+done on foot or by bike as most of the stages and the final
+location are within the park. This Slí is about 4.5k long. The
+cache only follows part of the trail. Start to finish this cache
+covers a distance of about 2k; you'll have to make your own way
+back.&lt;/center&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;center&gt;A handy pdf map of walks can be downloaded
+&lt;a href="http://www.irishheart.ie/iopen24/pub/slinaslainte/maps/swords.pdf"&gt;
+here&lt;/a&gt;.&lt;/center&gt;
+&lt;center&gt;&amp;nbsp;&lt;/center&gt;
+&lt;br /&gt;
+ 
+&lt;center&gt;&lt;b&gt;At the above coordinates:&lt;/b&gt;&lt;br /&gt;
+ How many spheres are watching for the troll? A&lt;br /&gt;
+&lt;br /&gt;
+ &lt;b&gt;Play Stage:&lt;/b&gt; N 53° 27.444 W 006° 14.504&lt;br /&gt;
+ How many entrances are there to this area? B&lt;/center&gt;
+&lt;center&gt;&lt;br /&gt;
+ &lt;b&gt;Island Stage:&lt;/b&gt; N 53° 27.394 W 006° 14.579&lt;br /&gt;
+ How many trees on the island? C&lt;br /&gt;
+&lt;br /&gt;
+ &lt;b&gt;Hill Stage:&lt;/b&gt; N 53° 27.391 W 006° 14.508&lt;br /&gt;
+ How many steps on the ninth flight down? D&lt;br /&gt;
+&lt;br /&gt;
+ &lt;b&gt;Church Stage:&lt;/b&gt; N 53° 27.212 W 006° 14.490&lt;br /&gt;
+ How many rows of cars can park here? E&lt;/center&gt;
+&lt;br /&gt;
+ 
+&lt;center&gt;&amp;nbsp;&lt;/center&gt;
+&lt;br /&gt;
+ 
+&lt;center&gt;&lt;br /&gt;
+ &lt;b&gt;&lt;font size="+2"&gt;The Cache&lt;/font&gt;&lt;/b&gt;&lt;/center&gt;
+&lt;br /&gt;
+&lt;center&gt;&lt;b&gt;Final Location:&lt;/b&gt; N 53° 27.A*B*D*E+A+E&lt;br /&gt;
+W 006° A+B+E.(BCB*E)&lt;/center&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;center&gt;&amp;nbsp;&lt;/center&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;p&gt;Additional Waypoints&lt;/p&gt;CS21AJP - Church Stage&lt;br /&gt;N 53° 27.212 W 006° 14.490&lt;br /&gt;&lt;br /&gt;HS21AJP - Hill Stage&lt;br /&gt;N 53° 27.391 W 006° 14.508&lt;br /&gt;&lt;br /&gt;IS21AJP - Island Stage&lt;br /&gt;N 53° 27.394 W 006° 14.579&lt;br /&gt;&lt;br /&gt;PS21AJP - Play Stage&lt;br /&gt;N 53° 27.444 W 006° 14.504&lt;br /&gt;&lt;br /&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="104006602">
+          <groundspeak:date>2010-04-13T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="243261">Fjon</groundspeak:finder>
+          <groundspeak:text encoded="False">Lazily I drove this one (mostly). I had to do it over two visits though as I miscounted at the Play Stage. 
+Nice walk on both occasions, and I had great weather for it. </groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="93751846">
+          <groundspeak:date>2009-12-28T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1032462">theswerve</groundspeak:finder>
+          <groundspeak:text encoded="False">Bit of a longer walk this...bit of crunching of maths but got there after hint from owner...TFTC...</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="92644955">
+          <groundspeak:date>2009-12-10T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1429023">toczygroszek</groundspeak:finder>
+          <groundspeak:text encoded="False">How can I miss this one last time?? I'm pretty sure I was looking at that place where I found cache now, must be magical container [:D]
+And I think that is 2nd cache in Swords area where description mentioned about troll - it looks this town must be full of these creatures. Beware of trolls! :bad:
+Really thanks for walk in nice area</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="92467019">
+          <groundspeak:date>2009-12-07T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Didn't find it</groundspeak:type>
+          <groundspeak:finder id="1429023">toczygroszek</groundspeak:finder>
+          <groundspeak:text encoded="False">I think I figured out coordinates correct, and place was pretty obvious, but spent too much time looking for "Slí Slán Amhain", and arrived there at darkness. Want sure about coordinates, so just checked most obvious place but didn't find there cache... [:(]
+
+Very bad geocaching day :sad:</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="92445940">
+          <groundspeak:date>2009-12-07T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="274644">Hezekiah</groundspeak:finder>
+          <groundspeak:text encoded="False">Found easily - great day for a walkabout!  TFTC!</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

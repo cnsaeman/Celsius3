@@ -1,0 +1,120 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>003133</id>
+  <cache-id>GC1ZRE5</cache-id>
+  <type>Traditional Cache</type>
+  <name>Prinzessin Lillifee by Maluma, Traditional Cache (1.5/1.5)</name>
+  <size>Regular</size>
+  <difficulty>1.5</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-11-09</last-found>
+  <placed>2009-10-12</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Maluma</placedby>
+  <found>Geocache</found>
+  <lat>50.526317</lat>
+  <lon>9.679967</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>Maluma</owner>
+  <description>Hier hat Prinzessin Lillifee Ihre Schatzkiste versteckt...nicht vergessen was mitzubringen!</description>
+  <long-description>ACHTUNG!!! die Prinesssin mag es garnicht, wenn man in Ihren Blumenbeeten läuft! 
+
+Man kann den Cache auch mit etwas Geschick auf dem Pflaster erreichen...
+
+Achtung wachsame Augen in der Nachbarschaft
+
+Achtung: In der Schatzkiste könnten Käfer, Kakerlaken, Motten und Mäuse sein.
+
+Und denke dran: Der Schatz bringt Unglück, wenn man die Anzahl seiner Einzelteile verändert. Wenn Du also ein Teil oder eine Münze wegnimmst, dann lege ein anderes Teil dafür hinein. 
+Und jetzt mach Dich auf den Weg ... vorsichtig ...
+Auch im Winter bei Schnee ist der Cache gut zu finden</long-description>
+  <encoded-hints>Unter der Treppe beim DGH Haupteingang. Erreichbar von der hinteren Tür entlang der gelben Wand</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=cf47f12a-73de-4476-b3af-b86b947e081f</url>
+  <url-name>Prinzessin Lillifee</url-name>
+  <logs><ul><li>2010-11-26T20:00:00Z : Found it by Lupo 512 <br />Vor einem Termin bei der GWV in Fulda  das Döschen gesucht und auch gefunden. Da ich mir sicher war das mein treiben unentdeckt bleibt konnte ich hier ganz ungestört und ungeniert meinem Handwerk nachgehen.
+
+Viele Grüße und danke sagt der Lupo 512 aus dem Main Kinzig Kreis.
+
+#250, 07:46, Found it with [url=http://www.geocaching.com/images/gadgets/htc_hd2.jpg] HTC HD II [/url] & [url=HTTP://WWW.getcachebox.net]Cachebox[/URL]
+
+Kein Handel</li><li>2010-11-25T20:00:00Z : Found it by Höhenstürmer <br />Welch eine lieb gemachte Box! Weiter so!
+Gruß, Toffi</li><li>2010-11-19T20:00:00Z : Found it by teammautz <br />Lillifee haben wir nicht verärgert. Wir sind schön der Wegbeschreibung gefolgt und waren schnell fündig. Da wir kein Unglück auf uns ziehen wollten, haben wir einen Plüschhund eingelegt und dafür eine Coin entnommen.</li><li>2010-11-14T20:00:00Z : Found it by die taunuskrokodile <br />Witzige Idee, 
+hat Spaß gemacht!</li><li>2010-11-09T20:00:00Z : Found it by BöhserOnkel <br />Ein wirklich toller Cache. Da hat sich jemand mächtig reingehängt..... TFTC</li></ul></logs>
+  <original-xml>  <wpt  lat="50.526317" lon="9.679967">
+    <time>2009-10-12T07:00:00Z</time>
+    <name>GC1ZRE5</name>
+    <desc>Prinzessin Lillifee by Maluma, Traditional Cache (1.5/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=cf47f12a-73de-4476-b3af-b86b947e081f</url>
+    <urlname>Prinzessin Lillifee</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1429634" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Prinzessin Lillifee</groundspeak:name>
+      <groundspeak:placed_by>Maluma</groundspeak:placed_by>
+      <groundspeak:owner id="1380311">Maluma</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Regular</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">Hier hat Prinzessin Lillifee Ihre Schatzkiste versteckt...nicht vergessen was mitzubringen!</groundspeak:short_description>
+      <groundspeak:long_description html="False">ACHTUNG!!! die Prinesssin mag es garnicht, wenn man in Ihren Blumenbeeten läuft! 
+
+Man kann den Cache auch mit etwas Geschick auf dem Pflaster erreichen...
+
+Achtung wachsame Augen in der Nachbarschaft
+
+Achtung: In der Schatzkiste könnten Käfer, Kakerlaken, Motten und Mäuse sein.
+
+Und denke dran: Der Schatz bringt Unglück, wenn man die Anzahl seiner Einzelteile verändert. Wenn Du also ein Teil oder eine Münze wegnimmst, dann lege ein anderes Teil dafür hinein. 
+Und jetzt mach Dich auf den Weg ... vorsichtig ...
+Auch im Winter bei Schnee ist der Cache gut zu finden</groundspeak:long_description>
+      <groundspeak:encoded_hints>Unter der Treppe beim DGH Haupteingang. Erreichbar von der hinteren Tür entlang der gelben Wand</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="137236616">
+          <groundspeak:date>2010-11-26T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="844820">Lupo 512</groundspeak:finder>
+          <groundspeak:text encoded="False">Vor einem Termin bei der GWV in Fulda  das Döschen gesucht und auch gefunden. Da ich mir sicher war das mein treiben unentdeckt bleibt konnte ich hier ganz ungestört und ungeniert meinem Handwerk nachgehen.
+
+Viele Grüße und danke sagt der Lupo 512 aus dem Main Kinzig Kreis.
+
+#250, 07:46, Found it with [url=http://www.geocaching.com/images/gadgets/htc_hd2.jpg] HTC HD II [/url] &amp; [url=HTTP://WWW.getcachebox.net]Cachebox[/URL]
+
+Kein Handel</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="137144369">
+          <groundspeak:date>2010-11-25T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1753709">Höhenstürmer</groundspeak:finder>
+          <groundspeak:text encoded="False">Welch eine lieb gemachte Box! Weiter so!
+Gruß, Toffi</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="136370453">
+          <groundspeak:date>2010-11-19T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3644172">teammautz</groundspeak:finder>
+          <groundspeak:text encoded="False">Lillifee haben wir nicht verärgert. Wir sind schön der Wegbeschreibung gefolgt und waren schnell fündig. Da wir kein Unglück auf uns ziehen wollten, haben wir einen Plüschhund eingelegt und dafür eine Coin entnommen.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="135845200">
+          <groundspeak:date>2010-11-14T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3669866">die taunuskrokodile</groundspeak:finder>
+          <groundspeak:text encoded="False">Witzige Idee, 
+hat Spaß gemacht!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="135381770">
+          <groundspeak:date>2010-11-09T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2845588">BöhserOnkel</groundspeak:finder>
+          <groundspeak:text encoded="False">Ein wirklich toller Cache. Da hat sich jemand mächtig reingehängt..... TFTC</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

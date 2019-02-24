@@ -1,0 +1,158 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>002691</id>
+  <cache-id>GC11G4P</cache-id>
+  <type>Traditional Cache</type>
+  <name>Margretenberg by ikeableistift, Traditional Cache (1.5/1.5)</name>
+  <size>Small</size>
+  <difficulty>1.5</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-09-20</last-found>
+  <placed>2007-12-26</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>ikeableistift</placedby>
+  <found>Geocache</found>
+  <lat>50.567583</lat>
+  <lon>9.766067</lon>
+  <last-logs>EDXXF</last-logs>
+  <owner>ikeableistift</owner>
+  <description>Tradi im Wald<br />
+<br />
+<font color="red">ACHTUNG: Seit 02.08.2009 gibt es neue
+Cache-Koordinaten! Bitte keine alten Ausdrucke mehr verwenden, da
+auch das Spoilerbild nicht mehr gültig ist!</font></description>
+  <long-description><b>Margretenberg</b> <br />
+<br />
+Auf diesem Hausberg von Margretenhaun, oder sagen wir besser Hügel,
+habe ich einen großen Teil meiner Kindheit verbracht.<br />
+Weil sich hier in der Gegend eher wenig Caches befinden, wollte ich
+in meiner Heimat ein wenig für die Cache-Infrastruktur tun.<br />
+Unweit des Caches kann man bei klarem Wetter einen wunderschönen
+Blick in die Rhön genießen und die ebenfalls unweit befindliche
+religiöse Stätte besuchen (Drei Kreuze, Heiligenfiguren und
+Altar).<br />
+Bitte behandelt alles mit dem gebührenden Respekt! Danke!<br />
+<br />
+Zur Terrain-Wertung: Geschickte Rollstuhlfahrer sollten die Bergung
+bewältigen können. Der Aufstieg auf die Anhöhe könnte beschwerlich
+sein. Begleitung empfiehlt sich. Viel Spaß bei der Suche und
+versteckt den Cache bitte wieder gut, wenn er offener zu sehen sein
+sollte!<br />
+<br />
+ Erstinhalt: 2 Logbücher, Bleistift, FTF-Ammobox-Pin für den
+Erstfinder, einige andere Pins zum Tauschen,
+Schiedsrichter-Pfeiffe, Katzenauge (Stein), Chinesische (?)
+Münze</long-description>
+  <additional-waypoints>Z011G4P - Zugang<br />N 50° 34.015 E 009° 45.855<br />Einziger Zugangsweg. Bitte nicht über Weidezäune steigen oder Ackerland überqueren.<br /></additional-waypoints>
+  <links>waypoints:cache-id:Z011G4P</links>
+  <encoded-hints>Am Fusse eines etwa mannsbreiten Baumes unter Wurzelstück</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=8dd9b430-8ea1-4fc2-b5ce-3e5c46cbf369</url>
+  <url-name>Margretenberg</url-name>
+  <logs><ul><li>2010-12-24T17:20:21Z : Enable Listing by ikeableistift <br />Die Dose war, soweit ich das schneebedingt feststellen konnte, leider wirklich weg.
+Ich habe jetzt also eine neue etwas größere platziert. Leider ist die Tarnung nicht allzu gut, wenn der Schnee weggeschmolzen ist. Wenn dies also der Fall sein sollte, hat der nächste Finder von mir die Erlaubnis, ihn etwas "besserzuverstecken" [;)]
+Frohe Weihnachten und einen guten Rutsch!</li><li>2010-10-20T20:49:56Z : Temporarily Disable Listing by ikeableistift <br />Ok... der Cache scheint wohl weg zu sein. Ich muß schauen, wann ich mal wieder dazu komme, hier nach dem Rechten zu schauen.
+Einstweilen deaktiviere ich sicherheitshalber mal... </li><li>2010-10-20T19:00:00Z : Didn't find it by sema2505 <br />Heute waren wir zum dritten Mal da. 
+Nach der ersten Niederlage hatten wir beim zweiten Versuch bereits Unterstützung aus Süden von mherber, leider ohne Erfolg.
+Dieses Mal haben wir erfahrene Hilfe aus dem Norden angefordert (Team Vissler und Schlupfdumdidum) und wieder kein Erfolg!
+Insgesamt sehr, sehr viel Zeit dort verbracht aber es scheint als gäbe es hier nichts mehr zu finden. 
+Sehr schade!!!
+
+Trotzdem ein wunderschöner Ort, lieben Dank fürs Zeigen</li><li>2010-10-06T19:00:00Z : Didn't find it by AR4 <br />Bei untergehender Sonne auf die Suche gemacht, mehrfach gepeilt, den Hint benutzt aber leider nichts gefunden.
+An dem Ort, der den Koordinaten und dem Hint entspricht war der Boden ziemlich umgewühlt, vom Cache keine Spur.
+Ist er gemuggelt?</li><li>2010-09-20T19:00:00Z : Found it by smurk <br />Diesen Cache heute zusammen mit Moarbich und duo_two gelogged. Vielen Dank für dieses schöne Plätzchen. TFTC</li></ul></logs>
+  <original-xml>  <wpt  lat="50.567583" lon="9.766067">
+    <time>2007-12-26T08:00:00Z</time>
+    <name>GC11G4P</name>
+    <desc>Margretenberg by ikeableistift, Traditional Cache (1.5/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=8dd9b430-8ea1-4fc2-b5ce-3e5c46cbf369</url>
+    <urlname>Margretenberg</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="557714" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Margretenberg</groundspeak:name>
+      <groundspeak:placed_by>ikeableistift</groundspeak:placed_by>
+      <groundspeak:owner id="890216">ikeableistift</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="True">Tradi im Wald&lt;br /&gt;
+&lt;br /&gt;
+&lt;font color="red"&gt;ACHTUNG: Seit 02.08.2009 gibt es neue
+Cache-Koordinaten! Bitte keine alten Ausdrucke mehr verwenden, da
+auch das Spoilerbild nicht mehr gültig ist!&lt;/font&gt;</groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;b&gt;Margretenberg&lt;/b&gt; &lt;br /&gt;
+&lt;br /&gt;
+Auf diesem Hausberg von Margretenhaun, oder sagen wir besser Hügel,
+habe ich einen großen Teil meiner Kindheit verbracht.&lt;br /&gt;
+Weil sich hier in der Gegend eher wenig Caches befinden, wollte ich
+in meiner Heimat ein wenig für die Cache-Infrastruktur tun.&lt;br /&gt;
+Unweit des Caches kann man bei klarem Wetter einen wunderschönen
+Blick in die Rhön genießen und die ebenfalls unweit befindliche
+religiöse Stätte besuchen (Drei Kreuze, Heiligenfiguren und
+Altar).&lt;br /&gt;
+Bitte behandelt alles mit dem gebührenden Respekt! Danke!&lt;br /&gt;
+&lt;br /&gt;
+Zur Terrain-Wertung: Geschickte Rollstuhlfahrer sollten die Bergung
+bewältigen können. Der Aufstieg auf die Anhöhe könnte beschwerlich
+sein. Begleitung empfiehlt sich. Viel Spaß bei der Suche und
+versteckt den Cache bitte wieder gut, wenn er offener zu sehen sein
+sollte!&lt;br /&gt;
+&lt;br /&gt;
+ Erstinhalt: 2 Logbücher, Bleistift, FTF-Ammobox-Pin für den
+Erstfinder, einige andere Pins zum Tauschen,
+Schiedsrichter-Pfeiffe, Katzenauge (Stein), Chinesische (?)
+Münze&lt;p&gt;Additional Waypoints&lt;/p&gt;Z011G4P - Zugang&lt;br /&gt;N 50° 34.015 E 009° 45.855&lt;br /&gt;Einziger Zugangsweg. Bitte nicht über Weidezäune steigen oder Ackerland überqueren.&lt;br /&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>Am Fusse eines etwa mannsbreiten Baumes unter Wurzelstück</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="139132101">
+          <groundspeak:date>2010-12-24T17:20:21Z</groundspeak:date>
+          <groundspeak:type>Enable Listing</groundspeak:type>
+          <groundspeak:finder id="890216">ikeableistift</groundspeak:finder>
+          <groundspeak:text encoded="False">Die Dose war, soweit ich das schneebedingt feststellen konnte, leider wirklich weg.
+Ich habe jetzt also eine neue etwas größere platziert. Leider ist die Tarnung nicht allzu gut, wenn der Schnee weggeschmolzen ist. Wenn dies also der Fall sein sollte, hat der nächste Finder von mir die Erlaubnis, ihn etwas "besserzuverstecken" [;)]
+Frohe Weihnachten und einen guten Rutsch!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="132346613">
+          <groundspeak:date>2010-10-20T20:49:56Z</groundspeak:date>
+          <groundspeak:type>Temporarily Disable Listing</groundspeak:type>
+          <groundspeak:finder id="890216">ikeableistift</groundspeak:finder>
+          <groundspeak:text encoded="False">Ok... der Cache scheint wohl weg zu sein. Ich muß schauen, wann ich mal wieder dazu komme, hier nach dem Rechten zu schauen.
+Einstweilen deaktiviere ich sicherheitshalber mal... </groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="132346130">
+          <groundspeak:date>2010-10-20T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Didn't find it</groundspeak:type>
+          <groundspeak:finder id="3665179">sema2505</groundspeak:finder>
+          <groundspeak:text encoded="False">Heute waren wir zum dritten Mal da. 
+Nach der ersten Niederlage hatten wir beim zweiten Versuch bereits Unterstützung aus Süden von mherber, leider ohne Erfolg.
+Dieses Mal haben wir erfahrene Hilfe aus dem Norden angefordert (Team Vissler und Schlupfdumdidum) und wieder kein Erfolg!
+Insgesamt sehr, sehr viel Zeit dort verbracht aber es scheint als gäbe es hier nichts mehr zu finden. 
+Sehr schade!!!
+
+Trotzdem ein wunderschöner Ort, lieben Dank fürs Zeigen</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="130179865">
+          <groundspeak:date>2010-10-06T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Didn't find it</groundspeak:type>
+          <groundspeak:finder id="2721856">AR4</groundspeak:finder>
+          <groundspeak:text encoded="False">Bei untergehender Sonne auf die Suche gemacht, mehrfach gepeilt, den Hint benutzt aber leider nichts gefunden.
+An dem Ort, der den Koordinaten und dem Hint entspricht war der Boden ziemlich umgewühlt, vom Cache keine Spur.
+Ist er gemuggelt?</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="127834604">
+          <groundspeak:date>2010-09-20T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3374811">smurk</groundspeak:finder>
+          <groundspeak:text encoded="False">Diesen Cache heute zusammen mit Moarbich und duo_two gelogged. Vielen Dank für dieses schöne Plätzchen. TFTC</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

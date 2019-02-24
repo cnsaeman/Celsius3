@@ -1,0 +1,118 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>004487</id>
+  <cache-id>GC15FAG</cache-id>
+  <type>Traditional Cache</type>
+  <name>ZÜRICH  by Little Red Riding Hood, Traditional Cache (1.5/1)</name>
+  <size>Micro</size>
+  <difficulty>1.5</difficulty>
+  <terrain>1</terrain>
+  <last-found>2008-05-21</last-found>
+  <placed>2007-08-27</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Little Red Riding Hood</placedby>
+  <found>Geocache Found</found>
+  <lat>50.552617</lat>
+  <lon>9.68025</lon>
+  <last-logs>FFFFFWF</last-logs>
+  <owner>Little Red Riding Hood</owner>
+  <description>Ein Drive-In in Fulda's Innenstadt...
+Bitte Stift mitbringen!
+Happy hunting
+
+
+PS: Mo-Sa 8-19 Uhr</description>
+  <long-description>
+      </long-description>
+  <encoded-hints>Lasst euch "leiten"...
+NOMEN EST OMEN</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=cb6a52d2-37bd-4acc-a618-dadd84c6a98d</url>
+  <url-name>ZÜRICH </url-name>
+  <logs><ul><li>2010-12-24T20:00:00Z : Found it by canadianfriend75 <br />Hier war ich letztes Jahr schon mal - leider erfolglos. Dieses Mal ihn erneut in Angriff genommen und schnell gefunden. TFTC und allen schöne Weihnachten.</li><li>2010-12-18T20:00:00Z : Found it by lillyfelix <br />Heute beim Weihnachtsbummel den Kleinen schnell noch geloggt. TFTC</li><li>2010-12-16T20:00:00Z : Found it by stoabeissa <br />Schneller hin und mit.</li><li>2010-12-08T20:00:00Z : Found it by Ralli_Ranzen <br />heute im 2 anlauf gefunden ganz einfach gefunden jedoch war er bei meinem letzten besuch definitiv nicht da [8D] noch ein Hinweis an den owner. die halterung ist ein wenig Sanierungs bed&#252;rftig [8D]</li><li>2010-12-06T20:00:00Z : Found it by germanrustie <br />Wenn man erst einmal an der richtigen Stelle angekommen ist macht auch der Name des Caches einen Sinn: so konnte ich den Cache im 2.Anlauf heben und loggen.
+Beim ersten mal irrte ich doch ziemlich verwirrt über die Bahnhofstraße.
+TFTC</li><li>2008-05-21T19:00:00Z : Write note by Kersti.com <br />Personal Tracking Coin Drop
+Fergus the Frog hopped here</li><li>2008-05-21T19:00:00Z : Found it by Kersti.com <br />On  my last two trips to the lovely town of Fulda this cache has eluded us. Christian was back again this week, so I did some more research (ahh... when the cache is listed as a drive-by, that's literal...) and sent him more clues and photos via mobile so that he could finally find this one! Since he's not a member and only caches with me generally, I'm claiming this as a find by proxy :)
+</li></ul></logs>
+  <original-xml>  <wpt  lat="50.552617" lon="9.68025">
+    <time>2007-08-27T07:00:00Z</time>
+    <name>GC15FAG</name>
+    <desc>ZÜRICH  by Little Red Riding Hood, Traditional Cache (1.5/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=cb6a52d2-37bd-4acc-a618-dadd84c6a98d</url>
+    <urlname>ZÜRICH </urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="676097" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>ZÜRICH </groundspeak:name>
+      <groundspeak:placed_by>Little Red Riding Hood</groundspeak:placed_by>
+      <groundspeak:owner id="155781">Little Red Riding Hood</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">Ein Drive-In in Fulda's Innenstadt...
+Bitte Stift mitbringen!
+Happy hunting
+
+
+PS: Mo-Sa 8-19 Uhr</groundspeak:short_description>
+      <groundspeak:long_description html="False">
+      </groundspeak:long_description>
+      <groundspeak:encoded_hints>Lasst euch "leiten"...
+NOMEN EST OMEN</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="139125585">
+          <groundspeak:date>2010-12-24T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2519645">canadianfriend75</groundspeak:finder>
+          <groundspeak:text encoded="False">Hier war ich letztes Jahr schon mal - leider erfolglos. Dieses Mal ihn erneut in Angriff genommen und schnell gefunden. TFTC und allen schöne Weihnachten.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="138772282">
+          <groundspeak:date>2010-12-18T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3765430">lillyfelix</groundspeak:finder>
+          <groundspeak:text encoded="False">Heute beim Weihnachtsbummel den Kleinen schnell noch geloggt. TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="138688168">
+          <groundspeak:date>2010-12-16T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="819543">stoabeissa</groundspeak:finder>
+          <groundspeak:text encoded="False">Schneller hin und mit.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="138149702">
+          <groundspeak:date>2010-12-08T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3862462">Ralli_Ranzen</groundspeak:finder>
+          <groundspeak:text encoded="False">heute im 2 anlauf gefunden ganz einfach gefunden jedoch war er bei meinem letzten besuch definitiv nicht da [8D] noch ein Hinweis an den owner. die halterung ist ein wenig Sanierungs bed&amp;#252;rftig [8D]</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="138039477">
+          <groundspeak:date>2010-12-06T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2940030">germanrustie</groundspeak:finder>
+          <groundspeak:text encoded="False">Wenn man erst einmal an der richtigen Stelle angekommen ist macht auch der Name des Caches einen Sinn: so konnte ich den Cache im 2.Anlauf heben und loggen.
+Beim ersten mal irrte ich doch ziemlich verwirrt über die Bahnhofstraße.
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="116169604">
+          <groundspeak:date>2008-05-21T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Write note</groundspeak:type>
+          <groundspeak:finder id="320206">Kersti.com</groundspeak:finder>
+          <groundspeak:text encoded="False">Personal Tracking Coin Drop
+Fergus the Frog hopped here</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="44964185">
+          <groundspeak:date>2008-05-21T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="320206">Kersti.com</groundspeak:finder>
+          <groundspeak:text encoded="False">On  my last two trips to the lovely town of Fulda this cache has eluded us. Christian was back again this week, so I did some more research (ahh... when the cache is listed as a drive-by, that's literal...) and sent him more clues and photos via mobile so that he could finally find this one! Since he's not a member and only caches with me generally, I'm claiming this as a find by proxy :)
+</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

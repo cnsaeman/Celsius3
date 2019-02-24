@@ -1,0 +1,101 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>000130</id>
+  <cache-id>GCN7NB</cache-id>
+  <type>Traditional Cache</type>
+  <name>Grotte I by DS by Mamomi-1, Traditional Cache (1/1.5)</name>
+  <size>Micro</size>
+  <difficulty>1</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-10-01</last-found>
+  <placed>2005-03-26</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Mamomi-1</placedby>
+  <found>Geocache</found>
+  <lat>50.585083</lat>
+  <lon>9.729683</lon>
+  <last-logs>FWFF</last-logs>
+  <owner>Mamomi-1</owner>
+  <description>
+      </description>
+  <long-description>Eine weitere Grotte in der Serie.
+Ein schneller drive in. Viel Spaß bei der Grottentour!!
+A further Grotte in the series. It`s a fast drive in.</long-description>
+  <encoded-hints>Das Übliche
+</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=40020d9d-020d-4675-8a10-38b197338f0e</url>
+  <url-name>Grotte I by DS</url-name>
+  <logs><ul><li>2010-10-31T19:00:00Z : Found it by burgen13 <br />Bei herrlichem Herbstwetter Sonntagsspaziergang mit erfolgreicher Cachesuche verbunden.
+Danke sagt burgen13 </li><li>2010-10-14T17:59:34Z : Update Coordinates by Mamomi-1 <br />** Coordinates Changed From **
+N 50° 35.111 E 009° 43.790
+Distance From Old: 50.4 feet or 15.4 meters.
+Jetzt stimmen die Koordinaten. </li><li>2010-10-12T19:00:00Z : Write note by Mamomi-1 <br />Ja, ich weiß das die Koordinaten nicht die der Cachedose sind, dass steht aber in der Beschreibung. Aber damit endlich Ruhe ist und es keine Beschwerden mehr gibt, werde ich in den nächsten Tagen mal die neuen Koordinaten nehmen und hier dann abändern. </li><li>2010-10-10T19:00:00Z : Found it by super sunshine <br />Cache dank dem Hint gut gefunden. Die Koordinaten weichen aber ca. 15 m ab. Danke und Grüße</li><li>2010-10-01T19:00:00Z : Found it by Camuvlash <br />TFTC.</li></ul></logs>
+  <original-xml>  <wpt  lat="50.585083" lon="9.729683">
+    <time>2005-03-26T07:00:00Z</time>
+    <name>GCN7NB</name>
+    <desc>Grotte I by DS by Mamomi-1, Traditional Cache (1/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=40020d9d-020d-4675-8a10-38b197338f0e</url>
+    <urlname>Grotte I by DS</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="221880" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Grotte I by DS</groundspeak:name>
+      <groundspeak:placed_by>Mamomi-1</groundspeak:placed_by>
+      <groundspeak:owner id="275727">Mamomi-1</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">
+      </groundspeak:short_description>
+      <groundspeak:long_description html="False">Eine weitere Grotte in der Serie.
+Ein schneller drive in. Viel Spaß bei der Grottentour!!
+A further Grotte in the series. It`s a fast drive in.</groundspeak:long_description>
+      <groundspeak:encoded_hints>Das Übliche
+</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="133885406">
+          <groundspeak:date>2010-10-31T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2887618">burgen13</groundspeak:finder>
+          <groundspeak:text encoded="False">Bei herrlichem Herbstwetter Sonntagsspaziergang mit erfolgreicher Cachesuche verbunden.
+Danke sagt burgen13 </groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="131335551">
+          <groundspeak:date>2010-10-14T17:59:34Z</groundspeak:date>
+          <groundspeak:type>Update Coordinates</groundspeak:type>
+          <groundspeak:finder id="275727">Mamomi-1</groundspeak:finder>
+          <groundspeak:text encoded="False">** Coordinates Changed From **
+N 50° 35.111 E 009° 43.790
+Distance From Old: 50.4 feet or 15.4 meters.
+Jetzt stimmen die Koordinaten. </groundspeak:text>
+          <groundspeak:log_wpt lat="50.585083" lon="9.729683" />
+        </groundspeak:log>
+        <groundspeak:log id="131035535">
+          <groundspeak:date>2010-10-12T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Write note</groundspeak:type>
+          <groundspeak:finder id="275727">Mamomi-1</groundspeak:finder>
+          <groundspeak:text encoded="False">Ja, ich weiß das die Koordinaten nicht die der Cachedose sind, dass steht aber in der Beschreibung. Aber damit endlich Ruhe ist und es keine Beschwerden mehr gibt, werde ich in den nächsten Tagen mal die neuen Koordinaten nehmen und hier dann abändern. </groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="130883889">
+          <groundspeak:date>2010-10-10T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2807204">super sunshine</groundspeak:finder>
+          <groundspeak:text encoded="False">Cache dank dem Hint gut gefunden. Die Koordinaten weichen aber ca. 15 m ab. Danke und Grüße</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="129210670">
+          <groundspeak:date>2010-10-01T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2724623">Camuvlash</groundspeak:finder>
+          <groundspeak:text encoded="False">TFTC.</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

@@ -1,0 +1,152 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>009588</id>
+  <cache-id>GC27R2J</cache-id>
+  <type>Unknown Cache</type>
+  <name>8. Schulstunde: Sport by f.etcher, Unknown Cache (2.5/4.5)</name>
+  <size>Micro</size>
+  <difficulty>2.5</difficulty>
+  <terrain>4.5</terrain>
+  <last-found>2010-09-21</last-found>
+  <placed>2010-05-01</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>f.etcher</placedby>
+  <found>Geocache</found>
+  <lat>50.509917</lat>
+  <lon>9.76225</lon>
+  <last-logs>WFFFX</last-logs>
+  <owner>f.etcher</owner>
+  <description>
+      </description>
+  <long-description>8.Schulstunde: Sport
+
+Um an der 8. Schulstunde teilnehmen zu können, müsst ihr zunächst am Einschulungstest teilnehmen und erst die 1. bis 7. Stunde überstanden und bestanden haben. Vor Ort müsst ihr dann die 8. Klausur zum Fach Sport „schreiben“.
+
+Der Sportlehrer weist darauf hin, dass die Sportübung je nach Körpergröße und körperlichter Fitness bei ca. 4 bis evtl. auch 4,5 liegt, also nicht ganz leicht ist und auf eigene Gefahr durchgeführt wird. Also seid vorsichtig. 
+
+Eine "Aufstiegshilfe" ist ganz in der Nähe des Caches, muss aber noch etwas zur richtigen Stelle gebracht werden. Betrachtet es einfach als Teil der Fitnessübung. Legt diese wieder an den Ort zurück an dem ihr sie vorgefunden habt.
+
+Um den Spaß und die Herausforderung zu vergrößern, würde ich empfehlen die Klausur vor Ort zu schreiben. Ihr findet diese im Cache "7. Schulstunde". Da dieser cache sonst aber nicht freigeschaltet wird, folgt hier die Aufgabe. Wer also die kleine Herausforderung annehmen und vor Ort lösen möchte, sollte nicht weiterlesen.
+
+ 8. Stunde: Sport 
+Welche Mannschaft stand seit 1930 bereits sieben Mal im Finale der 
+Fußball-Weltmeisterschaft und hat davon drei mal den Sieg davon getragen?
+a) Deutschland 			N50°30.852  E009°45.646
+b) Brasilien				N50°30.885  E009°45.946
+c) Argentinien			N50°30.842  E009°45.698
+
+Additional Waypoints
+8S27R2J - 8. Schulstunde: Sport
+N/S  __ ° __ . ___ W/E ___ ° __ . ___ 
+
+</long-description>
+  <encoded-hints>
+      </encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=70b8ac50-bd07-4111-9464-02d6c98989ad</url>
+  <url-name>8. Schulstunde: Sport</url-name>
+  <logs><ul><li>2010-10-11T19:00:00Z : Write note by HubiFD <br />Coin nachgeloggt.
+
+Gruß Hubi</li><li>2010-10-11T19:00:00Z : Found it by HubiFD <br />Am 6. Mai hatte ich die Dose ja bereits gesehen, Wahrscheinlich sogar als Erster, aber alleine wollte ich das Risiko nicht eingehen nur um einen FTF zu machen.
+Deshalb erfolgte heute ein zweiter Anlauf und mit Malumas Hilfestellung als zusätzliche Stufe, war der Aufstieg dann geschafft. 
+TFTC Gruß Hubi, der damals noch eine größere Dose in diesem Baum gesehen hat.</li><li>2010-10-11T19:00:00Z : Found it by Maluma <br />Heute bei bestem Wetter zusammen mit HubiFD gelöst und gefunden
+
+TFTC MALUMA</li><li>2010-10-09T19:00:00Z : Found it by Camuvlash <br />Nicht ganz ohne...
+Hat großen Spaß gemacht ^^
+TFTC</li><li>2010-09-21T19:00:00Z : Didn't find it by Mamomi-1 <br />Also die Sportstunde ist echt "frauenfeindlich". Gesehen habe ich das Objekt der Begierde auch, aber wie dahin kommen?
+Nein, das ist nix für mich, zumal ich auch noch Höhenangst habe. Also musste ich die Sportstunde schwänzen. Schade, Lamima hatte da wohl mehr Glück. Vielleicht könnte man die Sportstunde für Mädels etwas einfacher machen ;)
+Aber trotzdem war es eine ganz tolle Runde, durch einen wunderschönen Wald, bei tollem Sonnenschein und hiermit meinen herzlichsten Dank an den Owner, der sich wirklich sehr viel Mühe damit gemacht hat. 
+Schöne Grüße Mamomi-1</li></ul></logs>
+  <original-xml>  <wpt  lat="50.509917" lon="9.76225">
+    <time>2010-05-01T07:00:00Z</time>
+    <name>GC27R2J</name>
+    <desc>8. Schulstunde: Sport by f.etcher, Unknown Cache (2.5/4.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=70b8ac50-bd07-4111-9464-02d6c98989ad</url>
+    <urlname>8. Schulstunde: Sport</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Unknown Cache</type>
+    <groundspeak:cache id="1667603" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>8. Schulstunde: Sport</groundspeak:name>
+      <groundspeak:placed_by>f.etcher</groundspeak:placed_by>
+      <groundspeak:owner id="1498819">f.etcher</groundspeak:owner>
+      <groundspeak:type>Unknown Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>2.5</groundspeak:difficulty>
+      <groundspeak:terrain>4.5</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">
+      </groundspeak:short_description>
+      <groundspeak:long_description html="False">8.Schulstunde: Sport
+
+Um an der 8. Schulstunde teilnehmen zu können, müsst ihr zunächst am Einschulungstest teilnehmen und erst die 1. bis 7. Stunde überstanden und bestanden haben. Vor Ort müsst ihr dann die 8. Klausur zum Fach Sport „schreiben“.
+
+Der Sportlehrer weist darauf hin, dass die Sportübung je nach Körpergröße und körperlichter Fitness bei ca. 4 bis evtl. auch 4,5 liegt, also nicht ganz leicht ist und auf eigene Gefahr durchgeführt wird. Also seid vorsichtig. 
+
+Eine "Aufstiegshilfe" ist ganz in der Nähe des Caches, muss aber noch etwas zur richtigen Stelle gebracht werden. Betrachtet es einfach als Teil der Fitnessübung. Legt diese wieder an den Ort zurück an dem ihr sie vorgefunden habt.
+
+Um den Spaß und die Herausforderung zu vergrößern, würde ich empfehlen die Klausur vor Ort zu schreiben. Ihr findet diese im Cache "7. Schulstunde". Da dieser cache sonst aber nicht freigeschaltet wird, folgt hier die Aufgabe. Wer also die kleine Herausforderung annehmen und vor Ort lösen möchte, sollte nicht weiterlesen.
+
+ 8. Stunde: Sport 
+Welche Mannschaft stand seit 1930 bereits sieben Mal im Finale der 
+Fußball-Weltmeisterschaft und hat davon drei mal den Sieg davon getragen?
+a) Deutschland 			N50°30.852  E009°45.646
+b) Brasilien				N50°30.885  E009°45.946
+c) Argentinien			N50°30.842  E009°45.698
+
+Additional Waypoints
+8S27R2J - 8. Schulstunde: Sport
+N/S  __ ° __ . ___ W/E ___ ° __ . ___ 
+
+</groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="133431063">
+          <groundspeak:date>2010-10-11T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Write note</groundspeak:type>
+          <groundspeak:finder id="2729325">HubiFD</groundspeak:finder>
+          <groundspeak:text encoded="False">Coin nachgeloggt.
+
+Gruß Hubi</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="130899962">
+          <groundspeak:date>2010-10-11T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2729325">HubiFD</groundspeak:finder>
+          <groundspeak:text encoded="False">Am 6. Mai hatte ich die Dose ja bereits gesehen, Wahrscheinlich sogar als Erster, aber alleine wollte ich das Risiko nicht eingehen nur um einen FTF zu machen.
+Deshalb erfolgte heute ein zweiter Anlauf und mit Malumas Hilfestellung als zusätzliche Stufe, war der Aufstieg dann geschafft. 
+TFTC Gruß Hubi, der damals noch eine größere Dose in diesem Baum gesehen hat.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="130895669">
+          <groundspeak:date>2010-10-11T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1380311">Maluma</groundspeak:finder>
+          <groundspeak:text encoded="False">Heute bei bestem Wetter zusammen mit HubiFD gelöst und gefunden
+
+TFTC MALUMA</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="130307031">
+          <groundspeak:date>2010-10-09T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2724623">Camuvlash</groundspeak:finder>
+          <groundspeak:text encoded="False">Nicht ganz ohne...
+Hat großen Spaß gemacht ^^
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="127897343">
+          <groundspeak:date>2010-09-21T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Didn't find it</groundspeak:type>
+          <groundspeak:finder id="275727">Mamomi-1</groundspeak:finder>
+          <groundspeak:text encoded="False">Also die Sportstunde ist echt "frauenfeindlich". Gesehen habe ich das Objekt der Begierde auch, aber wie dahin kommen?
+Nein, das ist nix für mich, zumal ich auch noch Höhenangst habe. Also musste ich die Sportstunde schwänzen. Schade, Lamima hatte da wohl mehr Glück. Vielleicht könnte man die Sportstunde für Mädels etwas einfacher machen ;)
+Aber trotzdem war es eine ganz tolle Runde, durch einen wunderschönen Wald, bei tollem Sonnenschein und hiermit meinen herzlichsten Dank an den Owner, der sich wirklich sehr viel Mühe damit gemacht hat. 
+Schöne Grüße Mamomi-1</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

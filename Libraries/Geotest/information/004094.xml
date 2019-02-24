@@ -1,0 +1,125 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>004094</id>
+  <cache-id>GC1QZYA</cache-id>
+  <type>Traditional Cache</type>
+  <name>Wisselsröder Küppel by cachfox76, Traditional Cache (2/2)</name>
+  <size>Small</size>
+  <difficulty>2</difficulty>
+  <terrain>2</terrain>
+  <last-found>2010-09-26</last-found>
+  <placed>2009-04-04</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>cachfox76</placedby>
+  <found>Geocache</found>
+  <lat>50.534383</lat>
+  <lon>9.767917</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>cachfox76</owner>
+  <description>Mein Lieblingsort in Heimatnähe</description>
+  <long-description>Ein tolles Gelände zum spielen und tummeln für GROSS und klein.
+Der kleine Berg ist vulkanischen Urprungs, man kann heute noch manchmal kleine Glutnester sehen, nämlich dann, wenn
+mal wieder eine Gruppe Jugendlicher den Grill angeworfen hat.
+
+Doch Vorsicht!!, es befinden sich meist Pferde auf dem Gelände, also niemals die "Türe" offen stehen lassen.
+
+Additional Waypoints
+001QZYA - Vor der Koppel
+N 50° 32.015 E 009° 46.089
+
+</long-description>
+  <encoded-hints>Unter Steinen</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=644e7018-3080-4ea2-a69c-4b579660b6ca</url>
+  <url-name>Wisselsröder Küppel</url-name>
+  <logs><ul><li>2010-10-06T19:00:00Z : Found it by Griesgor <br />Herrliche Aussicht genossen.Hier habe ich als Kind Schlitten gefahren.Danke fürs legen.
+Heute um 15Uhr30 gefunden und geloggt.
+Gruß Griesgor</li><li>2010-10-02T19:00:00Z : Found it by Wander Wolfgang <br />Bei der internationalen 2-Tage-Wanderung von Fulda hier am 1. Wandertag vorbeigekommen und mitgenommen. Schöner Platz. Gut gefunden.</li><li>2010-09-27T19:00:00Z : Found it by kaedee <br />In aller Frühe schnell gefunden und schnell geloggt, bevor es ohne Jacke zu kalt wurde :-) Danke für den Cache!</li><li>2010-09-27T19:00:00Z : Found it by JensemannDU <br />Da ich einen Geocoin aus den USA dabei hatte, der unbedingt nach Dipperz wollte, "mussten" wir auf unserer Rückreise aus der Rhön natürlich noch einen kleinen Zwischenstopp einlegen. Ein wirklich schöner Ort für einen Cache, danke dafür!
+
+Viele Grüße aus Duisburg. </li><li>2010-09-26T19:00:00Z : Found it by 3Delphinos <br />Heute bei schönem Herbstwetter schnell gefunden und geloggt. TFTC
+in: Travel Bug
+
+3 Delphinos und Cache Hundi Faye</li></ul></logs>
+  <original-xml>  <wpt  lat="50.534383" lon="9.767917">
+    <time>2009-04-04T07:00:00Z</time>
+    <name>GC1QZYA</name>
+    <desc>Wisselsröder Küppel by cachfox76, Traditional Cache (2/2)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=644e7018-3080-4ea2-a69c-4b579660b6ca</url>
+    <urlname>Wisselsröder Küppel</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1227333" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Wisselsröder Küppel</groundspeak:name>
+      <groundspeak:placed_by>cachfox76</groundspeak:placed_by>
+      <groundspeak:owner id="1583185">cachfox76</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>2</groundspeak:difficulty>
+      <groundspeak:terrain>2</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">Mein Lieblingsort in Heimatnähe</groundspeak:short_description>
+      <groundspeak:long_description html="False">Ein tolles Gelände zum spielen und tummeln für GROSS und klein.
+Der kleine Berg ist vulkanischen Urprungs, man kann heute noch manchmal kleine Glutnester sehen, nämlich dann, wenn
+mal wieder eine Gruppe Jugendlicher den Grill angeworfen hat.
+
+Doch Vorsicht!!, es befinden sich meist Pferde auf dem Gelände, also niemals die "Türe" offen stehen lassen.
+
+Additional Waypoints
+001QZYA - Vor der Koppel
+N 50° 32.015 E 009° 46.089
+
+</groundspeak:long_description>
+      <groundspeak:encoded_hints>Unter Steinen</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="129985729">
+          <groundspeak:date>2010-10-06T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3701621">Griesgor</groundspeak:finder>
+          <groundspeak:text encoded="False">Herrliche Aussicht genossen.Hier habe ich als Kind Schlitten gefahren.Danke fürs legen.
+Heute um 15Uhr30 gefunden und geloggt.
+Gruß Griesgor</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="129798437">
+          <groundspeak:date>2010-10-02T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3003200">Wander Wolfgang</groundspeak:finder>
+          <groundspeak:text encoded="False">Bei der internationalen 2-Tage-Wanderung von Fulda hier am 1. Wandertag vorbeigekommen und mitgenommen. Schöner Platz. Gut gefunden.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="128739651">
+          <groundspeak:date>2010-09-27T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3195492">kaedee</groundspeak:finder>
+          <groundspeak:text encoded="False">In aller Frühe schnell gefunden und schnell geloggt, bevor es ohne Jacke zu kalt wurde :-) Danke für den Cache!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="128739402">
+          <groundspeak:date>2010-09-27T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2893822">JensemannDU</groundspeak:finder>
+          <groundspeak:text encoded="False">Da ich einen Geocoin aus den USA dabei hatte, der unbedingt nach Dipperz wollte, "mussten" wir auf unserer Rückreise aus der Rhön natürlich noch einen kleinen Zwischenstopp einlegen. Ein wirklich schöner Ort für einen Cache, danke dafür!
+
+Viele Grüße aus Duisburg. </groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="129013222">
+          <groundspeak:date>2010-09-26T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1227147">3Delphinos</groundspeak:finder>
+          <groundspeak:text encoded="False">Heute bei schönem Herbstwetter schnell gefunden und geloggt. TFTC
+in: Travel Bug
+
+3 Delphinos und Cache Hundi Faye</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs>
+        <groundspeak:travelbug id="1918828" ref="TB2G6FK">
+          <groundspeak:name>Happy Caching - Pig Geocoin</groundspeak:name>
+        </groundspeak:travelbug>
+        <groundspeak:travelbug id="2041149" ref="TB2M9RE">
+          <groundspeak:name>Genealogy GeoCoin - Germany</groundspeak:name>
+        </groundspeak:travelbug>
+      </groundspeak:travelbugs>
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

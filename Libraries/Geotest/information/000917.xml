@@ -1,0 +1,192 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>000917</id>
+  <cache-id>GC228X3</cache-id>
+  <type>Traditional Cache</type>
+  <name>Der saubere Cache by HubiFD, Traditional Cache (2.5/1)</name>
+  <size>Micro</size>
+  <difficulty>2.5</difficulty>
+  <terrain>1</terrain>
+  <last-found>2010-11-13</last-found>
+  <placed>2009-12-25</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>HubiFD</placedby>
+  <found>Geocache</found>
+  <lat>50.55385</lat>
+  <lon>9.718317</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>HubiFD</owner>
+  <description>
+      </description>
+  <long-description><b>Der saubere Cache ist mein erster Cache den ich
+verstecke.</b><br />
+<br />
+Ganz einfach ist dieser Cache nicht zu erreichen, da hier meist
+ein<br />
+höheres Muggelaufkommen herrscht.<br />
+<br />
+"Mister Saubermann" ist auch oft in Sichtweite genau wie so
+manche<br />
+Automuggel die wartend vorm Rotlicht stehen.<br />
+<br />
+Samstags ist hier bei schönem Wetter meist die Hölle los.
+Seit<br />
+kurzem stellen hier auch einige Rüsseltiere kostenlos ihren
+Dienst<br />
+zu Verfügung.<br />
+<br />
+Parkmöglichkeiten gibt es hier in der direkten Umgebung ebenso
+wie<br />
+die Möglichkeit eine kleine Cafépause einzulegen.<br />
+<br />
+<b>Nun viel Spaß beim Suchen des PETlings, ab 20 Uhr sollte der
+Saubermann keinen Dienst mehr haben.</b><br />
+<br />
+Viel Spaß beim Suchen wünscht Euch<br />
+<table>
+<tr>
+<td align="center"><img src=
+"http://www.zrx-ig-forum.de/phpbb/images/avatars/88864716449a2c1d31eb44.gif" /></td>
+</tr>
+</table>
+<br />
+<br />
+<b>Glückwunsch dem Erstfinder: al_bundy_hessen</b></long-description>
+  <encoded-hints>Unter den Steinen</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=27e0c232-3368-45fd-a974-03009e480aee</url>
+  <url-name>Der saubere Cache</url-name>
+  <logs><ul><li>2010-11-22T20:00:00Z : Found it by poenni <br />Spät am Abend konnte der Cache muggelfrei nach gründlicher Suche entdeckt werden. Die ganze Schönheit der Lokation konnte sich bei Dunkelheit leider nicht erschließen. T4TC
+
+Gruß Poenni</li><li>2010-11-22T20:00:00Z : Found it by Daimonion <br />[:D] Hurra, mein erster Found als frisch gebackener Papa. [:D]
+
+Der kleine Mann ist jetzt da, hat auch schon in Brine´s Bauch so manchen Cache mitgemacht und wird uns bald auch als aktiver Cacher behilflich sein.
+
+Damit Papa nicht einrostet, war er heute auf kleiner Solo-Feierabendtour unterwegs und wollte endlich mal den sauberen Cache machen. Bei dem Schneematschwetter hat es sich ja auch angeboten. Die Luft war offensichtlich auch rein, aber beim ersten Inspizieren war der bereits in einem anderen Log genannte Mr. Saubermann schon da und hat mir freundlicherweise geholfen und sogar nen Kuli geholt, als meiner nicht so richtig schreiben wollte. 
+
+Netter Kerl und würdiger Cachewächter.
+
+Es dankt
+
+Daimonion</li><li>2010-11-21T20:00:00Z : Found it by magicmike66 <br />13:25      #529
+
+Auf meinem Kurzurlaub in Fulda habe ich heute auch hier Halt gemacht und gesucht.
+Auf diese Weise lernt man sehr gut die Stadt kennen.
+Am Sonntag kann man sehr schön muggelfrei suchen und loggen!!
+
+
+Vielen Dank für den Cache!!!!!</li><li>2010-11-14T20:00:00Z : Found it by s186003 <br />Schnell gefunden, aber zu viele Automuggels.
+TFTC</li><li>2010-11-13T20:00:00Z : Found it by 3x3 <br />Während der Heimreise nach Dresden zusammen mit meinem Kollegen s7 bei tiefster Dunkelheit und gräßlichem Regen gesucht, gefunden und geloggt. TFTC</li></ul></logs>
+  <original-xml>  <wpt  lat="50.55385" lon="9.718317">
+    <time>2009-12-25T08:00:00Z</time>
+    <name>GC228X3</name>
+    <desc>Der saubere Cache by HubiFD, Traditional Cache (2.5/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=27e0c232-3368-45fd-a974-03009e480aee</url>
+    <urlname>Der saubere Cache</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1504063" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Der saubere Cache</groundspeak:name>
+      <groundspeak:placed_by>HubiFD</groundspeak:placed_by>
+      <groundspeak:owner id="2729325">HubiFD</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>2.5</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="True">
+      </groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;b&gt;Der saubere Cache ist mein erster Cache den ich
+verstecke.&lt;/b&gt;&lt;br /&gt;
+&lt;br /&gt;
+Ganz einfach ist dieser Cache nicht zu erreichen, da hier meist
+ein&lt;br /&gt;
+höheres Muggelaufkommen herrscht.&lt;br /&gt;
+&lt;br /&gt;
+"Mister Saubermann" ist auch oft in Sichtweite genau wie so
+manche&lt;br /&gt;
+Automuggel die wartend vorm Rotlicht stehen.&lt;br /&gt;
+&lt;br /&gt;
+Samstags ist hier bei schönem Wetter meist die Hölle los.
+Seit&lt;br /&gt;
+kurzem stellen hier auch einige Rüsseltiere kostenlos ihren
+Dienst&lt;br /&gt;
+zu Verfügung.&lt;br /&gt;
+&lt;br /&gt;
+Parkmöglichkeiten gibt es hier in der direkten Umgebung ebenso
+wie&lt;br /&gt;
+die Möglichkeit eine kleine Cafépause einzulegen.&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Nun viel Spaß beim Suchen des PETlings, ab 20 Uhr sollte der
+Saubermann keinen Dienst mehr haben.&lt;/b&gt;&lt;br /&gt;
+&lt;br /&gt;
+Viel Spaß beim Suchen wünscht Euch&lt;br /&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td align="center"&gt;&lt;img src=
+"http://www.zrx-ig-forum.de/phpbb/images/avatars/88864716449a2c1d31eb44.gif" /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Glückwunsch dem Erstfinder: al_bundy_hessen&lt;/b&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>Unter den Steinen</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="136935982">
+          <groundspeak:date>2010-11-22T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="800027">poenni</groundspeak:finder>
+          <groundspeak:text encoded="False">Spät am Abend konnte der Cache muggelfrei nach gründlicher Suche entdeckt werden. Die ganze Schönheit der Lokation konnte sich bei Dunkelheit leider nicht erschließen. T4TC
+
+Gruß Poenni</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="136822130">
+          <groundspeak:date>2010-11-22T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="750446">Daimonion</groundspeak:finder>
+          <groundspeak:text encoded="False">[:D] Hurra, mein erster Found als frisch gebackener Papa. [:D]
+
+Der kleine Mann ist jetzt da, hat auch schon in Brine´s Bauch so manchen Cache mitgemacht und wird uns bald auch als aktiver Cacher behilflich sein.
+
+Damit Papa nicht einrostet, war er heute auf kleiner Solo-Feierabendtour unterwegs und wollte endlich mal den sauberen Cache machen. Bei dem Schneematschwetter hat es sich ja auch angeboten. Die Luft war offensichtlich auch rein, aber beim ersten Inspizieren war der bereits in einem anderen Log genannte Mr. Saubermann schon da und hat mir freundlicherweise geholfen und sogar nen Kuli geholt, als meiner nicht so richtig schreiben wollte. 
+
+Netter Kerl und würdiger Cachewächter.
+
+Es dankt
+
+Daimonion</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="136677666">
+          <groundspeak:date>2010-11-21T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1629844">magicmike66</groundspeak:finder>
+          <groundspeak:text encoded="False">13:25      #529
+
+Auf meinem Kurzurlaub in Fulda habe ich heute auch hier Halt gemacht und gesucht.
+Auf diese Weise lernt man sehr gut die Stadt kennen.
+Am Sonntag kann man sehr schön muggelfrei suchen und loggen!!
+
+
+Vielen Dank für den Cache!!!!!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="136074907">
+          <groundspeak:date>2010-11-14T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2819456">s186003</groundspeak:finder>
+          <groundspeak:text encoded="False">Schnell gefunden, aber zu viele Automuggels.
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="136824695">
+          <groundspeak:date>2010-11-13T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2535628">3x3</groundspeak:finder>
+          <groundspeak:text encoded="False">Während der Heimreise nach Dresden zusammen mit meinem Kollegen s7 bei tiefster Dunkelheit und gräßlichem Regen gesucht, gefunden und geloggt. TFTC</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

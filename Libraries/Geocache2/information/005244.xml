@@ -1,0 +1,176 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>005244</id>
+  <cache-id>GC1VXGK</cache-id>
+  <type>Multi-cache</type>
+  <name>Ardgillan IV "Murals" by Windsockers, Multi-cache (1.5/2)</name>
+  <size>Small</size>
+  <difficulty>1.5</difficulty>
+  <terrain>2</terrain>
+  <last-found>2010-03-21</last-found>
+  <placed>2009-07-14</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>Windsockers</placedby>
+  <found>Geocache</found>
+  <lat>53.585833</lat>
+  <lon>-6.156783</lon>
+  <last-logs>XXFFF</last-logs>
+  <owner>Windsockers</owner>
+  <description><center>
+<img src="http://img.geocaching.com/cache/3bef03a1-d8b3-425b-bc2a-58f400183ad1.jpg" />
+</center></description>
+  <long-description><p>Educate Together is the representative organisation of the
+Educate Together schools and associations throughout the Republic
+of Ireland. It owes its origins to the movement to establish new
+multi-denominational primary schools, which emerged in the late
+1970s and early 1980s. By 1984, when Educate Together was
+established, there were three schools and the organisation acted as
+their co-ordinating body. Since then the movement has grown
+considerably.<br />
+ Today there are 56 schools, 26 of which are in the greater Dublin
+area. The organisation became a company limited by guarantee in
+1998 and has charitable status. It has a small national office
+which provides representative and support services to existing
+schools and Start Up groups. The Directors and members of the
+company work in a voluntary capacity.</p>
+<p><b>The Cache</b></p>
+<p>To find the cache you will need to answer a few simple questions
+the answers to which can be found on the boards at the above
+location</p>
+<p>How many schools took part in the painting Call the answer A</p>
+<p>How many childern are on the paintings Call the answer B</p>
+<p>How many building blocks are there Call the answer C</p>
+<p>Add the numbers on the building blocks Call the answer D</p>
+<p><b>Final Location</b></p>
+<p>The cache can be found at N 53° 35.BC W 006°
+09(A-D)(B-A)(C+D-A)</p>
+<p>The Cache is a small container.<br />
+<br />
+Please take care and rehide the cache to prevent muggles from
+discovering its location.</p>
+<br />
+<center><br />
+<br />
+<img src="http://www.northbeach.ie/gallery/albums/userpics/10001/windsock-anim-small.gif" />
+<br />
+<br />
+<b>The Windsockers</b></center>
+<br />
+<br />
+<hr size="2" /></long-description>
+  <encoded-hints>Hollow Tree</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=1b4d8fab-f6a0-4b8a-b843-71b9f85fb7f7</url>
+  <url-name>Ardgillan IV "Murals"</url-name>
+  <logs><ul><li>2010-06-13T19:00:00Z : Didn't find it by Blue Jay 59 <br />Like the last chacher - we had no luck - solved the puzzle and found hollow tree - bang on the co-ords but no cache.
+Will email details to CO in case it's muggled.
+TFTC anyhow.
+</li><li>2010-05-30T19:00:00Z : Didn't find it by thomasvm <br />Solved the clue - and searched at least four holow trees - but could not find it. A lot of muggles around, so it will have to wait until the next visit.</li><li>2010-05-11T19:00:00Z : Found it by medic143 <br />one of 3 done after a small job in Balbriggan. DId the maths correctly. My GPS lead me to a likely prospect (BTW I cache in shorts and this is NOT shorts friendly), turned out to be the wrong spot but the GPS then suggested a second spot. Cache is well hidden
+
+TNLN TFTC</li><li>2010-04-24T19:00:00Z : Found it by Donnacha <br />Found after attending the CITO. Thanks.</li><li>2010-03-21T19:00:00Z : Found it by merann <br />Lovely spot with muggles galore in Ardgillan today as it was a beautiful day. The cache was an easy enough find after we had gathered up all the info required. TNLNSL.
+TFTC, Merann. </li></ul></logs>
+  <original-xml>  <wpt  lat="53.585833" lon="-6.156783">
+    <time>2009-07-14T07:00:00Z</time>
+    <name>GC1VXGK</name>
+    <desc>Ardgillan IV "Murals" by Windsockers, Multi-cache (1.5/2)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=1b4d8fab-f6a0-4b8a-b843-71b9f85fb7f7</url>
+    <urlname>Ardgillan IV "Murals"</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Multi-cache</type>
+    <groundspeak:cache id="1314390" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Ardgillan IV "Murals"</groundspeak:name>
+      <groundspeak:placed_by>Windsockers</groundspeak:placed_by>
+      <groundspeak:owner id="271623">Windsockers</groundspeak:owner>
+      <groundspeak:type>Multi-cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>2</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>Leinster</groundspeak:state>
+      <groundspeak:short_description html="True">&lt;center&gt;
+&lt;img src="http://img.geocaching.com/cache/3bef03a1-d8b3-425b-bc2a-58f400183ad1.jpg" /&gt;
+&lt;/center&gt;</groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;p&gt;Educate Together is the representative organisation of the
+Educate Together schools and associations throughout the Republic
+of Ireland. It owes its origins to the movement to establish new
+multi-denominational primary schools, which emerged in the late
+1970s and early 1980s. By 1984, when Educate Together was
+established, there were three schools and the organisation acted as
+their co-ordinating body. Since then the movement has grown
+considerably.&lt;br /&gt;
+ Today there are 56 schools, 26 of which are in the greater Dublin
+area. The organisation became a company limited by guarantee in
+1998 and has charitable status. It has a small national office
+which provides representative and support services to existing
+schools and Start Up groups. The Directors and members of the
+company work in a voluntary capacity.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;The Cache&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;To find the cache you will need to answer a few simple questions
+the answers to which can be found on the boards at the above
+location&lt;/p&gt;
+&lt;p&gt;How many schools took part in the painting Call the answer A&lt;/p&gt;
+&lt;p&gt;How many childern are on the paintings Call the answer B&lt;/p&gt;
+&lt;p&gt;How many building blocks are there Call the answer C&lt;/p&gt;
+&lt;p&gt;Add the numbers on the building blocks Call the answer D&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Final Location&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;The cache can be found at N 53° 35.BC W 006°
+09(A-D)(B-A)(C+D-A)&lt;/p&gt;
+&lt;p&gt;The Cache is a small container.&lt;br /&gt;
+&lt;br /&gt;
+Please take care and rehide the cache to prevent muggles from
+discovering its location.&lt;/p&gt;
+&lt;br /&gt;
+&lt;center&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;img src="http://www.northbeach.ie/gallery/albums/userpics/10001/windsock-anim-small.gif" /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;The Windsockers&lt;/b&gt;&lt;/center&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;hr size="2" /&gt;&lt;p&gt;Additional Waypoints&lt;/p&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>Hollow Tree</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="113001885">
+          <groundspeak:date>2010-06-13T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Didn't find it</groundspeak:type>
+          <groundspeak:finder id="2709154">Blue Jay 59</groundspeak:finder>
+          <groundspeak:text encoded="False">Like the last chacher - we had no luck - solved the puzzle and found hollow tree - bang on the co-ords but no cache.
+Will email details to CO in case it's muggled.
+TFTC anyhow.
+</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="110919418">
+          <groundspeak:date>2010-05-30T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Didn't find it</groundspeak:type>
+          <groundspeak:finder id="2849183">thomasvm</groundspeak:finder>
+          <groundspeak:text encoded="False">Solved the clue - and searched at least four holow trees - but could not find it. A lot of muggles around, so it will have to wait until the next visit.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="108017948">
+          <groundspeak:date>2010-05-11T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1020703">medic143</groundspeak:finder>
+          <groundspeak:text encoded="False">one of 3 done after a small job in Balbriggan. DId the maths correctly. My GPS lead me to a likely prospect (BTW I cache in shorts and this is NOT shorts friendly), turned out to be the wrong spot but the GPS then suggested a second spot. Cache is well hidden
+
+TNLN TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="105489739">
+          <groundspeak:date>2010-04-24T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="61401">Donnacha</groundspeak:finder>
+          <groundspeak:text encoded="False">Found after attending the CITO. Thanks.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="100732424">
+          <groundspeak:date>2010-03-21T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="134212">merann</groundspeak:finder>
+          <groundspeak:text encoded="False">Lovely spot with muggles galore in Ardgillan today as it was a beautiful day. The cache was an easy enough find after we had gathered up all the info required. TNLNSL.
+TFTC, Merann. </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

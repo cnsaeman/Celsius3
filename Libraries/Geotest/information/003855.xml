@@ -1,0 +1,170 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>003855</id>
+  <cache-id>GC24N0Q</cache-id>
+  <type>Traditional Cache</type>
+  <name>Wir lieben L........... by HubiFD, Traditional Cache (2/1.5)</name>
+  <size>Micro</size>
+  <difficulty>2</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-09-06</last-found>
+  <placed>2010-03-06</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>HubiFD</placedby>
+  <found>Geocache</found>
+  <lat>50.499067</lat>
+  <lon>9.6913</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>HubiFD</owner>
+  <description>
+      </description>
+  <long-description><b>Tatsächlich, ein caschefreies Areal mit gewissen Zugangszeiten,
+da musste hier natürlich eine Dose versteckt werden.<br />
+Zufälligerweise hatte ich noch eine präparierte Dose dabei. Die
+flache Dose ist so versteckt dass man nichts abschrauben,
+durchwühlen oder Sonstiges verändern muss, man sollte nur beim
+Suchen die Augen aufhalten. :-)<br />
+<font color="#FF0000"><b>Um keinen Hausfriedensbruch begehen zu
+müssen, sollte man sich schon an die Zugangszeiten halten
+!!!</b></font><br />
+Ganz nach dem Motto "Wir sind für Sie da, greifen Sie zu" kann man
+nach der Dose Ausschau halten.<br />
+Hat man das Döschen erblickt, braucht man nur noch zugreifen und
+den mitgebrachten Stift zücken.<br />
+<br />
+Bitte den Cache wieder genau dort positionieren wo ihr ihn
+entnommen habt, DANKE.<br />
+<br />
+<font color="#FF0000"><b>Die erste Dose wurde nach kurzer Zeit
+schon gemuggelt,<br />
+deshalb fehlen die ersten beiden Einträge was schon zu Verwunderung
+führte.</b></font><br />
+<br />
+Viel Spaß beim Suchen wünscht Euch<br />
+<br /></b>
+<table>
+<tr>
+<td align="center"><img src=
+"http://www.zrx-ig-forum.de/phpbb/images/avatars/88864716449a2c1d31eb44.gif" /></td>
+</tr>
+</table>
+<br />
+<b>Hier in der Nähe, ca. 600m nach 314° findet ihr noch einen
+weiteren Cache, den "L 3307".</b><br />
+<br />
+<br />
+<b>Glückwunsch dem Erstfinder: ratti noll</b></long-description>
+  <encoded-hints>Die Zugangszeiten sollten als Hinweis genügen.</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=1f783e2e-6bad-415c-b420-484c1815f7f1</url>
+  <url-name>Wir lieben L...........</url-name>
+  <logs><ul><li>2010-11-24T20:00:00Z : Found it by tweety&silvester <br />Schönes Versteck und heute Morgen muggelfrei.
+TFTC
+08:34, Tweety&Silvester</li><li>2010-09-26T19:00:00Z : Found it by Camuvlash <br />TFTC.</li><li>2010-09-24T19:00:00Z : Found it by Griesgor <br />Schönes Versteck! Gefunden und geloggt. War lustig der Seniorchef von dem Unternehmen kam zu mir und fragte was ich den da alles kontrollieren würde.Er dachte ich wäre von der Baubehörde.Nachdem ich ihm sagte was ich suche viel im ein Stein vom Herzen und er wünschte mir Glück bei der Suche.
+Gruß Griesgor</li><li>2010-09-14T04:17:30Z : Found it by STP 007 <br />Sent from my mobile device.</li><li>2010-09-06T19:00:00Z : Found it by Steibock <br />Durch einen Hint zwar gut gefunden,aber noch lange nicht geloggt.
+Ein tolles Versteck,und heute wars total vermaggelt.
+
+Vielen Dank fürs hier her Führen sagen der Steinbock
+mit Maskottchen Rina.</li></ul></logs>
+  <original-xml>  <wpt  lat="50.499067" lon="9.6913">
+    <time>2010-03-06T08:00:00Z</time>
+    <name>GC24N0Q</name>
+    <desc>Wir lieben L........... by HubiFD, Traditional Cache (2/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=1f783e2e-6bad-415c-b420-484c1815f7f1</url>
+    <urlname>Wir lieben L...........</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1575290" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Wir lieben L...........</groundspeak:name>
+      <groundspeak:placed_by>HubiFD</groundspeak:placed_by>
+      <groundspeak:owner id="2729325">HubiFD</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>2</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="True">
+      </groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;b&gt;Tatsächlich, ein caschefreies Areal mit gewissen Zugangszeiten,
+da musste hier natürlich eine Dose versteckt werden.&lt;br /&gt;
+Zufälligerweise hatte ich noch eine präparierte Dose dabei. Die
+flache Dose ist so versteckt dass man nichts abschrauben,
+durchwühlen oder Sonstiges verändern muss, man sollte nur beim
+Suchen die Augen aufhalten. :-)&lt;br /&gt;
+&lt;font color="#FF0000"&gt;&lt;b&gt;Um keinen Hausfriedensbruch begehen zu
+müssen, sollte man sich schon an die Zugangszeiten halten
+!!!&lt;/b&gt;&lt;/font&gt;&lt;br /&gt;
+Ganz nach dem Motto "Wir sind für Sie da, greifen Sie zu" kann man
+nach der Dose Ausschau halten.&lt;br /&gt;
+Hat man das Döschen erblickt, braucht man nur noch zugreifen und
+den mitgebrachten Stift zücken.&lt;br /&gt;
+&lt;br /&gt;
+Bitte den Cache wieder genau dort positionieren wo ihr ihn
+entnommen habt, DANKE.&lt;br /&gt;
+&lt;br /&gt;
+&lt;font color="#FF0000"&gt;&lt;b&gt;Die erste Dose wurde nach kurzer Zeit
+schon gemuggelt,&lt;br /&gt;
+deshalb fehlen die ersten beiden Einträge was schon zu Verwunderung
+führte.&lt;/b&gt;&lt;/font&gt;&lt;br /&gt;
+&lt;br /&gt;
+Viel Spaß beim Suchen wünscht Euch&lt;br /&gt;
+&lt;br /&gt;&lt;/b&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td align="center"&gt;&lt;img src=
+"http://www.zrx-ig-forum.de/phpbb/images/avatars/88864716449a2c1d31eb44.gif" /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+&lt;br /&gt;
+&lt;b&gt;Hier in der Nähe, ca. 600m nach 314° findet ihr noch einen
+weiteren Cache, den "L 3307".&lt;/b&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Glückwunsch dem Erstfinder: ratti noll&lt;/b&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>Die Zugangszeiten sollten als Hinweis genügen.</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="138134169">
+          <groundspeak:date>2010-11-24T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="856146">tweety&amp;silvester</groundspeak:finder>
+          <groundspeak:text encoded="False">Schönes Versteck und heute Morgen muggelfrei.
+TFTC
+08:34, Tweety&amp;Silvester</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="128565399">
+          <groundspeak:date>2010-09-26T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2724623">Camuvlash</groundspeak:finder>
+          <groundspeak:text encoded="False">TFTC.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="128245723">
+          <groundspeak:date>2010-09-24T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3701621">Griesgor</groundspeak:finder>
+          <groundspeak:text encoded="False">Schönes Versteck! Gefunden und geloggt. War lustig der Seniorchef von dem Unternehmen kam zu mir und fragte was ich den da alles kontrollieren würde.Er dachte ich wäre von der Baubehörde.Nachdem ich ihm sagte was ich suche viel im ein Stein vom Herzen und er wünschte mir Glück bei der Suche.
+Gruß Griesgor</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="126795320">
+          <groundspeak:date>2010-09-14T04:17:30Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3784531">STP 007</groundspeak:finder>
+          <groundspeak:text encoded="False">Sent from my mobile device.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="125585942">
+          <groundspeak:date>2010-09-06T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1250309">Steibock</groundspeak:finder>
+          <groundspeak:text encoded="False">Durch einen Hint zwar gut gefunden,aber noch lange nicht geloggt.
+Ein tolles Versteck,und heute wars total vermaggelt.
+
+Vielen Dank fürs hier her Führen sagen der Steinbock
+mit Maskottchen Rina.</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

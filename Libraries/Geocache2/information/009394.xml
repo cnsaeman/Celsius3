@@ -1,0 +1,190 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>009394</id>
+  <cache-id>GC1VP4D</cache-id>
+  <type>Multi-cache</type>
+  <name>Ode to Chris de Burgh by Orangetigerprawn, Multi-cache (2/1.5)</name>
+  <size>Small</size>
+  <difficulty>2</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2009-08-05</last-found>
+  <placed>2009-07-09</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>Orangetigerprawn</placedby>
+  <found>Geocache</found>
+  <lat>53.4764</lat>
+  <lon>-6.31815</lon>
+  <last-logs>FMFFF</last-logs>
+  <owner>orangetigerprawn</owner>
+  <description><center><b><font size="+2">Kilsallaghan
+    Churchyard.</font></b><br clear="all" />
+<br clear="all" />
+<br clear="all" />
+<br clear="all" />
+<img src="http://img.geocaching.com/cache/c124bedc-c7a9-483e-9550-af1699de6db2.jpg"
+     align="bottom" /></center>
+<br />
+<br />
+ <br clear="all" />
+<br clear="all" /></description>
+  <long-description><center><b>Lothe</b> him or <b>lothe</b> him, Chris de Burgh came
+to mind when I paid this place a visit with thoughts of using it
+for a cache site.</center>
+<br />
+<br />
+ 
+<center>The coordinates given will bring you to the churchyard. In
+order to calculate the final coordinates of the cache you'll need
+to visit the sign by the door and then find the preacher's
+daughter.</center>
+<br />
+<br />
+ 
+<center>Call the digits on the sign <b>ABCD</b>.</center>
+<br />
+<br />
+ 
+<center>When you find the preacher's daughter, the number of
+letters in her surname will be <b>E</b>.</center>
+<center>The number of letters in her siblings names will be
+<b>F</b>.</center>
+<center>The number of people named will be <b>G</b>.</center>
+<center>The number of people interred here will be
+<b>H</b>.</center>
+<center>&nbsp;</center>
+<center>The final coordinates are:</center>
+<center>N 53° (C+A)*E.(G+B)FE</center>
+<center>W 6° C+G*4.E*F*2-(E-H)*G+H</center>
+<br />
+<br />
+<center>So let your love shine on...
+<a href="http://www.youtube.com/watch?v=YS9TuyWDTX8"
+target="_blank">Try This</a></center></long-description>
+  <encoded-hints>As I made my way towards the last remaining headstone,
+I fell to my knees, read the lines ******* *** ******
+And suddenly it seemed to me
+I heard the words like singing in the trees.</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=ff5e1b54-8e1a-4101-844d-ca9f62c0fbef</url>
+  <url-name>Ode to Chris de Burgh</url-name>
+  <logs><ul><li>2010-04-11T19:00:00Z : Found it by merann <br />Found it this time without any problems. We realized we were in the wrong place last time we were here. Nice spot.
+Out - Marble.
+In - Trolley keyring.
+TFTC, Merann. </li><li>2010-04-11T19:00:00Z : Owner Maintenance by orangetigerprawn <br />Maintenance visit.</li><li>2009-10-29T19:00:00Z : Found it by shorty.b <br />found it nice place and container</li><li>2009-09-21T19:00:00Z : Found it by Serapis <br />This cache is slightly topical at the moment as there was some scandal recently about a critic who slated a recent Irish Chris de Burg concert. Letters to the Irish Times were not pleased [:(!].
+
+I don’t have much opinion about him, I do remember a teacher of mine at primary school trying to teach our class the lyrics of ‘Don’t Pay The Ferryman’.  He has had one or two good songs and one or two dodgy ones also.
+
+I was amazed I got the maths right on the first go, the West co ord is a bit complicated, what are the rules about the hierarchy of addition, subtraction, multiplication, division again[?] TFTC, TNLNSL. Serapis.
+</li><li>2009-08-05T19:00:00Z : Found it by theswerve <br />Found a bit of number crunching...TFTC....</li></ul></logs>
+  <original-xml>  <wpt  lat="53.4764" lon="-6.31815">
+    <time>2009-07-09T07:00:00Z</time>
+    <name>GC1VP4D</name>
+    <desc>Ode to Chris de Burgh by Orangetigerprawn, Multi-cache (2/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=ff5e1b54-8e1a-4101-844d-ca9f62c0fbef</url>
+    <urlname>Ode to Chris de Burgh</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Multi-cache</type>
+    <groundspeak:cache id="1308246" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Ode to Chris de Burgh</groundspeak:name>
+      <groundspeak:placed_by>Orangetigerprawn</groundspeak:placed_by>
+      <groundspeak:owner id="2167131">orangetigerprawn</groundspeak:owner>
+      <groundspeak:type>Multi-cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>2</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>Leinster</groundspeak:state>
+      <groundspeak:short_description html="True">&lt;center&gt;&lt;b&gt;&lt;font size="+2"&gt;Kilsallaghan
+    Churchyard.&lt;/font&gt;&lt;/b&gt;&lt;br clear="all" /&gt;
+&lt;br clear="all" /&gt;
+&lt;br clear="all" /&gt;
+&lt;br clear="all" /&gt;
+&lt;img src="http://img.geocaching.com/cache/c124bedc-c7a9-483e-9550-af1699de6db2.jpg"
+     align="bottom" /&gt;&lt;/center&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+ &lt;br clear="all" /&gt;
+&lt;br clear="all" /&gt;</groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;center&gt;&lt;b&gt;Lothe&lt;/b&gt; him or &lt;b&gt;lothe&lt;/b&gt; him, Chris de Burgh came
+to mind when I paid this place a visit with thoughts of using it
+for a cache site.&lt;/center&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+ 
+&lt;center&gt;The coordinates given will bring you to the churchyard. In
+order to calculate the final coordinates of the cache you'll need
+to visit the sign by the door and then find the preacher's
+daughter.&lt;/center&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+ 
+&lt;center&gt;Call the digits on the sign &lt;b&gt;ABCD&lt;/b&gt;.&lt;/center&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+ 
+&lt;center&gt;When you find the preacher's daughter, the number of
+letters in her surname will be &lt;b&gt;E&lt;/b&gt;.&lt;/center&gt;
+&lt;center&gt;The number of letters in her siblings names will be
+&lt;b&gt;F&lt;/b&gt;.&lt;/center&gt;
+&lt;center&gt;The number of people named will be &lt;b&gt;G&lt;/b&gt;.&lt;/center&gt;
+&lt;center&gt;The number of people interred here will be
+&lt;b&gt;H&lt;/b&gt;.&lt;/center&gt;
+&lt;center&gt;&amp;nbsp;&lt;/center&gt;
+&lt;center&gt;The final coordinates are:&lt;/center&gt;
+&lt;center&gt;N 53° (C+A)*E.(G+B)FE&lt;/center&gt;
+&lt;center&gt;W 6° C+G*4.E*F*2-(E-H)*G+H&lt;/center&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;center&gt;So let your love shine on...
+&lt;a href="http://www.youtube.com/watch?v=YS9TuyWDTX8"
+target="_blank"&gt;Try This&lt;/a&gt;&lt;/center&gt;&lt;p&gt;Additional Waypoints&lt;/p&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>As I made my way towards the last remaining headstone,
+I fell to my knees, read the lines ******* *** ******
+And suddenly it seemed to me
+I heard the words like singing in the trees.</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="103944632">
+          <groundspeak:date>2010-04-11T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="134212">merann</groundspeak:finder>
+          <groundspeak:text encoded="False">Found it this time without any problems. We realized we were in the wrong place last time we were here. Nice spot.
+Out - Marble.
+In - Trolley keyring.
+TFTC, Merann. </groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="103758752">
+          <groundspeak:date>2010-04-11T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Owner Maintenance</groundspeak:type>
+          <groundspeak:finder id="2167131">orangetigerprawn</groundspeak:finder>
+          <groundspeak:text encoded="False">Maintenance visit.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="88908940">
+          <groundspeak:date>2009-10-29T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2226632">shorty.b</groundspeak:finder>
+          <groundspeak:text encoded="False">found it nice place and container</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="85303948">
+          <groundspeak:date>2009-09-21T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1019524">Serapis</groundspeak:finder>
+          <groundspeak:text encoded="False">This cache is slightly topical at the moment as there was some scandal recently about a critic who slated a recent Irish Chris de Burg concert. Letters to the Irish Times were not pleased [:(!].
+
+I don’t have much opinion about him, I do remember a teacher of mine at primary school trying to teach our class the lyrics of ‘Don’t Pay The Ferryman’.  He has had one or two good songs and one or two dodgy ones also.
+
+I was amazed I got the maths right on the first go, the West co ord is a bit complicated, what are the rules about the hierarchy of addition, subtraction, multiplication, division again[?] TFTC, TNLNSL. Serapis.
+</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="79674416">
+          <groundspeak:date>2009-08-05T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1032462">theswerve</groundspeak:finder>
+          <groundspeak:text encoded="False">Found a bit of number crunching...TFTC....</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

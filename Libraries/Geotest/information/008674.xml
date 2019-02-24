@@ -1,0 +1,100 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>008674</id>
+  <cache-id>GC1H7HD</cache-id>
+  <type>Traditional Cache</type>
+  <name>Ost - West Passage: Monument by huepfehase supported by swordmasterH, Traditional Cache (1.5/1.5)</name>
+  <size>Micro</size>
+  <difficulty>1.5</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-11-05</last-found>
+  <placed>2008-10-14</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>huepfehase supported by swordmasterH</placedby>
+  <found>Geocache</found>
+  <lat>50.566067</lat>
+  <lon>9.624917</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>swordmasterH</owner>
+  <description>Drive In auf der Strecke Lauterbach - Fulda</description>
+  <long-description>Dieser Parkplatz ist mit einem riesigen Stein verziert.
+Zu unserem Glück nun auch mit einem schnellen Cache.
+
+Zum Heben der Dose ist es nicht notwendig irgendetwas in der Umgebung anzuheben oder zu graben.</long-description>
+  <encoded-hints>im Stein</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=e14451ae-b13d-465d-b69b-35c63c42a053</url>
+  <url-name>Ost - West Passage: Monument</url-name>
+  <logs><ul><li>2010-11-30T20:00:00Z : Found it by Griesgor <br />Klasse Versteck.Gratuliere!
+Hatte nur ein kleines Problem,Der Sichtschutz für den Cache war so weit reingesteckt das ich ihn nur mit Mühe heraus bekam.Gottseidank war ich mit dem Auto da und hatte dort einen Schraubenzieher.Also bitte an die Nachcacher nicht ganz so fest reinkloppen .Mein Fingernagel wächst wieder  	[:)]
+Ich sage danke für das schöne Versteck .Gruß Griesgor</li><li>2010-11-13T20:00:00Z : Found it by Fla20m <br />auf dem Weg von Hirchhain schnell mitgenommen! TFTC!</li><li>2010-11-05T19:00:00Z : Found it by Lenisa <br />
+Hier war Max mehr von dem Stein beeindruckt und Papa musste alleine suchen :-)</li><li>2010-11-05T19:00:00Z : Found it by max1139 <br />
+Ein schöner Stein, um den zu heben muss ich noch ein bisschen Spinat futtern.</li><li>2010-11-05T19:00:00Z : Found it by Suk ram <br />
+Schneller Zwischenstop für Richtung Stuttgart</li></ul></logs>
+  <original-xml>  <wpt  lat="50.566067" lon="9.624917">
+    <time>2008-10-14T07:00:00Z</time>
+    <name>GC1H7HD</name>
+    <desc>Ost - West Passage: Monument by huepfehase supported by swordmasterH, Traditional Cache (1.5/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=e14451ae-b13d-465d-b69b-35c63c42a053</url>
+    <urlname>Ost - West Passage: Monument</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1026115" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Ost - West Passage: Monument</groundspeak:name>
+      <groundspeak:placed_by>huepfehase supported by swordmasterH</groundspeak:placed_by>
+      <groundspeak:owner id="1270277">swordmasterH</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">Drive In auf der Strecke Lauterbach - Fulda</groundspeak:short_description>
+      <groundspeak:long_description html="False">Dieser Parkplatz ist mit einem riesigen Stein verziert.
+Zu unserem Glück nun auch mit einem schnellen Cache.
+
+Zum Heben der Dose ist es nicht notwendig irgendetwas in der Umgebung anzuheben oder zu graben.</groundspeak:long_description>
+      <groundspeak:encoded_hints>im Stein</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="137615865">
+          <groundspeak:date>2010-11-30T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3701621">Griesgor</groundspeak:finder>
+          <groundspeak:text encoded="False">Klasse Versteck.Gratuliere!
+Hatte nur ein kleines Problem,Der Sichtschutz für den Cache war so weit reingesteckt das ich ihn nur mit Mühe heraus bekam.Gottseidank war ich mit dem Auto da und hatte dort einen Schraubenzieher.Also bitte an die Nachcacher nicht ganz so fest reinkloppen .Mein Fingernagel wächst wieder  	[:)]
+Ich sage danke für das schöne Versteck .Gruß Griesgor</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="135951364">
+          <groundspeak:date>2010-11-13T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3087275">Fla20m</groundspeak:finder>
+          <groundspeak:text encoded="False">auf dem Weg von Hirchhain schnell mitgenommen! TFTC!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="134545797">
+          <groundspeak:date>2010-11-05T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1325805">Lenisa</groundspeak:finder>
+          <groundspeak:text encoded="False">
+Hier war Max mehr von dem Stein beeindruckt und Papa musste alleine suchen :-)</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="134544788">
+          <groundspeak:date>2010-11-05T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1935330">max1139</groundspeak:finder>
+          <groundspeak:text encoded="False">
+Ein schöner Stein, um den zu heben muss ich noch ein bisschen Spinat futtern.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="134529799">
+          <groundspeak:date>2010-11-05T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1395714">Suk ram</groundspeak:finder>
+          <groundspeak:text encoded="False">
+Schneller Zwischenstop für Richtung Stuttgart</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

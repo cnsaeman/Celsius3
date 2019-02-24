@@ -1,0 +1,140 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>005667</id>
+  <cache-id>GC1FFVV</cache-id>
+  <type>Traditional Cache</type>
+  <name>Waldexpedition by Team Misto, Traditional Cache (3/2)</name>
+  <size>Micro</size>
+  <difficulty>3</difficulty>
+  <terrain>2</terrain>
+  <last-found>2010-08-12</last-found>
+  <placed>2008-08-22</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Team Misto</placedby>
+  <found>Geocache</found>
+  <lat>50.6392</lat>
+  <lon>9.770367</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>Misto</owner>
+  <description>
+      </description>
+  <long-description><img src="http://www.andyhoppe.com/count/?id=1224534408"
+style="border:none" alt="Counter" />
+<div align="right">
+<img src="http://i20.photobucket.com/albums/b237/Misto_Ekiam/logoskopf.jpg"
+     border="0" alt="Photobucket" /></div>
+<br />
+Diese "Waldexpedition" führt Euch in den Dammersbacher Wald. Die
+näheste Parkmöglichkeit ist bei N 50° 38,280 E 009° 46,170 Bitte
+geht vorsichtig mit dem Cache um (Bergungshilfe für das Logbuch ist
+im Cache enthalten) und gebt auch beim Wiederverstecken acht!
+Danke! Graben, wühlen, stochern oder irgendeine andere Art der
+Waldzerstörung ist nicht erforderlich und sollte unbedingt
+vermieden werden. Bei Nacht würden wir diesen Cache nicht angehen,
+aber so lange ihr Euch das zutraut und Euch rücksichtsvoll
+gegenüber der ortsansässigen Flora und Fauna verhaltet ist es
+natürlich möglich aber nach unserer Einschätzung eher
+schwierig.</long-description>
+  <encoded-hints>
+      </encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=680f22bd-0d81-4c03-a6b4-cf6ea0682482</url>
+  <url-name>Waldexpedition</url-name>
+  <logs><ul><li>2010-11-21T20:00:00Z : Found it by balalaika <br />Da haben wir doch `ne ganze Weile den Wald vor lauter Bäumen nicht gesehen. Dann sind wir aber doch noch fündig geworden.
+Danke sagt team balalaika</li><li>2010-10-27T19:00:00Z : Found it by ktmkatie <br />Zuerst dachte ich, was mache ich eigentlich hier, schlechter GPS-Empfang, hässlicher Wald und ein verdammter Micro....[xx(]
+Beim finden, war ich dann doch positiv Überrascht und wurde für meine lange Suche entschädigt.
+Man braucht wirklich eine Pinzette um an das Logbuch zu kommen, konnte mich nur auf den Zettel vom
+Vorgänger schreiben.
+Danke für den witzigen Cache...  </li><li>2010-10-05T19:00:00Z : Found it by Camuvlash <br />TFTC. Super Versteck!!! Logbuch nicht erreichbar, Zettel eingelegt. Nächster Finder evtl. ein Logbuch und eine Pinzette mitbringen.</li><li>2010-09-12T19:00:00Z : Found it by sema2505 <br />Super beeindruckend :D
+Da haben wir echt ne ganze Weile gesucht aber das hat sich auf jeden Fall gelohnt für so eine echt gute Idee!!
+Leider konnten wir uns nicht eintragen, da wir nicht an das Logbuch kamen... Wir haben alles versucht, wollten aber auch nix kaputt machen...
+Trotzdem wirklich toll, ganz vielen Dank für den guten Einfall 8)</li><li>2010-08-12T19:00:00Z : Found it by Mammut-Baby <br />Ja,dasTeam Misto lässt sich doch immer was Tolles einfallen. Dieser Cache ist eine Bereicherung für das Keimlingfeld. Vielen Dank. Nach einiger Suche im Team gefunden.
+
+This entry was edited by Mammut-Baby on Friday, 13 August 2010 at 08:54:03.</li></ul></logs>
+  <original-xml>  <wpt  lat="50.6392" lon="9.770367">
+    <time>2008-08-22T07:00:00Z</time>
+    <name>GC1FFVV</name>
+    <desc>Waldexpedition by Team Misto, Traditional Cache (3/2)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=680f22bd-0d81-4c03-a6b4-cf6ea0682482</url>
+    <urlname>Waldexpedition</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="974513" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Waldexpedition</groundspeak:name>
+      <groundspeak:placed_by>Team Misto</groundspeak:placed_by>
+      <groundspeak:owner id="1277165">Misto</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>3</groundspeak:difficulty>
+      <groundspeak:terrain>2</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="True">
+      </groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;img src="http://www.andyhoppe.com/count/?id=1224534408"
+style="border:none" alt="Counter" /&gt;
+&lt;div align="right"&gt;
+&lt;img src="http://i20.photobucket.com/albums/b237/Misto_Ekiam/logoskopf.jpg"
+     border="0" alt="Photobucket" /&gt;&lt;/div&gt;
+&lt;br /&gt;
+Diese "Waldexpedition" führt Euch in den Dammersbacher Wald. Die
+näheste Parkmöglichkeit ist bei N 50° 38,280 E 009° 46,170 Bitte
+geht vorsichtig mit dem Cache um (Bergungshilfe für das Logbuch ist
+im Cache enthalten) und gebt auch beim Wiederverstecken acht!
+Danke! Graben, wühlen, stochern oder irgendeine andere Art der
+Waldzerstörung ist nicht erforderlich und sollte unbedingt
+vermieden werden. Bei Nacht würden wir diesen Cache nicht angehen,
+aber so lange ihr Euch das zutraut und Euch rücksichtsvoll
+gegenüber der ortsansässigen Flora und Fauna verhaltet ist es
+natürlich möglich aber nach unserer Einschätzung eher
+schwierig.</groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="137790348">
+          <groundspeak:date>2010-11-21T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1414299">balalaika</groundspeak:finder>
+          <groundspeak:text encoded="False">Da haben wir doch `ne ganze Weile den Wald vor lauter Bäumen nicht gesehen. Dann sind wir aber doch noch fündig geworden.
+Danke sagt team balalaika</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="133333882">
+          <groundspeak:date>2010-10-27T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="767677">ktmkatie</groundspeak:finder>
+          <groundspeak:text encoded="False">Zuerst dachte ich, was mache ich eigentlich hier, schlechter GPS-Empfang, hässlicher Wald und ein verdammter Micro....[xx(]
+Beim finden, war ich dann doch positiv Überrascht und wurde für meine lange Suche entschädigt.
+Man braucht wirklich eine Pinzette um an das Logbuch zu kommen, konnte mich nur auf den Zettel vom
+Vorgänger schreiben.
+Danke für den witzigen Cache...  </groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="129899906">
+          <groundspeak:date>2010-10-05T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2724623">Camuvlash</groundspeak:finder>
+          <groundspeak:text encoded="False">TFTC. Super Versteck!!! Logbuch nicht erreichbar, Zettel eingelegt. Nächster Finder evtl. ein Logbuch und eine Pinzette mitbringen.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="126723004">
+          <groundspeak:date>2010-09-12T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3665179">sema2505</groundspeak:finder>
+          <groundspeak:text encoded="False">Super beeindruckend :D
+Da haben wir echt ne ganze Weile gesucht aber das hat sich auf jeden Fall gelohnt für so eine echt gute Idee!!
+Leider konnten wir uns nicht eintragen, da wir nicht an das Logbuch kamen... Wir haben alles versucht, wollten aber auch nix kaputt machen...
+Trotzdem wirklich toll, ganz vielen Dank für den guten Einfall 8)</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="121629011">
+          <groundspeak:date>2010-08-12T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2558498">Mammut-Baby</groundspeak:finder>
+          <groundspeak:text encoded="False">Ja,dasTeam Misto lässt sich doch immer was Tolles einfallen. Dieser Cache ist eine Bereicherung für das Keimlingfeld. Vielen Dank. Nach einiger Suche im Team gefunden.
+
+This entry was edited by Mammut-Baby on Friday, 13 August 2010 at 08:54:03.</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

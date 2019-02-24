@@ -1,0 +1,136 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>002076</id>
+  <cache-id>GC11FDB</cache-id>
+  <type>Traditional Cache</type>
+  <name>Z is for Zoo by Hezekiah, Traditional Cache (1/1)</name>
+  <size>Micro</size>
+  <difficulty>1</difficulty>
+  <terrain>1</terrain>
+  <last-found>2007-08-19</last-found>
+  <placed>2007-03-15</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>Hezekiah</placedby>
+  <found>Geocache Found</found>
+  <lat>53.3532</lat>
+  <lon>-6.3043</lon>
+  <last-logs>FFFFFF</last-logs>
+  <owner>Hezekiah</owner>
+  <description><p align="center"><a target="_blank"
+href="http://www.geocachingireland.com/index.html"><img border="0"
+src="http://img.geocaching.com/cache/2280ab19-c5fc-4d33-8efb-797df9c0ac8c.jpg"
+     width="150" height="43" align="middle" /></a></p>
+<hr size="2" />
+<center><font color="Green">Visit the <b>new</b> Geocaching Ireland
+discussion forum <a rel="nofollow"
+href="http://www.mccartan.org/forums/"
+target="_blank">HERE</a></font></center>
+<hr size="2" /></description>
+  <long-description>Dublin Zoo has long been a major attraction - moving with the times
+has not always been easy, given funding difficulties and the
+changes in public opinion regarding zoos and circuses as
+entertainment, yet it is still a popular venue.</long-description>
+  <encoded-hints>Vertical corner post, in the hedge!</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=bc9503e3-b8a3-41e4-81bc-82bab26385eb</url>
+  <url-name>Z is for Zoo</url-name>
+  <logs><ul><li>2010-06-17T19:00:00Z : Found it by RoobyDoo <br />A quick cache before entering the wonderful zoo.
+Thanks for the cache.
+RD</li><li>2010-06-15T19:00:00Z : Found it by Ulyxes&Evasek <br />Really nice cache and also surrounding park.Well hidden, we spent some time to find it without GPS navigator.Thank you.</li><li>2010-06-12T19:00:00Z : Found it by Petr Skacha <br />Nice micro, our 60th cache.[:)]
+TFTC</li><li>2010-06-02T19:00:00Z : Found it by Ginblue <br />Got this in on the last day of our sort break in Dublin before returning to Wales. Finding the cache was not the problem, doing so in such a crowd was! So we just acted like the tourists we were, fiddling about with maps, GPS and note books. Loved Dublin. TFTC Ginblue</li><li>2010-06-02T19:00:00Z : Found it by eve1987 <br />Not so easy with the hundreds of people :D
+The man from the entrance would think we are stupid ;)
+
+TFTC and kind regards from Austria, eve</li><li>2007-08-19T07:00:00Z : Found it by Kersti.com <br />Oh, so this is where the zoo is - looks a lot more modern than I've been told... must go there one day!
+
+Found with Toadster and Cam. Stealth required but easy to hide amongst the crowds on this glorious afternoon.
+
+OUT - Pendant
+IN - pretty badge</li></ul></logs>
+  <original-xml>  <wpt  lat="53.3532" lon="-6.3043">
+    <time>2007-03-15T07:00:00Z</time>
+    <name>GC11FDB</name>
+    <desc>Z is for Zoo by Hezekiah, Traditional Cache (1/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=bc9503e3-b8a3-41e4-81bc-82bab26385eb</url>
+    <urlname>Z is for Zoo</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="557021" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Z is for Zoo</groundspeak:name>
+      <groundspeak:placed_by>Hezekiah</groundspeak:placed_by>
+      <groundspeak:owner id="274644">Hezekiah</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>Dublin</groundspeak:state>
+      <groundspeak:short_description html="True">&lt;p align="center"&gt;&lt;a target="_blank"
+href="http://www.geocachingireland.com/index.html"&gt;&lt;img border="0"
+src="http://img.geocaching.com/cache/2280ab19-c5fc-4d33-8efb-797df9c0ac8c.jpg"
+     width="150" height="43" align="middle" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;hr size="2" /&gt;
+&lt;center&gt;&lt;font color="Green"&gt;Visit the &lt;b&gt;new&lt;/b&gt; Geocaching Ireland
+discussion forum &lt;a rel="nofollow"
+href="http://www.mccartan.org/forums/"
+target="_blank"&gt;HERE&lt;/a&gt;&lt;/font&gt;&lt;/center&gt;
+&lt;hr size="2" /&gt;</groundspeak:short_description>
+      <groundspeak:long_description html="True">Dublin Zoo has long been a major attraction - moving with the times
+has not always been easy, given funding difficulties and the
+changes in public opinion regarding zoos and circuses as
+entertainment, yet it is still a popular venue.</groundspeak:long_description>
+      <groundspeak:encoded_hints>Vertical corner post, in the hedge!</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="113214802">
+          <groundspeak:date>2010-06-17T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="668764">RoobyDoo</groundspeak:finder>
+          <groundspeak:text encoded="False">A quick cache before entering the wonderful zoo.
+Thanks for the cache.
+RD</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="113203496">
+          <groundspeak:date>2010-06-15T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1109142">Ulyxes&amp;Evasek</groundspeak:finder>
+          <groundspeak:text encoded="False">Really nice cache and also surrounding park.Well hidden, we spent some time to find it without GPS navigator.Thank you.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="112532105">
+          <groundspeak:date>2010-06-12T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="821695">Petr Skacha</groundspeak:finder>
+          <groundspeak:text encoded="False">Nice micro, our 60th cache.[:)]
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="112325453">
+          <groundspeak:date>2010-06-02T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2860832">Ginblue</groundspeak:finder>
+          <groundspeak:text encoded="False">Got this in on the last day of our sort break in Dublin before returning to Wales. Finding the cache was not the problem, doing so in such a crowd was! So we just acted like the tourists we were, fiddling about with maps, GPS and note books. Loved Dublin. TFTC Ginblue</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="111881693">
+          <groundspeak:date>2010-06-02T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1617792">eve1987</groundspeak:finder>
+          <groundspeak:text encoded="False">Not so easy with the hundreds of people :D
+The man from the entrance would think we are stupid ;)
+
+TFTC and kind regards from Austria, eve</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="31394159">
+          <groundspeak:date>2007-08-19T07:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="320206">Kersti.com</groundspeak:finder>
+          <groundspeak:text encoded="False">Oh, so this is where the zoo is - looks a lot more modern than I've been told... must go there one day!
+
+Found with Toadster and Cam. Stealth required but easy to hide amongst the crowds on this glorious afternoon.
+
+OUT - Pendant
+IN - pretty badge</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

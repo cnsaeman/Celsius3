@@ -1,0 +1,121 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>002143</id>
+  <cache-id>GC11F4B</cache-id>
+  <type>Traditional Cache</type>
+  <name>H is for Ha-ha by Hezekiah, Traditional Cache (1/1)</name>
+  <size>Micro</size>
+  <difficulty>1</difficulty>
+  <terrain>1</terrain>
+  <last-found>2008-09-25</last-found>
+  <placed>2007-03-15</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>Hezekiah</placedby>
+  <found>Geocache</found>
+  <lat>53.184867</lat>
+  <lon>-6.18875</lon>
+  <last-logs>XFXXF</last-logs>
+  <owner>Hezekiah</owner>
+  <description><p align="center"><a target="_blank" href=
+   "http://www.geocachingireland.com/index.html"><img border="0"
+   src="http://geocachingireland.com/logo4.jpg" width="328"
+     height="53" align="middle"></a></p>
+<hr align="center" size="2" width="40%">
+<center><font color="blue">Visit the <b>new</b> Geocaching Ireland
+discussion forum <a rel="nofollow" href=
+"http://www.mccartan.org/forums/" target=
+"_blank">HERE</a></font></center>
+<hr align="center" size="2" width="40%">
+<br>
+<br></description>
+  <long-description>Set in the environs of Powerscourt House. There is a fee to tour
+the house and the gardens - if you are visiting the shop, however,
+there is no fee. You know what to do! Just tell the person in the
+kiosk at the main gate that you are visiting the shop and proceed
+to the car park. Incidentally, a "ha-ha" is a sunken road - the
+purpose of which was to allow traffic to move around the estate
+without sullying the eyes of those in residence in the house.</long-description>
+  <encoded-hints>3m from the gate, at ground level</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=206e876d-824b-4d27-95fc-ecdd54cbe573</url>
+  <url-name>H is for Ha-ha</url-name>
+  <logs><ul><li>2010-05-30T19:00:00Z : Didn't find it by oldnavycarl <br />Im sure we were close but we had no joy. :-(</li><li>2010-05-25T11:54:00Z : Found it by rdraper <br />After looking for fifteen minutes at eye level, we re-read the hint at looked at ground level. And there it was. Great first find on our vacation. 
+Drapers and Chandlers</li><li>2010-04-29T15:10:21Z : Didn't find it by edwincartwright <br />Dammit. New this one could be difficult and it proved to be so. I am very curious where it is. Gave up after 45 minutes searching with 3 people.</li><li>2010-04-25T19:00:00Z : Didn't find it by MurphInerney <br />Had a quick look but the shop was closing so there were lots of muggles!!!  I will return to try again</li><li>2008-09-25T19:00:00Z : Found it by bortsen <br />Very nice. This was my first cache ever. Thanks to kcdc for showing me this very interesting activity.</li></ul></logs>
+  <original-xml>  <wpt  lat="53.184867" lon="-6.18875">
+    <time>2007-03-15T07:00:00Z</time>
+    <name>GC11F4B</name>
+    <desc>H is for Ha-ha by Hezekiah, Traditional Cache (1/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=206e876d-824b-4d27-95fc-ecdd54cbe573</url>
+    <urlname>H is for Ha-ha</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="556742" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>H is for Ha-ha</groundspeak:name>
+      <groundspeak:placed_by>Hezekiah</groundspeak:placed_by>
+      <groundspeak:owner id="274644">Hezekiah</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>
+      </groundspeak:state>
+      <groundspeak:short_description html="True">&lt;p align="center"&gt;&lt;a target="_blank" href=
+   "http://www.geocachingireland.com/index.html"&gt;&lt;img border="0"
+   src="http://geocachingireland.com/logo4.jpg" width="328"
+     height="53" align="middle"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;hr align="center" size="2" width="40%"&gt;
+&lt;center&gt;&lt;font color="blue"&gt;Visit the &lt;b&gt;new&lt;/b&gt; Geocaching Ireland
+discussion forum &lt;a rel="nofollow" href=
+"http://www.mccartan.org/forums/" target=
+"_blank"&gt;HERE&lt;/a&gt;&lt;/font&gt;&lt;/center&gt;
+&lt;hr align="center" size="2" width="40%"&gt;
+&lt;br&gt;
+&lt;br&gt;</groundspeak:short_description>
+      <groundspeak:long_description html="True">Set in the environs of Powerscourt House. There is a fee to tour
+the house and the gardens - if you are visiting the shop, however,
+there is no fee. You know what to do! Just tell the person in the
+kiosk at the main gate that you are visiting the shop and proceed
+to the car park. Incidentally, a "ha-ha" is a sunken road - the
+purpose of which was to allow traffic to move around the estate
+without sullying the eyes of those in residence in the house.</groundspeak:long_description>
+      <groundspeak:encoded_hints>3m from the gate, at ground level</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="110793542">
+          <groundspeak:date>2010-05-30T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Didn't find it</groundspeak:type>
+          <groundspeak:finder id="2843331">oldnavycarl</groundspeak:finder>
+          <groundspeak:text encoded="False">Im sure we were close but we had no joy. :-(</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="110075694">
+          <groundspeak:date>2010-05-25T11:54:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="563328">rdraper</groundspeak:finder>
+          <groundspeak:text encoded="False">After looking for fifteen minutes at eye level, we re-read the hint at looked at ground level. And there it was. Great first find on our vacation. 
+Drapers and Chandlers</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="106260139">
+          <groundspeak:date>2010-04-29T15:10:21Z</groundspeak:date>
+          <groundspeak:type>Didn't find it</groundspeak:type>
+          <groundspeak:finder id="2900306">edwincartwright</groundspeak:finder>
+          <groundspeak:text encoded="False">Dammit. New this one could be difficult and it proved to be so. I am very curious where it is. Gave up after 45 minutes searching with 3 people.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="105731328">
+          <groundspeak:date>2010-04-25T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Didn't find it</groundspeak:type>
+          <groundspeak:finder id="2325660">MurphInerney</groundspeak:finder>
+          <groundspeak:text encoded="False">Had a quick look but the shop was closing so there were lots of muggles!!!  I will return to try again</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="105759031">
+          <groundspeak:date>2008-09-25T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1895807">bortsen</groundspeak:finder>
+          <groundspeak:text encoded="False">Very nice. This was my first cache ever. Thanks to kcdc for showing me this very interesting activity.</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

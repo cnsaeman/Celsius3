@@ -1,0 +1,224 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>000464</id>
+  <cache-id>GCMTX1</cache-id>
+  <type>Multi-cache</type>
+  <name>Dublin Can Be Heaven by Kili or bust, Multi-cache (1/1)</name>
+  <size>Small</size>
+  <difficulty>1</difficulty>
+  <terrain>1</terrain>
+  <last-found>2007-08-22</last-found>
+  <placed>2005-02-16</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>Kili or bust</placedby>
+  <found>Geocache Found</found>
+  <lat>53.3385</lat>
+  <lon>-6.256417</lon>
+  <last-logs>FFFFFF</last-logs>
+  <owner>Kili or bust</owner>
+  <description><p align="center"><a target="_blank" href=
+   "http://www.geocachingireland.com/index.html"><img border="0"
+   src=
+   "http://img.geocaching.com/cache/2280ab19-c5fc-4d33-8efb-797df9c0ac8c.jpg"
+     width="150" height="43" align="middle"></a></p>
+<hr size="2">
+<center><font color="Green">Visit The Geocaching Ireland discussion
+forum <a href="http://www.mccartan.org/forums/" target=
+"_blank">HERE</a></font></center>
+<hr size="2"></description>
+  <long-description><p><a href=
+   "http://www.handicaching.com/show.php?waypoint=GCMTX1" target=
+   "_blank"><img src=
+   "http://www.handicaching.com/images/seal_rater2.gif" border="0"
+   alt="View the ratings for GCMTX1"></a></p>
+<!--end of handicaching link-->
+<p>"Dublin can be Heaven, with coffee at eleven,<br>
+and a stroll in Stephen's Green".......<br>
+Lovely centre city park for a visitor and the stages of this cache
+will show you very quickly around.<br>
+In spring and summer time it is open for lengthy periods and the
+plant life and floral displays can be pretty special.<br>
+N.B Any early morning visit would be a good idea!!! And preferably
+on a weekday as the park can be quite crowded at weekends<br>
+<br>
+The coords bring you to an information board where you will quickly
+find the locations of the 3 clues to the coords for the cache. Very
+close to the cache is another information board with all the
+history of "The Green" you may wish to know.<br>
+<br>
+1. How many figures (excluding the dog) are displayed behind the
+Wolfe Tone Memorial? Answer goes where the question mark is. The
+rest of the missing coords are in the next 2 questions.<br>
+<br>
+N 53 20.?-- W 006 15.---<br>
+<br>
+2. On the back of James Joyce's collar M. Fitzgibbon's year is
+displayed. Divide it by 2 then subtract 391 and fill in the 3
+question marks below.<br>
+<br>
+N 53 20.--- W 006 15.???<br>
+<br>
+3. Robert Emmet died in 18?3. This figure is used twice in the
+remaining missing coords.<br>
+<br>
+N 53 20.-?? W 006 15---<br>
+<br>
+Now you have the coords for the cache which is quite small so try
+not to bring anything chunky to place in it. It is in a small flat
+tupperware box in a ziploc bag. Spoiler picture included. The green
+liner is now gone so you are looking for a see through tupperware
+box with a green lid. This is to help anyone who finds the tree
+cover interfering with the coords.</p></long-description>
+  <encoded-hints>36 paces from fountain through left side of gazebo to wooden sleepers behind. Piece of wood screwed on to hold it in.</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=1f644f50-726c-4736-9f03-bf6248ff04dc</url>
+  <url-name>Dublin Can Be Heaven</url-name>
+  <logs><ul><li>2010-06-12T19:00:00Z : Found it by pierrit <br />Nice cache.
+10:25</li><li>2010-06-07T19:00:00Z : Found it by de Bontjes <br />Nice walk around the park. Together with 4-voeters we made a mistake and discovered that the coords were not correct. With the help of the discription and the hints we were able to locate the cache anyway.
+It was extremely busy at this bank holliday. There was a mini marathon for women going on and that brought a lot of people to this area. Everyone, including us, had a lot of fun. 
+Logged at 13:50
+T4TC</li><li>2010-06-07T19:00:00Z : Found it by 4voeters <br />Nice walk around the park. We made a mistake and discovered that the coords were not correct. With the help of the discription and the hints we were able to locate the cache anyway.
+It was extremely busy at this bank holliday. There was a mini marathon for women going on and that brought a lot of people to this area. Everyone, including us, had a lot of fun. 
+IN Compass
+OUT Dog 
+Logged, together with De Bontjes at 13:50
+TFTC</li><li>2010-06-06T19:00:00Z : Found it by Dryagonfly <br />A very nice multi. Enjoyed the walk in the park. TFTC and greetings from Finland</li><li>2010-06-04T19:00:00Z : Found it by eve1987 <br />Nice short Multi!! 
+
+In: tb
+
+TFTC</li><li>2007-08-22T07:00:00Z : Found it by Kersti.com <br />Found with CMB50 - nice hide and reasonably easy to do thanks to the lunch crowd facing the opposite way. A nice sized cache. 
+
+OUT - geocoin
+IN - necklace</li></ul></logs>
+  <original-xml>  <wpt  lat="53.3385" lon="-6.256417">
+    <time>2005-02-16T08:00:00Z</time>
+    <name>GCMTX1</name>
+    <desc>Dublin Can Be Heaven by Kili or bust, Multi-cache (1/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=1f644f50-726c-4736-9f03-bf6248ff04dc</url>
+    <urlname>Dublin Can Be Heaven</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Multi-cache</type>
+    <groundspeak:cache id="209594" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Dublin Can Be Heaven</groundspeak:name>
+      <groundspeak:placed_by>Kili or bust</groundspeak:placed_by>
+      <groundspeak:owner id="281705">Kili or bust</groundspeak:owner>
+      <groundspeak:type>Multi-cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>Dublin</groundspeak:state>
+      <groundspeak:short_description html="True">&lt;p align="center"&gt;&lt;a target="_blank" href=
+   "http://www.geocachingireland.com/index.html"&gt;&lt;img border="0"
+   src=
+   "http://img.geocaching.com/cache/2280ab19-c5fc-4d33-8efb-797df9c0ac8c.jpg"
+     width="150" height="43" align="middle"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;hr size="2"&gt;
+&lt;center&gt;&lt;font color="Green"&gt;Visit The Geocaching Ireland discussion
+forum &lt;a href="http://www.mccartan.org/forums/" target=
+"_blank"&gt;HERE&lt;/a&gt;&lt;/font&gt;&lt;/center&gt;
+&lt;hr size="2"&gt;</groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;p&gt;&lt;a href=
+   "http://www.handicaching.com/show.php?waypoint=GCMTX1" target=
+   "_blank"&gt;&lt;img src=
+   "http://www.handicaching.com/images/seal_rater2.gif" border="0"
+   alt="View the ratings for GCMTX1"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;!--end of handicaching link--&gt;
+&lt;p&gt;"Dublin can be Heaven, with coffee at eleven,&lt;br&gt;
+and a stroll in Stephen's Green".......&lt;br&gt;
+Lovely centre city park for a visitor and the stages of this cache
+will show you very quickly around.&lt;br&gt;
+In spring and summer time it is open for lengthy periods and the
+plant life and floral displays can be pretty special.&lt;br&gt;
+N.B Any early morning visit would be a good idea!!! And preferably
+on a weekday as the park can be quite crowded at weekends&lt;br&gt;
+&lt;br&gt;
+The coords bring you to an information board where you will quickly
+find the locations of the 3 clues to the coords for the cache. Very
+close to the cache is another information board with all the
+history of "The Green" you may wish to know.&lt;br&gt;
+&lt;br&gt;
+1. How many figures (excluding the dog) are displayed behind the
+Wolfe Tone Memorial? Answer goes where the question mark is. The
+rest of the missing coords are in the next 2 questions.&lt;br&gt;
+&lt;br&gt;
+N 53 20.?-- W 006 15.---&lt;br&gt;
+&lt;br&gt;
+2. On the back of James Joyce's collar M. Fitzgibbon's year is
+displayed. Divide it by 2 then subtract 391 and fill in the 3
+question marks below.&lt;br&gt;
+&lt;br&gt;
+N 53 20.--- W 006 15.???&lt;br&gt;
+&lt;br&gt;
+3. Robert Emmet died in 18?3. This figure is used twice in the
+remaining missing coords.&lt;br&gt;
+&lt;br&gt;
+N 53 20.-?? W 006 15---&lt;br&gt;
+&lt;br&gt;
+Now you have the coords for the cache which is quite small so try
+not to bring anything chunky to place in it. It is in a small flat
+tupperware box in a ziploc bag. Spoiler picture included. The green
+liner is now gone so you are looking for a see through tupperware
+box with a green lid. This is to help anyone who finds the tree
+cover interfering with the coords.&lt;/p&gt;&lt;p&gt;Additional Waypoints&lt;/p&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>36 paces from fountain through left side of gazebo to wooden sleepers behind. Piece of wood screwed on to hold it in.</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="113087018">
+          <groundspeak:date>2010-06-12T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="367416">pierrit</groundspeak:finder>
+          <groundspeak:text encoded="False">Nice cache.
+10:25</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="112434101">
+          <groundspeak:date>2010-06-07T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2857509">de Bontjes</groundspeak:finder>
+          <groundspeak:text encoded="False">Nice walk around the park. Together with 4-voeters we made a mistake and discovered that the coords were not correct. With the help of the discription and the hints we were able to locate the cache anyway.
+It was extremely busy at this bank holliday. There was a mini marathon for women going on and that brought a lot of people to this area. Everyone, including us, had a lot of fun. 
+Logged at 13:50
+T4TC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="112341200">
+          <groundspeak:date>2010-06-07T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1051862">4voeters</groundspeak:finder>
+          <groundspeak:text encoded="False">Nice walk around the park. We made a mistake and discovered that the coords were not correct. With the help of the discription and the hints we were able to locate the cache anyway.
+It was extremely busy at this bank holliday. There was a mini marathon for women going on and that brought a lot of people to this area. Everyone, including us, had a lot of fun. 
+IN Compass
+OUT Dog 
+Logged, together with De Bontjes at 13:50
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="111897800">
+          <groundspeak:date>2010-06-06T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="718390">Dryagonfly</groundspeak:finder>
+          <groundspeak:text encoded="False">A very nice multi. Enjoyed the walk in the park. TFTC and greetings from Finland</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="111884623">
+          <groundspeak:date>2010-06-04T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1617792">eve1987</groundspeak:finder>
+          <groundspeak:text encoded="False">Nice short Multi!! 
+
+In: tb
+
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="31492491">
+          <groundspeak:date>2007-08-22T07:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="320206">Kersti.com</groundspeak:finder>
+          <groundspeak:text encoded="False">Found with CMB50 - nice hide and reasonably easy to do thanks to the lunch crowd facing the opposite way. A nice sized cache. 
+
+OUT - geocoin
+IN - necklace</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

@@ -1,0 +1,119 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>004351</id>
+  <cache-id>GCY843</cache-id>
+  <type>Traditional Cache</type>
+  <name>Can't see the wood for the trees by Wackihunters, Traditional Cache (1/1)</name>
+  <size>Small</size>
+  <difficulty>1</difficulty>
+  <terrain>1</terrain>
+  <last-found>2010-04-17</last-found>
+  <placed>2006-09-16</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>Wackihunters</placedby>
+  <found>Geocache</found>
+  <lat>53.615483</lat>
+  <lon>-6.5057</lon>
+  <last-logs>FXFFF</last-logs>
+  <owner>Wackihunters</owner>
+  <description>Should be an easy one and will hopefully provide you with a nice
+walk. Main obstacle is that signal sometimes weakens in the woods.</description>
+  <long-description>Go first to car park in Balrath Wood N53 37.061 W006 30.462 and set
+out from there. Plastic container with selection of bric a brac.
+Please hide well as although quiet their are a number of children
+spend that spend a lot of time playing in this wood. There is a
+group called the Balrath Woods Preservation Group that look to
+promote the appreciation of the environmental and social value of
+our woodlands and to protect this important part of our natural
+heritage for the future. You can find out more at
+http://balrathwoods.com/html/home1.html The wood has a variety of
+walks (short and long) as well as a nature trail with numbered
+posts. For more info see
+http://www.meath.ie/latest_news/balrath.html</long-description>
+  <additional-waypoints>PKY843 - GCY843 Parking<br />N 53° 37.061 W 006° 30.462<br /><br /></additional-waypoints>
+  <links>waypoints:cache-id:PKY843</links>
+  <encoded-hints>The five "Foreign" ladies have her, but no it's not five</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=1646faf2-bba7-434f-add7-91c6cfece1ff</url>
+  <url-name>Can't see the wood for the trees</url-name>
+  <logs><ul><li>2010-05-30T19:00:00Z : Found it by Numira <br />A quick cache on our way to dublin Airport. Nice place!
+well hidden and camouflaged:-)
+Thanks for the cache!
+Greetings from the Czech republic!</li><li>2010-05-23T19:00:00Z : Didn't find it by woodface <br />Clue was very clear and we were sure we were in right place, but no sign of it anywhere. Will scan logs and see if we're missing something obvious...</li><li>2010-05-08T19:00:00Z : Found it by garrethmolloy <br />Great Woodland area - Our First Find.</li><li>2010-04-22T19:00:00Z : Found it by TheSheMullet <br />Found handily. Great little walk. The tree on the way is great looking.
+TFTC SL.</li><li>2010-04-17T19:00:00Z : Found it by pplsgod <br />Found with Laura374, great location and loved the woodland. TFTC</li></ul></logs>
+  <original-xml>  <wpt  lat="53.615483" lon="-6.5057">
+    <time>2006-09-16T07:00:00Z</time>
+    <name>GCY843</name>
+    <desc>Can't see the wood for the trees by Wackihunters, Traditional Cache (1/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=1646faf2-bba7-434f-add7-91c6cfece1ff</url>
+    <urlname>Can't see the wood for the trees</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="460634" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Can't see the wood for the trees</groundspeak:name>
+      <groundspeak:placed_by>Wackihunters</groundspeak:placed_by>
+      <groundspeak:owner id="799101">Wackihunters</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>
+      </groundspeak:state>
+      <groundspeak:short_description html="True">Should be an easy one and will hopefully provide you with a nice
+walk. Main obstacle is that signal sometimes weakens in the woods.</groundspeak:short_description>
+      <groundspeak:long_description html="True">Go first to car park in Balrath Wood N53 37.061 W006 30.462 and set
+out from there. Plastic container with selection of bric a brac.
+Please hide well as although quiet their are a number of children
+spend that spend a lot of time playing in this wood. There is a
+group called the Balrath Woods Preservation Group that look to
+promote the appreciation of the environmental and social value of
+our woodlands and to protect this important part of our natural
+heritage for the future. You can find out more at
+http://balrathwoods.com/html/home1.html The wood has a variety of
+walks (short and long) as well as a nature trail with numbered
+posts. For more info see
+http://www.meath.ie/latest_news/balrath.html&lt;p&gt;Additional Waypoints&lt;/p&gt;PKY843 - GCY843 Parking&lt;br /&gt;N 53° 37.061 W 006° 30.462&lt;br /&gt;&lt;br /&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>The five "Foreign" ladies have her, but no it's not five</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="110999336">
+          <groundspeak:date>2010-05-30T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="610776">Numira</groundspeak:finder>
+          <groundspeak:text encoded="False">A quick cache on our way to dublin Airport. Nice place!
+well hidden and camouflaged:-)
+Thanks for the cache!
+Greetings from the Czech republic!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="110093265">
+          <groundspeak:date>2010-05-23T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Didn't find it</groundspeak:type>
+          <groundspeak:finder id="2785988">woodface</groundspeak:finder>
+          <groundspeak:text encoded="False">Clue was very clear and we were sure we were in right place, but no sign of it anywhere. Will scan logs and see if we're missing something obvious...</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="107580664">
+          <groundspeak:date>2010-05-08T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3265584">garrethmolloy</groundspeak:finder>
+          <groundspeak:text encoded="False">Great Woodland area - Our First Find.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="105902117">
+          <groundspeak:date>2010-04-22T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1144935">TheSheMullet</groundspeak:finder>
+          <groundspeak:text encoded="False">Found handily. Great little walk. The tree on the way is great looking.
+TFTC SL.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="104558757">
+          <groundspeak:date>2010-04-17T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2600769">pplsgod</groundspeak:finder>
+          <groundspeak:text encoded="False">Found with Laura374, great location and loved the woodland. TFTC</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

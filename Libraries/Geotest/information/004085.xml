@@ -1,0 +1,134 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>004085</id>
+  <cache-id>GC1J00W</cache-id>
+  <type>Multi-cache</type>
+  <name>Kirchgehai by Thyrie, Multi-cache (2/1.5)</name>
+  <size>Regular</size>
+  <difficulty>2</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-04-25</last-found>
+  <placed>2008-11-09</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Thyrie</placedby>
+  <found>Geocache</found>
+  <lat>50.5018</lat>
+  <lon>9.576417</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>thyrie</owner>
+  <description>Bis auf die letzten 50 m auf befestigten Wegen. Ca. 80 Höhenmeter sind zu überwinden.</description>
+  <long-description>Kirchgehai
+
+Parken könnt ihr bei N 50 30106 O 9 34.452.
+Dort ist reichlich öffentlicher Platz vorhanden!
+
+Bei den Startkoordinaten gibt es was zu lesen. Ihr findet zwei Jahreszahlen, aus der 1. Zahl bildet ihr die EINFACHE Quersumme. Das ist B. Die 2. Zahl ist A.
+
+Den nächsten Hinweis gibt es bei N 50 29.(880+B) 
+E 009 34.(680+A). Dort findet ihr etwas versteckt zwei Schilder mit gleicher Zahl. Setzt den einzelnen Ziffern der Zahl fortlaufend die Buchstaben des Alphabets von A-H gleich.
+
+Der Cache ist bei N 50 DH.FF1 und Ost 00E CB.7F1 versteckt!
+
+Eine Bitte zum Schluss: Den Cache mit Rücksicht auf unsere Jäger bitte nicht in der späten Abend- bzw. frühen Morgendämmerung heben!
+
+Erstbefüllung:
+Logbuch mit Stift, Geocoin, Vier-Gewinnt-Spiel, 2 Ü-Ei Figuren, Mini-Elefant, runder Würfel.
+
+Auch bei Opencaching gelistet.
+
+Additional Waypoints
+</long-description>
+  <encoded-hints>Da die Koordinaten immer mal springen, hier ein Hinweis: Der zweite Punkt ist nicht zu übersehen.</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=4fa1ef1c-c02e-4f41-906b-8bea41d13b59</url>
+  <url-name>Kirchgehai</url-name>
+  <logs><ul><li>2010-10-08T19:00:00Z : Found it by rennmaus & rennhase <br />Gemeinsam mit 1871 angegangen und geschafft ;) Tolles Wetter, schönes Aussicht, einfacht super!! "Danke", sagt rennmaus von rennmaus & rennhase</li><li>2010-06-07T19:00:00Z : Found it by capitanok9 <br />Schöne Aussicht auf Giesel,der Aufstieg mit dem Fahrrad ist schweißtreibend.
+Trotzdem vielen Dank
+TFTC</li><li>2010-05-02T14:18:39Z : Found it by thomas_bimbach <br />Danke</li><li>2010-04-25T19:00:00Z : Found it by Uhrheber <br />Kleiner schneller Multi, der fix gehoben war. Deshalb 3 Sternchen bei [url=http://www.geocaching-franken.de/?p=1983]GCVote[/url].</li><li>2010-04-25T19:00:00Z : Found it by gartentaucher <br />Es sind zwar nicht alle Zahlen automatisch Jahreszahlen, aber durch Logik war es dann wieder eindeutig. Ohne Suche haben wir alles gefunden und gleich noch ein paar Pfandflaschen eingesackt. Auf das die Natur sauber werde und die Tankkasse gefüllt. [:P]
+3 Sternchen bei [url=http://www.geocaching-franken.de/?p=1983]GCVote[/url].
+
+rein: Coin "J.B.Walker", Stempel, Golfball</li></ul></logs>
+  <original-xml>  <wpt  lat="50.5018" lon="9.576417">
+    <time>2008-11-09T08:00:00Z</time>
+    <name>GC1J00W</name>
+    <desc>Kirchgehai by Thyrie, Multi-cache (2/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=4fa1ef1c-c02e-4f41-906b-8bea41d13b59</url>
+    <urlname>Kirchgehai</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Multi-cache</type>
+    <groundspeak:cache id="1048666" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Kirchgehai</groundspeak:name>
+      <groundspeak:placed_by>Thyrie</groundspeak:placed_by>
+      <groundspeak:owner id="1329435">thyrie</groundspeak:owner>
+      <groundspeak:type>Multi-cache</groundspeak:type>
+      <groundspeak:container>Regular</groundspeak:container>
+      <groundspeak:difficulty>2</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">Bis auf die letzten 50 m auf befestigten Wegen. Ca. 80 Höhenmeter sind zu überwinden.</groundspeak:short_description>
+      <groundspeak:long_description html="False">Kirchgehai
+
+Parken könnt ihr bei N 50 30106 O 9 34.452.
+Dort ist reichlich öffentlicher Platz vorhanden!
+
+Bei den Startkoordinaten gibt es was zu lesen. Ihr findet zwei Jahreszahlen, aus der 1. Zahl bildet ihr die EINFACHE Quersumme. Das ist B. Die 2. Zahl ist A.
+
+Den nächsten Hinweis gibt es bei N 50 29.(880+B) 
+E 009 34.(680+A). Dort findet ihr etwas versteckt zwei Schilder mit gleicher Zahl. Setzt den einzelnen Ziffern der Zahl fortlaufend die Buchstaben des Alphabets von A-H gleich.
+
+Der Cache ist bei N 50 DH.FF1 und Ost 00E CB.7F1 versteckt!
+
+Eine Bitte zum Schluss: Den Cache mit Rücksicht auf unsere Jäger bitte nicht in der späten Abend- bzw. frühen Morgendämmerung heben!
+
+Erstbefüllung:
+Logbuch mit Stift, Geocoin, Vier-Gewinnt-Spiel, 2 Ü-Ei Figuren, Mini-Elefant, runder Würfel.
+
+Auch bei Opencaching gelistet.
+
+Additional Waypoints
+</groundspeak:long_description>
+      <groundspeak:encoded_hints>Da die Koordinaten immer mal springen, hier ein Hinweis: Der zweite Punkt ist nicht zu übersehen.</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="130601483">
+          <groundspeak:date>2010-10-08T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1901637">rennmaus &amp; rennhase</groundspeak:finder>
+          <groundspeak:text encoded="False">Gemeinsam mit 1871 angegangen und geschafft ;) Tolles Wetter, schönes Aussicht, einfacht super!! "Danke", sagt rennmaus von rennmaus &amp; rennhase</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="111980797">
+          <groundspeak:date>2010-06-07T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3123857">capitanok9</groundspeak:finder>
+          <groundspeak:text encoded="False">Schöne Aussicht auf Giesel,der Aufstieg mit dem Fahrrad ist schweißtreibend.
+Trotzdem vielen Dank
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="106706245">
+          <groundspeak:date>2010-05-02T14:18:39Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2166343">thomas_bimbach</groundspeak:finder>
+          <groundspeak:text encoded="False">Danke</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="106142714">
+          <groundspeak:date>2010-04-25T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="696969">Uhrheber</groundspeak:finder>
+          <groundspeak:text encoded="False">Kleiner schneller Multi, der fix gehoben war. Deshalb 3 Sternchen bei [url=http://www.geocaching-franken.de/?p=1983]GCVote[/url].</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="105955614">
+          <groundspeak:date>2010-04-25T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="838984">gartentaucher</groundspeak:finder>
+          <groundspeak:text encoded="False">Es sind zwar nicht alle Zahlen automatisch Jahreszahlen, aber durch Logik war es dann wieder eindeutig. Ohne Suche haben wir alles gefunden und gleich noch ein paar Pfandflaschen eingesackt. Auf das die Natur sauber werde und die Tankkasse gefüllt. [:P]
+3 Sternchen bei [url=http://www.geocaching-franken.de/?p=1983]GCVote[/url].
+
+rein: Coin "J.B.Walker", Stempel, Golfball</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

@@ -1,0 +1,156 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>000087</id>
+  <cache-id>GC1RA1Q</cache-id>
+  <type>Multi-cache</type>
+  <name>killeek by Windsockers, Multi-cache (1/1.5)</name>
+  <size>Micro</size>
+  <difficulty>1</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-02-07</last-found>
+  <placed>2009-05-17</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>Windsockers</placedby>
+  <found>Geocache</found>
+  <lat>53.45335</lat>
+  <lon>-6.278517</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>Windsockers</owner>
+  <description><center>
+<img src="http://img.geocaching.com/cache/4c6d92c1-17d5-4b68-8bde-01c14e47d71e.jpg" />
+</center></description>
+  <long-description><center>
+<p>Killeek church dates from the 1700's and is built in a Medieval
+graveyard taught to date between 1500-1700</p></center>
+<p><b>The Cache</b></p>
+<p>At the above location take note of the number of Keelings layed
+to rest here call this number A<br />
+Note the number of men call this B<br />
+Note the number of women call this C</p>
+<p>The cache can be found at N53 27.18(A+B) W6 16.A1C</p>
+<p>The Cache is a micro container you'll need to byop.<br />
+<br />
+ Please don't remove the container from its location just open it
+to get the log and take care to rehide the cache to prevent muggles
+from discovering its location.</p>
+<br />
+<center><br />
+<br />
+<img src="http://www.northbeach.ie/gallery/albums/userpics/10001/windsock-anim-small.gif" />
+<br />
+<br />
+<b>The Windsockers</b></center>
+<br />
+<br />
+<hr size="2" /></long-description>
+  <additional-waypoints>FN1RA1Q - GC1RA1Q Final<br />N/S  __ ° __ . ___ W/E ___ ° __ . ___ <br /><br /></additional-waypoints>
+  <links>waypoints:cache-id:FN1RA1Q</links>
+  <encoded-hints>Tree Low</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=1696ca26-4cf1-4f35-96cc-5bb8f09d8abe</url>
+  <url-name>killeek</url-name>
+  <logs><ul><li>2010-04-06T19:00:00Z : Found it by Sean O'Neill <br />18:33 Hrs.#1695.
+TNLNSL
+TFTC</li><li>2010-02-28T20:00:00Z : Found it by Lahtac <br />Lovely place. Nice hide. TFTC SL</li><li>2010-02-28T20:00:00Z : Found it by OBCLAN <br />What a lovely place. TFTC SL</li><li>2010-02-07T20:00:00Z : Found it by Toffee Man <br />A nice graveyard. The Keelings sure were important people in this area.
+TFTC.
+Toffee Man.
+#173</li><li>2010-02-07T20:00:00Z : Found it by Blue Jay 59 <br />This might sound strange, but I thought this was a lovely place, as graveyards go.
+If I wasn't going to be buried with his people, I'd consider here.  [:)]
+Nice easy multi, in another interesting place.
+Again Windsockers TFTC
+Blue Jay 59
+#174</li></ul></logs>
+  <original-xml>  <wpt  lat="53.45335" lon="-6.278517">
+    <time>2009-05-17T07:00:00Z</time>
+    <name>GC1RA1Q</name>
+    <desc>killeek by Windsockers, Multi-cache (1/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=1696ca26-4cf1-4f35-96cc-5bb8f09d8abe</url>
+    <urlname>killeek</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Multi-cache</type>
+    <groundspeak:cache id="1237049" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>killeek</groundspeak:name>
+      <groundspeak:placed_by>Windsockers</groundspeak:placed_by>
+      <groundspeak:owner id="271623">Windsockers</groundspeak:owner>
+      <groundspeak:type>Multi-cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>Leinster</groundspeak:state>
+      <groundspeak:short_description html="True">&lt;center&gt;
+&lt;img src="http://img.geocaching.com/cache/4c6d92c1-17d5-4b68-8bde-01c14e47d71e.jpg" /&gt;
+&lt;/center&gt;</groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;center&gt;
+&lt;p&gt;Killeek church dates from the 1700's and is built in a Medieval
+graveyard taught to date between 1500-1700&lt;/p&gt;&lt;/center&gt;
+&lt;p&gt;&lt;b&gt;The Cache&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;At the above location take note of the number of Keelings layed
+to rest here call this number A&lt;br /&gt;
+Note the number of men call this B&lt;br /&gt;
+Note the number of women call this C&lt;/p&gt;
+&lt;p&gt;The cache can be found at N53 27.18(A+B) W6 16.A1C&lt;/p&gt;
+&lt;p&gt;The Cache is a micro container you'll need to byop.&lt;br /&gt;
+&lt;br /&gt;
+ Please don't remove the container from its location just open it
+to get the log and take care to rehide the cache to prevent muggles
+from discovering its location.&lt;/p&gt;
+&lt;br /&gt;
+&lt;center&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;img src="http://www.northbeach.ie/gallery/albums/userpics/10001/windsock-anim-small.gif" /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;The Windsockers&lt;/b&gt;&lt;/center&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;hr size="2" /&gt;&lt;p&gt;Additional Waypoints&lt;/p&gt;FN1RA1Q - GC1RA1Q Final&lt;br /&gt;N/S  __ ° __ . ___ W/E ___ ° __ . ___ &lt;br /&gt;&lt;br /&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>Tree Low</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="103036720">
+          <groundspeak:date>2010-04-06T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="341704">Sean O'Neill</groundspeak:finder>
+          <groundspeak:text encoded="False">18:33 Hrs.#1695.
+TNLNSL
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="98389766">
+          <groundspeak:date>2010-02-28T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2847528">Lahtac</groundspeak:finder>
+          <groundspeak:text encoded="False">Lovely place. Nice hide. TFTC SL</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="98388027">
+          <groundspeak:date>2010-02-28T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2725277">OBCLAN</groundspeak:finder>
+          <groundspeak:text encoded="False">What a lovely place. TFTC SL</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="96850054">
+          <groundspeak:date>2010-02-07T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2826452">Toffee Man</groundspeak:finder>
+          <groundspeak:text encoded="False">A nice graveyard. The Keelings sure were important people in this area.
+TFTC.
+Toffee Man.
+#173</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="96840858">
+          <groundspeak:date>2010-02-07T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2709154">Blue Jay 59</groundspeak:finder>
+          <groundspeak:text encoded="False">This might sound strange, but I thought this was a lovely place, as graveyards go.
+If I wasn't going to be buried with his people, I'd consider here.  [:)]
+Nice easy multi, in another interesting place.
+Again Windsockers TFTC
+Blue Jay 59
+#174</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

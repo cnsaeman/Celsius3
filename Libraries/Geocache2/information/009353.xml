@@ -1,0 +1,156 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>009353</id>
+  <cache-id>GC1FPAK</cache-id>
+  <type>Multi-cache</type>
+  <name>Millbank by Windsockers, Multi-cache (1/1)</name>
+  <size>Not chosen</size>
+  <difficulty>1</difficulty>
+  <terrain>1</terrain>
+  <last-found>2009-07-20</last-found>
+  <placed>2008-10-25</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>Windsockers</placedby>
+  <found>Geocache</found>
+  <lat>53.521467</lat>
+  <lon>-6.104433</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>Windsockers</owner>
+  <description><center>
+<img src="http://img.geocaching.com/cache/53620826-8748-4f90-b6ca-0c7c2118e63b.jpg" />
+</center>
+<center>
+<p>The Millbank is a ruined 13th century windmill in the village of
+Rush</p></center></description>
+  <long-description><br />
+<br />
+<p><b>The Cache</b></p>
+<p>To find the cache you will need to visit a couple of locations
+to collect some information in order to discover the final
+location</p>
+<p><b>Stage One</b></p>
+<p>At the above coordinates count the number of Windows call this
+Number <b>A</b><br />
+ Also count the number of gated doorways call this number call this
+Number <b>B</b></p>
+<p><b>Stage Two</b></p>
+<p>Go to N53 31.334 W6 06.143and count the number of eyes call this
+Number <b>C</b></p>
+<p><b>Stage Three</b></p>
+<p>Go to N53 31.330 W6 06.066 and note the three digit number call
+this Number <b>D E F</b></p>
+<p><b>Final</b></p>
+<p>The cache can be found at N <b>53 3D (E-B)FD</b> W <b>006
+0(C+A)(C-B)(E-C)F</b></p>
+<p>Please re-hide the cache with care to prevent muggles from
+discovering its location</p>
+<br />
+<center>
+<img src="http://www.northbeach.ie/gallery/albums/userpics/10001/windsock-anim-small.gif" />
+<br />
+<b>The Windsockers</b></center></long-description>
+  <additional-waypoints>FN1FPAK - Final<br />N/S  __ ° __ . ___ W/E ___ ° __ . ___ <br /><br />S21FPAK - GC1FPAK Stage 2<br />N/S  __ ° __ . ___ W/E ___ ° __ . ___ <br /><br /></additional-waypoints>
+  <links>waypoints:cache-id:FN1FPAK|waypoints:cache-id:S21FPAK</links>
+  <encoded-hints>Green</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=6335bfb6-a753-41b7-916f-6b3d3846910d</url>
+  <url-name>Millbank</url-name>
+  <logs><ul><li>2010-05-15T19:00:00Z : Found it by Alastair74 <br />The first on many to come on a weekend to Dublin found with Wildfowler TFTC</li><li>2010-05-15T19:00:00Z : Found it by wildfowler <br />Found on a caching weekend around Dublin with Alastair74! TNLNSL TFTC</li><li>2010-05-09T19:00:00Z : Found it by AbbeyAckbar <br />(#634 @ 18:16)
+
+Last find of the day. I drove around for Stage 1 and 2 and walked to stage 3. I had to wait a while for a group of teenagers to move on as they were within sight of the cache. Nice multi [^]
+
+TFTC</li><li>2010-01-17T20:00:00Z : Found it by sandmartin <br />Brought blanket boy out caching. This was his first ever cache. TFTC</li><li>2009-07-20T19:00:00Z : Found it by lenik1 <br />Nice multi and stroll around... TFTC</li></ul></logs>
+  <original-xml>  <wpt  lat="53.521467" lon="-6.104433">
+    <time>2008-10-25T07:00:00Z</time>
+    <name>GC1FPAK</name>
+    <desc>Millbank by Windsockers, Multi-cache (1/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=6335bfb6-a753-41b7-916f-6b3d3846910d</url>
+    <urlname>Millbank</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Multi-cache</type>
+    <groundspeak:cache id="980737" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Millbank</groundspeak:name>
+      <groundspeak:placed_by>Windsockers</groundspeak:placed_by>
+      <groundspeak:owner id="271623">Windsockers</groundspeak:owner>
+      <groundspeak:type>Multi-cache</groundspeak:type>
+      <groundspeak:container>Not chosen</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>Leinster</groundspeak:state>
+      <groundspeak:short_description html="True">&lt;center&gt;
+&lt;img src="http://img.geocaching.com/cache/53620826-8748-4f90-b6ca-0c7c2118e63b.jpg" /&gt;
+&lt;/center&gt;
+&lt;center&gt;
+&lt;p&gt;The Millbank is a ruined 13th century windmill in the village of
+Rush&lt;/p&gt;&lt;/center&gt;</groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;br /&gt;
+&lt;br /&gt;
+&lt;p&gt;&lt;b&gt;The Cache&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;To find the cache you will need to visit a couple of locations
+to collect some information in order to discover the final
+location&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Stage One&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;At the above coordinates count the number of Windows call this
+Number &lt;b&gt;A&lt;/b&gt;&lt;br /&gt;
+ Also count the number of gated doorways call this number call this
+Number &lt;b&gt;B&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Stage Two&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Go to N53 31.334 W6 06.143and count the number of eyes call this
+Number &lt;b&gt;C&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Stage Three&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Go to N53 31.330 W6 06.066 and note the three digit number call
+this Number &lt;b&gt;D E F&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Final&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;The cache can be found at N &lt;b&gt;53 3D (E-B)FD&lt;/b&gt; W &lt;b&gt;006
+0(C+A)(C-B)(E-C)F&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Please re-hide the cache with care to prevent muggles from
+discovering its location&lt;/p&gt;
+&lt;br /&gt;
+&lt;center&gt;
+&lt;img src="http://www.northbeach.ie/gallery/albums/userpics/10001/windsock-anim-small.gif" /&gt;
+&lt;br /&gt;
+&lt;b&gt;The Windsockers&lt;/b&gt;&lt;/center&gt;&lt;p&gt;Additional Waypoints&lt;/p&gt;FN1FPAK - Final&lt;br /&gt;N/S  __ ° __ . ___ W/E ___ ° __ . ___ &lt;br /&gt;&lt;br /&gt;S21FPAK - GC1FPAK Stage 2&lt;br /&gt;N/S  __ ° __ . ___ W/E ___ ° __ . ___ &lt;br /&gt;&lt;br /&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>Green</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="108955935">
+          <groundspeak:date>2010-05-15T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2453409">Alastair74</groundspeak:finder>
+          <groundspeak:text encoded="False">The first on many to come on a weekend to Dublin found with Wildfowler TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="108914707">
+          <groundspeak:date>2010-05-15T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="182407">wildfowler</groundspeak:finder>
+          <groundspeak:text encoded="False">Found on a caching weekend around Dublin with Alastair74! TNLNSL TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="107883890">
+          <groundspeak:date>2010-05-09T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1265839">AbbeyAckbar</groundspeak:finder>
+          <groundspeak:text encoded="False">(#634 @ 18:16)
+
+Last find of the day. I drove around for Stage 1 and 2 and walked to stage 3. I had to wait a while for a group of teenagers to move on as they were within sight of the cache. Nice multi [^]
+
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="95407385">
+          <groundspeak:date>2010-01-17T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1966213">sandmartin</groundspeak:finder>
+          <groundspeak:text encoded="False">Brought blanket boy out caching. This was his first ever cache. TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="77818698">
+          <groundspeak:date>2009-07-20T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1925842">lenik1</groundspeak:finder>
+          <groundspeak:text encoded="False">Nice multi and stroll around... TFTC</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

@@ -1,0 +1,118 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>001456</id>
+  <cache-id>GC245MK</cache-id>
+  <type>Traditional Cache</type>
+  <name>Glenmacnass View by Fjon, Traditional Cache (1.5/2.5)</name>
+  <size>Small</size>
+  <difficulty>1.5</difficulty>
+  <terrain>2.5</terrain>
+  <last-found>2010-05-22</last-found>
+  <placed>2010-02-20</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>Fjon</placedby>
+  <found>Geocache</found>
+  <lat>53.062133</lat>
+  <lon>-6.33225</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>Fjon</owner>
+  <description>Nearly a cache and dash with nice views.</description>
+  <long-description><p>A steep scramble up a hill to a spot with a nice view.</p>
+There is car parking very close by, but the cache is straight up,
+so you should be wearing sensible shoes, and be careful up there -
+note the terrain rating.<br />
+<p align="center"><a target="_blank" href=
+"http://www.geocachingireland.com/index.html"><img border="0" src=
+"http://img.geocaching.com/cache/2280ab19-c5fc-4d33-8efb-797df9c0ac8c.jpg"
+width="323" height="59" align="middle" /></a></p></long-description>
+  <encoded-hints>Rocks</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=73cffdbc-e163-416b-98d7-d7b2041fedde</url>
+  <url-name>Glenmacnass View</url-name>
+  <logs><ul><li>2010-06-03T19:00:00Z : Found it by Tararua Turtle <br />Found during our road trip visit to Ireland. Enjoyed the cache and the view that was provided by this opportunity, thank you.
+
+Cache found all in order and rehidden as found.
+TNLNSL and found with team cacher Sweet P too [:)]
+The Turtle strikes again!</li><li>2010-06-01T19:00:00Z : Found it by eve1987 <br />A really great view!!
+
+TFTC and kind regards from Austria, eve</li><li>2010-06-01T19:00:00Z : Found it by GudrunXY <br />A quick find with eve1987 on our caching tour through Ireland.
+TFTC GudrunXY</li><li>2010-05-22T19:00:00Z : Found it by wilf28 <br />Found it with Stern29 on a pleasant day. Enjoyed the view very much!
+
+TFTC</li><li>2010-05-22T19:00:00Z : Found it by Stern29 <br />Found it in the evening. To bad the sun was behind the fall. But however a great place.
+TFTC and greetings from Germany</li></ul></logs>
+  <original-xml>  <wpt  lat="53.062133" lon="-6.33225">
+    <time>2010-02-20T08:00:00Z</time>
+    <name>GC245MK</name>
+    <desc>Glenmacnass View by Fjon, Traditional Cache (1.5/2.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=73cffdbc-e163-416b-98d7-d7b2041fedde</url>
+    <urlname>Glenmacnass View</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1560530" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Glenmacnass View</groundspeak:name>
+      <groundspeak:placed_by>Fjon</groundspeak:placed_by>
+      <groundspeak:owner id="243261">Fjon</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>2.5</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>Leinster</groundspeak:state>
+      <groundspeak:short_description html="True">Nearly a cache and dash with nice views.</groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;p&gt;A steep scramble up a hill to a spot with a nice view.&lt;/p&gt;
+There is car parking very close by, but the cache is straight up,
+so you should be wearing sensible shoes, and be careful up there -
+note the terrain rating.&lt;br /&gt;
+&lt;p align="center"&gt;&lt;a target="_blank" href=
+"http://www.geocachingireland.com/index.html"&gt;&lt;img border="0" src=
+"http://img.geocaching.com/cache/2280ab19-c5fc-4d33-8efb-797df9c0ac8c.jpg"
+width="323" height="59" align="middle" /&gt;&lt;/a&gt;&lt;/p&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>Rocks</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="111720483">
+          <groundspeak:date>2010-06-03T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="581772">Tararua Turtle</groundspeak:finder>
+          <groundspeak:text encoded="False">Found during our road trip visit to Ireland. Enjoyed the cache and the view that was provided by this opportunity, thank you.
+
+Cache found all in order and rehidden as found.
+TNLNSL and found with team cacher Sweet P too [:)]
+The Turtle strikes again!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="111861162">
+          <groundspeak:date>2010-06-01T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1617792">eve1987</groundspeak:finder>
+          <groundspeak:text encoded="False">A really great view!!
+
+TFTC and kind regards from Austria, eve</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="111276577">
+          <groundspeak:date>2010-06-01T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2694097">GudrunXY</groundspeak:finder>
+          <groundspeak:text encoded="False">A quick find with eve1987 on our caching tour through Ireland.
+TFTC GudrunXY</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="109846407">
+          <groundspeak:date>2010-05-22T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1580064">wilf28</groundspeak:finder>
+          <groundspeak:text encoded="False">Found it with Stern29 on a pleasant day. Enjoyed the view very much!
+
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="109722847">
+          <groundspeak:date>2010-05-22T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1629828">Stern29</groundspeak:finder>
+          <groundspeak:text encoded="False">Found it in the evening. To bad the sun was behind the fall. But however a great place.
+TFTC and greetings from Germany</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

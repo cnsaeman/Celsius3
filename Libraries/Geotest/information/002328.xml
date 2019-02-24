@@ -1,0 +1,116 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>002328</id>
+  <cache-id>GC14Y0N</cache-id>
+  <type>Traditional Cache</type>
+  <name>Schwarz, Breit, Stark by x Deadman x, Traditional Cache (3/1.5)</name>
+  <size>Not chosen</size>
+  <difficulty>3</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-11-07</last-found>
+  <placed>2007-08-05</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>x Deadman x</placedby>
+  <found>Geocache</found>
+  <lat>50.546167</lat>
+  <lon>9.692567</lon>
+  <last-logs>FFFF</last-logs>
+  <owner>x Deadman x</owner>
+  <description>
+      </description>
+  <long-description><b>SCHWARZ, BREIT, STARK</b><br>
+<br>
+Hier habe ich sieben Jahre meines Lebens verbracht. Da dachte ich
+mir, das ist doch ein Cache wert.<br>
+<br>
+<b>Bitte sucht vorsichtig, in der nähe des Caches befindet sich
+eine Kamera!</b> <br>
+Noch ein kleiner Hinweis der Cachebehälter ist etwas kleiner als
+gewöhnliche Micros!<br>
+<br>
+<b>Bitte keine Hinweiße ins Log schreiben und den Cache wieder
+genau so verstecken, wie ihr ihn vorgefunden habt!!!</b><br>
+<br>
+ Happy Hunting</long-description>
+  <encoded-hints>Stahl
+</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=c4ce78ec-d278-4edb-ae56-7450dcabd8fb</url>
+  <url-name>Schwarz, Breit, Stark</url-name>
+  <logs><ul><li>2010-11-21T20:00:00Z : Found it by lillyfelix <br />Schnell gefunden. Loggen unmöglich.</li><li>2010-11-14T20:00:00Z : Found it by s186003 <br />Schnell gefunden. Zu viele Automuggel hier.
+TFTC</li><li>2010-11-07T20:00:00Z : Found it by Garminia <br />Da wir so einen schon mal hatten gings recht schnell. Loggen unmöglich...TFTC</li><li>2010-11-07T20:00:00Z : Found it by garminius <br />Der konnte unserem geübten Blick nur ganz kurz standhalten, dann rief er: "Hier bin ich!" Gut getarnt! TFTC</li><li>2010-11-07T16:44:18Z : Needs Maintenance by garminius <br />Logbuch quillt über - bitte ersetzen!!!</li></ul></logs>
+  <original-xml>  <wpt  lat="50.546167" lon="9.692567">
+    <time>2007-08-05T07:00:00Z</time>
+    <name>GC14Y0N</name>
+    <desc>Schwarz, Breit, Stark by x Deadman x, Traditional Cache (3/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=c4ce78ec-d278-4edb-ae56-7450dcabd8fb</url>
+    <urlname>Schwarz, Breit, Stark</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="659455" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Schwarz, Breit, Stark</groundspeak:name>
+      <groundspeak:placed_by>x Deadman x</groundspeak:placed_by>
+      <groundspeak:owner id="837113">x Deadman x</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Not chosen</groundspeak:container>
+      <groundspeak:difficulty>3</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="True">
+      </groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;b&gt;SCHWARZ, BREIT, STARK&lt;/b&gt;&lt;br&gt;
+&lt;br&gt;
+Hier habe ich sieben Jahre meines Lebens verbracht. Da dachte ich
+mir, das ist doch ein Cache wert.&lt;br&gt;
+&lt;br&gt;
+&lt;b&gt;Bitte sucht vorsichtig, in der nähe des Caches befindet sich
+eine Kamera!&lt;/b&gt; &lt;br&gt;
+Noch ein kleiner Hinweis der Cachebehälter ist etwas kleiner als
+gewöhnliche Micros!&lt;br&gt;
+&lt;br&gt;
+&lt;b&gt;Bitte keine Hinweiße ins Log schreiben und den Cache wieder
+genau so verstecken, wie ihr ihn vorgefunden habt!!!&lt;/b&gt;&lt;br&gt;
+&lt;br&gt;
+ Happy Hunting</groundspeak:long_description>
+      <groundspeak:encoded_hints>Stahl
+</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="136667536">
+          <groundspeak:date>2010-11-21T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3765430">lillyfelix</groundspeak:finder>
+          <groundspeak:text encoded="False">Schnell gefunden. Loggen unmöglich.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="136074624">
+          <groundspeak:date>2010-11-14T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2819456">s186003</groundspeak:finder>
+          <groundspeak:text encoded="False">Schnell gefunden. Zu viele Automuggel hier.
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="134914280">
+          <groundspeak:date>2010-11-07T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2399242">Garminia</groundspeak:finder>
+          <groundspeak:text encoded="False">Da wir so einen schon mal hatten gings recht schnell. Loggen unmöglich...TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="134885110">
+          <groundspeak:date>2010-11-07T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2086707">garminius</groundspeak:finder>
+          <groundspeak:text encoded="False">Der konnte unserem geübten Blick nur ganz kurz standhalten, dann rief er: "Hier bin ich!" Gut getarnt! TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="134887390">
+          <groundspeak:date>2010-11-07T16:44:18Z</groundspeak:date>
+          <groundspeak:type>Needs Maintenance</groundspeak:type>
+          <groundspeak:finder id="2086707">garminius</groundspeak:finder>
+          <groundspeak:text encoded="False">Logbuch quillt über - bitte ersetzen!!!</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

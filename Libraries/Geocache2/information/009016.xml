@@ -1,0 +1,148 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>009016</id>
+  <cache-id>GC1K2Q6</cache-id>
+  <type>Traditional Cache</type>
+  <name>Sidetracked - Sandymount DART by Hezekiah, Traditional Cache (1/1)</name>
+  <size>Micro</size>
+  <difficulty>1</difficulty>
+  <terrain>1</terrain>
+  <last-found>2009-07-26</last-found>
+  <placed>2008-12-23</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>Hezekiah</placedby>
+  <found>Geocache Found</found>
+  <lat>53.327917</lat>
+  <lon>-6.22065</lon>
+  <last-logs>FFFFFF</last-logs>
+  <owner>Hezekiah</owner>
+  <description><marquee behavior="scroll"
+direction="right"><img src="http://img.geocaching.com/cache/fa167cb3-b9f5-4447-9565-b10c1c03826f.jpg" />
+</marquee></description>
+  <long-description><p align="center"><a target="_blank"
+href="http://www.geocachingireland.com/index.html"><img border="0"
+src="http://img.geocaching.com/cache/2280ab19-c5fc-4d33-8efb-797df9c0ac8c.jpg"
+     width="150" height="43" align="middle" /></a></p>
+<hr size="2" />
+<center><font color="Green">Visit the <b>new</b> Geocaching Ireland
+discussion forum <a href="http://www.mccartan.org/forums/"
+target="_blank">HERE</a></font></center>
+<hr size="2" />
+<p>The DART (Dublin Area Rapid Transit) is the rail line
+running<br />
+along the coast of Dublin, from Malahide and Howth southwards
+as<br />
+far as Greystones, Co Wicklow.</p>
+<br />
+<p>Side-Tracked Caches are intended to provide quick<br />
+cache-and-dashes at train stations.<br />
+<br />
+The Cache is a small micro container - please re-hide it well
+to<br />
+ensure that the commuting muggles don’t discover it.</p>
+<br />
+<p><b>Bring a pen / pencil, as the cache may be too small to
+hold<br />
+one!</b></p></long-description>
+  <encoded-hints>What's the name of this road??</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=186a33ea-83b0-4cea-b30f-c09985756087</url>
+  <url-name>Sidetracked - Sandymount DART</url-name>
+  <logs><ul><li>2010-05-11T19:00:00Z : Found it by Pepere51 <br />Cache easily found
+TFTC</li><li>2010-04-20T19:00:00Z : Found it by OBCLAN <br />Nice and handy cache and dash. I was never here before. TFTC. </li><li>2010-04-08T19:00:00Z : Found it by foolellelaclunk <br />clue gave it away too easily nice micro all the same</li><li>2010-03-22T19:00:00Z : Found it by Team Charlie Bravo <br />1st Geocache in Ireland! TFTC.
+
+Nice hide, had to wait for 2 trains to unload at rush hour before going for it!</li><li>2010-03-19T19:00:00Z : Found it by RandolphFamily <br />Our second find in the Dublin area and outside of the United States. We had some time to wait before our train arrived and it gave us a perfect opportunity to grab the cache. TFTC!!!!</li><li>2009-07-26T19:00:00Z : Found it by Kersti.com <br />A nice easy find for a Sunday afternoon bike ride through my old stomping grounds. TFTC</li></ul></logs>
+  <original-xml>  <wpt  lat="53.327917" lon="-6.22065">
+    <time>2008-12-23T08:00:00Z</time>
+    <name>GC1K2Q6</name>
+    <desc>Sidetracked - Sandymount DART by Hezekiah, Traditional Cache (1/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=186a33ea-83b0-4cea-b30f-c09985756087</url>
+    <urlname>Sidetracked - Sandymount DART</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1081071" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Sidetracked - Sandymount DART</groundspeak:name>
+      <groundspeak:placed_by>Hezekiah</groundspeak:placed_by>
+      <groundspeak:owner id="274644">Hezekiah</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>Dublin</groundspeak:state>
+      <groundspeak:short_description html="True">&lt;marquee behavior="scroll"
+direction="right"&gt;&lt;img src="http://img.geocaching.com/cache/fa167cb3-b9f5-4447-9565-b10c1c03826f.jpg" /&gt;
+&lt;/marquee&gt;</groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;p align="center"&gt;&lt;a target="_blank"
+href="http://www.geocachingireland.com/index.html"&gt;&lt;img border="0"
+src="http://img.geocaching.com/cache/2280ab19-c5fc-4d33-8efb-797df9c0ac8c.jpg"
+     width="150" height="43" align="middle" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;hr size="2" /&gt;
+&lt;center&gt;&lt;font color="Green"&gt;Visit the &lt;b&gt;new&lt;/b&gt; Geocaching Ireland
+discussion forum &lt;a href="http://www.mccartan.org/forums/"
+target="_blank"&gt;HERE&lt;/a&gt;&lt;/font&gt;&lt;/center&gt;
+&lt;hr size="2" /&gt;
+&lt;p&gt;The DART (Dublin Area Rapid Transit) is the rail line
+running&lt;br /&gt;
+along the coast of Dublin, from Malahide and Howth southwards
+as&lt;br /&gt;
+far as Greystones, Co Wicklow.&lt;/p&gt;
+&lt;br /&gt;
+&lt;p&gt;Side-Tracked Caches are intended to provide quick&lt;br /&gt;
+cache-and-dashes at train stations.&lt;br /&gt;
+&lt;br /&gt;
+The Cache is a small micro container - please re-hide it well
+to&lt;br /&gt;
+ensure that the commuting muggles don’t discover it.&lt;/p&gt;
+&lt;br /&gt;
+&lt;p&gt;&lt;b&gt;Bring a pen / pencil, as the cache may be too small to
+hold&lt;br /&gt;
+one!&lt;/b&gt;&lt;/p&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>What's the name of this road??</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="108044726">
+          <groundspeak:date>2010-05-11T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2511058">Pepere51</groundspeak:finder>
+          <groundspeak:text encoded="False">Cache easily found
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="105041795">
+          <groundspeak:date>2010-04-20T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2725277">OBCLAN</groundspeak:finder>
+          <groundspeak:text encoded="False">Nice and handy cache and dash. I was never here before. TFTC. </groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="103212248">
+          <groundspeak:date>2010-04-08T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3124403">foolellelaclunk</groundspeak:finder>
+          <groundspeak:text encoded="False">clue gave it away too easily nice micro all the same</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="101227050">
+          <groundspeak:date>2010-03-22T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1978771">Team Charlie Bravo</groundspeak:finder>
+          <groundspeak:text encoded="False">1st Geocache in Ireland! TFTC.
+
+Nice hide, had to wait for 2 trains to unload at rush hour before going for it!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="100275571">
+          <groundspeak:date>2010-03-19T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1776192">RandolphFamily</groundspeak:finder>
+          <groundspeak:text encoded="False">Our second find in the Dublin area and outside of the United States. We had some time to wait before our train arrived and it gave us a perfect opportunity to grab the cache. TFTC!!!!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="78449421">
+          <groundspeak:date>2009-07-26T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="320206">Kersti.com</groundspeak:finder>
+          <groundspeak:text encoded="False">A nice easy find for a Sunday afternoon bike ride through my old stomping grounds. TFTC</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

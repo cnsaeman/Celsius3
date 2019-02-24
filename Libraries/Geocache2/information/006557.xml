@@ -1,0 +1,236 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>006557</id>
+  <cache-id>GC1R1J2</cache-id>
+  <type>Multi-cache</type>
+  <name>North Strand 1941 by toczygroszek (adopted by anacreon), Multi-cache (1/1)</name>
+  <size>Micro</size>
+  <difficulty>1</difficulty>
+  <terrain>1</terrain>
+  <last-found>2010-03-04</last-found>
+  <placed>2009-05-27</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>toczygroszek (adopted by anacreon)</placedby>
+  <found>Geocache</found>
+  <lat>53.355583</lat>
+  <lon>-6.245583</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>anacreon</owner>
+  <description>This is an easy one-stage multicache. The final location is about 2
+minutes walk from the start point.</description>
+  <long-description><center><img src=
+"http://img.geocaching.com/cache/588d11a5-151c-4e2b-88ee-25eff08ca10a.jpg" /></center>
+<center><i>North Strand after bombing
+(www.fantasyjackpalance.com)</i></center>
+<br />
+<br />
+<p align="justify"><b>WWII:</b><br />
+<br />
+During World War II Ireland declared itself neutral. Nevertheless,
+some German bombs were dropped on Irish land in 1940-41 killing and
+injuring many people and destroying some buildings. Several reasons
+are discussed by historians, as some of the bombing areas were
+strategic for Great Britain. However, the official explanation was
+pilot error.<br />
+<br />
+<b>Raid on Dublin:</b><br />
+<br />
+On 31 May 1941 just after midnight bombs exploding in the distance
+were heard. Searchlights began sweeping the sky and anti-aircraft
+batteries began shooting at planes. Two squadrons of Luftwaffe
+aircraft began raid on the capital of the neutral country. At 1:30
+am bombs began falling onto Dublin. North Strand suffered most
+severely as 4 high-explosives bombs were dropped here.<br />
+<br />
+<b>Aftermath:</b><br />
+<br />
+Different reports quote different numbers of victims. One of them
+mentions about 29 people killed, 90 people injured and 300
+destroyed and damaged houses. About 400 people were left
+permanently or temporarily homeless.<br />
+In 1958 West Germany took responsibility for the raid and paid
+compensation of IR&pound;327,000.<br />
+<br />
+<br />
+<b>Stage 1:</b><br />
+<br />
+At this stage you will see the memorial with description, where you
+will find two dates.<br />
+Sum up the four digits of the year in the 1st date and call it
+<b>AB</b>.<br />
+Sum up the four digits of the the year in the 2nd date and call it
+<b>CD</b>.<br />
+<br />
+The final cache is at coordinates:<br />
+<br />
+<font color="blue"><b>N 53&deg; 21.(B-A) D (A+B+C)<br />
+W 006&deg; 14.(A+B) (B-A) (B*C-A)<br /></b></font><br />
+<b>The cache:</b><br />
+<br />
+On the way to the cache you will pass buildings replacing housing
+damaged by the bomb. The cache is a micro container and includes a
+logbook only. Please bring your own pen.<br />
+<br />
+You can visit the local library (N 53&deg; 21.433 W 006&deg;
+14.765), where there is an exhibition of pictures taken after
+bombing. The exhibition will be open in May and June 2009. More
+information can be found <a href=
+"http://www.dublincity.ie/RecreationandCulture/libraries/Events/Pages/exhib_north_strand_bombings.aspx"
+target="_blank">HERE</a>.</p>
+<br />
+<br />
+<a href="http://s03.flagcounter.com/more/2p0P"><img src=
+"http://s03.flagcounter.com/count/2p0P/bg=FFFFFF/txt=000000/border=CCCCCC/columns=6/maxflags=248/viewers=0/labels=1/"
+alt="free counters" border="0" /></a><br />
+<!--start of handicaching link-->
+<p><a href="http://www.handicaching.com/show.php?waypoint=GC1R1J2"
+target="_blank"><img src=
+"http://www.handicaching.com/images/seal_rater2.gif" border="0"
+alt="View the ratings for GC1R1J2" /></a></p>
+<!--end of handicaching link--></long-description>
+  <additional-waypoints>FL1R1J2 - The Cache<br />N/S  __ ° __ . ___ W/E ___ ° __ . ___ <br /><br />LB1R1J2 - Library<br />N 53° 21.433 W 006° 14.765<br /><br /></additional-waypoints>
+  <links>waypoints:cache-id:FL1R1J2|waypoints:cache-id:LB1R1J2</links>
+  <encoded-hints>first, right side facing post</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=6be546af-d666-4c6e-8123-d4ad4052c050</url>
+  <url-name>North Strand 1941</url-name>
+  <logs><ul><li>2010-05-07T19:00:00Z : Found it by Horge der Seher <br />Interesting small multi. In a discussion with friends, I could use the new knowledge. Thanks for the cache.</li><li>2010-05-03T19:00:00Z : Found it by finalharvest <br />hehe, one of those little things that are so well camouflaged you only see them when you are actually looking for them</li><li>2010-04-10T19:00:00Z : Found it by 3-guineas <br />Long walk (started at Mespil road)</li><li>2010-04-10T19:00:00Z : Found it by whiteandblack <br />found quickly. tftc</li><li>2010-03-04T20:00:00Z : Found it by polle <br /># 1371
+
+Quick find. Nicely hidden. TFTF
+Log @ 10H10
+
+Belgian Greetz [^]</li></ul></logs>
+  <original-xml>  <wpt  lat="53.355583" lon="-6.245583">
+    <time>2009-05-27T07:00:00Z</time>
+    <name>GC1R1J2</name>
+    <desc>North Strand 1941 by toczygroszek (adopted by anacreon), Multi-cache (1/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=6be546af-d666-4c6e-8123-d4ad4052c050</url>
+    <urlname>North Strand 1941</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Multi-cache</type>
+    <groundspeak:cache id="1228906" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>North Strand 1941</groundspeak:name>
+      <groundspeak:placed_by>toczygroszek (adopted by anacreon)</groundspeak:placed_by>
+      <groundspeak:owner id="2099725">anacreon</groundspeak:owner>
+      <groundspeak:type>Multi-cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>Dublin</groundspeak:state>
+      <groundspeak:short_description html="True">This is an easy one-stage multicache. The final location is about 2
+minutes walk from the start point.</groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;center&gt;&lt;img src=
+"http://img.geocaching.com/cache/588d11a5-151c-4e2b-88ee-25eff08ca10a.jpg" /&gt;&lt;/center&gt;
+&lt;center&gt;&lt;i&gt;North Strand after bombing
+(www.fantasyjackpalance.com)&lt;/i&gt;&lt;/center&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;p align="justify"&gt;&lt;b&gt;WWII:&lt;/b&gt;&lt;br /&gt;
+&lt;br /&gt;
+During World War II Ireland declared itself neutral. Nevertheless,
+some German bombs were dropped on Irish land in 1940-41 killing and
+injuring many people and destroying some buildings. Several reasons
+are discussed by historians, as some of the bombing areas were
+strategic for Great Britain. However, the official explanation was
+pilot error.&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Raid on Dublin:&lt;/b&gt;&lt;br /&gt;
+&lt;br /&gt;
+On 31 May 1941 just after midnight bombs exploding in the distance
+were heard. Searchlights began sweeping the sky and anti-aircraft
+batteries began shooting at planes. Two squadrons of Luftwaffe
+aircraft began raid on the capital of the neutral country. At 1:30
+am bombs began falling onto Dublin. North Strand suffered most
+severely as 4 high-explosives bombs were dropped here.&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Aftermath:&lt;/b&gt;&lt;br /&gt;
+&lt;br /&gt;
+Different reports quote different numbers of victims. One of them
+mentions about 29 people killed, 90 people injured and 300
+destroyed and damaged houses. About 400 people were left
+permanently or temporarily homeless.&lt;br /&gt;
+In 1958 West Germany took responsibility for the raid and paid
+compensation of IR&amp;pound;327,000.&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Stage 1:&lt;/b&gt;&lt;br /&gt;
+&lt;br /&gt;
+At this stage you will see the memorial with description, where you
+will find two dates.&lt;br /&gt;
+Sum up the four digits of the year in the 1st date and call it
+&lt;b&gt;AB&lt;/b&gt;.&lt;br /&gt;
+Sum up the four digits of the the year in the 2nd date and call it
+&lt;b&gt;CD&lt;/b&gt;.&lt;br /&gt;
+&lt;br /&gt;
+The final cache is at coordinates:&lt;br /&gt;
+&lt;br /&gt;
+&lt;font color="blue"&gt;&lt;b&gt;N 53&amp;deg; 21.(B-A) D (A+B+C)&lt;br /&gt;
+W 006&amp;deg; 14.(A+B) (B-A) (B*C-A)&lt;br /&gt;&lt;/b&gt;&lt;/font&gt;&lt;br /&gt;
+&lt;b&gt;The cache:&lt;/b&gt;&lt;br /&gt;
+&lt;br /&gt;
+On the way to the cache you will pass buildings replacing housing
+damaged by the bomb. The cache is a micro container and includes a
+logbook only. Please bring your own pen.&lt;br /&gt;
+&lt;br /&gt;
+You can visit the local library (N 53&amp;deg; 21.433 W 006&amp;deg;
+14.765), where there is an exhibition of pictures taken after
+bombing. The exhibition will be open in May and June 2009. More
+information can be found &lt;a href=
+"http://www.dublincity.ie/RecreationandCulture/libraries/Events/Pages/exhib_north_strand_bombings.aspx"
+target="_blank"&gt;HERE&lt;/a&gt;.&lt;/p&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;a href="http://s03.flagcounter.com/more/2p0P"&gt;&lt;img src=
+"http://s03.flagcounter.com/count/2p0P/bg=FFFFFF/txt=000000/border=CCCCCC/columns=6/maxflags=248/viewers=0/labels=1/"
+alt="free counters" border="0" /&gt;&lt;/a&gt;&lt;br /&gt;
+&lt;!--start of handicaching link--&gt;
+&lt;p&gt;&lt;a href="http://www.handicaching.com/show.php?waypoint=GC1R1J2"
+target="_blank"&gt;&lt;img src=
+"http://www.handicaching.com/images/seal_rater2.gif" border="0"
+alt="View the ratings for GC1R1J2" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;!--end of handicaching link--&gt;&lt;p&gt;Additional Waypoints&lt;/p&gt;FL1R1J2 - The Cache&lt;br /&gt;N/S  __ ° __ . ___ W/E ___ ° __ . ___ &lt;br /&gt;&lt;br /&gt;LB1R1J2 - Library&lt;br /&gt;N 53° 21.433 W 006° 14.765&lt;br /&gt;&lt;br /&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>first, right side facing post</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="108340892">
+          <groundspeak:date>2010-05-07T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1536412">Horge der Seher</groundspeak:finder>
+          <groundspeak:text encoded="False">Interesting small multi. In a discussion with friends, I could use the new knowledge. Thanks for the cache.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="107011622">
+          <groundspeak:date>2010-05-03T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1072584">finalharvest</groundspeak:finder>
+          <groundspeak:text encoded="False">hehe, one of those little things that are so well camouflaged you only see them when you are actually looking for them</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="103495050">
+          <groundspeak:date>2010-04-10T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2454361">3-guineas</groundspeak:finder>
+          <groundspeak:text encoded="False">Long walk (started at Mespil road)</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="103488436">
+          <groundspeak:date>2010-04-10T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2766997">whiteandblack</groundspeak:finder>
+          <groundspeak:text encoded="False">found quickly. tftc</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="98859445">
+          <groundspeak:date>2010-03-04T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="414829">polle</groundspeak:finder>
+          <groundspeak:text encoded="False"># 1371
+
+Quick find. Nicely hidden. TFTF
+Log @ 10H10
+
+Belgian Greetz [^]</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

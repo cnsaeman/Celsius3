@@ -1,0 +1,114 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>004955</id>
+  <cache-id>GC18HRP</cache-id>
+  <type>Multi-cache</type>
+  <name>.......ausstellung, seht euch gut um. by ubx, Multi-cache (1/2)</name>
+  <size>Small</size>
+  <difficulty>1</difficulty>
+  <terrain>2</terrain>
+  <last-found>2010-06-14</last-found>
+  <placed>2008-01-10</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>ubx</placedby>
+  <found>Geocache</found>
+  <lat>50.573833</lat>
+  <lon>9.59265</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>ubx</owner>
+  <description>.......ausstellung
+eine besondere Ausstellung wird gesucht.</description>
+  <long-description>Parkt bei den Koordinaten, hier ist genug Platz und sucht nach  einer Ausstellung !
+Zählt die Buchstaben vor .......ausstellung, das ist Zahl A.
+Zählt die die Anzahl der Ziffern auf diesem Schild , das ist Zahl B. Zählt die Buchstaben vor dem Datum, das ist Zahl C.
+jetzt subtrahiert von (N 50.34.)430 - A B (2 stellige Zahl)= Koords für Final.
+jetzt addiert zu (E 09.34.)559 + B C B (3 stellige Zahl)= Koords für Final. Vom Start bis zum Final kann man laufen. Am Ziel ist es etwas unwegsam , bitte also Vorsicht am Final !
+
+Additional Waypoints
+</long-description>
+  <encoded-hints>auf dem Bild ist der cache etwas versteckt</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=123eeb18-d0c6-4bb8-b9b5-6df61537078a</url>
+  <url-name>.......ausstellung, seht euch gut um.</url-name>
+  <logs><ul><li>2010-10-22T19:00:00Z : Found it by s186003 <br />Zuerst in die falsche Richtung gelauft dann Fehler gefunden und Cache bei schöner Location gehoben.
+TFTC</li><li>2010-08-22T19:00:00Z : Found it by buchy <br />Nachdem wir uns "um"-gesehen hatten, konnten wir auch noch ein sehr schönes Plätzchen besichtigen. Wir kamen von der "richtigen" Seite. Es ist aber nicht ganz einfach hin zu finden. Danke für die schöne Idee. </li><li>2010-06-26T19:00:00Z : Found it by daruch <br />Cache suchen und Radfahren gute Kombination.
+Danke für's Verstecken</li><li>2010-06-14T19:00:00Z : Found it by Ivy69 <br />Zusammen mit svegar und Sohn gefunden. Die letzten Meter nichts für laufende Meter! TFTC</li><li>2010-06-14T19:00:00Z : Found it by Svegar <br />Am Final wirds etwas schwieriger (zumindestens von der Seite, von der wir kamen), aber das Versteck ist klasse.
+
+Danke
+
+out: Figur (Fussballer)
+in: Figur (Ü-Ei Boromir)</li></ul></logs>
+  <original-xml>  <wpt  lat="50.573833" lon="9.59265">
+    <time>2008-01-10T08:00:00Z</time>
+    <name>GC18HRP</name>
+    <desc>.......ausstellung, seht euch gut um. by ubx, Multi-cache (1/2)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=123eeb18-d0c6-4bb8-b9b5-6df61537078a</url>
+    <urlname>.......ausstellung, seht euch gut um.</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Multi-cache</type>
+    <groundspeak:cache id="767832" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>.......ausstellung, seht euch gut um.</groundspeak:name>
+      <groundspeak:placed_by>ubx</groundspeak:placed_by>
+      <groundspeak:owner id="787613">ubx</groundspeak:owner>
+      <groundspeak:type>Multi-cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>2</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">.......ausstellung
+eine besondere Ausstellung wird gesucht.</groundspeak:short_description>
+      <groundspeak:long_description html="False">Parkt bei den Koordinaten, hier ist genug Platz und sucht nach  einer Ausstellung !
+Zählt die Buchstaben vor .......ausstellung, das ist Zahl A.
+Zählt die die Anzahl der Ziffern auf diesem Schild , das ist Zahl B. Zählt die Buchstaben vor dem Datum, das ist Zahl C.
+jetzt subtrahiert von (N 50.34.)430 - A B (2 stellige Zahl)= Koords für Final.
+jetzt addiert zu (E 09.34.)559 + B C B (3 stellige Zahl)= Koords für Final. Vom Start bis zum Final kann man laufen. Am Ziel ist es etwas unwegsam , bitte also Vorsicht am Final !
+
+Additional Waypoints
+</groundspeak:long_description>
+      <groundspeak:encoded_hints>auf dem Bild ist der cache etwas versteckt</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="133058072">
+          <groundspeak:date>2010-10-22T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2819456">s186003</groundspeak:finder>
+          <groundspeak:text encoded="False">Zuerst in die falsche Richtung gelauft dann Fehler gefunden und Cache bei schöner Location gehoben.
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="123309929">
+          <groundspeak:date>2010-08-22T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="947042">buchy</groundspeak:finder>
+          <groundspeak:text encoded="False">Nachdem wir uns "um"-gesehen hatten, konnten wir auch noch ein sehr schönes Plätzchen besichtigen. Wir kamen von der "richtigen" Seite. Es ist aber nicht ganz einfach hin zu finden. Danke für die schöne Idee. </groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="114367261">
+          <groundspeak:date>2010-06-26T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3100425">daruch</groundspeak:finder>
+          <groundspeak:text encoded="False">Cache suchen und Radfahren gute Kombination.
+Danke für's Verstecken</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="112970955">
+          <groundspeak:date>2010-06-14T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3091672">Ivy69</groundspeak:finder>
+          <groundspeak:text encoded="False">Zusammen mit svegar und Sohn gefunden. Die letzten Meter nichts für laufende Meter! TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="112889565">
+          <groundspeak:date>2010-06-14T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3056833">Svegar</groundspeak:finder>
+          <groundspeak:text encoded="False">Am Final wirds etwas schwieriger (zumindestens von der Seite, von der wir kamen), aber das Versteck ist klasse.
+
+Danke
+
+out: Figur (Fussballer)
+in: Figur (Ü-Ei Boromir)</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

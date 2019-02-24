@@ -1,0 +1,117 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>002039</id>
+  <cache-id>GC1C09W</cache-id>
+  <type>Unknown Cache</type>
+  <name>Dial 1-800-MASSEY by daraconn, Unknown Cache (4/3.5)</name>
+  <size>Small</size>
+  <difficulty>4</difficulty>
+  <terrain>3.5</terrain>
+  <last-found>2009-12-28</last-found>
+  <placed>2008-05-05</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>daraconn</placedby>
+  <found>Geocache</found>
+  <lat>53.26515</lat>
+  <lon>-6.31515</lon>
+  <last-logs>FFFWF</last-logs>
+  <owner>daraconn</owner>
+  <description>NOTE: The above posted co-ordinates are NOT the co-ordinates of the
+cache. To find the actual co-ordinates, you will need to decipher
+the puzzle below.<br /></description>
+  <long-description><br />
+<font color="RED" size="6">KF.LeNV O.ThRa</font></long-description>
+  <encoded-hints>puzzle: keypad; cache: base of tall beech at top of slope</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=58e2b33f-b1ee-4ed1-a4c6-893512462313</url>
+  <url-name>Dial 1-800-MASSEY</url-name>
+  <logs><ul><li>2010-03-22T19:00:00Z : Found it by Bootle <br />I figured the puzzle out ages ago but only got a chance to hunt today. Great hidden spot. The forest was really nice, it felt more wild and natural than many of the other nearby forests. I had a real job getting up to the cache as it had been raining earlier and I could get very little grip on the slope. I slid four or five times going up and down - it actually seemed a rather dangerous thing to be attempting in those conditions, but I got there in the end! Thanks for this great cache!</li><li>2010-02-23T20:00:00Z : Found it by slands <br />Solved the puzzle about a week ago - was kicking myself when I realised that it was not really as complicated as I had first thought ;-) The suggested parking spot that Moonshiner Extraordinaire recommended (June 2008) let me know that I was in the right general area. Parked the car, and tried to make directly for the cache - realised quickly that this was not going to work, so backtracked, and headed off along a path to find a route to the cache. After a little scrambling I was there. Some recently fallen trees make approaching the cache from the West (about the only obvious way to approach it) difficult - a little scrambling or crawling required.
+
+GPS went to 0 exactly at the cache site, and after a quick scout around found the cache easily.
+
+Lovely spot, though not too nice this afternoon in with wet snow falling....will definitely be back for a walk around the area soon.
+
+TLNL
+TFTC
+
+Stephen...</li><li>2010-02-06T20:00:00Z : Found it by didi2206 <br />Nice walk in the wood! Thanks D</li><li>2009-12-28T20:00:00Z : Write note by AB Green <br />Coindrop [:)]</li><li>2009-12-28T17:38:00Z : Found it by AB Green <br />Solved back in Denmark and an Email to the helpfull owner confirmed it was right. Thank for the help, the climb, the Nice view and the cache.
+In: GC</li></ul></logs>
+  <original-xml>  <wpt  lat="53.26515" lon="-6.31515">
+    <time>2008-05-05T07:00:00Z</time>
+    <name>GC1C09W</name>
+    <desc>Dial 1-800-MASSEY by daraconn, Unknown Cache (4/3.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=58e2b33f-b1ee-4ed1-a4c6-893512462313</url>
+    <urlname>Dial 1-800-MASSEY</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Unknown Cache</type>
+    <groundspeak:cache id="870199" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Dial 1-800-MASSEY</groundspeak:name>
+      <groundspeak:placed_by>daraconn</groundspeak:placed_by>
+      <groundspeak:owner id="591662">daraconn</groundspeak:owner>
+      <groundspeak:type>Unknown Cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>4</groundspeak:difficulty>
+      <groundspeak:terrain>3.5</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>Dublin</groundspeak:state>
+      <groundspeak:short_description html="True">NOTE: The above posted co-ordinates are NOT the co-ordinates of the
+cache. To find the actual co-ordinates, you will need to decipher
+the puzzle below.&lt;br /&gt;</groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;br /&gt;
+&lt;font color="RED" size="6"&gt;KF.LeNV O.ThRa&lt;/font&gt;&lt;p&gt;Additional Waypoints&lt;/p&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>puzzle: keypad; cache: base of tall beech at top of slope</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="100753947">
+          <groundspeak:date>2010-03-22T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="96113">Bootle</groundspeak:finder>
+          <groundspeak:text encoded="False">I figured the puzzle out ages ago but only got a chance to hunt today. Great hidden spot. The forest was really nice, it felt more wild and natural than many of the other nearby forests. I had a real job getting up to the cache as it had been raining earlier and I could get very little grip on the slope. I slid four or five times going up and down - it actually seemed a rather dangerous thing to be attempting in those conditions, but I got there in the end! Thanks for this great cache!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="98033089">
+          <groundspeak:date>2010-02-23T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="235284">slands</groundspeak:finder>
+          <groundspeak:text encoded="False">Solved the puzzle about a week ago - was kicking myself when I realised that it was not really as complicated as I had first thought ;-) The suggested parking spot that Moonshiner Extraordinaire recommended (June 2008) let me know that I was in the right general area. Parked the car, and tried to make directly for the cache - realised quickly that this was not going to work, so backtracked, and headed off along a path to find a route to the cache. After a little scrambling I was there. Some recently fallen trees make approaching the cache from the West (about the only obvious way to approach it) difficult - a little scrambling or crawling required.
+
+GPS went to 0 exactly at the cache site, and after a quick scout around found the cache easily.
+
+Lovely spot, though not too nice this afternoon in with wet snow falling....will definitely be back for a walk around the area soon.
+
+TLNL
+TFTC
+
+Stephen...</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="96718918">
+          <groundspeak:date>2010-02-06T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2623045">didi2206</groundspeak:finder>
+          <groundspeak:text encoded="False">Nice walk in the wood! Thanks D</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="93967731">
+          <groundspeak:date>2009-12-28T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Write note</groundspeak:type>
+          <groundspeak:finder id="1768915">AB Green</groundspeak:finder>
+          <groundspeak:text encoded="False">Coindrop [:)]</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="93751473">
+          <groundspeak:date>2009-12-28T17:38:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1768915">AB Green</groundspeak:finder>
+          <groundspeak:text encoded="False">Solved back in Denmark and an Email to the helpfull owner confirmed it was right. Thank for the help, the climb, the Nice view and the cache.
+In: GC</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs>
+        <groundspeak:travelbug id="938295" ref="TB1E95G">
+          <groundspeak:name>Mortonhampstead</groundspeak:name>
+        </groundspeak:travelbug>
+        <groundspeak:travelbug id="1757594" ref="TB2ARPG">
+          <groundspeak:name>Blank Check</groundspeak:name>
+        </groundspeak:travelbug>
+      </groundspeak:travelbugs>
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

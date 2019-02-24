@@ -1,0 +1,147 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>007458</id>
+  <cache-id>GCMTBA</cache-id>
+  <type>Traditional Cache</type>
+  <name>Ardgillan I by Windsockers, Traditional Cache (1.5/2)</name>
+  <size>Small</size>
+  <difficulty>1.5</difficulty>
+  <terrain>2</terrain>
+  <last-found></last-found>
+  <placed>2005-02-14</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>Windsockers</placedby>
+  <found>Geocache</found>
+  <lat>53.58315</lat>
+  <lon>-6.15955</lon>
+  <last-logs>WFFF</last-logs>
+  <owner>Windsockers</owner>
+  <description><center><img src=
+"http://www.northbeach.ie/gallery/albums/userpics/10001/normal_Ardgillan.JPG" /></center></description>
+  <long-description><p>Ardgillan is a very well preserved castle near Skerries to the
+North of Dublin, surrounded by beautiful gardens and set in a great
+landscape. From the cache, you will have spectacular views over the
+grounds and over Skerries Bay and the Skerries town.A visit to the
+castle is highly recommended.</p>
+<p>There are two ways to get to this cache: from the main car park
+at N 53 34.922 W 006 09.645, or the pedestrain route at the "Ladies
+Stairs" at N 53 35.473 W 006 09.365.</p>
+<p>If you want to visit this cache using public transport, the bus
+route to take from Dublin City centre is the No. 33 which will drop
+you off at the "Ladies Stairs" on the road between Balbriggan and
+Skerries, the pedestrian entrance to the Demesne via a bridge which
+spans the road and railway line. Alternatively, you can take the 41
+from Dublin City Centre to Swords, and then take the 33A (which
+from Swords on follows the same route as the 33).</p>
+<p><b>Note that access to the grounds is open from 10am to 5pm in
+the Wintertime, and 10am to 9pm in the summer (June, July and
+August).</b></p>
+<center><img src=
+"http://www.northbeach.ie/gallery/albums/userpics/10001/windsock-anim-small.gif" /><br />
+
+<b>The Windsockers</b></center></long-description>
+  <additional-waypoints>PKMTBA - GCMTBA Parking<br />N 53° 34.922 W 006° 09.645<br /><br /></additional-waypoints>
+  <links>waypoints:cache-id:PKMTBA</links>
+  <encoded-hints>top of tree stump</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=db86408b-5443-42b2-855a-14ba0cbba536</url>
+  <url-name>Ardgillan I</url-name>
+  <logs><ul><li>2010-06-11T19:00:00Z : Write note by Petr Skacha <br />TB drop.</li><li>2010-05-25T19:00:00Z : Found it by Trip52 <br />More luck then skill used to find this one. 
+(and it is a very good hiding spot)
+GeoCoin out, bouncy ball in. TFTC.</li><li>2010-05-04T19:00:00Z : Found it by Petr Skacha <br />We were here few times before it moved.Nice hiding Mr. Windsocker.
+TFTC</li><li>2010-05-03T19:00:00Z : Found it by niallk1234 <br />Easy find, the second of 4 for today. Took a geocoin and left a geocoin. Thanks for the cache.</li><li>2010-04-16T20:30:25Z : Update Coordinates by Windsockers <br />** Coordinates Changed From **
+N 53° 34.987 W 006° 09.560
+Distance From Old: 48.5 feet or 14.8 meters
+Moving to new area due to tree felling</li></ul></logs>
+  <original-xml>  <wpt  lat="53.58315" lon="-6.15955">
+    <time>2005-02-14T08:00:00Z</time>
+    <name>GCMTBA</name>
+    <desc>Ardgillan I by Windsockers, Traditional Cache (1.5/2)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=db86408b-5443-42b2-855a-14ba0cbba536</url>
+    <urlname>Ardgillan I</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="209076" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Ardgillan I</groundspeak:name>
+      <groundspeak:placed_by>Windsockers</groundspeak:placed_by>
+      <groundspeak:owner id="271623">Windsockers</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>2</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>Leinster</groundspeak:state>
+      <groundspeak:short_description html="True">&lt;center&gt;&lt;img src=
+"http://www.northbeach.ie/gallery/albums/userpics/10001/normal_Ardgillan.JPG" /&gt;&lt;/center&gt;</groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;p&gt;Ardgillan is a very well preserved castle near Skerries to the
+North of Dublin, surrounded by beautiful gardens and set in a great
+landscape. From the cache, you will have spectacular views over the
+grounds and over Skerries Bay and the Skerries town.A visit to the
+castle is highly recommended.&lt;/p&gt;
+&lt;p&gt;There are two ways to get to this cache: from the main car park
+at N 53 34.922 W 006 09.645, or the pedestrain route at the "Ladies
+Stairs" at N 53 35.473 W 006 09.365.&lt;/p&gt;
+&lt;p&gt;If you want to visit this cache using public transport, the bus
+route to take from Dublin City centre is the No. 33 which will drop
+you off at the "Ladies Stairs" on the road between Balbriggan and
+Skerries, the pedestrian entrance to the Demesne via a bridge which
+spans the road and railway line. Alternatively, you can take the 41
+from Dublin City Centre to Swords, and then take the 33A (which
+from Swords on follows the same route as the 33).&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Note that access to the grounds is open from 10am to 5pm in
+the Wintertime, and 10am to 9pm in the summer (June, July and
+August).&lt;/b&gt;&lt;/p&gt;
+&lt;center&gt;&lt;img src=
+"http://www.northbeach.ie/gallery/albums/userpics/10001/windsock-anim-small.gif" /&gt;&lt;br /&gt;
+
+&lt;b&gt;The Windsockers&lt;/b&gt;&lt;/center&gt;&lt;p&gt;Additional Waypoints&lt;/p&gt;PKMTBA - GCMTBA Parking&lt;br /&gt;N 53° 34.922 W 006° 09.645&lt;br /&gt;&lt;br /&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>top of tree stump</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="112532316">
+          <groundspeak:date>2010-06-11T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Write note</groundspeak:type>
+          <groundspeak:finder id="821695">Petr Skacha</groundspeak:finder>
+          <groundspeak:text encoded="False">TB drop.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="110085302">
+          <groundspeak:date>2010-05-25T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3067458">Trip52</groundspeak:finder>
+          <groundspeak:text encoded="False">More luck then skill used to find this one. 
+(and it is a very good hiding spot)
+GeoCoin out, bouncy ball in. TFTC.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="107138837">
+          <groundspeak:date>2010-05-04T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="821695">Petr Skacha</groundspeak:finder>
+          <groundspeak:text encoded="False">We were here few times before it moved.Nice hiding Mr. Windsocker.
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="107011976">
+          <groundspeak:date>2010-05-03T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2923926">niallk1234</groundspeak:finder>
+          <groundspeak:text encoded="False">Easy find, the second of 4 for today. Took a geocoin and left a geocoin. Thanks for the cache.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="104384889">
+          <groundspeak:date>2010-04-16T20:30:25Z</groundspeak:date>
+          <groundspeak:type>Update Coordinates</groundspeak:type>
+          <groundspeak:finder id="271623">Windsockers</groundspeak:finder>
+          <groundspeak:text encoded="False">** Coordinates Changed From **
+N 53° 34.987 W 006° 09.560
+Distance From Old: 48.5 feet or 14.8 meters
+Moving to new area due to tree felling</groundspeak:text>
+          <groundspeak:log_wpt lat="53.58315" lon="-6.15955" />
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs>
+        <groundspeak:travelbug id="2159826" ref="TB2R98Q">
+          <groundspeak:name>DUCKY</groundspeak:name>
+        </groundspeak:travelbug>
+      </groundspeak:travelbugs>
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

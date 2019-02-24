@@ -1,0 +1,118 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>000794</id>
+  <cache-id>GC1EA6H</cache-id>
+  <type>Multi-cache</type>
+  <name>Casa by Ubx, Multi-cache (1/1)</name>
+  <size>Micro</size>
+  <difficulty>1</difficulty>
+  <terrain>1</terrain>
+  <last-found>2010-09-20</last-found>
+  <placed>2008-07-18</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Ubx</placedby>
+  <found>Geocache</found>
+  <lat>50.541883</lat>
+  <lon>9.579167</lon>
+  <last-logs>FFWFF</last-logs>
+  <owner>ubx</owner>
+  <description>Drei in einer Reihe / 1. von 3</description>
+  <long-description>Wenn ihr an den Koordinaten steht ,seht ihr auf der anderen Strassenseite eine besondere Lokalität.
+Auf einem grossen Schild an der Strasse stehen die Öffnungszeiten.
+Wieviele Stunden hat das "Lokal" geöffnet. Das ist der Wert=A 
+Für den N-Finalwert rechnet N 50.32. //513+(A-3)//
+und den E-Finalwert rechnet E 09.34. //750+(Ax3,3)//
+
+Additional Waypoints
+</long-description>
+  <encoded-hints>am Metall</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=1ec9afdc-16fa-490a-88ac-8833789cc0fa</url>
+  <url-name>Casa</url-name>
+  <logs><ul><li>2010-12-23T20:00:00Z : Found it by jonny-blue <br />Der stand schon lange auf der Liste ... heute war er fällig [:)].
+Schild war zwar nicht mehr da, aber so lange werden die ja auch nicht aufgehabt haben [:D], also gut gefunden [:)].
+
+TFTC</li><li>2010-10-19T19:00:00Z : Found it by Helup <br />Beim zweitem Anlauf gefunden!
+
+Gruß und Danke Team Helup</li><li>2010-09-20T19:00:00Z : Write note by HubiFD <br />Coin nachgeloggt.
+
+Gruß Hubi</li><li>2010-09-20T19:00:00Z : Found it by s186003 <br />Mit schwap schnell gefunden, obwohl das Schild weg war.
+TFTC</li><li>2010-09-20T19:00:00Z : Found it by HubiFD <br />Nachdem ich vor einiger Zeit diesen Cache nicht finden konnte weil der Final weg war, nahm ich ihn gestern schnell im Vorbeifahren mit. 
+Ich wusste ja wo er sein musste, diesmal wr er auch da.
+TFTC Gruß Hubi</li></ul></logs>
+  <original-xml>  <wpt  lat="50.541883" lon="9.579167">
+    <time>2008-07-18T07:00:00Z</time>
+    <name>GC1EA6H</name>
+    <desc>Casa by Ubx, Multi-cache (1/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=1ec9afdc-16fa-490a-88ac-8833789cc0fa</url>
+    <urlname>Casa</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Multi-cache</type>
+    <groundspeak:cache id="939288" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Casa</groundspeak:name>
+      <groundspeak:placed_by>Ubx</groundspeak:placed_by>
+      <groundspeak:owner id="787613">ubx</groundspeak:owner>
+      <groundspeak:type>Multi-cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">Drei in einer Reihe / 1. von 3</groundspeak:short_description>
+      <groundspeak:long_description html="False">Wenn ihr an den Koordinaten steht ,seht ihr auf der anderen Strassenseite eine besondere Lokalität.
+Auf einem grossen Schild an der Strasse stehen die Öffnungszeiten.
+Wieviele Stunden hat das "Lokal" geöffnet. Das ist der Wert=A 
+Für den N-Finalwert rechnet N 50.32. //513+(A-3)//
+und den E-Finalwert rechnet E 09.34. //750+(Ax3,3)//
+
+Additional Waypoints
+</groundspeak:long_description>
+      <groundspeak:encoded_hints>am Metall</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="139067831">
+          <groundspeak:date>2010-12-23T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2197776">jonny-blue</groundspeak:finder>
+          <groundspeak:text encoded="False">Der stand schon lange auf der Liste ... heute war er fällig [:)].
+Schild war zwar nicht mehr da, aber so lange werden die ja auch nicht aufgehabt haben [:D], also gut gefunden [:)].
+
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="132238429">
+          <groundspeak:date>2010-10-19T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2254555">Helup</groundspeak:finder>
+          <groundspeak:text encoded="False">Beim zweitem Anlauf gefunden!
+
+Gruß und Danke Team Helup</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="133427707">
+          <groundspeak:date>2010-09-20T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Write note</groundspeak:type>
+          <groundspeak:finder id="2729325">HubiFD</groundspeak:finder>
+          <groundspeak:text encoded="False">Coin nachgeloggt.
+
+Gruß Hubi</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="127989509">
+          <groundspeak:date>2010-09-20T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2819456">s186003</groundspeak:finder>
+          <groundspeak:text encoded="False">Mit schwap schnell gefunden, obwohl das Schild weg war.
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="127893975">
+          <groundspeak:date>2010-09-20T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2729325">HubiFD</groundspeak:finder>
+          <groundspeak:text encoded="False">Nachdem ich vor einiger Zeit diesen Cache nicht finden konnte weil der Final weg war, nahm ich ihn gestern schnell im Vorbeifahren mit. 
+Ich wusste ja wo er sein musste, diesmal wr er auch da.
+TFTC Gruß Hubi</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

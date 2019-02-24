@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>001943</id>
+  <cache-id>GC2ADNM</cache-id>
+  <type>Traditional Cache</type>
+  <name>ave maria by highlow1357, Traditional Cache (2/2)</name>
+  <size>Small</size>
+  <difficulty>2</difficulty>
+  <terrain>2</terrain>
+  <last-found>2010-10-26</last-found>
+  <placed>2010-06-18</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>highlow1357</placedby>
+  <found>Geocache</found>
+  <lat>50.602767</lat>
+  <lon>9.6971</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>highlow1357</owner>
+  <description>Ein schneller Drive By im Dietershaner Feldland.</description>
+  <long-description>Ansonsten ist hier alles zugepflastert aber hier gehört einer hin. Haltet kurz an und nehmt euch Zeit für eine kleine Gedenkpause.
+Viel Spaß beim cachen wünscht
+highlow1357</long-description>
+  <encoded-hints>hinter einem Baum</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=5aff5eac-3fef-4b73-bdd7-76cd56e8203e</url>
+  <url-name>ave maria</url-name>
+  <logs><ul><li>2010-11-14T20:00:00Z : Found it by Limoel <br />Heute morgen schnell gefunden.
+
+TFTC Limoel</li><li>2010-11-11T20:00:00Z : Found it by Svegar <br />Gut gefunden, vielen Dank.</li><li>2010-11-07T20:00:00Z : Found it by Ivy69 <br />Dieser Kleine konnte sich nicht lang verbergen.TFTC</li><li>2010-10-31T19:00:00Z : Found it by burgen13 <br />Bei herrlichem Herbstwetter Sonntagsspaziergang mit erfolgreicher Cachesuche verbunden.
+Danke sagt burgen13 </li><li>2010-10-26T19:00:00Z : Found it by Dagosch <br />D ank "Maria" gut gefunden!!! 
+D anke sagt
+D agosch</li></ul></logs>
+  <original-xml>  <wpt  lat="50.602767" lon="9.6971">
+    <time>2010-06-18T07:00:00Z</time>
+    <name>GC2ADNM</name>
+    <desc>ave maria by highlow1357, Traditional Cache (2/2)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=5aff5eac-3fef-4b73-bdd7-76cd56e8203e</url>
+    <urlname>ave maria</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1746996" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>ave maria</groundspeak:name>
+      <groundspeak:placed_by>highlow1357</groundspeak:placed_by>
+      <groundspeak:owner id="2471877">highlow1357</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>2</groundspeak:difficulty>
+      <groundspeak:terrain>2</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">Ein schneller Drive By im Dietershaner Feldland.</groundspeak:short_description>
+      <groundspeak:long_description html="False">Ansonsten ist hier alles zugepflastert aber hier gehört einer hin. Haltet kurz an und nehmt euch Zeit für eine kleine Gedenkpause.
+Viel Spaß beim cachen wünscht
+highlow1357</groundspeak:long_description>
+      <groundspeak:encoded_hints>hinter einem Baum</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="135709727">
+          <groundspeak:date>2010-11-14T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2878802">Limoel</groundspeak:finder>
+          <groundspeak:text encoded="False">Heute morgen schnell gefunden.
+
+TFTC Limoel</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="135367411">
+          <groundspeak:date>2010-11-11T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3056833">Svegar</groundspeak:finder>
+          <groundspeak:text encoded="False">Gut gefunden, vielen Dank.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="134895802">
+          <groundspeak:date>2010-11-07T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3091672">Ivy69</groundspeak:finder>
+          <groundspeak:text encoded="False">Dieser Kleine konnte sich nicht lang verbergen.TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="133887222">
+          <groundspeak:date>2010-10-31T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2887618">burgen13</groundspeak:finder>
+          <groundspeak:text encoded="False">Bei herrlichem Herbstwetter Sonntagsspaziergang mit erfolgreicher Cachesuche verbunden.
+Danke sagt burgen13 </groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="133219059">
+          <groundspeak:date>2010-10-26T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="374782">Dagosch</groundspeak:finder>
+          <groundspeak:text encoded="False">D ank "Maria" gut gefunden!!! 
+D anke sagt
+D agosch</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

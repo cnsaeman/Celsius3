@@ -1,0 +1,156 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>003804</id>
+  <cache-id>GCM7JB</cache-id>
+  <type>Traditional Cache</type>
+  <name>Bonifatius 13 - Grab by St John of Beverley, Traditional Cache (2.5/1.5)</name>
+  <size>Micro</size>
+  <difficulty>2.5</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2007-12-26</last-found>
+  <placed>2004-12-06</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>St John of Beverley</placedby>
+  <found>Geocache Found</found>
+  <lat>50.554667</lat>
+  <lon>9.672167</lon>
+  <last-logs>FFFFFWF</last-logs>
+  <owner>St John of Beverley</owner>
+  <description>Der letzte Cache der Serie, die die Überführung des Bonifatius von
+Mainz nach Fulda nachzeichnet. Unweit des Caches ist das Grab des
+Bonifatius im Dom. Es handelt sich um einen Microcache, der nur
+ausserhalb von Stosszeiten geborgen werden sollte, da er sich in
+der Stadt an einem nicht allzu geschützten Ort befindet. Er ist
+dafür nach Einbruch der Dunkelheit machbar, da es nicht überall
+dunkel wird!</description>
+  <long-description>Wenn du bei den angegebenen Koordinaten bist, lass den Dom hinter
+dir und du stehst vor einer weiteren Kirche, bei der der Cache in
+der Ecke vor dir versteckt ist.<br />
+<br />
+<b>Wer geloggt hat, bekommt per Eimail eine Notiz. Wer alle
+Bonifatius-Caches gefunden hat und alle Notizen befolgt hat /
+aufgeschrieben hat, der kann den Serienbonus lösen: <a rel=
+"nofollow" href=
+"http://www.geocaching.com/seek/cache_details.aspx?guid=bc0b927d-ac52-44f7-9249-f097e75399ce">
+<img src="http://www.stjohnofbeverley.info/myc.gif" border="0"
+height="25" /><font size="4">GCMQ82 Bonifatius 14 -
+Serienbonus</font></a></b><br />
+<br />
+<hr />
+<div align="right"><a href="http://www.stjohnofbeverley.info"
+target="_blank"><img src=
+"http://img.geocaching.com/stats/img.aspx?txt=www.stjohnofbeverley.info&uid=f511bec3-ebe2-400c-b01d-d5404f13b563&bg=1"
+border="0" title="St John of Beverley" alt="St John of Beverley" />
+<img src="http://www.stjohnofbeverley.info/StJohnkreis2.gif"
+border="0" /></a></div>
+<hr />
+<br /></long-description>
+  <encoded-hints>Am Boden nah am Wasser gebaut.</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=5c3a6a28-9d4a-40e4-9e57-847c0c5d85b5</url>
+  <url-name>Bonifatius 13 - Grab</url-name>
+  <logs><ul><li>2010-11-28T20:00:00Z : Found it by Team Lusiregma <br />Beim Weihnachtsmarktbesuch schnell den Cache gesucht und gefunden.</li><li>2010-11-28T20:00:00Z : Found it by BB! <br />recht schnell gefunden TFTC RN und BB!</li><li>2010-11-24T20:00:00Z : Found it by yonex <br />Bei Schneeschauern und bitterkalten Temperaturen hielt sich der Muggelverkehr in Grenzen und der Cache konnte zügig geloggt werden!
+
+TFTC</li><li>2010-11-17T20:00:00Z : Found it by capitanok9 <br />Heute bei einem kleinen Stadtrundgang gefunden
+TFTC</li><li>2010-11-16T20:00:00Z : Found it by Eckhardt <br />Auf unserer Tour durch Fulda gut gefunden.</li><li>2007-12-26T20:00:00Z : Write note by Kersti.com <br />Fergus the Frog hopped here</li><li>2007-12-26T20:00:00Z : Found it by Kersti.com <br />Great hide! Found with Christian - and to think that we were here just a few hours ago before we decided to go caching. Definitely a must see if you're visiting the area, in fact one of my favourite of this kind of building anywhere at all. TNLNSL.  </li></ul></logs>
+  <original-xml>  <wpt  lat="50.554667" lon="9.672167">
+    <time>2004-12-06T08:00:00Z</time>
+    <name>GCM7JB</name>
+    <desc>Bonifatius 13 - Grab by St John of Beverley, Traditional Cache (2.5/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=5c3a6a28-9d4a-40e4-9e57-847c0c5d85b5</url>
+    <urlname>Bonifatius 13 - Grab</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="191996" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Bonifatius 13 - Grab</groundspeak:name>
+      <groundspeak:placed_by>St John of Beverley</groundspeak:placed_by>
+      <groundspeak:owner id="220435">St John of Beverley</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>2.5</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="True">Der letzte Cache der Serie, die die Überführung des Bonifatius von
+Mainz nach Fulda nachzeichnet. Unweit des Caches ist das Grab des
+Bonifatius im Dom. Es handelt sich um einen Microcache, der nur
+ausserhalb von Stosszeiten geborgen werden sollte, da er sich in
+der Stadt an einem nicht allzu geschützten Ort befindet. Er ist
+dafür nach Einbruch der Dunkelheit machbar, da es nicht überall
+dunkel wird!</groundspeak:short_description>
+      <groundspeak:long_description html="True">Wenn du bei den angegebenen Koordinaten bist, lass den Dom hinter
+dir und du stehst vor einer weiteren Kirche, bei der der Cache in
+der Ecke vor dir versteckt ist.&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Wer geloggt hat, bekommt per Eimail eine Notiz. Wer alle
+Bonifatius-Caches gefunden hat und alle Notizen befolgt hat /
+aufgeschrieben hat, der kann den Serienbonus lösen: &lt;a rel=
+"nofollow" href=
+"http://www.geocaching.com/seek/cache_details.aspx?guid=bc0b927d-ac52-44f7-9249-f097e75399ce"&gt;
+&lt;img src="http://www.stjohnofbeverley.info/myc.gif" border="0"
+height="25" /&gt;&lt;font size="4"&gt;GCMQ82 Bonifatius 14 -
+Serienbonus&lt;/font&gt;&lt;/a&gt;&lt;/b&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;hr /&gt;
+&lt;div align="right"&gt;&lt;a href="http://www.stjohnofbeverley.info"
+target="_blank"&gt;&lt;img src=
+"http://img.geocaching.com/stats/img.aspx?txt=www.stjohnofbeverley.info&amp;amp;uid=f511bec3-ebe2-400c-b01d-d5404f13b563&amp;amp;bg=1"
+border="0" title="St John of Beverley" alt="St John of Beverley" /&gt;
+&lt;img src="http://www.stjohnofbeverley.info/StJohnkreis2.gif"
+border="0" /&gt;&lt;/a&gt;&lt;/div&gt;
+&lt;hr /&gt;
+&lt;br /&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>Am Boden nah am Wasser gebaut.</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="137573368">
+          <groundspeak:date>2010-11-28T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3019639">Team Lusiregma</groundspeak:finder>
+          <groundspeak:text encoded="False">Beim Weihnachtsmarktbesuch schnell den Cache gesucht und gefunden.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="137416472">
+          <groundspeak:date>2010-11-28T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3781589">BB!</groundspeak:finder>
+          <groundspeak:text encoded="False">recht schnell gefunden TFTC RN und BB!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="137098688">
+          <groundspeak:date>2010-11-24T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1942538">yonex</groundspeak:finder>
+          <groundspeak:text encoded="False">Bei Schneeschauern und bitterkalten Temperaturen hielt sich der Muggelverkehr in Grenzen und der Cache konnte zügig geloggt werden!
+
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="136204168">
+          <groundspeak:date>2010-11-17T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3123857">capitanok9</groundspeak:finder>
+          <groundspeak:text encoded="False">Heute bei einem kleinen Stadtrundgang gefunden
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="136197803">
+          <groundspeak:date>2010-11-16T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1802355">Eckhardt</groundspeak:finder>
+          <groundspeak:text encoded="False">Auf unserer Tour durch Fulda gut gefunden.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="116076484">
+          <groundspeak:date>2007-12-26T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Write note</groundspeak:type>
+          <groundspeak:finder id="320206">Kersti.com</groundspeak:finder>
+          <groundspeak:text encoded="False">Fergus the Frog hopped here</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="36734177">
+          <groundspeak:date>2007-12-26T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="320206">Kersti.com</groundspeak:finder>
+          <groundspeak:text encoded="False">Great hide! Found with Christian - and to think that we were here just a few hours ago before we decided to go caching. Definitely a must see if you're visiting the area, in fact one of my favourite of this kind of building anywhere at all. TNLNSL.  </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

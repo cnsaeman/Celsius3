@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>001692</id>
+  <cache-id>GC1EA6Y</cache-id>
+  <type>Multi-cache</type>
+  <name>Jakobsweg 2 by Ubx, Multi-cache (1/1.5)</name>
+  <size>Micro</size>
+  <difficulty>1</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-07-28</last-found>
+  <placed>2008-07-18</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Ubx</placedby>
+  <found>Geocache</found>
+  <lat>50.540867</lat>
+  <lon>9.548567</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>ubx</owner>
+  <description>Drei in einer Reihe. 3. von 3</description>
+  <long-description>An den Koordinaten steht ein Pfosten mit dem Hinweis auf den Jakobsweg. Addiert dazu zu den Nord+Ost-Koordinaten jeweils 6  Folgt diesem Weg bis zu VIII !!
+
+Additional Waypoints
+PK1EA6Y - parken
+N 50° 32.459 E 009° 32.897
+
+</long-description>
+  <encoded-hints>am Fuss des VIII vergraben.</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=081f5537-e80a-44d1-b8c5-e1a503f62310</url>
+  <url-name>Jakobsweg 2</url-name>
+  <logs><ul><li>2010-10-23T19:00:00Z : Found it by Knerpchen und Helle <br />wer sich an die Rechnung hält ist selbst schuld. Folgt dem gesunden Menschenverstand und der Cache gehört euch. Grüße aus Franken</li><li>2010-09-20T19:00:00Z : Found it by s186003 <br />Anweisung nicht verstanden. Mit schwap erst in die falsche Richtung gelaufen. Zum Schluss doch gefunden.
+TFTC</li><li>2010-09-20T19:00:00Z : Found it by schwap <br />auch ich hab die rechnung nicht gerafft. bin erst nach NE gelaufen(andere Richtung), da man ja zu N und E 6 addieren soll(warum auch immer 6???). dann kam VII. ich dachte als nächstes kommt VIII doch es kam VI. schön. falsche richtung. dann schnell nach titanic geloggt. bessere beschreibung wünschenswert.</li><li>2010-09-17T20:57:17Z : Found it by nickneck <br />Schnell gefunden. Bin auch direkt zum Final, da ich die Beschreibung nicht verstanden habe. Tftc</li><li>2010-07-28T19:00:00Z : Found it by manide <br />Was soll N+E //6// bedeuten??? naja, aber trotzdem gefunden</li></ul></logs>
+  <original-xml>  <wpt  lat="50.540867" lon="9.548567">
+    <time>2008-07-18T07:00:00Z</time>
+    <name>GC1EA6Y</name>
+    <desc>Jakobsweg 2 by Ubx, Multi-cache (1/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=081f5537-e80a-44d1-b8c5-e1a503f62310</url>
+    <urlname>Jakobsweg 2</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Multi-cache</type>
+    <groundspeak:cache id="939300" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Jakobsweg 2</groundspeak:name>
+      <groundspeak:placed_by>Ubx</groundspeak:placed_by>
+      <groundspeak:owner id="787613">ubx</groundspeak:owner>
+      <groundspeak:type>Multi-cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">Drei in einer Reihe. 3. von 3</groundspeak:short_description>
+      <groundspeak:long_description html="False">An den Koordinaten steht ein Pfosten mit dem Hinweis auf den Jakobsweg. Addiert dazu zu den Nord+Ost-Koordinaten jeweils 6  Folgt diesem Weg bis zu VIII !!
+
+Additional Waypoints
+PK1EA6Y - parken
+N 50° 32.459 E 009° 32.897
+
+</groundspeak:long_description>
+      <groundspeak:encoded_hints>am Fuss des VIII vergraben.</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="132909902">
+          <groundspeak:date>2010-10-23T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2459129">Knerpchen und Helle</groundspeak:finder>
+          <groundspeak:text encoded="False">wer sich an die Rechnung hält ist selbst schuld. Folgt dem gesunden Menschenverstand und der Cache gehört euch. Grüße aus Franken</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="127989614">
+          <groundspeak:date>2010-09-20T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2819456">s186003</groundspeak:finder>
+          <groundspeak:text encoded="False">Anweisung nicht verstanden. Mit schwap erst in die falsche Richtung gelaufen. Zum Schluss doch gefunden.
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="127873281">
+          <groundspeak:date>2010-09-20T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3060114">schwap</groundspeak:finder>
+          <groundspeak:text encoded="False">auch ich hab die rechnung nicht gerafft. bin erst nach NE gelaufen(andere Richtung), da man ja zu N und E 6 addieren soll(warum auch immer 6???). dann kam VII. ich dachte als nächstes kommt VIII doch es kam VI. schön. falsche richtung. dann schnell nach titanic geloggt. bessere beschreibung wünschenswert.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="127188735">
+          <groundspeak:date>2010-09-17T20:57:17Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2463372">nickneck</groundspeak:finder>
+          <groundspeak:text encoded="False">Schnell gefunden. Bin auch direkt zum Final, da ich die Beschreibung nicht verstanden habe. Tftc</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="119042930">
+          <groundspeak:date>2010-07-28T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3537159">manide</groundspeak:finder>
+          <groundspeak:text encoded="False">Was soll N+E //6// bedeuten??? naja, aber trotzdem gefunden</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

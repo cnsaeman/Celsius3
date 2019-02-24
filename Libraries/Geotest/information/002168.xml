@@ -1,0 +1,122 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>002168</id>
+  <cache-id>GCW5C7</cache-id>
+  <type>Multi-cache</type>
+  <name>Alter Turm by PlanBe, Multi-cache (1.5/1)</name>
+  <size>Regular</size>
+  <difficulty>1.5</difficulty>
+  <terrain>1</terrain>
+  <last-found>2010-08-26</last-found>
+  <placed>2006-05-21</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>PlanBe</placedby>
+  <found>Geocache</found>
+  <lat>50.478467</lat>
+  <lon>9.690633</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>PlanBe</owner>
+  <description>
+      </description>
+  <long-description>Dieser Cache ist fast ein Drive in. Im Sommer ist eventuell ein Kompass hilfreich (Blätterdach der Bäume!).
+Parken kannst du bei N50°28.585´ E009°41.666´. Von hier sind es ca. 400 mtr. zum Cache. Folge dem asphaltierten Waldweg ca. 300 mtr. parallel zur Straße. Am Ende des Weges geht es 70 mtr auf ca. 260° gen Westen (folge dem Weg in den Wald). 
+Nun bist du bei den Resten des alten Wachtturmes. Die Cachekoordinaten geben die Position dieses Turmes an. Um den Cache zu findes musst du aus der Mitte des Wachtturmes ca. 30 mtr. nach Süden gehen. 
+Um den Cache auch ohne Kompass zu finden kannst du auch das Bild verwenden (mitten im Bild!) und/oder den Hinweis   ;-)
+
+Und nun viel Spaß!
+
+Größe des Caches: 13 x 8,50 x 5,50 cm
+Inhalt: Überraschungseierfiguren
+
+Dieser Cache kann auch bei http://www.opencaching.de/viewcache.php?cacheid=110941 geloggt werden!</long-description>
+  <encoded-hints>kleines Loch in großem Loch</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=e840e440-f92e-4c77-b51d-cbc0b39c3633</url>
+  <url-name>Alter Turm</url-name>
+  <logs><ul><li>2010-11-16T20:00:00Z : Found it by Herzl <br />Der stand schon länger auf meiner to-do-Liste.
+Heute hats geklappt - zum Abschluß eines wunderschönen, kleinen Cachertages.
+Schön und unvermutet hier im Wald. Danke fürs Zeigen!!</li><li>2010-10-27T19:00:00Z : Found it by Stierwade <br />schöner kleiner Multi, das schwierigste war im Feierabendverkehr über die Strasse zu kommen. Aber nachdem das geschafft war hatten wir den Wartturm gleich entdeckt und auch die Dose!
+TFTC Gruß Stierwade</li><li>2010-10-24T19:00:00Z : Found it by mayday malone <br />man hier oben war ich schon ewig nicht mehr. sehr schöner cache. bei schönem herbstwetter geloggt. danke dafür und gruß. mayday</li><li>2010-08-31T19:00:00Z : Found it by ChrisFX <br />Der Cache war ja nicht so das Problem ...
+Größer kann schon die Herrausforderung sein, wenn man auf dem Weg dorthin rein nach Richtungspfeil navigiert und plötzlich mit dem Rad vor der vierspurigen B27 steht. Damit eindeutig ein T5 XD
+
+TFTC</li><li>2010-08-26T19:00:00Z : Found it by woodi65 <br />Nach einigen Irrwegen dann doch schnell gefunden.
+Noch so ein Platz, von dem ich bisher nichts wusste.
+TFTC.</li></ul></logs>
+  <original-xml>  <wpt  lat="50.478467" lon="9.690633">
+    <time>2006-05-21T07:00:00Z</time>
+    <name>GCW5C7</name>
+    <desc>Alter Turm by PlanBe, Multi-cache (1.5/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=e840e440-f92e-4c77-b51d-cbc0b39c3633</url>
+    <urlname>Alter Turm</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Multi-cache</type>
+    <groundspeak:cache id="398421" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Alter Turm</groundspeak:name>
+      <groundspeak:placed_by>PlanBe</groundspeak:placed_by>
+      <groundspeak:owner id="283938">PlanBe</groundspeak:owner>
+      <groundspeak:type>Multi-cache</groundspeak:type>
+      <groundspeak:container>Regular</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">
+      </groundspeak:short_description>
+      <groundspeak:long_description html="False">Dieser Cache ist fast ein Drive in. Im Sommer ist eventuell ein Kompass hilfreich (Blätterdach der Bäume!).
+Parken kannst du bei N50°28.585´ E009°41.666´. Von hier sind es ca. 400 mtr. zum Cache. Folge dem asphaltierten Waldweg ca. 300 mtr. parallel zur Straße. Am Ende des Weges geht es 70 mtr auf ca. 260° gen Westen (folge dem Weg in den Wald). 
+Nun bist du bei den Resten des alten Wachtturmes. Die Cachekoordinaten geben die Position dieses Turmes an. Um den Cache zu findes musst du aus der Mitte des Wachtturmes ca. 30 mtr. nach Süden gehen. 
+Um den Cache auch ohne Kompass zu finden kannst du auch das Bild verwenden (mitten im Bild!) und/oder den Hinweis   ;-)
+
+Und nun viel Spaß!
+
+Größe des Caches: 13 x 8,50 x 5,50 cm
+Inhalt: Überraschungseierfiguren
+
+Dieser Cache kann auch bei http://www.opencaching.de/viewcache.php?cacheid=110941 geloggt werden!</groundspeak:long_description>
+      <groundspeak:encoded_hints>kleines Loch in großem Loch</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="136090813">
+          <groundspeak:date>2010-11-16T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1970181">Herzl</groundspeak:finder>
+          <groundspeak:text encoded="False">Der stand schon länger auf meiner to-do-Liste.
+Heute hats geklappt - zum Abschluß eines wunderschönen, kleinen Cachertages.
+Schön und unvermutet hier im Wald. Danke fürs Zeigen!!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="133347011">
+          <groundspeak:date>2010-10-27T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2618790">Stierwade</groundspeak:finder>
+          <groundspeak:text encoded="False">schöner kleiner Multi, das schwierigste war im Feierabendverkehr über die Strasse zu kommen. Aber nachdem das geschafft war hatten wir den Wartturm gleich entdeckt und auch die Dose!
+TFTC Gruß Stierwade</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="133111111">
+          <groundspeak:date>2010-10-24T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3592921">mayday malone</groundspeak:finder>
+          <groundspeak:text encoded="False">man hier oben war ich schon ewig nicht mehr. sehr schöner cache. bei schönem herbstwetter geloggt. danke dafür und gruß. mayday</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="124679491">
+          <groundspeak:date>2010-08-31T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2837683">ChrisFX</groundspeak:finder>
+          <groundspeak:text encoded="False">Der Cache war ja nicht so das Problem ...
+Größer kann schon die Herrausforderung sein, wenn man auf dem Weg dorthin rein nach Richtungspfeil navigiert und plötzlich mit dem Rad vor der vierspurigen B27 steht. Damit eindeutig ein T5 XD
+
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="123784454">
+          <groundspeak:date>2010-08-26T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3620737">woodi65</groundspeak:finder>
+          <groundspeak:text encoded="False">Nach einigen Irrwegen dann doch schnell gefunden.
+Noch so ein Platz, von dem ich bisher nichts wusste.
+TFTC.</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

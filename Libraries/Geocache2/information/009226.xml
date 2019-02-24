@@ -1,0 +1,154 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>009226</id>
+  <cache-id>GC245AY</cache-id>
+  <type>Multi-cache</type>
+  <name> Cloghran by Windsockers, Multi-cache (1.5/1.5)</name>
+  <size>Micro</size>
+  <difficulty>1.5</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-04-28</last-found>
+  <placed>2010-03-29</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>Windsockers</placedby>
+  <found>Geocache</found>
+  <lat>53.432833</lat>
+  <lon>-6.228267</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>Windsockers</owner>
+  <description><center><img src=
+"http://img.geocaching.com/cache/eb89a3d3-ee56-41f4-ba00-ccfc1a1f6258.jpg" /></center></description>
+  <long-description><p>The graveyard is situated at Stockhole Lane, Cloghran, Co.
+Dublin and is perched on top of the Rock of Cloghran, owned by the
+Church of Ireland. This site is a national monument that had been
+allowed, through lack of resources of the owners to fall into a
+serious state of neglect. Cloghran Historical Society obtained
+permission from the owners to initiate a restoration
+programme.<br />
+Work commenced on the restoration project in 2003 with the
+restoration of the graves and a complete clean-up of the site. When
+this was complete the work moved on to restoring the walls
+surrounding the graveyard.<br />
+There was of 18th century church which is now demolished and was
+also built on the site of earlier<br />
+Church dating back to the 12 century which was built by by Ryryd,
+son of Owen Gwyneth, Prince of North Wales.</p>
+<p><b>The Cache</b></p>
+<p>To find the cache you need to note the following
+information.<br />
+At the above coords take note of the last two digits of when the
+new church was erected call this AB.<br />
+Note the last two digits of what the earliest recorded burial is
+call these CD.<br />
+Note the last digit of the missing year the heritage council lent
+its support call this E.<br />
+The cache can be found at: N53 25.(D+E)(B+E)C W006
+13.(A+C)(B-D)(B+C+D)</p>
+<br />
+<center><img src=
+"http://www.northbeach.ie/gallery/albums/userpics/10001/windsock-anim-small.gif" /><br />
+
+<b>The Windsockers</b></center>
+<hr size="2" /></long-description>
+  <encoded-hints>overhead</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=2d93d889-eb5b-4244-8a3d-0b1854cd1c95</url>
+  <url-name> Cloghran</url-name>
+  <logs><ul><li>2010-05-24T19:00:00Z : Found it by eve1987 <br />My second cache in Ireland... was easy and quick [:)]
+
+TFTC and kind regards from Austria, eve</li><li>2010-05-24T19:00:00Z : Found it by GudrunXY <br />A quick find with eve1987 on our Caching Tour through Ireland.
+TFTC, GudrunXY</li><li>2010-05-23T19:00:00Z : Found it by weitzclan <br />took a lot of looking but eventually shook it out. TFTC.</li><li>2010-05-09T19:00:00Z : Found it by theswerve <br />Found in the end....took a little while...TFTC...</li><li>2010-04-28T19:00:00Z : Found it by abra123cadabra <br />Went to the airport today to pick up a friend. Left a bit earlier to allow for this little multi. Jumped to a few conclusions about the final location after calculating the coordinates before looking at the GPSr for directions. Found GZ without problem, looked in the "where would I hide it" spot... nothing. Looked around at other possible hiding places for a cache this size... nothing. Back to the obvious spot, looked again and there it was, right before my very eyes. Well camouflaged, the container blends right in. And I even took off the sunglasses before searching as I have realized on other occasions that they make spotting containers more difficult. Thanks for making the wait a pleasant one.</li></ul></logs>
+  <original-xml>  <wpt  lat="53.432833" lon="-6.228267">
+    <time>2010-03-29T07:00:00Z</time>
+    <name>GC245AY</name>
+    <desc> Cloghran by Windsockers, Multi-cache (1.5/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=2d93d889-eb5b-4244-8a3d-0b1854cd1c95</url>
+    <urlname> Cloghran</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Multi-cache</type>
+    <groundspeak:cache id="1560230" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name> Cloghran</groundspeak:name>
+      <groundspeak:placed_by>Windsockers</groundspeak:placed_by>
+      <groundspeak:owner id="271623">Windsockers</groundspeak:owner>
+      <groundspeak:type>Multi-cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>Leinster</groundspeak:state>
+      <groundspeak:short_description html="True">&lt;center&gt;&lt;img src=
+"http://img.geocaching.com/cache/eb89a3d3-ee56-41f4-ba00-ccfc1a1f6258.jpg" /&gt;&lt;/center&gt;</groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;p&gt;The graveyard is situated at Stockhole Lane, Cloghran, Co.
+Dublin and is perched on top of the Rock of Cloghran, owned by the
+Church of Ireland. This site is a national monument that had been
+allowed, through lack of resources of the owners to fall into a
+serious state of neglect. Cloghran Historical Society obtained
+permission from the owners to initiate a restoration
+programme.&lt;br /&gt;
+Work commenced on the restoration project in 2003 with the
+restoration of the graves and a complete clean-up of the site. When
+this was complete the work moved on to restoring the walls
+surrounding the graveyard.&lt;br /&gt;
+There was of 18th century church which is now demolished and was
+also built on the site of earlier&lt;br /&gt;
+Church dating back to the 12 century which was built by by Ryryd,
+son of Owen Gwyneth, Prince of North Wales.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;The Cache&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;To find the cache you need to note the following
+information.&lt;br /&gt;
+At the above coords take note of the last two digits of when the
+new church was erected call this AB.&lt;br /&gt;
+Note the last two digits of what the earliest recorded burial is
+call these CD.&lt;br /&gt;
+Note the last digit of the missing year the heritage council lent
+its support call this E.&lt;br /&gt;
+The cache can be found at: N53 25.(D+E)(B+E)C W006
+13.(A+C)(B-D)(B+C+D)&lt;/p&gt;
+&lt;br /&gt;
+&lt;center&gt;&lt;img src=
+"http://www.northbeach.ie/gallery/albums/userpics/10001/windsock-anim-small.gif" /&gt;&lt;br /&gt;
+
+&lt;b&gt;The Windsockers&lt;/b&gt;&lt;/center&gt;
+&lt;hr size="2" /&gt;&lt;p&gt;Additional Waypoints&lt;/p&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>overhead</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="111727135">
+          <groundspeak:date>2010-05-24T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1617792">eve1987</groundspeak:finder>
+          <groundspeak:text encoded="False">My second cache in Ireland... was easy and quick [:)]
+
+TFTC and kind regards from Austria, eve</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="110153392">
+          <groundspeak:date>2010-05-24T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2694097">GudrunXY</groundspeak:finder>
+          <groundspeak:text encoded="False">A quick find with eve1987 on our Caching Tour through Ireland.
+TFTC, GudrunXY</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="111217771">
+          <groundspeak:date>2010-05-23T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3022005">weitzclan</groundspeak:finder>
+          <groundspeak:text encoded="False">took a lot of looking but eventually shook it out. TFTC.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="107747269">
+          <groundspeak:date>2010-05-09T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1032462">theswerve</groundspeak:finder>
+          <groundspeak:text encoded="False">Found in the end....took a little while...TFTC...</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="106148566">
+          <groundspeak:date>2010-04-28T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2383033">abra123cadabra</groundspeak:finder>
+          <groundspeak:text encoded="False">Went to the airport today to pick up a friend. Left a bit earlier to allow for this little multi. Jumped to a few conclusions about the final location after calculating the coordinates before looking at the GPSr for directions. Found GZ without problem, looked in the "where would I hide it" spot... nothing. Looked around at other possible hiding places for a cache this size... nothing. Back to the obvious spot, looked again and there it was, right before my very eyes. Well camouflaged, the container blends right in. And I even took off the sunglasses before searching as I have realized on other occasions that they make spotting containers more difficult. Thanks for making the wait a pleasant one.</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

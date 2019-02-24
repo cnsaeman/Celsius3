@@ -1,0 +1,100 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>009844</id>
+  <cache-id>GC2D512</cache-id>
+  <type>Traditional Cache</type>
+  <name>Herrgottseiche am Himmelsberg by balu-fd, Traditional Cache (1/1)</name>
+  <size>Micro</size>
+  <difficulty>1</difficulty>
+  <terrain>1</terrain>
+  <last-found>2010-09-21</last-found>
+  <placed>2010-08-09</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>balu-fd</placedby>
+  <found>Geocache</found>
+  <lat>50.514467</lat>
+  <lon>9.55325</lon>
+  <last-logs>FFWFF</last-logs>
+  <owner>balu-fd</owner>
+  <description>
+      </description>
+  <long-description>Parken kann man am Wasserhaus Giesel. Von da aus geht man über die Straße und schlägt den rechten Weg ein. Nach einem guten Kilometer (was im Fulader Land soviel heißt, wie gut ein Kilometer) gelangt man zur sog. "Herrgottseiche". Hierhin zeigen die Koordinaten.
+
+Der Cache befindet sich nicht direkt an der Hergottseiche, sondern hinter der offiziellen Sitzgelegenheit in der Nähe.</long-description>
+  <encoded-hints>nietS na nietS.
+Unter dem großen Stein.</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=bb8cfda8-481e-400a-a539-ebdedde57ede</url>
+  <url-name>Herrgottseiche am Himmelsberg</url-name>
+  <logs><ul><li>2010-11-15T00:35:15Z : Found it by thomas_bimbach <br />TFTC </li><li>2010-10-31T19:00:00Z : Found it by Herzl <br />Bei wolkenlosen strahlendblauem Himmel bin ich heute zur Herrgottseiche gelaufen.
+Dose gut gefunden - und wider muggelfrei zurückgelegt - hier war heute ganz schön was los.</li><li>2010-10-11T19:00:00Z : Write note by HubiFD <br />Coin nachgeloggt.
+
+Gruß Hubi</li><li>2010-10-11T19:00:00Z : Found it by HubiFD <br />Auf dem Rückweg von Hosenfeld gut und schnell gefunden.
+TFTC Gruß Hubi</li><li>2010-09-21T19:00:00Z : Found it by lexibert <br />mittagspausenfund</li></ul></logs>
+  <original-xml>  <wpt  lat="50.514467" lon="9.55325">
+    <time>2010-08-09T07:00:00Z</time>
+    <name>GC2D512</name>
+    <desc>Herrgottseiche am Himmelsberg by balu-fd, Traditional Cache (1/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=bb8cfda8-481e-400a-a539-ebdedde57ede</url>
+    <urlname>Herrgottseiche am Himmelsberg</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1828043" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Herrgottseiche am Himmelsberg</groundspeak:name>
+      <groundspeak:placed_by>balu-fd</groundspeak:placed_by>
+      <groundspeak:owner id="3122379">balu-fd</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">
+      </groundspeak:short_description>
+      <groundspeak:long_description html="False">Parken kann man am Wasserhaus Giesel. Von da aus geht man über die Straße und schlägt den rechten Weg ein. Nach einem guten Kilometer (was im Fulader Land soviel heißt, wie gut ein Kilometer) gelangt man zur sog. "Herrgottseiche". Hierhin zeigen die Koordinaten.
+
+Der Cache befindet sich nicht direkt an der Hergottseiche, sondern hinter der offiziellen Sitzgelegenheit in der Nähe.</groundspeak:long_description>
+      <groundspeak:encoded_hints>nietS na nietS.
+Unter dem großen Stein.</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="135760194">
+          <groundspeak:date>2010-11-15T00:35:15Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2166343">thomas_bimbach</groundspeak:finder>
+          <groundspeak:text encoded="False">TFTC </groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="133931084">
+          <groundspeak:date>2010-10-31T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1970181">Herzl</groundspeak:finder>
+          <groundspeak:text encoded="False">Bei wolkenlosen strahlendblauem Himmel bin ich heute zur Herrgottseiche gelaufen.
+Dose gut gefunden - und wider muggelfrei zurückgelegt - hier war heute ganz schön was los.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="133430941">
+          <groundspeak:date>2010-10-11T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Write note</groundspeak:type>
+          <groundspeak:finder id="2729325">HubiFD</groundspeak:finder>
+          <groundspeak:text encoded="False">Coin nachgeloggt.
+
+Gruß Hubi</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="130851569">
+          <groundspeak:date>2010-10-11T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2729325">HubiFD</groundspeak:finder>
+          <groundspeak:text encoded="False">Auf dem Rückweg von Hosenfeld gut und schnell gefunden.
+TFTC Gruß Hubi</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="128006825">
+          <groundspeak:date>2010-09-21T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1985442">lexibert</groundspeak:finder>
+          <groundspeak:text encoded="False">mittagspausenfund</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

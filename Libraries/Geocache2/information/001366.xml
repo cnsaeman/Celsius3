@@ -1,0 +1,114 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>001366</id>
+  <cache-id>GC20VT9</cache-id>
+  <type>Traditional Cache</type>
+  <name>Erie by Boreal Walker, Traditional Cache (1.5/1.5)</name>
+  <size>Micro</size>
+  <difficulty>1.5</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-01-23</last-found>
+  <placed>2009-11-09</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>Boreal Walker</placedby>
+  <found>Geocache</found>
+  <lat>53.56625</lat>
+  <lon>-6.251083</lon>
+  <last-logs>FFFFX</last-logs>
+  <owner>Boreal Walker</owner>
+  <description>My first Irish cache.</description>
+  <long-description>I am of Irish heritage and would love to visit the country some
+day. If everything stays on track I should be there sometime in the
+next few years. Then I can visit this site myself. Other things on
+the short list is to visit the St. James' Gate Brewery and walk the
+yellow footsteps of Bloom through Dublin.
+<center><a id="ImageUploadPanel1_ImageViewPanel1_lnkPhoto"
+title="Click for larger image"
+href="http://img.geocaching.com/cache/737809de-cf1c-4e39-b045-2bd599496fff.jpg"
+   target="_blank"><img title="Click for larger image"
+   src="http://img.geocaching.com/cache/737809de-cf1c-4e39-b045-2bd599496fff.jpg"
+     alt="View from the Cache" style="border-width:0px;" />
+     </a></center>
+<br />
+<p><br />
+Thank you to Windsockers for helping me with this international
+exchange program.</p></long-description>
+  <encoded-hints>Head Height</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=daa438df-a28e-4921-bc8a-e4783dbf1899</url>
+  <url-name>Erie</url-name>
+  <logs><ul><li>2010-05-02T19:00:00Z : Found it by rooske <br />Quite prickly. TFTC</li><li>2010-03-28T19:00:00Z : Found it by Donnacha <br />Found on a quick trip out today.</li><li>2010-03-12T20:00:00Z : Found it by Fjon <br />Found it on my second visit. Quite a tricky hide.</li><li>2010-01-31T20:00:00Z : Found it by CluelessTwo <br />Thought we were 3rd to find this, as Hezekiah had FTF written at the top of the log. But I now see its been well visited.  Nice view from here anyway.</li><li>2010-01-23T20:00:00Z : Didn't find it by Fjon <br />Not the most pleasant search. Very thorny here, and scratched myself nicely. Next a farmer came up and asked what I was doing near the gate. Once I got rid of him two dogs came running at me growling, so I jumped in the car and decided to call it a day.</li></ul></logs>
+  <original-xml>  <wpt  lat="53.56625" lon="-6.251083">
+    <time>2009-11-09T08:00:00Z</time>
+    <name>GC20VT9</name>
+    <desc>Erie by Boreal Walker, Traditional Cache (1.5/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=daa438df-a28e-4921-bc8a-e4783dbf1899</url>
+    <urlname>Erie</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1461692" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Erie</groundspeak:name>
+      <groundspeak:placed_by>Boreal Walker</groundspeak:placed_by>
+      <groundspeak:owner id="1572075">Boreal Walker</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>Dublin</groundspeak:state>
+      <groundspeak:short_description html="True">My first Irish cache.</groundspeak:short_description>
+      <groundspeak:long_description html="True">I am of Irish heritage and would love to visit the country some
+day. If everything stays on track I should be there sometime in the
+next few years. Then I can visit this site myself. Other things on
+the short list is to visit the St. James' Gate Brewery and walk the
+yellow footsteps of Bloom through Dublin.
+&lt;center&gt;&lt;a id="ImageUploadPanel1_ImageViewPanel1_lnkPhoto"
+title="Click for larger image"
+href="http://img.geocaching.com/cache/737809de-cf1c-4e39-b045-2bd599496fff.jpg"
+   target="_blank"&gt;&lt;img title="Click for larger image"
+   src="http://img.geocaching.com/cache/737809de-cf1c-4e39-b045-2bd599496fff.jpg"
+     alt="View from the Cache" style="border-width:0px;" /&gt;
+     &lt;/a&gt;&lt;/center&gt;
+&lt;br /&gt;
+&lt;p&gt;&lt;br /&gt;
+Thank you to Windsockers for helping me with this international
+exchange program.&lt;/p&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>Head Height</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="106850736">
+          <groundspeak:date>2010-05-02T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1786087">rooske</groundspeak:finder>
+          <groundspeak:text encoded="False">Quite prickly. TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="101378069">
+          <groundspeak:date>2010-03-28T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="61401">Donnacha</groundspeak:finder>
+          <groundspeak:text encoded="False">Found on a quick trip out today.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="99489901">
+          <groundspeak:date>2010-03-12T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="243261">Fjon</groundspeak:finder>
+          <groundspeak:text encoded="False">Found it on my second visit. Quite a tricky hide.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="96405946">
+          <groundspeak:date>2010-01-31T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2473483">CluelessTwo</groundspeak:finder>
+          <groundspeak:text encoded="False">Thought we were 3rd to find this, as Hezekiah had FTF written at the top of the log. But I now see its been well visited.  Nice view from here anyway.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="95858499">
+          <groundspeak:date>2010-01-23T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Didn't find it</groundspeak:type>
+          <groundspeak:finder id="243261">Fjon</groundspeak:finder>
+          <groundspeak:text encoded="False">Not the most pleasant search. Very thorny here, and scratched myself nicely. Next a farmer came up and asked what I was doing near the gate. Once I got rid of him two dogs came running at me growling, so I jumped in the car and decided to call it a day.</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

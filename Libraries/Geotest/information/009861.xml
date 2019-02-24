@@ -1,0 +1,108 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>009861</id>
+  <cache-id>GC2BRGT</cache-id>
+  <type>Traditional Cache</type>
+  <name>im Wald am Fluss 1 by ubx, Traditional Cache (1.5/4)</name>
+  <size>Micro</size>
+  <difficulty>1.5</difficulty>
+  <terrain>4</terrain>
+  <last-found>2010-10-05</last-found>
+  <placed>2010-07-15</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>ubx</placedby>
+  <found>Geocache</found>
+  <lat>50.607567</lat>
+  <lon>9.63765</lon>
+  <last-logs>FFFFW</last-logs>
+  <owner>ubx</owner>
+  <description>ein PET-ling an einem einsamen Waldweg</description>
+  <long-description>dieser Waldweg ist von der östlichen Seite nicht gesperrt , aber man kommt an einem gesperrten raus. Also parken an der angegebenen Stelle und ein paar Meter laufen.Die Geländewertung 4 gilt nur für die letzten 30 m , der Weg dahin ist 1,5 . Ich konnte den Hang im trockenen gut bezwingen , aber bei Nässe dürfte es schwer werden.
+Also " Berg Heil " wünscht der Ubx
+
+Additional Waypoints
+PK2BRGT - GC2BRGT Parking
+N 50° 36.522 E 009° 37.498
+
+</long-description>
+  <encoded-hints>Pet-ling in Wurzelstock</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=757a9263-7248-4aef-9bdd-bd0b1531d9d8</url>
+  <url-name>im Wald am Fluss 1</url-name>
+  <logs><ul><li>2010-10-10T19:00:00Z : Found it by LI*MO <br />Gut zusammen mit f.etcher und born to cache gefunden. TFTC</li><li>2010-10-10T19:00:00Z : Found it by born to cache <br />Zusammen mit f.etcher und LI*MO gesucht und gefunden. TFTC</li><li>2010-10-10T19:00:00Z : Found it by f.etcher <br />Zusammen mit LI*MO und born to cache schnell gefunden. T4 ist es allerdings meiner Ansicht nach nicht. Eher T3 oder T3,5. TFTC</li><li>2010-10-08T19:00:00Z : Found it by Aldokyl <br />Das ist ganz schön steil dort.
+Danke für den Cache.</li><li>2010-10-05T19:00:00Z : Write note by HubiFD <br />Nach etwas Überlegung gibt es für mich hier doch keinen weiteren Anlauf.
+Wie gesagt sehe ich hier keinen Sinn drinne, keine besonders schöne Stelle, beschissener GPS-Empfang und die Natur wird nur sinnlos zertampelt.
+Deshalb landet dieser Cache bei mir auf der Liste der ignorierten Caches.
+
+Gruß Hubi</li></ul></logs>
+  <original-xml>  <wpt  lat="50.607567" lon="9.63765">
+    <time>2010-07-15T07:00:00Z</time>
+    <name>GC2BRGT</name>
+    <desc>im Wald am Fluss 1 by ubx, Traditional Cache (1.5/4)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=757a9263-7248-4aef-9bdd-bd0b1531d9d8</url>
+    <urlname>im Wald am Fluss 1</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1787208" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>im Wald am Fluss 1</groundspeak:name>
+      <groundspeak:placed_by>ubx</groundspeak:placed_by>
+      <groundspeak:owner id="787613">ubx</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>4</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">ein PET-ling an einem einsamen Waldweg</groundspeak:short_description>
+      <groundspeak:long_description html="False">dieser Waldweg ist von der östlichen Seite nicht gesperrt , aber man kommt an einem gesperrten raus. Also parken an der angegebenen Stelle und ein paar Meter laufen.Die Geländewertung 4 gilt nur für die letzten 30 m , der Weg dahin ist 1,5 . Ich konnte den Hang im trockenen gut bezwingen , aber bei Nässe dürfte es schwer werden.
+Also " Berg Heil " wünscht der Ubx
+
+Additional Waypoints
+PK2BRGT - GC2BRGT Parking
+N 50° 36.522 E 009° 37.498
+
+</groundspeak:long_description>
+      <groundspeak:encoded_hints>Pet-ling in Wurzelstock</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="130816600">
+          <groundspeak:date>2010-10-10T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2583892">LI*MO</groundspeak:finder>
+          <groundspeak:text encoded="False">Gut zusammen mit f.etcher und born to cache gefunden. TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="130551400">
+          <groundspeak:date>2010-10-10T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3473620">born to cache</groundspeak:finder>
+          <groundspeak:text encoded="False">Zusammen mit f.etcher und LI*MO gesucht und gefunden. TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="130545300">
+          <groundspeak:date>2010-10-10T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1498819">f.etcher</groundspeak:finder>
+          <groundspeak:text encoded="False">Zusammen mit LI*MO und born to cache schnell gefunden. T4 ist es allerdings meiner Ansicht nach nicht. Eher T3 oder T3,5. TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="131343747">
+          <groundspeak:date>2010-10-08T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="438973">Aldokyl</groundspeak:finder>
+          <groundspeak:text encoded="False">Das ist ganz schön steil dort.
+Danke für den Cache.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="130914705">
+          <groundspeak:date>2010-10-05T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Write note</groundspeak:type>
+          <groundspeak:finder id="2729325">HubiFD</groundspeak:finder>
+          <groundspeak:text encoded="False">Nach etwas Überlegung gibt es für mich hier doch keinen weiteren Anlauf.
+Wie gesagt sehe ich hier keinen Sinn drinne, keine besonders schöne Stelle, beschissener GPS-Empfang und die Natur wird nur sinnlos zertampelt.
+Deshalb landet dieser Cache bei mir auf der Liste der ignorierten Caches.
+
+Gruß Hubi</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

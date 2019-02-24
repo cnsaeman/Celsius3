@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>002307</id>
+  <cache-id>FP1Q6XR</cache-id>
+  <type>Waypoint</type>
+  <name>Forest Path</name>
+  <placed>2009-11-08</placed>
+  <lat>53.456617</lat>
+  <lon>-6.2433</lon>
+  <attributes>hidden</attributes>
+  <description>The path into the forest is the nicest way to go but you can take a route further south through the football pitches.</description>
+  <url>http://www.geocaching.com/seek/wpt.aspx?WID=bda54093-7469-4a57-9712-434746e602eb</url>
+  <url-name>Forest Path</url-name>
+</element>
+</celsiusv2.1.addinfofile>

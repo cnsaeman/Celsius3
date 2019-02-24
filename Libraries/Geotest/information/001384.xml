@@ -1,0 +1,92 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>001384</id>
+  <cache-id>GC214JG</cache-id>
+  <type>Traditional Cache</type>
+  <name>Was sprießt denn hier ? by husky99, Traditional Cache (1.5/1.5)</name>
+  <size>Micro</size>
+  <difficulty>1.5</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-09-12</last-found>
+  <placed>2009-11-14</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>husky99</placedby>
+  <found>Geocache</found>
+  <lat>50.636633</lat>
+  <lon>9.776367</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>husky99</owner>
+  <description>Das ist mein Beitrag zur Keimzelle.</description>
+  <long-description>Auf der Suche nach den Keimzellen-Caches ist uns (mit NoSaint) im Wald ein sehr merkwürdiges Kraut aufgefallen. 
+Der perfekte Platz um den Zuwachs für die Keimzelle Dammersbach einzupflanzen.</long-description>
+  <encoded-hints>Am Fuße einer Buche im Krautteppich</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=f4503862-cad0-42b0-8a72-8b7bc8173bc0</url>
+  <url-name>Was sprießt denn hier ?</url-name>
+  <logs><ul><li>2010-11-21T20:00:00Z : Found it by balalaika <br />Heute auf Rundtour um Dammersbach gewesen. Gut gefunden.
+Danke sagt team balalaika</li><li>2010-11-21T20:00:00Z : Found it by burgen13 <br />Auf einer Sonntagstour rund um Dammersbach gut gefunden.
+Danke sagt burgen13</li><li>2010-10-05T19:00:00Z : Found it by Camuvlash <br />TFTC.</li><li>2010-09-12T19:00:00Z : Found it by sema2505 <br />Gut und schnell gefunden. Hübsches Versteckt!
+TFTC</li><li>2010-09-12T19:00:00Z : Found it by super sunshine <br />Cache schnell gefunden. Danke und Grüße</li></ul></logs>
+  <original-xml>  <wpt  lat="50.636633" lon="9.776367">
+    <time>2009-11-14T08:00:00Z</time>
+    <name>GC214JG</name>
+    <desc>Was sprießt denn hier ? by husky99, Traditional Cache (1.5/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=f4503862-cad0-42b0-8a72-8b7bc8173bc0</url>
+    <urlname>Was sprießt denn hier ?</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1470131" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Was sprießt denn hier ?</groundspeak:name>
+      <groundspeak:placed_by>husky99</groundspeak:placed_by>
+      <groundspeak:owner id="2270227">husky99</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">Das ist mein Beitrag zur Keimzelle.</groundspeak:short_description>
+      <groundspeak:long_description html="False">Auf der Suche nach den Keimzellen-Caches ist uns (mit NoSaint) im Wald ein sehr merkwürdiges Kraut aufgefallen. 
+Der perfekte Platz um den Zuwachs für die Keimzelle Dammersbach einzupflanzen.</groundspeak:long_description>
+      <groundspeak:encoded_hints>Am Fuße einer Buche im Krautteppich</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="136645126">
+          <groundspeak:date>2010-11-21T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1414299">balalaika</groundspeak:finder>
+          <groundspeak:text encoded="False">Heute auf Rundtour um Dammersbach gewesen. Gut gefunden.
+Danke sagt team balalaika</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="136641893">
+          <groundspeak:date>2010-11-21T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2887618">burgen13</groundspeak:finder>
+          <groundspeak:text encoded="False">Auf einer Sonntagstour rund um Dammersbach gut gefunden.
+Danke sagt burgen13</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="129899609">
+          <groundspeak:date>2010-10-05T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2724623">Camuvlash</groundspeak:finder>
+          <groundspeak:text encoded="False">TFTC.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="126722661">
+          <groundspeak:date>2010-09-12T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3665179">sema2505</groundspeak:finder>
+          <groundspeak:text encoded="False">Gut und schnell gefunden. Hübsches Versteckt!
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="126494778">
+          <groundspeak:date>2010-09-12T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2807204">super sunshine</groundspeak:finder>
+          <groundspeak:text encoded="False">Cache schnell gefunden. Danke und Grüße</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

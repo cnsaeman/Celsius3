@@ -1,0 +1,126 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>000780</id>
+  <cache-id>GC1FF4R</cache-id>
+  <type>Traditional Cache</type>
+  <name>Pater Josef Kentenich by SZD & dreierlei, Traditional Cache (2/1)</name>
+  <size>Other</size>
+  <difficulty>2</difficulty>
+  <terrain>1</terrain>
+  <last-found>2010-10-09</last-found>
+  <placed>2008-08-21</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>SZD & dreierlei</placedby>
+  <found>Geocache</found>
+  <lat>50.504983</lat>
+  <lon>9.7931</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>dreierlei</owner>
+  <description>
+      </description>
+  <long-description>Josef Kentenich, (geb. 1885), der Gründer der internationalen Schönstatt-Bewegung, fühlte sich bereits als Kind von der Gottesmutter Maria angeleitet. 1904 trat er in die Gesellschaft der Pallottiner ein und absolvierte Noviziat und Theologiestudium in Limburg. 
+
+Nach der Priesterweihe 1910 arbeitete er zunächst als Lehrer, bis er 1912 Spiritual im neu erbauten Gymnasium in Schönstatt / Vallendar wurde, wo er mit der seelischen Begleitung und Unterstützung der Jugendlichen betraut war. In dieser Aufgabe erkannte er, dass die Kirche seiner Zeit aus unzähligen Formen, Regeln und Traditionen bestand, jedoch im Leben und den Herzen der Menschen oft kaum mehr als eine lästige Pflicht bedeutete. Im Ansinnen, den christlichen Glauben wieder mit dem Lebensvollzug in Einklang zu bringen, wagte er 1914 in einer kleinen Kapelle in Schönstatt mit einigen Schülern den ersten Schritt zur Gründung der Schönstatt-Bewegung. Das Bündnis beinhaltete die Bitte an die Gottesmutter, in dieser Kapelle in besonderer Weise anwesend zu sein und als Erzieherin des freien Menschen zu wirken. Diese Kapelle wurde im Laufe der Jahrzehnte zum geistlichen Mittelpunkt der Bewegung.
+
+1941-45 war Pater Kentenich Gefangener der Nationalsozialisten, zunächst in Koblenz, dann im Konzentrationslager Dachau. Auch im KZ arbeitete er unerschrocken weiter an seiner Lebensaufgabe, den Menschen die barmherzige Liebe Gottes zu verkünden.
+
+1947 begann er mit Reisen in andere Kontinente, um internationale Kontakte zu pflegen und den Schönstättern in diesen Ländern beim Aufbau der Bewegung zu helfen. 1951 wurde er von der Kirche nach Milwaukee (USA) versetzt. Kirchliche Stellen prüften ihn und seine Gründung. Am Heiligen Abend 1965 kehrte er nach Schönstatt zurück. Der inzwischen 80-jährige arbeitete unermüdlich an der inneren und äußeren Ausformung der Schönstatt-Bewegung. Am 15. September 1968 wurde Pater Kentenich von Gott heimgerufen, kurz nachdem er die heilige Messe zum ersten mal in der neu erbauten Dreifaltigkeitskirche auf Berg Schönstatt gefeiert hat.
+
+Dank moderner Vermessungstechnik konnten wir den Cache in der Nähe der Schönstatt-Kapelle in Dietershausen legen. Befestigte Wege sollen und müssen nicht verlassen werden.
+
+Viel Spaß beim Suchen wünschen
+
+SZD und dreierlei</long-description>
+  <encoded-hints>Das Foto zeigt den Blick vom Cache.</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=52abd8ba-47f1-4db9-b54c-17d884dc5767</url>
+  <url-name>Pater Josef Kentenich</url-name>
+  <logs><ul><li>2010-11-21T20:00:00Z : Found it by lillyfelix <br />Schnell gefunden. Auf die Nonnen-Muggels muss man aufpassen. Die sind überall ;-)</li><li>2010-10-30T19:00:00Z : Found it by Bosi1964 <br />Heute auf einer großen Fahrradtour auch hier vorbeigeradelt und dank Hint auch diese etwas andere Dose schnell gefunden.
+TFTC
+Bosi
+# 1665</li><li>2010-10-16T19:00:00Z : Found it by Team-Mirtinugil <br />@ 10:50 # 882
+
+Auf dem Weg in die Rhön dem Pater einen Besuch abgestattet. Sehr schön gemacht.
+Wir mussten nur etwas schmunzel. 	[;)]
+
+TFTC</li><li>2010-10-09T19:00:00Z : Found it by Svegar <br />Knifflige Verpackung. Vielen Dank</li><li>2010-10-09T19:00:00Z : Found it by Ivy69 <br />Schöner cache! Logbuch leider etwas feucht. TFTC</li></ul></logs>
+  <original-xml>  <wpt  lat="50.504983" lon="9.7931">
+    <time>2008-08-21T07:00:00Z</time>
+    <name>GC1FF4R</name>
+    <desc>Pater Josef Kentenich by SZD &amp; dreierlei, Traditional Cache (2/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=52abd8ba-47f1-4db9-b54c-17d884dc5767</url>
+    <urlname>Pater Josef Kentenich</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="973829" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Pater Josef Kentenich</groundspeak:name>
+      <groundspeak:placed_by>SZD &amp; dreierlei</groundspeak:placed_by>
+      <groundspeak:owner id="1378373">dreierlei</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Other</groundspeak:container>
+      <groundspeak:difficulty>2</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">
+      </groundspeak:short_description>
+      <groundspeak:long_description html="False">Josef Kentenich, (geb. 1885), der Gründer der internationalen Schönstatt-Bewegung, fühlte sich bereits als Kind von der Gottesmutter Maria angeleitet. 1904 trat er in die Gesellschaft der Pallottiner ein und absolvierte Noviziat und Theologiestudium in Limburg. 
+
+Nach der Priesterweihe 1910 arbeitete er zunächst als Lehrer, bis er 1912 Spiritual im neu erbauten Gymnasium in Schönstatt / Vallendar wurde, wo er mit der seelischen Begleitung und Unterstützung der Jugendlichen betraut war. In dieser Aufgabe erkannte er, dass die Kirche seiner Zeit aus unzähligen Formen, Regeln und Traditionen bestand, jedoch im Leben und den Herzen der Menschen oft kaum mehr als eine lästige Pflicht bedeutete. Im Ansinnen, den christlichen Glauben wieder mit dem Lebensvollzug in Einklang zu bringen, wagte er 1914 in einer kleinen Kapelle in Schönstatt mit einigen Schülern den ersten Schritt zur Gründung der Schönstatt-Bewegung. Das Bündnis beinhaltete die Bitte an die Gottesmutter, in dieser Kapelle in besonderer Weise anwesend zu sein und als Erzieherin des freien Menschen zu wirken. Diese Kapelle wurde im Laufe der Jahrzehnte zum geistlichen Mittelpunkt der Bewegung.
+
+1941-45 war Pater Kentenich Gefangener der Nationalsozialisten, zunächst in Koblenz, dann im Konzentrationslager Dachau. Auch im KZ arbeitete er unerschrocken weiter an seiner Lebensaufgabe, den Menschen die barmherzige Liebe Gottes zu verkünden.
+
+1947 begann er mit Reisen in andere Kontinente, um internationale Kontakte zu pflegen und den Schönstättern in diesen Ländern beim Aufbau der Bewegung zu helfen. 1951 wurde er von der Kirche nach Milwaukee (USA) versetzt. Kirchliche Stellen prüften ihn und seine Gründung. Am Heiligen Abend 1965 kehrte er nach Schönstatt zurück. Der inzwischen 80-jährige arbeitete unermüdlich an der inneren und äußeren Ausformung der Schönstatt-Bewegung. Am 15. September 1968 wurde Pater Kentenich von Gott heimgerufen, kurz nachdem er die heilige Messe zum ersten mal in der neu erbauten Dreifaltigkeitskirche auf Berg Schönstatt gefeiert hat.
+
+Dank moderner Vermessungstechnik konnten wir den Cache in der Nähe der Schönstatt-Kapelle in Dietershausen legen. Befestigte Wege sollen und müssen nicht verlassen werden.
+
+Viel Spaß beim Suchen wünschen
+
+SZD und dreierlei</groundspeak:long_description>
+      <groundspeak:encoded_hints>Das Foto zeigt den Blick vom Cache.</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="136670212">
+          <groundspeak:date>2010-11-21T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3765430">lillyfelix</groundspeak:finder>
+          <groundspeak:text encoded="False">Schnell gefunden. Auf die Nonnen-Muggels muss man aufpassen. Die sind überall ;-)</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="133737641">
+          <groundspeak:date>2010-10-30T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2308415">Bosi1964</groundspeak:finder>
+          <groundspeak:text encoded="False">Heute auf einer großen Fahrradtour auch hier vorbeigeradelt und dank Hint auch diese etwas andere Dose schnell gefunden.
+TFTC
+Bosi
+# 1665</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="132013558">
+          <groundspeak:date>2010-10-16T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2307043">Team-Mirtinugil</groundspeak:finder>
+          <groundspeak:text encoded="False">@ 10:50 # 882
+
+Auf dem Weg in die Rhön dem Pater einen Besuch abgestattet. Sehr schön gemacht.
+Wir mussten nur etwas schmunzel. 	[;)]
+
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="130371162">
+          <groundspeak:date>2010-10-09T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3056833">Svegar</groundspeak:finder>
+          <groundspeak:text encoded="False">Knifflige Verpackung. Vielen Dank</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="130349966">
+          <groundspeak:date>2010-10-09T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3091672">Ivy69</groundspeak:finder>
+          <groundspeak:text encoded="False">Schöner cache! Logbuch leider etwas feucht. TFTC</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

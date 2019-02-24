@@ -1,0 +1,116 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>009454</id>
+  <cache-id>GC2K95T</cache-id>
+  <type>Traditional Cache</type>
+  <name>Nuff un Nopp 004 FP by Maluma, Traditional Cache (2.5/2.5)</name>
+  <size>Regular</size>
+  <difficulty>2.5</difficulty>
+  <terrain>2.5</terrain>
+  <last-found>2010-12-13</last-found>
+  <placed>2010-12-12</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Maluma</placedby>
+  <found>Geocache</found>
+  <lat>50.530367</lat>
+  <lon>9.690333</lon>
+  <last-logs>FWWFF</last-logs>
+  <owner>Maluma</owner>
+  <description>Die Serie geht weiter..Diesmal einer für alle. Besonders für Kinder geeignet.
+Auch bei Schnee gut zu finden
+Wichtig: Es muss nix auf- oder abgeschraubt werden.</description>
+  <long-description>Bergehilfe mitbringen ...oder jemanden mit langen Armen. Er ist machbar, wenn man sich zum Bergen ein geeignetes Hilfsmittel mitbringt. 
+
+Also lasst euch was einfallen. 
+
+Setze daher die Schwierigkeit etwas nach oben 
+
+MALUMA
+ACHTUNG--Dank Aldokyl ist die Bergehilfe wieder dran..also schnell hin bevor sie wieder ab ist</long-description>
+  <encoded-hints>Suche den Faden..vielleicht kannst Du damit was anfangen...</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=183ec96c-e531-4235-a840-651fe9dab338</url>
+  <url-name>Nuff un Nopp 004 FP</url-name>
+  <logs><ul><li>2010-12-25T20:00:00Z : Found it by Aldokyl <br />Mit langen Armen kein Problem.
+Im Team gut gefunden.</li><li>2010-12-23T20:00:00Z : Write note by Maluma <br />Habe eben mal nach dem Cache geschaut.. Er ist definitiv noch da und machbar wenn man sich zum Bergen ein geeignetes Hilfsmittel mitbringt. Also lasst euch was einfallen. Setze daher die Schwierigkeit etwas nach oben MALUMA</li><li>2010-12-18T20:00:00Z : Write note by Fla20m <br />die Schnur scheint gerissen zu sein... Der Behälter ist leicht ausfindig zu machen, jedoch ist das Bergen des Caches fast unmöglich! Bitte nachschauen...</li><li>2010-12-13T20:00:00Z : Found it by 2000wu6 <br />Nach Nummer 5 war natürlich auch der hier noch dran ... nach dem Fund von Nummer 2 vor einiger Zeit hatte ich hier gleich eine Vermutung, doch nach erster Begutachtung der Umgebung war nur ein mögliches Versteck passender Größe zu sehen - was es aber (nach näherer Untersuchung)  nicht sein konnte ... also nochmal Koordinaten geprüft und wieder an den vermuteten Ort gegangen ... nach kurzem Umsehen konnte ich den Cache dann doch schon erblicken, und wenn er auch außer Reichweite erschien, war der Art des Zugriffs dann doch gleich gesehen ... 
+Die schöne große Dose hatte auch hier ein leeres Logbuch, FTF #2 am heutigen Tag!
+TFTC, NT, Garry</li><li>2010-12-13T20:00:00Z : Found it by HubiFD <br />STF und ein erneuten Glückwunsch an Garry zum FTF!!! 
+Anfangs dachte ich mein Arm wäre zu kurz, aber dann sah ich die Hilfe ;-)
+Dose ist auch im Winter gut zu finden.
+
+TFTC und Gruß an den Owner.</li></ul></logs>
+  <original-xml>  <wpt  lat="50.530367" lon="9.690333">
+    <time>2010-12-12T08:00:00Z</time>
+    <name>GC2K95T</name>
+    <desc>Nuff un Nopp 004 FP by Maluma, Traditional Cache (2.5/2.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=183ec96c-e531-4235-a840-651fe9dab338</url>
+    <urlname>Nuff un Nopp 004 FP</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="2010780" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Nuff un Nopp 004 FP</groundspeak:name>
+      <groundspeak:placed_by>Maluma</groundspeak:placed_by>
+      <groundspeak:owner id="1380311">Maluma</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Regular</groundspeak:container>
+      <groundspeak:difficulty>2.5</groundspeak:difficulty>
+      <groundspeak:terrain>2.5</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">Die Serie geht weiter..Diesmal einer für alle. Besonders für Kinder geeignet.
+Auch bei Schnee gut zu finden
+Wichtig: Es muss nix auf- oder abgeschraubt werden.</groundspeak:short_description>
+      <groundspeak:long_description html="False">Bergehilfe mitbringen ...oder jemanden mit langen Armen. Er ist machbar, wenn man sich zum Bergen ein geeignetes Hilfsmittel mitbringt. 
+
+Also lasst euch was einfallen. 
+
+Setze daher die Schwierigkeit etwas nach oben 
+
+MALUMA
+ACHTUNG--Dank Aldokyl ist die Bergehilfe wieder dran..also schnell hin bevor sie wieder ab ist</groundspeak:long_description>
+      <groundspeak:encoded_hints>Suche den Faden..vielleicht kannst Du damit was anfangen...</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="139192219">
+          <groundspeak:date>2010-12-25T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="438973">Aldokyl</groundspeak:finder>
+          <groundspeak:text encoded="False">Mit langen Armen kein Problem.
+Im Team gut gefunden.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="139061630">
+          <groundspeak:date>2010-12-23T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Write note</groundspeak:type>
+          <groundspeak:finder id="1380311">Maluma</groundspeak:finder>
+          <groundspeak:text encoded="False">Habe eben mal nach dem Cache geschaut.. Er ist definitiv noch da und machbar wenn man sich zum Bergen ein geeignetes Hilfsmittel mitbringt. Also lasst euch was einfallen. Setze daher die Schwierigkeit etwas nach oben MALUMA</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="138898306">
+          <groundspeak:date>2010-12-18T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Write note</groundspeak:type>
+          <groundspeak:finder id="3087275">Fla20m</groundspeak:finder>
+          <groundspeak:text encoded="False">die Schnur scheint gerissen zu sein... Der Behälter ist leicht ausfindig zu machen, jedoch ist das Bergen des Caches fast unmöglich! Bitte nachschauen...</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="138527760">
+          <groundspeak:date>2010-12-13T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2645299">2000wu6</groundspeak:finder>
+          <groundspeak:text encoded="False">Nach Nummer 5 war natürlich auch der hier noch dran ... nach dem Fund von Nummer 2 vor einiger Zeit hatte ich hier gleich eine Vermutung, doch nach erster Begutachtung der Umgebung war nur ein mögliches Versteck passender Größe zu sehen - was es aber (nach näherer Untersuchung)  nicht sein konnte ... also nochmal Koordinaten geprüft und wieder an den vermuteten Ort gegangen ... nach kurzem Umsehen konnte ich den Cache dann doch schon erblicken, und wenn er auch außer Reichweite erschien, war der Art des Zugriffs dann doch gleich gesehen ... 
+Die schöne große Dose hatte auch hier ein leeres Logbuch, FTF #2 am heutigen Tag!
+TFTC, NT, Garry</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="138525455">
+          <groundspeak:date>2010-12-13T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2729325">HubiFD</groundspeak:finder>
+          <groundspeak:text encoded="False">STF und ein erneuten Glückwunsch an Garry zum FTF!!! 
+Anfangs dachte ich mein Arm wäre zu kurz, aber dann sah ich die Hilfe ;-)
+Dose ist auch im Winter gut zu finden.
+
+TFTC und Gruß an den Owner.</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

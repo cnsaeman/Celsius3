@@ -1,0 +1,154 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>003567</id>
+  <cache-id>GC2FCNZ</cache-id>
+  <type>Traditional Cache</type>
+  <name>Freizeit Spielen 1 by Griesgor, Traditional Cache (1.5/1.5)</name>
+  <size>Small</size>
+  <difficulty>1.5</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-11-21</last-found>
+  <placed>2010-09-12</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Griesgor</placedby>
+  <found>Geocache</found>
+  <lat>50.55015</lat>
+  <lon>9.660283</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>Griesgor</owner>
+  <description>Dies ist mein 1. Cache.Also seid fair und sagt mir ob das alles so
+ok ist.Danke....
+<p>Parken kann man in der Nähe des Caches.Das Gebiet in dem der
+Cache liegt ist eingezäumt aber am Tag immer offen.Also keine
+Probleme.</p>
+<a href="http://www.gccounter.de/" target="_blank" title=
+"GCcounter"><img src=
+"http://www.gccounter.de/cgi-bin/counter.pl?ID=10974&Design=simple&vorn=255,255,255&hint=128,0,0"
+border="0" /></a></description>
+  <long-description><p>Das Bonifatius Haus liegt in der Nähe.Dahinter ein schöner
+Park.</p>
+<p>Außerdem ist noch eine schöne Wirtschaft nur einen Katzensprung
+entfernt.Ob ihr den Cache nun findet oder nicht ihr seid versorgt.
+Also viel Spaß beim suchen. Noch etwas die Strasse die vor dem
+Cache liegt sollte nur mit 30 KM befahren werden da ist auch ein
+Kindergarten.Je nach Tageszeit hohes bis garkeine Muggels.</p>
+<p>Gruß Griesgor<br />
+Inhalt:Logbuch, Bleistift, 2x Schlüsselanhänger, 1x Seestern und
+ein Seepferdchen</p>
+<a rel="nofollow" href=
+"http://www.opencaching.de/viewcache.php?cacheid=148164" target=
+"_blank"><font color="darkblue">opencaching.de</font></a> loggen.
+<p>&nbsp;</p></long-description>
+  <encoded-hints>Liegt auf Holz
+
+</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=62d8bc3a-0aff-4acc-b300-f2d95230bd6e</url>
+  <url-name>Freizeit Spielen 1</url-name>
+  <logs><ul><li>2010-12-11T20:00:00Z : Found it by TaDaRhön <br />Heute war das richtige Wetter um die Dose zu loggen!
+Im Sommer waren wir schon mal hier, da war es aber unmöglich, zuzugreifen!
+Danke für´s verstecken sagen, TaDaRhön</li><li>2010-12-09T20:00:00Z : Found it by Werder12 <br />Nach dem Seminar Lockerungsrunde gedreht und dabei auch diesen eingesammelt. Im Dunkeln war hier nix los [;)] TFTC</li><li>2010-12-06T20:00:00Z : Found it by Werderlino <br />Auf der Fuldarunde am Abend gut gefunden. TFTC vom Werderlino-Projekt</li><li>2010-11-25T20:00:00Z : Found it by yonex <br />Bei diesem kalten Wetter sind die kleinen Muggel lieber im Haus geblieben und so hatte ich freie Fahrt!
+
+TFTC</li><li>2010-11-21T20:00:00Z : Found it by michael01 <br />Heute haben wir eine kleine Cache-Runde am Sonntag-Nachmittag durch Fulda gedreht.
+
+Auch hier sind wir vorbeigekommen und haben den Cache fix entdeckt.
+
+Danke und viele Grüße
+Michael01
+#3208</li></ul></logs>
+  <original-xml>  <wpt  lat="50.55015" lon="9.660283">
+    <time>2010-09-12T07:00:00Z</time>
+    <name>GC2FCNZ</name>
+    <desc>Freizeit Spielen 1 by Griesgor, Traditional Cache (1.5/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=62d8bc3a-0aff-4acc-b300-f2d95230bd6e</url>
+    <urlname>Freizeit Spielen 1</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1895000" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Freizeit Spielen 1</groundspeak:name>
+      <groundspeak:placed_by>Griesgor</groundspeak:placed_by>
+      <groundspeak:owner id="3701621">Griesgor</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="True">Dies ist mein 1. Cache.Also seid fair und sagt mir ob das alles so
+ok ist.Danke....
+&lt;p&gt;Parken kann man in der Nähe des Caches.Das Gebiet in dem der
+Cache liegt ist eingezäumt aber am Tag immer offen.Also keine
+Probleme.&lt;/p&gt;
+&lt;a href="http://www.gccounter.de/" target="_blank" title=
+"GCcounter"&gt;&lt;img src=
+"http://www.gccounter.de/cgi-bin/counter.pl?ID=10974&amp;amp;Design=simple&amp;amp;vorn=255,255,255&amp;amp;hint=128,0,0"
+border="0" /&gt;&lt;/a&gt;</groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;p&gt;Das Bonifatius Haus liegt in der Nähe.Dahinter ein schöner
+Park.&lt;/p&gt;
+&lt;p&gt;Außerdem ist noch eine schöne Wirtschaft nur einen Katzensprung
+entfernt.Ob ihr den Cache nun findet oder nicht ihr seid versorgt.
+Also viel Spaß beim suchen. Noch etwas die Strasse die vor dem
+Cache liegt sollte nur mit 30 KM befahren werden da ist auch ein
+Kindergarten.Je nach Tageszeit hohes bis garkeine Muggels.&lt;/p&gt;
+&lt;p&gt;Gruß Griesgor&lt;br /&gt;
+Inhalt:Logbuch, Bleistift, 2x Schlüsselanhänger, 1x Seestern und
+ein Seepferdchen&lt;/p&gt;
+&lt;a rel="nofollow" href=
+"http://www.opencaching.de/viewcache.php?cacheid=148164" target=
+"_blank"&gt;&lt;font color="darkblue"&gt;opencaching.de&lt;/font&gt;&lt;/a&gt; loggen.
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>Liegt auf Holz
+
+</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="138336838">
+          <groundspeak:date>2010-12-11T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2946542">TaDaRhön</groundspeak:finder>
+          <groundspeak:text encoded="False">Heute war das richtige Wetter um die Dose zu loggen!
+Im Sommer waren wir schon mal hier, da war es aber unmöglich, zuzugreifen!
+Danke für´s verstecken sagen, TaDaRhön</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="138314005">
+          <groundspeak:date>2010-12-09T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2430465">Werder12</groundspeak:finder>
+          <groundspeak:text encoded="False">Nach dem Seminar Lockerungsrunde gedreht und dabei auch diesen eingesammelt. Im Dunkeln war hier nix los [;)] TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="138202579">
+          <groundspeak:date>2010-12-06T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1549890">Werderlino</groundspeak:finder>
+          <groundspeak:text encoded="False">Auf der Fuldarunde am Abend gut gefunden. TFTC vom Werderlino-Projekt</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="137100555">
+          <groundspeak:date>2010-11-25T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1942538">yonex</groundspeak:finder>
+          <groundspeak:text encoded="False">Bei diesem kalten Wetter sind die kleinen Muggel lieber im Haus geblieben und so hatte ich freie Fahrt!
+
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="136682294">
+          <groundspeak:date>2010-11-21T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1225681">michael01</groundspeak:finder>
+          <groundspeak:text encoded="False">Heute haben wir eine kleine Cache-Runde am Sonntag-Nachmittag durch Fulda gedreht.
+
+Auch hier sind wir vorbeigekommen und haben den Cache fix entdeckt.
+
+Danke und viele Grüße
+Michael01
+#3208</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs>
+        <groundspeak:travelbug id="2802271" ref="TB3EVRR">
+          <groundspeak:name>Feuerwehrkelle</groundspeak:name>
+        </groundspeak:travelbug>
+      </groundspeak:travelbugs>
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

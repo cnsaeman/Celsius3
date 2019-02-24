@@ -1,0 +1,120 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>006907</id>
+  <cache-id>GC20VM8</cache-id>
+  <type>Traditional Cache</type>
+  <name>The Loneliest Litter Basket in the World by Hezekiah, Traditional Cache (1/1)</name>
+  <size>Small</size>
+  <difficulty>1</difficulty>
+  <terrain>1</terrain>
+  <last-found>2009-11-14</last-found>
+  <placed>2009-11-09</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>Hezekiah</placedby>
+  <found>Geocache Found</found>
+  <lat>53.337583</lat>
+  <lon>-6.261933</lon>
+  <last-logs>FFFFXF</last-logs>
+  <owner>Hezekiah</owner>
+  <description><p align="center"><a target="_blank"
+href="http://www.geocachingireland.com/index.html"><img border="0"
+src="http://img.geocaching.com/cache/2280ab19-c5fc-4d33-8efb-797df9c0ac8c.jpg"
+     width="150" height="43" align="middle" /></a></p>
+<hr size="2" />
+<center><font color="Green">Visit the <b>new</b> Geocaching Ireland
+discussion forum <a href="http://www.mccartan.org/forums/"
+target="_blank">HERE</a></font></center>
+<hr size="2" /></description>
+  <long-description><p>Heavy muggle presence in the area, so try to decide on your
+course of action in advance!</p>
+<p>The proximity of trees and buildings may lead to poor satellite
+reception, so you should wander up and down the pavement observing
+the environment!</p></long-description>
+  <encoded-hints>Where's ya bin?</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=c6964aff-fce1-4276-979a-74b69c47ef5e</url>
+  <url-name>The Loneliest Litter Basket in the World</url-name>
+  <logs><ul><li>2010-06-16T19:00:00Z : Found it by momentforus <br />Wow that is one lonely litter can.  We were looking for it and took a while to spot the basket.  The cach came pretty quickly after that.  SL TFTH</li><li>2010-06-15T19:00:00Z : Found it by sina1507 <br />Found together with scheff on our second day in Dublin.
+TFTC sina1507 from germany</li><li>2010-06-15T19:00:00Z : Found it by scheff <br />Found together with sina1507 on our second day in Dublin.
+TFTC scheff from germany</li><li>2010-06-14T19:44:46Z : Found it by bajones <br />Found it, had a garda car stop and the lads looking at me while fishing it out.</li><li>2010-06-12T19:00:00Z : Didn't find it by zo0g <br />We had a few problems with this one.  there were SO many people around that it made it difficult to search.  Also, the GPS was having a hard time getting signals.  Anyhow, besides all the excuses, we missed it. 
+The park was beautiful though!  thanks.</li><li>2009-11-14T20:00:00Z : Found it by Kersti.com <br />Found in the the hands of other cachers. Nice and easy!</li></ul></logs>
+  <original-xml>  <wpt  lat="53.337583" lon="-6.261933">
+    <time>2009-11-09T08:00:00Z</time>
+    <name>GC20VM8</name>
+    <desc>The Loneliest Litter Basket in the World by Hezekiah, Traditional Cache (1/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=c6964aff-fce1-4276-979a-74b69c47ef5e</url>
+    <urlname>The Loneliest Litter Basket in the World</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1461536" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>The Loneliest Litter Basket in the World</groundspeak:name>
+      <groundspeak:placed_by>Hezekiah</groundspeak:placed_by>
+      <groundspeak:owner id="274644">Hezekiah</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>Dublin</groundspeak:state>
+      <groundspeak:short_description html="True">&lt;p align="center"&gt;&lt;a target="_blank"
+href="http://www.geocachingireland.com/index.html"&gt;&lt;img border="0"
+src="http://img.geocaching.com/cache/2280ab19-c5fc-4d33-8efb-797df9c0ac8c.jpg"
+     width="150" height="43" align="middle" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;hr size="2" /&gt;
+&lt;center&gt;&lt;font color="Green"&gt;Visit the &lt;b&gt;new&lt;/b&gt; Geocaching Ireland
+discussion forum &lt;a href="http://www.mccartan.org/forums/"
+target="_blank"&gt;HERE&lt;/a&gt;&lt;/font&gt;&lt;/center&gt;
+&lt;hr size="2" /&gt;</groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;p&gt;Heavy muggle presence in the area, so try to decide on your
+course of action in advance!&lt;/p&gt;
+&lt;p&gt;The proximity of trees and buildings may lead to poor satellite
+reception, so you should wander up and down the pavement observing
+the environment!&lt;/p&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>Where's ya bin?</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="113191105">
+          <groundspeak:date>2010-06-16T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="299677">momentforus</groundspeak:finder>
+          <groundspeak:text encoded="False">Wow that is one lonely litter can.  We were looking for it and took a while to spot the basket.  The cach came pretty quickly after that.  SL TFTH</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="113015336">
+          <groundspeak:date>2010-06-15T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2183349">sina1507</groundspeak:finder>
+          <groundspeak:text encoded="False">Found together with scheff on our second day in Dublin.
+TFTC sina1507 from germany</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="113012847">
+          <groundspeak:date>2010-06-15T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="374472">scheff</groundspeak:finder>
+          <groundspeak:text encoded="False">Found together with sina1507 on our second day in Dublin.
+TFTC scheff from germany</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="112910733">
+          <groundspeak:date>2010-06-14T19:44:46Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="463982">bajones</groundspeak:finder>
+          <groundspeak:text encoded="False">Found it, had a garda car stop and the lads looking at me while fishing it out.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="112826473">
+          <groundspeak:date>2010-06-12T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Didn't find it</groundspeak:type>
+          <groundspeak:finder id="780244">zo0g</groundspeak:finder>
+          <groundspeak:text encoded="False">We had a few problems with this one.  there were SO many people around that it made it difficult to search.  Also, the GPS was having a hard time getting signals.  Anyhow, besides all the excuses, we missed it. 
+The park was beautiful though!  thanks.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="90367663">
+          <groundspeak:date>2009-11-14T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="320206">Kersti.com</groundspeak:finder>
+          <groundspeak:text encoded="False">Found in the the hands of other cachers. Nice and easy!</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

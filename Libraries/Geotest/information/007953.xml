@@ -1,0 +1,114 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>007953</id>
+  <cache-id>GCYXMD</cache-id>
+  <type>Traditional Cache</type>
+  <name>Park in Künzell by shaktimaan, Traditional Cache (2/1)</name>
+  <size>Micro</size>
+  <difficulty>2</difficulty>
+  <terrain>1</terrain>
+  <last-found>2010-10-21</last-found>
+  <placed>2006-10-16</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>shaktimaan</placedby>
+  <found>Geocache</found>
+  <lat>50.544417</lat>
+  <lon>9.7142</lon>
+  <last-logs>XFFFX</last-logs>
+  <owner>shaktimaan</owner>
+  <description>
+      </description>
+  <long-description><div style="background-color:#eeeeee;padding:10px">
+<img src="http://dict.leo.org/de.gif" />&nbsp;Ein kleiner Drive In
+Micro an einem Ort meiner Jugend...just a micro</div>
+<br />
+<br />
+ 
+<div style="background-color:#eeeeee;padding:10px">
+<img src="http://dict.leo.org/en.gif" />&nbsp;A small little
+driv-in cache at a historic place(for me)...just a micro</div></long-description>
+  <encoded-hints>Mauer unter Moos</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=2c79bebb-a07e-4b2f-aa66-132a12004cc2</url>
+  <url-name>Park in Künzell</url-name>
+  <logs><ul><li>2010-11-14T20:00:00Z : Didn't find it by s186003 <br />Trotz langer Suche nix gefunden. Die Koordinaten sollten mal überprüft werden.</li><li>2010-10-24T19:00:00Z : Found it by Griesgor <br />Nachdem ich ja das letzte mal schrieb bitte nachschauen,was  auch geschehen ist.Heute sehr schnell gefunden denn es konnte nur dort sein.Vielen Dank für den Cache und das schnelle wieder in Ordnung bringen. Gruß Griesgor</li><li>2010-10-21T19:00:00Z : Found it by darkrei <br />Zusammen mit Bosi1964 diese Dose gehoben.
+... und wer hats gefunden
+Darkrei
+Danke</li><li>2010-10-21T19:00:00Z : Found it by Bosi1964 <br />Auf Family-Cruise in Fulda diesmal Muggelfrei suchen können und in ca. 23 Meter Entfernung von den Koords endlich fündig geworden.Ein schönes Versteck. Eigentlich kam ja auch nur diese Mauer in Frage.
+TFTC
+Bosi
+# 1640</li><li>2010-10-21T19:00:00Z : Didn't find it by fezi <br />Wir haben lange gesucht. Die Koords waren mitten auf einer Wiese, mit dem Hint konnten wir weiter suchen, haben aber nix gefunden.</li></ul></logs>
+  <original-xml>  <wpt  lat="50.544417" lon="9.7142">
+    <time>2006-10-16T07:00:00Z</time>
+    <name>GCYXMD</name>
+    <desc>Park in Künzell by shaktimaan, Traditional Cache (2/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=2c79bebb-a07e-4b2f-aa66-132a12004cc2</url>
+    <urlname>Park in Künzell</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="480360" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Park in Künzell</groundspeak:name>
+      <groundspeak:placed_by>shaktimaan</groundspeak:placed_by>
+      <groundspeak:owner id="700750">shaktimaan</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>2</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="True">
+      </groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;div style="background-color:#eeeeee;padding:10px"&gt;
+&lt;img src="http://dict.leo.org/de.gif" /&gt;&amp;nbsp;Ein kleiner Drive In
+Micro an einem Ort meiner Jugend...just a micro&lt;/div&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+ 
+&lt;div style="background-color:#eeeeee;padding:10px"&gt;
+&lt;img src="http://dict.leo.org/en.gif" /&gt;&amp;nbsp;A small little
+driv-in cache at a historic place(for me)...just a micro&lt;/div&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>Mauer unter Moos</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="136074835">
+          <groundspeak:date>2010-11-14T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Didn't find it</groundspeak:type>
+          <groundspeak:finder id="2819456">s186003</groundspeak:finder>
+          <groundspeak:text encoded="False">Trotz langer Suche nix gefunden. Die Koordinaten sollten mal überprüft werden.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="132854217">
+          <groundspeak:date>2010-10-24T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3701621">Griesgor</groundspeak:finder>
+          <groundspeak:text encoded="False">Nachdem ich ja das letzte mal schrieb bitte nachschauen,was  auch geschehen ist.Heute sehr schnell gefunden denn es konnte nur dort sein.Vielen Dank für den Cache und das schnelle wieder in Ordnung bringen. Gruß Griesgor</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="137426961">
+          <groundspeak:date>2010-10-21T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2420676">darkrei</groundspeak:finder>
+          <groundspeak:text encoded="False">Zusammen mit Bosi1964 diese Dose gehoben.
+... und wer hats gefunden
+Darkrei
+Danke</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="132450238">
+          <groundspeak:date>2010-10-21T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2308415">Bosi1964</groundspeak:finder>
+          <groundspeak:text encoded="False">Auf Family-Cruise in Fulda diesmal Muggelfrei suchen können und in ca. 23 Meter Entfernung von den Koords endlich fündig geworden.Ein schönes Versteck. Eigentlich kam ja auch nur diese Mauer in Frage.
+TFTC
+Bosi
+# 1640</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="132424346">
+          <groundspeak:date>2010-10-21T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Didn't find it</groundspeak:type>
+          <groundspeak:finder id="2007251">fezi</groundspeak:finder>
+          <groundspeak:text encoded="False">Wir haben lange gesucht. Die Koords waren mitten auf einer Wiese, mit dem Hint konnten wir weiter suchen, haben aber nix gefunden.</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

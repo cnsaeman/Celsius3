@@ -1,0 +1,108 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>008625</id>
+  <cache-id>GC1E8PX</cache-id>
+  <type>Multi-cache</type>
+  <name>Cricket-Castle by Ubx, Multi-cache (1/1.5)</name>
+  <size>Small</size>
+  <difficulty>1</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-11-01</last-found>
+  <placed>2008-07-16</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Ubx</placedby>
+  <found>Geocache</found>
+  <lat>50.5733</lat>
+  <lon>9.700783</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>ubx</owner>
+  <description>schneller kleiner Multi , hier spielte ich als kleiner Junge</description>
+  <long-description>zieht vom N-Wert 50.34. //398-2 // ab
+zieht vom E-Wert 09.4 //2.047-124 // ab
+da ist der Final versteckt.
+Macht euch mal Gedanken beim E-Wert !!!
+
+Additional Waypoints
+</long-description>
+  <encoded-hints>in den Wurzeln einer alten Buchenhecke</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=91d76dbb-0920-408e-91dc-e117acd02953</url>
+  <url-name>Cricket-Castle</url-name>
+  <logs><ul><li>2010-11-27T20:00:00Z : Found it by Griesgor <br />Da die Sonne heute etwas rauskam sind wir mal los um wieder mal ein wenig in Bewegung zu kommen.
+Den Cache haben wir sehr schnell gefunden und  geloggt. 	[:)]  Das Logbuch ist aber total durchnässt und  die Dose ist auch nicht mehr die Beste. 	[:P]  Könnte mal getauscht werden.
+Gruß Griesgor mit Enkel</li><li>2010-11-13T20:00:00Z : Found it by s186003 <br />Schnell gefunden.
+TFTC</li><li>2010-11-11T20:00:00Z : Found it by Svegar <br />Sehr gut getarnt, habs zweimal übersehen.
+
+TFTC</li><li>2010-11-07T20:00:00Z : Found it by Ivy69 <br />Heut `ne kleine Tour gemacht. Der Kleine war auch schnell gefunden, hatte sich etwas entblößt.Hab ihn nach dem loggen wieder gut getarnt.TFTC</li><li>2010-11-01T19:00:00Z : Found it by DieMoosis <br />Die Kids auf dem Spielplatz gelassen und flott in Richtung Final abgezogen. Die Dose konnte sich auch nicht lange verstecken.
+TFTC</li></ul></logs>
+  <original-xml>  <wpt  lat="50.5733" lon="9.700783">
+    <time>2008-07-16T07:00:00Z</time>
+    <name>GC1E8PX</name>
+    <desc>Cricket-Castle by Ubx, Multi-cache (1/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=91d76dbb-0920-408e-91dc-e117acd02953</url>
+    <urlname>Cricket-Castle</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Multi-cache</type>
+    <groundspeak:cache id="937873" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Cricket-Castle</groundspeak:name>
+      <groundspeak:placed_by>Ubx</groundspeak:placed_by>
+      <groundspeak:owner id="787613">ubx</groundspeak:owner>
+      <groundspeak:type>Multi-cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">schneller kleiner Multi , hier spielte ich als kleiner Junge</groundspeak:short_description>
+      <groundspeak:long_description html="False">zieht vom N-Wert 50.34. //398-2 // ab
+zieht vom E-Wert 09.4 //2.047-124 // ab
+da ist der Final versteckt.
+Macht euch mal Gedanken beim E-Wert !!!
+
+Additional Waypoints
+</groundspeak:long_description>
+      <groundspeak:encoded_hints>in den Wurzeln einer alten Buchenhecke</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="137228548">
+          <groundspeak:date>2010-11-27T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3701621">Griesgor</groundspeak:finder>
+          <groundspeak:text encoded="False">Da die Sonne heute etwas rauskam sind wir mal los um wieder mal ein wenig in Bewegung zu kommen.
+Den Cache haben wir sehr schnell gefunden und  geloggt. 	[:)]  Das Logbuch ist aber total durchnässt und  die Dose ist auch nicht mehr die Beste. 	[:P]  Könnte mal getauscht werden.
+Gruß Griesgor mit Enkel</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="136074571">
+          <groundspeak:date>2010-11-13T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2819456">s186003</groundspeak:finder>
+          <groundspeak:text encoded="False">Schnell gefunden.
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="135366892">
+          <groundspeak:date>2010-11-11T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3056833">Svegar</groundspeak:finder>
+          <groundspeak:text encoded="False">Sehr gut getarnt, habs zweimal übersehen.
+
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="134895250">
+          <groundspeak:date>2010-11-07T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3091672">Ivy69</groundspeak:finder>
+          <groundspeak:text encoded="False">Heut `ne kleine Tour gemacht. Der Kleine war auch schnell gefunden, hatte sich etwas entblößt.Hab ihn nach dem loggen wieder gut getarnt.TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="134118008">
+          <groundspeak:date>2010-11-01T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2184097">DieMoosis</groundspeak:finder>
+          <groundspeak:text encoded="False">Die Kids auf dem Spielplatz gelassen und flott in Richtung Final abgezogen. Die Dose konnte sich auch nicht lange verstecken.
+TFTC</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

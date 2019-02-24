@@ -1,0 +1,158 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>005403</id>
+  <cache-id>GC1KGB2</cache-id>
+  <type>Traditional Cache</type>
+  <name>Sidetracked - Booterstown DART by Hezekiah, Traditional Cache (1/1)</name>
+  <size>Micro</size>
+  <difficulty>1</difficulty>
+  <terrain>1</terrain>
+  <last-found>2009-07-26</last-found>
+  <placed>2009-01-05</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>Hezekiah</placedby>
+  <found>Geocache Found</found>
+  <lat>53.309433</lat>
+  <lon>-6.196233</lon>
+  <last-logs>FFFFFF</last-logs>
+  <owner>Hezekiah</owner>
+  <description><marquee behavior="scroll"
+direction="right"><img src="http://img.geocaching.com/cache/fa167cb3-b9f5-4447-9565-b10c1c03826f.jpg" />
+</marquee></description>
+  <long-description><p align="center"><a target="_blank"
+href="http://www.geocachingireland.com/index.html"><img border="0"
+src="http://img.geocaching.com/cache/2280ab19-c5fc-4d33-8efb-797df9c0ac8c.jpg"
+     width="150" height="43" align="middle" /></a></p>
+<hr size="2" />
+<center><font color="Green">Visit the <b>new</b> Geocaching Ireland
+discussion forum <a href="http://www.mccartan.org/forums/"
+target="_blank">HERE</a></font></center>
+<hr size="2" />
+<p>The DART (Dublin Area Rapid Transit) is the rail line running
+along the coast of Dublin, from Malahide and Howth southwards as
+far as Greystones, Co Wicklow.</p>
+<p>Side-Tracked Caches are intended to provide quick
+cache-and-dashes at train stations.</p>
+<p>The Cache is a small micro container - please re-hide it well to
+ensure that the commuting muggles don’t discover it.</p>
+<p><b>Bring a pen / pencil, as the cache may be too small to hold
+one!</b></p>
+This cache is placed outside the station, so access does not
+necessarily involve fares, tickets, etc.<br />
+<br /></long-description>
+  <encoded-hints>Frame</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=6cf8fd70-a1c7-4253-a0d8-9d23607e7f4d</url>
+  <url-name>Sidetracked - Booterstown DART</url-name>
+  <logs><ul><li>2010-06-10T19:00:00Z : Found it by Mie G <br />Visit from Denmark</li><li>2010-05-22T19:00:00Z : Found it by GudrunXY <br />[:D] The first one of this series I actually found. After 3 DNFs I was ready to give up. The series is a really good idea but I think it needs to be maintained a bit better. This one was found fast enough - I could see it from metres away.
+
+TFTC, GudrunXY</li><li>2010-05-08T19:00:00Z : Found it by Die X-Mens <br />A cache close to the hotel!
+Found it after a strong investigation of the coppice!
+
+Thanks for showing this location
+Die X-Mens</li><li>2010-05-07T19:00:00Z : Found it by geomader <br />Not so easy with less experience,
+found it after a while together with teamgecko1 and Die X-Mens. [8D]
+
+TFTC Geomader</li><li>2010-04-10T19:00:00Z : Found it by waldtchias <br />Found on the way home after a day out..</li><li>2009-07-26T19:13:26Z : Needs Maintenance by Kersti.com <br />Lid missing, baggy torn and log damp.</li><li>2009-07-26T19:00:00Z : Found it by Kersti.com <br />A quick an easy find on a Sunday afternoon. Cache in need of repair though.</li></ul></logs>
+  <original-xml>  <wpt  lat="53.309433" lon="-6.196233">
+    <time>2009-01-05T08:00:00Z</time>
+    <name>GC1KGB2</name>
+    <desc>Sidetracked - Booterstown DART by Hezekiah, Traditional Cache (1/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=6cf8fd70-a1c7-4253-a0d8-9d23607e7f4d</url>
+    <urlname>Sidetracked - Booterstown DART</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1094149" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Sidetracked - Booterstown DART</groundspeak:name>
+      <groundspeak:placed_by>Hezekiah</groundspeak:placed_by>
+      <groundspeak:owner id="274644">Hezekiah</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>Dublin</groundspeak:state>
+      <groundspeak:short_description html="True">&lt;marquee behavior="scroll"
+direction="right"&gt;&lt;img src="http://img.geocaching.com/cache/fa167cb3-b9f5-4447-9565-b10c1c03826f.jpg" /&gt;
+&lt;/marquee&gt;</groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;p align="center"&gt;&lt;a target="_blank"
+href="http://www.geocachingireland.com/index.html"&gt;&lt;img border="0"
+src="http://img.geocaching.com/cache/2280ab19-c5fc-4d33-8efb-797df9c0ac8c.jpg"
+     width="150" height="43" align="middle" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;hr size="2" /&gt;
+&lt;center&gt;&lt;font color="Green"&gt;Visit the &lt;b&gt;new&lt;/b&gt; Geocaching Ireland
+discussion forum &lt;a href="http://www.mccartan.org/forums/"
+target="_blank"&gt;HERE&lt;/a&gt;&lt;/font&gt;&lt;/center&gt;
+&lt;hr size="2" /&gt;
+&lt;p&gt;The DART (Dublin Area Rapid Transit) is the rail line running
+along the coast of Dublin, from Malahide and Howth southwards as
+far as Greystones, Co Wicklow.&lt;/p&gt;
+&lt;p&gt;Side-Tracked Caches are intended to provide quick
+cache-and-dashes at train stations.&lt;/p&gt;
+&lt;p&gt;The Cache is a small micro container - please re-hide it well to
+ensure that the commuting muggles don’t discover it.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Bring a pen / pencil, as the cache may be too small to hold
+one!&lt;/b&gt;&lt;/p&gt;
+This cache is placed outside the station, so access does not
+necessarily involve fares, tickets, etc.&lt;br /&gt;
+&lt;br /&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>Frame</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="112832391">
+          <groundspeak:date>2010-06-10T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1469869">Mie G</groundspeak:finder>
+          <groundspeak:text encoded="False">Visit from Denmark</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="109475641">
+          <groundspeak:date>2010-05-22T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2694097">GudrunXY</groundspeak:finder>
+          <groundspeak:text encoded="False">[:D] The first one of this series I actually found. After 3 DNFs I was ready to give up. The series is a really good idea but I think it needs to be maintained a bit better. This one was found fast enough - I could see it from metres away.
+
+TFTC, GudrunXY</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="108427870">
+          <groundspeak:date>2010-05-08T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3239374">Die X-Mens</groundspeak:finder>
+          <groundspeak:text encoded="False">A cache close to the hotel!
+Found it after a strong investigation of the coppice!
+
+Thanks for showing this location
+Die X-Mens</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="108424014">
+          <groundspeak:date>2010-05-07T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3239298">geomader</groundspeak:finder>
+          <groundspeak:text encoded="False">Not so easy with less experience,
+found it after a while together with teamgecko1 and Die X-Mens. [8D]
+
+TFTC Geomader</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="110498797">
+          <groundspeak:date>2010-04-10T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1408305">waldtchias</groundspeak:finder>
+          <groundspeak:text encoded="False">Found on the way home after a day out..</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="78449466">
+          <groundspeak:date>2009-07-26T19:13:26Z</groundspeak:date>
+          <groundspeak:type>Needs Maintenance</groundspeak:type>
+          <groundspeak:finder id="320206">Kersti.com</groundspeak:finder>
+          <groundspeak:text encoded="False">Lid missing, baggy torn and log damp.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="78448832">
+          <groundspeak:date>2009-07-26T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="320206">Kersti.com</groundspeak:finder>
+          <groundspeak:text encoded="False">A quick an easy find on a Sunday afternoon. Cache in need of repair though.</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

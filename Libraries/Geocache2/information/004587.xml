@@ -1,0 +1,130 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>004587</id>
+  <cache-id>GC1FPAF</cache-id>
+  <type>Traditional Cache</type>
+  <name>Sidetracked - Skerries by Windsockers, Traditional Cache (1/1.5)</name>
+  <size>Micro</size>
+  <difficulty>1</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-05-25</last-found>
+  <placed>2008-10-25</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>Windsockers</placedby>
+  <found>Geocache</found>
+  <lat>53.57475</lat>
+  <lon>-6.118717</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>Windsockers</owner>
+  <description><marquee behavior="scroll"
+direction="right"><img src="http://img.geocaching.com/cache/fa167cb3-b9f5-4447-9565-b10c1c03826f.jpg" />
+</marquee></description>
+  <long-description><center>
+<p><b>Skerries railway station is located on the main
+Dublin-Belfast Railway line.</b></p></center>
+<p>The station was opened in 1844. The Great Northern Railway later
+added a number of other buildings to the original station following
+its takeover in 1876, these included the GNR signal cabin canopies,
+brick built goods shed complete with engineers siding and loop
+Skerries also has a subway, one of few at Irish stations.</p>
+<p><b>The Cache</b></p>
+<p>Side-Tracked Caches are intended to provide quick
+Cache-and-dashes at Train Stations.</p>
+<p>The Cache is a small micro container please rehide it well to
+prevent the many muggles from discovering it.</p>
+<center>
+<img src="http://www.northbeach.ie/gallery/albums/userpics/10001/windsock-anim-small.gif" />
+<br />
+<b>The Windsockers</b></center></long-description>
+  <encoded-hints>Light</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=4536d581-df78-4f95-9b52-5fef331a7787</url>
+  <url-name>Sidetracked - Skerries</url-name>
+  <logs><ul><li>2010-06-13T19:00:00Z : Found it by Toffee Man <br />Nice easy find before we met up with Navajo & Navajo Jun.
+TFTC
+Toffee Man
+#364</li><li>2010-06-13T19:00:00Z : Found it by Blue Jay 59 <br />Nice easy find - wouldn't even need the GPS just follow the clue 
+TFTC
+#362</li><li>2010-06-05T19:00:00Z : Found it by thomasvm <br />Quick find early in the morning. TFTC.</li><li>2010-05-31T19:00:00Z : Found it by Solerina <br />This was my first cache. Got the device for my birthday from the best sister ever! TFTC!</li><li>2010-05-25T19:00:00Z : Found it by Trip52 <br />TFTC [:)]</li></ul></logs>
+  <original-xml>  <wpt  lat="53.57475" lon="-6.118717">
+    <time>2008-10-25T07:00:00Z</time>
+    <name>GC1FPAF</name>
+    <desc>Sidetracked - Skerries by Windsockers, Traditional Cache (1/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=4536d581-df78-4f95-9b52-5fef331a7787</url>
+    <urlname>Sidetracked - Skerries</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="980733" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Sidetracked - Skerries</groundspeak:name>
+      <groundspeak:placed_by>Windsockers</groundspeak:placed_by>
+      <groundspeak:owner id="271623">Windsockers</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>Leinster</groundspeak:state>
+      <groundspeak:short_description html="True">&lt;marquee behavior="scroll"
+direction="right"&gt;&lt;img src="http://img.geocaching.com/cache/fa167cb3-b9f5-4447-9565-b10c1c03826f.jpg" /&gt;
+&lt;/marquee&gt;</groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;center&gt;
+&lt;p&gt;&lt;b&gt;Skerries railway station is located on the main
+Dublin-Belfast Railway line.&lt;/b&gt;&lt;/p&gt;&lt;/center&gt;
+&lt;p&gt;The station was opened in 1844. The Great Northern Railway later
+added a number of other buildings to the original station following
+its takeover in 1876, these included the GNR signal cabin canopies,
+brick built goods shed complete with engineers siding and loop
+Skerries also has a subway, one of few at Irish stations.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;The Cache&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Side-Tracked Caches are intended to provide quick
+Cache-and-dashes at Train Stations.&lt;/p&gt;
+&lt;p&gt;The Cache is a small micro container please rehide it well to
+prevent the many muggles from discovering it.&lt;/p&gt;
+&lt;center&gt;
+&lt;img src="http://www.northbeach.ie/gallery/albums/userpics/10001/windsock-anim-small.gif" /&gt;
+&lt;br /&gt;
+&lt;b&gt;The Windsockers&lt;/b&gt;&lt;/center&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>Light</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="113035137">
+          <groundspeak:date>2010-06-13T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2826452">Toffee Man</groundspeak:finder>
+          <groundspeak:text encoded="False">Nice easy find before we met up with Navajo &amp; Navajo Jun.
+TFTC
+Toffee Man
+#364</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="113001406">
+          <groundspeak:date>2010-06-13T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2709154">Blue Jay 59</groundspeak:finder>
+          <groundspeak:text encoded="False">Nice easy find - wouldn't even need the GPS just follow the clue 
+TFTC
+#362</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="111609593">
+          <groundspeak:date>2010-06-05T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2849183">thomasvm</groundspeak:finder>
+          <groundspeak:text encoded="False">Quick find early in the morning. TFTC.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="110942220">
+          <groundspeak:date>2010-05-31T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3267444">Solerina</groundspeak:finder>
+          <groundspeak:text encoded="False">This was my first cache. Got the device for my birthday from the best sister ever! TFTC!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="110082437">
+          <groundspeak:date>2010-05-25T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3067458">Trip52</groundspeak:finder>
+          <groundspeak:text encoded="False">TFTC [:)]</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

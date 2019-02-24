@@ -1,0 +1,123 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>007059</id>
+  <cache-id>GCGCEP</cache-id>
+  <type>Traditional Cache</type>
+  <name>The Throne by K1, Traditional Cache (1/3)</name>
+  <size>Regular</size>
+  <difficulty>1</difficulty>
+  <terrain>3</terrain>
+  <last-found>2010-03-13</last-found>
+  <placed>2003-06-29</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>K1</placedby>
+  <found>Geocache</found>
+  <lat>53.201333</lat>
+  <lon>-6.239267</lon>
+  <last-logs>FFFF</last-logs>
+  <owner>K1</owner>
+  <description>There are various options for routes to this cache, so I'll leave that to the finders. </description>
+  <long-description>Brown/orange Tupperware container with clear lid.  It is hidden in a small pile of rocks, but should be very easy to find.  See photos attached. 
+<p>
+Contents:
+<ul>
+	<li>Notebook</li>
+	<li>Pen</li>
+	<li>online.ie coaster</li>
+	<li>Proud to be Irish bumber sticker</li>
+	<li>Irish Abroad keyring</li>
+</ul>
+People doing Day 1 of the Wicklow Way could find this cache and <a href="http://www.geocaching.com/seek/cache_details.aspx?ID=73676">2 Stone Lighter</a> with slight [relative to the lenght of the day's route!] detours.  
+</long-description>
+  <encoded-hints>It's about ninety metres South of Prince William's Seat.</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=110073f6-8054-4303-a36f-d4ae1faffaa2</url>
+  <url-name>The Throne</url-name>
+  <logs><ul><li>2010-05-22T19:00:00Z : Found it by Laura374 <br />Found with pplsgod, great day for it too. TFTC!</li><li>2010-05-22T19:00:00Z : Found it by pplsgod <br />Found this today with Laura374 while out hiking on a beautiful sunny day
+
+Didn't have the GPS as we were not planning on Geocaching today but took a chance on a suspicious looking pile of rocks and luckily it was there.
+
+Just signed the log.
+
+TFTC</li><li>2010-04-25T19:00:00Z : Found it by kaputing <br />Pile of rocks in now a collection of slabs. We found more of the contents of the cache and put them in. Signed sheet. Cache safe but could really do with a spruce up. Fantastic location with a lovely view of my old house.
+Thanks for it. 
+</li><li>2010-03-14T22:15:58Z : Needs Maintenance by Spark_ie <br />Cache has been muggled, and nothing is left in the cache..  I have re-hidden the cache in the original location, but will need a new logbook etc....</li><li>2010-03-13T20:00:00Z : Found it by Spark_ie <br />Found this cache easily, too easily, the box was lying opened among the rocks at gz... Unfortunately there was nothing left only a rusty coin and a stone.. I left a piece of paper with my name on it...  Lovely area for a cache though, thanks for bringing me up here !!  Spark_ie</li></ul></logs>
+  <original-xml>  <wpt  lat="53.201333" lon="-6.239267">
+    <time>2003-06-29T07:00:00Z</time>
+    <name>GCGCEP</name>
+    <desc>The Throne by K1, Traditional Cache (1/3)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=110073f6-8054-4303-a36f-d4ae1faffaa2</url>
+    <urlname>The Throne</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="77524" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>The Throne</groundspeak:name>
+      <groundspeak:placed_by>K1</groundspeak:placed_by>
+      <groundspeak:owner id="116543">K1</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Regular</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>3</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>
+      </groundspeak:state>
+      <groundspeak:short_description html="True">There are various options for routes to this cache, so I'll leave that to the finders. </groundspeak:short_description>
+      <groundspeak:long_description html="True">Brown/orange Tupperware container with clear lid.  It is hidden in a small pile of rocks, but should be very easy to find.  See photos attached. 
+&lt;p&gt;
+Contents:
+&lt;ul&gt;
+	&lt;li&gt;Notebook&lt;/li&gt;
+	&lt;li&gt;Pen&lt;/li&gt;
+	&lt;li&gt;online.ie coaster&lt;/li&gt;
+	&lt;li&gt;Proud to be Irish bumber sticker&lt;/li&gt;
+	&lt;li&gt;Irish Abroad keyring&lt;/li&gt;
+&lt;/ul&gt;
+People doing Day 1 of the Wicklow Way could find this cache and &lt;a href="http://www.geocaching.com/seek/cache_details.aspx?ID=73676"&gt;2 Stone Lighter&lt;/a&gt; with slight [relative to the lenght of the day's route!] detours.  
+</groundspeak:long_description>
+      <groundspeak:encoded_hints>It's about ninety metres South of Prince William's Seat.</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="109494826">
+          <groundspeak:date>2010-05-22T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2677878">Laura374</groundspeak:finder>
+          <groundspeak:text encoded="False">Found with pplsgod, great day for it too. TFTC!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="109493563">
+          <groundspeak:date>2010-05-22T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2600769">pplsgod</groundspeak:finder>
+          <groundspeak:text encoded="False">Found this today with Laura374 while out hiking on a beautiful sunny day
+
+Didn't have the GPS as we were not planning on Geocaching today but took a chance on a suspicious looking pile of rocks and luckily it was there.
+
+Just signed the log.
+
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="105738948">
+          <groundspeak:date>2010-04-25T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="991137">kaputing</groundspeak:finder>
+          <groundspeak:text encoded="False">Pile of rocks in now a collection of slabs. We found more of the contents of the cache and put them in. Signed sheet. Cache safe but could really do with a spruce up. Fantastic location with a lovely view of my old house.
+Thanks for it. 
+</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="99786887">
+          <groundspeak:date>2010-03-14T22:15:58Z</groundspeak:date>
+          <groundspeak:type>Needs Maintenance</groundspeak:type>
+          <groundspeak:finder id="950104">Spark_ie</groundspeak:finder>
+          <groundspeak:text encoded="False">Cache has been muggled, and nothing is left in the cache..  I have re-hidden the cache in the original location, but will need a new logbook etc....</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="99786736">
+          <groundspeak:date>2010-03-13T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="950104">Spark_ie</groundspeak:finder>
+          <groundspeak:text encoded="False">Found this cache easily, too easily, the box was lying opened among the rocks at gz... Unfortunately there was nothing left only a rusty coin and a stone.. I left a piece of paper with my name on it...  Lovely area for a cache though, thanks for bringing me up here !!  Spark_ie</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

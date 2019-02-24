@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>006455</id>
+  <cache-id>LB1R1J2</cache-id>
+  <type>Waypoint</type>
+  <name>Library</name>
+  <placed>2009-05-27</placed>
+  <lat>53.357217</lat>
+  <lon>-6.246083</lon>
+  <attributes>hidden</attributes>
+  <description></description>
+  <url>http://www.geocaching.com/seek/wpt.aspx?WID=0253bfca-93ab-4a5e-87cb-f0a592cc8ffe</url>
+  <url-name>Library</url-name>
+</element>
+</celsiusv2.1.addinfofile>

@@ -1,0 +1,189 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>006251</id>
+  <cache-id>GC1189B</cache-id>
+  <type>Multi-cache</type>
+  <name>Der kleine Topf im großen Topf by Die 5 Stooges, Multi-cache (2/1.5)</name>
+  <size>Regular</size>
+  <difficulty>2</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-10-03</last-found>
+  <placed>2007-03-04</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Die 5 Stooges</placedby>
+  <found>Geocache</found>
+  <lat>50.521867</lat>
+  <lon>9.693833</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>Die 5 Stooges</owner>
+  <description>
+      </description>
+  <long-description>Ihr begebt euch auf einen schönen Spaziergang mit einer herrlichen Aussicht auf Fulda und die Rhön. Die Koordinaten führen Euch zum Stage 1. Hier findet ihr einen rechteckigen Stein neben einer roten Bank.
+Wie viele Kreuze befinden sich auf dem Stein? Die Antwort ist A.
+
+Nachdem ihr nun von der Bank aus einen tollen Ausblick auf die Milseburg, Wasserkuppe und weiter vorne den Florenberg und Schloss Fasanerie genossen habt, geht weiter zu:
+
+N  50° 31.083
+E oo9° 41.7A2
+
+Bei Stage 2 findet Ihr einen Micro mit den Koordinaten des Final-Stages.
+
+Viel Spaß!
+
+You go on a short walk with a nice view over Fulda and the Rhön-mountains.
+The  Coordinates show you the way to Stage 1. There, you find a stone beneath a bench.
+How many crosses are on the stone. The answer is A.
+
+Have a look around the nice country with milseburg, Wasserkuppe and, a little bit nearer, Florenberg and Fasanerie-Castle.
+Than go to:
+
+N  50° 31.083
+E oo9° 41.7A2
+
+At Stage 2 you find a Micro with the Coordinates of the final stage.
+
+Happy hunting!
+
+Additional Waypoints
+011189B - Stage 2
+N/S  __ ° __ . ___ W/E ___ ° __ . ___ 
+Stage 2
+021189B - Final
+N/S  __ ° __ . ___ W/E ___ ° __ . ___ 
+Die Suche ist beendet...
+</long-description>
+  <encoded-hints>Stage 2: in einem Baumstumpf
+stage 2: in a trunk</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=de3bb495-45e6-4c19-8d6d-b7880de86d6c</url>
+  <url-name>Der kleine Topf im großen Topf</url-name>
+  <logs><ul><li>2010-10-31T19:00:00Z : Found it by Ivy69 <br />Das war ein schöner Sonntagsspaziergang mit meinem Sohn! Die Koords an Stage 2 verschwimmen langsam, trotz Laminieren,sind sehr feucht. Haben bei schönem Oktoberwetter die Aussicht genossen. Vielen Dank!
+In: TB</li><li>2010-10-18T19:00:00Z : Found it by Travellermaus <br />eine kurze runde durch den wald. danke fürs Zeigen!!! Leider haben wir bei dem mistwetter nicht viel von der gegend gesehen...macht aber nix... wir sind ja keine warmduscher</li><li>2010-10-10T19:00:00Z : Found it by Camuvlash <br />Bei schönen Wetter über eure Kochkünste gefreut ^^
+in: Figur, Auto, Tempo
+TFTC!</li><li>2010-10-10T19:00:00Z : Found it by Ohioex <br />Schöne Runde, der versprochene Blick ins Land ist echt super.
+Der Micro bei Stage 2 braucht wohl etwas Wartung – die Dose ist löchrig und der Inhalt sehr nass.
+Nice tour whith a beautiful view to the area The Micro on Stage 2 needs maintains.
+
+IN: Spritzpistole , OUT: Glocke
+
+Danke fürs Zeigen TFTC Ohioex 
+</li><li>2010-10-03T19:00:00Z : Found it by Everex <br />war ein schwieriger marsch mit motorradklamotten, es war auch überall matschig :-(
+
+dennoch gut gefunden, dfdc :-)
+
+Everex</li></ul></logs>
+  <original-xml>  <wpt  lat="50.521867" lon="9.693833">
+    <time>2007-03-04T08:00:00Z</time>
+    <name>GC1189B</name>
+    <desc>Der kleine Topf im großen Topf by Die 5 Stooges, Multi-cache (2/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=de3bb495-45e6-4c19-8d6d-b7880de86d6c</url>
+    <urlname>Der kleine Topf im großen Topf</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Multi-cache</type>
+    <groundspeak:cache id="550170" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Der kleine Topf im großen Topf</groundspeak:name>
+      <groundspeak:placed_by>Die 5 Stooges</groundspeak:placed_by>
+      <groundspeak:owner id="143073">Die 5 Stooges</groundspeak:owner>
+      <groundspeak:type>Multi-cache</groundspeak:type>
+      <groundspeak:container>Regular</groundspeak:container>
+      <groundspeak:difficulty>2</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">
+      </groundspeak:short_description>
+      <groundspeak:long_description html="False">Ihr begebt euch auf einen schönen Spaziergang mit einer herrlichen Aussicht auf Fulda und die Rhön. Die Koordinaten führen Euch zum Stage 1. Hier findet ihr einen rechteckigen Stein neben einer roten Bank.
+Wie viele Kreuze befinden sich auf dem Stein? Die Antwort ist A.
+
+Nachdem ihr nun von der Bank aus einen tollen Ausblick auf die Milseburg, Wasserkuppe und weiter vorne den Florenberg und Schloss Fasanerie genossen habt, geht weiter zu:
+
+N  50° 31.083
+E oo9° 41.7A2
+
+Bei Stage 2 findet Ihr einen Micro mit den Koordinaten des Final-Stages.
+
+Viel Spaß!
+
+You go on a short walk with a nice view over Fulda and the Rhön-mountains.
+The  Coordinates show you the way to Stage 1. There, you find a stone beneath a bench.
+How many crosses are on the stone. The answer is A.
+
+Have a look around the nice country with milseburg, Wasserkuppe and, a little bit nearer, Florenberg and Fasanerie-Castle.
+Than go to:
+
+N  50° 31.083
+E oo9° 41.7A2
+
+At Stage 2 you find a Micro with the Coordinates of the final stage.
+
+Happy hunting!
+
+Additional Waypoints
+011189B - Stage 2
+N/S  __ ° __ . ___ W/E ___ ° __ . ___ 
+Stage 2
+021189B - Final
+N/S  __ ° __ . ___ W/E ___ ° __ . ___ 
+Die Suche ist beendet...
+</groundspeak:long_description>
+      <groundspeak:encoded_hints>Stage 2: in einem Baumstumpf
+stage 2: in a trunk</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="134557349">
+          <groundspeak:date>2010-10-31T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3091672">Ivy69</groundspeak:finder>
+          <groundspeak:text encoded="False">Das war ein schöner Sonntagsspaziergang mit meinem Sohn! Die Koords an Stage 2 verschwimmen langsam, trotz Laminieren,sind sehr feucht. Haben bei schönem Oktoberwetter die Aussicht genossen. Vielen Dank!
+In: TB</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="132038169">
+          <groundspeak:date>2010-10-18T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2888116">Travellermaus</groundspeak:finder>
+          <groundspeak:text encoded="False">eine kurze runde durch den wald. danke fürs Zeigen!!! Leider haben wir bei dem mistwetter nicht viel von der gegend gesehen...macht aber nix... wir sind ja keine warmduscher</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="130624436">
+          <groundspeak:date>2010-10-10T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2724623">Camuvlash</groundspeak:finder>
+          <groundspeak:text encoded="False">Bei schönen Wetter über eure Kochkünste gefreut ^^
+in: Figur, Auto, Tempo
+TFTC!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="130493048">
+          <groundspeak:date>2010-10-10T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1707733">Ohioex</groundspeak:finder>
+          <groundspeak:text encoded="False">Schöne Runde, der versprochene Blick ins Land ist echt super.
+Der Micro bei Stage 2 braucht wohl etwas Wartung – die Dose ist löchrig und der Inhalt sehr nass.
+Nice tour whith a beautiful view to the area The Micro on Stage 2 needs maintains.
+
+IN: Spritzpistole , OUT: Glocke
+
+Danke fürs Zeigen TFTC Ohioex 
+</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="129574049">
+          <groundspeak:date>2010-10-03T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2509209">Everex</groundspeak:finder>
+          <groundspeak:text encoded="False">war ein schwieriger marsch mit motorradklamotten, es war auch überall matschig :-(
+
+dennoch gut gefunden, dfdc :-)
+
+Everex</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs>
+        <groundspeak:travelbug id="1313313" ref="TB1VWCW">
+          <groundspeak:name>Cache Reward - Vertiginous View</groundspeak:name>
+        </groundspeak:travelbug>
+        <groundspeak:travelbug id="1737562" ref="TB2A3WA">
+          <groundspeak:name>WillyWuffs Roaring Lion</groundspeak:name>
+        </groundspeak:travelbug>
+      </groundspeak:travelbugs>
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

@@ -1,0 +1,144 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>009573</id>
+  <cache-id>GC22GJ2</cache-id>
+  <type>Traditional Cache</type>
+  <name>L 3307 by HubiFD, Traditional Cache (1.5/1.5)</name>
+  <size>Micro</size>
+  <difficulty>1.5</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-10-31</last-found>
+  <placed>2010-03-02</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>HubiFD</placedby>
+  <found>Geocache</found>
+  <lat>50.50565</lat>
+  <lon>9.68485</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>HubiFD</owner>
+  <description>
+      </description>
+  <long-description><b>Die L 3307 verbindet unter anderem den Stadtteil Bronnzell mit
+Eichenzell, dabei führt sie unter der B27 hindurch.<br />
+In diesem Bereich war auch der Cache versteckt, doch leider wurde
+er jetzt zum zweiten Mal gemuggelt, so dass ich ihn umlegen musste.
+Die neuen Koords liegen von der alten Stelle 300m Luftlinie
+entfernt.<br />
+<br />
+Der neue PETling liegt nun bei N50° 30.339 E9° 41.091 und muss nur
+noch vom Reviewer geändert werden.<br />
+<br />
+Der Weg ist von einer Seite frei befahrbar, parken könnt ihr direkt
+vor Ort.<br />
+Bei dem Cachebehälter handelt es sich um einen PETling, der ein
+Logbuch und einen Bleistift beinhaltet.<br />
+Viel Spaß beim Suchen eines weiteren Statistikcaches wünscht
+Euch<br /></b>
+<table>
+<tr>
+<td align="center"><img src=
+"http://www.zrx-ig-forum.de/phpbb/images/avatars/88864716449a2c1d31eb44.gif" /></td>
+</tr>
+</table>
+<br />
+<br />
+<b>Glückwunsch dem Erstfinder: Maluma</b></long-description>
+  <encoded-hints>
+      </encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=31d209d0-118f-4c22-97a2-129d7bd9afdd</url>
+  <url-name>L 3307</url-name>
+  <logs><ul><li>2010-11-18T20:00:00Z : Found it by capitanok9 <br />Heute gefunden
+TFTC</li><li>2010-11-09T20:00:00Z : Found it by BöhserOnkel <br />Schnell gefunden im Dunkeln.... TFTC</li><li>2010-11-07T20:00:00Z : Found it by sema2505 <br />Bei anbrechender Dunkelheit trotzdem ganz gut & schnell gefunden.
+Vielen Dank fürs Verstecken!!</li><li>2010-11-07T20:00:00Z : Found it by Camuvlash <br />Schnell gefunden, TFTC.</li><li>2010-10-31T19:00:00Z : Found it by daruch <br />Auf der neuen Stelle schnell gefunden.
+
+TFTC</li></ul></logs>
+  <original-xml>  <wpt  lat="50.50565" lon="9.68485">
+    <time>2010-03-02T08:00:00Z</time>
+    <name>GC22GJ2</name>
+    <desc>L 3307 by HubiFD, Traditional Cache (1.5/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=31d209d0-118f-4c22-97a2-129d7bd9afdd</url>
+    <urlname>L 3307</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1511440" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>L 3307</groundspeak:name>
+      <groundspeak:placed_by>HubiFD</groundspeak:placed_by>
+      <groundspeak:owner id="2729325">HubiFD</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="True">
+      </groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;b&gt;Die L 3307 verbindet unter anderem den Stadtteil Bronnzell mit
+Eichenzell, dabei führt sie unter der B27 hindurch.&lt;br /&gt;
+In diesem Bereich war auch der Cache versteckt, doch leider wurde
+er jetzt zum zweiten Mal gemuggelt, so dass ich ihn umlegen musste.
+Die neuen Koords liegen von der alten Stelle 300m Luftlinie
+entfernt.&lt;br /&gt;
+&lt;br /&gt;
+Der neue PETling liegt nun bei N50° 30.339 E9° 41.091 und muss nur
+noch vom Reviewer geändert werden.&lt;br /&gt;
+&lt;br /&gt;
+Der Weg ist von einer Seite frei befahrbar, parken könnt ihr direkt
+vor Ort.&lt;br /&gt;
+Bei dem Cachebehälter handelt es sich um einen PETling, der ein
+Logbuch und einen Bleistift beinhaltet.&lt;br /&gt;
+Viel Spaß beim Suchen eines weiteren Statistikcaches wünscht
+Euch&lt;br /&gt;&lt;/b&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td align="center"&gt;&lt;img src=
+"http://www.zrx-ig-forum.de/phpbb/images/avatars/88864716449a2c1d31eb44.gif" /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Glückwunsch dem Erstfinder: Maluma&lt;/b&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="136253929">
+          <groundspeak:date>2010-11-18T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3123857">capitanok9</groundspeak:finder>
+          <groundspeak:text encoded="False">Heute gefunden
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="135382479">
+          <groundspeak:date>2010-11-09T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2845588">BöhserOnkel</groundspeak:finder>
+          <groundspeak:text encoded="False">Schnell gefunden im Dunkeln.... TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="135065676">
+          <groundspeak:date>2010-11-07T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3665179">sema2505</groundspeak:finder>
+          <groundspeak:text encoded="False">Bei anbrechender Dunkelheit trotzdem ganz gut &amp; schnell gefunden.
+Vielen Dank fürs Verstecken!!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="134878577">
+          <groundspeak:date>2010-11-07T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2724623">Camuvlash</groundspeak:finder>
+          <groundspeak:text encoded="False">Schnell gefunden, TFTC.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="133895442">
+          <groundspeak:date>2010-10-31T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3100425">daruch</groundspeak:finder>
+          <groundspeak:text encoded="False">Auf der neuen Stelle schnell gefunden.
+
+TFTC</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

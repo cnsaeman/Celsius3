@@ -1,0 +1,156 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>005187</id>
+  <cache-id>GCFAEC</cache-id>
+  <type>Multi-cache</type>
+  <name>first growing cache by Guybrush Threepwood, Multi-cache (2/1)</name>
+  <size>Micro</size>
+  <difficulty>2</difficulty>
+  <terrain>1</terrain>
+  <last-found>2010-07-31</last-found>
+  <placed>2003-04-17</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Guybrush Threepwood</placedby>
+  <found>Geocache</found>
+  <lat>50.504817</lat>
+  <lon>9.707167</lon>
+  <last-logs>XFFWW</last-logs>
+  <owner>Guybrush Threepwood</owner>
+  <description>Ein Cache der wächst.</description>
+  <long-description>Dies ist der erste „wachsende Cache“. Er soll einmal zu einem 10 Stages Multi Cache wachsen. In dem Final Cache sind neun Filmdöschen verstaut. Deine Aufgabe besteht nun darin den Final Stage (eine Tubber Dose), nachdem Du ihn gefunden hast, eine Sation weiter zu tragen. Suche innerhalb des Schlossgeländes einen geeigneten Platz, der sicher vor Passanten und Gärtnern ist. Verstecke Ihn dort und notiere die neuen Koordinaten. Diese solltest Du in einem der Filmdöschen verpacken und an den Platz legen, an dem Du den Final Cache gefunden hast, damit andere diesen weitersuchen können und der Informationsfluss weiter geht. So verlängert sich der Cache von Mal zu Mal.
+Da dies ein Multi Cache ist, kannst Du für die neuen Koordinaten auch ein Rätsel oder eine Aufgabe erstellen. Diese sollte sich aber thematisch  mit dem Schloss befassen. Also... Final Stage finden, weitertragen und neue Informationen oder Koodiaten in einem der Filmdöschen an den alten Platz des Final Stages bringen. Die Filmdöschen enthalten je eine Tüte, in der sie dann versteckt werden können. Es liegen zwar Zettel für die Filmdosen im Logbuch, trotzdem wäre es empfehlenswert noch welche mitzunehmen. 
+Bitte stellt die Aufgaben nicht zu schwer. Der Cache sollte auch irgendwann mit 10 Stages noch an einem Tag lösbar sein. Die Stages sollten nicht zu nah von einander ausgelegt werden. Nachdem die 10 Stages vollständig sind bitte ich darum keine weiteren Stages auszulegen.
+Bleibt mir nur noch Dir einen schönen 
+Tag in einem noch schönerem Schlosspark zu wünschen.
+
+
+Viel Spass und happy hunting
+Guybrush Threepwood.
+
+
+
+This is the „first growing cache“.  It should grow up until it reaches 10 stages. The Final Cache contains nine filmcontainers. Your task is now, to enlarge the whole cache by creating a new stage.  Search only within  the park for a suitable place which is secure from passer-by‘s and gardeners. Hide it there and note the new coordinates. Then you have to place them into a film-container. Put the film-container with the coordinates of the „new final cache“ into the filmcontainer by the position YOU found, for that  all others can go on seeking (caching) and the flow of information will continue. In that way the cache will go on and on and will grow.
+You can also give tasks or riddles in connection with the castle to get the new coordinates. So... find the final stage, carry it further and put the new coordinates within a filmcontainer to the „old final stage position“. Each container includes a plastic bag in wich it can be hidden. In the logbook you will find scraps of paper but I would advice you to take some with you for secure. 
+Please don`t set the tasks too difficult. The cache should to be done in one day, even with 10 stages. The stages should not be too close.  Please do not add more containers - we don't want to end up with a hundred filmcontainers in the park - only what the cache starts with.
+Now it’s my turn to wish you a nice day in a beautiful castle-garden. 
+
+Enjoy yourself
+Yours Guybrush Threepwood.</long-description>
+  <encoded-hints>The first stage is placed on an old „cold location“ beside the door. 
+</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=73fd83df-a607-4c35-a6b9-6ee424421a82</url>
+  <url-name>first growing cache</url-name>
+  <logs><ul><li>2010-09-14T19:00:00Z : Didn't find it by Schlehbenny <br />Station 1 haben wir ohne Probleme gefunden. Station 2 war nicht auffindbar. Ist er vielleicht gemuggelt worden?
+
+Wollte immer mal wieder ins Schloß Adolphseck und nun hatte ich mal allen Grund dazu. Also hat sich der Mittag doch gelohnt.
+
+LG
+Schlehbenny</li><li>2010-09-02T19:00:00Z : Found it by LI*MO <br />Was für ein Cache ...hin und her und hin und her. [;)]
+Alle Stationen waren gut zu finden. Selbst in der Dunkelheit, da wir erst um 20:00 h zum Cache aufbrechen konnten.
+Um ca. 22:10 h konnten wir stolz das Final in den Händen halten und dem Heimweg mit ein paar Andenken ( 3 Zecken an einem Arm) antreten.
+
+TFTC
+
+IN: Coin
+Out: nix </li><li>2010-08-26T19:00:00Z : Found it by mayday malone <br />heute den final geloggt. waren in drei etappen unterwegs, mit kindern auf einen rutsch schlecht machbar. jedoch eine sehr schöne idee, hat spaß gemacht. danke und gruß. mayday
+</li><li>2010-08-07T19:00:00Z : Write note by Aldokyl <br />Wir haben die fehlende Station 2 ersetzt.
+Sie war wirklich verschwunden.</li><li>2010-07-31T19:00:00Z : Write note by Fla20m <br />am Samstag wollten wir den Cache angehen, leider waren die Folgekoordinaten nicht auffindbar. An der Tür wird es wohl ziemlich gemuggelt haben...
+</li></ul></logs>
+  <original-xml>  <wpt  lat="50.504817" lon="9.707167">
+    <time>2003-04-17T07:00:00Z</time>
+    <name>GCFAEC</name>
+    <desc>first growing cache by Guybrush Threepwood, Multi-cache (2/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=73fd83df-a607-4c35-a6b9-6ee424421a82</url>
+    <urlname>first growing cache</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Multi-cache</type>
+    <groundspeak:cache id="64236" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>first growing cache</groundspeak:name>
+      <groundspeak:placed_by>Guybrush Threepwood</groundspeak:placed_by>
+      <groundspeak:owner id="86168">Guybrush Threepwood</groundspeak:owner>
+      <groundspeak:type>Multi-cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>2</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">Ein Cache der wächst.</groundspeak:short_description>
+      <groundspeak:long_description html="False">Dies ist der erste „wachsende Cache“. Er soll einmal zu einem 10 Stages Multi Cache wachsen. In dem Final Cache sind neun Filmdöschen verstaut. Deine Aufgabe besteht nun darin den Final Stage (eine Tubber Dose), nachdem Du ihn gefunden hast, eine Sation weiter zu tragen. Suche innerhalb des Schlossgeländes einen geeigneten Platz, der sicher vor Passanten und Gärtnern ist. Verstecke Ihn dort und notiere die neuen Koordinaten. Diese solltest Du in einem der Filmdöschen verpacken und an den Platz legen, an dem Du den Final Cache gefunden hast, damit andere diesen weitersuchen können und der Informationsfluss weiter geht. So verlängert sich der Cache von Mal zu Mal.
+Da dies ein Multi Cache ist, kannst Du für die neuen Koordinaten auch ein Rätsel oder eine Aufgabe erstellen. Diese sollte sich aber thematisch  mit dem Schloss befassen. Also... Final Stage finden, weitertragen und neue Informationen oder Koodiaten in einem der Filmdöschen an den alten Platz des Final Stages bringen. Die Filmdöschen enthalten je eine Tüte, in der sie dann versteckt werden können. Es liegen zwar Zettel für die Filmdosen im Logbuch, trotzdem wäre es empfehlenswert noch welche mitzunehmen. 
+Bitte stellt die Aufgaben nicht zu schwer. Der Cache sollte auch irgendwann mit 10 Stages noch an einem Tag lösbar sein. Die Stages sollten nicht zu nah von einander ausgelegt werden. Nachdem die 10 Stages vollständig sind bitte ich darum keine weiteren Stages auszulegen.
+Bleibt mir nur noch Dir einen schönen 
+Tag in einem noch schönerem Schlosspark zu wünschen.
+
+
+Viel Spass und happy hunting
+Guybrush Threepwood.
+
+
+
+This is the „first growing cache“.  It should grow up until it reaches 10 stages. The Final Cache contains nine filmcontainers. Your task is now, to enlarge the whole cache by creating a new stage.  Search only within  the park for a suitable place which is secure from passer-by‘s and gardeners. Hide it there and note the new coordinates. Then you have to place them into a film-container. Put the film-container with the coordinates of the „new final cache“ into the filmcontainer by the position YOU found, for that  all others can go on seeking (caching) and the flow of information will continue. In that way the cache will go on and on and will grow.
+You can also give tasks or riddles in connection with the castle to get the new coordinates. So... find the final stage, carry it further and put the new coordinates within a filmcontainer to the „old final stage position“. Each container includes a plastic bag in wich it can be hidden. In the logbook you will find scraps of paper but I would advice you to take some with you for secure. 
+Please don`t set the tasks too difficult. The cache should to be done in one day, even with 10 stages. The stages should not be too close.  Please do not add more containers - we don't want to end up with a hundred filmcontainers in the park - only what the cache starts with.
+Now it’s my turn to wish you a nice day in a beautiful castle-garden. 
+
+Enjoy yourself
+Yours Guybrush Threepwood.</groundspeak:long_description>
+      <groundspeak:encoded_hints>The first stage is placed on an old „cold location“ beside the door. 
+</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="126921207">
+          <groundspeak:date>2010-09-14T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Didn't find it</groundspeak:type>
+          <groundspeak:finder id="2446909">Schlehbenny</groundspeak:finder>
+          <groundspeak:text encoded="False">Station 1 haben wir ohne Probleme gefunden. Station 2 war nicht auffindbar. Ist er vielleicht gemuggelt worden?
+
+Wollte immer mal wieder ins Schloß Adolphseck und nun hatte ich mal allen Grund dazu. Also hat sich der Mittag doch gelohnt.
+
+LG
+Schlehbenny</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="124954892">
+          <groundspeak:date>2010-09-02T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2583892">LI*MO</groundspeak:finder>
+          <groundspeak:text encoded="False">Was für ein Cache ...hin und her und hin und her. [;)]
+Alle Stationen waren gut zu finden. Selbst in der Dunkelheit, da wir erst um 20:00 h zum Cache aufbrechen konnten.
+Um ca. 22:10 h konnten wir stolz das Final in den Händen halten und dem Heimweg mit ein paar Andenken ( 3 Zecken an einem Arm) antreten.
+
+TFTC
+
+IN: Coin
+Out: nix </groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="123775386">
+          <groundspeak:date>2010-08-26T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3592921">mayday malone</groundspeak:finder>
+          <groundspeak:text encoded="False">heute den final geloggt. waren in drei etappen unterwegs, mit kindern auf einen rutsch schlecht machbar. jedoch eine sehr schöne idee, hat spaß gemacht. danke und gruß. mayday
+</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="120611160">
+          <groundspeak:date>2010-08-07T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Write note</groundspeak:type>
+          <groundspeak:finder id="438973">Aldokyl</groundspeak:finder>
+          <groundspeak:text encoded="False">Wir haben die fehlende Station 2 ersetzt.
+Sie war wirklich verschwunden.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="119813511">
+          <groundspeak:date>2010-07-31T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Write note</groundspeak:type>
+          <groundspeak:finder id="3087275">Fla20m</groundspeak:finder>
+          <groundspeak:text encoded="False">am Samstag wollten wir den Cache angehen, leider waren die Folgekoordinaten nicht auffindbar. An der Tür wird es wohl ziemlich gemuggelt haben...
+</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs>
+        <groundspeak:travelbug id="2242420" ref="TB2W272">
+          <groundspeak:name>Charlys Travel Express</groundspeak:name>
+        </groundspeak:travelbug>
+      </groundspeak:travelbugs>
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

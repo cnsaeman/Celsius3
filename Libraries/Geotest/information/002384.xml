@@ -1,0 +1,120 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>002384</id>
+  <cache-id>GC2072N</cache-id>
+  <type>Traditional Cache</type>
+  <name>Heilig Geist Kirche Fulda by hungry.knight, Traditional Cache (1/1)</name>
+  <size>Micro</size>
+  <difficulty>1</difficulty>
+  <terrain>1</terrain>
+  <last-found>2010-11-24</last-found>
+  <placed>2009-10-24</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>hungry.knight</placedby>
+  <found>Geocache</found>
+  <lat>50.549167</lat>
+  <lon>9.675833</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>hungry.knight</owner>
+  <description>Ein weiterer Cache der Fuldaer Kirchencachereihe. A further cache in a series of churches in Fulda.</description>
+  <long-description>Dies ist ein schneller Drive-In der Fuldaer Kirchencachereihe. 
+
+Die Serie soll die Vielfalt der Kirchen in Fulda zeigen.
+Der Cache liegt an der katholischen Heilig Geist Kirche.
+
+Wer gerne mehr über die Kirche erfahren will, findet auf folgender Seite weitere Informationen über ihre Gemeinde und die Geschichte.
+
+http://www.heilig-geist-fulda.de/fdheiliggeist_xslt/kirchengeschichte/kirchengeschichte.php?navid=18
+
+Es handelt sich um einen kleinen Behälter.
+Bitte Stift mitbringen!!!
+
+Beim loggen bitte vorsichtig sein!</long-description>
+  <encoded-hints>
+      </encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=fa35d9f9-8939-4fdd-b41f-9b29a77871dc</url>
+  <url-name>Heilig Geist Kirche Fulda</url-name>
+  <logs><ul><li>2010-12-24T20:00:00Z : Found it by canadianfriend75 <br />Gut und schnell gefunden. TFTC und allen schöne Weihnachten.</li><li>2010-12-18T20:00:00Z : Found it by kpom <br />Nach einem tollen Konzert noch schnell ein kleiner Spaziergang im Schnee und schon war das Döschen gefunden.... Jetzt aber ab nach Hause...</li><li>2010-11-26T01:26:17Z : Found it by rakaposhi <br />Nach einem leckeren Geburtstagsessen auf dem Verdauungsspaziergang gesucht und gefunden. TFTC</li><li>2010-11-24T20:00:00Z : Found it by yonex <br />Einen vermeintlich unbeobachteten Augenblick genutzt um zu loggen und dann festgestellt, dass zwei Bauarbeitermuggel mich die ganze Zeit aus ihrem Fahrzeug heraus beobachtet hatten... Was tun? Zurück ins Versteck legen ist doof... Also den Kleinen erst mal zum nächsten Tradi mitgeschleppt. Beim Zurückbringen dann Schweffe getroffen, die gerade mit der Suche beginnen wollten.
+Zusammen haben wir die Dose dann wieder an ihren angestammten Platz verfrachtet.
+
+TFTC</li><li>2010-11-24T20:00:00Z : Found it by Schweffe <br />Haben Yonex beim Loggen erwischt und uns gleich mit eingetragen [:D]
+Danke fürs Dösle sagen
+Schweffe, Takaya & Nopfi</li></ul></logs>
+  <original-xml>  <wpt  lat="50.549167" lon="9.675833">
+    <time>2009-10-24T07:00:00Z</time>
+    <name>GC2072N</name>
+    <desc>Heilig Geist Kirche Fulda by hungry.knight, Traditional Cache (1/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=fa35d9f9-8939-4fdd-b41f-9b29a77871dc</url>
+    <urlname>Heilig Geist Kirche Fulda</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1442732" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Heilig Geist Kirche Fulda</groundspeak:name>
+      <groundspeak:placed_by>hungry.knight</groundspeak:placed_by>
+      <groundspeak:owner id="2129485">hungry.knight</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">Ein weiterer Cache der Fuldaer Kirchencachereihe. A further cache in a series of churches in Fulda.</groundspeak:short_description>
+      <groundspeak:long_description html="False">Dies ist ein schneller Drive-In der Fuldaer Kirchencachereihe. 
+
+Die Serie soll die Vielfalt der Kirchen in Fulda zeigen.
+Der Cache liegt an der katholischen Heilig Geist Kirche.
+
+Wer gerne mehr über die Kirche erfahren will, findet auf folgender Seite weitere Informationen über ihre Gemeinde und die Geschichte.
+
+http://www.heilig-geist-fulda.de/fdheiliggeist_xslt/kirchengeschichte/kirchengeschichte.php?navid=18
+
+Es handelt sich um einen kleinen Behälter.
+Bitte Stift mitbringen!!!
+
+Beim loggen bitte vorsichtig sein!</groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="139125937">
+          <groundspeak:date>2010-12-24T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2519645">canadianfriend75</groundspeak:finder>
+          <groundspeak:text encoded="False">Gut und schnell gefunden. TFTC und allen schöne Weihnachten.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="138815000">
+          <groundspeak:date>2010-12-18T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1680142">kpom</groundspeak:finder>
+          <groundspeak:text encoded="False">Nach einem tollen Konzert noch schnell ein kleiner Spaziergang im Schnee und schon war das Döschen gefunden.... Jetzt aber ab nach Hause...</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="137065614">
+          <groundspeak:date>2010-11-26T01:26:17Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2132998">rakaposhi</groundspeak:finder>
+          <groundspeak:text encoded="False">Nach einem leckeren Geburtstagsessen auf dem Verdauungsspaziergang gesucht und gefunden. TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="137099353">
+          <groundspeak:date>2010-11-24T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1942538">yonex</groundspeak:finder>
+          <groundspeak:text encoded="False">Einen vermeintlich unbeobachteten Augenblick genutzt um zu loggen und dann festgestellt, dass zwei Bauarbeitermuggel mich die ganze Zeit aus ihrem Fahrzeug heraus beobachtet hatten... Was tun? Zurück ins Versteck legen ist doof... Also den Kleinen erst mal zum nächsten Tradi mitgeschleppt. Beim Zurückbringen dann Schweffe getroffen, die gerade mit der Suche beginnen wollten.
+Zusammen haben wir die Dose dann wieder an ihren angestammten Platz verfrachtet.
+
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="137008051">
+          <groundspeak:date>2010-11-24T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2355077">Schweffe</groundspeak:finder>
+          <groundspeak:text encoded="False">Haben Yonex beim Loggen erwischt und uns gleich mit eingetragen [:D]
+Danke fürs Dösle sagen
+Schweffe, Takaya &amp; Nopfi</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

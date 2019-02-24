@@ -1,0 +1,152 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>004326</id>
+  <cache-id>GC27EA4</cache-id>
+  <type>Traditional Cache</type>
+  <name>Milseburgradweg - Grillhütte Niederbieber by HubiFD, Traditional Cache (2/1.5)</name>
+  <size>Micro</size>
+  <difficulty>2</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-10-02</last-found>
+  <placed>2010-04-25</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>HubiFD</placedby>
+  <found>Geocache</found>
+  <lat>50.5747</lat>
+  <lon>9.808117</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>HubiFD</owner>
+  <description>
+      </description>
+  <long-description><b>Eine schöne Grillhütte am Rande des Milseburgradweges befindet
+sich in Niederbieber.<br />
+Man kann somit diesen Cache wunderbar mit einer Radtour verbinden
+und hier eine Rast einlegen.<br />
+Es gilt eine Filmdose zu finden, also bitte Stift mitbringen.<br />
+<br />
+<br />
+Viel Spaß beim Suchen wünscht Euch<br /></b>
+<table>
+<tr>
+<td align="center"><img src=
+"http://www.zrx-ig-forum.de/phpbb/images/avatars/88864716449a2c1d31eb44.gif" /></td>
+</tr>
+</table>
+<br />
+<br /></long-description>
+  <encoded-hints>
+      </encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=0f6c36a8-d3ce-4649-a74f-1a3a8c8fea2e</url>
+  <url-name>Milseburgradweg - Grillhütte Niederbieber</url-name>
+  <logs><ul><li>2010-11-14T20:00:00Z : Found it by Riesemils <br />Heute nachmittag per Zufall  Maluma mit Anhang beim Suchen getroffen und dabei unterstützt.
+Dabei wurde er gefunden.
+Danke</li><li>2010-11-14T20:00:00Z : Found it by Maluma <br />Nach langem Suchen dann doch noch gefunden..Vor Ort dann noch Verstärkung von "Riesemils" mit Anhang bekommen. Die Eichhörnchen waren wohl auch schon mal dran...
+
+TFTC MALUMA</li><li>2010-10-21T19:00:00Z : Found it by opimper <br />Das warf doch ein schönes Ziel für meine kleine Joggingtour von der Fohlenweide über den Milseburgradweg. Knappe 5km einfache Entfernung. Hier also kurz den Cache gesucht, nach einiger Zeit gefunden und wieder Kraft getankt, für den steilen Rückweg :-)
+Danke an den Owner für die Logfreigabe. In die knappen Joggingklamotten hat kein Bleistift reingepasst :-)
+#827</li><li>2010-10-19T19:00:00Z : Found it by Oko1966 <br />Heute bei der Fachberaterin meiner Frau gewesen und neue Materialien für sie geholt[:o)].
+
+Da ich mein Garmin mit hatte, gesehen, dass in unmittelbarer Nähe ein Cache liegt. Also auf und dort hin.[^]
+
+Im Regen einen kurzen Fußmarsch gemacht[:(!]
+
+Gefunden hat ihn meine Tochter Sophia.
+
+TFTC und viele Grüße an den Owner.[8D]
+
+GC#1625</li><li>2010-10-02T19:00:00Z : Found it by S***T <br />Inzwischen bin ich schon so oft da mit dem Rad vorbeigedüst, aber dass es hier auch eine Grillhütte gibt, wusste ich bisher nicht.
+Die Suche hat auch bei mir etwas länger gedauert, aber nach dem Fund konnte ich meine Radtour weiter fortsetzen.</li></ul></logs>
+  <original-xml>  <wpt  lat="50.5747" lon="9.808117">
+    <time>2010-04-25T07:00:00Z</time>
+    <name>GC27EA4</name>
+    <desc>Milseburgradweg - Grillhütte Niederbieber by HubiFD, Traditional Cache (2/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=0f6c36a8-d3ce-4649-a74f-1a3a8c8fea2e</url>
+    <urlname>Milseburgradweg - Grillhütte Niederbieber</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1658227" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Milseburgradweg - Grillhütte Niederbieber</groundspeak:name>
+      <groundspeak:placed_by>HubiFD</groundspeak:placed_by>
+      <groundspeak:owner id="2729325">HubiFD</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>2</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="True">
+      </groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;b&gt;Eine schöne Grillhütte am Rande des Milseburgradweges befindet
+sich in Niederbieber.&lt;br /&gt;
+Man kann somit diesen Cache wunderbar mit einer Radtour verbinden
+und hier eine Rast einlegen.&lt;br /&gt;
+Es gilt eine Filmdose zu finden, also bitte Stift mitbringen.&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+Viel Spaß beim Suchen wünscht Euch&lt;br /&gt;&lt;/b&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td align="center"&gt;&lt;img src=
+"http://www.zrx-ig-forum.de/phpbb/images/avatars/88864716449a2c1d31eb44.gif" /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+&lt;br /&gt;
+&lt;br /&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="135835330">
+          <groundspeak:date>2010-11-14T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3881223">Riesemils</groundspeak:finder>
+          <groundspeak:text encoded="False">Heute nachmittag per Zufall  Maluma mit Anhang beim Suchen getroffen und dabei unterstützt.
+Dabei wurde er gefunden.
+Danke</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="135793709">
+          <groundspeak:date>2010-11-14T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1380311">Maluma</groundspeak:finder>
+          <groundspeak:text encoded="False">Nach langem Suchen dann doch noch gefunden..Vor Ort dann noch Verstärkung von "Riesemils" mit Anhang bekommen. Die Eichhörnchen waren wohl auch schon mal dran...
+
+TFTC MALUMA</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="132620357">
+          <groundspeak:date>2010-10-21T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="695077">opimper</groundspeak:finder>
+          <groundspeak:text encoded="False">Das warf doch ein schönes Ziel für meine kleine Joggingtour von der Fohlenweide über den Milseburgradweg. Knappe 5km einfache Entfernung. Hier also kurz den Cache gesucht, nach einiger Zeit gefunden und wieder Kraft getankt, für den steilen Rückweg :-)
+Danke an den Owner für die Logfreigabe. In die knappen Joggingklamotten hat kein Bleistift reingepasst :-)
+#827</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="132186152">
+          <groundspeak:date>2010-10-19T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2012879">Oko1966</groundspeak:finder>
+          <groundspeak:text encoded="False">Heute bei der Fachberaterin meiner Frau gewesen und neue Materialien für sie geholt[:o)].
+
+Da ich mein Garmin mit hatte, gesehen, dass in unmittelbarer Nähe ein Cache liegt. Also auf und dort hin.[^]
+
+Im Regen einen kurzen Fußmarsch gemacht[:(!]
+
+Gefunden hat ihn meine Tochter Sophia.
+
+TFTC und viele Grüße an den Owner.[8D]
+
+GC#1625</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="129296312">
+          <groundspeak:date>2010-10-02T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1894990">S***T</groundspeak:finder>
+          <groundspeak:text encoded="False">Inzwischen bin ich schon so oft da mit dem Rad vorbeigedüst, aber dass es hier auch eine Grillhütte gibt, wusste ich bisher nicht.
+Die Suche hat auch bei mir etwas länger gedauert, aber nach dem Fund konnte ich meine Radtour weiter fortsetzen.</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

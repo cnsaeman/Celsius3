@@ -1,0 +1,112 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>007457</id>
+  <cache-id>GC1M3FT</cache-id>
+  <type>Traditional Cache</type>
+  <name>Buster's Cache by Weasel_77, Traditional Cache (1/3.5)</name>
+  <size>Regular</size>
+  <difficulty>1</difficulty>
+  <terrain>3.5</terrain>
+  <last-found>2010-03-07</last-found>
+  <placed>2009-01-25</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>Weasel_77</placedby>
+  <found>Geocache</found>
+  <lat>53.264883</lat>
+  <lon>-6.120117</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>Weasel_77</owner>
+  <description>This cache is located near the summit of Mullins Hill (also known as Roches Hill, Flagstaff Hill or Killiney Common) This is the least visited of the three hills in Killiney.</description>
+  <long-description>The cache is named after my dog Buster who used to enjoy walks on the hill, it is a great place for walking dogs, so if you have a dog be sure to bring him along. From the top of the hill there are views of Dublin Bay, Dun Laoghaire, the Wicklow Mountains and on a clear day the Mourne Mountains can be seen. The hill itself is rugged, rocky and there are a lot of Gorse and Thorn Bushes, there are no marked paths as such just some narrow tracks and animal trails.
+
+How to get there: 
+
+By Public transport: Either catch a bus to Killiney Shopping Centre (7, 45A, 111 or 59) from here cross the roundabout to Balinclea Road and turn right in Killiney Golf Course, from here there is a path that leads up to the hill. You could always catch the Dart to Killiney and walk up to the hill either via Killiney Village or via a laneway that leads up from Killiney Beach past St. Georges and on to Glenalua Road.
+
+By Car: The best place to park would probably be at Killiney Hill Park and to walk across, or in one of the nearby residential areas such as Ballinclea Heights or Rock Lodge, there is no parking on Glenalua Road. There are entrances to the hill from both of these.
+
+Excerpt from “The Granite Hills – A Guide to Killiney & Ballybrack” 
+
+The Common and Killiney Golf Course
+
+These open spaces occupy the west side of Rocheshill, sometimes called Flagstaff Hill, as the Waterhouse family of Glenalua used to fly a flag from the summit on state occasions. From Claremont Road and Glenalua Road un-metalled paths lead to a turnstile into the Golf Course and by a right of way along the fence, out near the clubhouse to Ballinclea Road. These would have been used for many years by the people of Killiney and Dalkey going to Mass at Cabinteely. Another right of way left off Glenalua Road is marked by white stones across the Golf course and gives access to Church Road; this was used by parishioners of St. Matthias’ before Killiney Avenue was completed in 1882.
+
+Several quarries on the Common provided granite for buildings, roads and walls in the neighbourhood. It is thought that Rocheshill and Rochestown derive from the French word Roches, meaning rocks; no family of that name is recorded and the slope of the hill is covered with boulders and outcrops of granite. On one of these the shape of a tabernacle has been cut. Because it is in such an exposed position, it is hardly likely that it was used as a Mass Rock, but a local resident as told of someone in her family keeping a look-out there for redcoats. It may have been used by stonecutters in the quarries.</long-description>
+  <encoded-hints>An abundance of Granite</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=a3a56c38-3a04-4c68-bee8-25bf8a73fb0c</url>
+  <url-name>Buster's Cache</url-name>
+  <logs><ul><li>2010-05-30T19:00:00Z : Found it by Spark_ie <br />Got a lot of cuts and scratches getting this one. Not easy as I had to carry by bike on my shoulder all the way!  Found the cache easily, and took some time out to have my lunch. TFTC Spark_ie</li><li>2010-05-21T19:03:45Z : Found it by thegoldentickets <br />Fabulous day, fabulous views, ferocious prickles, but well worth the effort! We are novice cachers with I-phone, kids loved it. In: periscope, shark. Out: hippo and troll pencil. </li><li>2010-04-11T19:00:00Z : Found it by Peta Amalka <br />Found the cache aftre little bit of searching, thorny enough. Great view and enjoable place for sunbath :-)</li><li>2010-04-11T19:00:00Z : Found it by Hellynka <br />There was planty of Granite, but we fiound it. Nice wiew, sunny day and perfect place to tan :-) TFTC.</li><li>2010-03-07T20:00:00Z : Found it by EIMHK <br />Great cache, fantastic views from this point, bit sore TFTC</li></ul></logs>
+  <original-xml>  <wpt  lat="53.264883" lon="-6.120117">
+    <time>2009-01-25T08:00:00Z</time>
+    <name>GC1M3FT</name>
+    <desc>Buster's Cache by Weasel_77, Traditional Cache (1/3.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=a3a56c38-3a04-4c68-bee8-25bf8a73fb0c</url>
+    <urlname>Buster's Cache</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1111594" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Buster's Cache</groundspeak:name>
+      <groundspeak:placed_by>Weasel_77</groundspeak:placed_by>
+      <groundspeak:owner id="1626915">Weasel_77</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Regular</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>3.5</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>Dublin</groundspeak:state>
+      <groundspeak:short_description html="False">This cache is located near the summit of Mullins Hill (also known as Roches Hill, Flagstaff Hill or Killiney Common) This is the least visited of the three hills in Killiney.</groundspeak:short_description>
+      <groundspeak:long_description html="False">The cache is named after my dog Buster who used to enjoy walks on the hill, it is a great place for walking dogs, so if you have a dog be sure to bring him along. From the top of the hill there are views of Dublin Bay, Dun Laoghaire, the Wicklow Mountains and on a clear day the Mourne Mountains can be seen. The hill itself is rugged, rocky and there are a lot of Gorse and Thorn Bushes, there are no marked paths as such just some narrow tracks and animal trails.
+
+How to get there: 
+
+By Public transport: Either catch a bus to Killiney Shopping Centre (7, 45A, 111 or 59) from here cross the roundabout to Balinclea Road and turn right in Killiney Golf Course, from here there is a path that leads up to the hill. You could always catch the Dart to Killiney and walk up to the hill either via Killiney Village or via a laneway that leads up from Killiney Beach past St. Georges and on to Glenalua Road.
+
+By Car: The best place to park would probably be at Killiney Hill Park and to walk across, or in one of the nearby residential areas such as Ballinclea Heights or Rock Lodge, there is no parking on Glenalua Road. There are entrances to the hill from both of these.
+
+Excerpt from “The Granite Hills – A Guide to Killiney &amp; Ballybrack” 
+
+The Common and Killiney Golf Course
+
+These open spaces occupy the west side of Rocheshill, sometimes called Flagstaff Hill, as the Waterhouse family of Glenalua used to fly a flag from the summit on state occasions. From Claremont Road and Glenalua Road un-metalled paths lead to a turnstile into the Golf Course and by a right of way along the fence, out near the clubhouse to Ballinclea Road. These would have been used for many years by the people of Killiney and Dalkey going to Mass at Cabinteely. Another right of way left off Glenalua Road is marked by white stones across the Golf course and gives access to Church Road; this was used by parishioners of St. Matthias’ before Killiney Avenue was completed in 1882.
+
+Several quarries on the Common provided granite for buildings, roads and walls in the neighbourhood. It is thought that Rocheshill and Rochestown derive from the French word Roches, meaning rocks; no family of that name is recorded and the slope of the hill is covered with boulders and outcrops of granite. On one of these the shape of a tabernacle has been cut. Because it is in such an exposed position, it is hardly likely that it was used as a Mass Rock, but a local resident as told of someone in her family keeping a look-out there for redcoats. It may have been used by stonecutters in the quarries.</groundspeak:long_description>
+      <groundspeak:encoded_hints>An abundance of Granite</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="110814788">
+          <groundspeak:date>2010-05-30T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="950104">Spark_ie</groundspeak:finder>
+          <groundspeak:text encoded="False">Got a lot of cuts and scratches getting this one. Not easy as I had to carry by bike on my shoulder all the way!  Found the cache easily, and took some time out to have my lunch. TFTC Spark_ie</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="109376609">
+          <groundspeak:date>2010-05-21T19:03:45Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3314071">thegoldentickets</groundspeak:finder>
+          <groundspeak:text encoded="False">Fabulous day, fabulous views, ferocious prickles, but well worth the effort! We are novice cachers with I-phone, kids loved it. In: periscope, shark. Out: hippo and troll pencil. </groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="103738011">
+          <groundspeak:date>2010-04-11T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2370522">Peta Amalka</groundspeak:finder>
+          <groundspeak:text encoded="False">Found the cache aftre little bit of searching, thorny enough. Great view and enjoable place for sunbath :-)</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="103706983">
+          <groundspeak:date>2010-04-11T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2734402">Hellynka</groundspeak:finder>
+          <groundspeak:text encoded="False">There was planty of Granite, but we fiound it. Nice wiew, sunny day and perfect place to tan :-) TFTC.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="99038126">
+          <groundspeak:date>2010-03-07T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2557273">EIMHK</groundspeak:finder>
+          <groundspeak:text encoded="False">Great cache, fantastic views from this point, bit sore TFTC</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

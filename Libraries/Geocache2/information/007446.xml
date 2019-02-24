@@ -1,0 +1,97 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>007446</id>
+  <cache-id>GC17Q4H</cache-id>
+  <type>Traditional Cache</type>
+  <name>Whitechurch by moyle, Traditional Cache (1/1.5)</name>
+  <size>Small</size>
+  <difficulty>1</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-04-05</last-found>
+  <placed>2007-12-01</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>moyle</placedby>
+  <found>Geocache</found>
+  <lat>53.269717</lat>
+  <lon>-6.280383</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>moyle</owner>
+  <description>Typical church yard cache, nice little place. This cache has been replaced in a slightly different place - the coordinates and hint are still the same, no need for change. Please be careful when re-hiding this cache.</description>
+  <long-description>
+      </long-description>
+  <encoded-hints>Yew don't need a hint for this one.</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=2187de23-a99c-41f2-83c3-52b4b39e34e8</url>
+  <url-name>Whitechurch</url-name>
+  <logs><ul><li>2010-05-09T19:00:00Z : Found it by merann <br />Lovely church, cache was soon spotted.
+Out - Toy dog & Earthcache Geocoin.
+In - Paperclip.
+TFTC, Merann. </li><li>2010-05-09T19:00:00Z : Found it by Lynjas <br />1st of 2 today. TFTC. Nice spot. Left a geocoin.</li><li>2010-05-01T19:00:00Z : Found it by Mac Aroni Senior <br />Finally got to find this one. Pencil broken. I had my own pen, which didn't fit in box. TFTC</li><li>2010-04-27T07:00:00Z : Found it by colmyster <br />Found this after v for viaduct. Nice place, don't think the vicars dog liked me too much. TFTC. 
+In: little praying dog
+Out:  trolly token. I'm off to Superquinn...</li><li>2010-04-05T19:00:00Z : Found it by didi2206 <br />Lovely place.. thanks</li></ul></logs>
+  <original-xml>  <wpt  lat="53.269717" lon="-6.280383">
+    <time>2007-12-01T08:00:00Z</time>
+    <name>GC17Q4H</name>
+    <desc>Whitechurch by moyle, Traditional Cache (1/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=2187de23-a99c-41f2-83c3-52b4b39e34e8</url>
+    <urlname>Whitechurch</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="743182" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Whitechurch</groundspeak:name>
+      <groundspeak:placed_by>moyle</groundspeak:placed_by>
+      <groundspeak:owner id="1183128">moyle</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>
+      </groundspeak:state>
+      <groundspeak:short_description html="False">Typical church yard cache, nice little place. This cache has been replaced in a slightly different place - the coordinates and hint are still the same, no need for change. Please be careful when re-hiding this cache.</groundspeak:short_description>
+      <groundspeak:long_description html="False">
+      </groundspeak:long_description>
+      <groundspeak:encoded_hints>Yew don't need a hint for this one.</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="108402277">
+          <groundspeak:date>2010-05-09T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="134212">merann</groundspeak:finder>
+          <groundspeak:text encoded="False">Lovely church, cache was soon spotted.
+Out - Toy dog &amp; Earthcache Geocoin.
+In - Paperclip.
+TFTC, Merann. </groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="107705898">
+          <groundspeak:date>2010-05-09T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2781925">Lynjas</groundspeak:finder>
+          <groundspeak:text encoded="False">1st of 2 today. TFTC. Nice spot. Left a geocoin.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="106508305">
+          <groundspeak:date>2010-05-01T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2884288">Mac Aroni Senior</groundspeak:finder>
+          <groundspeak:text encoded="False">Finally got to find this one. Pencil broken. I had my own pen, which didn't fit in box. TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="106035843">
+          <groundspeak:date>2010-04-27T07:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1495386">colmyster</groundspeak:finder>
+          <groundspeak:text encoded="False">Found this after v for viaduct. Nice place, don't think the vicars dog liked me too much. TFTC. 
+In: little praying dog
+Out:  trolly token. I'm off to Superquinn...</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="102721353">
+          <groundspeak:date>2010-04-05T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2623045">didi2206</groundspeak:finder>
+          <groundspeak:text encoded="False">Lovely place.. thanks</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

@@ -1,0 +1,124 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>009667</id>
+  <cache-id>GC1ZXC1</cache-id>
+  <type>Traditional Cache</type>
+  <name>Nasse Sohle III. by PlanBe, Traditional Cache (1.5/1.5)</name>
+  <size>Micro</size>
+  <difficulty>1.5</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-08-14</last-found>
+  <placed>2009-10-16</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>PlanBe</placedby>
+  <found>Geocache</found>
+  <lat>50.469317</lat>
+  <lon>9.690967</lon>
+  <last-logs>FFEDX</last-logs>
+  <owner>PlanBe</owner>
+  <description>
+      </description>
+  <long-description>Dies ist der dritte Cache einer Serie von 5 Caches welche an der Döllbach entlang versteckt wurden. Von der Mündung bis zur Quelle könnt ihr vier Caches bergen. 
+
+In jedem der Caches steht im Deckel ein Teil der Koordinaten des Bonuscaches. Dieser liegt in der Nähe der Quelle. Im Deckel von Nasse Sohle III. stehen die Minuten von Ost. Im Sommer kann schon reger Muggelverkehr hier sein. 
+
+Achtung:Bei Hochwasser kann der Cache in der Regel nicht geborgen werden!
+
+Bitte wieder richtig festklemmen! 
+
+Hier die Liste der Nasse-Sohle-Serie: 
+Nasse Sohle I.   GC1ETZV  http://www.geocaching.com/seek/cache_details.aspx?guid=14e40d3c-e3d3-44c3-b7c1-40b978e12894
+Nasse Sohle II.  GC1ZXC0
+http://www.geocaching.com/seek/cache_details.aspx?guid=a4336448-1d2f-43f7-b76e-8b736ba0ed51
+Nasse Sohle III. GC1ZXC1  http://www.geocaching.com/seek/cache_details.aspx?guid=4352921b-225e-45e6-b1fd-172fa36a0127
+Nasse Sohle IV. GC1ZXC6  http://www.geocaching.com/seek/cache_details.aspx?guid=4db0ab33-95e2-41a7-b9f0-ad6e7955fae5
+Nasse Sohle V.  GC1ZXC9  http://www.geocaching.com/seek/cache_details.aspx?guid=fee39c71-9b3c-43d5-b475-5cbe3988da6f</long-description>
+  <encoded-hints>Der Name sagt alles!</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=4352921b-225e-45e6-b1fd-172fa36a0127</url>
+  <url-name>Nasse Sohle III.</url-name>
+  <logs><ul><li>2010-09-24T19:00:00Z : Found it by Camuvlash <br />TFTC</li><li>2010-09-19T19:00:00Z : Found it by woodi65 <br />Heute Abend noch schnell gesucht und gefunden.
+TFTC </li><li>2010-09-02T18:36:13Z : Enable Listing by PlanBe <br />Ich habe eine neue Dose deponiert. BYOP!
+Der Cache ist wieder freigegeben!</li><li>2010-08-31T19:35:15Z : Temporarily Disable Listing by PlanBe <br />Ich habe den Cache überprüft. Der Behälter ist nicht mehr da. Bis Ende dieser Woche werde ich eine neue Dose platzieren.</li><li>2010-08-14T19:00:00Z : Didn't find it by LI*MO <br />Nach langer Suche und Telefonjoker f.etcher nicht geunden. [:(]
+An angegebener Stelle wurde ein Brett der Brücke erneuert. Evtl ist er einem Handwerkermuggel zum Opfer gefallen.  	[:(]
+
+</li></ul></logs>
+  <original-xml>  <wpt  lat="50.469317" lon="9.690967">
+    <time>2009-10-16T07:00:00Z</time>
+    <name>GC1ZXC1</name>
+    <desc>Nasse Sohle III. by PlanBe, Traditional Cache (1.5/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=4352921b-225e-45e6-b1fd-172fa36a0127</url>
+    <urlname>Nasse Sohle III.</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1433412" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Nasse Sohle III.</groundspeak:name>
+      <groundspeak:placed_by>PlanBe</groundspeak:placed_by>
+      <groundspeak:owner id="283938">PlanBe</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">
+      </groundspeak:short_description>
+      <groundspeak:long_description html="False">Dies ist der dritte Cache einer Serie von 5 Caches welche an der Döllbach entlang versteckt wurden. Von der Mündung bis zur Quelle könnt ihr vier Caches bergen. 
+
+In jedem der Caches steht im Deckel ein Teil der Koordinaten des Bonuscaches. Dieser liegt in der Nähe der Quelle. Im Deckel von Nasse Sohle III. stehen die Minuten von Ost. Im Sommer kann schon reger Muggelverkehr hier sein. 
+
+Achtung:Bei Hochwasser kann der Cache in der Regel nicht geborgen werden!
+
+Bitte wieder richtig festklemmen! 
+
+Hier die Liste der Nasse-Sohle-Serie: 
+Nasse Sohle I.   GC1ETZV  http://www.geocaching.com/seek/cache_details.aspx?guid=14e40d3c-e3d3-44c3-b7c1-40b978e12894
+Nasse Sohle II.  GC1ZXC0
+http://www.geocaching.com/seek/cache_details.aspx?guid=a4336448-1d2f-43f7-b76e-8b736ba0ed51
+Nasse Sohle III. GC1ZXC1  http://www.geocaching.com/seek/cache_details.aspx?guid=4352921b-225e-45e6-b1fd-172fa36a0127
+Nasse Sohle IV. GC1ZXC6  http://www.geocaching.com/seek/cache_details.aspx?guid=4db0ab33-95e2-41a7-b9f0-ad6e7955fae5
+Nasse Sohle V.  GC1ZXC9  http://www.geocaching.com/seek/cache_details.aspx?guid=fee39c71-9b3c-43d5-b475-5cbe3988da6f</groundspeak:long_description>
+      <groundspeak:encoded_hints>Der Name sagt alles!</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="128268185">
+          <groundspeak:date>2010-09-24T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2724623">Camuvlash</groundspeak:finder>
+          <groundspeak:text encoded="False">TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="127622699">
+          <groundspeak:date>2010-09-19T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3620737">woodi65</groundspeak:finder>
+          <groundspeak:text encoded="False">Heute Abend noch schnell gesucht und gefunden.
+TFTC </groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="124896381">
+          <groundspeak:date>2010-09-02T18:36:13Z</groundspeak:date>
+          <groundspeak:type>Enable Listing</groundspeak:type>
+          <groundspeak:finder id="283938">PlanBe</groundspeak:finder>
+          <groundspeak:text encoded="False">Ich habe eine neue Dose deponiert. BYOP!
+Der Cache ist wieder freigegeben!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="124677648">
+          <groundspeak:date>2010-08-31T19:35:15Z</groundspeak:date>
+          <groundspeak:type>Temporarily Disable Listing</groundspeak:type>
+          <groundspeak:finder id="283938">PlanBe</groundspeak:finder>
+          <groundspeak:text encoded="False">Ich habe den Cache überprüft. Der Behälter ist nicht mehr da. Bis Ende dieser Woche werde ich eine neue Dose platzieren.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="121813967">
+          <groundspeak:date>2010-08-14T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Didn't find it</groundspeak:type>
+          <groundspeak:finder id="2583892">LI*MO</groundspeak:finder>
+          <groundspeak:text encoded="False">Nach langer Suche und Telefonjoker f.etcher nicht geunden. [:(]
+An angegebener Stelle wurde ein Brett der Brücke erneuert. Evtl ist er einem Handwerkermuggel zum Opfer gefallen.  	[:(]
+
+</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

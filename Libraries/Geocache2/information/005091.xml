@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>005091</id>
+  <cache-id>S3186VB</cache-id>
+  <type>Waypoint</type>
+  <name>3rd stage</name>
+  <placed>2008-02-05</placed>
+  <lat>53.51425</lat>
+  <lon>-6.5393</lon>
+  <attributes>hidden</attributes>
+  <description>stage 3 of the multi</description>
+  <url>http://www.geocaching.com/seek/wpt.aspx?WID=4c2174bc-6e5f-44a8-b04f-8acedb145fa0</url>
+  <url-name>3rd stage</url-name>
+</element>
+</celsiusv2.1.addinfofile>

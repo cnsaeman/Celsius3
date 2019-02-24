@@ -1,0 +1,114 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>008640</id>
+  <cache-id>GC2CXMZ</cache-id>
+  <type>Traditional Cache</type>
+  <name>Rund um Neuhof 5 by capitanok9, Traditional Cache (2/1.5)</name>
+  <size>Micro</size>
+  <difficulty>2</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-09-19</last-found>
+  <placed>2010-08-05</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>capitanok9</placedby>
+  <found>Geocache</found>
+  <lat>50.480333</lat>
+  <lon>9.628483</lon>
+  <last-logs>WFFFF</last-logs>
+  <owner>capitanok9</owner>
+  <description>Die angegebenen Koordinaten sind nicht die Endkoordinaten.
+Kompass erforderlich!!</description>
+  <long-description>Ihr steht an einem kleinen idyllischen kleinen Weiher mitten im Wald. In der Umgebung, ca. 20 m von den angegebenen Koordinaten entfernt findet ihr einen Baum, in den einige Zahlen und Buchstaben eineritzt sind.
+Den Cache findet ihr wie folgt:
+Setze vor die Jahreszahl mit dem Datum 17.4. eine 2 und du hast die Grad-Zahl, in die du gehen mußt. Die Entfernung in m erhällst du, wenn du von den beiden letzten Ziffern der Jahreszahl mit dem 21.12. die Zahl 32 subtrahierst. ( z.B. Jahreszahl 1864 - dann 64 - 32 )
+
+Additional Waypoints
+112CXMZ - B-Land
+N 50° 28.806 E 009° 37.700
+Hier kann man parken
+</long-description>
+  <encoded-hints>Nicht bücken - nicht klettern</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=79e57cb0-be0e-486d-a672-51d64a8c26d9</url>
+  <url-name>Rund um Neuhof 5</url-name>
+  <logs><ul><li>2010-10-31T19:00:00Z : Write note by fezi <br />Das Logbuch ist voll! (Haben uns hinten eingetragen)</li><li>2010-10-31T19:00:00Z : Found it by fezi <br />Nach ein wenig Nachdenken schnell gefunden.
+TFTC fezi</li><li>2010-10-24T19:00:00Z : Found it by PeWi09 <br />Tolle Location, ohne Bedosung wären wir nie hierher gekommen.
+Aber ohne die zarten Arme des femininen Teils von uns hätte uns das auch nichts genutzt, denn die Sicherung war weg und die Dose somit fast unerreichbar.
+TFTC
+PeWi09</li><li>2010-10-22T19:00:00Z : Found it by Helup <br />Mit dem MTB on Tour.Cache gut und schnell gefunden!
+
+Gruß und Danke Team Helup</li><li>2010-09-19T19:00:00Z : Found it by Anonyme_Laeufer <br />Der Kleine war nach kurzem Peilen und etwas Suchen gut zu finden. Ein schöner Ort, den man so sicher nicht unbedingt finden würde. Danke</li></ul></logs>
+  <original-xml>  <wpt  lat="50.480333" lon="9.628483">
+    <time>2010-08-05T07:00:00Z</time>
+    <name>GC2CXMZ</name>
+    <desc>Rund um Neuhof 5 by capitanok9, Traditional Cache (2/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=79e57cb0-be0e-486d-a672-51d64a8c26d9</url>
+    <urlname>Rund um Neuhof 5</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1820972" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Rund um Neuhof 5</groundspeak:name>
+      <groundspeak:placed_by>capitanok9</groundspeak:placed_by>
+      <groundspeak:owner id="3123857">capitanok9</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>2</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">Die angegebenen Koordinaten sind nicht die Endkoordinaten.
+Kompass erforderlich!!</groundspeak:short_description>
+      <groundspeak:long_description html="False">Ihr steht an einem kleinen idyllischen kleinen Weiher mitten im Wald. In der Umgebung, ca. 20 m von den angegebenen Koordinaten entfernt findet ihr einen Baum, in den einige Zahlen und Buchstaben eineritzt sind.
+Den Cache findet ihr wie folgt:
+Setze vor die Jahreszahl mit dem Datum 17.4. eine 2 und du hast die Grad-Zahl, in die du gehen mußt. Die Entfernung in m erhällst du, wenn du von den beiden letzten Ziffern der Jahreszahl mit dem 21.12. die Zahl 32 subtrahierst. ( z.B. Jahreszahl 1864 - dann 64 - 32 )
+
+Additional Waypoints
+112CXMZ - B-Land
+N 50° 28.806 E 009° 37.700
+Hier kann man parken
+</groundspeak:long_description>
+      <groundspeak:encoded_hints>Nicht bücken - nicht klettern</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="133908664">
+          <groundspeak:date>2010-10-31T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Write note</groundspeak:type>
+          <groundspeak:finder id="2007251">fezi</groundspeak:finder>
+          <groundspeak:text encoded="False">Das Logbuch ist voll! (Haben uns hinten eingetragen)</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="133906784">
+          <groundspeak:date>2010-10-31T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2007251">fezi</groundspeak:finder>
+          <groundspeak:text encoded="False">Nach ein wenig Nachdenken schnell gefunden.
+TFTC fezi</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="132921613">
+          <groundspeak:date>2010-10-24T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2651726">PeWi09</groundspeak:finder>
+          <groundspeak:text encoded="False">Tolle Location, ohne Bedosung wären wir nie hierher gekommen.
+Aber ohne die zarten Arme des femininen Teils von uns hätte uns das auch nichts genutzt, denn die Sicherung war weg und die Dose somit fast unerreichbar.
+TFTC
+PeWi09</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="132520951">
+          <groundspeak:date>2010-10-22T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2254555">Helup</groundspeak:finder>
+          <groundspeak:text encoded="False">Mit dem MTB on Tour.Cache gut und schnell gefunden!
+
+Gruß und Danke Team Helup</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="127531151">
+          <groundspeak:date>2010-09-19T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1648570">Anonyme_Laeufer</groundspeak:finder>
+          <groundspeak:text encoded="False">Der Kleine war nach kurzem Peilen und etwas Suchen gut zu finden. Ein schöner Ort, den man so sicher nicht unbedingt finden würde. Danke</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

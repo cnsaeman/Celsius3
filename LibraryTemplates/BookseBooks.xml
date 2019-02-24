@@ -1,0 +1,200 @@
+<?xml version="1.0"?>
+<celsiusv2.2.librarytemplates>
+<element>
+  <name>Books/eBooks</name>
+  <index>title|authors|pages|identifier|type|keywords</index>
+  <tablecolumns>type|title|authors&1</tablecolumns>
+  <columnheaders>|Title|Authors</columnheaders>
+  <columntypes>symbol|text|people</columntypes>
+  <columnsizes>-20|336|151</columnsizes>
+  <autosortcolumn>1</autosortcolumn>
+  <people>authors</people>
+  <plugins-manual>Convert ps.gz to pdf|Create Thumbnails (epub,djvu,pdf)|CropPDF/eReader|Look at Amazon|Look at PhilSci Archive|Identify Barcode|Stamp PDF Header|Repair PDF</plugins-manual>
+  <plugins-auto>Get from Filename|Get from PDF Header|Get from header|Get from arXiv|Get from Spires</plugins-auto>
+  <plugins-export></plugins-export>
+  <filetypes>pdf|ps.gz|djvu|epub|html|war|rtf</filetypes>
+  <searchtags>title|authors|remarks|pages|type|filetype|lastmodified|date|filesize|plaintext</searchtags>
+  <hide>MenuItem:Set my location to current item's location</hide>
+  <essential-fields>title|authors</essential-fields>
+  <differentiating-fields>title|authors</differentiating-fields>
+  <item-representation>"#title#" by #authors&1#</item-representation>
+  <naming-convention>#title# (#authors&1#).#filetype#</naming-convention>
+  <choice-fields>type:Book,Cartoon,eBook,Lecture Notes,Manual,Newspaper Article,Other,Paper,Preprint,Review,Sheet Music,Talk,Thesis</choice-fields>
+  <icon-fields>type</icon-fields>
+  <item-folder>LD::documents</item-folder>
+  <infoMode-0><html>
+<body>
+<table width='100%'>
+<tr>
+<td valign='top'>
+<b>#authors&4#</b>
+<h2>#title#</h2>
+#pages# pages
+#if#location#, #filesize#
+#if#arxiv-name#, #arxiv-name#/#arxiv-number#
+#if#date#, #date#
+<br>registered in:
+#if#autoregistered# |#autoregistered#|
+#if#registered# |#registered#|
+<br>
+#if#filetype#<a href='http://$$view'>#filetype#-file</a>&nbsp;
+#if#altversions# #altversions#
+#if#journallink#<a href='http://$$journallink'>Journal link</a>&nbsp;
+#if#bibtex.doi#<a href='http://dx.doi.org/#bibtex.doi#'>doi-link</a>&nbsp;
+#if#arxiv-ref#<a href='http://www.arxiv.org/abs/#arxiv-ref#'>arXiv</a>&nbsp;
+#if#spires-key#<a href='http://www.slac.stanford.edu/spires/find/hep/www?rawcmd=FIND+key+#spires-key#'>Slac-SPIRES</a>&nbsp;
+#if#arxiv-ref#<a href='http://citebase.eprints.org/cgi-bin/citations?id=oai:arXiv.org:#arxiv-ref#'>CiteBase</a>&nbsp;
+#if#arxiv-ref#<a href='http://eprintweb.org/S/article/#arxiv-name#/#arxiv-number#'>eprintWeb</a>&nbsp;
+#if#amazon-link#<a href='#amazon-link#'>Amazon</a>&nbsp;
+#if#abstract#<h3>Abstract</h3>
+#if#abstract# #abstract#<br>
+<br>
+#if#remarks# <b>Remarks:</b> #remarks#
+#if#bibtex# <h3>Bibliographic information</h3>
+#if#bibtex# <pre width="20">#bibtex#</pre><br>
+<h3>Celsius related information</h3>
+ID: #id#
+#if#recognition#, recognition level: #recognition#.
+</td><td valign='top'>
+#if#thumbnail#<img src='file:#$thumbnail#'>
+</td></tr>
+</table>
+</body>
+</html></infoMode-0>
+  <infoMode-1><html><body>
+<h2>#person#</h2>
+<hr>
+<br>
+From this author: #currentitems# documents with #currentpages# pages in the library.<br>
+<br>
+#if#homepage# <a href="#homepage#">Homepage</a>&nbsp;
+#if#email# #email#&nbsp;
+<br><br>
+<b>Collaborators:</b><br>
+#collaborators#
+#if#remarks# <br><br><b>Remarks:</b><br>#remarks#</body></html></infoMode-1>
+  <infoMode-2><html><body>
+<h2>#category#</h2>
+<hr>
+<br>
+In this category: #currentitems# documents with #currentpages# pages in the library.<br>
+</body></html></infoMode-2>
+  <infoMode-3><html><body>
+<h2>Multiple documents selected</h2>
+<hr>
+<br>
+In this selection: #currentitems# documents with #currentpages# pages in the library.<br>
+</body></html></infoMode-3>
+  <infoMode-4><html><body>
+<h2>#category#</h2>
+<hr>
+<br>
+In this category: #currentitems# documents with #currentpages# pages in the library.<br>
+</body></html></infoMode-4>
+  <infoMode-5><html><body>
+<h2>General Search</h2>
+<hr>
+<br>
+In these search results: #currentitems# documents with #currentpages# pages in the library.<br>
+</body></html></infoMode-5>
+  <infoMode-6><html><body>
+<h2>Keyword Search</h2>
+<hr>
+<br>
+In these search results: #currentitems# documents with #currentpages# pages in the library.<br>
+</body></html></infoMode-6>
+  <infoMode-7><html><body>
+<h2>Links</h2>
+<hr>
+<br>
+Links of this type: #currentitems# documents with #currentpages# pages in the library.<br>
+</body></html></infoMode-7>
+  <stylesheet>body {color:#000; font-family:sans; margin: 4px; }
+h1 {color: darkgray;}
+h2 {color: darkgray;}
+</stylesheet>
+  <librarystructure><?xml version='1.0'?>
+<menu title="Library">
+    <menu title="Klassiker">
+        <menu title="deutsch (Klassiker)"/>
+        <menu title="english (Classics)"/>
+        <menu title="francais (classique)"/>
+    </menu>
+    <menu title="Romane und Novellen"/>
+    <menu title="Pop-Literatur">
+        <menu title="Fantasy"/>
+        <menu title="James Bond"/>
+        <menu title="Sookie Stackhouse"/>
+    </menu>
+    <menu title="Lyrik"/>
+    <menu title="Humor"/>
+    <menu title="Comic"/>
+    <menu title="Märchen und Kinderbücher"/>
+    <menu title="Spiritualia">
+        <menu title="Okkultistisches"/>
+        <menu title="Christliches"/>
+        <menu title="Esoterik"/>
+        <menu title="Licht und Liebe"/>
+    </menu>
+    <menu title="Reisen">
+        <menu title="Reiseführer"/>
+        <menu title="Reiseberichte"/>
+        <menu title="Orte und ihre Geschichte"/>
+    </menu>
+    <menu title="Kunst"/>
+    <menu title="Philosophie">
+        <menu title="PhiSci papers"/>
+        <menu title="Epistemology"/>
+    </menu>
+    <menu title="Biographien und Interviews"/>
+    <menu title="Naturwissenschaftliches">
+        <menu title="Numerology"/>
+        <menu title="Populärwissenschaftliches"/>
+        <menu title="Neuroscience"/>
+        <menu title="Archäologie">
+            <menu title="Atlantis"/>
+        </menu>
+        <menu title="Dinosaurier"/>
+        <menu title="Papers for eReader"/>
+    </menu>
+    <menu title="Sachbücher, div.">
+        <menu title="Geschichte & Politik">
+            <menu title="Atlantis"/>
+        </menu>
+        <menu title="Kochbücher"/>
+        <menu title="Ratgeber">
+            <menu title="Sex"/>
+        </menu>
+        <menu title="Style"/>
+        <menu title="EDV">
+            <menu title="LaTeX"/>
+            <menu title="MySQL, PHP and HTML"/>
+            <menu title="JAVA"/>
+            <menu title="iPhone"/>
+            <menu title="Facebook"/>
+            <menu title="Other Programming Languages"/>
+            <menu title="Mathematica"/>
+            <menu title="Android"/>
+        </menu>
+        <menu title="Soziologie etc."/>
+        <menu title="Manuals"/>
+        <menu title="Crackpottery"/>
+        <menu title="Illusionism"/>
+        <menu title="Medizin etc."/>
+        <menu title="Financial"/>
+    </menu>
+    <menu title="Science Administrivia"/>
+    <menu title="Sony Reader">
+        <menu title="read on eReader"/>
+        <menu title="Bad format for eReader"/>
+    </menu>
+    <menu title="Dell Streak">
+        <menu title="read on Dell"/>
+    </menu>
+</menu>
+</librarystructure>
+  <libraryrules><?xml version='1.0'?>
+<rules/>
+</libraryrules>
+</element>
+</celsiusv2.2.librarytemplates>

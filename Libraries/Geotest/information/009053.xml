@@ -1,0 +1,114 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>009053</id>
+  <cache-id>GC1ZGQE</cache-id>
+  <type>Traditional Cache</type>
+  <name>St. Maria Kirche by hungry.knight, Traditional Cache (1/1)</name>
+  <size>Micro</size>
+  <difficulty>1</difficulty>
+  <terrain>1</terrain>
+  <last-found>2010-10-31</last-found>
+  <placed>2009-10-05</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>hungry.knight</placedby>
+  <found>Geocache</found>
+  <lat>50.53675</lat>
+  <lon>9.693833</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>hungry.knight</owner>
+  <description>Ein weiterer Cache der Fuldaer Kirchencachereihe. A further cache in a series of churches in Fulda.</description>
+  <long-description>Dies ist ein schneller Drive-In der Fuldaer Kirchencachereihe.
+
+Die Serie soll die Vielfalt der Kirchen in Fulda zeigen.
+Der Cache liegt an der katholischen St. Maria Kirche in Fulda.
+
+Wer Informationen über diese Kirche (Baujahr, etc) hat, kann mir diese gerne mitteilen und ich bringe sie in der Beschreibung mit ein.
+
+Es handelt sich um einen kleinen Behälter.
+Bitte Stift mitbringen!!!
+Und am besten NICHT zu Kirchzeiten suchen. Zu viele Kirchenmuggels:)</long-description>
+  <encoded-hints>Kiesbeet</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=befaad05-3460-4ba2-9d6d-2e315724d454</url>
+  <url-name>St. Maria Kirche</url-name>
+  <logs><ul><li>2010-11-23T20:00:00Z : Found it by Griesgor <br />Heute um  1o Uhr gefunden.Leider ist das Logbuch total durchnässt und unleserlich.Hatte keins dabei aber es wäre schön wenn es ausgetauscht würde .Es ist unbedingt erfordlich.Sonst ist alles ok .Schönen Dank für den Cache.Gruß Griesgor</li><li>2010-11-19T20:00:00Z : Found it by teammautz <br />Kirchenmuggels gab es am Freitag-Nachmittag nicht, dafür aber 2 Frauen, die uns vom gegenüber liegenden Kiga etwas auffällig anstarrten. Vielleicht war es Ausdruck der angesichts der frisch ausgegebenenTerrorwarnung geforderten Achtsamkeit. Den Cache fanden wir schnell. Das Logbuch ist ziemlich ramponiert und kaum noch zu gebrauchen!</li><li>2010-11-19T08:00:00Z : Found it by Monchichí <br />Schnell gefunden und das bei Dunkelheit [:)] Das Logbuch ist feucht, bitte erneuern!</li><li>2010-11-14T20:00:00Z : Found it by s186003 <br />Schnell gefunden.
+TFTC</li><li>2010-10-31T19:00:00Z : Found it by Querfahrer <br />Bei unserer Fulda-Runde auch dieses Döschen gesucht und gefunden.
+
+Danke für den Cache
+
+Grüße
+Susi und Uwe</li></ul></logs>
+  <original-xml>  <wpt  lat="50.53675" lon="9.693833">
+    <time>2009-10-05T07:00:00Z</time>
+    <name>GC1ZGQE</name>
+    <desc>St. Maria Kirche by hungry.knight, Traditional Cache (1/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=befaad05-3460-4ba2-9d6d-2e315724d454</url>
+    <urlname>St. Maria Kirche</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1422234" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>St. Maria Kirche</groundspeak:name>
+      <groundspeak:placed_by>hungry.knight</groundspeak:placed_by>
+      <groundspeak:owner id="2129485">hungry.knight</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">Ein weiterer Cache der Fuldaer Kirchencachereihe. A further cache in a series of churches in Fulda.</groundspeak:short_description>
+      <groundspeak:long_description html="False">Dies ist ein schneller Drive-In der Fuldaer Kirchencachereihe.
+
+Die Serie soll die Vielfalt der Kirchen in Fulda zeigen.
+Der Cache liegt an der katholischen St. Maria Kirche in Fulda.
+
+Wer Informationen über diese Kirche (Baujahr, etc) hat, kann mir diese gerne mitteilen und ich bringe sie in der Beschreibung mit ein.
+
+Es handelt sich um einen kleinen Behälter.
+Bitte Stift mitbringen!!!
+Und am besten NICHT zu Kirchzeiten suchen. Zu viele Kirchenmuggels:)</groundspeak:long_description>
+      <groundspeak:encoded_hints>Kiesbeet</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="136896138">
+          <groundspeak:date>2010-11-23T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3701621">Griesgor</groundspeak:finder>
+          <groundspeak:text encoded="False">Heute um  1o Uhr gefunden.Leider ist das Logbuch total durchnässt und unleserlich.Hatte keins dabei aber es wäre schön wenn es ausgetauscht würde .Es ist unbedingt erfordlich.Sonst ist alles ok .Schönen Dank für den Cache.Gruß Griesgor</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="136369081">
+          <groundspeak:date>2010-11-19T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3644172">teammautz</groundspeak:finder>
+          <groundspeak:text encoded="False">Kirchenmuggels gab es am Freitag-Nachmittag nicht, dafür aber 2 Frauen, die uns vom gegenüber liegenden Kiga etwas auffällig anstarrten. Vielleicht war es Ausdruck der angesichts der frisch ausgegebenenTerrorwarnung geforderten Achtsamkeit. Den Cache fanden wir schnell. Das Logbuch ist ziemlich ramponiert und kaum noch zu gebrauchen!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="136373325">
+          <groundspeak:date>2010-11-19T08:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3497943">Monchichí</groundspeak:finder>
+          <groundspeak:text encoded="False">Schnell gefunden und das bei Dunkelheit [:)] Das Logbuch ist feucht, bitte erneuern!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="136074645">
+          <groundspeak:date>2010-11-14T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2819456">s186003</groundspeak:finder>
+          <groundspeak:text encoded="False">Schnell gefunden.
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="137734422">
+          <groundspeak:date>2010-10-31T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="292031">Querfahrer</groundspeak:finder>
+          <groundspeak:text encoded="False">Bei unserer Fulda-Runde auch dieses Döschen gesucht und gefunden.
+
+Danke für den Cache
+
+Grüße
+Susi und Uwe</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

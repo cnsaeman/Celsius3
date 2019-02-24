@@ -1,0 +1,122 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>003210</id>
+  <cache-id>GC1NTNV</cache-id>
+  <type>Traditional Cache</type>
+  <name>Fuldaer Häuser 2 by balalaika, Traditional Cache (1/1.5)</name>
+  <size>Regular</size>
+  <difficulty>1</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-10-06</last-found>
+  <placed>2009-03-17</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>balalaika</placedby>
+  <found>Geocache</found>
+  <lat>50.558533</lat>
+  <lon>9.657117</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>balalaika</owner>
+  <description>
+      </description>
+  <long-description>Sturmiusbräu und Sanitätskraftbier aus der Tivoli - Brauerei
+
+Heute als „Einkaufen mit Spaß-Faktor“ angepriesen, hat es hier einmal ganz anders angefangen. Der Fuldaer Maurermeister Adam Heres war es, der nach dem Bahnbau auf die Idee kam, hier auf dem Ackerland des ehemaligen Katharinenhospitals f+ür seinen Schwiegersohn, dem Bierbrauer Vinzenz Spietschka, eine große Mälzerei-Brauerei zu errichten. Im Jahre 1880 war die „Erstausführung“ der Brauerei – die den Namen Tivoli erhielt – fertig gestellt. Die Erzeugnisse der Tivoli Brauerei wurden mit zahlreichen Goldmedaillen ausgezeichnet. Nach 1900 wurden mehrere Gastwirte Eigentümer der Brauerei. Zug um Zug wurden die Baulichkeiten verändert und erweitert. Auch die Geselligkeit kam im Brauereibetrieb nicht zu kurz. So wurde alljährlich im Sommer ein zünftiges „Kellerfest“ gefeiert, wo Geschäftsleitung und angestellte Brauer, Büttner, Gehilfen, Knechte, Bierfahrer und Heizer samt Familien zusammenkamen. Der Erste Weltkrieg und seine Folgen bedeuteten das Aus der Tivoli-Brauerei. In den folgenden Jahrzehnten zogen mehrere andere Firmen in das Domizil ein und wieder aus. 
+Leider wurde das historische Backsteingebäude nicht unter Denkmalschutz gestellt. So kam es, dass das alte Gebäude, das mit seinen durch mehrere Aufzüge verbundenen, mehrstöckigen, großen Kellergewölben ideal für eine Lagervorhaltung gewesen wären, nicht in ein neues Bebauungskozept miteingebunden wurde.
+Im Mai 2000 wurde das Gebäude abgerissen. An gleicher Stelle errichtete man das in den Hang eingegrabene futuristische und architektonisch außergewöhnliche Bauwerk. 
+Zum Glück ist ein bisschen der alten Tradition erhalten geblieben, denn auch heute bekommt man hier noch sehr gutes Bier.
+
+Parken kannst du bei N 50°33.490`; E 009°39.471`
+Zum Cache ist es ein kurzer Weg, von dem man nur auf den letzten paar Metern abweichen muss. Die Bundesstraße und die Bahnlinie bleiben in sicherer Entfernung.</long-description>
+  <encoded-hints>Die Getränke in Sichtweite.</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=94aaf7f8-17e4-485d-ab2b-d76b47ea9006</url>
+  <url-name>Fuldaer Häuser 2</url-name>
+  <logs><ul><li>2010-11-21T20:00:00Z : Found it by balu-fd <br />TFTC! Die Kords waren zwar ziemlich off, aber wir haben ihn dennoch gefunden.
+Gruß balu-fd und Freunde</li><li>2010-10-31T19:00:00Z : Found it by DieMoosis <br />Interessantes Gebäude; Cache war gut zu finden.
+TFTC</li><li>2010-10-22T19:00:00Z : Found it by Vonto <br />Um 13.55 Uhr gefunden und dann waren wir einkaufen.
+TFTC Vonto
+IN: Coin</li><li>2010-10-18T19:00:00Z : Found it by s186003 <br />Gut gefunden.
+TFTC</li><li>2010-10-06T19:00:00Z : Found it by Papa und Co. <br />Naja, der Hint hat mich erst ein bisschen verwirrt, v.a. da man vom Cache aus das Betreffende nicht unbedingt sieht...
+DFDC
+PuC
+-TB, oder was davon übrig war...</li></ul></logs>
+  <original-xml>  <wpt  lat="50.558533" lon="9.657117">
+    <time>2009-03-17T07:00:00Z</time>
+    <name>GC1NTNV</name>
+    <desc>Fuldaer Häuser 2 by balalaika, Traditional Cache (1/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=94aaf7f8-17e4-485d-ab2b-d76b47ea9006</url>
+    <urlname>Fuldaer Häuser 2</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1162714" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Fuldaer Häuser 2</groundspeak:name>
+      <groundspeak:placed_by>balalaika</groundspeak:placed_by>
+      <groundspeak:owner id="1414299">balalaika</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Regular</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">
+      </groundspeak:short_description>
+      <groundspeak:long_description html="False">Sturmiusbräu und Sanitätskraftbier aus der Tivoli - Brauerei
+
+Heute als „Einkaufen mit Spaß-Faktor“ angepriesen, hat es hier einmal ganz anders angefangen. Der Fuldaer Maurermeister Adam Heres war es, der nach dem Bahnbau auf die Idee kam, hier auf dem Ackerland des ehemaligen Katharinenhospitals f+ür seinen Schwiegersohn, dem Bierbrauer Vinzenz Spietschka, eine große Mälzerei-Brauerei zu errichten. Im Jahre 1880 war die „Erstausführung“ der Brauerei – die den Namen Tivoli erhielt – fertig gestellt. Die Erzeugnisse der Tivoli Brauerei wurden mit zahlreichen Goldmedaillen ausgezeichnet. Nach 1900 wurden mehrere Gastwirte Eigentümer der Brauerei. Zug um Zug wurden die Baulichkeiten verändert und erweitert. Auch die Geselligkeit kam im Brauereibetrieb nicht zu kurz. So wurde alljährlich im Sommer ein zünftiges „Kellerfest“ gefeiert, wo Geschäftsleitung und angestellte Brauer, Büttner, Gehilfen, Knechte, Bierfahrer und Heizer samt Familien zusammenkamen. Der Erste Weltkrieg und seine Folgen bedeuteten das Aus der Tivoli-Brauerei. In den folgenden Jahrzehnten zogen mehrere andere Firmen in das Domizil ein und wieder aus. 
+Leider wurde das historische Backsteingebäude nicht unter Denkmalschutz gestellt. So kam es, dass das alte Gebäude, das mit seinen durch mehrere Aufzüge verbundenen, mehrstöckigen, großen Kellergewölben ideal für eine Lagervorhaltung gewesen wären, nicht in ein neues Bebauungskozept miteingebunden wurde.
+Im Mai 2000 wurde das Gebäude abgerissen. An gleicher Stelle errichtete man das in den Hang eingegrabene futuristische und architektonisch außergewöhnliche Bauwerk. 
+Zum Glück ist ein bisschen der alten Tradition erhalten geblieben, denn auch heute bekommt man hier noch sehr gutes Bier.
+
+Parken kannst du bei N 50°33.490`; E 009°39.471`
+Zum Cache ist es ein kurzer Weg, von dem man nur auf den letzten paar Metern abweichen muss. Die Bundesstraße und die Bahnlinie bleiben in sicherer Entfernung.</groundspeak:long_description>
+      <groundspeak:encoded_hints>Die Getränke in Sichtweite.</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="136648961">
+          <groundspeak:date>2010-11-21T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3122379">balu-fd</groundspeak:finder>
+          <groundspeak:text encoded="False">TFTC! Die Kords waren zwar ziemlich off, aber wir haben ihn dennoch gefunden.
+Gruß balu-fd und Freunde</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="134046268">
+          <groundspeak:date>2010-10-31T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2184097">DieMoosis</groundspeak:finder>
+          <groundspeak:text encoded="False">Interessantes Gebäude; Cache war gut zu finden.
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="132905926">
+          <groundspeak:date>2010-10-22T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3341898">Vonto</groundspeak:finder>
+          <groundspeak:text encoded="False">Um 13.55 Uhr gefunden und dann waren wir einkaufen.
+TFTC Vonto
+IN: Coin</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="132168526">
+          <groundspeak:date>2010-10-18T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2819456">s186003</groundspeak:finder>
+          <groundspeak:text encoded="False">Gut gefunden.
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="129976403">
+          <groundspeak:date>2010-10-06T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="316759">Papa und Co.</groundspeak:finder>
+          <groundspeak:text encoded="False">Naja, der Hint hat mich erst ein bisschen verwirrt, v.a. da man vom Cache aus das Betreffende nicht unbedingt sieht...
+DFDC
+PuC
+-TB, oder was davon übrig war...</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs>
+        <groundspeak:travelbug id="1718997" ref="TB29FHE">
+          <groundspeak:name>Dani’s Latschen/Daniels slipper</groundspeak:name>
+        </groundspeak:travelbug>
+      </groundspeak:travelbugs>
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

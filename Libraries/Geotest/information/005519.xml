@@ -1,0 +1,160 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>005519</id>
+  <cache-id>GC24JH8</cache-id>
+  <type>Traditional Cache</type>
+  <name>Blick uff Quetschebimmich by HubiFD, Traditional Cache (1.5/1.5)</name>
+  <size>Micro</size>
+  <difficulty>1.5</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-08-30</last-found>
+  <placed>2010-03-04</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>HubiFD</placedby>
+  <found>Geocache</found>
+  <lat>50.5802</lat>
+  <lon>9.595583</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>HubiFD</owner>
+  <description>
+      </description>
+  <long-description>Dieser Cache ist fast ein Drive in-Cache, wer zu faul ist einen
+kleinen Spaziergang hierher zu machen,<br />
+der kann auch direkt bei dem Cache parken. Wochenends ist hier bei
+schönem Wetter bestimmt ein höheres Rentnermuggelaufkommen.<br />
+2 Bänke laden zum Verweilen ein und bei schönem Wetter hat man
+einen tollen Blick über Quetschebimmich.<br />
+<br />
+<img src="http://www.HubiFD.de/Bildernetz/GC/Quetschebimmich.jpg"
+width="640" height="480" /><br />
+<br />
+<b>Der Cache liegt auf dem Weg zum Mun-Ranch-Cache von
+ubx.</b><br />
+<br />
+<b>Viel Spaß beim Suchen wünscht Euch</b><br />
+<br />
+<table>
+<tr>
+<td align="center"><img src=
+"http://www.zrx-ig-forum.de/phpbb/images/avatars/88864716449a2c1d31eb44.gif" /></td>
+</tr>
+</table>
+<br />
+<br />
+<b>Glückwunsch dem Erstfinder: jonny-blue</b></long-description>
+  <encoded-hints>
+      </encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=715ae804-5312-41b4-886a-ecaa6f32c3ee</url>
+  <url-name>Blick uff Quetschebimmich</url-name>
+  <logs><ul><li>2010-11-28T20:00:00Z : Found it by lillyfelix <br />Schnell gefunden. TFTC</li><li>2010-10-28T19:00:00Z : Found it by cyberk <br />Heute Mittag hier kurz Halt gemacht und die Aussicht genossen. Danke fürs Zeigen.
+TFTC</li><li>2010-10-10T19:00:00Z : Found it by Jobsti(Juppy) <br />Diesen Cache hab ich heute am 10.10.10 besucht!
+Ich hab es hier sogar geschafft, die Dose um 10.10 Uhr zu logen!
+Ein Hit wa?!
+Der Kleine war schnell gefunden, so das noch genug Zeit war, die Aussicht zu genießen.
+
+Danke für den cache, Jobsti!</li><li>2010-09-05T19:00:00Z : Found it by team-pandora <br />Nachdem bei meinen letzten zwei Anläufen einfach nichts zu machen war (Rentner mit Sitzfleisch, Jugendgruppe), konnte diesmal ein rascher Zugriff erfolgen!
+
+Zustand: gut
+TFTH & Grüße an den Owner
+Malcrêatiur für team-pandora
+</li><li>2010-08-30T19:00:00Z : Found it by Griesgor <br />Heute mit Frau mal in die Natur da Sonne und wär findet es natürlich die Frau.Na ja dafür hat mich der herrlicher Blick endschädigt! Das Hobby gefällt mir immer besser.
+
+Gruß Griesgor </li></ul></logs>
+  <original-xml>  <wpt  lat="50.5802" lon="9.595583">
+    <time>2010-03-04T08:00:00Z</time>
+    <name>GC24JH8</name>
+    <desc>Blick uff Quetschebimmich by HubiFD, Traditional Cache (1.5/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=715ae804-5312-41b4-886a-ecaa6f32c3ee</url>
+    <urlname>Blick uff Quetschebimmich</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1572919" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Blick uff Quetschebimmich</groundspeak:name>
+      <groundspeak:placed_by>HubiFD</groundspeak:placed_by>
+      <groundspeak:owner id="2729325">HubiFD</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="True">
+      </groundspeak:short_description>
+      <groundspeak:long_description html="True">Dieser Cache ist fast ein Drive in-Cache, wer zu faul ist einen
+kleinen Spaziergang hierher zu machen,&lt;br /&gt;
+der kann auch direkt bei dem Cache parken. Wochenends ist hier bei
+schönem Wetter bestimmt ein höheres Rentnermuggelaufkommen.&lt;br /&gt;
+2 Bänke laden zum Verweilen ein und bei schönem Wetter hat man
+einen tollen Blick über Quetschebimmich.&lt;br /&gt;
+&lt;br /&gt;
+&lt;img src="http://www.HubiFD.de/Bildernetz/GC/Quetschebimmich.jpg"
+width="640" height="480" /&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Der Cache liegt auf dem Weg zum Mun-Ranch-Cache von
+ubx.&lt;/b&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Viel Spaß beim Suchen wünscht Euch&lt;/b&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td align="center"&gt;&lt;img src=
+"http://www.zrx-ig-forum.de/phpbb/images/avatars/88864716449a2c1d31eb44.gif" /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Glückwunsch dem Erstfinder: jonny-blue&lt;/b&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="137429988">
+          <groundspeak:date>2010-11-28T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3765430">lillyfelix</groundspeak:finder>
+          <groundspeak:text encoded="False">Schnell gefunden. TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="133399216">
+          <groundspeak:date>2010-10-28T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2242879">cyberk</groundspeak:finder>
+          <groundspeak:text encoded="False">Heute Mittag hier kurz Halt gemacht und die Aussicht genossen. Danke fürs Zeigen.
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="130675514">
+          <groundspeak:date>2010-10-10T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="451798">Jobsti(Juppy)</groundspeak:finder>
+          <groundspeak:text encoded="False">Diesen Cache hab ich heute am 10.10.10 besucht!
+Ich hab es hier sogar geschafft, die Dose um 10.10 Uhr zu logen!
+Ein Hit wa?!
+Der Kleine war schnell gefunden, so das noch genug Zeit war, die Aussicht zu genießen.
+
+Danke für den cache, Jobsti!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="126487049">
+          <groundspeak:date>2010-09-05T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1234738">team-pandora</groundspeak:finder>
+          <groundspeak:text encoded="False">Nachdem bei meinen letzten zwei Anläufen einfach nichts zu machen war (Rentner mit Sitzfleisch, Jugendgruppe), konnte diesmal ein rascher Zugriff erfolgen!
+
+Zustand: gut
+TFTH &amp; Grüße an den Owner
+Malcrêatiur für team-pandora
+</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="124638599">
+          <groundspeak:date>2010-08-30T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3701621">Griesgor</groundspeak:finder>
+          <groundspeak:text encoded="False">Heute mit Frau mal in die Natur da Sonne und wär findet es natürlich die Frau.Na ja dafür hat mich der herrlicher Blick endschädigt! Das Hobby gefällt mir immer besser.
+
+Gruß Griesgor </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

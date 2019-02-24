@@ -1,0 +1,197 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>006800</id>
+  <cache-id>GC18R08</cache-id>
+  <type>Traditional Cache</type>
+  <name>St Anne's - Duckpond View by Bootle, Traditional Cache (2/3)</name>
+  <size>Regular</size>
+  <difficulty>2</difficulty>
+  <terrain>3</terrain>
+  <last-found>2008-05-31</last-found>
+  <placed>2008-01-20</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>Bootle</placedby>
+  <found>Geocache Found</found>
+  <lat>53.371967</lat>
+  <lon>-6.1684</lon>
+  <last-logs>FFFFFF</last-logs>
+  <owner>Bootle</owner>
+  <description>
+      </description>
+  <long-description><p align="center"><a target="_blank"
+href="http://www.geocachingireland.com"><img border="0"
+src="http://geocachingireland.com/logo4.jpg" width="328"
+height="53" align="middle" /></a></p>
+<br />
+ This cache is one of a series of caches located in St. Anne's Park
+in north Dublin. The park, straddling the suburbs of Clontarf and
+Raheny, covers 305 acres, and provides a wide range of facilities,
+including football pitches, tennis courts, a golf course, chilren's
+play area, boules courts and model car track. There's even a
+farmer's market in the "red stables" area of the park every
+Saturday. The main avenue, woodland paths, arboretum, rose garden
+and walled garden all provide ideal locations for peaceful walks.
+<br />
+<br />
+The lands for the park were originally acquired by the Guinness
+family in the 1830s. Over the next century the lands were developed
+into a magnificent estate before being acquired by Dublin
+corporation in 1930. While a portion of the estate was transformed
+into a moden housing estate, thankfully most was retained as a
+public park. For a more detailed history of the park, please read
+Joan Ussher Sharkey's "St Anne's - The Story of a Guinness Estate"
+(Woodfield Press, 2002). <br />
+<br />
+Admission to the park is free. Parking can be found at Sybil Hill
+Road, James Larkin Road and Mount Prospect Avenue. While the park
+is generally a very pleasant place, it's probably best to visit the
+park during daylight hours and to make sure you leave no valuables
+on display in your car. <br />
+<br />
+This cache is located at a tower within the woodland area of the
+park. The tower overlooks the quaint duckpond and sad, neglected
+waterfront folly. While the tower and the pond must have been a
+beautiful sight back in their heyday, unfortunately today they are
+located in an area of the park that is not as well maintained as
+other areas. Hence graffiti, litter and broken glass are strew
+around the general area. This should not spoil your visit to the
+location and your hunt for the cache, but it is nonetheless wise to
+tread carefully while hunting! After you have found the cache, pop
+down to the pond and feed the hungry ducks. You can even peer out
+onto the seafront and Bull Island beyond. <br />
+<br />
+The cache is a tablock box.</long-description>
+  <encoded-hints>rear of fallen tree / stump</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=6d3294b9-fbc1-448b-8289-4dfb4ba4777b</url>
+  <url-name>St Anne's - Duckpond View</url-name>
+  <logs><ul><li>2010-06-06T19:00:00Z : Found it by Gruntplace <br />Found while pretending to be looking at a squirrel in between funny looks from dog walkers. Thanks</li><li>2010-06-05T19:00:00Z : Found it by eve1987 <br />Quick find!
+
+And I think i made a terrain 4 out of it :D
+After the cache I saw lots of squarrels, very funny!
+
+Thx, eve</li><li>2010-05-21T19:00:00Z : Found it by toddrm <br />Found after drive down from Belfast.  Cool in the shade; warm in the sun.  TNLNSL.  TFTC.</li><li>2010-05-21T19:00:00Z : Found it by GudrunXY <br />Quickly found.
+TFTC, GudrunXY</li><li>2010-05-15T19:00:00Z : Found it by WeeBookWorm <br />Found when out with my dad (Frezeluberz), gilliancclarke (and her two geo-sprogs) & Zoe andDaddy
+TFTC</li><li>2008-05-31T19:00:00Z : Found it by Kersti.com <br />What a great structure - a little difficult to get to from the angle that we came in on, although an easy path was found out once we were done. Place was littered with broken glass which is a shame. It struck us that in some countries there's no way you'd put your hand in there! Left a couple of TBs</li></ul></logs>
+  <original-xml>  <wpt  lat="53.371967" lon="-6.1684">
+    <time>2008-01-20T08:00:00Z</time>
+    <name>GC18R08</name>
+    <desc>St Anne's - Duckpond View by Bootle, Traditional Cache (2/3)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=6d3294b9-fbc1-448b-8289-4dfb4ba4777b</url>
+    <urlname>St Anne's - Duckpond View</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="773801" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>St Anne's - Duckpond View</groundspeak:name>
+      <groundspeak:placed_by>Bootle</groundspeak:placed_by>
+      <groundspeak:owner id="96113">Bootle</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Regular</groundspeak:container>
+      <groundspeak:difficulty>2</groundspeak:difficulty>
+      <groundspeak:terrain>3</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>Dublin</groundspeak:state>
+      <groundspeak:short_description html="True">
+      </groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;p align="center"&gt;&lt;a target="_blank"
+href="http://www.geocachingireland.com"&gt;&lt;img border="0"
+src="http://geocachingireland.com/logo4.jpg" width="328"
+height="53" align="middle" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;br /&gt;
+ This cache is one of a series of caches located in St. Anne's Park
+in north Dublin. The park, straddling the suburbs of Clontarf and
+Raheny, covers 305 acres, and provides a wide range of facilities,
+including football pitches, tennis courts, a golf course, chilren's
+play area, boules courts and model car track. There's even a
+farmer's market in the "red stables" area of the park every
+Saturday. The main avenue, woodland paths, arboretum, rose garden
+and walled garden all provide ideal locations for peaceful walks.
+&lt;br /&gt;
+&lt;br /&gt;
+The lands for the park were originally acquired by the Guinness
+family in the 1830s. Over the next century the lands were developed
+into a magnificent estate before being acquired by Dublin
+corporation in 1930. While a portion of the estate was transformed
+into a moden housing estate, thankfully most was retained as a
+public park. For a more detailed history of the park, please read
+Joan Ussher Sharkey's "St Anne's - The Story of a Guinness Estate"
+(Woodfield Press, 2002). &lt;br /&gt;
+&lt;br /&gt;
+Admission to the park is free. Parking can be found at Sybil Hill
+Road, James Larkin Road and Mount Prospect Avenue. While the park
+is generally a very pleasant place, it's probably best to visit the
+park during daylight hours and to make sure you leave no valuables
+on display in your car. &lt;br /&gt;
+&lt;br /&gt;
+This cache is located at a tower within the woodland area of the
+park. The tower overlooks the quaint duckpond and sad, neglected
+waterfront folly. While the tower and the pond must have been a
+beautiful sight back in their heyday, unfortunately today they are
+located in an area of the park that is not as well maintained as
+other areas. Hence graffiti, litter and broken glass are strew
+around the general area. This should not spoil your visit to the
+location and your hunt for the cache, but it is nonetheless wise to
+tread carefully while hunting! After you have found the cache, pop
+down to the pond and feed the hungry ducks. You can even peer out
+onto the seafront and Bull Island beyond. &lt;br /&gt;
+&lt;br /&gt;
+The cache is a tablock box.</groundspeak:long_description>
+      <groundspeak:encoded_hints>rear of fallen tree / stump</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="111899355">
+          <groundspeak:date>2010-06-06T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3344705">Gruntplace</groundspeak:finder>
+          <groundspeak:text encoded="False">Found while pretending to be looking at a squirrel in between funny looks from dog walkers. Thanks</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="112540088">
+          <groundspeak:date>2010-06-05T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1617792">eve1987</groundspeak:finder>
+          <groundspeak:text encoded="False">Quick find!
+
+And I think i made a terrain 4 out of it :D
+After the cache I saw lots of squarrels, very funny!
+
+Thx, eve</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="109622118">
+          <groundspeak:date>2010-05-21T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1193301">toddrm</groundspeak:finder>
+          <groundspeak:text encoded="False">Found after drive down from Belfast.  Cool in the shade; warm in the sun.  TNLNSL.  TFTC.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="109379680">
+          <groundspeak:date>2010-05-21T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2694097">GudrunXY</groundspeak:finder>
+          <groundspeak:text encoded="False">Quickly found.
+TFTC, GudrunXY</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="109063730">
+          <groundspeak:date>2010-05-15T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2111147">WeeBookWorm</groundspeak:finder>
+          <groundspeak:text encoded="False">Found when out with my dad (Frezeluberz), gilliancclarke (and her two geo-sprogs) &amp; Zoe andDaddy
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="45693270">
+          <groundspeak:date>2008-05-31T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="320206">Kersti.com</groundspeak:finder>
+          <groundspeak:text encoded="False">What a great structure - a little difficult to get to from the angle that we came in on, although an easy path was found out once we were done. Place was littered with broken glass which is a shame. It struck us that in some countries there's no way you'd put your hand in there! Left a couple of TBs</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs>
+        <groundspeak:travelbug id="1143144" ref="TB1N5AH">
+          <groundspeak:name>Midnight Ramblers Ireland 2007 Geocoin</groundspeak:name>
+        </groundspeak:travelbug>
+        <groundspeak:travelbug id="1877966" ref="TB2ETZF">
+          <groundspeak:name>1982-50 Cent Brisbane Commonwealth Games 10-11</groundspeak:name>
+        </groundspeak:travelbug>
+      </groundspeak:travelbugs>
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

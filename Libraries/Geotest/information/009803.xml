@@ -1,0 +1,114 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>009803</id>
+  <cache-id>GC27R1H</cache-id>
+  <type>Unknown Cache</type>
+  <name>7. Schulstunde: Englisch by f.etcher, Unknown Cache (2.5/2)</name>
+  <size>Micro</size>
+  <difficulty>2.5</difficulty>
+  <terrain>2</terrain>
+  <last-found>2010-09-12</last-found>
+  <placed>2010-05-01</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>f.etcher</placedby>
+  <found>Geocache</found>
+  <lat>50.510417</lat>
+  <lon>9.76225</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>f.etcher</owner>
+  <description>
+      </description>
+  <long-description>Um an der 7. Schulstunde teilnehmen zu können, müsst ihr zunächst am Einschulungstest teilnehmen und erst die 1. bis 6. Stunde überstanden und bestanden haben. Vor Ort müsst ihr dann die 6. Klausur zum Fach Englisch „schreiben“. 
+
+Dies ist keine Multiple Choice Klausur. Wer gar kein Englisch oder nur sehr schlecht kann, sollte ein Wörterbuch mitnehmen!
+
+Um den Spaß und die Herausforderung zu vergrößern, würde ich empfehlen die Klausur vor Ort zu schreiben. Ihr findet diese im Cache "6. Schulstunde". Da dieser cache sonst aber nicht freigeschaltet wird, folgt hier die Aufgabe. Wer also die kleine Herausforderung annehmen und vor Ort lösen möchte, sollte sich das Rätsel nicht anschauen.
+
+Additional Waypoints
+7S27R1H - 7. Schulstunde: Englisch
+N/S  __ ° __ . ___ W/E ___ ° __ . ___ 
+
+</long-description>
+  <encoded-hints>.neuahcsmu reuaneg hcue tetllos dnu githcir rhi dies, thes emuäB dnu enietS rhi nneW</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=11c30efa-7401-4fdf-8a84-076118836ac3</url>
+  <url-name>7. Schulstunde: Englisch</url-name>
+  <logs><ul><li>2010-10-11T19:00:00Z : Found it by Maluma <br />Heute bei bestem Wetter zusammen mit HubiFD gelöst und gefunden
+
+TFTC MALUMA</li><li>2010-10-09T19:00:00Z : Found it by Camuvlash <br />TFTC</li><li>2010-09-21T19:00:00Z : Found it by Dagosch <br />Englisch lag mir auch immer ganz gut, auch hier keine Probleme gehabt! Es mußte nur flotti gehen, wegen den Minimuggels auf Kartoffeljagd.
+Danke sagt Dagosch</li><li>2010-09-21T19:00:00Z : Found it by Mamomi-1 <br />Hier mussten wir ein bischen vorsichtig sein, da viele Schul- und Kindergartenmuggels in der Nähe waren.
+Aber auch hier wurden wir schnell fündig. </li><li>2010-09-12T19:00:00Z : Found it by snefnug <br />zusammen mir morger hab ich diese runde absolviert. auch wenn die schulzeit schon etwas her ist, konnten wir alle caches gut meistern. vielen dank für den schönen spaziergang.</li></ul></logs>
+  <original-xml>  <wpt  lat="50.510417" lon="9.76225">
+    <time>2010-05-01T07:00:00Z</time>
+    <name>GC27R1H</name>
+    <desc>7. Schulstunde: Englisch by f.etcher, Unknown Cache (2.5/2)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=11c30efa-7401-4fdf-8a84-076118836ac3</url>
+    <urlname>7. Schulstunde: Englisch</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Unknown Cache</type>
+    <groundspeak:cache id="1667571" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>7. Schulstunde: Englisch</groundspeak:name>
+      <groundspeak:placed_by>f.etcher</groundspeak:placed_by>
+      <groundspeak:owner id="1498819">f.etcher</groundspeak:owner>
+      <groundspeak:type>Unknown Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>2.5</groundspeak:difficulty>
+      <groundspeak:terrain>2</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">
+      </groundspeak:short_description>
+      <groundspeak:long_description html="False">Um an der 7. Schulstunde teilnehmen zu können, müsst ihr zunächst am Einschulungstest teilnehmen und erst die 1. bis 6. Stunde überstanden und bestanden haben. Vor Ort müsst ihr dann die 6. Klausur zum Fach Englisch „schreiben“. 
+
+Dies ist keine Multiple Choice Klausur. Wer gar kein Englisch oder nur sehr schlecht kann, sollte ein Wörterbuch mitnehmen!
+
+Um den Spaß und die Herausforderung zu vergrößern, würde ich empfehlen die Klausur vor Ort zu schreiben. Ihr findet diese im Cache "6. Schulstunde". Da dieser cache sonst aber nicht freigeschaltet wird, folgt hier die Aufgabe. Wer also die kleine Herausforderung annehmen und vor Ort lösen möchte, sollte sich das Rätsel nicht anschauen.
+
+Additional Waypoints
+7S27R1H - 7. Schulstunde: Englisch
+N/S  __ ° __ . ___ W/E ___ ° __ . ___ 
+
+</groundspeak:long_description>
+      <groundspeak:encoded_hints>.neuahcsmu reuaneg hcue tetllos dnu githcir rhi dies, thes emuäB dnu enietS rhi nneW</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="130895552">
+          <groundspeak:date>2010-10-11T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1380311">Maluma</groundspeak:finder>
+          <groundspeak:text encoded="False">Heute bei bestem Wetter zusammen mit HubiFD gelöst und gefunden
+
+TFTC MALUMA</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="130306935">
+          <groundspeak:date>2010-10-09T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2724623">Camuvlash</groundspeak:finder>
+          <groundspeak:text encoded="False">TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="127920588">
+          <groundspeak:date>2010-09-21T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="374782">Dagosch</groundspeak:finder>
+          <groundspeak:text encoded="False">Englisch lag mir auch immer ganz gut, auch hier keine Probleme gehabt! Es mußte nur flotti gehen, wegen den Minimuggels auf Kartoffeljagd.
+Danke sagt Dagosch</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="127896265">
+          <groundspeak:date>2010-09-21T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="275727">Mamomi-1</groundspeak:finder>
+          <groundspeak:text encoded="False">Hier mussten wir ein bischen vorsichtig sein, da viele Schul- und Kindergartenmuggels in der Nähe waren.
+Aber auch hier wurden wir schnell fündig. </groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="126945241">
+          <groundspeak:date>2010-09-12T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2600711">snefnug</groundspeak:finder>
+          <groundspeak:text encoded="False">zusammen mir morger hab ich diese runde absolviert. auch wenn die schulzeit schon etwas her ist, konnten wir alle caches gut meistern. vielen dank für den schönen spaziergang.</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

@@ -1,0 +1,138 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>005680</id>
+  <cache-id>GC1J8H4</cache-id>
+  <type>Traditional Cache</type>
+  <name>Tracking the Silver Birds by Windsockers, Traditional Cache (1/1.5)</name>
+  <size>Micro</size>
+  <difficulty>1</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-04-01</last-found>
+  <placed>2008-12-01</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>Windsockers</placedby>
+  <found>Geocache</found>
+  <lat>53.42515</lat>
+  <lon>-6.2669</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>Windsockers</owner>
+  <description><center>
+<img src="http://dynimg.rte.ie/00013f1b10dr.jpg" /></center></description>
+  <long-description><p>Dublin Airport is Ireland's biggest airport by with annual
+passengers of around 20 million.<br />
+The airport caters for a wide range of operators both long haul
+european carriers daily services include Aer Lingus, American
+Airlines, Delta Airlines & Continental Airlines.<br />
+Low cost flights from the airport are of course Ryanair which has
+its own hub.<br />
+The airport offers a number of great vantage points for plane
+spotters this being one of them.</p>
+<p><b>The Cache</b></p>
+<p>The cache is a micro sized container please rehide it carefully
+to prevent muggles from discovering its location.</p>
+<center><br />
+<br />
+<img src="http://www.northbeach.ie/gallery/albums/userpics/10001/windsock-anim-small.gif" />
+<br />
+<br />
+ <b>The Windsockers</b></center>
+<br />
+<br />
+<hr size="2" /></long-description>
+  <encoded-hints>Pole</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=566c2dbb-1c73-4607-9d62-cc78481984b4</url>
+  <url-name>Tracking the Silver Birds</url-name>
+  <logs><ul><li>2010-05-29T19:00:00Z : Found it by lochb <br />Quick find after I'd picked up the hire car to drive to Limerick. Lots of rather vocal cows here! My first find in Ireland. TFTC and G'Day from Australia!</li><li>2010-05-08T19:00:00Z : Found it by Fitzet <br />This was a 'Windsockers' themed day of cache finds around the airport.  This was #2 of 7.
+
+SL TFTC</li><li>2010-04-18T19:00:00Z : Found it by dsquaredd2 <br />Lots of grounded birds, none moving. Very sad for one trying to get home. Fourth and last of a long (about 5 mile round trip) to grab several caches surrounding the airport. Starting in sunshine, ending in darkness. This is when I realized I had to go back the way I came, bummer. TFTC!</li><li>2010-04-06T19:00:00Z : Found it by Sean O'Neill <br />17:32 Hrs,#1693.
+TNLNSL
+TFTC</li><li>2010-04-01T19:00:00Z : Found it by Moonshiner Extraordinaire <br />I had tried to find this cache twice before – I didn’t even get to the co-ordinates on 09/02/2009 (note) and a DNF on 23/05/2009 (cache was gone). Today was a bit of an anti-climax – I parked just a few metres away, walked to GPS ‘0’, looked – and there it was. Found at 15:55, just 1 metre from ‘0’. Back to the car to sign the log – then had to wait for a muggle-free moment (that’s a busy road) to replace the cache. Gazillions of Aer Lingus planes came and went. Go raibh maith agat faoi’n taisce.
+
+Moonshiner X (cache #1,257)</li></ul></logs>
+  <original-xml>  <wpt  lat="53.42515" lon="-6.2669">
+    <time>2008-12-01T08:00:00Z</time>
+    <name>GC1J8H4</name>
+    <desc>Tracking the Silver Birds by Windsockers, Traditional Cache (1/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=566c2dbb-1c73-4607-9d62-cc78481984b4</url>
+    <urlname>Tracking the Silver Birds</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1056858" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Tracking the Silver Birds</groundspeak:name>
+      <groundspeak:placed_by>Windsockers</groundspeak:placed_by>
+      <groundspeak:owner id="271623">Windsockers</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>Leinster</groundspeak:state>
+      <groundspeak:short_description html="True">&lt;center&gt;
+&lt;img src="http://dynimg.rte.ie/00013f1b10dr.jpg" /&gt;&lt;/center&gt;</groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;p&gt;Dublin Airport is Ireland's biggest airport by with annual
+passengers of around 20 million.&lt;br /&gt;
+The airport caters for a wide range of operators both long haul
+european carriers daily services include Aer Lingus, American
+Airlines, Delta Airlines &amp;amp; Continental Airlines.&lt;br /&gt;
+Low cost flights from the airport are of course Ryanair which has
+its own hub.&lt;br /&gt;
+The airport offers a number of great vantage points for plane
+spotters this being one of them.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;The Cache&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;The cache is a micro sized container please rehide it carefully
+to prevent muggles from discovering its location.&lt;/p&gt;
+&lt;center&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;img src="http://www.northbeach.ie/gallery/albums/userpics/10001/windsock-anim-small.gif" /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+ &lt;b&gt;The Windsockers&lt;/b&gt;&lt;/center&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;hr size="2" /&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>Pole</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="110669687">
+          <groundspeak:date>2010-05-29T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1042069">lochb</groundspeak:finder>
+          <groundspeak:text encoded="False">Quick find after I'd picked up the hire car to drive to Limerick. Lots of rather vocal cows here! My first find in Ireland. TFTC and G'Day from Australia!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="107532281">
+          <groundspeak:date>2010-05-08T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2451856">Fitzet</groundspeak:finder>
+          <groundspeak:text encoded="False">This was a 'Windsockers' themed day of cache finds around the airport.  This was #2 of 7.
+
+SL TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="104892638">
+          <groundspeak:date>2010-04-18T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1139024">dsquaredd2</groundspeak:finder>
+          <groundspeak:text encoded="False">Lots of grounded birds, none moving. Very sad for one trying to get home. Fourth and last of a long (about 5 mile round trip) to grab several caches surrounding the airport. Starting in sunshine, ending in darkness. This is when I realized I had to go back the way I came, bummer. TFTC!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="103036095">
+          <groundspeak:date>2010-04-06T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="341704">Sean O'Neill</groundspeak:finder>
+          <groundspeak:text encoded="False">17:32 Hrs,#1693.
+TNLNSL
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="105156977">
+          <groundspeak:date>2010-04-01T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="154025">Moonshiner Extraordinaire</groundspeak:finder>
+          <groundspeak:text encoded="False">I had tried to find this cache twice before – I didn’t even get to the co-ordinates on 09/02/2009 (note) and a DNF on 23/05/2009 (cache was gone). Today was a bit of an anti-climax – I parked just a few metres away, walked to GPS ‘0’, looked – and there it was. Found at 15:55, just 1 metre from ‘0’. Back to the car to sign the log – then had to wait for a muggle-free moment (that’s a busy road) to replace the cache. Gazillions of Aer Lingus planes came and went. Go raibh maith agat faoi’n taisce.
+
+Moonshiner X (cache #1,257)</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

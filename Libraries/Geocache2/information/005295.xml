@@ -1,0 +1,132 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>005295</id>
+  <cache-id>GC24QMR</cache-id>
+  <type>Traditional Cache</type>
+  <name>Connolly's Folly by Lotsafish & IrishAbi, Traditional Cache (1.5/1.5)</name>
+  <size>Regular</size>
+  <difficulty>1.5</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-03-08</last-found>
+  <placed>2010-03-07</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>Lotsafish & IrishAbi</placedby>
+  <found>Geocache</found>
+  <lat>53.369733</lat>
+  <lon>-6.5604</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>Lotsafish</owner>
+  <description><b>This is the first in a series of four caches looking at the
+historical sites surrounding Castletown Estate.</b>
+<p><i>All Caches contain FTF Certificates as the FTF
+reward.</i></p></description>
+  <long-description><center><b>Connolly's Folly</b>
+<p><img src="http://img682.imageshack.us/img682/4036/cffaint.jpg"
+height="200" width="200" /></p>
+<p>The Folly was built within Castletown Estate commissioned by
+Katherine Conolly, the philanthropic widow of Speaker William
+Conolly to provide employment for hundreds of the poor of Celbridge
+when the famine of 1740-41 was at its worst. The Obelisk was built
+in 1740 after a particularly severe winter. As a folly, it could be
+seen from the back of Castletown some 2.5 miles (4 km) away.
+Designed by Richard Castle, it is 42 metres (140 feet) high and is
+composed of several arches, adorned by stone pineapples and eagles,
+topped by a massive obelisk pillar. It was restored in 1965 by the
+Irish Georgian Society, and nearby is the grave of Mariga, first
+wife of the Hon.Desmond Guinness of Leixlip Castle. It is currently
+undergoing restoration so beware of muggles...</p>
+<p><b>The cache is a medium size loc-box wrapped in a black
+covering.</b></p>
+</center></long-description>
+  <encoded-hints>Between a rock and a hard place</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=9fa1ff88-143f-41a5-9be6-2c4f7b584b35</url>
+  <url-name>Connolly's Folly</url-name>
+  <logs><ul><li>2010-06-04T19:00:00Z : Found it by Antefix <br />There seems to be restauration in progress - a very interesting place anyway. Thanks for showing.</li><li>2010-05-23T19:00:00Z : Found it by geotej <br />Interesting monument</li><li>2010-05-10T19:00:00Z : Found it by jdunne17 <br />Confused at first. Good one though. </li><li>2010-05-09T19:00:00Z : Found it by SKUKUZA <br />Took iPod cover, left stamps.
+found this one after nice tea and scones at Carton House
+TFTC </li><li>2010-03-08T20:00:00Z : Found it by Moonshiner Extraordinaire <br />Fresh from my FTF find at ‘Leixlip Gate’, I made my way here, parking just at the entry to the folly. It was nice to see restoration work taking place on it. I had been here many years ago (1983) with my wife to be and Stargazer. Being energetic in that era, I climbed to the ‘top’ (as high as one could get), accompanied by Stargazer. I think if I’m back here after the work is complete, I’ll just admire it from ground level… There was just one man working up on the scaffolding & when his back was turned, I scooped up the cache. Quickly & easily found (at 15:44, just 2 metres from ‘0’). Once again, I was impressed by the beautiful stitching on the black covering. Delighted (but not surprised this time) to be FTF again. I brought the cache to the car to examine, took the FTF certificate – and then, when the workman was working, I deftly replaced the cache. Back at the car again, I saw ‘something’ that should have been in the cache… I had to repeat the whole operation… Before leaving, I went in and had a nice chat with the workman – who gave me the whole history (even though I knew it). I told him about a set of stone steps behind the folly, probably leading back to the big house. He didn’t know about them and said he’d check it out. Happy with myself, I went off to do some work in the area and headed home. Go raibh maith agaibh faoi’n taisce san áit seo.
+
+Moonshiner X (cache #1,237)</li></ul></logs>
+  <original-xml>  <wpt  lat="53.369733" lon="-6.5604">
+    <time>2010-03-07T08:00:00Z</time>
+    <name>GC24QMR</name>
+    <desc>Connolly's Folly by Lotsafish &amp; IrishAbi, Traditional Cache (1.5/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=9fa1ff88-143f-41a5-9be6-2c4f7b584b35</url>
+    <urlname>Connolly's Folly</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1577833" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Connolly's Folly</groundspeak:name>
+      <groundspeak:placed_by>Lotsafish &amp; IrishAbi</groundspeak:placed_by>
+      <groundspeak:owner id="2590270">Lotsafish</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Regular</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>Leinster</groundspeak:state>
+      <groundspeak:short_description html="True">&lt;b&gt;This is the first in a series of four caches looking at the
+historical sites surrounding Castletown Estate.&lt;/b&gt;
+&lt;p&gt;&lt;i&gt;All Caches contain FTF Certificates as the FTF
+reward.&lt;/i&gt;&lt;/p&gt;</groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;center&gt;&lt;b&gt;Connolly's Folly&lt;/b&gt;
+&lt;p&gt;&lt;img src="http://img682.imageshack.us/img682/4036/cffaint.jpg"
+height="200" width="200" /&gt;&lt;/p&gt;
+&lt;p&gt;The Folly was built within Castletown Estate commissioned by
+Katherine Conolly, the philanthropic widow of Speaker William
+Conolly to provide employment for hundreds of the poor of Celbridge
+when the famine of 1740-41 was at its worst. The Obelisk was built
+in 1740 after a particularly severe winter. As a folly, it could be
+seen from the back of Castletown some 2.5 miles (4 km) away.
+Designed by Richard Castle, it is 42 metres (140 feet) high and is
+composed of several arches, adorned by stone pineapples and eagles,
+topped by a massive obelisk pillar. It was restored in 1965 by the
+Irish Georgian Society, and nearby is the grave of Mariga, first
+wife of the Hon.Desmond Guinness of Leixlip Castle. It is currently
+undergoing restoration so beware of muggles...&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;The cache is a medium size loc-box wrapped in a black
+covering.&lt;/b&gt;&lt;/p&gt;
+&lt;/center&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>Between a rock and a hard place</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="113114943">
+          <groundspeak:date>2010-06-04T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="886457">Antefix</groundspeak:finder>
+          <groundspeak:text encoded="False">There seems to be restauration in progress - a very interesting place anyway. Thanks for showing.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="110139549">
+          <groundspeak:date>2010-05-23T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1850860">geotej</groundspeak:finder>
+          <groundspeak:text encoded="False">Interesting monument</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="108005021">
+          <groundspeak:date>2010-05-10T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3250084">jdunne17</groundspeak:finder>
+          <groundspeak:text encoded="False">Confused at first. Good one though. </groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="107686320">
+          <groundspeak:date>2010-05-09T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3192026">SKUKUZA</groundspeak:finder>
+          <groundspeak:text encoded="False">Took iPod cover, left stamps.
+found this one after nice tea and scones at Carton House
+TFTC </groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="108949062">
+          <groundspeak:date>2010-03-08T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="154025">Moonshiner Extraordinaire</groundspeak:finder>
+          <groundspeak:text encoded="False">Fresh from my FTF find at ‘Leixlip Gate’, I made my way here, parking just at the entry to the folly. It was nice to see restoration work taking place on it. I had been here many years ago (1983) with my wife to be and Stargazer. Being energetic in that era, I climbed to the ‘top’ (as high as one could get), accompanied by Stargazer. I think if I’m back here after the work is complete, I’ll just admire it from ground level… There was just one man working up on the scaffolding &amp; when his back was turned, I scooped up the cache. Quickly &amp; easily found (at 15:44, just 2 metres from ‘0’). Once again, I was impressed by the beautiful stitching on the black covering. Delighted (but not surprised this time) to be FTF again. I brought the cache to the car to examine, took the FTF certificate – and then, when the workman was working, I deftly replaced the cache. Back at the car again, I saw ‘something’ that should have been in the cache… I had to repeat the whole operation… Before leaving, I went in and had a nice chat with the workman – who gave me the whole history (even though I knew it). I told him about a set of stone steps behind the folly, probably leading back to the big house. He didn’t know about them and said he’d check it out. Happy with myself, I went off to do some work in the area and headed home. Go raibh maith agaibh faoi’n taisce san áit seo.
+
+Moonshiner X (cache #1,237)</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

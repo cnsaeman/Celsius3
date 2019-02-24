@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>004558</id>
+  <cache-id>GCKWZJ</cache-id>
+  <type>Traditional Cache</type>
+  <name>Herrgottseiche - Lüdertal  by Crazy Fam, Traditional Cache (1/1.5)</name>
+  <size>Regular</size>
+  <difficulty>1</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-07-28</last-found>
+  <placed>2004-10-22</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Crazy Fam</placedby>
+  <found>Geocache</found>
+  <lat>50.559683</lat>
+  <lon>9.536783</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>Crazy Fam</owner>
+  <description>Lüdertal in Osthessen, Nähe Schnepfenkapelle</description>
+  <long-description>Dieser Cache kann bei Beachtung der Hinweise auch ohne GPS gefunden werden. In der Nähe Möglichkeit zur Einkehr (Schnepfenkapelle). Bietet eine sehr schöne Aussicht über das Lüdertal, Richtung Fulda bis zur Rhön. Der Cache ist leicht zu finden und zu heben.
+
+
+This Cache can be found with attention of the references also without GPS. Place offers a possibility to visit a coffee-bar (near a little chapel "Schnepfenkapelle") and it has a very beautiful view over the Luedertal, direction Fulda up to the Rhoen-Highlands. The Cache is easy to find and to lift</long-description>
+  <encoded-hints>Von Herrgottseiche ca. 250m Richtung Kleinlüder, links kleiner Brunnen, zur Quelle gehen ca. 10m dicht stehende Fichte/Eiche unter einem Stein.
+
+From "Herrgottseiche" (oak) approx. 250m direction Kleinlueder, on the left a small well, go to the wellspring  approx. to 10m closely standing fir/oak under a stone.</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=0b62b2eb-f144-452b-9241-28fdee68ae0b</url>
+  <url-name>Herrgottseiche - Lüdertal </url-name>
+  <logs><ul><li>2010-09-18T22:08:39Z : Found it by nickneck <br />Eigentlich war es einfach. Haben trotzdem lange gesucht. Kein Trade. Danke nickneck & sanipa</li><li>2010-09-18T19:00:00Z : Found it by Schlehbenny <br />Nach kurzer Suche schnell gefunden. Schöne Tour durch den Bimbacher Wald.
+
+TFTC</li><li>2010-08-21T19:00:00Z : Found it by buchy <br />Den Cache gut gefunden. Danke fürs Herlocken.</li><li>2010-08-21T19:00:00Z : Found it by kaFFeeTrinKer <br />Nachdem ich schon einmal fast hier oben war, mußte ein kleiner Abstecher zur Eiche einfach sein.</li><li>2010-07-28T19:00:00Z : Found it by manide <br />gefunden und wieder guuuuuuut versteckt ;)</li></ul></logs>
+  <original-xml>  <wpt  lat="50.559683" lon="9.536783">
+    <time>2004-10-22T07:00:00Z</time>
+    <name>GCKWZJ</name>
+    <desc>Herrgottseiche - Lüdertal  by Crazy Fam, Traditional Cache (1/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=0b62b2eb-f144-452b-9241-28fdee68ae0b</url>
+    <urlname>Herrgottseiche - Lüdertal </urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="181804" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Herrgottseiche - Lüdertal </groundspeak:name>
+      <groundspeak:placed_by>Crazy Fam</groundspeak:placed_by>
+      <groundspeak:owner id="268711">Crazy Fam</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Regular</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">Lüdertal in Osthessen, Nähe Schnepfenkapelle</groundspeak:short_description>
+      <groundspeak:long_description html="False">Dieser Cache kann bei Beachtung der Hinweise auch ohne GPS gefunden werden. In der Nähe Möglichkeit zur Einkehr (Schnepfenkapelle). Bietet eine sehr schöne Aussicht über das Lüdertal, Richtung Fulda bis zur Rhön. Der Cache ist leicht zu finden und zu heben.
+
+
+This Cache can be found with attention of the references also without GPS. Place offers a possibility to visit a coffee-bar (near a little chapel "Schnepfenkapelle") and it has a very beautiful view over the Luedertal, direction Fulda up to the Rhoen-Highlands. The Cache is easy to find and to lift</groundspeak:long_description>
+      <groundspeak:encoded_hints>Von Herrgottseiche ca. 250m Richtung Kleinlüder, links kleiner Brunnen, zur Quelle gehen ca. 10m dicht stehende Fichte/Eiche unter einem Stein.
+
+From "Herrgottseiche" (oak) approx. 250m direction Kleinlueder, on the left a small well, go to the wellspring  approx. to 10m closely standing fir/oak under a stone.</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="127302017">
+          <groundspeak:date>2010-09-18T22:08:39Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2463372">nickneck</groundspeak:finder>
+          <groundspeak:text encoded="False">Eigentlich war es einfach. Haben trotzdem lange gesucht. Kein Trade. Danke nickneck &amp; sanipa</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="127332277">
+          <groundspeak:date>2010-09-18T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2446909">Schlehbenny</groundspeak:finder>
+          <groundspeak:text encoded="False">Nach kurzer Suche schnell gefunden. Schöne Tour durch den Bimbacher Wald.
+
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="123218847">
+          <groundspeak:date>2010-08-21T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="947042">buchy</groundspeak:finder>
+          <groundspeak:text encoded="False">Den Cache gut gefunden. Danke fürs Herlocken.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="123200662">
+          <groundspeak:date>2010-08-21T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1197640">kaFFeeTrinKer</groundspeak:finder>
+          <groundspeak:text encoded="False">Nachdem ich schon einmal fast hier oben war, mußte ein kleiner Abstecher zur Eiche einfach sein.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="119043502">
+          <groundspeak:date>2010-07-28T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3537159">manide</groundspeak:finder>
+          <groundspeak:text encoded="False">gefunden und wieder guuuuuuut versteckt ;)</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

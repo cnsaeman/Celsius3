@@ -1,0 +1,112 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>004224</id>
+  <cache-id>GC1AMYJ</cache-id>
+  <type>Multi-cache</type>
+  <name>übers Wasser gehen by ubx, Multi-cache (1.5/1.5)</name>
+  <size>Small</size>
+  <difficulty>1.5</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-10-10</last-found>
+  <placed>2008-04-02</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>ubx</placedby>
+  <found>Geocache</found>
+  <lat>50.6069</lat>
+  <lon>9.6253</lon>
+  <last-logs>FWFFF</last-logs>
+  <owner>ubx</owner>
+  <description>drei mal übers Wasser gehen ?? nicht ganz leicht zu lösen !!</description>
+  <long-description>An den Koordinaten solltet ihr nach R1 suchen und in ca 800 m in Richtung Osten könnt ihr das erste mal übers Wasser gehen. Findet das Baujahr und die Bau-Nr. und nehmt die drei letzten Ziffern (3 stell. Zahl) der Bau-Nr. und addiert dazu die 2.+ 3. Stelle (2 stell. Zahl) des Bauj. und davon minus 1. Das ist der Wert für (N 50.36.)??? ;
+nun addiert zu (E 09.37.)120 die letzte Ziffer des Baujahres. Das sind die Koordinaten des 2. Steges. Außerdem seit ihr momentan sehr nahe am Cache " Rock the Bridge " (GC1APN2) den Team Pandora nur einen Tag vor meinem Listing gelegt hat. Ihr bekommt also 2 Caches für eine Suche !!  Beim 2. Cache könnt ihr zum zweiten Mal übers Wasser gehen. Dort zählt die schrägen Stützen, die aussen am Geländer befestigt sind. Diese Zahl = X / gut merken.  
+Nun nehmt die ersten drei Ziffern der Bau-Nr.(3 stell. Zahl) minus 1 und zieht diese Zahl vom N Wert (50.36.)??? des 2.Steges ab. Das ist der N Wert für den Final-Steg und für den E Wert (09.37.)0(Bj 1.+ 2. Stelle (2stellige Zahl)+6. Jetzt habt ihr die Koordinaten um zum Final zu kommen. Es gibt hier Trittsteine im Bachbett , aber es geht nicht immer der direkte Weg (siehe Pic bei hohem Wasserstand) aber man kommt relativ leicht auf anderen Wegen zum Ziel.Von der obersten Stufe des 3. Steges bis zum Final sind es ca = X/2 Meter bis zum Final.Wenn es gar nicht klappt nehmt den 2. Teil des Hints als Ziel.
+
+Additional Waypoints
+ST1AMYJ - Startkoords
+N 50° 36.414 E 009° 37.517
+
+</long-description>
+  <encoded-hints>Final in den Wurzeln eines Baumes/zweifünffünf
+</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=cadf23bc-cccf-449d-a237-fa79b746dba2</url>
+  <url-name>übers Wasser gehen</url-name>
+  <logs><ul><li>2010-10-20T19:00:00Z : Found it by vriskodromo <br />Man, was für ein sonderbarer Cache! Erst hat es gegossen, dann strahlte die Sonne, dann war die Streckenführung in der Tat recht exotisch und dann war die 3. Flussquerung auch nur barfuß zu machen (siehe Foto)... Aber 20 m vom Cache entfernt gibt man ja nicht auf, nur weil's draußen +5 °C sind und man keine Gummistiefel anhat!!!
+DFDC, vriskodromo</li><li>2010-10-10T19:00:00Z : Write note by LI*MO <br />Coin in</li><li>2010-10-10T19:00:00Z : Found it by LI*MO <br />Zusammen mit f.etcher und born to Cache gefunden. Wie schon gesagt war die Wegführung etwas ungewöhnlich doch die Final Location war sehr schön. 
+
+TFTC
+
+</li><li>2010-10-10T19:00:00Z : Found it by born to cache <br />Zusammen mit f.etcher und LI*MO gesucht und gefunden. TFTC</li><li>2010-10-10T19:00:00Z : Found it by f.etcher <br />Zusammen mit LI*MO und born to cache diesen Cache gesucht. Eine schöne Gegend für einen Cache, allerdings war die Wegführung doch etwas ungewöhnlich. Am Final mussten wir etwas länger suchen, aber zum Glück gefunden. TFTC</li></ul></logs>
+  <original-xml>  <wpt  lat="50.6069" lon="9.6253">
+    <time>2008-04-02T07:00:00Z</time>
+    <name>GC1AMYJ</name>
+    <desc>übers Wasser gehen by ubx, Multi-cache (1.5/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=cadf23bc-cccf-449d-a237-fa79b746dba2</url>
+    <urlname>übers Wasser gehen</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Multi-cache</type>
+    <groundspeak:cache id="830448" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>übers Wasser gehen</groundspeak:name>
+      <groundspeak:placed_by>ubx</groundspeak:placed_by>
+      <groundspeak:owner id="787613">ubx</groundspeak:owner>
+      <groundspeak:type>Multi-cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">drei mal übers Wasser gehen ?? nicht ganz leicht zu lösen !!</groundspeak:short_description>
+      <groundspeak:long_description html="False">An den Koordinaten solltet ihr nach R1 suchen und in ca 800 m in Richtung Osten könnt ihr das erste mal übers Wasser gehen. Findet das Baujahr und die Bau-Nr. und nehmt die drei letzten Ziffern (3 stell. Zahl) der Bau-Nr. und addiert dazu die 2.+ 3. Stelle (2 stell. Zahl) des Bauj. und davon minus 1. Das ist der Wert für (N 50.36.)??? ;
+nun addiert zu (E 09.37.)120 die letzte Ziffer des Baujahres. Das sind die Koordinaten des 2. Steges. Außerdem seit ihr momentan sehr nahe am Cache " Rock the Bridge " (GC1APN2) den Team Pandora nur einen Tag vor meinem Listing gelegt hat. Ihr bekommt also 2 Caches für eine Suche !!  Beim 2. Cache könnt ihr zum zweiten Mal übers Wasser gehen. Dort zählt die schrägen Stützen, die aussen am Geländer befestigt sind. Diese Zahl = X / gut merken.  
+Nun nehmt die ersten drei Ziffern der Bau-Nr.(3 stell. Zahl) minus 1 und zieht diese Zahl vom N Wert (50.36.)??? des 2.Steges ab. Das ist der N Wert für den Final-Steg und für den E Wert (09.37.)0(Bj 1.+ 2. Stelle (2stellige Zahl)+6. Jetzt habt ihr die Koordinaten um zum Final zu kommen. Es gibt hier Trittsteine im Bachbett , aber es geht nicht immer der direkte Weg (siehe Pic bei hohem Wasserstand) aber man kommt relativ leicht auf anderen Wegen zum Ziel.Von der obersten Stufe des 3. Steges bis zum Final sind es ca = X/2 Meter bis zum Final.Wenn es gar nicht klappt nehmt den 2. Teil des Hints als Ziel.
+
+Additional Waypoints
+ST1AMYJ - Startkoords
+N 50° 36.414 E 009° 37.517
+
+</groundspeak:long_description>
+      <groundspeak:encoded_hints>Final in den Wurzeln eines Baumes/zweifünffünf
+</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="132314669">
+          <groundspeak:date>2010-10-20T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2740513">vriskodromo</groundspeak:finder>
+          <groundspeak:text encoded="False">Man, was für ein sonderbarer Cache! Erst hat es gegossen, dann strahlte die Sonne, dann war die Streckenführung in der Tat recht exotisch und dann war die 3. Flussquerung auch nur barfuß zu machen (siehe Foto)... Aber 20 m vom Cache entfernt gibt man ja nicht auf, nur weil's draußen +5 °C sind und man keine Gummistiefel anhat!!!
+DFDC, vriskodromo</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="130816928">
+          <groundspeak:date>2010-10-10T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Write note</groundspeak:type>
+          <groundspeak:finder id="2583892">LI*MO</groundspeak:finder>
+          <groundspeak:text encoded="False">Coin in</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="130816793">
+          <groundspeak:date>2010-10-10T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2583892">LI*MO</groundspeak:finder>
+          <groundspeak:text encoded="False">Zusammen mit f.etcher und born to Cache gefunden. Wie schon gesagt war die Wegführung etwas ungewöhnlich doch die Final Location war sehr schön. 
+
+TFTC
+
+</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="130551800">
+          <groundspeak:date>2010-10-10T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3473620">born to cache</groundspeak:finder>
+          <groundspeak:text encoded="False">Zusammen mit f.etcher und LI*MO gesucht und gefunden. TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="130546484">
+          <groundspeak:date>2010-10-10T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1498819">f.etcher</groundspeak:finder>
+          <groundspeak:text encoded="False">Zusammen mit LI*MO und born to cache diesen Cache gesucht. Eine schöne Gegend für einen Cache, allerdings war die Wegführung doch etwas ungewöhnlich. Am Final mussten wir etwas länger suchen, aber zum Glück gefunden. TFTC</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

@@ -1,0 +1,107 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>006384</id>
+  <cache-id>GC1658J</cache-id>
+  <type>Traditional Cache</type>
+  <name>Time for Tea by moyle, Traditional Cache (1/1)</name>
+  <size>Small</size>
+  <difficulty>1</difficulty>
+  <terrain>1</terrain>
+  <last-found>2010-05-25</last-found>
+  <placed>2007-09-23</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>moyle</placedby>
+  <found>Geocache</found>
+  <lat>53.243183</lat>
+  <lon>-6.298117</lon>
+  <last-logs>FFFF</last-logs>
+  <owner>moyle</owner>
+  <description>Very easy cache with handy parking. Mind the nettles. 
+As a child I was told that once upon a time there was a Tea Room here that burnt down. All that remains is one dilapidated gate post.</description>
+  <long-description>
+      </long-description>
+  <encoded-hints>
+      </encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=b57d11b0-f212-4def-a995-dd0242815a85</url>
+  <url-name>Time for Tea</url-name>
+  <logs><ul><li>2010-06-13T19:00:00Z : Found it by slands <br />Nice simple find on a very wet day. Had to retire to the nearby trees to get some shelter to sign the "log" - this is just a sheet of paper now as the original log, and most of the rest of the contents were quite damp.
+
+TNLNSL
+
+TFTC
+
+Stephen....</li><li>2010-06-10T19:00:00Z : Found it by colmyster <br />Found this one easily. The cache is still soaked needs maintenance...  TFTC
+
+TNLN</li><li>2010-05-30T19:00:00Z : Found it by Spark_ie <br />Found this guy easily, nice place to rest after the cycle up the hill! TFTC, Spark_ie</li><li>2010-05-25T22:00:00Z : Needs Maintenance by oldnavycarl <br />box is still wet inside did our best to dry some more but log book is soaking wet.</li><li>2010-05-25T19:00:00Z : Found it by Sam4444 <br />Easy cache with lovely views, needs some maintenance though as it was pretty wet.</li></ul></logs>
+  <original-xml>  <wpt  lat="53.243183" lon="-6.298117">
+    <time>2007-09-23T07:00:00Z</time>
+    <name>GC1658J</name>
+    <desc>Time for Tea by moyle, Traditional Cache (1/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=b57d11b0-f212-4def-a995-dd0242815a85</url>
+    <urlname>Time for Tea</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="696218" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Time for Tea</groundspeak:name>
+      <groundspeak:placed_by>moyle</groundspeak:placed_by>
+      <groundspeak:owner id="1183128">moyle</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>
+      </groundspeak:state>
+      <groundspeak:short_description html="False">Very easy cache with handy parking. Mind the nettles. 
+As a child I was told that once upon a time there was a Tea Room here that burnt down. All that remains is one dilapidated gate post.</groundspeak:short_description>
+      <groundspeak:long_description html="False">
+      </groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="112695913">
+          <groundspeak:date>2010-06-13T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="235284">slands</groundspeak:finder>
+          <groundspeak:text encoded="False">Nice simple find on a very wet day. Had to retire to the nearby trees to get some shelter to sign the "log" - this is just a sheet of paper now as the original log, and most of the rest of the contents were quite damp.
+
+TNLNSL
+
+TFTC
+
+Stephen....</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="112329387">
+          <groundspeak:date>2010-06-10T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1495386">colmyster</groundspeak:finder>
+          <groundspeak:text encoded="False">Found this one easily. The cache is still soaked needs maintenance...  TFTC
+
+TNLN</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="110813424">
+          <groundspeak:date>2010-05-30T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="950104">Spark_ie</groundspeak:finder>
+          <groundspeak:text encoded="False">Found this guy easily, nice place to rest after the cycle up the hill! TFTC, Spark_ie</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="110154399">
+          <groundspeak:date>2010-05-25T22:00:00Z</groundspeak:date>
+          <groundspeak:type>Needs Maintenance</groundspeak:type>
+          <groundspeak:finder id="2843331">oldnavycarl</groundspeak:finder>
+          <groundspeak:text encoded="False">box is still wet inside did our best to dry some more but log book is soaking wet.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="110156911">
+          <groundspeak:date>2010-05-25T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2984807">Sam4444</groundspeak:finder>
+          <groundspeak:text encoded="False">Easy cache with lovely views, needs some maintenance though as it was pretty wet.</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

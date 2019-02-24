@@ -1,0 +1,96 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>002519</id>
+  <cache-id>GC1RNB2</cache-id>
+  <type>Traditional Cache</type>
+  <name>Lange Brücke by Cachegrillaz, Traditional Cache (1/2)</name>
+  <size>Micro</size>
+  <difficulty>1</difficulty>
+  <terrain>2</terrain>
+  <last-found>2010-11-20</last-found>
+  <placed>2009-05-22</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Cachegrillaz</placedby>
+  <found>Geocache</found>
+  <lat>50.554767</lat>
+  <lon>9.664867</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>Cachegrillaz</owner>
+  <description>An einem Fahrradweg gelegen, liegt dieser kleine Micro.</description>
+  <long-description>Gehoben werden kann der Cache entweder bei einem Fahrradausflug, zu Fuß oder auch nach dem Parken bei einer angrenzenden Wirtschaft.</long-description>
+  <encoded-hints>
+      </encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=5ca302ea-b382-4965-98c9-110daf8720ac</url>
+  <url-name>Lange Brücke</url-name>
+  <logs><ul><li>2010-12-09T20:00:00Z : Found it by Werder12 <br />Nach dem Seminar Lockerungsrunde gedreht und dabei auch diesen eingesammelt. Ok, hat etwas länger gedauert, aber im Dunkeln konnte ich mir ja etwas besser Zeit lassen [;)] TFTC</li><li>2010-12-09T20:00:00Z : Found it by mayday malone <br />mannomann, da hab ich mich aber doof angestellt. dabei wars im nachhinein gar nich so schwer [|)]
+danke für den schönen cache und gruß. mayday malone</li><li>2010-12-07T20:00:00Z : Found it by hmichel777 <br />Auf dem Heimweg kurz mal den Radweg in Augenschein genommen und die Dose fix gefunden.
+
+Danke für den Cache</li><li>2010-12-06T20:00:00Z : Found it by Werderlino <br />Auf der Fuldarunde am Abend gut gefunden. TFTC vom Werderlino-Projekt</li><li>2010-11-20T20:00:00Z : Found it by lillyfelix <br />ENDLICH !!!
+Danke dem Owner. Wir haben ihn endlich gefunden. Wie kann man nur so blind sein???
+TFTC</li></ul></logs>
+  <original-xml>  <wpt  lat="50.554767" lon="9.664867">
+    <time>2009-05-22T07:00:00Z</time>
+    <name>GC1RNB2</name>
+    <desc>Lange Brücke by Cachegrillaz, Traditional Cache (1/2)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=5ca302ea-b382-4965-98c9-110daf8720ac</url>
+    <urlname>Lange Brücke</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1247909" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Lange Brücke</groundspeak:name>
+      <groundspeak:placed_by>Cachegrillaz</groundspeak:placed_by>
+      <groundspeak:owner id="998368">Cachegrillaz</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>2</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">An einem Fahrradweg gelegen, liegt dieser kleine Micro.</groundspeak:short_description>
+      <groundspeak:long_description html="False">Gehoben werden kann der Cache entweder bei einem Fahrradausflug, zu Fuß oder auch nach dem Parken bei einer angrenzenden Wirtschaft.</groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="138313734">
+          <groundspeak:date>2010-12-09T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2430465">Werder12</groundspeak:finder>
+          <groundspeak:text encoded="False">Nach dem Seminar Lockerungsrunde gedreht und dabei auch diesen eingesammelt. Ok, hat etwas länger gedauert, aber im Dunkeln konnte ich mir ja etwas besser Zeit lassen [;)] TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="138261936">
+          <groundspeak:date>2010-12-09T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3592921">mayday malone</groundspeak:finder>
+          <groundspeak:text encoded="False">mannomann, da hab ich mich aber doof angestellt. dabei wars im nachhinein gar nich so schwer [|)]
+danke für den schönen cache und gruß. mayday malone</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="138104159">
+          <groundspeak:date>2010-12-07T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="418646">hmichel777</groundspeak:finder>
+          <groundspeak:text encoded="False">Auf dem Heimweg kurz mal den Radweg in Augenschein genommen und die Dose fix gefunden.
+
+Danke für den Cache</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="138202606">
+          <groundspeak:date>2010-12-06T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1549890">Werderlino</groundspeak:finder>
+          <groundspeak:text encoded="False">Auf der Fuldarunde am Abend gut gefunden. TFTC vom Werderlino-Projekt</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="136469956">
+          <groundspeak:date>2010-11-20T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3765430">lillyfelix</groundspeak:finder>
+          <groundspeak:text encoded="False">ENDLICH !!!
+Danke dem Owner. Wir haben ihn endlich gefunden. Wie kann man nur so blind sein???
+TFTC</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

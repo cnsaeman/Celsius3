@@ -1,0 +1,120 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>006681</id>
+  <cache-id>GCZE6C</cache-id>
+  <type>Traditional Cache</type>
+  <name>War Of The Flea by Windsockers, Traditional Cache (1.5/1.5)</name>
+  <size>Not chosen</size>
+  <difficulty>1.5</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2009-06-02</last-found>
+  <placed>2006-11-25</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>Windsockers</placedby>
+  <found>Geocache</found>
+  <lat>53.520717</lat>
+  <lon>-6.277</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>Windsockers</owner>
+  <description><center>
+<img src="http://img.geocaching.com/cache/8159a461-b730-4ffa-86e3-b40bf1d42f55.jpg" />
+</center></description>
+  <long-description><p>At the above location you’ll find a monument that commemorates
+the <a rel="nofollow"
+href="http://en.wikipedia.org/wiki/Irish_Rebellion_of_1798">1798</a>
+rebellion. This is the site of the last battle, of a series of
+skirmashes, that became known as "The War Of The Flea".</p>
+<p><b>The Cache</b></p>
+<p>The cache is a small box covered in black cloth</p>
+<p>Please retrieve and replace the cache with extreme care to
+prevent Muggles from Discovering the cache.</p>
+<center>
+<img src="http://www.northbeach.ie/gallery/albums/userpics/10001/windsock-anim-small.gif" />
+<br />
+<b>The Windsockers</b></center></long-description>
+  <encoded-hints>Tree</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=d74fc172-ec9d-4812-ba76-b9834222fecd</url>
+  <url-name>War Of The Flea</url-name>
+  <logs><ul><li>2010-05-15T19:00:00Z : Found it by Lahtac <br />Found with obclan. tftc.sl</li><li>2010-05-15T19:00:00Z : Found it by OBCLAN <br />Lovely spot. TFTC</li><li>2010-01-31T20:00:00Z : Found it by CluelessTwo <br />A muggle saw us !! but as it was a beautiful white horse, Im sure the location is safe.  Although someone had stashed a couple of lucozade bottles beside the cache it was strange they didn't see it.  TNLNSL TFTC</li><li>2009-07-19T19:00:00Z : Found it by abra123cadabra <br />Driving along an empty country road to the cache location. While we were looking for a good place to park a queue formed behind us. Had to go much further to turn around and finally park opposite the memorial. Location was quickly determined but retrieving was another matter altogether. Wouldn't like to do this when it's wet. If you're not careful you slide down right into the river.
+OUT: Keyring
+IN: Smileyman
+ALSO: learned new word: skirmish [:-)]</li><li>2009-06-02T19:00:00Z : Found it by Malta-Dinger <br />Qick found.
+TFTC #1253</li></ul></logs>
+  <original-xml>  <wpt  lat="53.520717" lon="-6.277">
+    <time>2006-11-25T08:00:00Z</time>
+    <name>GCZE6C</name>
+    <desc>War Of The Flea by Windsockers, Traditional Cache (1.5/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=d74fc172-ec9d-4812-ba76-b9834222fecd</url>
+    <urlname>War Of The Flea</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="496262" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>War Of The Flea</groundspeak:name>
+      <groundspeak:placed_by>Windsockers</groundspeak:placed_by>
+      <groundspeak:owner id="271623">Windsockers</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Not chosen</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>Leinster</groundspeak:state>
+      <groundspeak:short_description html="True">&lt;center&gt;
+&lt;img src="http://img.geocaching.com/cache/8159a461-b730-4ffa-86e3-b40bf1d42f55.jpg" /&gt;
+&lt;/center&gt;</groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;p&gt;At the above location you’ll find a monument that commemorates
+the &lt;a rel="nofollow"
+href="http://en.wikipedia.org/wiki/Irish_Rebellion_of_1798"&gt;1798&lt;/a&gt;
+rebellion. This is the site of the last battle, of a series of
+skirmashes, that became known as "The War Of The Flea".&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;The Cache&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;The cache is a small box covered in black cloth&lt;/p&gt;
+&lt;p&gt;Please retrieve and replace the cache with extreme care to
+prevent Muggles from Discovering the cache.&lt;/p&gt;
+&lt;center&gt;
+&lt;img src="http://www.northbeach.ie/gallery/albums/userpics/10001/windsock-anim-small.gif" /&gt;
+&lt;br /&gt;
+&lt;b&gt;The Windsockers&lt;/b&gt;&lt;/center&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>Tree</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="108525914">
+          <groundspeak:date>2010-05-15T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2847528">Lahtac</groundspeak:finder>
+          <groundspeak:text encoded="False">Found with obclan. tftc.sl</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="108523944">
+          <groundspeak:date>2010-05-15T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2725277">OBCLAN</groundspeak:finder>
+          <groundspeak:text encoded="False">Lovely spot. TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="96405328">
+          <groundspeak:date>2010-01-31T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2473483">CluelessTwo</groundspeak:finder>
+          <groundspeak:text encoded="False">A muggle saw us !! but as it was a beautiful white horse, Im sure the location is safe.  Although someone had stashed a couple of lucozade bottles beside the cache it was strange they didn't see it.  TNLNSL TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="77636111">
+          <groundspeak:date>2009-07-19T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2383033">abra123cadabra</groundspeak:finder>
+          <groundspeak:text encoded="False">Driving along an empty country road to the cache location. While we were looking for a good place to park a queue formed behind us. Had to go much further to turn around and finally park opposite the memorial. Location was quickly determined but retrieving was another matter altogether. Wouldn't like to do this when it's wet. If you're not careful you slide down right into the river.
+OUT: Keyring
+IN: Smileyman
+ALSO: learned new word: skirmish [:-)]</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="73096739">
+          <groundspeak:date>2009-06-02T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="975706">Malta-Dinger</groundspeak:finder>
+          <groundspeak:text encoded="False">Qick found.
+TFTC #1253</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

@@ -1,0 +1,126 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>008942</id>
+  <cache-id>GC1F041</cache-id>
+  <type>Traditional Cache</type>
+  <name>Dicke Eiche bei Nüst by Team Misto, Traditional Cache (2/1.5)</name>
+  <size>Other</size>
+  <difficulty>2</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-08-20</last-found>
+  <placed>2008-08-22</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Team Misto</placedby>
+  <found>Geocache</found>
+  <lat>50.649383</lat>
+  <lon>9.758483</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>Misto</owner>
+  <description>
+      </description>
+  <long-description><img src="http://www.andyhoppe.com/count/?id=1224533749"
+style="border:none" alt="Counter" /> 
+<div align="right">
+<img src="http://i20.photobucket.com/albums/b237/Misto_Ekiam/logoskopf.jpg"
+     border="0" alt="Photobucket" /></div>
+<br />
+ An der Straße zwischen Nüst und Dammersbach gelegen befindet sich
+ein Grillplatz mit einer sehr großen uralten Eiche. Die Grillhütte
+und die nennen wir es mal sanitären Anlagen sind eher "speziell"
+aber der Baum ist echt toll! Schade, dass die nahegelegene
+Bahnstrecke hier so nen Krach verbreitet. Im Sommer ist es hier
+herrlich schattig und luftig! <font color="#FF0000">Logbedinung ist
+ein Foto mit euch und euren GPS vor dem besagten Baum zu
+machen<font></font></font></long-description>
+  <encoded-hints>
+      </encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=3ad284f7-5832-4cca-b6df-97ff9de9f083</url>
+  <url-name>Dicke Eiche bei Nüst</url-name>
+  <logs><ul><li>2010-09-25T19:00:00Z : Found it by PlanBe <br />Heute mal bei der dicken Eiche in Nüst vorbeigeschaut.
+Schöner Grillplatz!
+TFTC</li><li>2010-09-19T19:00:00Z : Found it by Limoel <br />Heute morgen seit langem wieder mal bei der Dicken Eiche gewesen.
+
+TFTC Limoel</li><li>2010-09-13T19:00:00Z : Found it by Papa Schlumpf <br />Was ein toller Baum! Kenne ihn schon von früher war aber lange nicht mehr da! schön dies mal wieder getan zu haben! 
+
+Gruß Papa Schlumpf</li><li>2010-08-25T19:00:00Z : Found it by super sunshine <br />Bei einer Fahrradtour hier vorbeigekommen und schnell ein Foto gemacht. Danke und Grüße</li><li>2010-08-20T19:00:00Z : Found it by airbusfan3000 <br />schnell ein foto und weiter gings TFTC</li></ul></logs>
+  <original-xml>  <wpt  lat="50.649383" lon="9.758483">
+    <time>2008-08-22T07:00:00Z</time>
+    <name>GC1F041</name>
+    <desc>Dicke Eiche bei Nüst by Team Misto, Traditional Cache (2/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=3ad284f7-5832-4cca-b6df-97ff9de9f083</url>
+    <urlname>Dicke Eiche bei Nüst</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="959391" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Dicke Eiche bei Nüst</groundspeak:name>
+      <groundspeak:placed_by>Team Misto</groundspeak:placed_by>
+      <groundspeak:owner id="1277165">Misto</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Other</groundspeak:container>
+      <groundspeak:difficulty>2</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="True">
+      </groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;img src="http://www.andyhoppe.com/count/?id=1224533749"
+style="border:none" alt="Counter" /&gt; 
+&lt;div align="right"&gt;
+&lt;img src="http://i20.photobucket.com/albums/b237/Misto_Ekiam/logoskopf.jpg"
+     border="0" alt="Photobucket" /&gt;&lt;/div&gt;
+&lt;br /&gt;
+ An der Straße zwischen Nüst und Dammersbach gelegen befindet sich
+ein Grillplatz mit einer sehr großen uralten Eiche. Die Grillhütte
+und die nennen wir es mal sanitären Anlagen sind eher "speziell"
+aber der Baum ist echt toll! Schade, dass die nahegelegene
+Bahnstrecke hier so nen Krach verbreitet. Im Sommer ist es hier
+herrlich schattig und luftig! &lt;font color="#FF0000"&gt;Logbedinung ist
+ein Foto mit euch und euren GPS vor dem besagten Baum zu
+machen&lt;font&gt;&lt;/font&gt;&lt;/font&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="129505280">
+          <groundspeak:date>2010-09-25T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="283938">PlanBe</groundspeak:finder>
+          <groundspeak:text encoded="False">Heute mal bei der dicken Eiche in Nüst vorbeigeschaut.
+Schöner Grillplatz!
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="127475703">
+          <groundspeak:date>2010-09-19T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2878802">Limoel</groundspeak:finder>
+          <groundspeak:text encoded="False">Heute morgen seit langem wieder mal bei der Dicken Eiche gewesen.
+
+TFTC Limoel</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="129438964">
+          <groundspeak:date>2010-09-13T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2518451">Papa Schlumpf</groundspeak:finder>
+          <groundspeak:text encoded="False">Was ein toller Baum! Kenne ihn schon von früher war aber lange nicht mehr da! schön dies mal wieder getan zu haben! 
+
+Gruß Papa Schlumpf</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="123681637">
+          <groundspeak:date>2010-08-25T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2807204">super sunshine</groundspeak:finder>
+          <groundspeak:text encoded="False">Bei einer Fahrradtour hier vorbeigekommen und schnell ein Foto gemacht. Danke und Grüße</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="122773628">
+          <groundspeak:date>2010-08-20T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3299607">airbusfan3000</groundspeak:finder>
+          <groundspeak:text encoded="False">schnell ein foto und weiter gings TFTC</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

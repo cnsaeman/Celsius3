@@ -1,0 +1,218 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>009159</id>
+  <cache-id>GCZR0E</cache-id>
+  <type>Multi-cache</type>
+  <name>Kilcrea Gate by Windsockers, Multi-cache (2.5/1.5)</name>
+  <size>Small</size>
+  <difficulty>2.5</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-02-14</last-found>
+  <placed>2007-01-06</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>Windsockers</placedby>
+  <found>Geocache</found>
+  <lat>53.48085</lat>
+  <lon>-6.162533</lon>
+  <last-logs>FXXED</last-logs>
+  <owner>Windsockers</owner>
+  <description><center><img src=
+"http://img.geocaching.com/cache/8fa45c6c-faa0-490a-9e10-70ed3b6437eb.jpg" /></center></description>
+  <long-description><p><b>Kilcrea Gate</b></p>
+<p>Newbridge Demesne covers an area of 150 ha. (370 acres) The park
+was probably designed by the Wexford landscape gardener Charles
+Fritzell about 250 years ago. The parkland is a good example of an
+eighteenth century landscape park with perimeter woodland belts and
+fine vistas across lawns and wildflower meadows.</p>
+<p><b>The Cache</b></p>
+<p>To find the cache you&rsquo;ll have to visit a number of
+locations and obtain the appropriately disguised information</p>
+<p><b>Stage One</b></p>
+<p>Go to the above coords and note how many people play this game
+call this number <b>A</b></p>
+<p><b>Stage Two</b></p>
+<p>N53 29.072 W6 09.875</p>
+<p>Here you will need to take note of the total number of windows
+in this building call this number <b>B</b><br />
+Also take note of how many doors therewhere in this building call
+this number <b>C</b><br />
+How many windows are there above the blocked up wooden door call
+this number <b>D</b></p>
+<p><b>Stage Three</b></p>
+<p>Go to N53 28.(A*B)(C+D)(B+D) W6 09.(A+B)(B+D)(D-A) here you will
+need to take note of the four digit number and call this
+<b>W.X.Y.Z</b></p>
+<p><b>Final Location</b></p>
+<p>The cache is located at N53 28.(Z-W)(X-Y+W)Z W006
+09.(W+X)(X-Y)(Z-Y)</p>
+<h3>Park Opening Times</h3>
+<table>
+<tr>
+<td>Nov. to Jan.</td>
+<td>10.00 am - 5.00 pm</td>
+</tr>
+<tr>
+<td>Feb. to Mar.</td>
+<td>10.00 am - 6.00 pm</td>
+</tr>
+<tr>
+<td>April</td>
+<td>10.00 am - 7.00 pm</td>
+</tr>
+<tr>
+<td>May</td>
+<td>10.00 am - 8.00 pm</td>
+</tr>
+<tr>
+<td>Jun. to Aug.</td>
+<td>10.00 am - 9.00 pm</td>
+</tr>
+<tr>
+<td>Sept.</td>
+<td>10.00 am - 8.00 pm</td>
+</tr>
+<tr>
+<td>Oct.</td>
+<td>10.00 am - 7.00 pm</td>
+</tr>
+</table>
+<br />
+<center><img src=
+"http://www.northbeach.ie/gallery/albums/userpics/10001/windsock-anim-small.gif" /><br />
+
+<b>The Windsockers</b></center>
+<hr size="2" /></long-description>
+  <additional-waypoints>FNZR0E - GCZR0E Final<br />N/S  __ ° __ . ___ W/E ___ ° __ . ___ <br /><br />S2ZR0E - GCZR0E Stage 2<br />N 53° 29.072 W 006° 09.875<br /><br />S3ZR0E - GCZR0E Stage 3<br />N/S  __ ° __ . ___ W/E ___ ° __ . ___ <br /><br /></additional-waypoints>
+  <links>waypoints:cache-id:FNZR0E|waypoints:cache-id:S2ZR0E|waypoints:cache-id:S3ZR0E</links>
+  <encoded-hints>tree</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=ea4ab94c-534d-435a-a9e5-b21aed073f1c</url>
+  <url-name>Kilcrea Gate</url-name>
+  <logs><ul><li>2010-06-01T19:00:00Z : Found it by theswerve <br />First attempt in Dec08.....second cache page since...had another go a couple of days ago...got S1 finally,,,all in all 3 visits amounting to about 7 hours spent on this...glad to knock this one off...as for S3....(Sigh)....Empty log...nice to sign a lovely clean sheet...TFTC...</li><li>2010-05-28T19:00:00Z : Didn't find it by theswerve <br />Had a quick look at this evening after `Unfullfilled ambitions`....could not figure the link between A and bB in the maths for S3....found 4 numbers ok...but led me out to sea...Will have another go some day...</li><li>2010-03-14T19:00:00Z : Didn't find it by orangetigerprawn <br />Frustrating end to the day. There are renovations, demolition and tree pruning going on at Stage 2 which ended up giving me coordinates for stage three that left me either in the middle of a field or in the middle of a forest with no numbers anywhere visible. </li><li>2010-02-15T12:43:04Z : Enable Listing by Windsockers <br />[green]Revamp complete all stages amended and final moved.[/green]</li><li>2010-02-14T10:39:14Z : Temporarily Disable Listing by Windsockers <br />[green]This cache needs to be revamped.
+ final location is now extremely unsafe due to a falling trees close by.[/green]
+</li></ul></logs>
+  <original-xml>  <wpt  lat="53.48085" lon="-6.162533">
+    <time>2007-01-06T08:00:00Z</time>
+    <name>GCZR0E</name>
+    <desc>Kilcrea Gate by Windsockers, Multi-cache (2.5/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=ea4ab94c-534d-435a-a9e5-b21aed073f1c</url>
+    <urlname>Kilcrea Gate</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Multi-cache</type>
+    <groundspeak:cache id="505688" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Kilcrea Gate</groundspeak:name>
+      <groundspeak:placed_by>Windsockers</groundspeak:placed_by>
+      <groundspeak:owner id="271623">Windsockers</groundspeak:owner>
+      <groundspeak:type>Multi-cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>2.5</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>Leinster</groundspeak:state>
+      <groundspeak:short_description html="True">&lt;center&gt;&lt;img src=
+"http://img.geocaching.com/cache/8fa45c6c-faa0-490a-9e10-70ed3b6437eb.jpg" /&gt;&lt;/center&gt;</groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;p&gt;&lt;b&gt;Kilcrea Gate&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Newbridge Demesne covers an area of 150 ha. (370 acres) The park
+was probably designed by the Wexford landscape gardener Charles
+Fritzell about 250 years ago. The parkland is a good example of an
+eighteenth century landscape park with perimeter woodland belts and
+fine vistas across lawns and wildflower meadows.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;The Cache&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;To find the cache you&amp;rsquo;ll have to visit a number of
+locations and obtain the appropriately disguised information&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Stage One&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Go to the above coords and note how many people play this game
+call this number &lt;b&gt;A&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Stage Two&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;N53 29.072 W6 09.875&lt;/p&gt;
+&lt;p&gt;Here you will need to take note of the total number of windows
+in this building call this number &lt;b&gt;B&lt;/b&gt;&lt;br /&gt;
+Also take note of how many doors therewhere in this building call
+this number &lt;b&gt;C&lt;/b&gt;&lt;br /&gt;
+How many windows are there above the blocked up wooden door call
+this number &lt;b&gt;D&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Stage Three&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Go to N53 28.(A*B)(C+D)(B+D) W6 09.(A+B)(B+D)(D-A) here you will
+need to take note of the four digit number and call this
+&lt;b&gt;W.X.Y.Z&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Final Location&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;The cache is located at N53 28.(Z-W)(X-Y+W)Z W006
+09.(W+X)(X-Y)(Z-Y)&lt;/p&gt;
+&lt;h3&gt;Park Opening Times&lt;/h3&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td&gt;Nov. to Jan.&lt;/td&gt;
+&lt;td&gt;10.00 am - 5.00 pm&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Feb. to Mar.&lt;/td&gt;
+&lt;td&gt;10.00 am - 6.00 pm&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;April&lt;/td&gt;
+&lt;td&gt;10.00 am - 7.00 pm&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;May&lt;/td&gt;
+&lt;td&gt;10.00 am - 8.00 pm&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Jun. to Aug.&lt;/td&gt;
+&lt;td&gt;10.00 am - 9.00 pm&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Sept.&lt;/td&gt;
+&lt;td&gt;10.00 am - 8.00 pm&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Oct.&lt;/td&gt;
+&lt;td&gt;10.00 am - 7.00 pm&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+&lt;br /&gt;
+&lt;center&gt;&lt;img src=
+"http://www.northbeach.ie/gallery/albums/userpics/10001/windsock-anim-small.gif" /&gt;&lt;br /&gt;
+
+&lt;b&gt;The Windsockers&lt;/b&gt;&lt;/center&gt;
+&lt;hr size="2" /&gt;&lt;p&gt;Additional Waypoints&lt;/p&gt;FNZR0E - GCZR0E Final&lt;br /&gt;N/S  __ ° __ . ___ W/E ___ ° __ . ___ &lt;br /&gt;&lt;br /&gt;S2ZR0E - GCZR0E Stage 2&lt;br /&gt;N 53° 29.072 W 006° 09.875&lt;br /&gt;&lt;br /&gt;S3ZR0E - GCZR0E Stage 3&lt;br /&gt;N/S  __ ° __ . ___ W/E ___ ° __ . ___ &lt;br /&gt;&lt;br /&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>tree</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="111155060">
+          <groundspeak:date>2010-06-01T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1032462">theswerve</groundspeak:finder>
+          <groundspeak:text encoded="False">First attempt in Dec08.....second cache page since...had another go a couple of days ago...got S1 finally,,,all in all 3 visits amounting to about 7 hours spent on this...glad to knock this one off...as for S3....(Sigh)....Empty log...nice to sign a lovely clean sheet...TFTC...</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="111003823">
+          <groundspeak:date>2010-05-28T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Didn't find it</groundspeak:type>
+          <groundspeak:finder id="1032462">theswerve</groundspeak:finder>
+          <groundspeak:text encoded="False">Had a quick look at this evening after `Unfullfilled ambitions`....could not figure the link between A and bB in the maths for S3....found 4 numbers ok...but led me out to sea...Will have another go some day...</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="99754208">
+          <groundspeak:date>2010-03-14T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Didn't find it</groundspeak:type>
+          <groundspeak:finder id="2167131">orangetigerprawn</groundspeak:finder>
+          <groundspeak:text encoded="False">Frustrating end to the day. There are renovations, demolition and tree pruning going on at Stage 2 which ended up giving me coordinates for stage three that left me either in the middle of a field or in the middle of a forest with no numbers anywhere visible. </groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="97357616">
+          <groundspeak:date>2010-02-15T12:43:04Z</groundspeak:date>
+          <groundspeak:type>Enable Listing</groundspeak:type>
+          <groundspeak:finder id="271623">Windsockers</groundspeak:finder>
+          <groundspeak:text encoded="False">[green]Revamp complete all stages amended and final moved.[/green]</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="97241187">
+          <groundspeak:date>2010-02-14T10:39:14Z</groundspeak:date>
+          <groundspeak:type>Temporarily Disable Listing</groundspeak:type>
+          <groundspeak:finder id="271623">Windsockers</groundspeak:finder>
+          <groundspeak:text encoded="False">[green]This cache needs to be revamped.
+ final location is now extremely unsafe due to a falling trees close by.[/green]
+</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>005384</id>
+  <cache-id>GC25YJ4</cache-id>
+  <type>Traditional Cache</type>
+  <name>Grillplatz Melters by Team Finntroll 01, Traditional Cache (1/1.5)</name>
+  <size>Micro</size>
+  <difficulty>1</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-10-19</last-found>
+  <placed>2010-04-01</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Team Finntroll 01</placedby>
+  <found>Geocache</found>
+  <lat>50.492283</lat>
+  <lon>9.748683</lon>
+  <last-logs>FFFED</last-logs>
+  <owner>Team Finntroll 01</owner>
+  <description>Bei dem Behälter handelt es sich um einen Petling.</description>
+  <long-description>Parken könnt Ihr direkt vor Ort und wer möchte kann auch noch den Baumlehrpfad entlang laufen.
+Viel Spaß beim suchen.
+
+Bitte Stift mitbringen.</long-description>
+  <encoded-hints>Bei Einem Baumstumpf und Grenzstein</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=20e28ce4-f848-4a16-a30a-0b796ca9e455</url>
+  <url-name>Grillplatz Melters</url-name>
+  <logs><ul><li>2010-11-27T20:00:00Z : Found it by schwap <br />Schnell gefunden. Nach babysitten noch ne kleine nachtrunde von 7 caches gedreht. hat spass gemacht. tftc</li><li>2010-11-21T20:00:00Z : Found it by ChrisFX <br />Schnell gefunden
+TFTC</li><li>2010-11-21T20:00:00Z : Found it by lillyfelix <br />Schnell gefunden.
+TFTC</li><li>2010-11-19T16:10:13Z : Enable Listing by Team Finntroll 01 <br />Wieder vorhanden.</li><li>2010-10-19T05:09:51Z : Temporarily Disable Listing by Team Finntroll 01 <br />Der neue ist schon in Arbeit, aber es wird ein paar Tage dauern, bis er wieder zufinden ist.</li></ul></logs>
+  <original-xml>  <wpt  lat="50.492283" lon="9.748683">
+    <time>2010-04-01T07:00:00Z</time>
+    <name>GC25YJ4</name>
+    <desc>Grillplatz Melters by Team Finntroll 01, Traditional Cache (1/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=20e28ce4-f848-4a16-a30a-0b796ca9e455</url>
+    <urlname>Grillplatz Melters</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1613308" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Grillplatz Melters</groundspeak:name>
+      <groundspeak:placed_by>Team Finntroll 01</groundspeak:placed_by>
+      <groundspeak:owner id="2214964">Team Finntroll 01</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">Bei dem Behälter handelt es sich um einen Petling.</groundspeak:short_description>
+      <groundspeak:long_description html="False">Parken könnt Ihr direkt vor Ort und wer möchte kann auch noch den Baumlehrpfad entlang laufen.
+Viel Spaß beim suchen.
+
+Bitte Stift mitbringen.</groundspeak:long_description>
+      <groundspeak:encoded_hints>Bei Einem Baumstumpf und Grenzstein</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="137382952">
+          <groundspeak:date>2010-11-27T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3060114">schwap</groundspeak:finder>
+          <groundspeak:text encoded="False">Schnell gefunden. Nach babysitten noch ne kleine nachtrunde von 7 caches gedreht. hat spass gemacht. tftc</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="136792848">
+          <groundspeak:date>2010-11-21T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2837683">ChrisFX</groundspeak:finder>
+          <groundspeak:text encoded="False">Schnell gefunden
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="136670850">
+          <groundspeak:date>2010-11-21T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3765430">lillyfelix</groundspeak:finder>
+          <groundspeak:text encoded="False">Schnell gefunden.
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="136351152">
+          <groundspeak:date>2010-11-19T16:10:13Z</groundspeak:date>
+          <groundspeak:type>Enable Listing</groundspeak:type>
+          <groundspeak:finder id="2214964">Team Finntroll 01</groundspeak:finder>
+          <groundspeak:text encoded="False">Wieder vorhanden.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="132157326">
+          <groundspeak:date>2010-10-19T05:09:51Z</groundspeak:date>
+          <groundspeak:type>Temporarily Disable Listing</groundspeak:type>
+          <groundspeak:finder id="2214964">Team Finntroll 01</groundspeak:finder>
+          <groundspeak:text encoded="False">Der neue ist schon in Arbeit, aber es wird ein paar Tage dauern, bis er wieder zufinden ist.</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

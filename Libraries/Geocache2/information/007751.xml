@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>007751</id>
+  <cache-id>PI15N2Q</cache-id>
+  <type>Waypoint</type>
+  <name>pipway</name>
+  <placed>2008-01-06</placed>
+  <lat>53.375583</lat>
+  <lon>-6.047117</lon>
+  <attributes>hidden</attributes>
+  <description>head up the trail from this point</description>
+  <url>http://www.geocaching.com/seek/wpt.aspx?WID=6863b0ec-eff8-4967-813b-646449e9025e</url>
+  <url-name>pipway</url-name>
+</element>
+</celsiusv2.1.addinfofile>

@@ -1,0 +1,196 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>008539</id>
+  <cache-id>GCQXXG</cache-id>
+  <type>Traditional Cache</type>
+  <name>Kilgobbin Church by Hezekiah, Traditional Cache (1/1)</name>
+  <size>Regular</size>
+  <difficulty>1</difficulty>
+  <terrain>1</terrain>
+  <last-found>2010-04-03</last-found>
+  <placed>2005-10-11</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>Hezekiah</placedby>
+  <found>Geocache</found>
+  <lat>53.256283</lat>
+  <lon>-6.2176</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>Hezekiah</owner>
+  <description><p align="center"><a target="_blank" href=
+"http://www.geocachingireland.com/index.html"><img border="0" src=
+"http://geocachingireland.com/logo4.jpg" width="328" height="53"
+align="middle" /></a></p>
+<hr align="center" size="2" width="40%" />
+<center><font color="blue">Visit the <b>new</b> Geocaching Ireland
+discussion forum <a href="http://www.mccartan.org/forums/" target=
+"_blank">HERE</a></font></center>
+<hr align="center" size="2" width="40%" />
+<br />
+<br /></description>
+  <long-description><p>In the midst of frenetic development, a little oasis of calm! On
+the outskirts of Stepaside, now an expanding suburb of SW
+Dublin.</p>
+<p>Kilgobbin Graveyard</p>
+<p>The ruined church which now stands at Kilgobbin was built as
+recently as 1707, by Archbishop King to serve the parishes of
+Kilgobbin, Taney and Cruagh and went out of use in 1826 when the
+new church at Kiltiernan was built. It occupied the site of a
+church which was already ancient at the time of the Norman
+invasion. This was founded by Saint Gobban whose feast day on 1st
+April is recorded in the Martyrology of Tallaght. Apart from the
+name of the patron no information about this monastery is
+available. A stone cross, bullaun and some grave slabs survive from
+this period, and can still be seen.</p>
+<p>The site is located on the summit of a gravel hill, which is
+emphasised by the fact that gravel quarrying has been carried out
+on the slopes of the hill giving it a very steep and high
+appearance. The existing church was restored by the County Council
+in 1983 when the old rendering was removed, the walls pointed and
+the porch, which was in dangerous condition,was rebuilt. Within the
+church are preserved all the decorated and worked stones which were
+found during the restoration work</p>
+<p>2 long stones with notches in the end</p>
+<p>1 complete early grave slab</p>
+<p>1 piece early slab with concentric circles</p>
+<p>3 pieces granite window frame</p>
+<p>3 pieces quern stones</p>
+<p>1 piece crosshead now missing</p>
+<p>The Cross</p>
+<p>According to a tradition recorded in the last century this cross
+was found buried in the graveyard when the enclosing wall was being
+built about 1800. It was then erected in its present location. It
+is not recorded if the base was already in position. The base is
+certainly ancient as there is a bullaun 1 ft in diameter cut in it.
+The cross is very much weathered but on it can be seen a figure in
+a long garment with extended arms, standing on a small platform. A
+somewhat similar figure is on the opposite face. This probably
+represents a crucifixion on one face and Christ in Glory on the
+other, as appears on many ninth and tenth century crosses.</p>
+<p>There is a shallow moulding at the angles of the shaft and
+another down the centre which terminates at the bottom with a pair
+of leaves. A similar feature can be seen on the cross at Kilfenora,
+Co.Clare. There is a tenon on the top of the cross which would have
+held a capping stone in position. According to the O.S. Letters
+there was formerly a holy well, known as the Eye Well, near the
+church but a drain sunk in its neighbourhood caused it to
+disappear.</p></long-description>
+  <encoded-hints>Above ground, beneath stone</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=1a3eb447-abea-4e07-ba18-6271e492fe21</url>
+  <url-name>Kilgobbin Church</url-name>
+  <logs><ul><li>2010-05-30T19:00:00Z : Found it by oldnavycarl <br />First of three finds today. Really nice location - never know it existed even though I have been around here many times! Cache was easy enough to find, but still a bit wet including the log book. We added a sheet of paper so hopefully this can be used for some time. TFTC</li><li>2010-05-25T19:00:00Z : Found it by Serapis <br />I found the cache quickly. The lid was off and a few objects were scattered around. The 'clamp down' mechanism of the box seems to be missing. I tidied it up and rehid as best I could. I nearly chopped my finger off closing the lid as can happen with these containers. Great for hiding things in but also an efficient finger guillotine! Anyway no major damage done. TFTC, Serapis.</li><li>2010-04-23T19:00:00Z : Found it by Laura374 <br />TFTC - Found with pplsgod, though it was his second time there. Allowed me to have the glory of the find. Nice easy Cache! </li><li>2010-04-11T19:00:00Z : Found it by Lynjas <br />Nice and easy to find. TFTC.</li><li>2010-04-03T19:00:00Z : Found it by Wild Rover <br />Well now cache located by a very junior geocacher indeed - 4 this week!!!! TFTC</li></ul></logs>
+  <original-xml>  <wpt  lat="53.256283" lon="-6.2176">
+    <time>2005-10-11T07:00:00Z</time>
+    <name>GCQXXG</name>
+    <desc>Kilgobbin Church by Hezekiah, Traditional Cache (1/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=1a3eb447-abea-4e07-ba18-6271e492fe21</url>
+    <urlname>Kilgobbin Church</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="301865" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Kilgobbin Church</groundspeak:name>
+      <groundspeak:placed_by>Hezekiah</groundspeak:placed_by>
+      <groundspeak:owner id="274644">Hezekiah</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Regular</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>Dublin</groundspeak:state>
+      <groundspeak:short_description html="True">&lt;p align="center"&gt;&lt;a target="_blank" href=
+"http://www.geocachingireland.com/index.html"&gt;&lt;img border="0" src=
+"http://geocachingireland.com/logo4.jpg" width="328" height="53"
+align="middle" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;hr align="center" size="2" width="40%" /&gt;
+&lt;center&gt;&lt;font color="blue"&gt;Visit the &lt;b&gt;new&lt;/b&gt; Geocaching Ireland
+discussion forum &lt;a href="http://www.mccartan.org/forums/" target=
+"_blank"&gt;HERE&lt;/a&gt;&lt;/font&gt;&lt;/center&gt;
+&lt;hr align="center" size="2" width="40%" /&gt;
+&lt;br /&gt;
+&lt;br /&gt;</groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;p&gt;In the midst of frenetic development, a little oasis of calm! On
+the outskirts of Stepaside, now an expanding suburb of SW
+Dublin.&lt;/p&gt;
+&lt;p&gt;Kilgobbin Graveyard&lt;/p&gt;
+&lt;p&gt;The ruined church which now stands at Kilgobbin was built as
+recently as 1707, by Archbishop King to serve the parishes of
+Kilgobbin, Taney and Cruagh and went out of use in 1826 when the
+new church at Kiltiernan was built. It occupied the site of a
+church which was already ancient at the time of the Norman
+invasion. This was founded by Saint Gobban whose feast day on 1st
+April is recorded in the Martyrology of Tallaght. Apart from the
+name of the patron no information about this monastery is
+available. A stone cross, bullaun and some grave slabs survive from
+this period, and can still be seen.&lt;/p&gt;
+&lt;p&gt;The site is located on the summit of a gravel hill, which is
+emphasised by the fact that gravel quarrying has been carried out
+on the slopes of the hill giving it a very steep and high
+appearance. The existing church was restored by the County Council
+in 1983 when the old rendering was removed, the walls pointed and
+the porch, which was in dangerous condition,was rebuilt. Within the
+church are preserved all the decorated and worked stones which were
+found during the restoration work&lt;/p&gt;
+&lt;p&gt;2 long stones with notches in the end&lt;/p&gt;
+&lt;p&gt;1 complete early grave slab&lt;/p&gt;
+&lt;p&gt;1 piece early slab with concentric circles&lt;/p&gt;
+&lt;p&gt;3 pieces granite window frame&lt;/p&gt;
+&lt;p&gt;3 pieces quern stones&lt;/p&gt;
+&lt;p&gt;1 piece crosshead now missing&lt;/p&gt;
+&lt;p&gt;The Cross&lt;/p&gt;
+&lt;p&gt;According to a tradition recorded in the last century this cross
+was found buried in the graveyard when the enclosing wall was being
+built about 1800. It was then erected in its present location. It
+is not recorded if the base was already in position. The base is
+certainly ancient as there is a bullaun 1 ft in diameter cut in it.
+The cross is very much weathered but on it can be seen a figure in
+a long garment with extended arms, standing on a small platform. A
+somewhat similar figure is on the opposite face. This probably
+represents a crucifixion on one face and Christ in Glory on the
+other, as appears on many ninth and tenth century crosses.&lt;/p&gt;
+&lt;p&gt;There is a shallow moulding at the angles of the shaft and
+another down the centre which terminates at the bottom with a pair
+of leaves. A similar feature can be seen on the cross at Kilfenora,
+Co.Clare. There is a tenon on the top of the cross which would have
+held a capping stone in position. According to the O.S. Letters
+there was formerly a holy well, known as the Eye Well, near the
+church but a drain sunk in its neighbourhood caused it to
+disappear.&lt;/p&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>Above ground, beneath stone</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="110774361">
+          <groundspeak:date>2010-05-30T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2843331">oldnavycarl</groundspeak:finder>
+          <groundspeak:text encoded="False">First of three finds today. Really nice location - never know it existed even though I have been around here many times! Cache was easy enough to find, but still a bit wet including the log book. We added a sheet of paper so hopefully this can be used for some time. TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="110526064">
+          <groundspeak:date>2010-05-25T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1019524">Serapis</groundspeak:finder>
+          <groundspeak:text encoded="False">I found the cache quickly. The lid was off and a few objects were scattered around. The 'clamp down' mechanism of the box seems to be missing. I tidied it up and rehid as best I could. I nearly chopped my finger off closing the lid as can happen with these containers. Great for hiding things in but also an efficient finger guillotine! Anyway no major damage done. TFTC, Serapis.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="105520671">
+          <groundspeak:date>2010-04-23T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2677878">Laura374</groundspeak:finder>
+          <groundspeak:text encoded="False">TFTC - Found with pplsgod, though it was his second time there. Allowed me to have the glory of the find. Nice easy Cache! </groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="103755643">
+          <groundspeak:date>2010-04-11T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2781925">Lynjas</groundspeak:finder>
+          <groundspeak:text encoded="False">Nice and easy to find. TFTC.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="102315016">
+          <groundspeak:date>2010-04-03T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="32570">Wild Rover</groundspeak:finder>
+          <groundspeak:text encoded="False">Well now cache located by a very junior geocacher indeed - 4 this week!!!! TFTC</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

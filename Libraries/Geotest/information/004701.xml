@@ -1,0 +1,1580 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>004701</id>
+  <cache-id>GC2G1AF</cache-id>
+  <type>Multi-cache</type>
+  <name>Seeburg by Mieze und AlexSilver, Multi-cache (2/2)</name>
+  <size>Small</size>
+  <difficulty>2</difficulty>
+  <terrain>2</terrain>
+  <last-found>2010-10-03</last-found>
+  <placed>2010-10-02</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Mieze und AlexSilver</placedby>
+  <found>Geocache</found>
+  <lat>50.6365</lat>
+  <lon>9.57875</lon>
+  <last-logs>WFFF</last-logs>
+  <owner>Mieze und AlexSilver</owner>
+  <description><p><u><b>Kurzbeschreibung:</b></u></p>
+<p>Ein ca. 4km langer Spaziergang mit 4 Zwischenstationen rund um
+den Seeberg. Bis auf die letzten Meter müssen die leicht
+befestigten Feldwege nicht verlassen werden..</p></description>
+  <long-description><p><u><b>Ausführliche Beschreibung:</b></u></p>
+<p>Für das Lösen der Aufgaben wird ein Kompaß oder alternativ ein
+sehr gutes Gefühl für die Himmelsrichtungen benötigt. Ein Fernglas
+kann hilfreich sein, ist aber nicht unbedingt notwendig.<br />
+Da die Feldwege zum Teil nur leicht befestigt sind solltet ihr bei
+feuchtem Wetter eure Sonntagsklamotten besser zuhause lassen. Die
+Runde eignet sich übrigens gut zum Gassigehen.<br />
+Damit ihr den Überblick nicht verliert gibt&rsquo;s am Ende jeder
+Stage eine kleine Tabelle in der ihr die schon gelösten Zahlen
+eintragen könnt...<br />
+Parken könnt ihr direkt an den Startkoordinaten</p>
+<p><u><b>Stage 0- Parken</b></u></p>
+<p><font face="Lucida Console, monospace"><font size="4" style=
+"font-size: 16pt">.N50-38,190<br />
+.E09-34,725</font></font></p>
+<p>Ihr könnt direkt vor dem Schild parken und die erste Aufgabe
+bequem im Sitzen lösen.</p>
+<ul>
+<li>
+<p>Für wieviele Autos sind hier Parkplätze vorgesehen ? (A = Anzahl
+der Parkplätze)</p>
+</li>
+<li>
+<p>Wieviele Felsbrocken liegen zwischen Parkplatz und dem kurzen
+Fußweg ? (B = Anzahl der Steine die einem besser nicht über den Fuß
+rollen)</p>
+</li>
+<li>
+<p>Finde die größte Zahl bzw. Ziffer auf dem rot umrandeten Schild
+(C = Ziffer)</p>
+</li>
+</ul>
+<p>Los geht&rsquo;s - aber <u><b>auf dem Weg zu Stage 1</b></u>
+müßt ihr auf folgendes achten:</p>
+<ul>
+<li>
+<p>Wieviele Bäume stehen auf der rechte Seite des Weges ? (E =
+Anzahl Bäume)</p>
+</li>
+</ul>
+<p style="margin-bottom: 0cm"><br /></p>
+<table width="60%" border="0" cellpadding="0" cellspacing="0">
+<col width="18*" />
+<col width="18*" />
+<col width="18*" />
+<col width="18*" />
+<col width="18*" />
+<col width="18*" />
+<col width="18*" />
+<col width="18*" />
+<col width="18*" />
+<col width="18*" />
+<col width="18*" />
+<col width="18*" />
+<col width="18*" />
+<tr valign="top">
+<td width="7%">
+<p align="center">A</p>
+</td>
+<td width="7%">
+<p align="center">B</p>
+</td>
+<td width="7%">
+<p align="center">C</p>
+</td>
+<td width="7%">
+<p align="center">E</p>
+</td>
+<td width="7%">
+<p align="center">F</p>
+</td>
+<td width="7%">
+<p align="center">G</p>
+</td>
+<td width="7%">
+<p align="center">H</p>
+</td>
+<td width="7%">
+<p align="center">I</p>
+</td>
+<td width="7%">
+<p align="center">J</p>
+</td>
+<td width="7%">
+<p align="center">K</p>
+</td>
+<td width="7%">
+<p align="center">L</p>
+</td>
+<td width="7%">
+<p align="center">M</p>
+</td>
+<td width="7%">
+<p align="center">P</p>
+</td>
+</tr>
+<tr valign="top">
+<td width="7%">
+<p align="center">__</p>
+</td>
+<td width="7%">
+<p align="center">__</p>
+</td>
+<td width="7%">
+<p align="center">__</p>
+</td>
+<td width="7%">
+<p align="center">__</p>
+</td>
+<td width="7%">
+<p align="center">__</p>
+</td>
+<td width="7%">
+<p align="center">__</p>
+</td>
+<td width="7%">
+<p align="center">__</p>
+</td>
+<td width="7%">
+<p align="center">__</p>
+</td>
+<td width="7%">
+<p align="center">__</p>
+</td>
+<td width="7%">
+<p align="center">__</p>
+</td>
+<td width="7%">
+<p align="center">__</p>
+</td>
+<td width="7%">
+<p align="center">__</p>
+</td>
+<td width="7%">
+<p align="center">__</p>
+</td>
+</tr>
+</table>
+<p><br />
+<br /></p>
+<p><u><b>Stage 1- Ich glaub ich steh am Feld</b></u></p>
+<p><font face="Lucida Console, monospace"><font size="4" style=
+"font-size: 16pt">.N50-38, 0 C B<br />
+.E09-34, A 3 8</font></font></p>
+<p>Bis hierhin gings ja noch ganz bequem &ndash; packt nun den
+Kompaß und evtl. das Fernglas aus und haltet nach einem Sendemast
+Ausschau. Die Himmelsrichtung muß nur ungefähr stimmen. Je nachdem
+in welcher Himmelsrichtung der Mast zu erkennen ist ergibt sich für
+&bdquo;F&ldquo; ein anderer Wert..<br />
+Norden = 3<br />
+Osten = 4<br />
+Süden = 6<br />
+Westen = 7<br />
+<br />
+(F = Himmelsrichtung Sendemast)<br />
+<br />
+Weiter geht&rsquo;s, diesmal nur mit folgender Aufgabe: nicht
+ausrutschen...</p>
+<p style="margin-bottom: 0cm"><br /></p>
+<table width="60%" border="0" cellpadding="0" cellspacing="0">
+<col width="18*" />
+<col width="18*" />
+<col width="18*" />
+<col width="18*" />
+<col width="18*" />
+<col width="18*" />
+<col width="18*" />
+<col width="18*" />
+<col width="18*" />
+<col width="18*" />
+<col width="18*" />
+<col width="18*" />
+<col width="18*" />
+<tr valign="top">
+<td width="7%">
+<p align="center">A</p>
+</td>
+<td width="7%">
+<p align="center">B</p>
+</td>
+<td width="7%">
+<p align="center">C</p>
+</td>
+<td width="7%">
+<p align="center">E</p>
+</td>
+<td width="7%">
+<p align="center">F</p>
+</td>
+<td width="7%">
+<p align="center">G</p>
+</td>
+<td width="7%">
+<p align="center">H</p>
+</td>
+<td width="7%">
+<p align="center">I</p>
+</td>
+<td width="7%">
+<p align="center">J</p>
+</td>
+<td width="7%">
+<p align="center">K</p>
+</td>
+<td width="7%">
+<p align="center">L</p>
+</td>
+<td width="7%">
+<p align="center">M</p>
+</td>
+<td width="7%">
+<p align="center">P</p>
+</td>
+</tr>
+<tr valign="top">
+<td width="7%">
+<p align="center">__</p>
+</td>
+<td width="7%">
+<p align="center">__</p>
+</td>
+<td width="7%">
+<p align="center">__</p>
+</td>
+<td width="7%">
+<p align="center">__</p>
+</td>
+<td width="7%">
+<p align="center">__</p>
+</td>
+<td width="7%">
+<p align="center">__</p>
+</td>
+<td width="7%">
+<p align="center">__</p>
+</td>
+<td width="7%">
+<p align="center">__</p>
+</td>
+<td width="7%">
+<p align="center">__</p>
+</td>
+<td width="7%">
+<p align="center">__</p>
+</td>
+<td width="7%">
+<p align="center">__</p>
+</td>
+<td width="7%">
+<p align="center">__</p>
+</td>
+<td width="7%">
+<p align="center">__</p>
+</td>
+</tr>
+</table>
+<p><br />
+<br /></p>
+<p><u><b>Stage 2- Mikroalarm</b></u></p>
+<p><font face="Lucida Console, monospace"><font size="4" style=
+"font-size: 16pt">.N50-38, 2 8 0<br />
+.E09-3F, E 5 3</font></font></p>
+<p>Diese Stage &bdquo;Mikroalarm&ldquo; macht schon von weitem
+jeden Geocacher nervös &ndash; hier gibt&rsquo;s jedoch
+ausnahmsweise nichts magnetisches aufzuspüren. Zückt stattdessen
+den Kompaß und schaut euch um. Wie beim letzten mal ergibt sich je
+nach Himmelsrichtung eine Zahl (N=3,O=4, S=6,W=7).</p>
+<ul>
+<li value="1">
+<p>In welcher Himmelrichtung ist der nächste Jägerhochsitz gelegen
+? (G = Himmelsrichtung Hochsitz)</p>
+</li>
+<li>
+<p>In welcher Richtung befindet sich die nächstgelegene Scheune ?
+(H = Himmelsrichtung Scheune)</p>
+</li>
+</ul>
+<p style="margin-bottom: 0cm"><br /></p>
+<table width="60%" border="0" cellpadding="0" cellspacing="0">
+<col width="18*" />
+<col width="18*" />
+<col width="18*" />
+<col width="18*" />
+<col width="18*" />
+<col width="18*" />
+<col width="18*" />
+<col width="18*" />
+<col width="18*" />
+<col width="18*" />
+<col width="18*" />
+<col width="18*" />
+<col width="18*" />
+<tr valign="top">
+<td width="7%">
+<p align="center">A</p>
+</td>
+<td width="7%">
+<p align="center">B</p>
+</td>
+<td width="7%">
+<p align="center">C</p>
+</td>
+<td width="7%">
+<p align="center">E</p>
+</td>
+<td width="7%">
+<p align="center">F</p>
+</td>
+<td width="7%">
+<p align="center">G</p>
+</td>
+<td width="7%">
+<p align="center">H</p>
+</td>
+<td width="7%">
+<p align="center">I</p>
+</td>
+<td width="7%">
+<p align="center">J</p>
+</td>
+<td width="7%">
+<p align="center">K</p>
+</td>
+<td width="7%">
+<p align="center">L</p>
+</td>
+<td width="7%">
+<p align="center">M</p>
+</td>
+<td width="7%">
+<p align="center">P</p>
+</td>
+</tr>
+<tr valign="top">
+<td width="7%">
+<p align="center">__</p>
+</td>
+<td width="7%">
+<p align="center">__</p>
+</td>
+<td width="7%">
+<p align="center">__</p>
+</td>
+<td width="7%">
+<p align="center">__</p>
+</td>
+<td width="7%">
+<p align="center">__</p>
+</td>
+<td width="7%">
+<p align="center">__</p>
+</td>
+<td width="7%">
+<p align="center">__</p>
+</td>
+<td width="7%">
+<p align="center">__</p>
+</td>
+<td width="7%">
+<p align="center">__</p>
+</td>
+<td width="7%">
+<p align="center">__</p>
+</td>
+<td width="7%">
+<p align="center">__</p>
+</td>
+<td width="7%">
+<p align="center">__</p>
+</td>
+<td width="7%">
+<p align="center">__</p>
+</td>
+</tr>
+</table>
+<p><br />
+<br /></p>
+<p><u><b>Stage 3- Basislager</b></u></p>
+<p><font face="Lucida Console, monospace"><font size="4" style=
+"font-size: 16pt">.N50-38, E H 7<br />
+.E09-33, 8 E 7</font></font></p>
+<p>Auf einem Schild ganz in der Nähe könnt ihr herausfinden auf
+welchem Rundweg wir momentan unterwegs sind (I = Nr. des Rundwegs).
+Da wir nun schonmal hier angehalten haben zählen wir die Anzahl der
+Rundhölzer auf denen das Dach des nahegelegenen Schuppen aufliegt
+(J = Anzahl der Rundhölzer). Die Anzahl der Fenster mit Rolladen
+ergibt die Zahl für &bdquo;K&ldquo;. Dabei zählen nur solche die
+sich nach oben aufrollen.. (K = Anzahl Fenster mit Rolladen).</p>
+<p style="margin-bottom: 0cm"><br /></p>
+<table width="60%" border="0" cellpadding="0" cellspacing="0">
+<col width="18*" />
+<col width="18*" />
+<col width="18*" />
+<col width="18*" />
+<col width="18*" />
+<col width="18*" />
+<col width="18*" />
+<col width="18*" />
+<col width="18*" />
+<col width="18*" />
+<col width="18*" />
+<col width="18*" />
+<col width="18*" />
+<tr valign="top">
+<td width="7%">
+<p align="center">A</p>
+</td>
+<td width="7%">
+<p align="center">B</p>
+</td>
+<td width="7%">
+<p align="center">C</p>
+</td>
+<td width="7%">
+<p align="center">E</p>
+</td>
+<td width="7%">
+<p align="center">F</p>
+</td>
+<td width="7%">
+<p align="center">G</p>
+</td>
+<td width="7%">
+<p align="center">H</p>
+</td>
+<td width="7%">
+<p align="center">I</p>
+</td>
+<td width="7%">
+<p align="center">J</p>
+</td>
+<td width="7%">
+<p align="center">K</p>
+</td>
+<td width="7%">
+<p align="center">L</p>
+</td>
+<td width="7%">
+<p align="center">M</p>
+</td>
+<td width="7%">
+<p align="center">P</p>
+</td>
+</tr>
+<tr valign="top">
+<td width="7%">
+<p align="center">__</p>
+</td>
+<td width="7%">
+<p align="center">__</p>
+</td>
+<td width="7%">
+<p align="center">__</p>
+</td>
+<td width="7%">
+<p align="center">__</p>
+</td>
+<td width="7%">
+<p align="center">__</p>
+</td>
+<td width="7%">
+<p align="center">__</p>
+</td>
+<td width="7%">
+<p align="center">__</p>
+</td>
+<td width="7%">
+<p align="center">__</p>
+</td>
+<td width="7%">
+<p align="center">__</p>
+</td>
+<td width="7%">
+<p align="center">__</p>
+</td>
+<td width="7%">
+<p align="center">__</p>
+</td>
+<td width="7%">
+<p align="center">__</p>
+</td>
+<td width="7%">
+<p align="center">__</p>
+</td>
+</tr>
+</table>
+<p><br />
+<br /></p>
+<p><u><b>Stage 4- Seeburg</b></u></p>
+<p><font face="Lucida Console, monospace"><font size="4" style=
+"font-size: 16pt">.N50-37, 9 6 H<br />
+.E09-34, 0 I H</font></font></p>
+<p>Ihr steht nun vor der Ruine der &bdquo;Burg Seeburg&ldquo;. Von
+der eigentlichen Burg ist nur noch ein Teil des Wohnturms
+erhalten.<br />
+Über die Turmburg sind keine Urkundlichen Dokumente mehr vorhanden
+sodaß nur vermutet werden kann daß die Burg von den &bdquo;Herren
+von Schlitz&ldquo; im 12. Jh. gegründet wurde. Die Burg diente
+vermutlich zum Schutz der Besitzungen des Klosters Fulda.<br />
+Im 13. Jh. wurde die Burg dann wahrscheinlich von Bertho II. von
+Leibolz zerstört.</p>
+<p>Für den Final müßt ihr jetzt nur noch folgende Aufgaben
+lösen:</p>
+<ul>
+<li>
+<p>Wieviele Wörter kann man auf dem unteren der beiden Schilder
+zählen ? (L = Anzahl Wörter)</p>
+</li>
+<li>
+<p>Wodurch wird der hochmotivierte Geocacher am Betreten der Ruine
+gehindert:<br />
+von einem Zaun (M = 4)<br />
+von einer Mauer (M = 6)<br />
+von Brennnesseln und Sträuchern (M = 8)</p>
+</li>
+<li>
+<p>Um herauszufinden welche Wand des Turms am besten erhalten ist
+solltet ihr nochmal den Kompaß aus der Tasche nehmen.. (Hilfe:
+stellt euch vor ihr könntet euch mit dem Kompaß in die Mitte des
+Turms stellen.)<br />
+Nordwand = 3<br />
+Ostwand = 4<br />
+Südwand = 6<br />
+Westwand = 7<br />
+(P = Himmelsrichtung der am best erhaltensten Wand)</p>
+</li>
+</ul>
+<p style="margin-bottom: 0cm"><br /></p>
+<table width="60%" border="0" cellpadding="0" cellspacing="0">
+<col width="18*" />
+<col width="18*" />
+<col width="18*" />
+<col width="18*" />
+<col width="18*" />
+<col width="18*" />
+<col width="18*" />
+<col width="18*" />
+<col width="18*" />
+<col width="18*" />
+<col width="18*" />
+<col width="18*" />
+<col width="18*" />
+<tr valign="top">
+<td width="7%">
+<p align="center">A</p>
+</td>
+<td width="7%">
+<p align="center">B</p>
+</td>
+<td width="7%">
+<p align="center">C</p>
+</td>
+<td width="7%">
+<p align="center">E</p>
+</td>
+<td width="7%">
+<p align="center">F</p>
+</td>
+<td width="7%">
+<p align="center">G</p>
+</td>
+<td width="7%">
+<p align="center">H</p>
+</td>
+<td width="7%">
+<p align="center">I</p>
+</td>
+<td width="7%">
+<p align="center">J</p>
+</td>
+<td width="7%">
+<p align="center">K</p>
+</td>
+<td width="7%">
+<p align="center">L</p>
+</td>
+<td width="7%">
+<p align="center">M</p>
+</td>
+<td width="7%">
+<p align="center">P</p>
+</td>
+</tr>
+<tr valign="top">
+<td width="7%">
+<p align="center">__</p>
+</td>
+<td width="7%">
+<p align="center">__</p>
+</td>
+<td width="7%">
+<p align="center">__</p>
+</td>
+<td width="7%">
+<p align="center">__</p>
+</td>
+<td width="7%">
+<p align="center">__</p>
+</td>
+<td width="7%">
+<p align="center">__</p>
+</td>
+<td width="7%">
+<p align="center">__</p>
+</td>
+<td width="7%">
+<p align="center">__</p>
+</td>
+<td width="7%">
+<p align="center">__</p>
+</td>
+<td width="7%">
+<p align="center">__</p>
+</td>
+<td width="7%">
+<p align="center">__</p>
+</td>
+<td width="7%">
+<p align="center">__</p>
+</td>
+<td width="7%">
+<p align="center">__</p>
+</td>
+</tr>
+</table>
+<p><br />
+<br /></p>
+<p><u><b>Stage 5- Final</b></u></p>
+<p>Hier könnt ihr fündig werden !</p>
+<p>Zielkoordinaten:</p>
+<p><br />
+<br /></p>
+<p><font face="Lucida Console, monospace"><font size="4" style=
+"font-size: 16pt">.N50-3J,(H+I)K(P-F)<br />
+.E09-3G,(M+K)C(L+2)</font></font></p>
+<p><br />
+<br /></p>
+<p>Und nun viel Spaß mit diesem Multi-Cache !</p>
+<table width="60%" border="0" cellpadding="0" cellspacing="0">
+<col width="18*" />
+<col width="18*" />
+<col width="18*" />
+<col width="18*" />
+<col width="18*" />
+<col width="18*" />
+<col width="18*" />
+<col width="18*" />
+<col width="18*" />
+<col width="18*" />
+<col width="18*" />
+<col width="18*" />
+<col width="18*" />
+<tr valign="top">
+<td width="7%">
+<p align="center">A</p>
+</td>
+<td width="7%">
+<p align="center">B</p>
+</td>
+<td width="7%">
+<p align="center">C</p>
+</td>
+<td width="7%">
+<p align="center">E</p>
+</td>
+<td width="7%">
+<p align="center">F</p>
+</td>
+<td width="7%">
+<p align="center">G</p>
+</td>
+<td width="7%">
+<p align="center">H</p>
+</td>
+<td width="7%">
+<p align="center">I</p>
+</td>
+<td width="7%">
+<p align="center">J</p>
+</td>
+<td width="7%">
+<p align="center">K</p>
+</td>
+<td width="7%">
+<p align="center">L</p>
+</td>
+<td width="7%">
+<p align="center">M</p>
+</td>
+<td width="7%">
+<p align="center">P</p>
+</td>
+</tr>
+<tr valign="top">
+<td width="7%">
+<p align="center">__</p>
+</td>
+<td width="7%">
+<p align="center">__</p>
+</td>
+<td width="7%">
+<p align="center">__</p>
+</td>
+<td width="7%">
+<p align="center">__</p>
+</td>
+<td width="7%">
+<p align="center">__</p>
+</td>
+<td width="7%">
+<p align="center">__</p>
+</td>
+<td width="7%">
+<p align="center">__</p>
+</td>
+<td width="7%">
+<p align="center">__</p>
+</td>
+<td width="7%">
+<p align="center">__</p>
+</td>
+<td width="7%">
+<p align="center">__</p>
+</td>
+<td width="7%">
+<p align="center">__</p>
+</td>
+<td width="7%">
+<p align="center">__</p>
+</td>
+<td width="7%">
+<p align="center">__</p>
+</td>
+</tr>
+</table>
+<p><br />
+<br /></p></long-description>
+  <additional-waypoints>002G1AF - Parken<br />N 50° 38.190 E 009° 34.725<br /><br />012G1AF - Ich glaub ich steh am Feld<br />N/S  __ ° __ . ___ W/E ___ ° __ . ___ <br /><br />022G1AF - Mikroalarm<br />N/S  __ ° __ . ___ W/E ___ ° __ . ___ <br /><br />032G1AF - Basislager<br />N/S  __ ° __ . ___ W/E ___ ° __ . ___ <br /><br />042G1AF - Seeburg<br />N/S  __ ° __ . ___ W/E ___ ° __ . ___ <br /><br />052G1AF - Final<br />N/S  __ ° __ . ___ W/E ___ ° __ . ___ <br /><br /></additional-waypoints>
+  <links>waypoints:cache-id:002G1AF|waypoints:cache-id:012G1AF|waypoints:cache-id:022G1AF|waypoints:cache-id:032G1AF|waypoints:cache-id:042G1AF|waypoints:cache-id:052G1AF</links>
+  <encoded-hints>snie reginew reiv</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=86c8e5c4-15ac-4990-ad94-54d4d43ea700</url>
+  <url-name>Seeburg</url-name>
+  <logs><ul><li>2010-11-21T20:00:00Z : Write note by Mieze und AlexSilver <br />Haben heute mal nach dem rechten geschaut - alles bestens: die Dose (und die Cachebeschreibung) ist winterfest ;-)
+Mieze und AlexSilver
+
+
+
+This entry was edited by Mieze und AlexSilver on Sunday, 28 November 2010 at 02:59:51.</li><li>2010-10-10T19:00:00Z : Found it by burgen13 <br />Nach einer anstrengenden Geburtstagsfeier mit viel Essen kam uns dieser nette Abend-/Verdauungsspaziergang gerade recht. Wunderschön gemachter Multi auf vertrautem Gelände.
+Danke sagt burgen13</li><li>2010-10-10T19:00:00Z : Found it by Kabal88 <br />Bei einem Sonntagsrundgang, schnell und gut gefunden
+TFTC sagt Kabal</li><li>2010-10-06T19:00:00Z : Found it by naturfoto57 <br />Unglaublich drei Tage nach der Veröffentlichung war das auf unserer kleinen Runde heute Morgen der zweite  [:D] F [:D] T [:D] F [:D] !
+Vielen Dank für den kleinen schönen Rundgang sagt naturfoto57.</li><li>2010-10-03T14:04:50Z : Publish Listing by Don Rocbeer <br />Published</li></ul></logs>
+  <original-xml>  <wpt  lat="50.6365" lon="9.57875">
+    <time>2010-10-02T07:00:00Z</time>
+    <name>GC2G1AF</name>
+    <desc>Seeburg by Mieze und AlexSilver, Multi-cache (2/2)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=86c8e5c4-15ac-4990-ad94-54d4d43ea700</url>
+    <urlname>Seeburg</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Multi-cache</type>
+    <groundspeak:cache id="1913864" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Seeburg</groundspeak:name>
+      <groundspeak:placed_by>Mieze und AlexSilver</groundspeak:placed_by>
+      <groundspeak:owner id="3048543">Mieze und AlexSilver</groundspeak:owner>
+      <groundspeak:type>Multi-cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>2</groundspeak:difficulty>
+      <groundspeak:terrain>2</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="True">&lt;p&gt;&lt;u&gt;&lt;b&gt;Kurzbeschreibung:&lt;/b&gt;&lt;/u&gt;&lt;/p&gt;
+&lt;p&gt;Ein ca. 4km langer Spaziergang mit 4 Zwischenstationen rund um
+den Seeberg. Bis auf die letzten Meter müssen die leicht
+befestigten Feldwege nicht verlassen werden..&lt;/p&gt;</groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;p&gt;&lt;u&gt;&lt;b&gt;Ausführliche Beschreibung:&lt;/b&gt;&lt;/u&gt;&lt;/p&gt;
+&lt;p&gt;Für das Lösen der Aufgaben wird ein Kompaß oder alternativ ein
+sehr gutes Gefühl für die Himmelsrichtungen benötigt. Ein Fernglas
+kann hilfreich sein, ist aber nicht unbedingt notwendig.&lt;br /&gt;
+Da die Feldwege zum Teil nur leicht befestigt sind solltet ihr bei
+feuchtem Wetter eure Sonntagsklamotten besser zuhause lassen. Die
+Runde eignet sich übrigens gut zum Gassigehen.&lt;br /&gt;
+Damit ihr den Überblick nicht verliert gibt&amp;rsquo;s am Ende jeder
+Stage eine kleine Tabelle in der ihr die schon gelösten Zahlen
+eintragen könnt...&lt;br /&gt;
+Parken könnt ihr direkt an den Startkoordinaten&lt;/p&gt;
+&lt;p&gt;&lt;u&gt;&lt;b&gt;Stage 0- Parken&lt;/b&gt;&lt;/u&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font face="Lucida Console, monospace"&gt;&lt;font size="4" style=
+"font-size: 16pt"&gt;.N50-38,190&lt;br /&gt;
+.E09-34,725&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;Ihr könnt direkt vor dem Schild parken und die erste Aufgabe
+bequem im Sitzen lösen.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Für wieviele Autos sind hier Parkplätze vorgesehen ? (A = Anzahl
+der Parkplätze)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Wieviele Felsbrocken liegen zwischen Parkplatz und dem kurzen
+Fußweg ? (B = Anzahl der Steine die einem besser nicht über den Fuß
+rollen)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Finde die größte Zahl bzw. Ziffer auf dem rot umrandeten Schild
+(C = Ziffer)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Los geht&amp;rsquo;s - aber &lt;u&gt;&lt;b&gt;auf dem Weg zu Stage 1&lt;/b&gt;&lt;/u&gt;
+müßt ihr auf folgendes achten:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Wieviele Bäume stehen auf der rechte Seite des Weges ? (E =
+Anzahl Bäume)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="margin-bottom: 0cm"&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;table width="60%" border="0" cellpadding="0" cellspacing="0"&gt;
+&lt;col width="18*" /&gt;
+&lt;col width="18*" /&gt;
+&lt;col width="18*" /&gt;
+&lt;col width="18*" /&gt;
+&lt;col width="18*" /&gt;
+&lt;col width="18*" /&gt;
+&lt;col width="18*" /&gt;
+&lt;col width="18*" /&gt;
+&lt;col width="18*" /&gt;
+&lt;col width="18*" /&gt;
+&lt;col width="18*" /&gt;
+&lt;col width="18*" /&gt;
+&lt;col width="18*" /&gt;
+&lt;tr valign="top"&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;A&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;B&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;C&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;E&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;F&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;G&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;H&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;I&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;J&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;K&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;L&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;M&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;P&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr valign="top"&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;__&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;__&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;__&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;__&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;__&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;__&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;__&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;__&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;__&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;__&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;__&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;__&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;__&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;u&gt;&lt;b&gt;Stage 1- Ich glaub ich steh am Feld&lt;/b&gt;&lt;/u&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font face="Lucida Console, monospace"&gt;&lt;font size="4" style=
+"font-size: 16pt"&gt;.N50-38, 0 C B&lt;br /&gt;
+.E09-34, A 3 8&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;Bis hierhin gings ja noch ganz bequem &amp;ndash; packt nun den
+Kompaß und evtl. das Fernglas aus und haltet nach einem Sendemast
+Ausschau. Die Himmelsrichtung muß nur ungefähr stimmen. Je nachdem
+in welcher Himmelsrichtung der Mast zu erkennen ist ergibt sich für
+&amp;bdquo;F&amp;ldquo; ein anderer Wert..&lt;br /&gt;
+Norden = 3&lt;br /&gt;
+Osten = 4&lt;br /&gt;
+Süden = 6&lt;br /&gt;
+Westen = 7&lt;br /&gt;
+&lt;br /&gt;
+(F = Himmelsrichtung Sendemast)&lt;br /&gt;
+&lt;br /&gt;
+Weiter geht&amp;rsquo;s, diesmal nur mit folgender Aufgabe: nicht
+ausrutschen...&lt;/p&gt;
+&lt;p style="margin-bottom: 0cm"&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;table width="60%" border="0" cellpadding="0" cellspacing="0"&gt;
+&lt;col width="18*" /&gt;
+&lt;col width="18*" /&gt;
+&lt;col width="18*" /&gt;
+&lt;col width="18*" /&gt;
+&lt;col width="18*" /&gt;
+&lt;col width="18*" /&gt;
+&lt;col width="18*" /&gt;
+&lt;col width="18*" /&gt;
+&lt;col width="18*" /&gt;
+&lt;col width="18*" /&gt;
+&lt;col width="18*" /&gt;
+&lt;col width="18*" /&gt;
+&lt;col width="18*" /&gt;
+&lt;tr valign="top"&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;A&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;B&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;C&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;E&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;F&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;G&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;H&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;I&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;J&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;K&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;L&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;M&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;P&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr valign="top"&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;__&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;__&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;__&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;__&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;__&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;__&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;__&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;__&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;__&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;__&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;__&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;__&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;__&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;u&gt;&lt;b&gt;Stage 2- Mikroalarm&lt;/b&gt;&lt;/u&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font face="Lucida Console, monospace"&gt;&lt;font size="4" style=
+"font-size: 16pt"&gt;.N50-38, 2 8 0&lt;br /&gt;
+.E09-3F, E 5 3&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;Diese Stage &amp;bdquo;Mikroalarm&amp;ldquo; macht schon von weitem
+jeden Geocacher nervös &amp;ndash; hier gibt&amp;rsquo;s jedoch
+ausnahmsweise nichts magnetisches aufzuspüren. Zückt stattdessen
+den Kompaß und schaut euch um. Wie beim letzten mal ergibt sich je
+nach Himmelsrichtung eine Zahl (N=3,O=4, S=6,W=7).&lt;/p&gt;
+&lt;ul&gt;
+&lt;li value="1"&gt;
+&lt;p&gt;In welcher Himmelrichtung ist der nächste Jägerhochsitz gelegen
+? (G = Himmelsrichtung Hochsitz)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;In welcher Richtung befindet sich die nächstgelegene Scheune ?
+(H = Himmelsrichtung Scheune)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="margin-bottom: 0cm"&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;table width="60%" border="0" cellpadding="0" cellspacing="0"&gt;
+&lt;col width="18*" /&gt;
+&lt;col width="18*" /&gt;
+&lt;col width="18*" /&gt;
+&lt;col width="18*" /&gt;
+&lt;col width="18*" /&gt;
+&lt;col width="18*" /&gt;
+&lt;col width="18*" /&gt;
+&lt;col width="18*" /&gt;
+&lt;col width="18*" /&gt;
+&lt;col width="18*" /&gt;
+&lt;col width="18*" /&gt;
+&lt;col width="18*" /&gt;
+&lt;col width="18*" /&gt;
+&lt;tr valign="top"&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;A&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;B&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;C&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;E&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;F&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;G&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;H&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;I&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;J&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;K&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;L&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;M&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;P&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr valign="top"&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;__&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;__&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;__&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;__&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;__&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;__&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;__&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;__&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;__&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;__&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;__&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;__&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;__&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;u&gt;&lt;b&gt;Stage 3- Basislager&lt;/b&gt;&lt;/u&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font face="Lucida Console, monospace"&gt;&lt;font size="4" style=
+"font-size: 16pt"&gt;.N50-38, E H 7&lt;br /&gt;
+.E09-33, 8 E 7&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;Auf einem Schild ganz in der Nähe könnt ihr herausfinden auf
+welchem Rundweg wir momentan unterwegs sind (I = Nr. des Rundwegs).
+Da wir nun schonmal hier angehalten haben zählen wir die Anzahl der
+Rundhölzer auf denen das Dach des nahegelegenen Schuppen aufliegt
+(J = Anzahl der Rundhölzer). Die Anzahl der Fenster mit Rolladen
+ergibt die Zahl für &amp;bdquo;K&amp;ldquo;. Dabei zählen nur solche die
+sich nach oben aufrollen.. (K = Anzahl Fenster mit Rolladen).&lt;/p&gt;
+&lt;p style="margin-bottom: 0cm"&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;table width="60%" border="0" cellpadding="0" cellspacing="0"&gt;
+&lt;col width="18*" /&gt;
+&lt;col width="18*" /&gt;
+&lt;col width="18*" /&gt;
+&lt;col width="18*" /&gt;
+&lt;col width="18*" /&gt;
+&lt;col width="18*" /&gt;
+&lt;col width="18*" /&gt;
+&lt;col width="18*" /&gt;
+&lt;col width="18*" /&gt;
+&lt;col width="18*" /&gt;
+&lt;col width="18*" /&gt;
+&lt;col width="18*" /&gt;
+&lt;col width="18*" /&gt;
+&lt;tr valign="top"&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;A&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;B&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;C&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;E&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;F&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;G&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;H&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;I&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;J&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;K&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;L&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;M&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;P&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr valign="top"&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;__&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;__&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;__&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;__&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;__&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;__&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;__&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;__&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;__&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;__&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;__&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;__&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;__&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;u&gt;&lt;b&gt;Stage 4- Seeburg&lt;/b&gt;&lt;/u&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font face="Lucida Console, monospace"&gt;&lt;font size="4" style=
+"font-size: 16pt"&gt;.N50-37, 9 6 H&lt;br /&gt;
+.E09-34, 0 I H&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;Ihr steht nun vor der Ruine der &amp;bdquo;Burg Seeburg&amp;ldquo;. Von
+der eigentlichen Burg ist nur noch ein Teil des Wohnturms
+erhalten.&lt;br /&gt;
+Über die Turmburg sind keine Urkundlichen Dokumente mehr vorhanden
+sodaß nur vermutet werden kann daß die Burg von den &amp;bdquo;Herren
+von Schlitz&amp;ldquo; im 12. Jh. gegründet wurde. Die Burg diente
+vermutlich zum Schutz der Besitzungen des Klosters Fulda.&lt;br /&gt;
+Im 13. Jh. wurde die Burg dann wahrscheinlich von Bertho II. von
+Leibolz zerstört.&lt;/p&gt;
+&lt;p&gt;Für den Final müßt ihr jetzt nur noch folgende Aufgaben
+lösen:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Wieviele Wörter kann man auf dem unteren der beiden Schilder
+zählen ? (L = Anzahl Wörter)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Wodurch wird der hochmotivierte Geocacher am Betreten der Ruine
+gehindert:&lt;br /&gt;
+von einem Zaun (M = 4)&lt;br /&gt;
+von einer Mauer (M = 6)&lt;br /&gt;
+von Brennnesseln und Sträuchern (M = 8)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Um herauszufinden welche Wand des Turms am besten erhalten ist
+solltet ihr nochmal den Kompaß aus der Tasche nehmen.. (Hilfe:
+stellt euch vor ihr könntet euch mit dem Kompaß in die Mitte des
+Turms stellen.)&lt;br /&gt;
+Nordwand = 3&lt;br /&gt;
+Ostwand = 4&lt;br /&gt;
+Südwand = 6&lt;br /&gt;
+Westwand = 7&lt;br /&gt;
+(P = Himmelsrichtung der am best erhaltensten Wand)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style="margin-bottom: 0cm"&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;table width="60%" border="0" cellpadding="0" cellspacing="0"&gt;
+&lt;col width="18*" /&gt;
+&lt;col width="18*" /&gt;
+&lt;col width="18*" /&gt;
+&lt;col width="18*" /&gt;
+&lt;col width="18*" /&gt;
+&lt;col width="18*" /&gt;
+&lt;col width="18*" /&gt;
+&lt;col width="18*" /&gt;
+&lt;col width="18*" /&gt;
+&lt;col width="18*" /&gt;
+&lt;col width="18*" /&gt;
+&lt;col width="18*" /&gt;
+&lt;col width="18*" /&gt;
+&lt;tr valign="top"&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;A&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;B&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;C&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;E&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;F&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;G&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;H&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;I&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;J&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;K&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;L&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;M&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;P&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr valign="top"&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;__&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;__&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;__&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;__&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;__&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;__&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;__&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;__&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;__&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;__&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;__&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;__&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;__&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;u&gt;&lt;b&gt;Stage 5- Final&lt;/b&gt;&lt;/u&gt;&lt;/p&gt;
+&lt;p&gt;Hier könnt ihr fündig werden !&lt;/p&gt;
+&lt;p&gt;Zielkoordinaten:&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font face="Lucida Console, monospace"&gt;&lt;font size="4" style=
+"font-size: 16pt"&gt;.N50-3J,(H+I)K(P-F)&lt;br /&gt;
+.E09-3G,(M+K)C(L+2)&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Und nun viel Spaß mit diesem Multi-Cache !&lt;/p&gt;
+&lt;table width="60%" border="0" cellpadding="0" cellspacing="0"&gt;
+&lt;col width="18*" /&gt;
+&lt;col width="18*" /&gt;
+&lt;col width="18*" /&gt;
+&lt;col width="18*" /&gt;
+&lt;col width="18*" /&gt;
+&lt;col width="18*" /&gt;
+&lt;col width="18*" /&gt;
+&lt;col width="18*" /&gt;
+&lt;col width="18*" /&gt;
+&lt;col width="18*" /&gt;
+&lt;col width="18*" /&gt;
+&lt;col width="18*" /&gt;
+&lt;col width="18*" /&gt;
+&lt;tr valign="top"&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;A&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;B&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;C&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;E&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;F&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;G&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;H&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;I&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;J&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;K&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;L&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;M&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;P&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr valign="top"&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;__&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;__&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;__&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;__&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;__&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;__&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;__&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;__&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;__&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;__&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;__&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;__&lt;/p&gt;
+&lt;/td&gt;
+&lt;td width="7%"&gt;
+&lt;p align="center"&gt;__&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;&lt;p&gt;Additional Waypoints&lt;/p&gt;002G1AF - Parken&lt;br /&gt;N 50° 38.190 E 009° 34.725&lt;br /&gt;&lt;br /&gt;012G1AF - Ich glaub ich steh am Feld&lt;br /&gt;N/S  __ ° __ . ___ W/E ___ ° __ . ___ &lt;br /&gt;&lt;br /&gt;022G1AF - Mikroalarm&lt;br /&gt;N/S  __ ° __ . ___ W/E ___ ° __ . ___ &lt;br /&gt;&lt;br /&gt;032G1AF - Basislager&lt;br /&gt;N/S  __ ° __ . ___ W/E ___ ° __ . ___ &lt;br /&gt;&lt;br /&gt;042G1AF - Seeburg&lt;br /&gt;N/S  __ ° __ . ___ W/E ___ ° __ . ___ &lt;br /&gt;&lt;br /&gt;052G1AF - Final&lt;br /&gt;N/S  __ ° __ . ___ W/E ___ ° __ . ___ &lt;br /&gt;&lt;br /&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>snie reginew reiv</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="136702241">
+          <groundspeak:date>2010-11-21T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Write note</groundspeak:type>
+          <groundspeak:finder id="3048543">Mieze und AlexSilver</groundspeak:finder>
+          <groundspeak:text encoded="False">Haben heute mal nach dem rechten geschaut - alles bestens: die Dose (und die Cachebeschreibung) ist winterfest ;-)
+Mieze und AlexSilver
+
+
+
+This entry was edited by Mieze und AlexSilver on Sunday, 28 November 2010 at 02:59:51.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="130582004">
+          <groundspeak:date>2010-10-10T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2887618">burgen13</groundspeak:finder>
+          <groundspeak:text encoded="False">Nach einer anstrengenden Geburtstagsfeier mit viel Essen kam uns dieser nette Abend-/Verdauungsspaziergang gerade recht. Wunderschön gemachter Multi auf vertrautem Gelände.
+Danke sagt burgen13</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="130495512">
+          <groundspeak:date>2010-10-10T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1843265">Kabal88</groundspeak:finder>
+          <groundspeak:text encoded="False">Bei einem Sonntagsrundgang, schnell und gut gefunden
+TFTC sagt Kabal</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="129970006">
+          <groundspeak:date>2010-10-06T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2107244">naturfoto57</groundspeak:finder>
+          <groundspeak:text encoded="False">Unglaublich drei Tage nach der Veröffentlichung war das auf unserer kleinen Runde heute Morgen der zweite  [:D] F [:D] T [:D] F [:D] !
+Vielen Dank für den kleinen schönen Rundgang sagt naturfoto57.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="129486180">
+          <groundspeak:date>2010-10-03T14:04:50Z</groundspeak:date>
+          <groundspeak:type>Publish Listing</groundspeak:type>
+          <groundspeak:finder id="1291446">Don Rocbeer</groundspeak:finder>
+          <groundspeak:text encoded="False">Published</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

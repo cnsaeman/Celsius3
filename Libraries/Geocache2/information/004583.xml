@@ -1,0 +1,115 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>004583</id>
+  <cache-id>GC19D74</cache-id>
+  <type>Traditional Cache</type>
+  <name>Hermit 5 - Jailhouse Rock!! by MaryAnn42, Traditional Cache (1.5/1.5)</name>
+  <size>Micro</size>
+  <difficulty>1.5</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-02-13</last-found>
+  <placed>2008-02-16</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>MaryAnn42</placedby>
+  <found>Geocache Found</found>
+  <lat>53.282733</lat>
+  <lon>-6.284233</lon>
+  <last-logs>FFFFFF</last-logs>
+  <owner>MaryAnn42</owner>
+  <description>Important: Bring your own pen. 
+Please re-hide carefully.
+Park Opening Times
+
+Nov – Jan 	9.00 – 16.30
+Feb 	9.00 – 17.00
+Mar 	9.00 – 18.00
+Apr	9.00 – 20.00
+May - Aug	9.00 – 21.00
+Sept	9.00 – 20.00
+Oct	9.00 – 18.00</description>
+  <long-description>Beside the river is a small watchtower/jailhouse folly. There are steps up to the higher open grounds above. This scenic walk is very popular with adults and children alike.</long-description>
+  <encoded-hints>Look in the ivy.</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=a91ec9d6-78ea-41f2-8b5b-626d35128b08</url>
+  <url-name>Hermit 5 - Jailhouse Rock!!</url-name>
+  <logs><ul><li>2010-06-08T19:00:00Z : Found it by polorein <br />What a miserable day cache found very well camouflaged nicely hidden.</li><li>2010-05-15T19:00:00Z : Found it by Timmolly <br />Our first find! A few mugglers around but we were discreet [8D]
+</li><li>2010-05-07T19:00:00Z : Found it by milottie <br />Very nice hide.. was just the ticket for the trip to the park today. TFTC. SL</li><li>2010-04-05T19:00:00Z : Found it by didi2206 <br />Great park, great cache!!! Thanks</li><li>2010-04-03T19:00:00Z : Found it by ButcherBoys <br />Went on to this one after eggstravaganza, lovely walk, despite peeing it down. Had to run for car, wring out and head for home!!!!!
+TFTC</li><li>2010-02-13T20:00:00Z : Found it by Kersti.com <br />After finding the Cave so quickly we thought this would be simple. Took us a bit longer to get there than planned as we stopped at the museum, which was pretty good and well worth a visit. Finally headed round to this one and had the cache in hand in record time. Thanks for bringing us to this wonderful park.</li></ul></logs>
+  <original-xml>  <wpt  lat="53.282733" lon="-6.284233">
+    <time>2008-02-16T08:00:00Z</time>
+    <name>GC19D74</name>
+    <desc>Hermit 5 - Jailhouse Rock!! by MaryAnn42, Traditional Cache (1.5/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=a91ec9d6-78ea-41f2-8b5b-626d35128b08</url>
+    <urlname>Hermit 5 - Jailhouse Rock!!</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="793234" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Hermit 5 - Jailhouse Rock!!</groundspeak:name>
+      <groundspeak:placed_by>MaryAnn42</groundspeak:placed_by>
+      <groundspeak:owner id="1423600">MaryAnn42</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>
+      </groundspeak:state>
+      <groundspeak:short_description html="False">Important: Bring your own pen. 
+Please re-hide carefully.
+Park Opening Times
+
+Nov – Jan 	9.00 – 16.30
+Feb 	9.00 – 17.00
+Mar 	9.00 – 18.00
+Apr	9.00 – 20.00
+May - Aug	9.00 – 21.00
+Sept	9.00 – 20.00
+Oct	9.00 – 18.00</groundspeak:short_description>
+      <groundspeak:long_description html="False">Beside the river is a small watchtower/jailhouse folly. There are steps up to the higher open grounds above. This scenic walk is very popular with adults and children alike.</groundspeak:long_description>
+      <groundspeak:encoded_hints>Look in the ivy.</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="112145052">
+          <groundspeak:date>2010-06-08T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3371200">polorein</groundspeak:finder>
+          <groundspeak:text encoded="False">What a miserable day cache found very well camouflaged nicely hidden.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="108520844">
+          <groundspeak:date>2010-05-15T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3249974">Timmolly</groundspeak:finder>
+          <groundspeak:text encoded="False">Our first find! A few mugglers around but we were discreet [8D]
+</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="107420538">
+          <groundspeak:date>2010-05-07T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1536124">milottie</groundspeak:finder>
+          <groundspeak:text encoded="False">Very nice hide.. was just the ticket for the trip to the park today. TFTC. SL</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="102717487">
+          <groundspeak:date>2010-04-05T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2623045">didi2206</groundspeak:finder>
+          <groundspeak:text encoded="False">Great park, great cache!!! Thanks</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="102262975">
+          <groundspeak:date>2010-04-03T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2198754">ButcherBoys</groundspeak:finder>
+          <groundspeak:text encoded="False">Went on to this one after eggstravaganza, lovely walk, despite peeing it down. Had to run for car, wring out and head for home!!!!!
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="97187936">
+          <groundspeak:date>2010-02-13T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="320206">Kersti.com</groundspeak:finder>
+          <groundspeak:text encoded="False">After finding the Cave so quickly we thought this would be simple. Took us a bit longer to get there than planned as we stopped at the museum, which was pretty good and well worth a visit. Finally headed round to this one and had the cache in hand in record time. Thanks for bringing us to this wonderful park.</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

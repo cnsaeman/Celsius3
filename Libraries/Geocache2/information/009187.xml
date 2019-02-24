@@ -1,0 +1,252 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>009187</id>
+  <cache-id>GCWPH9</cache-id>
+  <type>Multi-cache</type>
+  <name>Road Racing by Windsockers, Multi-cache (3.5/1.5)</name>
+  <size>Regular</size>
+  <difficulty>3.5</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2008-08-02</last-found>
+  <placed>2006-07-10</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>Windsockers</placedby>
+  <found>Geocache</found>
+  <lat>53.564633</lat>
+  <lon>-6.143383</lon>
+  <last-logs>FMFXF</last-logs>
+  <owner>Windsockers</owner>
+  <description><center>
+<img src="http://img.geocaching.com/cache/55318f27-76d8-4720-90e0-b99fa43b5482.jpg" />
+ 
+<p><b>The Skerries 100 Road Races</b></p></center></description>
+  <long-description><p>The Skerries 100, is one of Irelands most famous motorcycle road
+race.</p>
+<p>Skerries village is just north of Dublin, and has been
+associated with road racing since the 1930’s, when the Leinster
+100, was run on a 21 km circuit which linked the villages of
+Skerries, Lusk and Rush.</p>
+<p>From 1935 there was no racing at Skerries for ten years, as the
+Leinster races moved to the Taillight course, but when war-time
+difficulties prevented the Dublin and Districts annual 100 mile
+road race from running at Phoenix Park, so the Skerries 100 was
+born.</p>
+<p>The first race took place on July 6th 1946, around a 12 km
+course with the start/finish on Skerries Main Street! Harry Turner
+from Belfast won the inaugural Skerries 100 and since then all of
+Irelands top road racers have raced at Skerries. In the 1970’s
+there were battles between Tom Herron, Joey Dunlop, Conor McGinn
+and Ray McCullough. the 1980’s had racers like Eddie Laycock,
+Phillip McCallen, Steve Cull and Robert Dunlop and the most popular
+of all, Bangor's Sam McClements, who rode at Skerries for an
+amazing 21 Years.</p>
+<p>The present 4.5 km circuit may seem small in comparison to the
+12km Skerries track, but it is no less demanding, with a record lap
+speed of 170 kph set by Mr WJ Dunlop MBE, OBE.</p>
+<p>The Skerries 100 attracts thousands of regular visitors from
+overseas, many make the annual ‘pilgrimage’ to North County Dublin
+to enjoy the renowned hospitality of the area and watch pure road
+racing at its very best amidst some of the best scenery in the
+County. Over 30,000 spectators are expected to attend the event
+each year.</p>
+<p><b>The Cache</b></p>
+<p>To find the cache you will need to follow the circuit of the
+road race and obtain some information along the way</p>
+<p><b><font color="blue">Start/finish:</font></b></p>
+<p><b>N53 33.878 W6 08.603</b></p>
+<p>At the above coordinates you will find the missing part of the
+coordinates for the next stage.<br />
+<b>N53 33.---</b> <b>W6 08.---</b></p>
+<p><b><font color="blue">Stage Two: Dublin Corner</font></b></p>
+<p>Note the initials of this person here and using ABC=123etc
+convert them to number form and call them X.Y.Z<br />
+Go to N53 33.<b>(Z-6)</b>51 W6 0<b>(Y-X+Z-6)</b>
+.1<b>(Z-6)</b>7</p>
+<p><b><font color="blue">Stage Three: Dukes Bends</font></b></p>
+<p>Note the first phone number here call it A.B.C.D.E.F.G<br />
+The numbers may also be needed for the final location<br />
+Go to N53 33.<b>B (D+E) (C-B)</b> W6 0<b>(G+D).(A-F) (A-E)
+(E-E)</b></p>
+<p><br />
+<b><font color="blue">Stage Four: Baldongan Cross</font></b></p>
+<p>Note the numbers here S.T.U.V.W.X.Y.Z<br />
+Go to N53 33.<b>V</b>2<b>(V+W)</b> W6 0<b>(U+Z). (U+Z)Z
+(U+W)</b></p>
+<p><b><font color="blue">Stage Five: Glasshouse Road</font></b></p>
+<p>Using ABC=123 etc convert the numbers and call them
+A.B.C.D.E.F.G.H.I.<br />
+Go to N53 33.<b>(A-2)F(E-F)</b> W6 07.<b>(A-2)</b>
+7<b>(B-A)</b></p>
+<p><b><font color="blue">Stage Six: Gillies Leap</font></b></p>
+<p>Note the number here this will be needed for the final
+location<br />
+Go to N53 34.011 W6 07.551</p>
+<p><b><font color="blue">Stage Seven; Shady lane</font></b></p>
+<p>Note several sweet numbers across the road and use the first
+digit. this will be needed for the final location<br />
+Go to N53 33.986 W6 08.138</p>
+<p><b><font color="blue">Stage Eight: Sam’s Tunnel</font></b></p>
+<p>Note the numbers here call them A.B.C.D.E.F.G<br />
+Go to N53 33.<b>C(C-B)</b> 5 W6 0<b>A. (E+G-F)</b> 5<b>B</b></p>
+<p><b><font color="blue">Stage Nine: Chicane</font></b></p>
+<p>Here you will find some of the missing coordinates for the final
+location</p>
+<p><b><font color="blue">Final Location</font></b></p>
+<p><b>X</b>= answer from stage 6<br />
+<b>Y</b>=answer from stage 7<br />
+N53 <b>??.XX?</b> W6 <b>??.?Y?</b></p>
+<br />
+<br />
+<center>
+<img src="http://www.northbeach.ie/gallery/albums/userpics/10001/windsock-anim-small.gif" />
+<br />
+<b>The Windsockers</b></center></long-description>
+  <additional-waypoints>FLWPH9 - 100final<br />N/S  __ ° __ . ___ W/E ___ ° __ . ___ <br />Road to no where<br />S1WPH9 - Starting point<br />N 53° 33.878 W 006° 08.603<br />Cricket Club<br />S2WPH9 - Stage 2<br />N/S  __ ° __ . ___ W/E ___ ° __ . ___ <br />Dublin Corner<br />S3WPH9 - Stage 3<br />N/S  __ ° __ . ___ W/E ___ ° __ . ___ <br />Duke's bends<br />S4WPH9 - Stage 4<br />N/S  __ ° __ . ___ W/E ___ ° __ . ___ <br />Baldungan Cross<br />S5WPH9 - Stage 5<br />N/S  __ ° __ . ___ W/E ___ ° __ . ___ <br />Glasshouse Road<br />S6WPH9 - Stage 6<br />N/S  __ ° __ . ___ W/E ___ ° __ . ___ <br />Gillies Leap<br />S7WPH9 - Stage 7<br />N/S  __ ° __ . ___ W/E ___ ° __ . ___ <br />Shady Lane<br />S8WPH9 - Stage 8<br />N/S  __ ° __ . ___ W/E ___ ° __ . ___ <br />Sams Leap & Tunnel<br />S9WPH9 - Stage 9<br />N/S  __ ° __ . ___ W/E ___ ° __ . ___ <br />Chicane<br /></additional-waypoints>
+  <links>waypoints:cache-id:FLWPH9|waypoints:cache-id:S1WPH9|waypoints:cache-id:S2WPH9|waypoints:cache-id:S3WPH9|waypoints:cache-id:S4WPH9|waypoints:cache-id:S5WPH9|waypoints:cache-id:S6WPH9|waypoints:cache-id:S7WPH9|waypoints:cache-id:S8WPH9|waypoints:cache-id:S9WPH9</links>
+  <encoded-hints>1.Holdup 9.Lowsun!!!! Final.Badbend</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=fa56e434-b09c-4119-8616-55ce12c55979</url>
+  <url-name>Road Racing</url-name>
+  <logs><ul><li>2009-06-03T19:00:00Z : Found it by auchans <br />Well we found one! Mary found it as Joe was still aching from his last find--LOL  Took Teddy Bear and left Auchans button and MardiGras World Coin.  T.F.T.C.</li><li>2008-11-21T20:00:00Z : Owner Maintenance by Windsockers <br />Maintenance visit all stages ok</li><li>2008-08-19T19:00:00Z : Found it by theswerve <br />Found 6 this time ok after a hint from owner and bit of head scratching...good multi for the bikers..</li><li>2008-08-17T19:00:00Z : Didn't find it by theswerve <br />Got to infamous stage 9 easy enough...damn it,i looked and looked..could not find it!</li><li>2008-08-02T19:00:00Z : Found it by parkmoy <br />All I will say is that this cache has a lot of stages! Found during an assault on Windsockerland. TFTC.</li></ul></logs>
+  <original-xml>  <wpt  lat="53.564633" lon="-6.143383">
+    <time>2006-07-10T07:00:00Z</time>
+    <name>GCWPH9</name>
+    <desc>Road Racing by Windsockers, Multi-cache (3.5/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=fa56e434-b09c-4119-8616-55ce12c55979</url>
+    <urlname>Road Racing</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Multi-cache</type>
+    <groundspeak:cache id="414915" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Road Racing</groundspeak:name>
+      <groundspeak:placed_by>Windsockers</groundspeak:placed_by>
+      <groundspeak:owner id="271623">Windsockers</groundspeak:owner>
+      <groundspeak:type>Multi-cache</groundspeak:type>
+      <groundspeak:container>Regular</groundspeak:container>
+      <groundspeak:difficulty>3.5</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>Leinster</groundspeak:state>
+      <groundspeak:short_description html="True">&lt;center&gt;
+&lt;img src="http://img.geocaching.com/cache/55318f27-76d8-4720-90e0-b99fa43b5482.jpg" /&gt;
+ 
+&lt;p&gt;&lt;b&gt;The Skerries 100 Road Races&lt;/b&gt;&lt;/p&gt;&lt;/center&gt;</groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;p&gt;The Skerries 100, is one of Irelands most famous motorcycle road
+race.&lt;/p&gt;
+&lt;p&gt;Skerries village is just north of Dublin, and has been
+associated with road racing since the 1930’s, when the Leinster
+100, was run on a 21 km circuit which linked the villages of
+Skerries, Lusk and Rush.&lt;/p&gt;
+&lt;p&gt;From 1935 there was no racing at Skerries for ten years, as the
+Leinster races moved to the Taillight course, but when war-time
+difficulties prevented the Dublin and Districts annual 100 mile
+road race from running at Phoenix Park, so the Skerries 100 was
+born.&lt;/p&gt;
+&lt;p&gt;The first race took place on July 6th 1946, around a 12 km
+course with the start/finish on Skerries Main Street! Harry Turner
+from Belfast won the inaugural Skerries 100 and since then all of
+Irelands top road racers have raced at Skerries. In the 1970’s
+there were battles between Tom Herron, Joey Dunlop, Conor McGinn
+and Ray McCullough. the 1980’s had racers like Eddie Laycock,
+Phillip McCallen, Steve Cull and Robert Dunlop and the most popular
+of all, Bangor's Sam McClements, who rode at Skerries for an
+amazing 21 Years.&lt;/p&gt;
+&lt;p&gt;The present 4.5 km circuit may seem small in comparison to the
+12km Skerries track, but it is no less demanding, with a record lap
+speed of 170 kph set by Mr WJ Dunlop MBE, OBE.&lt;/p&gt;
+&lt;p&gt;The Skerries 100 attracts thousands of regular visitors from
+overseas, many make the annual ‘pilgrimage’ to North County Dublin
+to enjoy the renowned hospitality of the area and watch pure road
+racing at its very best amidst some of the best scenery in the
+County. Over 30,000 spectators are expected to attend the event
+each year.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;The Cache&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;To find the cache you will need to follow the circuit of the
+road race and obtain some information along the way&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;font color="blue"&gt;Start/finish:&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;N53 33.878 W6 08.603&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;At the above coordinates you will find the missing part of the
+coordinates for the next stage.&lt;br /&gt;
+&lt;b&gt;N53 33.---&lt;/b&gt; &lt;b&gt;W6 08.---&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;font color="blue"&gt;Stage Two: Dublin Corner&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Note the initials of this person here and using ABC=123etc
+convert them to number form and call them X.Y.Z&lt;br /&gt;
+Go to N53 33.&lt;b&gt;(Z-6)&lt;/b&gt;51 W6 0&lt;b&gt;(Y-X+Z-6)&lt;/b&gt;
+.1&lt;b&gt;(Z-6)&lt;/b&gt;7&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;font color="blue"&gt;Stage Three: Dukes Bends&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Note the first phone number here call it A.B.C.D.E.F.G&lt;br /&gt;
+The numbers may also be needed for the final location&lt;br /&gt;
+Go to N53 33.&lt;b&gt;B (D+E) (C-B)&lt;/b&gt; W6 0&lt;b&gt;(G+D).(A-F) (A-E)
+(E-E)&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;b&gt;&lt;font color="blue"&gt;Stage Four: Baldongan Cross&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Note the numbers here S.T.U.V.W.X.Y.Z&lt;br /&gt;
+Go to N53 33.&lt;b&gt;V&lt;/b&gt;2&lt;b&gt;(V+W)&lt;/b&gt; W6 0&lt;b&gt;(U+Z). (U+Z)Z
+(U+W)&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;font color="blue"&gt;Stage Five: Glasshouse Road&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Using ABC=123 etc convert the numbers and call them
+A.B.C.D.E.F.G.H.I.&lt;br /&gt;
+Go to N53 33.&lt;b&gt;(A-2)F(E-F)&lt;/b&gt; W6 07.&lt;b&gt;(A-2)&lt;/b&gt;
+7&lt;b&gt;(B-A)&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;font color="blue"&gt;Stage Six: Gillies Leap&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Note the number here this will be needed for the final
+location&lt;br /&gt;
+Go to N53 34.011 W6 07.551&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;font color="blue"&gt;Stage Seven; Shady lane&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Note several sweet numbers across the road and use the first
+digit. this will be needed for the final location&lt;br /&gt;
+Go to N53 33.986 W6 08.138&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;font color="blue"&gt;Stage Eight: Sam’s Tunnel&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Note the numbers here call them A.B.C.D.E.F.G&lt;br /&gt;
+Go to N53 33.&lt;b&gt;C(C-B)&lt;/b&gt; 5 W6 0&lt;b&gt;A. (E+G-F)&lt;/b&gt; 5&lt;b&gt;B&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;font color="blue"&gt;Stage Nine: Chicane&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Here you will find some of the missing coordinates for the final
+location&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;&lt;font color="blue"&gt;Final Location&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;X&lt;/b&gt;= answer from stage 6&lt;br /&gt;
+&lt;b&gt;Y&lt;/b&gt;=answer from stage 7&lt;br /&gt;
+N53 &lt;b&gt;??.XX?&lt;/b&gt; W6 &lt;b&gt;??.?Y?&lt;/b&gt;&lt;/p&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;center&gt;
+&lt;img src="http://www.northbeach.ie/gallery/albums/userpics/10001/windsock-anim-small.gif" /&gt;
+&lt;br /&gt;
+&lt;b&gt;The Windsockers&lt;/b&gt;&lt;/center&gt;&lt;p&gt;Additional Waypoints&lt;/p&gt;FLWPH9 - 100final&lt;br /&gt;N/S  __ ° __ . ___ W/E ___ ° __ . ___ &lt;br /&gt;Road to no where&lt;br /&gt;S1WPH9 - Starting point&lt;br /&gt;N 53° 33.878 W 006° 08.603&lt;br /&gt;Cricket Club&lt;br /&gt;S2WPH9 - Stage 2&lt;br /&gt;N/S  __ ° __ . ___ W/E ___ ° __ . ___ &lt;br /&gt;Dublin Corner&lt;br /&gt;S3WPH9 - Stage 3&lt;br /&gt;N/S  __ ° __ . ___ W/E ___ ° __ . ___ &lt;br /&gt;Duke's bends&lt;br /&gt;S4WPH9 - Stage 4&lt;br /&gt;N/S  __ ° __ . ___ W/E ___ ° __ . ___ &lt;br /&gt;Baldungan Cross&lt;br /&gt;S5WPH9 - Stage 5&lt;br /&gt;N/S  __ ° __ . ___ W/E ___ ° __ . ___ &lt;br /&gt;Glasshouse Road&lt;br /&gt;S6WPH9 - Stage 6&lt;br /&gt;N/S  __ ° __ . ___ W/E ___ ° __ . ___ &lt;br /&gt;Gillies Leap&lt;br /&gt;S7WPH9 - Stage 7&lt;br /&gt;N/S  __ ° __ . ___ W/E ___ ° __ . ___ &lt;br /&gt;Shady Lane&lt;br /&gt;S8WPH9 - Stage 8&lt;br /&gt;N/S  __ ° __ . ___ W/E ___ ° __ . ___ &lt;br /&gt;Sams Leap &amp; Tunnel&lt;br /&gt;S9WPH9 - Stage 9&lt;br /&gt;N/S  __ ° __ . ___ W/E ___ ° __ . ___ &lt;br /&gt;Chicane&lt;br /&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>1.Holdup 9.Lowsun!!!! Final.Badbend</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="73145375">
+          <groundspeak:date>2009-06-03T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1541464">auchans</groundspeak:finder>
+          <groundspeak:text encoded="False">Well we found one! Mary found it as Joe was still aching from his last find--LOL  Took Teddy Bear and left Auchans button and MardiGras World Coin.  T.F.T.C.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="57513235">
+          <groundspeak:date>2008-11-21T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Owner Maintenance</groundspeak:type>
+          <groundspeak:finder id="271623">Windsockers</groundspeak:finder>
+          <groundspeak:text encoded="False">Maintenance visit all stages ok</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="51153069">
+          <groundspeak:date>2008-08-19T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1032462">theswerve</groundspeak:finder>
+          <groundspeak:text encoded="False">Found 6 this time ok after a hint from owner and bit of head scratching...good multi for the bikers..</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="50971962">
+          <groundspeak:date>2008-08-17T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Didn't find it</groundspeak:type>
+          <groundspeak:finder id="1032462">theswerve</groundspeak:finder>
+          <groundspeak:text encoded="False">Got to infamous stage 9 easy enough...damn it,i looked and looked..could not find it!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="49975637">
+          <groundspeak:date>2008-08-02T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="479903">parkmoy</groundspeak:finder>
+          <groundspeak:text encoded="False">All I will say is that this cache has a lot of stages! Found during an assault on Windsockerland. TFTC.</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

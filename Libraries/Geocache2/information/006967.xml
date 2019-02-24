@@ -1,0 +1,132 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>006967</id>
+  <cache-id>GCZR0C</cache-id>
+  <type>Unknown Cache</type>
+  <name>Early Days by Windsockers, Unknown Cache (2.5/1.5)</name>
+  <size>Micro</size>
+  <difficulty>2.5</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2008-12-31</last-found>
+  <placed>2007-01-06</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>Windsockers</placedby>
+  <found>Geocache</found>
+  <lat>53.466783</lat>
+  <lon>-6.18745</lon>
+  <last-logs>FFFFX</last-logs>
+  <owner>Windsockers</owner>
+  <description><center>
+<img src="http://img.geocaching.com/cache/52b1578a-1804-433a-908b-780f3b22918b.jpg" />
+</center></description>
+  <long-description><p>Early Days indeed the above location is not the location you
+need in order to find this cache.</p>
+<p>It was the location for an old cache called “Smooth
+Waters”<br />
+“you need to jump the wall after the horse and make your way to the
+middle of the bridge. Careful, it's a bit prickly where the cache
+is.”<br />
+there were five finds on the cache with one Cacher being confronted
+by the lady of the garden saying it was “private property”</p>
+<p>The hint for the cache reads,the ways of every ingenious game
+has to out number every finder in very evasive numerals or under go
+hard times. Obtaining no effort need over upset great heads to find
+it very easy or need ever notice it's numeric efficiency.</p>
+<p>Anyway there’s no Jumping walls or horse’s or bridges this time,
+it’s just a simple cache and dash.</p>
+<p><b>The Cache</b></p>
+<p>The cache is a small container byop</p>
+<center>
+<img src="http://www.northbeach.ie/gallery/albums/userpics/10001/windsock-anim-small.gif" />
+<br />
+<b>The Windsockers</b></center>
+<hr size="2" /></long-description>
+  <additional-waypoints>FLZR0C - Final Location<br />N/S  __ ° __ . ___ W/E ___ ° __ . ___ <br /><br /></additional-waypoints>
+  <links>waypoints:cache-id:FLZR0C</links>
+  <encoded-hints>yup its in the Ivy</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=a2f5c060-2b4d-47ca-bbf0-3e53224c4fc8</url>
+  <url-name>Early Days</url-name>
+  <logs><ul><li>2009-10-31T19:00:00Z : Found it by daraconn <br />Found at last! My previous unsuccessful visit to the location was over a year ago. The puzzle wasn't the hard part; the ivy was! There were a couple of windsurfers packing up while I was searching. When I was walking back along the road one of them asked me if I was geocaching. He said a friend of his does a bit of caching and that's how he knows. Stupidly I didn't ask who his friend was! Anyway I'm glad to be able to cross this one off my list. Thanks, Dara.</li><li>2009-05-04T19:00:00Z : Found it by Donnacha <br />Found while out and about today. This one has been sitting on my desk for a while (like all puzzle caches!) so it's good to get it off it to make room for...erm...another puzzle cache. Thanks.</li><li>2009-01-12T20:00:00Z : Found it by Bootle <br />Success! Each Cache Often Needs Dedication! Today, In Minutes, Eoin Located Unknown Cache! Kool! Yippee!</li><li>2009-01-02T20:00:00Z : Found it by toczygroszek <br />This time found  after 10 minutes searching. 1st cache of new year and 100th of this owner. TFTC</li><li>2008-12-31T20:00:00Z : Didn't find it by toczygroszek <br />Unfortunately DNF this time. I don't like this type of hiding. Only good news for my - it was last DNF this year [:)]</li></ul></logs>
+  <original-xml>  <wpt  lat="53.466783" lon="-6.18745">
+    <time>2007-01-06T08:00:00Z</time>
+    <name>GCZR0C</name>
+    <desc>Early Days by Windsockers, Unknown Cache (2.5/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=a2f5c060-2b4d-47ca-bbf0-3e53224c4fc8</url>
+    <urlname>Early Days</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Unknown Cache</type>
+    <groundspeak:cache id="505686" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Early Days</groundspeak:name>
+      <groundspeak:placed_by>Windsockers</groundspeak:placed_by>
+      <groundspeak:owner id="271623">Windsockers</groundspeak:owner>
+      <groundspeak:type>Unknown Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>2.5</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>Leinster</groundspeak:state>
+      <groundspeak:short_description html="True">&lt;center&gt;
+&lt;img src="http://img.geocaching.com/cache/52b1578a-1804-433a-908b-780f3b22918b.jpg" /&gt;
+&lt;/center&gt;</groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;p&gt;Early Days indeed the above location is not the location you
+need in order to find this cache.&lt;/p&gt;
+&lt;p&gt;It was the location for an old cache called “Smooth
+Waters”&lt;br /&gt;
+“you need to jump the wall after the horse and make your way to the
+middle of the bridge. Careful, it's a bit prickly where the cache
+is.”&lt;br /&gt;
+there were five finds on the cache with one Cacher being confronted
+by the lady of the garden saying it was “private property”&lt;/p&gt;
+&lt;p&gt;The hint for the cache reads,the ways of every ingenious game
+has to out number every finder in very evasive numerals or under go
+hard times. Obtaining no effort need over upset great heads to find
+it very easy or need ever notice it's numeric efficiency.&lt;/p&gt;
+&lt;p&gt;Anyway there’s no Jumping walls or horse’s or bridges this time,
+it’s just a simple cache and dash.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;The Cache&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;The cache is a small container byop&lt;/p&gt;
+&lt;center&gt;
+&lt;img src="http://www.northbeach.ie/gallery/albums/userpics/10001/windsock-anim-small.gif" /&gt;
+&lt;br /&gt;
+&lt;b&gt;The Windsockers&lt;/b&gt;&lt;/center&gt;
+&lt;hr size="2" /&gt;&lt;p&gt;Additional Waypoints&lt;/p&gt;FLZR0C - Final Location&lt;br /&gt;N/S  __ ° __ . ___ W/E ___ ° __ . ___ &lt;br /&gt;&lt;br /&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>yup its in the Ivy</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="89071086">
+          <groundspeak:date>2009-10-31T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="591662">daraconn</groundspeak:finder>
+          <groundspeak:text encoded="False">Found at last! My previous unsuccessful visit to the location was over a year ago. The puzzle wasn't the hard part; the ivy was! There were a couple of windsurfers packing up while I was searching. When I was walking back along the road one of them asked me if I was geocaching. He said a friend of his does a bit of caching and that's how he knows. Stupidly I didn't ask who his friend was! Anyway I'm glad to be able to cross this one off my list. Thanks, Dara.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="69958660">
+          <groundspeak:date>2009-05-04T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="61401">Donnacha</groundspeak:finder>
+          <groundspeak:text encoded="False">Found while out and about today. This one has been sitting on my desk for a while (like all puzzle caches!) so it's good to get it off it to make room for...erm...another puzzle cache. Thanks.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="60586437">
+          <groundspeak:date>2009-01-12T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="96113">Bootle</groundspeak:finder>
+          <groundspeak:text encoded="False">Success! Each Cache Often Needs Dedication! Today, In Minutes, Eoin Located Unknown Cache! Kool! Yippee!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="59840298">
+          <groundspeak:date>2009-01-02T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1429023">toczygroszek</groundspeak:finder>
+          <groundspeak:text encoded="False">This time found  after 10 minutes searching. 1st cache of new year and 100th of this owner. TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="59658781">
+          <groundspeak:date>2008-12-31T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Didn't find it</groundspeak:type>
+          <groundspeak:finder id="1429023">toczygroszek</groundspeak:finder>
+          <groundspeak:text encoded="False">Unfortunately DNF this time. I don't like this type of hiding. Only good news for my - it was last DNF this year [:)]</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

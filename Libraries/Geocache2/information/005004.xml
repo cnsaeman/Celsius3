@@ -1,0 +1,234 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>005004</id>
+  <cache-id>GC1Z0PK</cache-id>
+  <type>Unknown Cache</type>
+  <name>Horsell Common by Orangetigerprawn, Unknown Cache (4/2)</name>
+  <size>Small</size>
+  <difficulty>4</difficulty>
+  <terrain>2</terrain>
+  <last-found>2009-10-31</last-found>
+  <placed>2009-09-22</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>Orangetigerprawn</placedby>
+  <found>Geocache</found>
+  <lat>53.466667</lat>
+  <lon>-6.216667</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>orangetigerprawn</owner>
+  <description><center><b><font size="+3">Horsell
+Commom</font></b><font size="+1"><br />
+Puzzel Cache in Swords</font></center>
+<br /></description>
+  <long-description><center>
+<img src="http://img.geocaching.com/cache/7a27c272-ccc1-4b43-8b03-bec006a34803.jpg"
+     width="324" height="146" align="bottom" border="0"
+     naturalsizeflag="3" /></center>
+<br />
+<br />
+ 
+<center>
+<img src="http://img.geocaching.com/cache/cf1308b4-c871-4859-8029-4bb56d8a8390.jpg"
+     width="500" height="376" align="bottom" border="0"
+     naturalsizeflag="3" /></center>
+<center>&nbsp;</center>
+<br />
+<br />
+ 
+<center>Orson Wells terrified America in 1938 with his Halloween
+radio play of War Of The Worlds. Even though he was well known for
+his radio theatre, people thought it was real and it caused
+national panic. They were already nervous with war about to break
+out. What convinced them was the way it was broadcast like a news
+report. Orson Wells was all innocent at the time, but 20 years
+later he admitted it actually was done to scare people, because he
+didn't like the fact that people believed everything that came out
+of this 'new magic box' called the radio.</center>
+<br />
+<br />
+ 
+<center>The radio play was based on the H. G. Wells book of the
+same name which was published at the end of the 19th century. A
+musical version or the War of the Worlds was released by Jeff Wayne
+towards the end of the last century.</center>
+<br />
+<center><a href="http://www.youtube.com/watch?v=Ns0e6mpM8X8"
+target="_blank"><font size="+1">Forever Autumn</font></a></center>
+<br />
+ 
+<center>
+<img src="http://img.geocaching.com/cache/4e3ea476-48bf-473b-8c64-b2e776488026.jpg"
+     width="490" height="368" align="bottom" border="0"
+     naturalsizeflag="3" /></center>
+<br />
+<br />
+ 
+<center>&nbsp;</center>
+<br />
+<br />
+ 
+<center><b><font size="+2">The Cache</font></b></center>
+<br />
+<br />
+ 
+<center>The clues to work out the coordinates are based on aspects
+of the story or music. Each of the clues below leads by a logical,
+or torturously illogical route, to a single digit number. Work out
+the clues, do the maths and find the cache. Q.E.D.</center>
+<br />
+<br />
+ 
+<center>a. Winged balancer of life, dark-faced goddess, daughter of
+Justice.<br />
+b. Preacher's hidden identity on the wane.<br />
+c. Day of Nathanial's demise.<br />
+d. Completed decades to create the music.<br />
+e. Minutes of the eve.<br />
+<center>&nbsp;</center>
+<center><br />
+ <b>The cache location is:</b></center></center>
+<center>N 53° 2(c*2).(e/a)(d-c-a)(d-b)<br />
+W 6° 1(e-b).(b-e+c)(e-b-a)(b-a)</center></long-description>
+  <encoded-hints>Branch through the cordon while reducing your exposure to the powerless enemies in the north west.</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=981e5ab1-07d2-436d-beb2-a8773a0630d5</url>
+  <url-name>Horsell Common</url-name>
+  <logs><ul><li>2010-01-23T20:00:00Z : Found it by Fjon <br />Attempted the puzzle first with this, but it's just a bit too cryptic for me. 
+WIth some help and the the hint I managed to locate the cache though just as it was getting dark. There was an Eastern European nearby collecting all the fallen bits of wood as firewood. Managed to get nearly a trailer full of the stuff.</li><li>2009-10-31T19:00:00Z : Found it by batsgonemad and his squirrel <br />[8] 15:30
+ Found with the usual suspects from the winter madness event. I love the story, have it on CD and have listened  to it i dont know how many times, a true classic, finding the clues to this cache through listening to the story would be great, but unfortunatly it was done with the group who knew where to look.</li><li>2009-10-31T19:00:00Z : Found it by CrazyL200 <br />Found with the rest of the Winter Madness CITO/Camping team.
+
+Not sure about one or two of the calc figures, but there's more than one way to crack the egg.</li><li>2009-10-31T19:00:00Z : Found it by theswerve <br />Team effort after CITO...TFTC...</li><li>2009-10-31T19:00:00Z : Found it by Spark_ie <br />A team effort got us over the line. I managed to actually find this one, for my 600th !! Wooo ! [:)]   TFTC, Spark_ie</li></ul></logs>
+  <original-xml>  <wpt  lat="53.466667" lon="-6.216667">
+    <time>2009-09-22T07:00:00Z</time>
+    <name>GC1Z0PK</name>
+    <desc>Horsell Common by Orangetigerprawn, Unknown Cache (4/2)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=981e5ab1-07d2-436d-beb2-a8773a0630d5</url>
+    <urlname>Horsell Common</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Unknown Cache</type>
+    <groundspeak:cache id="1406832" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Horsell Common</groundspeak:name>
+      <groundspeak:placed_by>Orangetigerprawn</groundspeak:placed_by>
+      <groundspeak:owner id="2167131">orangetigerprawn</groundspeak:owner>
+      <groundspeak:type>Unknown Cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>4</groundspeak:difficulty>
+      <groundspeak:terrain>2</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>Leinster</groundspeak:state>
+      <groundspeak:short_description html="True">&lt;center&gt;&lt;b&gt;&lt;font size="+3"&gt;Horsell
+Commom&lt;/font&gt;&lt;/b&gt;&lt;font size="+1"&gt;&lt;br /&gt;
+Puzzel Cache in Swords&lt;/font&gt;&lt;/center&gt;
+&lt;br /&gt;</groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;center&gt;
+&lt;img src="http://img.geocaching.com/cache/7a27c272-ccc1-4b43-8b03-bec006a34803.jpg"
+     width="324" height="146" align="bottom" border="0"
+     naturalsizeflag="3" /&gt;&lt;/center&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+ 
+&lt;center&gt;
+&lt;img src="http://img.geocaching.com/cache/cf1308b4-c871-4859-8029-4bb56d8a8390.jpg"
+     width="500" height="376" align="bottom" border="0"
+     naturalsizeflag="3" /&gt;&lt;/center&gt;
+&lt;center&gt;&amp;nbsp;&lt;/center&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+ 
+&lt;center&gt;Orson Wells terrified America in 1938 with his Halloween
+radio play of War Of The Worlds. Even though he was well known for
+his radio theatre, people thought it was real and it caused
+national panic. They were already nervous with war about to break
+out. What convinced them was the way it was broadcast like a news
+report. Orson Wells was all innocent at the time, but 20 years
+later he admitted it actually was done to scare people, because he
+didn't like the fact that people believed everything that came out
+of this 'new magic box' called the radio.&lt;/center&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+ 
+&lt;center&gt;The radio play was based on the H. G. Wells book of the
+same name which was published at the end of the 19th century. A
+musical version or the War of the Worlds was released by Jeff Wayne
+towards the end of the last century.&lt;/center&gt;
+&lt;br /&gt;
+&lt;center&gt;&lt;a href="http://www.youtube.com/watch?v=Ns0e6mpM8X8"
+target="_blank"&gt;&lt;font size="+1"&gt;Forever Autumn&lt;/font&gt;&lt;/a&gt;&lt;/center&gt;
+&lt;br /&gt;
+ 
+&lt;center&gt;
+&lt;img src="http://img.geocaching.com/cache/4e3ea476-48bf-473b-8c64-b2e776488026.jpg"
+     width="490" height="368" align="bottom" border="0"
+     naturalsizeflag="3" /&gt;&lt;/center&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+ 
+&lt;center&gt;&amp;nbsp;&lt;/center&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+ 
+&lt;center&gt;&lt;b&gt;&lt;font size="+2"&gt;The Cache&lt;/font&gt;&lt;/b&gt;&lt;/center&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+ 
+&lt;center&gt;The clues to work out the coordinates are based on aspects
+of the story or music. Each of the clues below leads by a logical,
+or torturously illogical route, to a single digit number. Work out
+the clues, do the maths and find the cache. Q.E.D.&lt;/center&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+ 
+&lt;center&gt;a. Winged balancer of life, dark-faced goddess, daughter of
+Justice.&lt;br /&gt;
+b. Preacher's hidden identity on the wane.&lt;br /&gt;
+c. Day of Nathanial's demise.&lt;br /&gt;
+d. Completed decades to create the music.&lt;br /&gt;
+e. Minutes of the eve.&lt;br /&gt;
+&lt;center&gt;&amp;nbsp;&lt;/center&gt;
+&lt;center&gt;&lt;br /&gt;
+ &lt;b&gt;The cache location is:&lt;/b&gt;&lt;/center&gt;&lt;/center&gt;
+&lt;center&gt;N 53° 2(c*2).(e/a)(d-c-a)(d-b)&lt;br /&gt;
+W 6° 1(e-b).(b-e+c)(e-b-a)(b-a)&lt;/center&gt;&lt;p&gt;Additional Waypoints&lt;/p&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>Branch through the cordon while reducing your exposure to the powerless enemies in the north west.</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="95858576">
+          <groundspeak:date>2010-01-23T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="243261">Fjon</groundspeak:finder>
+          <groundspeak:text encoded="False">Attempted the puzzle first with this, but it's just a bit too cryptic for me. 
+WIth some help and the the hint I managed to locate the cache though just as it was getting dark. There was an Eastern European nearby collecting all the fallen bits of wood as firewood. Managed to get nearly a trailer full of the stuff.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="89703330">
+          <groundspeak:date>2009-10-31T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="318217">batsgonemad and his squirrel</groundspeak:finder>
+          <groundspeak:text encoded="False">[8] 15:30
+ Found with the usual suspects from the winter madness event. I love the story, have it on CD and have listened  to it i dont know how many times, a true classic, finding the clues to this cache through listening to the story would be great, but unfortunatly it was done with the group who knew where to look.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="89356415">
+          <groundspeak:date>2009-10-31T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="472941">CrazyL200</groundspeak:finder>
+          <groundspeak:text encoded="False">Found with the rest of the Winter Madness CITO/Camping team.
+
+Not sure about one or two of the calc figures, but there's more than one way to crack the egg.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="89233769">
+          <groundspeak:date>2009-10-31T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1032462">theswerve</groundspeak:finder>
+          <groundspeak:text encoded="False">Team effort after CITO...TFTC...</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="89222579">
+          <groundspeak:date>2009-10-31T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="950104">Spark_ie</groundspeak:finder>
+          <groundspeak:text encoded="False">A team effort got us over the line. I managed to actually find this one, for my 600th !! Wooo ! [:)]   TFTC, Spark_ie</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

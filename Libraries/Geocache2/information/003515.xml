@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>003515</id>
+  <cache-id>GC9C57</cache-id>
+  <type>Traditional Cache</type>
+  <name>Peat Hags Perch by ThePeatHags, Traditional Cache (2/3)</name>
+  <size>Regular</size>
+  <difficulty>2</difficulty>
+  <terrain>3</terrain>
+  <last-found>2009-12-31</last-found>
+  <placed>2002-10-13</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>ThePeatHags</placedby>
+  <found>Geocache</found>
+  <lat>53.146626</lat>
+  <lon>-6.213717</lon>
+  <last-logs>FFWFF</last-logs>
+  <owner>ThePeatHags</owner>
+  <description>About a 40 minute hike in the Wicklas ending in a good view.</description>
+  <long-description>There are many ways to approach the cache area. The peat hags suggest you bring good shoes, rain gear and OS map discovery series 56. You should never need to climb a fence without the aid of a gate/sty/similar. The following suggested route is one of many. It's aimed at drivers and cyclists. It'll take at least 40 mins from parking the car/bike to reaching the cache site. If you don't have a car/bike you might like to get out the OS map and plan a better bus/walking combo *GRIN*.
+
+From Enniskerry head up the hill past the church and out along R760. After 1.5km you'll cross a bridge over the Dargle. Follow the road around to the right and up the hill. Ignore the right turn to the well know local  attraction and follow the R760 for a 100meters or so and take the (next) right. You will now be going up. If you're on a bike just think what fun the return will be. Keep following this road and park in the car park at N53 08.10938' W06 11.55987'. From here head towards N53 08.01497'W06 11.72817'. There's a lot of tree cover around but use the clearings if you have to get a signal. From this point head up hill towards N53 08.42949' W06 12.99322' and then on towards N53 08.77190'  W06 13.12612'. Stop at this landmark and get a bearing on the next waypoint. You'll be travelling under thick tree cover and you'll not get a signal until you reach the point N53 08.76121'  W06 12.86475'. This marks the location of a sign and following its instruction will make getting to the cache location a lot easier. So head straight there. Carefull the terrain is rough and you are on a steep incline. In summer it's pretty overgrown. You might get very close to some deer (within about 5 meters last time the peat hags were there) and if you're very unlucky the killer midgies the peat hags have guarding this site.
+</long-description>
+  <encoded-hints>The cash is in a blue tupperware box hidden in a hole under the big rock you should be standing in front of right now. Approaching the rock from the down hill side is best. Facing the rock there should be a gnarly old oak behind your left shoulder and another further off to your right.</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=144485bb-cee6-46ee-bcfb-1807e51a750a</url>
+  <url-name>Peat Hags Perch</url-name>
+  <logs><ul><li>2010-04-18T19:00:00Z : Found it by Determo <br />Well hidden!!! Only found this one on my second attempt! 
+Really scenic, quiet spot, nice views of powerscourt waterfall, 
+TFTC - Determo  [:)]</li><li>2010-04-18T19:00:00Z : Found it by didi2206 <br />Coordinates were bang on, had a lovely detour on our way up Maulin.. first cache for some of Nora's friends.. hope they will become avid cachers of he future!!! TFTC</li><li>2010-02-13T20:00:00Z : Write note by daraconn <br />Nice to revisit this cache on a walk with lenik1. Although I had found it before, I couldn't really remember where it was, and it took us a few minutes to spot it. Cache is in great condition.</li><li>2010-02-13T20:00:00Z : Found it by lenik1 <br />Found it during a lovely "winter" walk with my friend Dara and his dog [:)] It was a great day for geocaching today!! Really enjoyable. TFTC!</li><li>2009-12-31T20:00:00Z : Found it by redflame1 <br />Found it at last! We very nearly abandoned ship due to bad weather conditions but were only about 250m from the cache site so decided to trudge on [B)]. Battling with prevailing winds and snow we eventually got to the site and found it [;)]. The car park was closing in 45 minutes so we had to leg it back up the hill to get there in time!! [xx(] Phewww!! Great site and view. The snow was so cool! [8D]
+
+TFTC! [:D]
+
+Happy New Year!</li></ul></logs>
+  <original-xml>  <wpt  lat="53.146626" lon="-6.213717">
+    <time>2002-10-13T07:00:00Z</time>
+    <name>GC9C57</name>
+    <desc>Peat Hags Perch by ThePeatHags, Traditional Cache (2/3)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=144485bb-cee6-46ee-bcfb-1807e51a750a</url>
+    <urlname>Peat Hags Perch</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="40023" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Peat Hags Perch</groundspeak:name>
+      <groundspeak:placed_by>ThePeatHags</groundspeak:placed_by>
+      <groundspeak:owner id="79215">ThePeatHags</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Regular</groundspeak:container>
+      <groundspeak:difficulty>2</groundspeak:difficulty>
+      <groundspeak:terrain>3</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>
+      </groundspeak:state>
+      <groundspeak:short_description html="False">About a 40 minute hike in the Wicklas ending in a good view.</groundspeak:short_description>
+      <groundspeak:long_description html="False">There are many ways to approach the cache area. The peat hags suggest you bring good shoes, rain gear and OS map discovery series 56. You should never need to climb a fence without the aid of a gate/sty/similar. The following suggested route is one of many. It's aimed at drivers and cyclists. It'll take at least 40 mins from parking the car/bike to reaching the cache site. If you don't have a car/bike you might like to get out the OS map and plan a better bus/walking combo *GRIN*.
+
+From Enniskerry head up the hill past the church and out along R760. After 1.5km you'll cross a bridge over the Dargle. Follow the road around to the right and up the hill. Ignore the right turn to the well know local  attraction and follow the R760 for a 100meters or so and take the (next) right. You will now be going up. If you're on a bike just think what fun the return will be. Keep following this road and park in the car park at N53 08.10938' W06 11.55987'. From here head towards N53 08.01497'W06 11.72817'. There's a lot of tree cover around but use the clearings if you have to get a signal. From this point head up hill towards N53 08.42949' W06 12.99322' and then on towards N53 08.77190'  W06 13.12612'. Stop at this landmark and get a bearing on the next waypoint. You'll be travelling under thick tree cover and you'll not get a signal until you reach the point N53 08.76121'  W06 12.86475'. This marks the location of a sign and following its instruction will make getting to the cache location a lot easier. So head straight there. Carefull the terrain is rough and you are on a steep incline. In summer it's pretty overgrown. You might get very close to some deer (within about 5 meters last time the peat hags were there) and if you're very unlucky the killer midgies the peat hags have guarding this site.
+</groundspeak:long_description>
+      <groundspeak:encoded_hints>The cash is in a blue tupperware box hidden in a hole under the big rock you should be standing in front of right now. Approaching the rock from the down hill side is best. Facing the rock there should be a gnarly old oak behind your left shoulder and another further off to your right.</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="104731873">
+          <groundspeak:date>2010-04-18T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3095026">Determo</groundspeak:finder>
+          <groundspeak:text encoded="False">Well hidden!!! Only found this one on my second attempt! 
+Really scenic, quiet spot, nice views of powerscourt waterfall, 
+TFTC - Determo  [:)]</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="104706794">
+          <groundspeak:date>2010-04-18T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2623045">didi2206</groundspeak:finder>
+          <groundspeak:text encoded="False">Coordinates were bang on, had a lovely detour on our way up Maulin.. first cache for some of Nora's friends.. hope they will become avid cachers of he future!!! TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="97177413">
+          <groundspeak:date>2010-02-13T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Write note</groundspeak:type>
+          <groundspeak:finder id="591662">daraconn</groundspeak:finder>
+          <groundspeak:text encoded="False">Nice to revisit this cache on a walk with lenik1. Although I had found it before, I couldn't really remember where it was, and it took us a few minutes to spot it. Cache is in great condition.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="97173239">
+          <groundspeak:date>2010-02-13T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1925842">lenik1</groundspeak:finder>
+          <groundspeak:text encoded="False">Found it during a lovely "winter" walk with my friend Dara and his dog [:)] It was a great day for geocaching today!! Really enjoyable. TFTC!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="94135002">
+          <groundspeak:date>2009-12-31T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2330609">redflame1</groundspeak:finder>
+          <groundspeak:text encoded="False">Found it at last! We very nearly abandoned ship due to bad weather conditions but were only about 250m from the cache site so decided to trudge on [B)]. Battling with prevailing winds and snow we eventually got to the site and found it [;)]. The car park was closing in 45 minutes so we had to leg it back up the hill to get there in time!! [xx(] Phewww!! Great site and view. The snow was so cool! [8D]
+
+TFTC! [:D]
+
+Happy New Year!</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

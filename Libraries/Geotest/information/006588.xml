@@ -1,0 +1,126 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>006588</id>
+  <cache-id>GC1MG1K</cache-id>
+  <type>Traditional Cache</type>
+  <name>Keimzelle by Woodwalker2006, Traditional Cache (3.5/2)</name>
+  <size>Regular</size>
+  <difficulty>3.5</difficulty>
+  <terrain>2</terrain>
+  <last-found>2010-09-19</last-found>
+  <placed>2009-02-08</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Woodwalker2006</placedby>
+  <found>Geocache</found>
+  <lat>50.638817</lat>
+  <lon>9.78005</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>woodwalker2006</owner>
+  <description>Eine etwas andere Form der Dose....</description>
+  <long-description>Wie der Name es schon sagt ist und soll dies die "Keimzelle" einer großen Serie werden.
+JEDER, der dieses Cache, und die daraus resultirenden Caches loggt, sollte selber eins unter seinem Nick auslegen. Das darf von superleicht bis zur härtesten Nuss alles sein!! 
+DAS IST LOGBEDINGUNG!!
+Nur so multipliziert es sich dann irgendwann zu einem richtigen Cacheracker...Bitte keine Ortschaften- NUR Gelände.
+Weitere Caches habe ich zur "Begrenzung" des Geländes ausgelegt, die bitte respektiert werden sollten!! Nach Süden gibt es erstmal keine Grenze.
+Bitte nicht bei Nacht hier herumgeistern, die Förster und Tiere sollen nicht gestört werden, dann steht dem Spass auch nichts im Wege!!
+
+Bitte wieder gut und sorgfältig tarnen!!!
+
+Es lag eine Abweichung von 4,2 Metern vor.
+
+
+ACHTUNG!!! Im Schnee besteht keine Chance, das Vertsteck zu finden!!!</long-description>
+  <encoded-hints>Da ,wo ein Keimling hingehört. Ein Sprichwort, ohne das nichts los ist. Nichts ziehen oder schrauben...nur drehen</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=da2cef2d-d8d0-43c7-9206-97afd93c005b</url>
+  <url-name>Keimzelle</url-name>
+  <logs><ul><li>2010-11-21T20:00:00Z : Found it by balalaika <br />Am Sonntag mal `ne kleine Tour rund um Dammersbach gemacht. Dabei auch hier vorbei gekommen.
+Danke sagt team balalaika</li><li>2010-11-21T20:00:00Z : Found it by burgen13 <br />Auf einer Sonntagstour rund um Dammersbach gut gefunden. Nur hat die Beschriftung auf dem Beutel unsere Hände grün eingefärbt.
+Danke sagt burgen13</li><li>2010-10-09T19:00:00Z : Found it by super sunshine <br />Cache bei einem schönen Spaziergang schnell gefunden. Interessantes Versteck! Danke und Grüße</li><li>2010-10-05T19:00:00Z : Found it by Camuvlash <br />TFTC.</li><li>2010-09-19T19:00:00Z : Found it by Limoel <br />Heute morgen bei einem Waldspaziergang schnell gefunden.
+
+TFTC Limoel
+
+In: TB
+Out: -</li></ul></logs>
+  <original-xml>  <wpt  lat="50.638817" lon="9.78005">
+    <time>2009-02-08T08:00:00Z</time>
+    <name>GC1MG1K</name>
+    <desc>Keimzelle by Woodwalker2006, Traditional Cache (3.5/2)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=da2cef2d-d8d0-43c7-9206-97afd93c005b</url>
+    <urlname>Keimzelle</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1123647" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Keimzelle</groundspeak:name>
+      <groundspeak:placed_by>Woodwalker2006</groundspeak:placed_by>
+      <groundspeak:owner id="1262814">woodwalker2006</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Regular</groundspeak:container>
+      <groundspeak:difficulty>3.5</groundspeak:difficulty>
+      <groundspeak:terrain>2</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">Eine etwas andere Form der Dose....</groundspeak:short_description>
+      <groundspeak:long_description html="False">Wie der Name es schon sagt ist und soll dies die "Keimzelle" einer großen Serie werden.
+JEDER, der dieses Cache, und die daraus resultirenden Caches loggt, sollte selber eins unter seinem Nick auslegen. Das darf von superleicht bis zur härtesten Nuss alles sein!! 
+DAS IST LOGBEDINGUNG!!
+Nur so multipliziert es sich dann irgendwann zu einem richtigen Cacheracker...Bitte keine Ortschaften- NUR Gelände.
+Weitere Caches habe ich zur "Begrenzung" des Geländes ausgelegt, die bitte respektiert werden sollten!! Nach Süden gibt es erstmal keine Grenze.
+Bitte nicht bei Nacht hier herumgeistern, die Förster und Tiere sollen nicht gestört werden, dann steht dem Spass auch nichts im Wege!!
+
+Bitte wieder gut und sorgfältig tarnen!!!
+
+Es lag eine Abweichung von 4,2 Metern vor.
+
+
+ACHTUNG!!! Im Schnee besteht keine Chance, das Vertsteck zu finden!!!</groundspeak:long_description>
+      <groundspeak:encoded_hints>Da ,wo ein Keimling hingehört. Ein Sprichwort, ohne das nichts los ist. Nichts ziehen oder schrauben...nur drehen</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="137008965">
+          <groundspeak:date>2010-11-21T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1414299">balalaika</groundspeak:finder>
+          <groundspeak:text encoded="False">Am Sonntag mal `ne kleine Tour rund um Dammersbach gemacht. Dabei auch hier vorbei gekommen.
+Danke sagt team balalaika</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="136641565">
+          <groundspeak:date>2010-11-21T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2887618">burgen13</groundspeak:finder>
+          <groundspeak:text encoded="False">Auf einer Sonntagstour rund um Dammersbach gut gefunden. Nur hat die Beschriftung auf dem Beutel unsere Hände grün eingefärbt.
+Danke sagt burgen13</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="130368567">
+          <groundspeak:date>2010-10-09T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2807204">super sunshine</groundspeak:finder>
+          <groundspeak:text encoded="False">Cache bei einem schönen Spaziergang schnell gefunden. Interessantes Versteck! Danke und Grüße</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="129904661">
+          <groundspeak:date>2010-10-05T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2724623">Camuvlash</groundspeak:finder>
+          <groundspeak:text encoded="False">TFTC.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="127475915">
+          <groundspeak:date>2010-09-19T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2878802">Limoel</groundspeak:finder>
+          <groundspeak:text encoded="False">Heute morgen bei einem Waldspaziergang schnell gefunden.
+
+TFTC Limoel
+
+In: TB
+Out: -</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs>
+        <groundspeak:travelbug id="148282" ref="TBJR37">
+          <groundspeak:name>Die-ing to Travel</groundspeak:name>
+        </groundspeak:travelbug>
+      </groundspeak:travelbugs>
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

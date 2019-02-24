@@ -1,0 +1,115 @@
+<?xml version="1.0"?>
+<celsiusv2.2.htmltemplates>
+<element>
+  <infoMode>0</infoMode>
+  <template><html>
+<body>
+<table width='100%'>
+<tr>
+<td valign='top'>
+<b>#composer&4#</b>
+#if#maintitle# <h2>#maintitle#</h2>
+#if#maintitle##if#title# <h3>#number# - #title#</h3>
+#if#!maintitle# <h2>#fulltitle#</h2>
+#if#filetype#<a href='http://$$view'>#filetype#-file</a>&nbsp;
+#if#location# (#filesize#)
+<br><br>
+#if#artists#<b>#artists&4#</b><br>
+#if#instrumentation# #instrumentation#<br>
+#if#album# <b>Album:</b> #album#
+#if#albumtrack#, Track: #albumtrack#
+<br>
+Genre: #genre#<br>
+<br>registered in:
+#if#autoregistered# |#autoregistered#|
+#if#registered# |#registered#|
+<br>
+#if#links# #$$linksList-combines#
+#if#altversions# #altversions#
+#if#amazon-link#<a href='#amazon-link#'>Amazon</a>&nbsp;
+<br>
+#if#keywords# <b>Keywords:</b> #keywords#<br>
+#if#remarks# <b>Remarks:</b> #remarks#
+#if#bibtex# <h3>Bibliographic information</h3>
+#if#bibtex# <pre width="20">#bibtex#</pre><br>
+<hr>
+<h3>Celsius related information</h3>
+ID: #id#
+#if#recognition#, recognition level: #recognition#.
+</td><td valign='top'>
+#if#thumbnail#<img src='file:#$thumbnail#'>
+</td></tr>
+</table>
+</body>
+</html></template>
+</element>
+<element>
+  <infoMode>1</infoMode>
+  <template><html><body>
+<h2>#person#</h2>
+<hr>
+<br>
+From this artist: #currentdocuments# documents with #currentpages# pages in the library.<br>
+<br>
+#if#homepage# <a href="#homepage#">Homepage</a>&nbsp;
+#if#email# #email#&nbsp;
+<br><br>
+<b>Collaborations:</b><br>
+#collaborators#
+#if#remarks# <br><br><b>Remarks:</b><br>#remarks#</body></html></template>
+</element>
+<element>
+  <infoMode>2</infoMode>
+  <template><html><body>
+<h2>#category#</h2>
+<hr>
+<br>
+In this category: #currentdocuments# pieces in the library.<br>
+</body></html></template>
+</element>
+<element>
+  <infoMode>3</infoMode>
+  <template><html><body>
+<h2>Multiple documents selected</h2>
+<hr>
+<br>
+In this selection: #currentdocuments# documents with #currentpages# pages in the library.<br>
+</body></html></template>
+</element>
+<element>
+  <infoMode>4</infoMode>
+  <template><html><body>
+<h2>Identifier Search</h2>
+<hr>
+<br>
+In these search results: #currentdocuments# documents with #currentpages# pages in the library.<br>
+</body></html></template>
+</element>
+<element>
+  <infoMode>5</infoMode>
+  <template><html><body>
+<h2>General Search</h2>
+<hr>
+<br>
+In these search results: #currentdocuments# items in the library.<br>
+</body></html></template>
+</element>
+<element>
+  <infoMode>6</infoMode>
+  <template><html><body>
+<h2>Keyword Search</h2>
+<hr>
+<br>
+In these search results: #currentdocuments# documents with #currentpages# pages in the library.<br>
+</body></html></template>
+</element>
+<element>
+  <infoMode>7</infoMode>
+  <template><html><body>
+<h2>Linktype: #linktype#</h2>
+<hr>
+<br>
+Documents linked: #currentdocuments# documents with #currentpages# pages in the library.<br>
+</body></html></template>
+</element>
+</celsiusv2.2.htmltemplates>

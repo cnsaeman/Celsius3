@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>005767</id>
+  <cache-id>PK136AE</cache-id>
+  <type>Waypoint</type>
+  <name>Park here</name>
+  <placed>2007-06-03</placed>
+  <lat>53.233017</lat>
+  <lon>-6.221883</lon>
+  <attributes>hidden</attributes>
+  <description>There is room for one or two cars to park here.</description>
+  <url>http://www.geocaching.com/seek/wpt.aspx?WID=23f3259e-87ae-4667-bb38-fcbff81f13e4</url>
+  <url-name>Park here</url-name>
+</element>
+</celsiusv2.1.addinfofile>

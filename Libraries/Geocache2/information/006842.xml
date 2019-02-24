@@ -1,0 +1,143 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>006842</id>
+  <cache-id>GCW609</cache-id>
+  <type>Traditional Cache</type>
+  <name>Sandymount Green by Hezekiah, Traditional Cache (1/1)</name>
+  <size>Micro</size>
+  <difficulty>1</difficulty>
+  <terrain>1</terrain>
+  <last-found>2007-08-18</last-found>
+  <placed>2006-05-22</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>Hezekiah</placedby>
+  <found>Geocache Found</found>
+  <lat>53.331683</lat>
+  <lon>-6.21515</lon>
+  <last-logs>FFFFFWF</last-logs>
+  <owner>Hezekiah</owner>
+  <description>   <p align="center"><a target="_blank" href=
+   "http://www.geocachingireland.com/index.html"><img border="0"
+   src="http://geocachingireland.com/logo4.jpg" width="328"
+     height="53" align="middle"></a></p>
+<hr align="center" size="2" width="40%">
+<center><font color="blue">Visit the <b>new</b> Geocaching Ireland
+discussion forum <a href="http://www.mccartan.org/forums/"
+   target="_blank">HERE</a></font></center>
+<hr align="center" size="2" width="40%">
+</description>
+  <long-description><p>A small park located in the centre of Sandymount village with a
+bust commemorating the poet W.B. Yeats, who was born in
+Sandymount.</p>
+<p>The National Library is holding an exhibition based on W.B.
+Yeats from early June 2006, if you are interested in finding out
+more about the poet's life and interests.</p>
+<p>You will need to bring a pencil or pen with you to sign the
+log!</p>
+</long-description>
+  <encoded-hints>In the same place as that cheque I promised you!</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=43810980-3292-4e18-acc7-1d96d1f25feb</url>
+  <url-name>Sandymount Green</url-name>
+  <logs><ul><li>2010-05-11T19:00:00Z : Found it by Pepere51 <br />Easily found
+TFTC</li><li>2010-04-20T19:00:00Z : Found it by OBCLAN <br />Lovely oasis of calm in the city. TFTC SL</li><li>2010-04-08T19:00:00Z : Found it by foolellelaclunk <br />after two days of lookin like an awful eejit wandering around a park lookin excited and confused in the same expression, but day two turned up trumps, great hide!!</li><li>2010-03-28T19:00:00Z : Found it by Sally&eL <br />17:00 #539
+
+would be a quick find if it was not me (eL) who was looking for it  	[}:)]</li><li>2010-03-19T19:00:00Z : Found it by Fitzet <br />A combination of me trusting the GPSr over the hints & logs, and also the 'busy-ness' of the area meant it took me 4 vists before I could lay my hand on the cache.
+
+SL
+TFTC</li><li>2007-09-15T07:00:00Z : Write note by Kersti.com <br />Cache now includes a small zip-lock baggy housing... that should stop some of the wet. </li><li>2007-08-18T07:00:00Z : Found it by Kersti.com <br />Decided to knock over this since it's just a short hop from home. Took Cam along with me to show him the ropes. Nice easy find - although the log is getting damp and starting to grow fuzzy things. TFTC</li></ul></logs>
+  <original-xml>  <wpt  lat="53.331683" lon="-6.21515">
+    <time>2006-05-22T07:00:00Z</time>
+    <name>GCW609</name>
+    <desc>Sandymount Green by Hezekiah, Traditional Cache (1/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=43810980-3292-4e18-acc7-1d96d1f25feb</url>
+    <urlname>Sandymount Green</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="399012" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Sandymount Green</groundspeak:name>
+      <groundspeak:placed_by>Hezekiah</groundspeak:placed_by>
+      <groundspeak:owner id="274644">Hezekiah</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>
+      </groundspeak:state>
+      <groundspeak:short_description html="True">   &lt;p align="center"&gt;&lt;a target="_blank" href=
+   "http://www.geocachingireland.com/index.html"&gt;&lt;img border="0"
+   src="http://geocachingireland.com/logo4.jpg" width="328"
+     height="53" align="middle"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;hr align="center" size="2" width="40%"&gt;
+&lt;center&gt;&lt;font color="blue"&gt;Visit the &lt;b&gt;new&lt;/b&gt; Geocaching Ireland
+discussion forum &lt;a href="http://www.mccartan.org/forums/"
+   target="_blank"&gt;HERE&lt;/a&gt;&lt;/font&gt;&lt;/center&gt;
+&lt;hr align="center" size="2" width="40%"&gt;
+</groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;p&gt;A small park located in the centre of Sandymount village with a
+bust commemorating the poet W.B. Yeats, who was born in
+Sandymount.&lt;/p&gt;
+&lt;p&gt;The National Library is holding an exhibition based on W.B.
+Yeats from early June 2006, if you are interested in finding out
+more about the poet's life and interests.&lt;/p&gt;
+&lt;p&gt;You will need to bring a pencil or pen with you to sign the
+log!&lt;/p&gt;
+</groundspeak:long_description>
+      <groundspeak:encoded_hints>In the same place as that cheque I promised you!</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="108044558">
+          <groundspeak:date>2010-05-11T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2511058">Pepere51</groundspeak:finder>
+          <groundspeak:text encoded="False">Easily found
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="105041769">
+          <groundspeak:date>2010-04-20T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2725277">OBCLAN</groundspeak:finder>
+          <groundspeak:text encoded="False">Lovely oasis of calm in the city. TFTC SL</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="103211525">
+          <groundspeak:date>2010-04-08T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3124403">foolellelaclunk</groundspeak:finder>
+          <groundspeak:text encoded="False">after two days of lookin like an awful eejit wandering around a park lookin excited and confused in the same expression, but day two turned up trumps, great hide!!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="101631885">
+          <groundspeak:date>2010-03-28T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1466841">Sally&amp;eL</groundspeak:finder>
+          <groundspeak:text encoded="False">17:00 #539
+
+would be a quick find if it was not me (eL) who was looking for it  	[}:)]</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="100210681">
+          <groundspeak:date>2010-03-19T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2451856">Fitzet</groundspeak:finder>
+          <groundspeak:text encoded="False">A combination of me trusting the GPSr over the hints &amp; logs, and also the 'busy-ness' of the area meant it took me 4 vists before I could lay my hand on the cache.
+
+SL
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="32659760">
+          <groundspeak:date>2007-09-15T07:00:00Z</groundspeak:date>
+          <groundspeak:type>Write note</groundspeak:type>
+          <groundspeak:finder id="320206">Kersti.com</groundspeak:finder>
+          <groundspeak:text encoded="False">Cache now includes a small zip-lock baggy housing... that should stop some of the wet. </groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="31256416">
+          <groundspeak:date>2007-08-18T07:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="320206">Kersti.com</groundspeak:finder>
+          <groundspeak:text encoded="False">Decided to knock over this since it's just a short hop from home. Took Cam along with me to show him the ropes. Nice easy find - although the log is getting damp and starting to grow fuzzy things. TFTC</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

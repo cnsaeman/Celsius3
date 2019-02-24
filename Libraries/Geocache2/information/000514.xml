@@ -1,0 +1,158 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>000514</id>
+  <cache-id>GC1DDTB</cache-id>
+  <type>Traditional Cache</type>
+  <name>Glass and a Half by AbbeyAckbar, Traditional Cache (1/1)</name>
+  <size>Small</size>
+  <difficulty>1</difficulty>
+  <terrain>1</terrain>
+  <last-found>2010-05-15</last-found>
+  <placed>2008-06-21</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>AbbeyAckbar</placedby>
+  <found>Geocache</found>
+  <lat>53.390983</lat>
+  <lon>-6.196067</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>AbbeyAckbar</owner>
+  <description><center>
+<img src="http://img.geocaching.com/cache/25f60833-da66-4c8a-8d32-4e71c3ff209e.jpg" />
+</center>
+<p>This Cache is located beside Cadburys in Coolock, which has been
+making choclate there since 1932. It is in a Cul De Sac, which can
+be accessed by car from the Oscar Traynor road.</p>
+<p>It is wrapped in black cloth and contained the following when
+placed:<br />
+€5 UCI voucher for FTF.<br />
+Log and pencil.<br />
+Mini Darth Vader.<br />
+US quarter.</p></description>
+  <long-description><p>SOME HISTORY AND FACTS:<br />
+Cadburys was started in the UK in 1824 by John Cadbury and in 1847
+he took on his brother Benjamin as a partner.</p>
+<p>In 1905/1906 Cadbury Brothers introduced a new recipe for milk
+chocolate, marketed under the name Cadbury Dairy Milk, which has
+remained a mainstay of its product line ever since.</p>
+<p>The actual inventor of eating chocolate is unknown. However in
+1847, Fry & Sons of Bristol, who eventually merged with Cadbury
+limited in 1919, sold a ‘chocolate delicieux a manger’. Many people
+credit this as the first chocolate bar. John Cadbury produced his
+first bar in 1849 and went on to produce fruit flavoured centres
+covered with chocolate – the first chocolate assortments.</p>
+<p>Milk Chocolate:<br />
+Up to this point in history only dark chocolate had been made, but
+in 1875 a Swiss manufacturer, Danial Peters of Vevey, produced the
+first milk chocolate bar using powdered milk. The Cadbury brothers
+followed suit and monitored Vevey’s progress as he eventually
+mastered producing a product using condensed milk. The public loved
+it and milk chocolate began to dominate the market. Cadburys
+currently uses 227,000 litres of milk a day in Ireland producing
+milk choclate.</p></long-description>
+  <encoded-hints>Low wall facing factory</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=1deb13ec-c225-4a4f-90c1-ef3523996ace</url>
+  <url-name>Glass and a Half</url-name>
+  <logs><ul><li>2010-06-09T19:00:00Z : Found it by nisse_perlemo <br />Found quickly with thanks to precise coordinates. Nice container, well hidden.
+TFTC!</li><li>2010-05-15T19:00:00Z : Found it by WeeBookWorm <br />Found when out with my dad (Frezeluberz), gilliancclarke (and her two geo-sprogs) & Zoe andDaddy
+TFTC</li><li>2010-05-15T19:00:00Z : Found it by CheekyCheetah <br />Found when out with my dad (Frezeluberz), gilliancclarke (and her two geo-sprogs) & Zoe andDaddy
+TFTC</li><li>2010-05-15T19:00:00Z : Found it by Frezeluberz <br />Found quickly with no problems.
+Guess who found this one?!
+TNLNSL.
+TFTC.</li><li>2010-05-15T19:00:00Z : Found it by gilliancclarke <br />Found easily.  Loved the container ;)</li></ul></logs>
+  <original-xml>  <wpt  lat="53.390983" lon="-6.196067">
+    <time>2008-06-21T07:00:00Z</time>
+    <name>GC1DDTB</name>
+    <desc>Glass and a Half by AbbeyAckbar, Traditional Cache (1/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=1deb13ec-c225-4a4f-90c1-ef3523996ace</url>
+    <urlname>Glass and a Half</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="912963" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Glass and a Half</groundspeak:name>
+      <groundspeak:placed_by>AbbeyAckbar</groundspeak:placed_by>
+      <groundspeak:owner id="1265839">AbbeyAckbar</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>Dublin</groundspeak:state>
+      <groundspeak:short_description html="True">&lt;center&gt;
+&lt;img src="http://img.geocaching.com/cache/25f60833-da66-4c8a-8d32-4e71c3ff209e.jpg" /&gt;
+&lt;/center&gt;
+&lt;p&gt;This Cache is located beside Cadburys in Coolock, which has been
+making choclate there since 1932. It is in a Cul De Sac, which can
+be accessed by car from the Oscar Traynor road.&lt;/p&gt;
+&lt;p&gt;It is wrapped in black cloth and contained the following when
+placed:&lt;br /&gt;
+€5 UCI voucher for FTF.&lt;br /&gt;
+Log and pencil.&lt;br /&gt;
+Mini Darth Vader.&lt;br /&gt;
+US quarter.&lt;/p&gt;</groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;p&gt;SOME HISTORY AND FACTS:&lt;br /&gt;
+Cadburys was started in the UK in 1824 by John Cadbury and in 1847
+he took on his brother Benjamin as a partner.&lt;/p&gt;
+&lt;p&gt;In 1905/1906 Cadbury Brothers introduced a new recipe for milk
+chocolate, marketed under the name Cadbury Dairy Milk, which has
+remained a mainstay of its product line ever since.&lt;/p&gt;
+&lt;p&gt;The actual inventor of eating chocolate is unknown. However in
+1847, Fry &amp;amp; Sons of Bristol, who eventually merged with Cadbury
+limited in 1919, sold a ‘chocolate delicieux a manger’. Many people
+credit this as the first chocolate bar. John Cadbury produced his
+first bar in 1849 and went on to produce fruit flavoured centres
+covered with chocolate – the first chocolate assortments.&lt;/p&gt;
+&lt;p&gt;Milk Chocolate:&lt;br /&gt;
+Up to this point in history only dark chocolate had been made, but
+in 1875 a Swiss manufacturer, Danial Peters of Vevey, produced the
+first milk chocolate bar using powdered milk. The Cadbury brothers
+followed suit and monitored Vevey’s progress as he eventually
+mastered producing a product using condensed milk. The public loved
+it and milk chocolate began to dominate the market. Cadburys
+currently uses 227,000 litres of milk a day in Ireland producing
+milk choclate.&lt;/p&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>Low wall facing factory</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="112287689">
+          <groundspeak:date>2010-06-09T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2334345">nisse_perlemo</groundspeak:finder>
+          <groundspeak:text encoded="False">Found quickly with thanks to precise coordinates. Nice container, well hidden.
+TFTC!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="109063824">
+          <groundspeak:date>2010-05-15T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2111147">WeeBookWorm</groundspeak:finder>
+          <groundspeak:text encoded="False">Found when out with my dad (Frezeluberz), gilliancclarke (and her two geo-sprogs) &amp; Zoe andDaddy
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="109063059">
+          <groundspeak:date>2010-05-15T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2111140">CheekyCheetah</groundspeak:finder>
+          <groundspeak:text encoded="False">Found when out with my dad (Frezeluberz), gilliancclarke (and her two geo-sprogs) &amp; Zoe andDaddy
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="108913691">
+          <groundspeak:date>2010-05-15T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1548662">Frezeluberz</groundspeak:finder>
+          <groundspeak:text encoded="False">Found quickly with no problems.
+Guess who found this one?!
+TNLNSL.
+TFTC.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="108800204">
+          <groundspeak:date>2010-05-15T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="655648">gilliancclarke</groundspeak:finder>
+          <groundspeak:text encoded="False">Found easily.  Loved the container ;)</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

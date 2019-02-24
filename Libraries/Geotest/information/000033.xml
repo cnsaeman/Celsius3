@@ -1,0 +1,170 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>000033</id>
+  <cache-id>GCMFZJ</cache-id>
+  <type>Traditional Cache</type>
+  <name>Zigeunereck by Salex909 adopted by Thyrie, Traditional Cache (2/2)</name>
+  <size>Small</size>
+  <difficulty>2</difficulty>
+  <terrain>2</terrain>
+  <last-found>2010-06-24</last-found>
+  <placed>2005-01-12</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Salex909 adopted by Thyrie</placedby>
+  <found>Geocache</found>
+  <lat>50.515433</lat>
+  <lon>9.572583</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>thyrie</owner>
+  <description>
+      </description>
+  <long-description>Parken könnt ihr an den folgenden Koordinaten:
+
+N  50° 30.936
+E 009° 35.097
+
+Von dort sind es ca. 900 Meter bis zum Cache.
+
+Erstinhalt:
+
+- Logbuch und Bleistift
+- Fußballerfigur
+- Zwerg
+- Muschel
+
+
+Viel Spaß wünschen
+Annika und Sascha
+
+
+
+
+
+
+Parking is possible here:
+
+N  50° 30.936
+E 009° 35.097
+
+You have to walk about 900 metres to reach the cache.
+
+Content:
+
+- pencil and logbook
+- soccer figurine
+- dwarf
+- shell
+
+Have fun!
+Annika and Sascha</long-description>
+  <encoded-hints>[deutsch:] An einem Baum!
+[english:] At a tree!</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=dcc708ac-4ed3-4682-8f64-b471f8e0114c</url>
+  <url-name>Zigeunereck</url-name>
+  <logs><ul><li>2010-10-31T19:00:00Z : Found it by Herzl <br />Da ich von oben gekommen bin und die Koords ein wenig off sind habe ich doch eine Weile gesucht. Gerade als ich fast aufgeben wollte habe ich die Dose dann doch entdeckt.
+Herrlich ruhig hier - es zwitscherten sogar ein paar Vögel!</li><li>2010-08-14T19:00:00Z : Found it by Helup <br />Klasse Cache.Bei schönem Wetter gut gefunden.Danke fürs zeigen!
+Gruß Team Helup</li><li>2010-07-17T22:00:52Z : Found it by Robinxboxfd <br />Sent from my mobile device.</li><li>2010-07-17T16:11:14Z : Found it by thomasp90 <br />Sent from my mobile device.</li><li>2010-06-24T19:00:00Z : Found it by killastorm8 <br />TFTC :D
+</li></ul></logs>
+  <original-xml>  <wpt  lat="50.515433" lon="9.572583">
+    <time>2005-01-12T08:00:00Z</time>
+    <name>GCMFZJ</name>
+    <desc>Zigeunereck by Salex909 adopted by Thyrie, Traditional Cache (2/2)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=dcc708ac-4ed3-4682-8f64-b471f8e0114c</url>
+    <urlname>Zigeunereck</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="200063" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Zigeunereck</groundspeak:name>
+      <groundspeak:placed_by>Salex909 adopted by Thyrie</groundspeak:placed_by>
+      <groundspeak:owner id="1329435">thyrie</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>2</groundspeak:difficulty>
+      <groundspeak:terrain>2</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">
+      </groundspeak:short_description>
+      <groundspeak:long_description html="False">Parken könnt ihr an den folgenden Koordinaten:
+
+N  50° 30.936
+E 009° 35.097
+
+Von dort sind es ca. 900 Meter bis zum Cache.
+
+Erstinhalt:
+
+- Logbuch und Bleistift
+- Fußballerfigur
+- Zwerg
+- Muschel
+
+
+Viel Spaß wünschen
+Annika und Sascha
+
+
+
+
+
+
+Parking is possible here:
+
+N  50° 30.936
+E 009° 35.097
+
+You have to walk about 900 metres to reach the cache.
+
+Content:
+
+- pencil and logbook
+- soccer figurine
+- dwarf
+- shell
+
+Have fun!
+Annika and Sascha</groundspeak:long_description>
+      <groundspeak:encoded_hints>[deutsch:] An einem Baum!
+[english:] At a tree!</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="133931864">
+          <groundspeak:date>2010-10-31T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1970181">Herzl</groundspeak:finder>
+          <groundspeak:text encoded="False">Da ich von oben gekommen bin und die Koords ein wenig off sind habe ich doch eine Weile gesucht. Gerade als ich fast aufgeben wollte habe ich die Dose dann doch entdeckt.
+Herrlich ruhig hier - es zwitscherten sogar ein paar Vögel!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="121825564">
+          <groundspeak:date>2010-08-14T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2254555">Helup</groundspeak:finder>
+          <groundspeak:text encoded="False">Klasse Cache.Bei schönem Wetter gut gefunden.Danke fürs zeigen!
+Gruß Team Helup</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="117324543">
+          <groundspeak:date>2010-07-17T22:00:52Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3527417">Robinxboxfd</groundspeak:finder>
+          <groundspeak:text encoded="False">Sent from my mobile device.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="117272303">
+          <groundspeak:date>2010-07-17T16:11:14Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3476208">thomasp90</groundspeak:finder>
+          <groundspeak:text encoded="False">Sent from my mobile device.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="114172575">
+          <groundspeak:date>2010-06-24T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3447609">killastorm8</groundspeak:finder>
+          <groundspeak:text encoded="False">TFTC :D
+</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

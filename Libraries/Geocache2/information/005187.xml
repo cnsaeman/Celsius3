@@ -1,0 +1,154 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>005187</id>
+  <cache-id>GCQ58K</cache-id>
+  <type>Traditional Cache</type>
+  <name>Skerries Mills  by Windsockers, Traditional Cache (1/1)</name>
+  <size>Micro</size>
+  <difficulty>1</difficulty>
+  <terrain>1</terrain>
+  <last-found>2010-05-03</last-found>
+  <placed>2005-12-27</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>Windsockers</placedby>
+  <found>Geocache</found>
+  <lat>53.575067</lat>
+  <lon>-6.109717</lon>
+  <last-logs>FFFFX</last-logs>
+  <owner>Windsockers</owner>
+  <description>The cache is set in the grounds of Skerries Mills <br />
+<br />
+<center><b>The Mills</b><br />
+<center>
+<img src="http://www.northbeach.ie/gallery/albums/userpics/10001/normal_skerries.JPG" />
+</center></center></description>
+  <long-description>Skerries Mills Industrial Heritage Centre is situated in the
+seaside town of Skerries about 30 Km north of Dublin City The
+complex comprises a watermill, 5 sail windmill, 4 sail windmill and
+associated mill races, mill pond and wetlands. The history of the
+mills can be traced back to the 16th Century and a bakery was
+established on the site by 1840. The mills demonstrate a clean and
+efficient use of water and wind power and are a rare survival of
+17th., 18th. and 19th. Century industrial history. <br />
+<br />
+<p><b>Getting There</b>:<br />
+The Park is situated within easy walking distance of Skerries
+Village. By Car: Signposted from the M1/N1 Dublin-Belfast north of
+Swords. Car parking is provided By Bus: Bus 33 from Eden Quay in
+Dublin city centre to Skerries village. Get off the bus at
+Holmpatrick Church. By Train: Northbound trains from Connolly or
+Pearse Street Stations stopping at Skerries Train Station. The
+mills are about a 5 minute walk from the station.<br />
+ Opening Hours:<br />
+April to September. - Daily from 10.30am to 17.30 pm October to
+March - Daily from 10.30am to 16.30 pm Closed from 20th December to
+1st January (inclusive) and on Good Friday</p>
+<p><b>The Cache</b></p>
+<p>The cache has now being moved and changed to allow Wheelchairs
+users a chance at finding it.</p>
+<p>As this location is so popular Please replace the cache with
+care to prevent muggles from discovering its existence</p>
+<center>
+<img src="http://www.northbeach.ie/gallery/albums/userpics/10001/windsock-anim-small.gif" />
+<br />
+<b>The Windsockers</b></center></long-description>
+  <encoded-hints>Railings but mind the brambles</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=33665f39-9b6e-4bc9-a6bd-fb3c7e559709</url>
+  <url-name>Skerries Mills </url-name>
+  <logs><ul><li>2010-05-31T19:00:00Z : Found it by BaznGuy <br />This tiny cache took some finding and after not finding the "Skerries Stash", we were getting dispondant, not to mention scratched to pieces, then after about 10 minutes of furtive searching Guy found it. T.F.T.C. Baz. </li><li>2010-05-21T19:00:00Z : Found it by Petr Skacha <br />Looked for this one long time ago,now we just came and found.
+TFTC</li><li>2010-05-16T19:00:00Z : Found it by Alastair74 <br />Found with Wildfowler on the way home from Dublin after a weekends caching.TFTC</li><li>2010-05-16T19:00:00Z : Found it by wildfowler <br />Found on the way home from a caching weekend around Dublin with Alastair74! Nice spot for a cache! TNLNSL TFTC</li><li>2010-05-03T19:00:00Z : Didn't find it by niallk1234 <br />Oh well.... You can't find them all. There were a group of young muggles nearby that I was very wary of and my GPS wasn't in much of a mood to work properly. A shame that I didn't find it as it would have been my fiftieth find, but I got that later so I'm not too upset about it. Them flippin thorns!</li></ul></logs>
+  <original-xml>  <wpt  lat="53.575067" lon="-6.109717">
+    <time>2005-12-27T08:00:00Z</time>
+    <name>GCQ58K</name>
+    <desc>Skerries Mills  by Windsockers, Traditional Cache (1/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=33665f39-9b6e-4bc9-a6bd-fb3c7e559709</url>
+    <urlname>Skerries Mills </urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="279145" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Skerries Mills </groundspeak:name>
+      <groundspeak:placed_by>Windsockers</groundspeak:placed_by>
+      <groundspeak:owner id="271623">Windsockers</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>Leinster</groundspeak:state>
+      <groundspeak:short_description html="True">The cache is set in the grounds of Skerries Mills &lt;br /&gt;
+&lt;br /&gt;
+&lt;center&gt;&lt;b&gt;The Mills&lt;/b&gt;&lt;br /&gt;
+&lt;center&gt;
+&lt;img src="http://www.northbeach.ie/gallery/albums/userpics/10001/normal_skerries.JPG" /&gt;
+&lt;/center&gt;&lt;/center&gt;</groundspeak:short_description>
+      <groundspeak:long_description html="True">Skerries Mills Industrial Heritage Centre is situated in the
+seaside town of Skerries about 30 Km north of Dublin City The
+complex comprises a watermill, 5 sail windmill, 4 sail windmill and
+associated mill races, mill pond and wetlands. The history of the
+mills can be traced back to the 16th Century and a bakery was
+established on the site by 1840. The mills demonstrate a clean and
+efficient use of water and wind power and are a rare survival of
+17th., 18th. and 19th. Century industrial history. &lt;br /&gt;
+&lt;br /&gt;
+&lt;p&gt;&lt;b&gt;Getting There&lt;/b&gt;:&lt;br /&gt;
+The Park is situated within easy walking distance of Skerries
+Village. By Car: Signposted from the M1/N1 Dublin-Belfast north of
+Swords. Car parking is provided By Bus: Bus 33 from Eden Quay in
+Dublin city centre to Skerries village. Get off the bus at
+Holmpatrick Church. By Train: Northbound trains from Connolly or
+Pearse Street Stations stopping at Skerries Train Station. The
+mills are about a 5 minute walk from the station.&lt;br /&gt;
+ Opening Hours:&lt;br /&gt;
+April to September. - Daily from 10.30am to 17.30 pm October to
+March - Daily from 10.30am to 16.30 pm Closed from 20th December to
+1st January (inclusive) and on Good Friday&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;The Cache&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;The cache has now being moved and changed to allow Wheelchairs
+users a chance at finding it.&lt;/p&gt;
+&lt;p&gt;As this location is so popular Please replace the cache with
+care to prevent muggles from discovering its existence&lt;/p&gt;
+&lt;center&gt;
+&lt;img src="http://www.northbeach.ie/gallery/albums/userpics/10001/windsock-anim-small.gif" /&gt;
+&lt;br /&gt;
+&lt;b&gt;The Windsockers&lt;/b&gt;&lt;/center&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>Railings but mind the brambles</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="111666354">
+          <groundspeak:date>2010-05-31T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="859481">BaznGuy</groundspeak:finder>
+          <groundspeak:text encoded="False">This tiny cache took some finding and after not finding the "Skerries Stash", we were getting dispondant, not to mention scratched to pieces, then after about 10 minutes of furtive searching Guy found it. T.F.T.C. Baz. </groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="110749202">
+          <groundspeak:date>2010-05-21T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="821695">Petr Skacha</groundspeak:finder>
+          <groundspeak:text encoded="False">Looked for this one long time ago,now we just came and found.
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="109095232">
+          <groundspeak:date>2010-05-16T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2453409">Alastair74</groundspeak:finder>
+          <groundspeak:text encoded="False">Found with Wildfowler on the way home from Dublin after a weekends caching.TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="108921767">
+          <groundspeak:date>2010-05-16T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="182407">wildfowler</groundspeak:finder>
+          <groundspeak:text encoded="False">Found on the way home from a caching weekend around Dublin with Alastair74! Nice spot for a cache! TNLNSL TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="107019944">
+          <groundspeak:date>2010-05-03T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Didn't find it</groundspeak:type>
+          <groundspeak:finder id="2923926">niallk1234</groundspeak:finder>
+          <groundspeak:text encoded="False">Oh well.... You can't find them all. There were a group of young muggles nearby that I was very wary of and my GPS wasn't in much of a mood to work properly. A shame that I didn't find it as it would have been my fiftieth find, but I got that later so I'm not too upset about it. Them flippin thorns!</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

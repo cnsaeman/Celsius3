@@ -1,0 +1,122 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>008332</id>
+  <cache-id>GC21F4T</cache-id>
+  <type>Multi-cache</type>
+  <name>Wo die Bäume stehen by Team Brot, Multi-cache (1/2)</name>
+  <size>Micro</size>
+  <difficulty>1</difficulty>
+  <terrain>2</terrain>
+  <last-found>2010-09-13</last-found>
+  <placed>2009-11-27</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Team Brot</placedby>
+  <found>Geocache</found>
+  <lat>50.484067</lat>
+  <lon>9.745633</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>Team Brot</owner>
+  <description>
+      </description>
+  <long-description>Ein kleiner zwei Stationen Multi für zwischendurch. Wer Lust hat kann nach dem Loggen gerne dem Baumlehrpfad folgen, ist auf jeden Fall interessant. Man hat sowohl an den Startkoordinaten als auch am Final einen wunderbaren Ausblick auf die umliegenden Dörfer.
+
+Bei den Startkoordinaten findet Ihr ein Informationsschild das zu einem Baumlehrpfad gehört. Nehmt die erste Ziffer des Alters für A und dreimal den Stammdurchmesser für B.
+
+Final: N50'29.11A  E009'45.0B7
+Stift mitbringen!
+
+
+Glückwunsch dem Erstfinder "HubiFD" :-) !
+
+Additional Waypoints
+</long-description>
+  <encoded-hints>
+      </encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=0e0d5ea8-1494-441c-a88b-d34c80ed329d</url>
+  <url-name>Wo die Bäume stehen</url-name>
+  <logs><ul><li>2010-11-27T20:00:00Z : Found it by schwap <br />Nach babysitten noch ne kleine nachtrunde von 7 caches gedreht. hat spass gemacht. tftc</li><li>2010-11-15T03:28:41Z : Found it by Clowns 4ever <br />Schönes kleines Multi im Team gut gefunden!!! Das vierte und letzte für  heute ;-)))</li><li>2010-10-02T19:00:00Z : Found it by Aldokyl <br />Ich liebe kurze Multis.
+Danke für den Cache.</li><li>2010-09-19T19:00:00Z : Found it by Jobsti(Juppy) <br />Die Infos am Start hab ich schnell gefunden.
+Am Final nußte ich mich schon etwas mehr ansrengen, bis ich den Kleinen dann doch endlich gefunden hab.
+
+Danke für den Cache, Jobsti!</li><li>2010-09-13T19:00:00Z : Found it by TaDaRhön <br />Hier war "Da" vor längeren schon mal..aber sie wollte das Döschen wahrscheinlich nicht finden [:)]
+....im Team ging´s heute richtig flott.
+DfdC, sagen TaDaRhön</li></ul></logs>
+  <original-xml>  <wpt  lat="50.484067" lon="9.745633">
+    <time>2009-11-27T08:00:00Z</time>
+    <name>GC21F4T</name>
+    <desc>Wo die Bäume stehen by Team Brot, Multi-cache (1/2)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=0e0d5ea8-1494-441c-a88b-d34c80ed329d</url>
+    <urlname>Wo die Bäume stehen</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Multi-cache</type>
+    <groundspeak:cache id="1480277" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Wo die Bäume stehen</groundspeak:name>
+      <groundspeak:placed_by>Team Brot</groundspeak:placed_by>
+      <groundspeak:owner id="977118">Team Brot</groundspeak:owner>
+      <groundspeak:type>Multi-cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>2</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">
+      </groundspeak:short_description>
+      <groundspeak:long_description html="False">Ein kleiner zwei Stationen Multi für zwischendurch. Wer Lust hat kann nach dem Loggen gerne dem Baumlehrpfad folgen, ist auf jeden Fall interessant. Man hat sowohl an den Startkoordinaten als auch am Final einen wunderbaren Ausblick auf die umliegenden Dörfer.
+
+Bei den Startkoordinaten findet Ihr ein Informationsschild das zu einem Baumlehrpfad gehört. Nehmt die erste Ziffer des Alters für A und dreimal den Stammdurchmesser für B.
+
+Final: N50'29.11A  E009'45.0B7
+Stift mitbringen!
+
+
+Glückwunsch dem Erstfinder "HubiFD" :-) !
+
+Additional Waypoints
+</groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="137382777">
+          <groundspeak:date>2010-11-27T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3060114">schwap</groundspeak:finder>
+          <groundspeak:text encoded="False">Nach babysitten noch ne kleine nachtrunde von 7 caches gedreht. hat spass gemacht. tftc</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="135813512">
+          <groundspeak:date>2010-11-15T03:28:41Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3918255">Clowns 4ever</groundspeak:finder>
+          <groundspeak:text encoded="False">Schönes kleines Multi im Team gut gefunden!!! Das vierte und letzte für  heute ;-)))</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="130211095">
+          <groundspeak:date>2010-10-02T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="438973">Aldokyl</groundspeak:finder>
+          <groundspeak:text encoded="False">Ich liebe kurze Multis.
+Danke für den Cache.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="127654754">
+          <groundspeak:date>2010-09-19T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="451798">Jobsti(Juppy)</groundspeak:finder>
+          <groundspeak:text encoded="False">Die Infos am Start hab ich schnell gefunden.
+Am Final nußte ich mich schon etwas mehr ansrengen, bis ich den Kleinen dann doch endlich gefunden hab.
+
+Danke für den Cache, Jobsti!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="126801084">
+          <groundspeak:date>2010-09-13T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2946542">TaDaRhön</groundspeak:finder>
+          <groundspeak:text encoded="False">Hier war "Da" vor längeren schon mal..aber sie wollte das Döschen wahrscheinlich nicht finden [:)]
+....im Team ging´s heute richtig flott.
+DfdC, sagen TaDaRhön</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

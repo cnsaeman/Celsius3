@@ -1,0 +1,199 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>003023</id>
+  <cache-id>GC10CG0</cache-id>
+  <type>Traditional Cache</type>
+  <name>St Anne's - Walled Garden by Bootle, Traditional Cache (1/1)</name>
+  <size>Micro</size>
+  <difficulty>1</difficulty>
+  <terrain>1</terrain>
+  <last-found>2007-08-30</last-found>
+  <placed>2007-01-14</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>Bootle</placedby>
+  <found>Geocache Found</found>
+  <lat>53.371817</lat>
+  <lon>-6.1773</lon>
+  <last-logs>FFFFFF</last-logs>
+  <owner>Bootle</owner>
+  <description>
+      </description>
+  <long-description><p align="center"><a target="_blank"
+href="http://www.geocachingireland.com"><img border="0"
+src="http://geocachingireland.com/logo4.jpg" width="328"
+height="53" align="middle" /></a></p>
+<br />
+This cache is one of a series of caches located in St. Anne's Park
+in north Dublin. The park, straddling the suburbs of Clontarf and
+Raheny, covers 305 acres, and provides a wide range of facilities,
+including football pitches, tennis courts, a golf course, chilren's
+play area, boules courts and model car track. There's even a
+farmer's market in the "red stables" area of the park every
+Saturday. The main avenue, woodland paths, arboretum, rose garden
+and walled garden all provide ideal locations for peaceful walks.
+<br />
+<br />
+ The lands for the park were originally acquired by the Guinness
+family in the 1830s. Over the next century the lands were developed
+into a magnificent estate before being acquired by Dublin
+corporation in 1930. While a portion of the estate was transformed
+into a moden housing estate, thankfully most was retained as a
+public park. For a more detailed history of the park, please read
+Joan Ussher Sharkey's "St Anne's - The Story of a Guinness Estate"
+(Woodfield Press, 2002). <br />
+<br />
+Admission to the park is free. Parking can be found at Sybil Hill
+Road, James Larkin Road and Mount Prospect Avenue. While the park
+is generally a very pleasant place, it's probably best to visit the
+park during daylight hours and to make sure you leave no valuables
+on display in your car. <br />
+<br />
+This cache is located just outside the tranquil walled gardens
+adjacaent to the main avenue. The walled garden is a peaceful place
+to sit for a while. The walled gardens actually comprise two parts,
+one of which is open every day and a second part which is only open
+from Monday to Friday. At one end of the gardens is the beautiful
+clock tower, which is a splendid sight when covered in ivy. <br />
+<br />
+The cache is located in a small container, about 4cm by 4cm. Please
+bring your own pen / pencil to sign the log, as there is none in
+the cache. Please replace the cache as you found it,
+thanks!</long-description>
+  <encoded-hints>[under a] fallen tree [by the] golf course gate.</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=f3b0ee45-fa78-439d-9f11-e06ca5db7d8d</url>
+  <url-name>St Anne's - Walled Garden</url-name>
+  <logs><ul><li>2010-06-05T19:00:00Z : Found it by eve1987 <br />Another quick find :)
+
+Thx, eve</li><li>2010-06-02T19:00:00Z : Found it by Gruntplace <br />Had to try and avoid funny looks from the other side</li><li>2010-05-21T19:00:00Z : Found it by GudrunXY <br />Great location.
+TFTC, GudrunXY</li><li>2010-05-18T19:00:00Z : Found it by Benjach <br />1st cache found..... great fun thanks</li><li>2010-05-15T19:00:00Z : Found it by WeeBookWorm <br />Found when out with my dad (Frezeluberz), gilliancclarke (and her two geo-sprogs) & Zoe andDaddy
+TFTC</li><li>2007-08-30T07:00:00Z : Found it by Kersti.com <br />Found with CMB50
+
+An item mentioned in the clue was gone and for a while we thought this one might be out of reach, but soon spotted it.
+TN L Frog
+
+Now, on to the stables for a nice cup of tea...
+</li></ul></logs>
+  <original-xml>  <wpt  lat="53.371817" lon="-6.1773">
+    <time>2007-01-14T08:00:00Z</time>
+    <name>GC10CG0</name>
+    <desc>St Anne's - Walled Garden by Bootle, Traditional Cache (1/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=f3b0ee45-fa78-439d-9f11-e06ca5db7d8d</url>
+    <urlname>St Anne's - Walled Garden</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="524429" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>St Anne's - Walled Garden</groundspeak:name>
+      <groundspeak:placed_by>Bootle</groundspeak:placed_by>
+      <groundspeak:owner id="96113">Bootle</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>Dublin</groundspeak:state>
+      <groundspeak:short_description html="True">
+      </groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;p align="center"&gt;&lt;a target="_blank"
+href="http://www.geocachingireland.com"&gt;&lt;img border="0"
+src="http://geocachingireland.com/logo4.jpg" width="328"
+height="53" align="middle" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;br /&gt;
+This cache is one of a series of caches located in St. Anne's Park
+in north Dublin. The park, straddling the suburbs of Clontarf and
+Raheny, covers 305 acres, and provides a wide range of facilities,
+including football pitches, tennis courts, a golf course, chilren's
+play area, boules courts and model car track. There's even a
+farmer's market in the "red stables" area of the park every
+Saturday. The main avenue, woodland paths, arboretum, rose garden
+and walled garden all provide ideal locations for peaceful walks.
+&lt;br /&gt;
+&lt;br /&gt;
+ The lands for the park were originally acquired by the Guinness
+family in the 1830s. Over the next century the lands were developed
+into a magnificent estate before being acquired by Dublin
+corporation in 1930. While a portion of the estate was transformed
+into a moden housing estate, thankfully most was retained as a
+public park. For a more detailed history of the park, please read
+Joan Ussher Sharkey's "St Anne's - The Story of a Guinness Estate"
+(Woodfield Press, 2002). &lt;br /&gt;
+&lt;br /&gt;
+Admission to the park is free. Parking can be found at Sybil Hill
+Road, James Larkin Road and Mount Prospect Avenue. While the park
+is generally a very pleasant place, it's probably best to visit the
+park during daylight hours and to make sure you leave no valuables
+on display in your car. &lt;br /&gt;
+&lt;br /&gt;
+This cache is located just outside the tranquil walled gardens
+adjacaent to the main avenue. The walled garden is a peaceful place
+to sit for a while. The walled gardens actually comprise two parts,
+one of which is open every day and a second part which is only open
+from Monday to Friday. At one end of the gardens is the beautiful
+clock tower, which is a splendid sight when covered in ivy. &lt;br /&gt;
+&lt;br /&gt;
+The cache is located in a small container, about 4cm by 4cm. Please
+bring your own pen / pencil to sign the log, as there is none in
+the cache. Please replace the cache as you found it,
+thanks!</groundspeak:long_description>
+      <groundspeak:encoded_hints>[under a] fallen tree [by the] golf course gate.</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="112541277">
+          <groundspeak:date>2010-06-05T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1617792">eve1987</groundspeak:finder>
+          <groundspeak:text encoded="False">Another quick find :)
+
+Thx, eve</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="111335854">
+          <groundspeak:date>2010-06-02T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3344705">Gruntplace</groundspeak:finder>
+          <groundspeak:text encoded="False">Had to try and avoid funny looks from the other side</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="109379061">
+          <groundspeak:date>2010-05-21T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2694097">GudrunXY</groundspeak:finder>
+          <groundspeak:text encoded="False">Great location.
+TFTC, GudrunXY</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="109202109">
+          <groundspeak:date>2010-05-18T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3275809">Benjach</groundspeak:finder>
+          <groundspeak:text encoded="False">1st cache found..... great fun thanks</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="109063784">
+          <groundspeak:date>2010-05-15T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2111147">WeeBookWorm</groundspeak:finder>
+          <groundspeak:text encoded="False">Found when out with my dad (Frezeluberz), gilliancclarke (and her two geo-sprogs) &amp; Zoe andDaddy
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="31863118">
+          <groundspeak:date>2007-08-30T07:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="320206">Kersti.com</groundspeak:finder>
+          <groundspeak:text encoded="False">Found with CMB50
+
+An item mentioned in the clue was gone and for a while we thought this one might be out of reach, but soon spotted it.
+TN L Frog
+
+Now, on to the stables for a nice cup of tea...
+</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs>
+        <groundspeak:travelbug id="1298490" ref="TB1VBZP">
+          <groundspeak:name>Germany 2007 Series 1 Geocoin</groundspeak:name>
+        </groundspeak:travelbug>
+        <groundspeak:travelbug id="1489633" ref="TB21RWK">
+          <groundspeak:name>So Little Time</groundspeak:name>
+        </groundspeak:travelbug>
+      </groundspeak:travelbugs>
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

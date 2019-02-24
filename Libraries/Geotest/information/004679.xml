@@ -1,0 +1,124 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>004679</id>
+  <cache-id>GC29ZY2</cache-id>
+  <type>Traditional Cache</type>
+  <name>Künzeller Wäldchen by Pathfinder_FD, Traditional Cache (1.5/1.5)</name>
+  <size>Regular</size>
+  <difficulty>1.5</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-11-14</last-found>
+  <placed>2010-06-09</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Pathfinder_FD</placedby>
+  <found>Geocache</found>
+  <lat>50.53665</lat>
+  <lon>9.7288</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>Pathfinder_FD</owner>
+  <description>
+      </description>
+  <long-description>Künzell liegt ca. 3 km von der Barockstadt Fulda entfernt.  In Fulda wurde in 744 von Erzbischof Bonifatius das Benediktinerkloster gegründet und genauso lange ist Künzell in etwa bekannt. 
+
+Vom Fuldaer Dom ist man zu Fuß in ca. 1 Stunde beim Künzeller Wald. Dieser liegt direkt neben der bekannten Rhöntherme (im Umbau - künftig Sieben Welten Wellness - Tempel) bzw. dem bei Kindern beliebten Takka-Tukka-Land (Osthessens größtes In- und Outdoor Spieleland). 
+
+Der Cache liegt im Wald in der Nähe einer Weggabelung (Pfad) und ist bequem erreichbar. Niemand muß sich also durch das Dickicht quälen. Vom Teerweg nebem dem Wald gehen mehrere Abzweigungen in den Wald und viele Wege führen zum Cache
+
+Vom Takka-Tukka-Land sind es etwa 500 m bis zum Cache.
+(Parken bei N50°32.263´ E009°43.264´)
+
+Mit kleinen Kindern ist es am bequemsten das Auto oberhalb des Waldes in der Peter-Henlein-Straße bei einem Bolzplatz zu parken.(N50°32.091 E009°43.742)
+Vor diesem Punkt aus sind es ca. 200 m bis zum Cache.
+
+Wir wünschen Euch viel Spaß beim Suchen !!</long-description>
+  <encoded-hints>GNULEBAGGEW RED HCIEREB MI LEZRUWMUAB</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=48ff3201-a040-4686-9ef2-987d678a1b43</url>
+  <url-name>Künzeller Wäldchen</url-name>
+  <logs><ul><li>2010-11-17T20:00:00Z : Found it by little red índian <br />nach frühstückspause kleinen verdauungsspaziergang gemacht. nach glitschigem anmarsch schnell gefunden. 
+in: feder, diverses
+out: männchen</li><li>2010-11-14T20:00:00Z : Found it by Leoleoleo <br />Schnell gefunden im Nieselregen.
+Leoleoleo</li><li>2010-11-14T20:00:00Z : Found it by HAE-Haie <br />Wir waren die anderen Cacher, die getroffen wurden [;)]
+Mittlerweile kenne ich jeden Baum in der Gegend und dessen Besonderheiten, über die wir uns als Baumforscher getarnt unterhalten haben, sobald ein Muggel mit Hund vorbei kam - also sehr, sehr, sehr oft!</li><li>2010-11-14T20:00:00Z : Found it by s186003 <br />Schnell gefunden bzw. finden lassen. Das erste mal andere Geocacher getroffen, die mir netterweise den Cache zum Eintragen überließen.
+TFTC</li><li>2010-11-14T20:00:00Z : Found it by die taunuskrokodile <br />Schöner Waldspaziergang und nebenbei noch einen Schatz gefunden.
+
+Danke!</li></ul></logs>
+  <original-xml>  <wpt  lat="50.53665" lon="9.7288">
+    <time>2010-06-09T07:00:00Z</time>
+    <name>GC29ZY2</name>
+    <desc>Künzeller Wäldchen by Pathfinder_FD, Traditional Cache (1.5/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=48ff3201-a040-4686-9ef2-987d678a1b43</url>
+    <urlname>Künzeller Wäldchen</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1733772" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Künzeller Wäldchen</groundspeak:name>
+      <groundspeak:placed_by>Pathfinder_FD</groundspeak:placed_by>
+      <groundspeak:owner id="2837915">Pathfinder_FD</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Regular</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">
+      </groundspeak:short_description>
+      <groundspeak:long_description html="False">Künzell liegt ca. 3 km von der Barockstadt Fulda entfernt.  In Fulda wurde in 744 von Erzbischof Bonifatius das Benediktinerkloster gegründet und genauso lange ist Künzell in etwa bekannt. 
+
+Vom Fuldaer Dom ist man zu Fuß in ca. 1 Stunde beim Künzeller Wald. Dieser liegt direkt neben der bekannten Rhöntherme (im Umbau - künftig Sieben Welten Wellness - Tempel) bzw. dem bei Kindern beliebten Takka-Tukka-Land (Osthessens größtes In- und Outdoor Spieleland). 
+
+Der Cache liegt im Wald in der Nähe einer Weggabelung (Pfad) und ist bequem erreichbar. Niemand muß sich also durch das Dickicht quälen. Vom Teerweg nebem dem Wald gehen mehrere Abzweigungen in den Wald und viele Wege führen zum Cache
+
+Vom Takka-Tukka-Land sind es etwa 500 m bis zum Cache.
+(Parken bei N50°32.263´ E009°43.264´)
+
+Mit kleinen Kindern ist es am bequemsten das Auto oberhalb des Waldes in der Peter-Henlein-Straße bei einem Bolzplatz zu parken.(N50°32.091 E009°43.742)
+Vor diesem Punkt aus sind es ca. 200 m bis zum Cache.
+
+Wir wünschen Euch viel Spaß beim Suchen !!</groundspeak:long_description>
+      <groundspeak:encoded_hints>GNULEBAGGEW RED HCIEREB MI LEZRUWMUAB</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="136193295">
+          <groundspeak:date>2010-11-17T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1065041">little red índian</groundspeak:finder>
+          <groundspeak:text encoded="False">nach frühstückspause kleinen verdauungsspaziergang gemacht. nach glitschigem anmarsch schnell gefunden. 
+in: feder, diverses
+out: männchen</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="136625166">
+          <groundspeak:date>2010-11-14T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2117034">Leoleoleo</groundspeak:finder>
+          <groundspeak:text encoded="False">Schnell gefunden im Nieselregen.
+Leoleoleo</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="136264577">
+          <groundspeak:date>2010-11-14T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2414555">HAE-Haie</groundspeak:finder>
+          <groundspeak:text encoded="False">Wir waren die anderen Cacher, die getroffen wurden [;)]
+Mittlerweile kenne ich jeden Baum in der Gegend und dessen Besonderheiten, über die wir uns als Baumforscher getarnt unterhalten haben, sobald ein Muggel mit Hund vorbei kam - also sehr, sehr, sehr oft!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="136074750">
+          <groundspeak:date>2010-11-14T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2819456">s186003</groundspeak:finder>
+          <groundspeak:text encoded="False">Schnell gefunden bzw. finden lassen. Das erste mal andere Geocacher getroffen, die mir netterweise den Cache zum Eintragen überließen.
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="135843759">
+          <groundspeak:date>2010-11-14T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3669866">die taunuskrokodile</groundspeak:finder>
+          <groundspeak:text encoded="False">Schöner Waldspaziergang und nebenbei noch einen Schatz gefunden.
+
+Danke!</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

@@ -1,0 +1,96 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>006745</id>
+  <cache-id>GC1K95A</cache-id>
+  <type>Traditional Cache</type>
+  <name>Mobilfunkmast by Ubx, Traditional Cache (1/1)</name>
+  <size>Micro</size>
+  <difficulty>1</difficulty>
+  <terrain>1</terrain>
+  <last-found>2010-10-25</last-found>
+  <placed>2009-02-09</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Ubx</placedby>
+  <found>Geocache</found>
+  <lat>50.556367</lat>
+  <lon>9.637267</lon>
+  <last-logs>FFFF</last-logs>
+  <owner>ubx</owner>
+  <description>eine kleine Dose</description>
+  <long-description>hier gibt es "Leitschienen". Parkmöglichkeiten an einem Buswendeplatz , also so parken , dass ihr den Stadtbus nicht behindert. Ist eh besser ihr kommt Abends , da ist man ungestört.</long-description>
+  <encoded-hints>in der Leitplanke</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=f03145d9-35da-410b-a9a6-c172ef71ab53</url>
+  <url-name>Mobilfunkmast</url-name>
+  <logs><ul><li>2010-11-14T20:00:00Z : Found it by Luca_DA <br />Zusammen mit Fla20m bei einer Sonntag-Nachmittags-Cache-Runde mitgenommen :)
+
+TFTC</li><li>2010-11-14T20:00:00Z : Found it by Fla20m <br />Kinder haben definitiv einen Vorteil bei diesem CAche!</li><li>2010-10-31T19:00:00Z : Found it by Ma&Mic <br />Bei einer Tour nach Fulda auch bei diesem Cache erfolgreich gewesen und geloggt. Vielen Dank fürs Verstecken. Hier ist leider das Logbuch voll und müßte mal wieder ausgetauscht werden.</li><li>2010-10-27T19:00:00Z : Found it by sosgeo <br />Durch meine erste Erfahrung mit einem Leitplanken-Cache, war er schnell gefunden. [:)]
+Nur eines, es müsste eine neue Log-Rolle eingelegt werden, die "alte" ist voll und es ist schon ein Papierzettel zusätzlich drin, was noch höchstens 2 Logs aufnehmen kann. </li><li>2010-10-25T15:09:00Z : Needs Maintenance by ChrisFX <br />... das Logbuch ist proppenvoll und es fliegen schon Zusatzpapierschnipsel darin rum.
+Das kann man doch mal erwähen, warum ist mancher Cacher dazu zu faul ?
+
+This entry was edited by ChrisFX on Monday, 22 November 2010 at 02:10:05.</li></ul></logs>
+  <original-xml>  <wpt  lat="50.556367" lon="9.637267">
+    <time>2009-02-09T08:00:00Z</time>
+    <name>GC1K95A</name>
+    <desc>Mobilfunkmast by Ubx, Traditional Cache (1/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=f03145d9-35da-410b-a9a6-c172ef71ab53</url>
+    <urlname>Mobilfunkmast</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1087244" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Mobilfunkmast</groundspeak:name>
+      <groundspeak:placed_by>Ubx</groundspeak:placed_by>
+      <groundspeak:owner id="787613">ubx</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">eine kleine Dose</groundspeak:short_description>
+      <groundspeak:long_description html="False">hier gibt es "Leitschienen". Parkmöglichkeiten an einem Buswendeplatz , also so parken , dass ihr den Stadtbus nicht behindert. Ist eh besser ihr kommt Abends , da ist man ungestört.</groundspeak:long_description>
+      <groundspeak:encoded_hints>in der Leitplanke</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="136987478">
+          <groundspeak:date>2010-11-14T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3421688">Luca_DA</groundspeak:finder>
+          <groundspeak:text encoded="False">Zusammen mit Fla20m bei einer Sonntag-Nachmittags-Cache-Runde mitgenommen :)
+
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="135952070">
+          <groundspeak:date>2010-11-14T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3087275">Fla20m</groundspeak:finder>
+          <groundspeak:text encoded="False">Kinder haben definitiv einen Vorteil bei diesem CAche!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="133933685">
+          <groundspeak:date>2010-10-31T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2979644">Ma&amp;Mic</groundspeak:finder>
+          <groundspeak:text encoded="False">Bei einer Tour nach Fulda auch bei diesem Cache erfolgreich gewesen und geloggt. Vielen Dank fürs Verstecken. Hier ist leider das Logbuch voll und müßte mal wieder ausgetauscht werden.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="133327632">
+          <groundspeak:date>2010-10-27T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3898107">sosgeo</groundspeak:finder>
+          <groundspeak:text encoded="False">Durch meine erste Erfahrung mit einem Leitplanken-Cache, war er schnell gefunden. [:)]
+Nur eines, es müsste eine neue Log-Rolle eingelegt werden, die "alte" ist voll und es ist schon ein Papierzettel zusätzlich drin, was noch höchstens 2 Logs aufnehmen kann. </groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="133081541">
+          <groundspeak:date>2010-10-25T15:09:00Z</groundspeak:date>
+          <groundspeak:type>Needs Maintenance</groundspeak:type>
+          <groundspeak:finder id="2837683">ChrisFX</groundspeak:finder>
+          <groundspeak:text encoded="False">... das Logbuch ist proppenvoll und es fliegen schon Zusatzpapierschnipsel darin rum.
+Das kann man doch mal erwähen, warum ist mancher Cacher dazu zu faul ?
+
+This entry was edited by ChrisFX on Monday, 22 November 2010 at 02:10:05.</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

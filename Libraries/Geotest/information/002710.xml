@@ -1,0 +1,164 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>002710</id>
+  <cache-id>GC2A1KA</cache-id>
+  <type>Traditional Cache</type>
+  <name>Wanda Quell by Team Brot, Traditional Cache (2/3)</name>
+  <size>Small</size>
+  <difficulty>2</difficulty>
+  <terrain>3</terrain>
+  <last-found>2010-10-17</last-found>
+  <placed>2010-07-24</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Team Brot</placedby>
+  <found>Geocache</found>
+  <lat>50.486767</lat>
+  <lon>9.649917</lon>
+  <last-logs>EFFFD</last-logs>
+  <owner>Team Brot</owner>
+  <description>Früher ein beliebtes Wanderziel, heute leider etwas verkommen.</description>
+  <long-description>"Hörst du der Vögel Schall den Schöpfer Preisen, Siehst du die Bäume all zum Himmel weisen"
+
+
+Der Cache liegt an der "Wanda Quell", in der Nähe Kerzells. Früher wurde die Quelle öfters besucht, heute leider kaum noch, dementsprechend ist auch der Zustand. Trotzdem sollte dieser Ort nicht "in Vergessenheit geraten" ;-). 
+
+Die Quelle führt mal mehr, mal weniger Wasser, je nachdem wie es in letzter Zeit geregnet hat, ganz versiegt sie aber meines Wissens nach nicht. Das Wasser sollte an und für sich trinkbar sein (habe ich selbst schon oft gemacht, ohne Nachfolgen ;-)), garantieren kann ich es aber natürlich nicht. 
+
+Es gibt keinen direkten legalen Weg um mit Fahrzeugen bis an die Quelle zu kommen, man kann mit ATV´s zwar bis dran, das sollte aber zum Schutz der Natur nicht erfolgen. 
+Es gibt drei Stellen an denen man Parken kann, "am Steinberg", "an der Ziegelhütte" und "am Nüchtershof". Allerdings sind das alles keine echten Parkplätze, man kann sein Fahrzeug dort aber abstellen und den Rest des Weges zu Fuß fortsetzen. Nichts für allzu lauffaule ;-).
+
+
+
+Glückwunsch dem Erstfinder "muggel-online" :-) !
+
+Additional Waypoints
+AN2A1KA - am Nüchtershof
+N 50° 28.928 E 009° 39.401
+Hier endet der weg mit einem "Landwirtschaftlicher Verkehr frei" Schild, man erreicht den Cache über den Weg und muss nicht Querfeldein laufen.
+AS2A1KA - am Steinberg
+N 50° 29.364 E 009° 39.959
+Hier endet der weg in einem Wendehammer, dort kann man parken. Vom Wendehammer aus auf den Erdwall (vorm Wald) zugehen, dort nach links in den Wald, dort gleich wieder rechts, auf diesem Weg ist der Cache erreichbar ohne das man Querfeldeinlaufen muss.
+AZ2A1KA - an der Ziegelhütte
+N 50° 29.207 E 009° 39.795
+Hier endet der weg mit einem "Landwirtschaftlicher Verkehr frei" Schild, man erreicht den Cache über den Weg und muss nicht Querfeldein laufen.
+</long-description>
+  <encoded-hints>
+      </encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=84e3e126-e440-4f31-820b-02f79644ea5e</url>
+  <url-name>Wanda Quell</url-name>
+  <logs><ul><li>2010-11-01T15:06:12Z : Enable Listing by Team Brot <br />Gestern haben Briegel und Bernd nach dem Cache gesehen. 
+Alles in bester Ordnung. Vielen Dank an die lieben Cacher, die alles wieder hergerichtet haben. ;)
+
+Es kann also fröhlich weiter gesucht werden !
+
+Viel Spaß Chilli vom Team Brot</li><li>2010-10-17T19:00:00Z : Found it by Moonkiss89 <br />so das war mit jukebox der erste für heute...nachdem ich ihn gefunden hatte stellte ich mich die frage wie berg ich den óO na zum glück hat ich das schatzi mit der macht das schon... nach einigen versuchen glückte uns der fund auch...dann stellten wir sicher das der cache wieder instandgesetzt ist, als wir das schöne plätzchen verließen... später stellten wir fest das der cache itze doch gesperrt wurde...naja geloggt ist geloggt tftc</li><li>2010-10-17T19:00:00Z : Found it by f.etcher <br />Konnte den Cache quasi in den Händen halten. Schöne Umgebung. Schade, dass hier alles etwas verwahrlost ist. </li><li>2010-10-17T19:00:00Z : Found it by Jukebox184 <br />für heute der 1. gewesen ...anscheinend bevor er dichtgemacht wurde...hab mir so viel mühe gegeb ihn wieder herzurichten =( aber tolle idee und auch ein schönes plätzchen TFTC</li><li>2010-10-17T16:40:45Z : Temporarily Disable Listing by Team Brot <br />Der Cache muss erstmal kurz pausieren. Briegel und Bernd werden sich wahrscheinlich nächstes WE darum kümmern 
+und den Cache wieder herrichten.
+
+Bis dahin schön auf die Watchlist setzen und dann später suchen!!
+
+Chilli vom Team Brot</li></ul></logs>
+  <original-xml>  <wpt  lat="50.486767" lon="9.649917">
+    <time>2010-07-24T07:00:00Z</time>
+    <name>GC2A1KA</name>
+    <desc>Wanda Quell by Team Brot, Traditional Cache (2/3)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=84e3e126-e440-4f31-820b-02f79644ea5e</url>
+    <urlname>Wanda Quell</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1735392" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Wanda Quell</groundspeak:name>
+      <groundspeak:placed_by>Team Brot</groundspeak:placed_by>
+      <groundspeak:owner id="977118">Team Brot</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>2</groundspeak:difficulty>
+      <groundspeak:terrain>3</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">Früher ein beliebtes Wanderziel, heute leider etwas verkommen.</groundspeak:short_description>
+      <groundspeak:long_description html="False">"Hörst du der Vögel Schall den Schöpfer Preisen, Siehst du die Bäume all zum Himmel weisen"
+
+
+Der Cache liegt an der "Wanda Quell", in der Nähe Kerzells. Früher wurde die Quelle öfters besucht, heute leider kaum noch, dementsprechend ist auch der Zustand. Trotzdem sollte dieser Ort nicht "in Vergessenheit geraten" ;-). 
+
+Die Quelle führt mal mehr, mal weniger Wasser, je nachdem wie es in letzter Zeit geregnet hat, ganz versiegt sie aber meines Wissens nach nicht. Das Wasser sollte an und für sich trinkbar sein (habe ich selbst schon oft gemacht, ohne Nachfolgen ;-)), garantieren kann ich es aber natürlich nicht. 
+
+Es gibt keinen direkten legalen Weg um mit Fahrzeugen bis an die Quelle zu kommen, man kann mit ATV´s zwar bis dran, das sollte aber zum Schutz der Natur nicht erfolgen. 
+Es gibt drei Stellen an denen man Parken kann, "am Steinberg", "an der Ziegelhütte" und "am Nüchtershof". Allerdings sind das alles keine echten Parkplätze, man kann sein Fahrzeug dort aber abstellen und den Rest des Weges zu Fuß fortsetzen. Nichts für allzu lauffaule ;-).
+
+
+
+Glückwunsch dem Erstfinder "muggel-online" :-) !
+
+Additional Waypoints
+AN2A1KA - am Nüchtershof
+N 50° 28.928 E 009° 39.401
+Hier endet der weg mit einem "Landwirtschaftlicher Verkehr frei" Schild, man erreicht den Cache über den Weg und muss nicht Querfeldein laufen.
+AS2A1KA - am Steinberg
+N 50° 29.364 E 009° 39.959
+Hier endet der weg in einem Wendehammer, dort kann man parken. Vom Wendehammer aus auf den Erdwall (vorm Wald) zugehen, dort nach links in den Wald, dort gleich wieder rechts, auf diesem Weg ist der Cache erreichbar ohne das man Querfeldeinlaufen muss.
+AZ2A1KA - an der Ziegelhütte
+N 50° 29.207 E 009° 39.795
+Hier endet der weg mit einem "Landwirtschaftlicher Verkehr frei" Schild, man erreicht den Cache über den Weg und muss nicht Querfeldein laufen.
+</groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="134099498">
+          <groundspeak:date>2010-11-01T15:06:12Z</groundspeak:date>
+          <groundspeak:type>Enable Listing</groundspeak:type>
+          <groundspeak:finder id="977118">Team Brot</groundspeak:finder>
+          <groundspeak:text encoded="False">Gestern haben Briegel und Bernd nach dem Cache gesehen. 
+Alles in bester Ordnung. Vielen Dank an die lieben Cacher, die alles wieder hergerichtet haben. ;)
+
+Es kann also fröhlich weiter gesucht werden !
+
+Viel Spaß Chilli vom Team Brot</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="133997088">
+          <groundspeak:date>2010-10-17T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3910150">Moonkiss89</groundspeak:finder>
+          <groundspeak:text encoded="False">so das war mit jukebox der erste für heute...nachdem ich ihn gefunden hatte stellte ich mich die frage wie berg ich den óO na zum glück hat ich das schatzi mit der macht das schon... nach einigen versuchen glückte uns der fund auch...dann stellten wir sicher das der cache wieder instandgesetzt ist, als wir das schöne plätzchen verließen... später stellten wir fest das der cache itze doch gesperrt wurde...naja geloggt ist geloggt tftc</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="133342686">
+          <groundspeak:date>2010-10-17T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1498819">f.etcher</groundspeak:finder>
+          <groundspeak:text encoded="False">Konnte den Cache quasi in den Händen halten. Schöne Umgebung. Schade, dass hier alles etwas verwahrlost ist. </groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="131833664">
+          <groundspeak:date>2010-10-17T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3892665">Jukebox184</groundspeak:finder>
+          <groundspeak:text encoded="False">für heute der 1. gewesen ...anscheinend bevor er dichtgemacht wurde...hab mir so viel mühe gegeb ihn wieder herzurichten =( aber tolle idee und auch ein schönes plätzchen TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="131805889">
+          <groundspeak:date>2010-10-17T16:40:45Z</groundspeak:date>
+          <groundspeak:type>Temporarily Disable Listing</groundspeak:type>
+          <groundspeak:finder id="977118">Team Brot</groundspeak:finder>
+          <groundspeak:text encoded="False">Der Cache muss erstmal kurz pausieren. Briegel und Bernd werden sich wahrscheinlich nächstes WE darum kümmern 
+und den Cache wieder herrichten.
+
+Bis dahin schön auf die Watchlist setzen und dann später suchen!!
+
+Chilli vom Team Brot</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs>
+        <groundspeak:travelbug id="415519" ref="TBWQ5R">
+          <groundspeak:name>Mauison's Bailey's Nippon 2006 Geocoin</groundspeak:name>
+        </groundspeak:travelbug>
+        <groundspeak:travelbug id="1333897" ref="TB1WHTW">
+          <groundspeak:name>Wretched Skull Geocoin</groundspeak:name>
+        </groundspeak:travelbug>
+        <groundspeak:travelbug id="1849120" ref="TB2DVYZ">
+          <groundspeak:name>Caching On The Moon Geocoin</groundspeak:name>
+        </groundspeak:travelbug>
+      </groundspeak:travelbugs>
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

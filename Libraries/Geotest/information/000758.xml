@@ -1,0 +1,130 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>000758</id>
+  <cache-id>GC2BVW7</cache-id>
+  <type>Traditional Cache</type>
+  <name>Eine Floßfahrt, die ist lustig ... by BlackViking, Traditional Cache (2/1.5)</name>
+  <size>Micro</size>
+  <difficulty>2</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-11-16</last-found>
+  <placed>2010-10-04</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>BlackViking</placedby>
+  <found>Geocache</found>
+  <lat>50.54365</lat>
+  <lon>9.664283</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>BlackViking</owner>
+  <description>Der Cache befindet sich an einem Floß, dass zur Landesgartenschau 1994 gebaut wurde.</description>
+  <long-description>Der Container liegt etwas abseits, damit man ihn auch bei hohem Muggelaufkommen einigermaßen sicher finden kann. Bitte trotzdem auf eine gute Tarnung achten!
+
+Additional Waypoints
+PK2BVW7 - GC2BVW7 Parking
+N 50° 32.537 E 009° 39.936
+Großer öffentlicher Parkplatz in der Nähe des Caches.
+</long-description>
+  <encoded-hints>Mauerasseln fühlen sich hier wohl!</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=85315e0e-4a1a-42a5-b85b-3ec121453ea1</url>
+  <url-name>Eine Floßfahrt, die ist lustig ...</url-name>
+  <logs><ul><li>2010-11-25T20:00:00Z : Found it by yonex <br />Erst auch auf das offensichtliche Versteck reingefallen, aber im zweiten Griff dann doch gefunden.
+
+TFTC</li><li>2010-11-21T20:00:00Z : Found it by michael01 <br />Heute haben wir eine kleine Cache-Runde am Sonntag-Nachmittag durch Fulda gedreht.
+
+Hier wollten wir schon fast aufgeben - ein mögliches Versteck war leider leer. 
+War mit dem Floß etwa auch der Cache verschwunden?
+Nein, manchmal sollte man einfach seinem GPS vertrauen, bei genau 1m sind wir schließlich doch noch fündig geworden.
+
+Danke und viele Grüße 
+Michael01
+#3210</li><li>2010-11-19T20:00:00Z : Found it by CC! <br />#709@12.05
+
+Im mittagpause gefunden!
+
+Danke und gruss aus NL
+
+CC!-RULZ</li><li>2010-11-16T20:00:00Z : Found it by burgen13 <br />Auf dem Weg in die Innenstadt schnell gefunden. Die Mauerasseln waren wohl aufgrund des Hochwassers geflüchtet.
+Danke sagt burgen13</li><li>2010-11-16T20:00:00Z : Found it by Herzl <br />Schöner kleiner Spaziergang. Danke dafür!</li></ul></logs>
+  <original-xml>  <wpt  lat="50.54365" lon="9.664283">
+    <time>2010-10-04T07:00:00Z</time>
+    <name>GC2BVW7</name>
+    <desc>Eine Floßfahrt, die ist lustig ... by BlackViking, Traditional Cache (2/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=85315e0e-4a1a-42a5-b85b-3ec121453ea1</url>
+    <urlname>Eine Floßfahrt, die ist lustig ...</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1789453" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Eine Floßfahrt, die ist lustig ...</groundspeak:name>
+      <groundspeak:placed_by>BlackViking</groundspeak:placed_by>
+      <groundspeak:owner id="3029580">BlackViking</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>2</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">Der Cache befindet sich an einem Floß, dass zur Landesgartenschau 1994 gebaut wurde.</groundspeak:short_description>
+      <groundspeak:long_description html="False">Der Container liegt etwas abseits, damit man ihn auch bei hohem Muggelaufkommen einigermaßen sicher finden kann. Bitte trotzdem auf eine gute Tarnung achten!
+
+Additional Waypoints
+PK2BVW7 - GC2BVW7 Parking
+N 50° 32.537 E 009° 39.936
+Großer öffentlicher Parkplatz in der Nähe des Caches.
+</groundspeak:long_description>
+      <groundspeak:encoded_hints>Mauerasseln fühlen sich hier wohl!</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="137100655">
+          <groundspeak:date>2010-11-25T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1942538">yonex</groundspeak:finder>
+          <groundspeak:text encoded="False">Erst auch auf das offensichtliche Versteck reingefallen, aber im zweiten Griff dann doch gefunden.
+
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="136686242">
+          <groundspeak:date>2010-11-21T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1225681">michael01</groundspeak:finder>
+          <groundspeak:text encoded="False">Heute haben wir eine kleine Cache-Runde am Sonntag-Nachmittag durch Fulda gedreht.
+
+Hier wollten wir schon fast aufgeben - ein mögliches Versteck war leider leer. 
+War mit dem Floß etwa auch der Cache verschwunden?
+Nein, manchmal sollte man einfach seinem GPS vertrauen, bei genau 1m sind wir schließlich doch noch fündig geworden.
+
+Danke und viele Grüße 
+Michael01
+#3210</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="136334859">
+          <groundspeak:date>2010-11-19T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="582069">CC!</groundspeak:finder>
+          <groundspeak:text encoded="False">#709@12.05
+
+Im mittagpause gefunden!
+
+Danke und gruss aus NL
+
+CC!-RULZ</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="136158195">
+          <groundspeak:date>2010-11-16T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2887618">burgen13</groundspeak:finder>
+          <groundspeak:text encoded="False">Auf dem Weg in die Innenstadt schnell gefunden. Die Mauerasseln waren wohl aufgrund des Hochwassers geflüchtet.
+Danke sagt burgen13</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="136090223">
+          <groundspeak:date>2010-11-16T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1970181">Herzl</groundspeak:finder>
+          <groundspeak:text encoded="False">Schöner kleiner Spaziergang. Danke dafür!</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

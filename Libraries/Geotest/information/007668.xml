@@ -1,0 +1,122 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>007668</id>
+  <cache-id>GC2DT7R</cache-id>
+  <type>Traditional Cache</type>
+  <name>Luxilvae by Camuvlash, Traditional Cache (1.5/1.5)</name>
+  <size>Micro</size>
+  <difficulty>1.5</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-10-30</last-found>
+  <placed>2010-08-21</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Camuvlash</placedby>
+  <found>Geocache</found>
+  <lat>50.488817</lat>
+  <lon>9.703733</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>Camuvlash</owner>
+  <description>Ein Teich wie eine Wiese. Bitte außen herum gehen, nicht schwimmen ;-)
+
+Vorsicht: Der Cache ist OHNE Überquerung von Autobahn und Eisenbahnschienen erreichbar!
+
+Parken am Wertstoffhof/Eichenzell
+
+- - - - - - - - - - -
+
+The cache is hidden beside a little lake.
+Do not swim! Just walk around.
+
+Caution:  You can reach the cache without crossing any motorway or railway.
+
+Parking at Wertstoffhof/Eichenzell</description>
+  <long-description>
+      </long-description>
+  <encoded-hints>Baum / Tree</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=4bb0f5f8-be16-4e8e-b0d7-d93b6e3da284</url>
+  <url-name>Luxilvae</url-name>
+  <logs><ul><li>2010-11-28T20:00:00Z : Found it by schwap <br />Nach babysitten noch ne kleine nachtrunde von 7 caches gedreht. hat spass gemacht. TFTC</li><li>2010-11-04T19:00:00Z : Found it by Ivy69 <br />Gut gefunden,schöner Ort....wäre vielleicht auch was für ein größeres Döschen. TFTC</li><li>2010-11-04T19:00:00Z : Found it by Svegar <br />Gut gefunden. Ein schönes Plätzchen hier.
+
+TFTC</li><li>2010-10-31T19:00:00Z : Found it by f.etcher <br />Gut gefunden. tftc</li><li>2010-10-30T19:00:00Z : Found it by Bosi1964 <br />Heute auf einer großen Fahrradtour unter anderem die Brückenqueste abgeradelt und die Zahlen für den Bonus gesammelt. Mit dem Hint schnell gefunden.
+TFTC
+Bosi
+# 1659</li></ul></logs>
+  <original-xml>  <wpt  lat="50.488817" lon="9.703733">
+    <time>2010-08-21T07:00:00Z</time>
+    <name>GC2DT7R</name>
+    <desc>Luxilvae by Camuvlash, Traditional Cache (1.5/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=4bb0f5f8-be16-4e8e-b0d7-d93b6e3da284</url>
+    <urlname>Luxilvae</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1847471" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Luxilvae</groundspeak:name>
+      <groundspeak:placed_by>Camuvlash</groundspeak:placed_by>
+      <groundspeak:owner id="2724623">Camuvlash</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">Ein Teich wie eine Wiese. Bitte außen herum gehen, nicht schwimmen ;-)
+
+Vorsicht: Der Cache ist OHNE Überquerung von Autobahn und Eisenbahnschienen erreichbar!
+
+Parken am Wertstoffhof/Eichenzell
+
+- - - - - - - - - - -
+
+The cache is hidden beside a little lake.
+Do not swim! Just walk around.
+
+Caution:  You can reach the cache without crossing any motorway or railway.
+
+Parking at Wertstoffhof/Eichenzell</groundspeak:short_description>
+      <groundspeak:long_description html="False">
+      </groundspeak:long_description>
+      <groundspeak:encoded_hints>Baum / Tree</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="137384917">
+          <groundspeak:date>2010-11-28T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3060114">schwap</groundspeak:finder>
+          <groundspeak:text encoded="False">Nach babysitten noch ne kleine nachtrunde von 7 caches gedreht. hat spass gemacht. TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="134553868">
+          <groundspeak:date>2010-11-04T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3091672">Ivy69</groundspeak:finder>
+          <groundspeak:text encoded="False">Gut gefunden,schöner Ort....wäre vielleicht auch was für ein größeres Döschen. TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="134457280">
+          <groundspeak:date>2010-11-04T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3056833">Svegar</groundspeak:finder>
+          <groundspeak:text encoded="False">Gut gefunden. Ein schönes Plätzchen hier.
+
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="133828271">
+          <groundspeak:date>2010-10-31T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1498819">f.etcher</groundspeak:finder>
+          <groundspeak:text encoded="False">Gut gefunden. tftc</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="133736713">
+          <groundspeak:date>2010-10-30T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2308415">Bosi1964</groundspeak:finder>
+          <groundspeak:text encoded="False">Heute auf einer großen Fahrradtour unter anderem die Brückenqueste abgeradelt und die Zahlen für den Bonus gesammelt. Mit dem Hint schnell gefunden.
+TFTC
+Bosi
+# 1659</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

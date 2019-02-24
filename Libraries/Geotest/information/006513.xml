@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>006513</id>
+  <cache-id>S1276X3</cache-id>
+  <type>Waypoint</type>
+  <name>Stage 1</name>
+  <placed>2010-04-21</placed>
+  <lat>50.5518</lat>
+  <lon>9.7379</lon>
+  <attributes>hidden</attributes>
+  <description>Zähle alle Textzeilen ( die Zahl auch als Zeile zählen! ) an dem Sockelquader = A  
+Zähle die Stacheldrahtreihen des Weidezaunes = B 
+Zähle die Anzahl der Sitzgelegenheiten = C</description>
+  <url>http://www.geocaching.com/seek/wpt.aspx?WID=b90017d3-ba64-4b3b-8984-f52e613dfa2d</url>
+  <url-name>Stage 1</url-name>
+</element>
+</celsiusv2.1.addinfofile>

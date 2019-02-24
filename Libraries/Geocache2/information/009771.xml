@@ -1,0 +1,126 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>009771</id>
+  <cache-id>GC1KHXX</cache-id>
+  <type>Unknown Cache</type>
+  <name>Hands On by AbbeyAckbar, Unknown Cache (3/1)</name>
+  <size>Micro</size>
+  <difficulty>3</difficulty>
+  <terrain>1</terrain>
+  <last-found>2010-02-07</last-found>
+  <placed>2009-06-06</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>AbbeyAckbar</placedby>
+  <found>Geocache Found</found>
+  <lat>53.3375</lat>
+  <lon>-6.227</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>AbbeyAckbar</owner>
+  <description><center><b>The above co-ordinates are for reference only. Cache
+contains log only.</b></center></description>
+  <long-description><center>
+<img src="http://img.geocaching.com/cache/2031de72-e06f-4aa8-a37f-7b117a58d94a.jpg" />
+</center>
+Click on the link below to see if you have the right
+co-ordinates:<br />
+<a href="http://geocheck.org/geo_inputchkcoord.php?gid=4206849723c78-c4b5-49e3-8310-9758dd3dfe63">
+<img src="http://geocheck.org/geocheck_small.php?gid=4206849723c78-c4b5-49e3-8310-9758dd3dfe63"
+     title="Check your solution" border="0" /></a></long-description>
+  <encoded-hints>
+      </encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=8d09ba91-b0fc-4787-bbe7-75df8052cd1b</url>
+  <url-name>Hands On</url-name>
+  <logs><ul><li>2010-05-15T19:00:00Z : Found it by Sally&eL <br />15:36 #579
+
+Second time lucky. Interesting architecture.
+
+TFTC
+</li><li>2010-04-03T19:00:00Z : Found it by EdwardsClan <br />Found while out caching with Kersti.com
+TFTC</li><li>2010-04-03T19:00:00Z : Found it by Kersti.com <br />Have had the co-ords for a while now, but never got around to getting this one. As we approached the ground zero I reached out my hand as I was saying "I'm thinking it's probably here" and put my hand straight on it. A nice easy cache :) EdwardsClan's second and my first loggable find for the day</li><li>2010-04-03T19:00:00Z : Found it by dottigross <br />Nice area. Very interesting. 
+
+TFTC dottigross</li><li>2010-02-07T20:00:00Z : Found it by Zoe andDaddy <br />Found while out for a full day caching with Mr Frezeluberz. 23/51
+
+Nice puzzle
+
+Thanks</li></ul></logs>
+  <original-xml>  <wpt  lat="53.3375" lon="-6.227">
+    <time>2009-06-06T07:00:00Z</time>
+    <name>GC1KHXX</name>
+    <desc>Hands On by AbbeyAckbar, Unknown Cache (3/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=8d09ba91-b0fc-4787-bbe7-75df8052cd1b</url>
+    <urlname>Hands On</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Unknown Cache</type>
+    <groundspeak:cache id="1095663" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Hands On</groundspeak:name>
+      <groundspeak:placed_by>AbbeyAckbar</groundspeak:placed_by>
+      <groundspeak:owner id="1265839">AbbeyAckbar</groundspeak:owner>
+      <groundspeak:type>Unknown Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>3</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>Dublin</groundspeak:state>
+      <groundspeak:short_description html="True">&lt;center&gt;&lt;b&gt;The above co-ordinates are for reference only. Cache
+contains log only.&lt;/b&gt;&lt;/center&gt;</groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;center&gt;
+&lt;img src="http://img.geocaching.com/cache/2031de72-e06f-4aa8-a37f-7b117a58d94a.jpg" /&gt;
+&lt;/center&gt;
+Click on the link below to see if you have the right
+co-ordinates:&lt;br /&gt;
+&lt;a href="http://geocheck.org/geo_inputchkcoord.php?gid=4206849723c78-c4b5-49e3-8310-9758dd3dfe63"&gt;
+&lt;img src="http://geocheck.org/geocheck_small.php?gid=4206849723c78-c4b5-49e3-8310-9758dd3dfe63"
+     title="Check your solution" border="0" /&gt;&lt;/a&gt;&lt;p&gt;Additional Waypoints&lt;/p&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="108989044">
+          <groundspeak:date>2010-05-15T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1466841">Sally&amp;eL</groundspeak:finder>
+          <groundspeak:text encoded="False">15:36 #579
+
+Second time lucky. Interesting architecture.
+
+TFTC
+</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="102615661">
+          <groundspeak:date>2010-04-03T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="327206">EdwardsClan</groundspeak:finder>
+          <groundspeak:text encoded="False">Found while out caching with Kersti.com
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="102285172">
+          <groundspeak:date>2010-04-03T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="320206">Kersti.com</groundspeak:finder>
+          <groundspeak:text encoded="False">Have had the co-ords for a while now, but never got around to getting this one. As we approached the ground zero I reached out my hand as I was saying "I'm thinking it's probably here" and put my hand straight on it. A nice easy cache :) EdwardsClan's second and my first loggable find for the day</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="102186853">
+          <groundspeak:date>2010-04-03T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="629033">dottigross</groundspeak:finder>
+          <groundspeak:text encoded="False">Nice area. Very interesting. 
+
+TFTC dottigross</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="96951125">
+          <groundspeak:date>2010-02-07T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2600627">Zoe andDaddy</groundspeak:finder>
+          <groundspeak:text encoded="False">Found while out for a full day caching with Mr Frezeluberz. 23/51
+
+Nice puzzle
+
+Thanks</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

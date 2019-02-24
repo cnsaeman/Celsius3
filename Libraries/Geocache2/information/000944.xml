@@ -1,0 +1,117 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>000944</id>
+  <cache-id>GC21M3J</cache-id>
+  <type>Unknown Cache</type>
+  <name>Goodbye, Windsock... by toczygroszek, Unknown Cache (5/2)</name>
+  <size>Not chosen</size>
+  <difficulty>5</difficulty>
+  <terrain>2</terrain>
+  <last-found>never</last-found>
+  <placed>2009-12-06</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>toczygroszek</placedby>
+  <found>Geocache</found>
+  <lat>53.525833</lat>
+  <lon>-6.085833</lon>
+  <last-logs></last-logs>
+  <owner>toczygroszek</owner>
+  <description><center><font color="red"><b>Attention!!!</b></font></center>
+<p align="justify"><font color="red">The cache IS NOT at listed
+coordinates! To find the cache you have to figure out puzzle
+below.</font></p></description>
+  <long-description><p align="justify">I've been to Rush many times, mostly looking for
+geocaches, and that was very enjoyable even when I didn't find any,
+because this is very nice area. And there has always been the red
+windsock blowing friendly on the top of high mast. But last month I
+realized the windsock disappeared... I was very disappointed, so
+here is the cache to commemorate this windsock.<br />
+<br />
+The listed coordinates are pointing only the general area where the
+windsock used to be. To find the cache you have to solve the puzzle
+below:</p>
+<br />
+ 
+<center>
+<img src="http://img.geocaching.com/cache/7c60e2ba-c845-4000-b16a-d181970b074a.jpg" />
+</center>
+<br />
+ Enjoy! <br />
+<br />
+<a href="http://s05.flagcounter.com/more/LZJp"><img src="http://s05.flagcounter.com/count/LZJp/bg=FFFFFF/txt=000000/border=CCCCCC/columns=6/maxflags=248/viewers=0/labels=1/pageviews=1/"
+     alt="free counters" border="0" /></a></long-description>
+  <encoded-hints>sign</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=314af0fd-802a-4af7-a272-d8a90421489b</url>
+  <url-name>Goodbye, Windsock...</url-name>
+  <logs><ul><li>2009-12-11T10:30:57Z : Update Coordinates by toczygroszek <br />** Coordinates Changed From **
+N 53° 31.550 W 006° 05.190
+Distance From Old: 144.7 feet
+Bogus coordinates changed at kindly landowner's request</li><li>2009-12-07T07:39:13Z : Publish Listing by Croaghan <br />Published</li></ul></logs>
+  <original-xml>  <wpt  lat="53.525833" lon="-6.085833">
+    <time>2009-12-06T08:00:00Z</time>
+    <name>GC21M3J</name>
+    <desc>Goodbye, Windsock... by toczygroszek, Unknown Cache (5/2)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=314af0fd-802a-4af7-a272-d8a90421489b</url>
+    <urlname>Goodbye, Windsock...</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Unknown Cache</type>
+    <groundspeak:cache id="1485044" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Goodbye, Windsock...</groundspeak:name>
+      <groundspeak:placed_by>toczygroszek</groundspeak:placed_by>
+      <groundspeak:owner id="1429023">toczygroszek</groundspeak:owner>
+      <groundspeak:type>Unknown Cache</groundspeak:type>
+      <groundspeak:container>Not chosen</groundspeak:container>
+      <groundspeak:difficulty>5</groundspeak:difficulty>
+      <groundspeak:terrain>2</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>Leinster</groundspeak:state>
+      <groundspeak:short_description html="True">&lt;center&gt;&lt;font color="red"&gt;&lt;b&gt;Attention!!!&lt;/b&gt;&lt;/font&gt;&lt;/center&gt;
+&lt;p align="justify"&gt;&lt;font color="red"&gt;The cache IS NOT at listed
+coordinates! To find the cache you have to figure out puzzle
+below.&lt;/font&gt;&lt;/p&gt;</groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;p align="justify"&gt;I've been to Rush many times, mostly looking for
+geocaches, and that was very enjoyable even when I didn't find any,
+because this is very nice area. And there has always been the red
+windsock blowing friendly on the top of high mast. But last month I
+realized the windsock disappeared... I was very disappointed, so
+here is the cache to commemorate this windsock.&lt;br /&gt;
+&lt;br /&gt;
+The listed coordinates are pointing only the general area where the
+windsock used to be. To find the cache you have to solve the puzzle
+below:&lt;/p&gt;
+&lt;br /&gt;
+ 
+&lt;center&gt;
+&lt;img src="http://img.geocaching.com/cache/7c60e2ba-c845-4000-b16a-d181970b074a.jpg" /&gt;
+&lt;/center&gt;
+&lt;br /&gt;
+ Enjoy! &lt;br /&gt;
+&lt;br /&gt;
+&lt;a href="http://s05.flagcounter.com/more/LZJp"&gt;&lt;img src="http://s05.flagcounter.com/count/LZJp/bg=FFFFFF/txt=000000/border=CCCCCC/columns=6/maxflags=248/viewers=0/labels=1/pageviews=1/"
+     alt="free counters" border="0" /&gt;&lt;/a&gt;&lt;p&gt;Additional Waypoints&lt;/p&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>sign</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="92626484">
+          <groundspeak:date>2009-12-11T10:30:57Z</groundspeak:date>
+          <groundspeak:type>Update Coordinates</groundspeak:type>
+          <groundspeak:finder id="1429023">toczygroszek</groundspeak:finder>
+          <groundspeak:text encoded="False">** Coordinates Changed From **
+N 53° 31.550 W 006° 05.190
+Distance From Old: 144.7 feet
+Bogus coordinates changed at kindly landowner's request</groundspeak:text>
+          <groundspeak:log_wpt lat="53.525833" lon="-6.085833" />
+        </groundspeak:log>
+        <groundspeak:log id="92423114">
+          <groundspeak:date>2009-12-07T07:39:13Z</groundspeak:date>
+          <groundspeak:type>Publish Listing</groundspeak:type>
+          <groundspeak:finder id="1256091">Croaghan</groundspeak:finder>
+          <groundspeak:text encoded="False">Published</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

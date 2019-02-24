@@ -1,0 +1,152 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>003687</id>
+  <cache-id>GC1K2QM</cache-id>
+  <type>Traditional Cache</type>
+  <name>Monkstown Castle by Hezekiah, Traditional Cache (1/1)</name>
+  <size>Micro</size>
+  <difficulty>1</difficulty>
+  <terrain>1</terrain>
+  <last-found>2010-06-12</last-found>
+  <placed>2008-12-23</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>Hezekiah</placedby>
+  <found>Geocache</found>
+  <lat>53.289133</lat>
+  <lon>-6.1506</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>Hezekiah</owner>
+  <description><p align="center"><a target="_blank"
+href="http://www.geocachingireland.com/index.html"><img border="0"
+src="http://img.geocaching.com/cache/2280ab19-c5fc-4d33-8efb-797df9c0ac8c.jpg"
+     width="150" height="43" align="middle" /></a></p>
+<hr size="2" />
+<center><font color="Green">Visit the <b>new</b> Geocaching Ireland
+discussion forum <a href="http://www.mccartan.org/forums/"
+target="_blank">HERE</a></font></center>
+<hr size="2" /></description>
+  <long-description>In 1539, King Henry VIII awarded the Monkstown lands to Sir John
+Travers, Master of the Ordnance in Ireland. John Travers lived in
+his Castle at Monkstown from 1557 to his death in 1562 and buried
+in the Carrickbrennan graveyard where the property fell to James
+Eustace 3rd Viscount Baltinglass through his marriage to Mary
+Travers. In 1580, the Castle was used as a rebellion stronghold
+when it was awarded to Sir Henry Wallop the Vice Treasurer of
+Ireland. The lands were later returned to Mary, widow Baltinglass
+who later married Gerald Alymer. On her death in 1610 the Castle
+was transferred to the Chevers family through the marriage of Mary
+Travers's sister Catherine to John Chevers, and the property passed
+directly to his second son Henry Chevers, who married Catherine,
+daughter of Sir Richard Fitzwilliam. Henry and Catherine Chevers
+lived with their four children (Walter, Thomas, Patrick, Margaret).
+Upon the death of Henry in 1640, the castle and lands were passed
+to Walter Cheevers. Walter and family were given command to vacate
+Monkstown in 1653 by the Cromwellian Commissioners, and
+transplanted to Killyan, County Galway. In 1660, Walter Cheevers
+was restored to his estate at Monkstown Castle, until his death in
+1678. Monkstown was later purchased by Bishop of Armagh Michael
+Boyle where his son enlarged the castle making it one of the finest
+residences. The Shivers family of America trace their lineage to
+Thomas Chevers brother of Walter Chevers of Monkstown, through the
+Cromwellian warrant, authorized on 26 November 1653 for Captain
+John Whittey to transport the Thomas Chevers family to America.
+<p></p></long-description>
+  <encoded-hints>Read all about it!</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=63a9a02a-4a07-4e7f-b99b-54c6485e4160</url>
+  <url-name>Monkstown Castle</url-name>
+  <logs><ul><li>2010-06-15T13:56:33Z : Found it by backen1 <br />TFTC</li><li>2010-06-13T10:51:41Z : Found it by Simotaniously <br />Found it straight away. Even at night. </li><li>2010-06-12T19:00:00Z : Found it by BlueFoxPL <br />Another great day for caching... found with some friends. TFTC.</li><li>2010-06-12T19:00:00Z : Found it by Wicca Cailín <br />Great little container, nicely made! TFTC.</li><li>2010-06-12T19:00:00Z : Found it by colmyster <br />Found this at midnight on the button. Nice location...
+TFTC    TNLN</li></ul></logs>
+  <original-xml>  <wpt  lat="53.289133" lon="-6.1506">
+    <time>2008-12-23T08:00:00Z</time>
+    <name>GC1K2QM</name>
+    <desc>Monkstown Castle by Hezekiah, Traditional Cache (1/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=63a9a02a-4a07-4e7f-b99b-54c6485e4160</url>
+    <urlname>Monkstown Castle</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1081085" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Monkstown Castle</groundspeak:name>
+      <groundspeak:placed_by>Hezekiah</groundspeak:placed_by>
+      <groundspeak:owner id="274644">Hezekiah</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>Dublin</groundspeak:state>
+      <groundspeak:short_description html="True">&lt;p align="center"&gt;&lt;a target="_blank"
+href="http://www.geocachingireland.com/index.html"&gt;&lt;img border="0"
+src="http://img.geocaching.com/cache/2280ab19-c5fc-4d33-8efb-797df9c0ac8c.jpg"
+     width="150" height="43" align="middle" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;hr size="2" /&gt;
+&lt;center&gt;&lt;font color="Green"&gt;Visit the &lt;b&gt;new&lt;/b&gt; Geocaching Ireland
+discussion forum &lt;a href="http://www.mccartan.org/forums/"
+target="_blank"&gt;HERE&lt;/a&gt;&lt;/font&gt;&lt;/center&gt;
+&lt;hr size="2" /&gt;</groundspeak:short_description>
+      <groundspeak:long_description html="True">In 1539, King Henry VIII awarded the Monkstown lands to Sir John
+Travers, Master of the Ordnance in Ireland. John Travers lived in
+his Castle at Monkstown from 1557 to his death in 1562 and buried
+in the Carrickbrennan graveyard where the property fell to James
+Eustace 3rd Viscount Baltinglass through his marriage to Mary
+Travers. In 1580, the Castle was used as a rebellion stronghold
+when it was awarded to Sir Henry Wallop the Vice Treasurer of
+Ireland. The lands were later returned to Mary, widow Baltinglass
+who later married Gerald Alymer. On her death in 1610 the Castle
+was transferred to the Chevers family through the marriage of Mary
+Travers's sister Catherine to John Chevers, and the property passed
+directly to his second son Henry Chevers, who married Catherine,
+daughter of Sir Richard Fitzwilliam. Henry and Catherine Chevers
+lived with their four children (Walter, Thomas, Patrick, Margaret).
+Upon the death of Henry in 1640, the castle and lands were passed
+to Walter Cheevers. Walter and family were given command to vacate
+Monkstown in 1653 by the Cromwellian Commissioners, and
+transplanted to Killyan, County Galway. In 1660, Walter Cheevers
+was restored to his estate at Monkstown Castle, until his death in
+1678. Monkstown was later purchased by Bishop of Armagh Michael
+Boyle where his son enlarged the castle making it one of the finest
+residences. The Shivers family of America trace their lineage to
+Thomas Chevers brother of Walter Chevers of Monkstown, through the
+Cromwellian warrant, authorized on 26 November 1653 for Captain
+John Whittey to transport the Thomas Chevers family to America.
+&lt;p&gt;&lt;/p&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>Read all about it!</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="112988716">
+          <groundspeak:date>2010-06-15T13:56:33Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3005853">backen1</groundspeak:finder>
+          <groundspeak:text encoded="False">TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="112634182">
+          <groundspeak:date>2010-06-13T10:51:41Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3234270">Simotaniously</groundspeak:finder>
+          <groundspeak:text encoded="False">Found it straight away. Even at night. </groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="113118875">
+          <groundspeak:date>2010-06-12T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3361446">BlueFoxPL</groundspeak:finder>
+          <groundspeak:text encoded="False">Another great day for caching... found with some friends. TFTC.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="112595627">
+          <groundspeak:date>2010-06-12T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3215858">Wicca Cailín</groundspeak:finder>
+          <groundspeak:text encoded="False">Great little container, nicely made! TFTC.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="112585386">
+          <groundspeak:date>2010-06-12T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1495386">colmyster</groundspeak:finder>
+          <groundspeak:text encoded="False">Found this at midnight on the button. Nice location...
+TFTC    TNLN</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

@@ -1,0 +1,184 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>001873</id>
+  <cache-id>GC27MX4</cache-id>
+  <type>Unknown Cache</type>
+  <name>Einschulungstest by f.etcher, Unknown Cache (4/2)</name>
+  <size>Micro</size>
+  <difficulty>4</difficulty>
+  <terrain>2</terrain>
+  <last-found>2010-09-21</last-found>
+  <placed>2010-05-01</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>f.etcher</placedby>
+  <found>Geocache</found>
+  <lat>50.513917</lat>
+  <lon>9.76225</lon>
+  <last-logs>WFFFF</last-logs>
+  <owner>f.etcher</owner>
+  <description>
+      </description>
+  <long-description>Hallo und Willkommen in der Schule!
+
+Euer heutiger Stundenplan sieht wie folgt aus:
+
+1. Stunde:	Spiel und Spaß 
+2. Stunde: 	Mathematik und Logik
+3. Stunde: 	Geografie
+4. Stunde: 	Politik
+5. Stunde: 	Chemie
+6. Stunde: 	Deutsch 
+7. Stunde:	Englisch
+8. Stunde: 	Sport
+
+Zunächst müsst ihr jedoch den kurzen Einschulungstest über euch ergehen lassen. Besteht ihr diesen, dürft ihr am Schultag teilnehmen. 
+
+Findet die Lösungswörter heraus:
+
+Öpjrösmf ,xdzrtord
+
+Anschließend müsst ihr die Buchstaben in bekannter Weise in Zahlen umwandeln und dann mit folgender Formel die Koordinate errechnen:
+
+N50°30.(1. + 2. + 8. + 17. Buchstabe)* 2. Buchstabe
+E009°45.(3. + 5. + 15. Buchstabe)* 12. Buchstabe + 6. Buchstabe
+
+
+Der Schulbus kann bei N50°30.835  E009°45.735 geparkt werden.
+
+
+PS: Am heutigen Schultag wird in jeder Stunde eine Klausur zu schreiben sein, um an der jeweils nächsten Stunde teilnehmen zu können. Daher ist euer Allgemeinwissen gefragt. Alternativ könnt ihr auch aufs Internet zugreifen, eine hilfsbereite Person anrufen oder (im Notfall) die Koordinaten der Antwortmöglichkeiten (wenn vorgegeben) ablaufen. Und wenn ihr trotz allem nicht weiterkommt, haben ja einige von Euch meine Handynummer. Scheut dann nicht mich anzurufen- ich helfe weiter, wenn ich kann. 
+
+Es ist nicht von Nachteil, wenn ihr ein Schulheft und ein Mäppchen mit Stiften mitnehmt. 
+
+Und spicken ist nicht - ansonsten gibt´s ne Einladung zum Nachsitzen (6. Stunde)!  
+
+Ach, und wer ne Schulpause benötigt, kann (so wurde mir gesagt) dies im Wiesenhaus machen und dort selbst gebackanen Kuchen essen. Nach insgesamt fünf Kilometern (vom Einschulungstest bis zur 8. Schulstunde) und ca. 2 Stunden Dauer kann man ja schon mal Hunger haben. ;)
+
+Additional Waypoints
+ET27MX4 - Einschulungstest
+N/S  __ ° __ . ___ W/E ___ ° __ . ___ 
+
+</long-description>
+  <encoded-hints>nird nettim- lezruW renie na thcin, muaB menie ieb thcin</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=fe2ee2a9-c301-4457-8856-620470c54a7c</url>
+  <url-name>Einschulungstest</url-name>
+  <logs><ul><li>2010-10-11T19:00:00Z : Write note by HubiFD <br />Coin nachgeloggt.
+
+Gruß Hubi</li><li>2010-10-11T19:00:00Z : Found it by HubiFD <br />Heute noch die restlichen Schulstunden absolviert um die Serie abzuschließen.
+Zusammen mit Maluma auf tour gewesen.
+TFTC Gruß Hubi</li><li>2010-10-11T19:00:00Z : Found it by Maluma <br />Heute bei bestem Wetter zusammen mit HubiFD gelöst und gefunden
+
+TFTC MALUMA</li><li>2010-10-09T19:00:00Z : Found it by Camuvlash <br />Test dank Tipp von f.etcher bestanden.
+Ein Logbuch war leider nicht darin.
+TFTC</li><li>2010-09-21T19:00:00Z : Found it by Dagosch <br />Mit Mamomi heute nochmal die Schulbank gedrückt!!! Es war ein herrlicher Morgen, den man wirklich ausnutzen musste. Bin auch mal so frei und logge einen "Found it" obwohl nix da war. Falls der Owner ein Beweisfoto benötigt, könnte ich liefern. Insofern schon mal schönen Dank!
+Dagosch</li></ul></logs>
+  <original-xml>  <wpt  lat="50.513917" lon="9.76225">
+    <time>2010-05-01T07:00:00Z</time>
+    <name>GC27MX4</name>
+    <desc>Einschulungstest by f.etcher, Unknown Cache (4/2)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=fe2ee2a9-c301-4457-8856-620470c54a7c</url>
+    <urlname>Einschulungstest</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Unknown Cache</type>
+    <groundspeak:cache id="1664551" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Einschulungstest</groundspeak:name>
+      <groundspeak:placed_by>f.etcher</groundspeak:placed_by>
+      <groundspeak:owner id="1498819">f.etcher</groundspeak:owner>
+      <groundspeak:type>Unknown Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>4</groundspeak:difficulty>
+      <groundspeak:terrain>2</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">
+      </groundspeak:short_description>
+      <groundspeak:long_description html="False">Hallo und Willkommen in der Schule!
+
+Euer heutiger Stundenplan sieht wie folgt aus:
+
+1. Stunde:	Spiel und Spaß 
+2. Stunde: 	Mathematik und Logik
+3. Stunde: 	Geografie
+4. Stunde: 	Politik
+5. Stunde: 	Chemie
+6. Stunde: 	Deutsch 
+7. Stunde:	Englisch
+8. Stunde: 	Sport
+
+Zunächst müsst ihr jedoch den kurzen Einschulungstest über euch ergehen lassen. Besteht ihr diesen, dürft ihr am Schultag teilnehmen. 
+
+Findet die Lösungswörter heraus:
+
+Öpjrösmf ,xdzrtord
+
+Anschließend müsst ihr die Buchstaben in bekannter Weise in Zahlen umwandeln und dann mit folgender Formel die Koordinate errechnen:
+
+N50°30.(1. + 2. + 8. + 17. Buchstabe)* 2. Buchstabe
+E009°45.(3. + 5. + 15. Buchstabe)* 12. Buchstabe + 6. Buchstabe
+
+
+Der Schulbus kann bei N50°30.835  E009°45.735 geparkt werden.
+
+
+PS: Am heutigen Schultag wird in jeder Stunde eine Klausur zu schreiben sein, um an der jeweils nächsten Stunde teilnehmen zu können. Daher ist euer Allgemeinwissen gefragt. Alternativ könnt ihr auch aufs Internet zugreifen, eine hilfsbereite Person anrufen oder (im Notfall) die Koordinaten der Antwortmöglichkeiten (wenn vorgegeben) ablaufen. Und wenn ihr trotz allem nicht weiterkommt, haben ja einige von Euch meine Handynummer. Scheut dann nicht mich anzurufen- ich helfe weiter, wenn ich kann. 
+
+Es ist nicht von Nachteil, wenn ihr ein Schulheft und ein Mäppchen mit Stiften mitnehmt. 
+
+Und spicken ist nicht - ansonsten gibt´s ne Einladung zum Nachsitzen (6. Stunde)!  
+
+Ach, und wer ne Schulpause benötigt, kann (so wurde mir gesagt) dies im Wiesenhaus machen und dort selbst gebackanen Kuchen essen. Nach insgesamt fünf Kilometern (vom Einschulungstest bis zur 8. Schulstunde) und ca. 2 Stunden Dauer kann man ja schon mal Hunger haben. ;)
+
+Additional Waypoints
+ET27MX4 - Einschulungstest
+N/S  __ ° __ . ___ W/E ___ ° __ . ___ 
+
+</groundspeak:long_description>
+      <groundspeak:encoded_hints>nird nettim- lezruW renie na thcin, muaB menie ieb thcin</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="133431031">
+          <groundspeak:date>2010-10-11T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Write note</groundspeak:type>
+          <groundspeak:finder id="2729325">HubiFD</groundspeak:finder>
+          <groundspeak:text encoded="False">Coin nachgeloggt.
+
+Gruß Hubi</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="130898665">
+          <groundspeak:date>2010-10-11T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2729325">HubiFD</groundspeak:finder>
+          <groundspeak:text encoded="False">Heute noch die restlichen Schulstunden absolviert um die Serie abzuschließen.
+Zusammen mit Maluma auf tour gewesen.
+TFTC Gruß Hubi</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="130894903">
+          <groundspeak:date>2010-10-11T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1380311">Maluma</groundspeak:finder>
+          <groundspeak:text encoded="False">Heute bei bestem Wetter zusammen mit HubiFD gelöst und gefunden
+
+TFTC MALUMA</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="130306368">
+          <groundspeak:date>2010-10-09T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2724623">Camuvlash</groundspeak:finder>
+          <groundspeak:text encoded="False">Test dank Tipp von f.etcher bestanden.
+Ein Logbuch war leider nicht darin.
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="127906969">
+          <groundspeak:date>2010-09-21T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="374782">Dagosch</groundspeak:finder>
+          <groundspeak:text encoded="False">Mit Mamomi heute nochmal die Schulbank gedrückt!!! Es war ein herrlicher Morgen, den man wirklich ausnutzen musste. Bin auch mal so frei und logge einen "Found it" obwohl nix da war. Falls der Owner ein Beweisfoto benötigt, könnte ich liefern. Insofern schon mal schönen Dank!
+Dagosch</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

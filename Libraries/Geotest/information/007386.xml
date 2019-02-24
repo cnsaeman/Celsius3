@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>007386</id>
+  <cache-id>GCMGYB</cache-id>
+  <type>Traditional Cache</type>
+  <name>Wasserhaus Steinhaus by webfraggle, Traditional Cache (1/1)</name>
+  <size>Micro</size>
+  <difficulty>1</difficulty>
+  <terrain>1</terrain>
+  <last-found>2010-09-19</last-found>
+  <placed>2005-01-16</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>webfraggle</placedby>
+  <found>Geocache</found>
+  <lat>50.5995</lat>
+  <lon>9.758533</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>webfraggle</owner>
+  <description>Nun auch von uns ein kleiner Wasserhauscache.</description>
+  <long-description>
+      </long-description>
+  <encoded-hints>Unter einer Steinplatte</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=224dd7d6-5f75-4eca-9319-f0b71750025d</url>
+  <url-name>Wasserhaus Steinhaus</url-name>
+  <logs><ul><li>2010-11-20T20:00:00Z : Found it by digger09 <br />bei einer runde durch die vorderhön  gefunden
+dfdc</li><li>2010-10-22T21:47:23Z : Found it by geezie <br />Schnell und einfach gefunden</li><li>2010-10-21T19:00:00Z : Found it by Riesemils <br />Schnell gefunden.</li><li>2010-10-03T19:00:00Z : Found it by sema2505 <br />Auf unserer Cache Tour im Team mit mherber gut und schnell gefunden! Besten Dank fürs Verstecken!! </li><li>2010-09-19T19:00:00Z : Found it by super sunshine <br />Cache schnell gefunden. Danke und Grüße</li></ul></logs>
+  <original-xml>  <wpt  lat="50.5995" lon="9.758533">
+    <time>2005-01-16T08:00:00Z</time>
+    <name>GCMGYB</name>
+    <desc>Wasserhaus Steinhaus by webfraggle, Traditional Cache (1/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=224dd7d6-5f75-4eca-9319-f0b71750025d</url>
+    <urlname>Wasserhaus Steinhaus</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="200986" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Wasserhaus Steinhaus</groundspeak:name>
+      <groundspeak:placed_by>webfraggle</groundspeak:placed_by>
+      <groundspeak:owner id="199604">webfraggle</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="True">Nun auch von uns ein kleiner Wasserhauscache.</groundspeak:short_description>
+      <groundspeak:long_description html="True">
+      </groundspeak:long_description>
+      <groundspeak:encoded_hints>Unter einer Steinplatte</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="136671006">
+          <groundspeak:date>2010-11-20T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3042502">digger09</groundspeak:finder>
+          <groundspeak:text encoded="False">bei einer runde durch die vorderhön  gefunden
+dfdc</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="132510926">
+          <groundspeak:date>2010-10-22T21:47:23Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3881127">geezie</groundspeak:finder>
+          <groundspeak:text encoded="False">Schnell und einfach gefunden</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="132412678">
+          <groundspeak:date>2010-10-21T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3881223">Riesemils</groundspeak:finder>
+          <groundspeak:text encoded="False">Schnell gefunden.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="129799787">
+          <groundspeak:date>2010-10-03T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3665179">sema2505</groundspeak:finder>
+          <groundspeak:text encoded="False">Auf unserer Cache Tour im Team mit mherber gut und schnell gefunden! Besten Dank fürs Verstecken!! </groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="127577089">
+          <groundspeak:date>2010-09-19T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2807204">super sunshine</groundspeak:finder>
+          <groundspeak:text encoded="False">Cache schnell gefunden. Danke und Grüße</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

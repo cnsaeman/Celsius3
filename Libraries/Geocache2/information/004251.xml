@@ -1,0 +1,152 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>004251</id>
+  <cache-id>GC1M7B9</cache-id>
+  <type>Traditional Cache</type>
+  <name>Royal Canal Park by Kili or Bust, Traditional Cache (1.5/2)</name>
+  <size>Micro</size>
+  <difficulty>1.5</difficulty>
+  <terrain>2</terrain>
+  <last-found>2010-03-17</last-found>
+  <placed>2009-01-30</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>Kili or Bust</placedby>
+  <found>Geocache</found>
+  <lat>53.37475</lat>
+  <lon>-6.30895</lon>
+  <last-logs>XFFFX</last-logs>
+  <owner>Kili or bust</owner>
+  <description>Visit The Geocaching Ireland discussion
+forum HERE</description>
+  <long-description>***NOT RECOMMENDED AT NIGHT***
+
+
+***PLEASE BE CAREFUL APPROACHING THIS CACHE AS THERE IS A SIGNIFICANT DROP WHEN THE WATER LEVELS ARE LOW. IT IS NOT NECESSARY TO CROSS THE LOCK BOARDS AS THERE IS AN ENTRANCE ON THE OTHER SIDE. THE 2 RATING FOR TERRAIN REFLECTS THE DANGER ISSUE***
+
+Small magnetic micro.
+
+
+The Royal Canal
+
+Work commenced in 1790 and lasted 27 years before finally reaching the Shannon in 1817, at a total cost of £1,421,954[1]. The canal passes through Maynooth, Enfield and Mullingar and has a spur to Longford. The total length of the main navigation is 145 km (90 mi), and the system has 46 locks. There is one main feeder (from Lough Owel), which enters the canal at Mullingar. At the Dublin end, the canal once reached the Liffey through a wide sequence of dock and locks at Spencer Dock, with a final sea lock to manage access to the river and sea, but these are no longer fully operational, and access to the river is especially challenging.
+Quaternion plaque on Brougham (Broom) Bridge, Dublin
+
+In 1843, while walking with his wife along the Royal Canal, Sir William Rowan Hamilton realized the formula for quaternions and carved his initial thoughts into a stone on the Brougham Bridge over the canal.
+
+The canal is notable in that the Dublin - Mullingar railway line was built alongside the canal for much of the distance. The meandering route of the canal ensures a speed limiting curvature for the railway. The canal was bought by the Midland Great Western Railway to provide a route to the West of Ireland, originally planning to close the canal and build the railway along its bed.
+
+The canal travels across one of the major junctions on the M50/N3 in a specially constructed aqueduct.
+
+Today Waterways Ireland is responsible for the canal. It is currently being repaired, and it is intended to reopen it for navigation of its full length (from the Shannon Navigation to Dublin) by the middle of 2008. In early 2007, it is possible to go from Dublin to Ballymahon, and boats of up to 22.9m x 4.0m x 1.2m are allowed. Access points currently exist near Leixlip and at Maynooth, Enfield, Thomastown, Mullingar, Ballinea Bridge and Ballynacargy.
+
+In 2006 a commemoration marker was erected at Piper's Boreen, Mullingar, to mark the 200 years since the canal reached Mullingar in 1806.
+
+
+This cache is part of a series placed along the Royal Canal Way. The series follows the towpaths along the Royal Canal heading westwards towards the Shannon River. There are a number of caches in the Dublin region stretching from the city centre out into the country. Except for the first two centre city caches all of these, and any clues or hints take you in the direction against the water flow. To get the full benefit of this series I would suggest that it is best done on foot or on a bicycle though most of the caches may also be accessed by car. I have to say that the car option will take considerable time, petrol and nausea inducing traffic frustration not to mention considerable difficulty with parking.
+During winter or wet conditions hiking boots or good waterproof shoes will be required as the canal towpath can become very sloppy and almost impossible in one or two spots.
+
+""BE AWARE OF THE DANGER AND THE SLIPPY MUD CLOSE TO THE WATER AT ALL TIMES PLEASE""
+
+There area number of Sidetrack caches at the railway stations along the canal walk. A small detour at these points will bring you to each one.</long-description>
+  <encoded-hints>Low</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=909f6d5b-3857-41a6-b49d-7a1ad30c7a6d</url>
+  <url-name>Royal Canal Park</url-name>
+  <logs><ul><li>2010-05-18T19:00:00Z : Didn't find it by dragonfamily666 <br />spent a while looking for the cache but couldn't find it.</li><li>2010-05-08T19:00:00Z : Found it by AbbeyAckbar <br />(#625 @ 13:43)
+
+This was our first find of the day [:)] It took us a while to locate it. A woman decided to sit across the way on the other side of the canal from were we were searching and had her lunch! (the cheek [;)])  but we waited her out. Nice container.
+
+TFTC</li><li>2010-03-23T19:00:00Z : Found it by OBCLAN <br />Handy find. TFTC SL</li><li>2010-03-21T19:00:00Z : Found it by Lahtac <br />Nice and easy find. TFTC SL</li><li>2010-03-17T19:00:00Z : Didn't find it by lolly810 <br />spent ages looking but couldn't find it :(</li></ul></logs>
+  <original-xml>  <wpt  lat="53.37475" lon="-6.30895">
+    <time>2009-01-30T08:00:00Z</time>
+    <name>GC1M7B9</name>
+    <desc>Royal Canal Park by Kili or Bust, Traditional Cache (1.5/2)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=909f6d5b-3857-41a6-b49d-7a1ad30c7a6d</url>
+    <urlname>Royal Canal Park</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1115298" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Royal Canal Park</groundspeak:name>
+      <groundspeak:placed_by>Kili or Bust</groundspeak:placed_by>
+      <groundspeak:owner id="281705">Kili or bust</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>2</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>Dublin</groundspeak:state>
+      <groundspeak:short_description html="False">Visit The Geocaching Ireland discussion
+forum HERE</groundspeak:short_description>
+      <groundspeak:long_description html="False">***NOT RECOMMENDED AT NIGHT***
+
+
+***PLEASE BE CAREFUL APPROACHING THIS CACHE AS THERE IS A SIGNIFICANT DROP WHEN THE WATER LEVELS ARE LOW. IT IS NOT NECESSARY TO CROSS THE LOCK BOARDS AS THERE IS AN ENTRANCE ON THE OTHER SIDE. THE 2 RATING FOR TERRAIN REFLECTS THE DANGER ISSUE***
+
+Small magnetic micro.
+
+
+The Royal Canal
+
+Work commenced in 1790 and lasted 27 years before finally reaching the Shannon in 1817, at a total cost of £1,421,954[1]. The canal passes through Maynooth, Enfield and Mullingar and has a spur to Longford. The total length of the main navigation is 145 km (90 mi), and the system has 46 locks. There is one main feeder (from Lough Owel), which enters the canal at Mullingar. At the Dublin end, the canal once reached the Liffey through a wide sequence of dock and locks at Spencer Dock, with a final sea lock to manage access to the river and sea, but these are no longer fully operational, and access to the river is especially challenging.
+Quaternion plaque on Brougham (Broom) Bridge, Dublin
+
+In 1843, while walking with his wife along the Royal Canal, Sir William Rowan Hamilton realized the formula for quaternions and carved his initial thoughts into a stone on the Brougham Bridge over the canal.
+
+The canal is notable in that the Dublin - Mullingar railway line was built alongside the canal for much of the distance. The meandering route of the canal ensures a speed limiting curvature for the railway. The canal was bought by the Midland Great Western Railway to provide a route to the West of Ireland, originally planning to close the canal and build the railway along its bed.
+
+The canal travels across one of the major junctions on the M50/N3 in a specially constructed aqueduct.
+
+Today Waterways Ireland is responsible for the canal. It is currently being repaired, and it is intended to reopen it for navigation of its full length (from the Shannon Navigation to Dublin) by the middle of 2008. In early 2007, it is possible to go from Dublin to Ballymahon, and boats of up to 22.9m x 4.0m x 1.2m are allowed. Access points currently exist near Leixlip and at Maynooth, Enfield, Thomastown, Mullingar, Ballinea Bridge and Ballynacargy.
+
+In 2006 a commemoration marker was erected at Piper's Boreen, Mullingar, to mark the 200 years since the canal reached Mullingar in 1806.
+
+
+This cache is part of a series placed along the Royal Canal Way. The series follows the towpaths along the Royal Canal heading westwards towards the Shannon River. There are a number of caches in the Dublin region stretching from the city centre out into the country. Except for the first two centre city caches all of these, and any clues or hints take you in the direction against the water flow. To get the full benefit of this series I would suggest that it is best done on foot or on a bicycle though most of the caches may also be accessed by car. I have to say that the car option will take considerable time, petrol and nausea inducing traffic frustration not to mention considerable difficulty with parking.
+During winter or wet conditions hiking boots or good waterproof shoes will be required as the canal towpath can become very sloppy and almost impossible in one or two spots.
+
+""BE AWARE OF THE DANGER AND THE SLIPPY MUD CLOSE TO THE WATER AT ALL TIMES PLEASE""
+
+There area number of Sidetrack caches at the railway stations along the canal walk. A small detour at these points will bring you to each one.</groundspeak:long_description>
+      <groundspeak:encoded_hints>Low</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="109287763">
+          <groundspeak:date>2010-05-18T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Didn't find it</groundspeak:type>
+          <groundspeak:finder id="3279357">dragonfamily666</groundspeak:finder>
+          <groundspeak:text encoded="False">spent a while looking for the cache but couldn't find it.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="107786722">
+          <groundspeak:date>2010-05-08T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1265839">AbbeyAckbar</groundspeak:finder>
+          <groundspeak:text encoded="False">(#625 @ 13:43)
+
+This was our first find of the day [:)] It took us a while to locate it. A woman decided to sit across the way on the other side of the canal from were we were searching and had her lunch! (the cheek [;)])  but we waited her out. Nice container.
+
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="100813430">
+          <groundspeak:date>2010-03-23T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2725277">OBCLAN</groundspeak:finder>
+          <groundspeak:text encoded="False">Handy find. TFTC SL</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="100813396">
+          <groundspeak:date>2010-03-21T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2847528">Lahtac</groundspeak:finder>
+          <groundspeak:text encoded="False">Nice and easy find. TFTC SL</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="100064495">
+          <groundspeak:date>2010-03-17T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Didn't find it</groundspeak:type>
+          <groundspeak:finder id="2696743">lolly810</groundspeak:finder>
+          <groundspeak:text encoded="False">spent ages looking but couldn't find it :(</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

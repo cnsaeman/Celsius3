@@ -1,0 +1,121 @@
+<?xml version="1.0"?>
+<celsiusv2.2.htmltemplates>
+<element>
+  <infoMode>0</infoMode>
+  <template><html>
+<body>
+<table width='100%'>
+<tr>
+<td valign='top'>
+<b>#authors&3#</b>
+<h2>#title#</h2>
+#if#type# #type#,
+#if#pages# #pages# pages
+#if#location#, #filesize#
+#if#arxiv-name#, #arxiv-name#/#arxiv-number#
+#if#date#, #date#
+<br>registered in:
+#if#autoregistered# |#autoregistered#|
+#if#registered# |#registered#|
+<br>
+#if#filetype#<a href='http://$$view'>#filetype#-file</a>&nbsp;
+#if#altversions# #altversions#
+#if#journallink#<a href='http://$$journallink'>Journal link</a>&nbsp;
+#if#bibtex.doi#<a href='http://dx.doi.org/#bibtex.doi#'>doi-link</a>&nbsp;
+#if#arxiv-ref#<a href='http://www.arxiv.org/abs/#arxiv-ref#'>arXiv</a>&nbsp;
+#if#spires-key#<a href='http://www-spires.dur.ac.uk/cgi-bin/spiface/hep/www?rawcmd=FIND+key+#spires-key#'>Slac-SPIRES</a>&nbsp;
+#if#arxiv-ref#<a href='http://citebase.eprints.org/cgi-bin/citations?id=oai:arXiv.org:#arxiv-ref#'>CiteBase</a>&nbsp;
+#if#arxiv-ref#<a href='http://eprintweb.org/S/article/#arxiv-name#/#arxiv-number#'>eprintWeb</a>&nbsp;
+#if#amazon-link#<a href='#amazon-link#'>Amazon</a>&nbsp;
+#if#$$links# <br>
+#if#$$links-refers to# <a href='http://$$links-refers to'>References</a>&nbsp;
+#if#$$links-citation# <a href='http://$$links-citation'>Citations</a>&nbsp;
+#if#abstract#<h3>Abstract</h3>
+#if#abstract# #abstract#<br>
+<br>
+#if#keywords# <b>Keywords:</b> #keywords#<br>
+#if#remarks# <b>Remarks:</b> #remarks#
+#if#bibtex# <h3>Bibliographic information</h3>
+#if#bibtex# <pre width="20">#bibtex#</pre><br>
+<h3>Celsius related information</h3>
+ID: #id#
+#if#recognition#, recognition level: #recognition#.
+</td><td valign='top'>
+#if#thumbnail#<img src='file:#$thumbnail#'>
+</td></tr>
+</table>
+</body>
+</html></template>
+</element>
+<element>
+  <infoMode>1</infoMode>
+  <template><html><body>
+<h2>#person#</h2>
+<hr>
+<br>
+From this author: #currentdocuments# documents with #currentpages# pages in the library.<br>
+<br>
+#if#homepage# <a href="#homepage#">Homepage</a>&nbsp;
+#if#email# #email#&nbsp;
+<a href="http://www.slac.stanford.edu/spires/find/hep/wwwscan?subfile=wwwhepau&rawcmd=#author#">Look at Slac Spires for #author#</a>
+<br><br>
+<b>Collaborators:</b><br>
+#collaborators#
+#if#remarks# <br><br><b>Remarks:</b><br>#remarks#</body></html></template>
+</element>
+<element>
+  <infoMode>2</infoMode>
+  <template><html><body>
+<h2>#category#</h2>
+<hr>
+<br>
+In this category: #currentdocuments# documents with #currentpages# pages in the library.<br>
+#if#remarks# <br><hr><pre>#remarks#</pre>
+</body></html></template>
+</element>
+<element>
+  <infoMode>3</infoMode>
+  <template><html><body>
+<h2>Keyword Search</h2>
+<hr>
+<br>
+In these search results: #currentdocuments# documents with #currentpages# pages in the library.<br>
+</body></html></template>
+</element>
+<element>
+  <infoMode>4</infoMode>
+  <template><html><body>
+<h2>Keyword Search</h2>
+<hr>
+<br>
+In these search results: #currentdocuments# documents with #currentpages# pages in the library.<br>
+</body></html></template>
+</element>
+<element>
+  <infoMode>5</infoMode>
+  <template><html><body>
+<h2>Keyword Search</h2>
+<hr>
+<br>
+In these search results: #currentdocuments# documents with #currentpages# pages in the library.<br>
+</body></html></template>
+</element>
+<element>
+  <infoMode>6</infoMode>
+  <template><html><body>
+<h2>Keyword Search</h2>
+<hr>
+<br>
+In these search results: #currentdocuments# documents with #currentpages# pages in the library.<br>
+</body></html></template>
+</element>
+<element>
+  <infoMode>7</infoMode>
+  <template><html><body>
+<h2>Keyword Search</h2>
+<hr>
+<br>
+In these search results: #currentdocuments# documents with #currentpages# pages in the library.<br>
+</body></html></template>
+</element>
+</celsiusv2.2.htmltemplates>

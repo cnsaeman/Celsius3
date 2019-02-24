@@ -1,0 +1,100 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>000480</id>
+  <cache-id>GC239JX</cache-id>
+  <type>Traditional Cache</type>
+  <name>Cache am Bildstock by ericius, Traditional Cache (3/1)</name>
+  <size>Micro</size>
+  <difficulty>3</difficulty>
+  <terrain>1</terrain>
+  <last-found>2010-09-15</last-found>
+  <placed>2010-01-24</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>ericius</placedby>
+  <found>Geocache</found>
+  <lat>50.530583</lat>
+  <lon>9.793583</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>ericius</owner>
+  <description>
+      </description>
+  <long-description>Der Cache kann über eine asphaltierte Straße erreicht werden. Nur die letzten 1-2 Meter liegen neben der Straße. Der Cache liegt nicht direkt neben dem Bildstock.
+
+Viel Spaß beim cachen!!!</long-description>
+  <encoded-hints>Naturverpackung</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=95045ef5-0723-4293-80ed-7d20bc18da9f</url>
+  <url-name>Cache am Bildstock</url-name>
+  <logs><ul><li>2010-11-12T00:08:22Z : Found it by Riesemils <br />Bevor der Schnee kommt noch schnell geloggt. Hammer-Versteck . Danke sagt der RieseMils.</li><li>2010-10-06T19:00:00Z : Found it by Griesgor <br />Heute bei großer Runde mit meiner Frau gefunden und geloggt.
+6.10.2010 um 16 Uhr super gelaufen.Klasse Versteck!Hat Spass gemacht.
+Griesgor sagt Danke</li><li>2010-10-03T19:00:00Z : Found it by Svegar <br />Hübsche Verpackung. In der Abenddämmerung leicht zu übersehen.
+
+TFTC</li><li>2010-09-17T19:00:00Z : Found it by S***T <br />Gute Idee :-) Man merkt, dass gerade Pilzsaison ist.
+</li><li>2010-09-15T19:00:00Z : Found it by Anonyme_Laeufer <br />War heute unser erster auf dem Weg zur Wasserkuppe. Dort sollte eigentlich der Schwerpunkt des heutigen Tages liegen, aber diesen nett gemachten Cache konnten wir uns nicht entgehen lassen. TFTC</li></ul></logs>
+  <original-xml>  <wpt  lat="50.530583" lon="9.793583">
+    <time>2010-01-24T08:00:00Z</time>
+    <name>GC239JX</name>
+    <desc>Cache am Bildstock by ericius, Traditional Cache (3/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=95045ef5-0723-4293-80ed-7d20bc18da9f</url>
+    <urlname>Cache am Bildstock</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1534530" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Cache am Bildstock</groundspeak:name>
+      <groundspeak:placed_by>ericius</groundspeak:placed_by>
+      <groundspeak:owner id="2720442">ericius</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>3</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">
+      </groundspeak:short_description>
+      <groundspeak:long_description html="False">Der Cache kann über eine asphaltierte Straße erreicht werden. Nur die letzten 1-2 Meter liegen neben der Straße. Der Cache liegt nicht direkt neben dem Bildstock.
+
+Viel Spaß beim cachen!!!</groundspeak:long_description>
+      <groundspeak:encoded_hints>Naturverpackung</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="135358649">
+          <groundspeak:date>2010-11-12T00:08:22Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3881223">Riesemils</groundspeak:finder>
+          <groundspeak:text encoded="False">Bevor der Schnee kommt noch schnell geloggt. Hammer-Versteck . Danke sagt der RieseMils.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="129986035">
+          <groundspeak:date>2010-10-06T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3701621">Griesgor</groundspeak:finder>
+          <groundspeak:text encoded="False">Heute bei großer Runde mit meiner Frau gefunden und geloggt.
+6.10.2010 um 16 Uhr super gelaufen.Klasse Versteck!Hat Spass gemacht.
+Griesgor sagt Danke</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="129579536">
+          <groundspeak:date>2010-10-03T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3056833">Svegar</groundspeak:finder>
+          <groundspeak:text encoded="False">Hübsche Verpackung. In der Abenddämmerung leicht zu übersehen.
+
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="127285690">
+          <groundspeak:date>2010-09-17T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1894990">S***T</groundspeak:finder>
+          <groundspeak:text encoded="False">Gute Idee :-) Man merkt, dass gerade Pilzsaison ist.
+</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="126999162">
+          <groundspeak:date>2010-09-15T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1648570">Anonyme_Laeufer</groundspeak:finder>
+          <groundspeak:text encoded="False">War heute unser erster auf dem Weg zur Wasserkuppe. Dort sollte eigentlich der Schwerpunkt des heutigen Tages liegen, aber diesen nett gemachten Cache konnten wir uns nicht entgehen lassen. TFTC</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

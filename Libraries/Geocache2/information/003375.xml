@@ -1,0 +1,111 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>003375</id>
+  <cache-id>GC17Q4P</cache-id>
+  <type>Traditional Cache</type>
+  <name>Rest in Peace by moyle, Traditional Cache (1/1.5)</name>
+  <size>Small</size>
+  <difficulty>1</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2009-05-24</last-found>
+  <placed>2007-12-01</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>moyle</placedby>
+  <found>Geocache Found</found>
+  <lat>53.294433</lat>
+  <lon>-6.319083</lon>
+  <last-logs>FFFFFF</last-logs>
+  <owner>moyle</owner>
+  <description>A small grave yard in Templeogue with a little ruined church.</description>
+  <long-description>
+      </long-description>
+  <encoded-hints>tree</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=42a91891-77f2-4fad-8059-71dc7e15747d</url>
+  <url-name>Rest in Peace</url-name>
+  <logs><ul><li>2010-06-14T19:00:00Z : Found it by colmyster <br />Found on the way home from work. TFTC</li><li>2010-06-11T18:32:01Z : Found it by iainrowe <br />Nice find NTNL</li><li>2010-05-09T19:00:00Z : Found it by merann <br />Nice spot, found it soon after we arrived at cache area. No Geocoin in this cache.
+Out - Dice.
+In - Smiley paper clip.
+TFTC, Merann. </li><li>2010-04-25T19:00:00Z : Found it by Ravenheart <br />Nice Cache. Was declared 'A proper geocache' . TNLN TFTC</li><li>2010-04-04T19:00:00Z : Found it by Silas07 <br />one cache near our B&B. 
+Thank for the cache.
+Greeting from Switzerland
+Silas07
+#113 / 04.04.2010 17:20</li><li>2009-05-24T19:00:00Z : Found it by Kersti.com <br />Possibly the only glorious summers day of the year so naturally we were out on the bikes and off to do some caching. A magical spot. Cache easily found in a fairly obvious location.</li></ul></logs>
+  <original-xml>  <wpt  lat="53.294433" lon="-6.319083">
+    <time>2007-12-01T08:00:00Z</time>
+    <name>GC17Q4P</name>
+    <desc>Rest in Peace by moyle, Traditional Cache (1/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=42a91891-77f2-4fad-8059-71dc7e15747d</url>
+    <urlname>Rest in Peace</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="743187" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Rest in Peace</groundspeak:name>
+      <groundspeak:placed_by>moyle</groundspeak:placed_by>
+      <groundspeak:owner id="1183128">moyle</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>
+      </groundspeak:state>
+      <groundspeak:short_description html="False">A small grave yard in Templeogue with a little ruined church.</groundspeak:short_description>
+      <groundspeak:long_description html="False">
+      </groundspeak:long_description>
+      <groundspeak:encoded_hints>tree</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="112873361">
+          <groundspeak:date>2010-06-14T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1495386">colmyster</groundspeak:finder>
+          <groundspeak:text encoded="False">Found on the way home from work. TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="112415200">
+          <groundspeak:date>2010-06-11T18:32:01Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3343039">iainrowe</groundspeak:finder>
+          <groundspeak:text encoded="False">Nice find NTNL</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="108401089">
+          <groundspeak:date>2010-05-09T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="134212">merann</groundspeak:finder>
+          <groundspeak:text encoded="False">Nice spot, found it soon after we arrived at cache area. No Geocoin in this cache.
+Out - Dice.
+In - Smiley paper clip.
+TFTC, Merann. </groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="105805755">
+          <groundspeak:date>2010-04-25T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="919389">Ravenheart</groundspeak:finder>
+          <groundspeak:text encoded="False">Nice Cache. Was declared 'A proper geocache' . TNLN TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="102735236">
+          <groundspeak:date>2010-04-04T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2460425">Silas07</groundspeak:finder>
+          <groundspeak:text encoded="False">one cache near our B&amp;B. 
+Thank for the cache.
+Greeting from Switzerland
+Silas07
+#113 / 04.04.2010 17:20</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="71848853">
+          <groundspeak:date>2009-05-24T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="320206">Kersti.com</groundspeak:finder>
+          <groundspeak:text encoded="False">Possibly the only glorious summers day of the year so naturally we were out on the bikes and off to do some caching. A magical spot. Cache easily found in a fairly obvious location.</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs>
+        <groundspeak:travelbug id="2106227" ref="TB2PFFQ">
+          <groundspeak:name>Bosdymf's DaFunkyFrogs '08 Geocoin Nickel (limited edition)</groundspeak:name>
+        </groundspeak:travelbug>
+      </groundspeak:travelbugs>
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

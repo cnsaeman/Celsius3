@@ -1,0 +1,124 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>009933</id>
+  <cache-id>GC1FPAH</cache-id>
+  <type>Traditional Cache</type>
+  <name>Sidetracked - Donabate by Windsockers, Traditional Cache (1/1.5)</name>
+  <size>Micro</size>
+  <difficulty>1</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-02-17</last-found>
+  <placed>2008-10-25</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>Windsockers</placedby>
+  <found>Geocache</found>
+  <lat>53.486833</lat>
+  <lon>-6.15115</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>Windsockers</owner>
+  <description><marquee behavior="scroll"
+direction="right"><img src="http://img.geocaching.com/cache/fa167cb3-b9f5-4447-9565-b10c1c03826f.jpg" />
+</marquee></description>
+  <long-description><center>
+<p><b>Donabate railway station is located on the main
+Dublin-Belfast Railway line.</b></p></center>
+<p>The station opened in 1844 and boasts an array of Dublin &
+Drogheda and Great Northern Railway station buildings. The main
+building, a two storey red bricked type was built prior to GNR take
+over in the 1870s and is therefore unlike others on the line.</p>
+<p><b>The Cache</b></p>
+<p>Side-Tracked Caches are intended to provide quick
+Cache-and-dashes at Train Stations.</p>
+<p>The Cache is a small micro container please rehide it well to
+prevent the many muggles from discovering it.</p>
+<center>
+<img src="http://www.northbeach.ie/gallery/albums/userpics/10001/windsock-anim-small.gif" />
+<br />
+<b>The Windsockers</b></center></long-description>
+  <encoded-hints>Paid up ?</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=5e9d8d71-eb18-4f5b-a561-4324f5b15a5e</url>
+  <url-name>Sidetracked - Donabate</url-name>
+  <logs><ul><li>2010-06-07T19:00:00Z : Found it by niallk1234 <br />The fourth of 6 finds for today, but the edge of the carpark beside the platform where the cache is under construction works, and probably can't be acessed during working hours. Nevertheless I found a gap in the fence and found it easily. Luckily it was bank holiday Monday. Another of the series crossed off, TFTC.</li><li>2010-05-15T19:00:00Z : Found it by Alastair74 <br />Found with Wildfowler while spending the day in Dublin for the WWFM. TFTC</li><li>2010-05-15T19:00:00Z : Found it by wildfowler <br />Found on a caching weekend around Dublin with Alastair74!  TNLNSL TFTC</li><li>2010-02-17T20:00:00Z : Found it by Toffee Man <br />Nice easy find to start off the evening. Car park quite so we were able to move on quickly to find more of Windsockers caches in this area.
+TFTC
+Toffee Man
+#187</li><li>2010-02-17T20:00:00Z : Found it by OBCLAN <br />Nice and handy. One of 5 found tonight with fellow Geocachers TFTC SL</li></ul></logs>
+  <original-xml>  <wpt  lat="53.486833" lon="-6.15115">
+    <time>2008-10-25T07:00:00Z</time>
+    <name>GC1FPAH</name>
+    <desc>Sidetracked - Donabate by Windsockers, Traditional Cache (1/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=5e9d8d71-eb18-4f5b-a561-4324f5b15a5e</url>
+    <urlname>Sidetracked - Donabate</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="980735" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Sidetracked - Donabate</groundspeak:name>
+      <groundspeak:placed_by>Windsockers</groundspeak:placed_by>
+      <groundspeak:owner id="271623">Windsockers</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>Leinster</groundspeak:state>
+      <groundspeak:short_description html="True">&lt;marquee behavior="scroll"
+direction="right"&gt;&lt;img src="http://img.geocaching.com/cache/fa167cb3-b9f5-4447-9565-b10c1c03826f.jpg" /&gt;
+&lt;/marquee&gt;</groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;center&gt;
+&lt;p&gt;&lt;b&gt;Donabate railway station is located on the main
+Dublin-Belfast Railway line.&lt;/b&gt;&lt;/p&gt;&lt;/center&gt;
+&lt;p&gt;The station opened in 1844 and boasts an array of Dublin &amp;amp;
+Drogheda and Great Northern Railway station buildings. The main
+building, a two storey red bricked type was built prior to GNR take
+over in the 1870s and is therefore unlike others on the line.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;The Cache&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Side-Tracked Caches are intended to provide quick
+Cache-and-dashes at Train Stations.&lt;/p&gt;
+&lt;p&gt;The Cache is a small micro container please rehide it well to
+prevent the many muggles from discovering it.&lt;/p&gt;
+&lt;center&gt;
+&lt;img src="http://www.northbeach.ie/gallery/albums/userpics/10001/windsock-anim-small.gif" /&gt;
+&lt;br /&gt;
+&lt;b&gt;The Windsockers&lt;/b&gt;&lt;/center&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>Paid up ?</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="112017216">
+          <groundspeak:date>2010-06-07T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2923926">niallk1234</groundspeak:finder>
+          <groundspeak:text encoded="False">The fourth of 6 finds for today, but the edge of the carpark beside the platform where the cache is under construction works, and probably can't be acessed during working hours. Nevertheless I found a gap in the fence and found it easily. Luckily it was bank holiday Monday. Another of the series crossed off, TFTC.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="109093779">
+          <groundspeak:date>2010-05-15T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2453409">Alastair74</groundspeak:finder>
+          <groundspeak:text encoded="False">Found with Wildfowler while spending the day in Dublin for the WWFM. TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="108920095">
+          <groundspeak:date>2010-05-15T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="182407">wildfowler</groundspeak:finder>
+          <groundspeak:text encoded="False">Found on a caching weekend around Dublin with Alastair74!  TNLNSL TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="97581655">
+          <groundspeak:date>2010-02-17T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2826452">Toffee Man</groundspeak:finder>
+          <groundspeak:text encoded="False">Nice easy find to start off the evening. Car park quite so we were able to move on quickly to find more of Windsockers caches in this area.
+TFTC
+Toffee Man
+#187</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="97565979">
+          <groundspeak:date>2010-02-17T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2725277">OBCLAN</groundspeak:finder>
+          <groundspeak:text encoded="False">Nice and handy. One of 5 found tonight with fellow Geocachers TFTC SL</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

@@ -1,0 +1,5262 @@
+<?xml version="1.0"?>
+<celsiusv3.0.libraryindexfile>
+<element>
+  <cache-id>GC16733</cache-id>
+  <type>Unknown Cache</type>
+  <name>21/S565Schif by gartentaucher, Unknown Cache (3/1)</name>
+  <size>Small</size>
+  <difficulty>3</difficulty>
+  <terrain>1</terrain>
+  <last-found>2010-09-28</last-found>
+  <placed>2007-10-20</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>gartentaucher</placedby>
+  <found>Geocache</found>
+  <lat>50.56505</lat>
+  <lon>9.6855</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>008788</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC1YRCB</cache-id>
+  <type>Multi-cache</type>
+  <name>Happy Birthday F. by andalf, Multi-cache (1/1)</name>
+  <size>Micro</size>
+  <difficulty>1</difficulty>
+  <terrain>1</terrain>
+  <last-found>2010-10-23</last-found>
+  <placed>2009-09-17</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>andalf</placedby>
+  <found>Geocache</found>
+  <lat>50.566517</lat>
+  <lon>9.688317</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>000074</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC1KEWE</cache-id>
+  <type>Traditional Cache</type>
+  <name>Wunderquelle by balalaika, Traditional Cache (1/2)</name>
+  <size>Small</size>
+  <difficulty>1</difficulty>
+  <terrain>2</terrain>
+  <last-found>2009-12-28</last-found>
+  <placed>2009-01-04</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>balalaika</placedby>
+  <found>Geocache Found</found>
+  <lat>50.565517</lat>
+  <lon>9.663617</lon>
+  <last-logs>FFFFFWF</last-logs>
+  <id>009747</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GCGR27</cache-id>
+  <type>Multi-cache</type>
+  <name>Der tapfere Mönch by The Redheads, Multi-cache (1.5/1.5)</name>
+  <size>Regular</size>
+  <difficulty>1.5</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-10-28</last-found>
+  <placed>2003-08-26</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>The Redheads</placedby>
+  <found>Geocache</found>
+  <lat>50.5597</lat>
+  <lon>9.671933</lon>
+  <last-logs>FFWXF</last-logs>
+  <id>009915</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC1T9VT</cache-id>
+  <type>Traditional Cache</type>
+  <name>little green valley by andalf, Traditional Cache (1/1)</name>
+  <size>Micro</size>
+  <difficulty>1</difficulty>
+  <terrain>1</terrain>
+  <last-found>2010-10-22</last-found>
+  <placed>2009-06-04</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>andalf</placedby>
+  <found>Geocache</found>
+  <lat>50.5626</lat>
+  <lon>9.688333</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>006425</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC1ZHMN</cache-id>
+  <type>Traditional Cache</type>
+  <name>St. Bonifatius Kirche Fulda by hungry.knight, Traditional Cache (1/1)</name>
+  <size>Micro</size>
+  <difficulty>1</difficulty>
+  <terrain>1</terrain>
+  <last-found>2009-12-28</last-found>
+  <placed>2009-10-06</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>hungry.knight</placedby>
+  <found>Geocache Found</found>
+  <lat>50.56415</lat>
+  <lon>9.662083</lon>
+  <last-logs>XWFFFWF</last-logs>
+  <id>002674</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC27EMC</cache-id>
+  <type>Traditional Cache</type>
+  <name>Unser Gartentraum by Maluma, Traditional Cache (3/2.5)</name>
+  <size>Small</size>
+  <difficulty>3</difficulty>
+  <terrain>2.5</terrain>
+  <last-found>2010-10-05</last-found>
+  <placed>2010-04-25</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Maluma</placedby>
+  <found>Geocache</found>
+  <lat>50.568383</lat>
+  <lon>9.659533</lon>
+  <last-logs>FFWFF</last-logs>
+  <id>005987</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC2DEG2</cache-id>
+  <type>Multi-cache</type>
+  <name>Fuldaer Unterwelt by smurk, Multi-cache (2.5/3.5)</name>
+  <size>Micro</size>
+  <difficulty>2.5</difficulty>
+  <terrain>3.5</terrain>
+  <last-found>2010-11-03</last-found>
+  <placed>2010-08-15</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>smurk</placedby>
+  <found>Geocache</found>
+  <lat>50.557767</lat>
+  <lon>9.6818</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>004848</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC2JHVH</cache-id>
+  <type>Traditional Cache</type>
+  <name>Nuff un Nopp 002 Esperanto by Maluma, Traditional Cache (2/2)</name>
+  <size>Regular</size>
+  <difficulty>2</difficulty>
+  <terrain>2</terrain>
+  <last-found>2010-12-13</last-found>
+  <placed>2010-11-21</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Maluma</placedby>
+  <found>Geocache</found>
+  <lat>50.557917</lat>
+  <lon>9.68565</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>005385</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GCYDY7</cache-id>
+  <type>Traditional Cache</type>
+  <name>RHCP in FD by shaktimaan, Traditional Cache (1/3)</name>
+  <size>Micro</size>
+  <difficulty>1</difficulty>
+  <terrain>3</terrain>
+  <last-found>2007-12-26</last-found>
+  <placed>2006-09-20</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>shaktimaan</placedby>
+  <found>Geocache Found</found>
+  <lat>50.55575</lat>
+  <lon>9.6759</lon>
+  <last-logs>WFFFFWF</last-logs>
+  <id>009320</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC2FTAD</cache-id>
+  <type>Traditional Cache</type>
+  <name>Geminipontium by Camuvlash, Traditional Cache (2/2)</name>
+  <size>Micro</size>
+  <difficulty>2</difficulty>
+  <terrain>2</terrain>
+  <last-found>2010-10-31</last-found>
+  <placed>2010-09-26</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Camuvlash</placedby>
+  <found>Geocache</found>
+  <lat>50.5604</lat>
+  <lon>9.660317</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>001966</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC1ZHN5</cache-id>
+  <type>Traditional Cache</type>
+  <name>St.Lukas Kirche und Versöhnungskirche by hungry.knight, Traditional Cache (2.5/1.5)</name>
+  <size>Micro</size>
+  <difficulty>2.5</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-06-20</last-found>
+  <placed>2009-10-06</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>hungry.knight</placedby>
+  <found>Geocache</found>
+  <lat>50.575533</lat>
+  <lon>9.658417</lon>
+  <last-logs>XXXF</last-logs>
+  <id>001916</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC1RJ10</cache-id>
+  <type>Traditional Cache</type>
+  <name>Der kleine Feine by Cachegrillaz, Traditional Cache (1.5/1)</name>
+  <size>Micro</size>
+  <difficulty>1.5</difficulty>
+  <terrain>1</terrain>
+  <last-found>2010-10-27</last-found>
+  <placed>2009-05-19</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Cachegrillaz</placedby>
+  <found>Geocache</found>
+  <lat>50.555617</lat>
+  <lon>9.669233</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>005366</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC1RJV7</cache-id>
+  <type>Traditional Cache</type>
+  <name>Knick in der Röhre by elrecke, Traditional Cache (1.5/2.5)</name>
+  <size>Micro</size>
+  <difficulty>1.5</difficulty>
+  <terrain>2.5</terrain>
+  <last-found>2010-11-21</last-found>
+  <placed>2009-05-20</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>elrecke</placedby>
+  <found>Geocache</found>
+  <lat>50.557283</lat>
+  <lon>9.688833</lon>
+  <last-logs>WFFFF</last-logs>
+  <id>008496</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC19BX3</cache-id>
+  <type>Traditional Cache</type>
+  <name>FDs Rumsteherchen - Freundschaft by gartentaucher, Traditional Cache (2.5/1)</name>
+  <size>Micro</size>
+  <difficulty>2.5</difficulty>
+  <terrain>1</terrain>
+  <last-found>2010-10-31</last-found>
+  <placed>2008-02-14</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>gartentaucher</placedby>
+  <found>Geocache</found>
+  <lat>50.556033</lat>
+  <lon>9.666333</lon>
+  <last-logs>FFFWF</last-logs>
+  <id>005556</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GCM7JB</cache-id>
+  <type>Traditional Cache</type>
+  <name>Bonifatius 13 - Grab by St John of Beverley, Traditional Cache (2.5/1.5)</name>
+  <size>Micro</size>
+  <difficulty>2.5</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2007-12-26</last-found>
+  <placed>2004-12-06</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>St John of Beverley</placedby>
+  <found>Geocache Found</found>
+  <lat>50.554667</lat>
+  <lon>9.672167</lon>
+  <last-logs>FFFFFWF</last-logs>
+  <id>003804</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC18PJW</cache-id>
+  <type>Multi-cache</type>
+  <name>FDs Rumsteherchen - Alte Götter by gartentaucher, Multi-cache (2.5/1)</name>
+  <size>Micro</size>
+  <difficulty>2.5</difficulty>
+  <terrain>1</terrain>
+  <last-found>2010-10-14</last-found>
+  <placed>2008-01-19</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>gartentaucher</placedby>
+  <found>Geocache</found>
+  <lat>50.5542</lat>
+  <lon>9.676933</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>001100</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GCR5VP</cache-id>
+  <type>Multi-cache</type>
+  <name>Zurück in die Vergangenheit by Little Red Riding Hood, Multi-cache (1.5/1)</name>
+  <size>Small</size>
+  <difficulty>1.5</difficulty>
+  <terrain>1</terrain>
+  <last-found>2010-11-15</last-found>
+  <placed>2005-10-31</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Little Red Riding Hood</placedby>
+  <found>Geocache</found>
+  <lat>50.553533</lat>
+  <lon>9.674533</lon>
+  <last-logs>FFFF</last-logs>
+  <id>009820</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC1RNB2</cache-id>
+  <type>Traditional Cache</type>
+  <name>Lange Brücke by Cachegrillaz, Traditional Cache (1/2)</name>
+  <size>Micro</size>
+  <difficulty>1</difficulty>
+  <terrain>2</terrain>
+  <last-found>2010-11-20</last-found>
+  <placed>2009-05-22</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Cachegrillaz</placedby>
+  <found>Geocache</found>
+  <lat>50.554767</lat>
+  <lon>9.664867</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>002519</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC1NTNV</cache-id>
+  <type>Traditional Cache</type>
+  <name>Fuldaer Häuser 2 by balalaika, Traditional Cache (1/1.5)</name>
+  <size>Regular</size>
+  <difficulty>1</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-10-06</last-found>
+  <placed>2009-03-17</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>balalaika</placedby>
+  <found>Geocache</found>
+  <lat>50.558533</lat>
+  <lon>9.657117</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>003210</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC15FAG</cache-id>
+  <type>Traditional Cache</type>
+  <name>ZÜRICH  by Little Red Riding Hood, Traditional Cache (1.5/1)</name>
+  <size>Micro</size>
+  <difficulty>1.5</difficulty>
+  <terrain>1</terrain>
+  <last-found>2008-05-21</last-found>
+  <placed>2007-08-27</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Little Red Riding Hood</placedby>
+  <found>Geocache Found</found>
+  <lat>50.552617</lat>
+  <lon>9.68025</lon>
+  <last-logs>FFFFFWF</last-logs>
+  <id>004487</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC27PBM</cache-id>
+  <type>Traditional Cache</type>
+  <name>Faszinierende Mary by balu-fd, Traditional Cache (1/1)</name>
+  <size>Micro</size>
+  <difficulty>1</difficulty>
+  <terrain>1</terrain>
+  <last-found>2010-12-07</last-found>
+  <placed>2010-04-29</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>balu-fd</placedby>
+  <found>Geocache</found>
+  <lat>50.55295</lat>
+  <lon>9.683</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>003251</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC1MRQY</cache-id>
+  <type>Multi-cache</type>
+  <name>Fuldaer Literatur Cache 1 -- Goethe in Fulda by balalaika, Multi-cache (1/1.5)</name>
+  <size>Micro</size>
+  <difficulty>1</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-10-31</last-found>
+  <placed>2009-02-16</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>balalaika</placedby>
+  <found>Geocache</found>
+  <lat>50.552533</lat>
+  <lon>9.6715</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>003303</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC1E8PX</cache-id>
+  <type>Multi-cache</type>
+  <name>Cricket-Castle by Ubx, Multi-cache (1/1.5)</name>
+  <size>Small</size>
+  <difficulty>1</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-11-01</last-found>
+  <placed>2008-07-16</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Ubx</placedby>
+  <found>Geocache</found>
+  <lat>50.5733</lat>
+  <lon>9.700783</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>008625</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC2633Q</cache-id>
+  <type>Traditional Cache</type>
+  <name>Rittereck by balu-fd, Traditional Cache (1/1)</name>
+  <size>Micro</size>
+  <difficulty>1</difficulty>
+  <terrain>1</terrain>
+  <last-found>2010-11-28</last-found>
+  <placed>2010-03-31</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>balu-fd</placedby>
+  <found>Geocache</found>
+  <lat>50.5521</lat>
+  <lon>9.673483</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>000673</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC251PD</cache-id>
+  <type>Traditional Cache</type>
+  <name>Fuldaer Häuser 1 by balalaika, Traditional Cache (1.5/1)</name>
+  <size>Micro</size>
+  <difficulty>1.5</difficulty>
+  <terrain>1</terrain>
+  <last-found>2010-11-27</last-found>
+  <placed>2010-03-14</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>balalaika</placedby>
+  <found>Geocache</found>
+  <lat>50.551383</lat>
+  <lon>9.676467</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>002476</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC26822</cache-id>
+  <type>Traditional Cache</type>
+  <name>Wolfgang paßt auf by capitanok9, Traditional Cache (1/2)</name>
+  <size>Small</size>
+  <difficulty>1</difficulty>
+  <terrain>2</terrain>
+  <last-found>2010-09-25</last-found>
+  <placed>2010-04-05</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>capitanok9</placedby>
+  <found>Geocache</found>
+  <lat>50.585533</lat>
+  <lon>9.671967</lon>
+  <last-logs>FFFEF</last-logs>
+  <id>003714</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC12QFH</cache-id>
+  <type>Multi-cache</type>
+  <name>R2 by maestrosap, Multi-cache (2/2)</name>
+  <size>Small</size>
+  <difficulty>2</difficulty>
+  <terrain>2</terrain>
+  <last-found>2010-09-27</last-found>
+  <placed>2007-05-07</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>maestrosap</placedby>
+  <found>Geocache</found>
+  <lat>50.551467</lat>
+  <lon>9.668567</lon>
+  <last-logs>XFFFF</last-logs>
+  <id>004395</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC20VAJ</cache-id>
+  <type>Unknown Cache</type>
+  <name>Der sich den Wolf rechnet! by John Dunbar, Unknown Cache (3/1.5)</name>
+  <size>Regular</size>
+  <difficulty>3</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-09-12</last-found>
+  <placed>2009-12-10</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>John Dunbar</placedby>
+  <found>Geocache</found>
+  <lat>50.581683</lat>
+  <lon>9.656467</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>003790</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC25CKB</cache-id>
+  <type>Unknown Cache</type>
+  <name>Fuldaer Literatur Cache 2 - ? by balalaika, Unknown Cache (4/1)</name>
+  <size>Micro</size>
+  <difficulty>4</difficulty>
+  <terrain>1</terrain>
+  <last-found>2010-06-03</last-found>
+  <placed>2010-03-21</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>balalaika</placedby>
+  <found>Geocache</found>
+  <lat>50.550817</lat>
+  <lon>9.686483</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>008384</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC2072N</cache-id>
+  <type>Traditional Cache</type>
+  <name>Heilig Geist Kirche Fulda by hungry.knight, Traditional Cache (1/1)</name>
+  <size>Micro</size>
+  <difficulty>1</difficulty>
+  <terrain>1</terrain>
+  <last-found>2010-11-24</last-found>
+  <placed>2009-10-24</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>hungry.knight</placedby>
+  <found>Geocache</found>
+  <lat>50.549167</lat>
+  <lon>9.675833</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>002384</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC2GA5W</cache-id>
+  <type>Traditional Cache</type>
+  <name>Kleine Aufmerksamkeit 1 by ACIDCAT, Traditional Cache (1.5/2)</name>
+  <size>Micro</size>
+  <difficulty>1.5</difficulty>
+  <terrain>2</terrain>
+  <last-found>2010-11-30</last-found>
+  <placed>2010-10-06</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>ACIDCAT</placedby>
+  <found>Geocache</found>
+  <lat>50.550583</lat>
+  <lon>9.6642</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>000716</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GCYMWT</cache-id>
+  <type>Traditional Cache</type>
+  <name>French Forrest by shaktimaan, Traditional Cache (1/1)</name>
+  <size>Micro</size>
+  <difficulty>1</difficulty>
+  <terrain>1</terrain>
+  <last-found>2008-12-22</last-found>
+  <placed>2006-10-02</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>shaktimaan</placedby>
+  <found>Geocache</found>
+  <lat>50.5494</lat>
+  <lon>9.682833</lon>
+  <last-logs>FXFFFX</last-logs>
+  <id>001615</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GCYQW6</cache-id>
+  <type>Multi-cache</type>
+  <name>Above the clouds by shaktimaan, Multi-cache (3/2.5)</name>
+  <size>Regular</size>
+  <difficulty>3</difficulty>
+  <terrain>2.5</terrain>
+  <last-found>2010-10-18</last-found>
+  <placed>2006-10-08</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>shaktimaan</placedby>
+  <found>Geocache</found>
+  <lat>50.570033</lat>
+  <lon>9.7071</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>007808</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC1Q1MQ</cache-id>
+  <type>Traditional Cache</type>
+  <name>Johansibär(en) für alle! by Johansibär, Traditional Cache (1.5/1)</name>
+  <size>Micro</size>
+  <difficulty>1.5</difficulty>
+  <terrain>1</terrain>
+  <last-found>2010-10-25</last-found>
+  <placed>2009-04-14</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Johansibär</placedby>
+  <found>Geocache</found>
+  <lat>50.581033</lat>
+  <lon>9.700867</lon>
+  <last-logs>FFFMF</last-logs>
+  <id>006055</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC2DC4M</cache-id>
+  <type>Traditional Cache</type>
+  <name>TB Hotel B27 Fulda Nord by ubx, Traditional Cache (1.5/2)</name>
+  <size>Small</size>
+  <difficulty>1.5</difficulty>
+  <terrain>2</terrain>
+  <last-found>2010-11-13</last-found>
+  <placed>2010-08-14</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>ubx</placedby>
+  <found>Geocache</found>
+  <lat>50.5784</lat>
+  <lon>9.705167</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>004275</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC2FCNZ</cache-id>
+  <type>Traditional Cache</type>
+  <name>Freizeit Spielen 1 by Griesgor, Traditional Cache (1.5/1.5)</name>
+  <size>Small</size>
+  <difficulty>1.5</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-11-21</last-found>
+  <placed>2010-09-12</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Griesgor</placedby>
+  <found>Geocache</found>
+  <lat>50.55015</lat>
+  <lon>9.660283</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>003567</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GCMPA4</cache-id>
+  <type>Traditional Cache</type>
+  <name>Wasserhaus Rauschenberg by Mamomi-1, Traditional Cache (1.5/2)</name>
+  <size>Small</size>
+  <difficulty>1.5</difficulty>
+  <terrain>2</terrain>
+  <last-found>2010-11-01</last-found>
+  <placed>2005-02-05</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Mamomi-1</placedby>
+  <found>Geocache</found>
+  <lat>50.5709</lat>
+  <lon>9.70955</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>006031</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC27PCM</cache-id>
+  <type>Traditional Cache</type>
+  <name>Ursprung by balu-fd, Traditional Cache (1/1)</name>
+  <size>Micro</size>
+  <difficulty>1</difficulty>
+  <terrain>1</terrain>
+  <last-found>2010-11-24</last-found>
+  <placed>2010-04-29</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>balu-fd</placedby>
+  <found>Geocache</found>
+  <lat>50.54715</lat>
+  <lon>9.680633</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>008337</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC1ZB8W</cache-id>
+  <type>Traditional Cache</type>
+  <name>Rabanus Maurus Kirche  by hungry.knight, Traditional Cache (1.5/1)</name>
+  <size>Micro</size>
+  <difficulty>1.5</difficulty>
+  <terrain>1</terrain>
+  <last-found>2010-10-24</last-found>
+  <placed>2009-10-01</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>hungry.knight</placedby>
+  <found>Geocache</found>
+  <lat>50.5576</lat>
+  <lon>9.705483</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>004350</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC21WCP</cache-id>
+  <type>Unknown Cache</type>
+  <name>WolfsRechner Bonus by John Dunbar, Unknown Cache (1/1.5)</name>
+  <size>Micro</size>
+  <difficulty>1</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-06-10</last-found>
+  <placed>2009-12-10</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>John Dunbar</placedby>
+  <found>Geocache</found>
+  <lat>50.584367</lat>
+  <lon>9.652783</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>003119</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC1T4TQ</cache-id>
+  <type>Multi-cache</type>
+  <name>Grüße von Graf Zahl by smartnautilus, Multi-cache (2.5/2)</name>
+  <size>Small</size>
+  <difficulty>2.5</difficulty>
+  <terrain>2</terrain>
+  <last-found>2010-08-25</last-found>
+  <placed>2009-06-01</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>smartnautilus</placedby>
+  <found>Geocache</found>
+  <lat>50.549883</lat>
+  <lon>9.69485</lon>
+  <last-logs>FWFFF</last-logs>
+  <id>008962</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC1GB82</cache-id>
+  <type>Traditional Cache</type>
+  <name>FDs Rumsteherchen - große Pause by Team Gartenheber & Uhrtaucher, Traditional Cache (2/3)</name>
+  <size>Micro</size>
+  <difficulty>2</difficulty>
+  <terrain>3</terrain>
+  <last-found>2010-11-13</last-found>
+  <placed>2008-09-16</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Team Gartenheber & Uhrtaucher</placedby>
+  <found>Geocache</found>
+  <lat>50.546233</lat>
+  <lon>9.672467</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>008871</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC1MVK9</cache-id>
+  <type>Traditional Cache</type>
+  <name>Gotteshäuser - St. Peter Liobakirche by mausezahntiger, Traditional Cache (1.5/1.5)</name>
+  <size>Micro</size>
+  <difficulty>1.5</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-11-01</last-found>
+  <placed>2009-02-21</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>mausezahntiger</placedby>
+  <found>Geocache</found>
+  <lat>50.561483</lat>
+  <lon>9.711533</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>002362</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC228PX</cache-id>
+  <type>Traditional Cache</type>
+  <name>Coin Depot PET by HubiFD, Traditional Cache (1.5/1.5)</name>
+  <size>Small</size>
+  <difficulty>1.5</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-11-28</last-found>
+  <placed>2009-12-27</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>HubiFD</placedby>
+  <found>Geocache</found>
+  <lat>50.559617</lat>
+  <lon>9.712267</lon>
+  <last-logs>FMED</last-logs>
+  <id>003974</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC14Y0N</cache-id>
+  <type>Traditional Cache</type>
+  <name>Schwarz, Breit, Stark by x Deadman x, Traditional Cache (3/1.5)</name>
+  <size>Not chosen</size>
+  <difficulty>3</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-11-07</last-found>
+  <placed>2007-08-05</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>x Deadman x</placedby>
+  <found>Geocache</found>
+  <lat>50.546167</lat>
+  <lon>9.692567</lon>
+  <last-logs>FFFF</last-logs>
+  <id>002328</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC284K7</cache-id>
+  <type>Traditional Cache</type>
+  <name>Blumen Wasser Bänke ... by HubiFD, Traditional Cache (1.5/1)</name>
+  <size>Micro</size>
+  <difficulty>1.5</difficulty>
+  <terrain>1</terrain>
+  <last-found>2010-11-22</last-found>
+  <placed>2010-05-07</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>HubiFD</placedby>
+  <found>Geocache</found>
+  <lat>50.558117</lat>
+  <lon>9.711783</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>007538</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC1XPA6</cache-id>
+  <type>Traditional Cache</type>
+  <name>altes Hüttchen by ManuK, Traditional Cache (3/3.5)</name>
+  <size>Small</size>
+  <difficulty>3</difficulty>
+  <terrain>3.5</terrain>
+  <last-found>2010-10-11</last-found>
+  <placed>2009-08-24</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>ManuK</placedby>
+  <found>Geocache</found>
+  <lat>50.566103</lat>
+  <lon>9.715433</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>005117</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC2FTAN</cache-id>
+  <type>Traditional Cache</type>
+  <name>Ponsmolaris by Camuvlash, Traditional Cache (2/2)</name>
+  <size>Micro</size>
+  <difficulty>2</difficulty>
+  <terrain>2</terrain>
+  <last-found>2010-10-22</last-found>
+  <placed>2010-09-26</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Camuvlash</placedby>
+  <found>Geocache</found>
+  <lat>50.581783</lat>
+  <lon>9.642283</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>009163</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC2BVW7</cache-id>
+  <type>Traditional Cache</type>
+  <name>Eine Floßfahrt, die ist lustig ... by BlackViking, Traditional Cache (2/1.5)</name>
+  <size>Micro</size>
+  <difficulty>2</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-11-16</last-found>
+  <placed>2010-10-04</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>BlackViking</placedby>
+  <found>Geocache</found>
+  <lat>50.54365</lat>
+  <lon>9.664283</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>000758</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC1QVNY</cache-id>
+  <type>Traditional Cache</type>
+  <name>Baumgeist (altes Kriegerdenkmal) by kroenung, Traditional Cache (1.5/1.5)</name>
+  <size>Micro</size>
+  <difficulty>1.5</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-11-01</last-found>
+  <placed>2009-05-02</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>kroenung</placedby>
+  <found>Geocache</found>
+  <lat>50.564017</lat>
+  <lon>9.716767</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>002763</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC1EB26</cache-id>
+  <type>Traditional Cache</type>
+  <name>Ein Micro für Maria by Anonyme_Laeufer, Traditional Cache (1/1)</name>
+  <size>Micro</size>
+  <difficulty>1</difficulty>
+  <terrain>1</terrain>
+  <last-found>2010-10-31</last-found>
+  <placed>2008-07-19</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Anonyme_Laeufer</placedby>
+  <found>Geocache</found>
+  <lat>50.544033</lat>
+  <lon>9.661483</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>003244</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC23MZA</cache-id>
+  <type>Unknown Cache</type>
+  <name>Kottan ermittelt... by Polizeipräsident Heribert Pilch, Unknown Cache (4.5/1.5)</name>
+  <size>Small</size>
+  <difficulty>4.5</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-05-30</last-found>
+  <placed>2010-03-01</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Polizeipräsident Heribert Pilch</placedby>
+  <found>Geocache</found>
+  <lat>50.566717</lat>
+  <lon>9.634917</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>003592</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC1B615</cache-id>
+  <type>Multi-cache</type>
+  <name>Jakobsweg by Ubx, Multi-cache (1/1.5)</name>
+  <size>Small</size>
+  <difficulty>1</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-09-19</last-found>
+  <placed>2008-04-13</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Ubx</placedby>
+  <found>Geocache</found>
+  <lat>50.575233</lat>
+  <lon>9.716783</lon>
+  <last-logs>FFFF</last-logs>
+  <id>009201</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC27PAA</cache-id>
+  <type>Traditional Cache</type>
+  <name>Fischchen im Sturm by balu-fd, Traditional Cache (1/1)</name>
+  <size>Micro</size>
+  <difficulty>1</difficulty>
+  <terrain>1</terrain>
+  <last-found>2010-11-16</last-found>
+  <placed>2010-04-29</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>balu-fd</placedby>
+  <found>Geocache</found>
+  <lat>50.54105</lat>
+  <lon>9.67765</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>003843</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC1K95A</cache-id>
+  <type>Traditional Cache</type>
+  <name>Mobilfunkmast by Ubx, Traditional Cache (1/1)</name>
+  <size>Micro</size>
+  <difficulty>1</difficulty>
+  <terrain>1</terrain>
+  <last-found>2010-10-25</last-found>
+  <placed>2009-02-09</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Ubx</placedby>
+  <found>Geocache</found>
+  <lat>50.556367</lat>
+  <lon>9.637267</lon>
+  <last-logs>FFFF</last-logs>
+  <id>006745</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC21QGT</cache-id>
+  <type>Traditional Cache</type>
+  <name>St. Pius Kirche by hungry.knight, Traditional Cache (1/1)</name>
+  <size>Micro</size>
+  <difficulty>1</difficulty>
+  <terrain>1</terrain>
+  <last-found>2010-11-05</last-found>
+  <placed>2009-12-05</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>hungry.knight</placedby>
+  <found>Geocache</found>
+  <lat>50.54905</lat>
+  <lon>9.7095</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>003516</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC1TEVY</cache-id>
+  <type>Traditional Cache</type>
+  <name>Edelsturm - Zahn der Zeit by smartnautilus, Traditional Cache (2/5)</name>
+  <size>Small</size>
+  <difficulty>2</difficulty>
+  <terrain>5</terrain>
+  <last-found>2010-10-09</last-found>
+  <placed>2009-06-03</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>smartnautilus</placedby>
+  <found>Geocache</found>
+  <lat>50.5942</lat>
+  <lon>9.65555</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>002783</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC1ZEWX</cache-id>
+  <type>Unknown Cache</type>
+  <name>750 (Nachtcache) by team-pandora, Unknown Cache (2.5/3.5)</name>
+  <size>Small</size>
+  <difficulty>2.5</difficulty>
+  <terrain>3.5</terrain>
+  <last-found>2010-10-09</last-found>
+  <placed>2009-10-03</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>team-pandora</placedby>
+  <found>Geocache</found>
+  <lat>50.541483</lat>
+  <lon>9.693417</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>004695</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC1ZHKP</cache-id>
+  <type>Traditional Cache</type>
+  <name>Alte Katholische Kirche Maberzell by hungry.knight, Traditional Cache (1.5/1)</name>
+  <size>Micro</size>
+  <difficulty>1.5</difficulty>
+  <terrain>1</terrain>
+  <last-found>2010-10-24</last-found>
+  <placed>2009-10-06</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>hungry.knight</placedby>
+  <found>Geocache</found>
+  <lat>50.56305</lat>
+  <lon>9.63</lon>
+  <last-logs>FFFXF</last-logs>
+  <id>008949</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC228X3</cache-id>
+  <type>Traditional Cache</type>
+  <name>Der saubere Cache by HubiFD, Traditional Cache (2.5/1)</name>
+  <size>Micro</size>
+  <difficulty>2.5</difficulty>
+  <terrain>1</terrain>
+  <last-found>2010-11-13</last-found>
+  <placed>2009-12-25</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>HubiFD</placedby>
+  <found>Geocache</found>
+  <lat>50.55385</lat>
+  <lon>9.718317</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>000917</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC1CT2G</cache-id>
+  <type>Multi-cache</type>
+  <name>FDs Rumsteherchen  -  Münsterfeld by gartentaucher, Multi-cache (2.5/1.5)</name>
+  <size>Micro</size>
+  <difficulty>2.5</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-11-01</last-found>
+  <placed>2008-06-01</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>gartentaucher</placedby>
+  <found>Geocache</found>
+  <lat>50.55105</lat>
+  <lon>9.63475</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>008889</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GCN7NE</cache-id>
+  <type>Traditional Cache</type>
+  <name>Grotte II by DS by Mamomi-1, Traditional Cache (2.5/1.5)</name>
+  <size>Micro</size>
+  <difficulty>2.5</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2008-03-23</last-found>
+  <placed>2005-03-26</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Mamomi-1</placedby>
+  <found>Geocache Found</found>
+  <lat>50.5991</lat>
+  <lon>9.69005</lon>
+  <last-logs>FFFFFWF</last-logs>
+  <id>000468</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC1H7HD</cache-id>
+  <type>Traditional Cache</type>
+  <name>Ost - West Passage: Monument by huepfehase supported by swordmasterH, Traditional Cache (1.5/1.5)</name>
+  <size>Micro</size>
+  <difficulty>1.5</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-11-05</last-found>
+  <placed>2008-10-14</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>huepfehase supported by swordmasterH</placedby>
+  <found>Geocache</found>
+  <lat>50.566067</lat>
+  <lon>9.624917</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>008674</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC22BYG</cache-id>
+  <type>Unknown Cache</type>
+  <name>Stadt, Land, Fluss, Final by swordmasterH, Unknown Cache (2.5/1.5)</name>
+  <size>Small</size>
+  <difficulty>2.5</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-09-25</last-found>
+  <placed>2009-12-28</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>swordmasterH</placedby>
+  <found>Geocache</found>
+  <lat>50.536333</lat>
+  <lon>9.667333</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>006819</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC291PD</cache-id>
+  <type>Multi-cache</type>
+  <name>Fridolin - ein Gartenzwerg auf Wanderschaft by balalaika, Multi-cache (2.5/2)</name>
+  <size>Regular</size>
+  <difficulty>2.5</difficulty>
+  <terrain>2</terrain>
+  <last-found>2010-10-22</last-found>
+  <placed>2010-05-23</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>balalaika</placedby>
+  <found>Geocache</found>
+  <lat>50.556483</lat>
+  <lon>9.62735</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>007041</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC1ZGQE</cache-id>
+  <type>Traditional Cache</type>
+  <name>St. Maria Kirche by hungry.knight, Traditional Cache (1/1)</name>
+  <size>Micro</size>
+  <difficulty>1</difficulty>
+  <terrain>1</terrain>
+  <last-found>2010-10-31</last-found>
+  <placed>2009-10-05</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>hungry.knight</placedby>
+  <found>Geocache</found>
+  <lat>50.53675</lat>
+  <lon>9.693833</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>009053</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GCYXMD</cache-id>
+  <type>Traditional Cache</type>
+  <name>Park in Künzell by shaktimaan, Traditional Cache (2/1)</name>
+  <size>Micro</size>
+  <difficulty>2</difficulty>
+  <terrain>1</terrain>
+  <last-found>2010-10-21</last-found>
+  <placed>2006-10-16</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>shaktimaan</placedby>
+  <found>Geocache</found>
+  <lat>50.544417</lat>
+  <lon>9.7142</lon>
+  <last-logs>XFFFX</last-logs>
+  <id>007953</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC1K204</cache-id>
+  <type>Traditional Cache</type>
+  <name>Blick Aschenberg by Ubx, Traditional Cache (1/1.5)</name>
+  <size>Small</size>
+  <difficulty>1</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-10-04</last-found>
+  <placed>2008-12-22</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Ubx</placedby>
+  <found>Geocache</found>
+  <lat>50.56845</lat>
+  <lon>9.621167</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>005216</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GCMJK9</cache-id>
+  <type>Traditional Cache</type>
+  <name>Fernsehturm by Salex909, Traditional Cache (1.5/1.5)</name>
+  <size>Small</size>
+  <difficulty>1.5</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2008-03-23</last-found>
+  <placed>2005-01-22</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Salex909</placedby>
+  <found>Geocache</found>
+  <lat>50.604</lat>
+  <lon>9.6758</lon>
+  <last-logs>FFFFFX</last-logs>
+  <id>007970</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC24BP6</cache-id>
+  <type>Multi-cache</type>
+  <name>Mauras Memory by elless, Multi-cache (3.5/3)</name>
+  <size>Small</size>
+  <difficulty>3.5</difficulty>
+  <terrain>3</terrain>
+  <last-found>2010-08-21</last-found>
+  <placed>2010-02-21</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>elless</placedby>
+  <found>Geocache</found>
+  <lat>50.598133</lat>
+  <lon>9.64535</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>006675</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC24574</cache-id>
+  <type>Traditional Cache</type>
+  <name>Mauras 30. by elless, Traditional Cache (3/2.5)</name>
+  <size>Not chosen</size>
+  <difficulty>3</difficulty>
+  <terrain>2.5</terrain>
+  <last-found>2010-09-22</last-found>
+  <placed>2010-02-21</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>elless</placedby>
+  <found>Geocache</found>
+  <lat>50.599767</lat>
+  <lon>9.649567</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>009268</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC165A5</cache-id>
+  <type>Traditional Cache</type>
+  <name>Im Schatten der A7 by rhoenhaeschen + bluemchenpfluecker, Traditional Cache (1.5/2)</name>
+  <size>Micro</size>
+  <difficulty>1.5</difficulty>
+  <terrain>2</terrain>
+  <last-found>2008-03-23</last-found>
+  <placed>2007-09-23</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>rhoenhaeschen + bluemchenpfluecker</placedby>
+  <found>Geocache Found</found>
+  <lat>50.604417</lat>
+  <lon>9.681033</lon>
+  <last-logs>FFFFFWF</last-logs>
+  <id>008458</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC2KCN6</cache-id>
+  <type>Traditional Cache</type>
+  <name>Stephanus by HubiFD, Traditional Cache (1.5/1.5)</name>
+  <size>Micro</size>
+  <difficulty>1.5</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-12-19</last-found>
+  <placed>2010-12-16</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>HubiFD</placedby>
+  <found>Geocache</found>
+  <lat>50.550417</lat>
+  <lon>9.72565</lon>
+  <last-logs>FFFF</last-logs>
+  <id>003161</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC1NP96</cache-id>
+  <type>Traditional Cache</type>
+  <name>Ich weiss basaltne Bergeshöhn by Anonyme_Laeufer, Traditional Cache (1/1)</name>
+  <size>Micro</size>
+  <difficulty>1</difficulty>
+  <terrain>1</terrain>
+  <last-found>2010-11-01</last-found>
+  <placed>2009-03-15</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Anonyme_Laeufer</placedby>
+  <found>Geocache</found>
+  <lat>50.53715</lat>
+  <lon>9.646633</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>000487</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC2ADNM</cache-id>
+  <type>Traditional Cache</type>
+  <name>ave maria by highlow1357, Traditional Cache (2/2)</name>
+  <size>Small</size>
+  <difficulty>2</difficulty>
+  <terrain>2</terrain>
+  <last-found>2010-10-26</last-found>
+  <placed>2010-06-18</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>highlow1357</placedby>
+  <found>Geocache</found>
+  <lat>50.602767</lat>
+  <lon>9.6971</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>001943</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC13F7V</cache-id>
+  <type>Traditional Cache</type>
+  <name>A7 TB-Hotel Richtung Süden (Hummelskopf)  by webfraggle, Traditional Cache (1/1)</name>
+  <size>Regular</size>
+  <difficulty>1</difficulty>
+  <terrain>1</terrain>
+  <last-found>2010-11-16</last-found>
+  <placed>2007-06-07</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>webfraggle</placedby>
+  <found>Geocache</found>
+  <lat>50.6059</lat>
+  <lon>9.679683</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>005712</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GCN7NB</cache-id>
+  <type>Traditional Cache</type>
+  <name>Grotte I by DS by Mamomi-1, Traditional Cache (1/1.5)</name>
+  <size>Micro</size>
+  <difficulty>1</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-10-01</last-found>
+  <placed>2005-03-26</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Mamomi-1</placedby>
+  <found>Geocache</found>
+  <lat>50.585083</lat>
+  <lon>9.729683</lon>
+  <last-logs>FWFF</last-logs>
+  <id>000130</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC28608</cache-id>
+  <type>Unknown Cache</type>
+  <name>Mal was mit Farben!!! by f.etcher, Unknown Cache (4.5/1.5)</name>
+  <size>Micro</size>
+  <difficulty>4.5</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-09-13</last-found>
+  <placed>2010-05-08</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>f.etcher</placedby>
+  <found>Geocache</found>
+  <lat>50.53675</lat>
+  <lon>9.709283</lon>
+  <last-logs>FFWFF</last-logs>
+  <id>001352</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC1ZHJX</cache-id>
+  <type>Traditional Cache</type>
+  <name>St. Markus Kirche Haimbach by hungry.knight, Traditional Cache (1/1)</name>
+  <size>Micro</size>
+  <difficulty>1</difficulty>
+  <terrain>1</terrain>
+  <last-found>2010-10-27</last-found>
+  <placed>2009-10-06</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>hungry.knight</placedby>
+  <found>Geocache</found>
+  <lat>50.546617</lat>
+  <lon>9.62685</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>002049</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GCM85C</cache-id>
+  <type>Traditional Cache</type>
+  <name>Wasserhaus Steinau by Mamomi-1, Traditional Cache (1/2)</name>
+  <size>Regular</size>
+  <difficulty>1</difficulty>
+  <terrain>2</terrain>
+  <last-found>2010-09-26</last-found>
+  <placed>2004-12-10</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Mamomi-1</placedby>
+  <found>Geocache</found>
+  <lat>50.589667</lat>
+  <lon>9.7264</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>008415</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC2BJQR</cache-id>
+  <type>Traditional Cache</type>
+  <name>Tabulapons by Camuvlash, Traditional Cache (2/2)</name>
+  <size>Micro</size>
+  <difficulty>2</difficulty>
+  <terrain>2</terrain>
+  <last-found>2010-11-14</last-found>
+  <placed>2010-07-11</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Camuvlash</placedby>
+  <found>Geocache</found>
+  <lat>50.53365</lat>
+  <lon>9.701167</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>006863</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC2K9F1</cache-id>
+  <type>Traditional Cache</type>
+  <name>Nuff un Nopp 005 o?wie by Maluma, Traditional Cache (2/2)</name>
+  <size>Micro</size>
+  <difficulty>2</difficulty>
+  <terrain>2</terrain>
+  <last-found>2010-12-13</last-found>
+  <placed>2010-12-12</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Maluma</placedby>
+  <found>Geocache</found>
+  <lat>50.531717</lat>
+  <lon>9.694233</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>003993</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC1N5YN</cache-id>
+  <type>Traditional Cache</type>
+  <name>Airfield Sickels by balalaika, Traditional Cache (1/1.5)</name>
+  <size>Micro</size>
+  <difficulty>1</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-10-24</last-found>
+  <placed>2009-02-28</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>balalaika</placedby>
+  <found>Geocache</found>
+  <lat>50.539867</lat>
+  <lon>9.635417</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>000522</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC2K95T</cache-id>
+  <type>Traditional Cache</type>
+  <name>Nuff un Nopp 004 FP by Maluma, Traditional Cache (2.5/2.5)</name>
+  <size>Regular</size>
+  <difficulty>2.5</difficulty>
+  <terrain>2.5</terrain>
+  <last-found>2010-12-13</last-found>
+  <placed>2010-12-12</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Maluma</placedby>
+  <found>Geocache</found>
+  <lat>50.530367</lat>
+  <lon>9.690333</lon>
+  <last-logs>FWWFF</last-logs>
+  <id>009454</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC1PHN5</cache-id>
+  <type>Traditional Cache</type>
+  <name>neues TB-Hotel "Zur Waldlaube" an der A7 N+S by gartentaucher, Traditional Cache (1/2.5)</name>
+  <size>Regular</size>
+  <difficulty>1</difficulty>
+  <terrain>2.5</terrain>
+  <last-found>2010-11-16</last-found>
+  <placed>2009-04-05</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>gartentaucher</placedby>
+  <found>Geocache</found>
+  <lat>50.550467</lat>
+  <lon>9.731833</lon>
+  <last-logs>FFWFW</last-logs>
+  <id>008039</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC27E72</cache-id>
+  <type>Traditional Cache</type>
+  <name>Rhönblick beim Flurkreuz by HubiFD, Traditional Cache (1.5/1.5)</name>
+  <size>Micro</size>
+  <difficulty>1.5</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-10-31</last-found>
+  <placed>2010-04-25</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>HubiFD</placedby>
+  <found>Geocache</found>
+  <lat>50.554783</lat>
+  <lon>9.737567</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>004833</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC1YG7T</cache-id>
+  <type>Multi-cache</type>
+  <name>Aus längst vergangenen Zeiten by balalaika, Multi-cache (2.5/2.5)</name>
+  <size>Regular</size>
+  <difficulty>2.5</difficulty>
+  <terrain>2.5</terrain>
+  <last-found>2010-05-24</last-found>
+  <placed>2009-09-10</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>balalaika</placedby>
+  <found>Geocache</found>
+  <lat>50.58955</lat>
+  <lon>9.619833</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>006787</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC1NP9D</cache-id>
+  <type>Traditional Cache</type>
+  <name>Es war einmal... eine Landstrasse by Anonyme_Laeufer, Traditional Cache (1/1)</name>
+  <size>Small</size>
+  <difficulty>1</difficulty>
+  <terrain>1</terrain>
+  <last-found>2010-10-24</last-found>
+  <placed>2009-03-15</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Anonyme_Laeufer</placedby>
+  <found>Geocache</found>
+  <lat>50.530333</lat>
+  <lon>9.650283</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>008375</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC1ZRE5</cache-id>
+  <type>Traditional Cache</type>
+  <name>Prinzessin Lillifee by Maluma, Traditional Cache (1.5/1.5)</name>
+  <size>Regular</size>
+  <difficulty>1.5</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-11-09</last-found>
+  <placed>2009-10-12</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Maluma</placedby>
+  <found>Geocache</found>
+  <lat>50.526317</lat>
+  <lon>9.679967</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>003133</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC27C2Z</cache-id>
+  <type>Traditional Cache</type>
+  <name>Tukka Takka Land  by f.etcher, Traditional Cache (1.5/1.5)</name>
+  <size>Micro</size>
+  <difficulty>1.5</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-11-19</last-found>
+  <placed>2010-04-24</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>f.etcher</placedby>
+  <found>Geocache</found>
+  <lat>50.5374</lat>
+  <lon>9.72145</lon>
+  <last-logs>WFWFF</last-logs>
+  <id>004254</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC276X3</cache-id>
+  <type>Multi-cache</type>
+  <name>Noppen by HubiFD, Multi-cache (1.5/1.5)</name>
+  <size>Small</size>
+  <difficulty>1.5</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-10-21</last-found>
+  <placed>2010-04-21</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>HubiFD</placedby>
+  <found>Geocache</found>
+  <lat>50.5518</lat>
+  <lon>9.7379</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>009313</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC27Q87</cache-id>
+  <type>Traditional Cache</type>
+  <name>Trainings - Leitplanke by al_bundy_hessen, Traditional Cache (1/1)</name>
+  <size>Micro</size>
+  <difficulty>1</difficulty>
+  <terrain>1</terrain>
+  <last-found>2010-11-21</last-found>
+  <placed>2010-04-30</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>al_bundy_hessen</placedby>
+  <found>Geocache</found>
+  <lat>50.542317</lat>
+  <lon>9.72985</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>008475</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC2FT9X</cache-id>
+  <type>Traditional Cache</type>
+  <name>Ponsarca by Camuvlash, Traditional Cache (2/2)</name>
+  <size>Micro</size>
+  <difficulty>2</difficulty>
+  <terrain>2</terrain>
+  <last-found>2010-11-09</last-found>
+  <placed>2010-09-26</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Camuvlash</placedby>
+  <found>Geocache</found>
+  <lat>50.525417</lat>
+  <lon>9.676583</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>008479</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC202B0</cache-id>
+  <type>Traditional Cache</type>
+  <name>Am Rande von Steinau by SirGerion, Traditional Cache (1/1.5)</name>
+  <size>Small</size>
+  <difficulty>1</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-09-19</last-found>
+  <placed>2009-10-19</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>SirGerion</placedby>
+  <found>Geocache</found>
+  <lat>50.594067</lat>
+  <lon>9.730967</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>004156</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC26QVP</cache-id>
+  <type>Multi-cache</type>
+  <name>Leuchtspur Südend Nachtcache by Maluma, Multi-cache (1.5/1.5)</name>
+  <size>Regular</size>
+  <difficulty>1.5</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-09-17</last-found>
+  <placed>2010-04-13</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Maluma</placedby>
+  <found>Geocache</found>
+  <lat>50.525017</lat>
+  <lon>9.679533</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>001184</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC18NM2</cache-id>
+  <type>Multi-cache</type>
+  <name>Quelle 2 Steinau by ubx, Multi-cache (1.5/1.5)</name>
+  <size>Micro</size>
+  <difficulty>1.5</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-08-20</last-found>
+  <placed>2008-01-17</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>ubx</placedby>
+  <found>Geocache</found>
+  <lat>50.591333</lat>
+  <lon>9.735233</lon>
+  <last-logs>FWFXF</last-logs>
+  <id>005255</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC12C22</cache-id>
+  <type>Multi-cache</type>
+  <name>Historisches Johannesberg  by Kosake, Multi-cache (2/2.5)</name>
+  <size>Regular</size>
+  <difficulty>2</difficulty>
+  <terrain>2.5</terrain>
+  <last-found>2010-10-31</last-found>
+  <placed>2007-04-22</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Kosake</placedby>
+  <found>Geocache</found>
+  <lat>50.524567</lat>
+  <lon>9.6621</lon>
+  <last-logs>FFFFX</last-logs>
+  <id>009458</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC1X1PD</cache-id>
+  <type>Unknown Cache</type>
+  <name>Harmloses Harmerz?! Nr.I by rennmaus & rennhase, Unknown Cache (2/2)</name>
+  <size>Micro</size>
+  <difficulty>2</difficulty>
+  <terrain>2</terrain>
+  <last-found>2010-06-26</last-found>
+  <placed>2009-08-09</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>rennmaus & rennhase</placedby>
+  <found>Geocache</found>
+  <lat>50.52375</lat>
+  <lon>9.665683</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>001833</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GCQYZ3</cache-id>
+  <type>Multi-cache</type>
+  <name>Rochus-Kapelle Kämmerzell by DerUnsichtbare, Multi-cache (1/1.5)</name>
+  <size>Micro</size>
+  <difficulty>1</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-09-26</last-found>
+  <placed>2005-10-14</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>DerUnsichtbare</placedby>
+  <found>Geocache</found>
+  <lat>50.607767</lat>
+  <lon>9.6403</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>006105</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC2GG7H</cache-id>
+  <type>Traditional Cache</type>
+  <name>Ascensus by Camuvlash, Traditional Cache (1.5/2)</name>
+  <size>Small</size>
+  <difficulty>1.5</difficulty>
+  <terrain>2</terrain>
+  <last-found>2010-11-09</last-found>
+  <placed>2010-10-10</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Camuvlash</placedby>
+  <found>Geocache</found>
+  <lat>50.5249</lat>
+  <lon>9.696283</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>007754</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC258KE</cache-id>
+  <type>Traditional Cache</type>
+  <name>Bornfeldlinde by Michael01, Traditional Cache (1.5/1.5)</name>
+  <size>Micro</size>
+  <difficulty>1.5</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-10-31</last-found>
+  <placed>2010-03-19</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Michael01</placedby>
+  <found>Geocache</found>
+  <lat>50.604317</lat>
+  <lon>9.720433</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>004262</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC2BRGT</cache-id>
+  <type>Traditional Cache</type>
+  <name>im Wald am Fluss 1 by ubx, Traditional Cache (1.5/4)</name>
+  <size>Micro</size>
+  <difficulty>1.5</difficulty>
+  <terrain>4</terrain>
+  <last-found>2010-10-05</last-found>
+  <placed>2010-07-15</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>ubx</placedby>
+  <found>Geocache</found>
+  <lat>50.607567</lat>
+  <lon>9.63765</lon>
+  <last-logs>FFFFW</last-logs>
+  <id>009861</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC29ZY2</cache-id>
+  <type>Traditional Cache</type>
+  <name>Künzeller Wäldchen by Pathfinder_FD, Traditional Cache (1.5/1.5)</name>
+  <size>Regular</size>
+  <difficulty>1.5</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-11-14</last-found>
+  <placed>2010-06-09</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Pathfinder_FD</placedby>
+  <found>Geocache</found>
+  <lat>50.53665</lat>
+  <lon>9.7288</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>004679</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC2029P</cache-id>
+  <type>Traditional Cache</type>
+  <name>Willkommen in Steinau by SirGerion, Traditional Cache (1.5/1.5)</name>
+  <size>Micro</size>
+  <difficulty>1.5</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-09-26</last-found>
+  <placed>2009-10-19</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>SirGerion</placedby>
+  <found>Geocache</found>
+  <lat>50.5964</lat>
+  <lon>9.735417</lon>
+  <last-logs>FFFFX</last-logs>
+  <id>006041</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC26QKK</cache-id>
+  <type>Traditional Cache</type>
+  <name>TB Hotel Spielebox by Maluma, Traditional Cache (2/2.5)</name>
+  <size>Large</size>
+  <difficulty>2</difficulty>
+  <terrain>2.5</terrain>
+  <last-found>2010-11-14</last-found>
+  <placed>2010-04-13</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Maluma</placedby>
+  <found>Geocache</found>
+  <lat>50.52155</lat>
+  <lon>9.682417</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>009397</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC27P9M</cache-id>
+  <type>Traditional Cache</type>
+  <name>Rauschenbergblick by HubiFD, Traditional Cache (1/1)</name>
+  <size>Micro</size>
+  <difficulty>1</difficulty>
+  <terrain>1</terrain>
+  <last-found>2010-10-24</last-found>
+  <placed>2010-05-10</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>HubiFD</placedby>
+  <found>Geocache</found>
+  <lat>50.56905</lat>
+  <lon>9.750567</lon>
+  <last-logs>FFFWF</last-logs>
+  <id>003944</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC2GM3N</cache-id>
+  <type>Multi-cache</type>
+  <name>Refectorium by Camuvlash, Multi-cache (2/2)</name>
+  <size>Regular</size>
+  <difficulty>2</difficulty>
+  <terrain>2</terrain>
+  <last-found>2010-12-13</last-found>
+  <placed>2010-10-12</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Camuvlash</placedby>
+  <found>Geocache</found>
+  <lat>50.52105</lat>
+  <lon>9.68505</lon>
+  <last-logs>FFF</last-logs>
+  <id>001181</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC1189B</cache-id>
+  <type>Multi-cache</type>
+  <name>Der kleine Topf im großen Topf by Die 5 Stooges, Multi-cache (2/1.5)</name>
+  <size>Regular</size>
+  <difficulty>2</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-10-03</last-found>
+  <placed>2007-03-04</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Die 5 Stooges</placedby>
+  <found>Geocache</found>
+  <lat>50.521867</lat>
+  <lon>9.693833</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>006251</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC27DTJ</cache-id>
+  <type>Traditional Cache</type>
+  <name>Feldkapelle Almendorf / Melzdorf by HubiFD, Traditional Cache (1.5/2)</name>
+  <size>Micro</size>
+  <difficulty>1.5</difficulty>
+  <terrain>2</terrain>
+  <last-found>2010-10-27</last-found>
+  <placed>2010-04-25</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>HubiFD</placedby>
+  <found>Geocache</found>
+  <lat>50.574583</lat>
+  <lon>9.75115</lon>
+  <last-logs>FFFE</last-logs>
+  <id>008637</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC2JMJ4</cache-id>
+  <type>Traditional Cache</type>
+  <name>Nuff un Nopp 003 Funkturm by Maluma, Traditional Cache (2.5/5)</name>
+  <size>Small</size>
+  <difficulty>2.5</difficulty>
+  <terrain>5</terrain>
+  <last-found>2010-12-13</last-found>
+  <placed>2010-11-23</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Maluma</placedby>
+  <found>Geocache</found>
+  <lat>50.521017</lat>
+  <lon>9.689733</lon>
+  <last-logs>FF</last-logs>
+  <id>007247</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC1X9FP</cache-id>
+  <type>Traditional Cache</type>
+  <name>Röderkreuz by jonny-blue & Waldelb09, Traditional Cache (1.5/2)</name>
+  <size>Micro</size>
+  <difficulty>1.5</difficulty>
+  <terrain>2</terrain>
+  <last-found>2010-11-14</last-found>
+  <placed>2009-08-15</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>jonny-blue & Waldelb09</placedby>
+  <found>Geocache</found>
+  <lat>50.525667</lat>
+  <lon>9.6398</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>009533</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC26VGE</cache-id>
+  <type>Traditional Cache</type>
+  <name>Rhönblick - Rexer Feldkapelle by HubiFD, Traditional Cache (1.5/1.5)</name>
+  <size>Micro</size>
+  <difficulty>1.5</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-10-30</last-found>
+  <placed>2010-04-15</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>HubiFD</placedby>
+  <found>Geocache</found>
+  <lat>50.560233</lat>
+  <lon>9.7524</lon>
+  <last-logs>FFFFE</last-logs>
+  <id>006833</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC1E0XT</cache-id>
+  <type>Multi-cache</type>
+  <name>alte Mun-Ranch by Ubx, Multi-cache (1/1.5)</name>
+  <size>Micro</size>
+  <difficulty>1</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-05-08</last-found>
+  <placed>2008-07-09</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Ubx</placedby>
+  <found>Geocache</found>
+  <lat>50.5853</lat>
+  <lon>9.603517</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>006477</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC2KAEB</cache-id>
+  <type>Traditional Cache</type>
+  <name>Nuff un Nopp 006 Kerch by Maluma, Traditional Cache (1.5/1.5)</name>
+  <size>Micro</size>
+  <difficulty>1.5</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-12-13</last-found>
+  <placed>2010-12-13</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Maluma</placedby>
+  <found>Geocache</found>
+  <lat>50.518917</lat>
+  <lon>9.68445</lon>
+  <last-logs>FFF</last-logs>
+  <id>006013</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC19BNF</cache-id>
+  <type>Multi-cache</type>
+  <name>Schranke 1 by Ubx, Multi-cache (2/3.5)</name>
+  <size>Small</size>
+  <difficulty>2</difficulty>
+  <terrain>3.5</terrain>
+  <last-found>2010-08-21</last-found>
+  <placed>2008-02-13</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Ubx</placedby>
+  <found>Geocache</found>
+  <lat>50.563333</lat>
+  <lon>9.59775</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>003535</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC1AMYJ</cache-id>
+  <type>Multi-cache</type>
+  <name>übers Wasser gehen by ubx, Multi-cache (1.5/1.5)</name>
+  <size>Small</size>
+  <difficulty>1.5</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-10-10</last-found>
+  <placed>2008-04-02</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>ubx</placedby>
+  <found>Geocache</found>
+  <lat>50.6069</lat>
+  <lon>9.6253</lon>
+  <last-logs>FWFFF</last-logs>
+  <id>004224</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC208FQ</cache-id>
+  <type>Traditional Cache</type>
+  <name>Am alten Gärtchen by fezi, Traditional Cache (1.5/2)</name>
+  <size>Small</size>
+  <difficulty>1.5</difficulty>
+  <terrain>2</terrain>
+  <last-found>2010-09-21</last-found>
+  <placed>2009-10-25</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>fezi</placedby>
+  <found>Geocache</found>
+  <lat>50.518183</lat>
+  <lon>9.671517</lon>
+  <last-logs>FFFWX</last-logs>
+  <id>003056</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC1X1W0</cache-id>
+  <type>Unknown Cache</type>
+  <name>Harmloses Harmerz?! Nr.V by rennmaus & rennhase, Unknown Cache (2/1.5)</name>
+  <size>Micro</size>
+  <difficulty>2</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-04-29</last-found>
+  <placed>2009-08-09</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>rennmaus & rennhase</placedby>
+  <found>Geocache</found>
+  <lat>50.520233</lat>
+  <lon>9.652967</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>006644</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC2DAMB</cache-id>
+  <type>Traditional Cache</type>
+  <name>im Wald am Fluss 2 by ubx, Traditional Cache (1.5/3)</name>
+  <size>Micro</size>
+  <difficulty>1.5</difficulty>
+  <terrain>3</terrain>
+  <last-found>2010-09-22</last-found>
+  <placed>2010-08-13</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>ubx</placedby>
+  <found>Geocache</found>
+  <lat>50.594483</lat>
+  <lon>9.60705</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>004360</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC1X1R1</cache-id>
+  <type>Unknown Cache</type>
+  <name>Harmloses Harmerz?! Nr.II by rennmaus & rennhase, Unknown Cache (1/1)</name>
+  <size>Micro</size>
+  <difficulty>1</difficulty>
+  <terrain>1</terrain>
+  <last-found>2010-06-12</last-found>
+  <placed>2009-08-09</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>rennmaus & rennhase</placedby>
+  <found>Geocache</found>
+  <lat>50.51895</lat>
+  <lon>9.657</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>004840</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC176VC</cache-id>
+  <type>Unknown Cache</type>
+  <name>2 Türme ( schwer zu finden !! ) by ubx, Unknown Cache (4/2)</name>
+  <size>Small</size>
+  <difficulty>4</difficulty>
+  <terrain>2</terrain>
+  <last-found>2010-04-18</last-found>
+  <placed>2007-11-02</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>ubx</placedby>
+  <found>Geocache</found>
+  <lat>50.550967</lat>
+  <lon>9.5988</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>009979</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC210PC</cache-id>
+  <type>Traditional Cache</type>
+  <name>Eichhörnchenschatz by jrg77, Traditional Cache (1.5/2.5)</name>
+  <size>Regular</size>
+  <difficulty>1.5</difficulty>
+  <terrain>2.5</terrain>
+  <last-found>2010-10-25</last-found>
+  <placed>2009-11-14</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>jrg77</placedby>
+  <found>Geocache</found>
+  <lat>50.523283</lat>
+  <lon>9.71755</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>008830</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC14TB9</cache-id>
+  <type>Traditional Cache</type>
+  <name>Micro für Zwischendrin by gartentaucher, Traditional Cache (1.5/2)</name>
+  <size>Other</size>
+  <difficulty>1.5</difficulty>
+  <terrain>2</terrain>
+  <last-found>2010-06-12</last-found>
+  <placed>2007-07-31</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>gartentaucher</placedby>
+  <found>Geocache</found>
+  <lat>50.545933</lat>
+  <lon>9.601817</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>007817</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GCYHP5</cache-id>
+  <type>Traditional Cache</type>
+  <name>Fulda Blick II (Süd) by shaktimaan, Traditional Cache (2/1)</name>
+  <size>Micro</size>
+  <difficulty>2</difficulty>
+  <terrain>1</terrain>
+  <last-found>2010-11-07</last-found>
+  <placed>2006-09-26</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>shaktimaan</placedby>
+  <found>Geocache</found>
+  <lat>50.523767</lat>
+  <lon>9.7193</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>002941</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC24JH8</cache-id>
+  <type>Traditional Cache</type>
+  <name>Blick uff Quetschebimmich by HubiFD, Traditional Cache (1.5/1.5)</name>
+  <size>Micro</size>
+  <difficulty>1.5</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-08-30</last-found>
+  <placed>2010-03-04</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>HubiFD</placedby>
+  <found>Geocache</found>
+  <lat>50.5802</lat>
+  <lon>9.595583</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>005519</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC27CMF</cache-id>
+  <type>Unknown Cache</type>
+  <name>VBB by HubiFD, Unknown Cache (5/1.5)</name>
+  <size>Micro</size>
+  <difficulty>5</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-09-26</last-found>
+  <placed>2010-04-24</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>HubiFD</placedby>
+  <found>Geocache</found>
+  <lat>50.51595</lat>
+  <lon>9.685833</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>002812</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC18HRP</cache-id>
+  <type>Multi-cache</type>
+  <name>.......ausstellung, seht euch gut um. by ubx, Multi-cache (1/2)</name>
+  <size>Small</size>
+  <difficulty>1</difficulty>
+  <terrain>2</terrain>
+  <last-found>2010-06-14</last-found>
+  <placed>2008-01-10</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>ubx</placedby>
+  <found>Geocache</found>
+  <lat>50.573833</lat>
+  <lon>9.59265</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>004955</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC1B73M</cache-id>
+  <type>Traditional Cache</type>
+  <name>übers Wasser gehen 2 by ubx, Traditional Cache (1/1.5)</name>
+  <size>Small</size>
+  <difficulty>1</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-08-21</last-found>
+  <placed>2008-04-13</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>ubx</placedby>
+  <found>Geocache</found>
+  <lat>50.602733</lat>
+  <lon>9.611017</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>000746</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC1XYTE</cache-id>
+  <type>Letterbox Hybrid</type>
+  <name>Geografischer Mittelpunkt des Landkreises Fulda by whoever placed the cache, Letterbox Hybrid (2.5/2)</name>
+  <size>Small</size>
+  <difficulty>2.5</difficulty>
+  <terrain>2</terrain>
+  <last-found>2010-10-21</last-found>
+  <placed>2010-09-11</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>whoever placed the cache</placedby>
+  <found>Geocache</found>
+  <lat>50.566667</lat>
+  <lon>9.760833</lon>
+  <last-logs>FFFFW</last-logs>
+  <id>003243</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC1K42G</cache-id>
+  <type>Traditional Cache</type>
+  <name>neues TB Hotel A7 Richtung Nord by Ubx, Traditional Cache (1/2)</name>
+  <size>Small</size>
+  <difficulty>1</difficulty>
+  <terrain>2</terrain>
+  <last-found>2010-11-14</last-found>
+  <placed>2008-12-25</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Ubx</placedby>
+  <found>Geocache</found>
+  <lat>50.6225</lat>
+  <lon>9.67805</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>001408</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GCJ7K2</cache-id>
+  <type>Traditional Cache</type>
+  <name>Ü-Ei-cache by Die 5 Stooges, Traditional Cache (1/1)</name>
+  <size>Regular</size>
+  <difficulty>1</difficulty>
+  <terrain>1</terrain>
+  <last-found>2010-09-18</last-found>
+  <placed>2004-04-18</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Die 5 Stooges</placedby>
+  <found>Geocache</found>
+  <lat>50.519517</lat>
+  <lon>9.71495</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>002208</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC1WTH5</cache-id>
+  <type>Traditional Cache</type>
+  <name>Willkommen in Zirkenbach by Waldelb09 & jonny-blue, Traditional Cache (1.5/1)</name>
+  <size>Micro</size>
+  <difficulty>1.5</difficulty>
+  <terrain>1</terrain>
+  <last-found>2010-10-30</last-found>
+  <placed>2009-08-04</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Waldelb09 & jonny-blue</placedby>
+  <found>Geocache</found>
+  <lat>50.5195</lat>
+  <lon>9.635733</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>007943</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC21ZV7</cache-id>
+  <type>Traditional Cache</type>
+  <name>Kreuz mit Bäumen by ubx, Traditional Cache (1/1.5)</name>
+  <size>Micro</size>
+  <difficulty>1</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-08-21</last-found>
+  <placed>2009-12-13</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>ubx</placedby>
+  <found>Geocache</found>
+  <lat>50.5952</lat>
+  <lon>9.5995</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>000303</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC2H9FB</cache-id>
+  <type>Traditional Cache</type>
+  <name>Alter Hochbehälter  by Papa Schlumpf, Traditional Cache (1.5/1)</name>
+  <size>Micro</size>
+  <difficulty>1.5</difficulty>
+  <terrain>1</terrain>
+  <last-found>2010-11-07</last-found>
+  <placed>2010-10-25</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Papa Schlumpf</placedby>
+  <found>Geocache</found>
+  <lat>50.621017</lat>
+  <lon>9.706317</lon>
+  <last-logs>MFFFF</last-logs>
+  <id>009037</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC1XMB3</cache-id>
+  <type>Traditional Cache</type>
+  <name>Rost - nicht Rost by Ubx, Traditional Cache (1.5/2.5)</name>
+  <size>Micro</size>
+  <difficulty>1.5</difficulty>
+  <terrain>2.5</terrain>
+  <last-found>2010-09-19</last-found>
+  <placed>2009-08-23</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Ubx</placedby>
+  <found>Geocache</found>
+  <lat>50.561433</lat>
+  <lon>9.588317</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>001459</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC11G4P</cache-id>
+  <type>Traditional Cache</type>
+  <name>Margretenberg by ikeableistift, Traditional Cache (1.5/1.5)</name>
+  <size>Small</size>
+  <difficulty>1.5</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-09-20</last-found>
+  <placed>2007-12-26</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>ikeableistift</placedby>
+  <found>Geocache</found>
+  <lat>50.567583</lat>
+  <lon>9.766067</lon>
+  <last-logs>EDXXF</last-logs>
+  <id>002691</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GCYHP2</cache-id>
+  <type>Traditional Cache</type>
+  <name>Fulda Blick I (Ost) by shaktimaan, Traditional Cache (2/1)</name>
+  <size>Micro</size>
+  <difficulty>2</difficulty>
+  <terrain>1</terrain>
+  <last-found>2010-09-26</last-found>
+  <placed>2006-09-25</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>shaktimaan</placedby>
+  <found>Geocache</found>
+  <lat>50.5863</lat>
+  <lon>9.763033</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>000326</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC2D097</cache-id>
+  <type>Traditional Cache</type>
+  <name>im Wald am Fluss 3 by ubx, Traditional Cache (2/3.5)</name>
+  <size>Small</size>
+  <difficulty>2</difficulty>
+  <terrain>3.5</terrain>
+  <last-found>2010-09-05</last-found>
+  <placed>2010-08-07</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>ubx</placedby>
+  <found>Geocache</found>
+  <lat>50.584</lat>
+  <lon>9.5881</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>000663</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC1X1V3</cache-id>
+  <type>Unknown Cache</type>
+  <name>Harmloses Harmerz?! Nr.IV by rennmaus & rennhase, Unknown Cache (1.5/2)</name>
+  <size>Micro</size>
+  <difficulty>1.5</difficulty>
+  <terrain>2</terrain>
+  <last-found>2010-04-18</last-found>
+  <placed>2009-08-09</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>rennmaus & rennhase</placedby>
+  <found>Geocache</found>
+  <lat>50.51325</lat>
+  <lon>9.64515</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>006178</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC1C8B9</cache-id>
+  <type>Traditional Cache</type>
+  <name>Baumbart by team-pandora, Traditional Cache (2/3)</name>
+  <size>Micro</size>
+  <difficulty>2</difficulty>
+  <terrain>3</terrain>
+  <last-found>2010-08-22</last-found>
+  <placed>2008-05-14</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>team-pandora</placedby>
+  <found>Geocache</found>
+  <lat>50.61515</lat>
+  <lon>9.619617</lon>
+  <last-logs>WFMFF</last-logs>
+  <id>005121</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC28098</cache-id>
+  <type>Multi-cache</type>
+  <name>Wandertour im Heidelbeerland by Anonyme_Laeufer, Multi-cache (2/2.5)</name>
+  <size>Regular</size>
+  <difficulty>2</difficulty>
+  <terrain>2.5</terrain>
+  <last-found>2010-08-07</last-found>
+  <placed>2010-05-04</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Anonyme_Laeufer</placedby>
+  <found>Geocache</found>
+  <lat>50.522833</lat>
+  <lon>9.615717</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>001127</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC2HPW9</cache-id>
+  <type>Traditional Cache</type>
+  <name>Nuff un Nopp 001 by Maluma, Traditional Cache (2/5)</name>
+  <size>Micro</size>
+  <difficulty>2</difficulty>
+  <terrain>5</terrain>
+  <last-found>2010-11-14</last-found>
+  <placed>2010-11-03</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Maluma</placedby>
+  <found>Geocache</found>
+  <lat>50.508483</lat>
+  <lon>9.677733</lon>
+  <last-logs>FFFWF</last-logs>
+  <id>003306</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC2F2PP</cache-id>
+  <type>Traditional Cache</type>
+  <name>Lignopontis by Camuvlash, Traditional Cache (2/2.5)</name>
+  <size>Micro</size>
+  <difficulty>2</difficulty>
+  <terrain>2.5</terrain>
+  <last-found>2010-11-04</last-found>
+  <placed>2010-09-12</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Camuvlash</placedby>
+  <found>Geocache</found>
+  <lat>50.508033</lat>
+  <lon>9.672567</lon>
+  <last-logs>FFFFX</last-logs>
+  <id>007069</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GCMGYB</cache-id>
+  <type>Traditional Cache</type>
+  <name>Wasserhaus Steinhaus by webfraggle, Traditional Cache (1/1)</name>
+  <size>Micro</size>
+  <difficulty>1</difficulty>
+  <terrain>1</terrain>
+  <last-found>2010-09-19</last-found>
+  <placed>2005-01-16</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>webfraggle</placedby>
+  <found>Geocache</found>
+  <lat>50.5995</lat>
+  <lon>9.758533</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>007386</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC2GVW5</cache-id>
+  <type>Unknown Cache</type>
+  <name>Schönstadt by Limoel, Unknown Cache (2.5/2)</name>
+  <size>Small</size>
+  <difficulty>2.5</difficulty>
+  <terrain>2</terrain>
+  <last-found>2010-10-22</last-found>
+  <placed>2010-10-17</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Limoel</placedby>
+  <found>Geocache</found>
+  <lat>50.598033</lat>
+  <lon>9.761367</lon>
+  <last-logs>FWFFF</last-logs>
+  <id>009326</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC1J1C2</cache-id>
+  <type>Multi-cache</type>
+  <name>Das Erbe der Raubritter von Haune by Johansibär, Multi-cache (2/3)</name>
+  <size>Small</size>
+  <difficulty>2</difficulty>
+  <terrain>3</terrain>
+  <last-found>2010-08-12</last-found>
+  <placed>2008-11-14</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Johansibär</placedby>
+  <found>Geocache</found>
+  <lat>50.6187</lat>
+  <lon>9.7358</lon>
+  <last-logs>EDFFF</last-logs>
+  <id>001563</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC22GJ2</cache-id>
+  <type>Traditional Cache</type>
+  <name>L 3307 by HubiFD, Traditional Cache (1.5/1.5)</name>
+  <size>Micro</size>
+  <difficulty>1.5</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-10-31</last-found>
+  <placed>2010-03-02</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>HubiFD</placedby>
+  <found>Geocache</found>
+  <lat>50.50565</lat>
+  <lon>9.68485</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>009573</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GCN7NM</cache-id>
+  <type>Traditional Cache</type>
+  <name>Grotte III by DS by Mamomi-1, Traditional Cache (1.5/2)</name>
+  <size>Micro</size>
+  <difficulty>1.5</difficulty>
+  <terrain>2</terrain>
+  <last-found>2010-10-09</last-found>
+  <placed>2005-03-26</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Mamomi-1</placedby>
+  <found>Geocache</found>
+  <lat>50.625583</lat>
+  <lon>9.719217</lon>
+  <last-logs>FFWFF</last-logs>
+  <id>001375</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC17JY5</cache-id>
+  <type>Traditional Cache</type>
+  <name>Endlich ein ehrlicher Cache! by gartentaucher, Traditional Cache (1.5/2)</name>
+  <size>Regular</size>
+  <difficulty>1.5</difficulty>
+  <terrain>2</terrain>
+  <last-found>2010-08-01</last-found>
+  <placed>2007-11-24</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>gartentaucher</placedby>
+  <found>Geocache</found>
+  <lat>50.631683</lat>
+  <lon>9.6667</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>002339</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC1PYRW</cache-id>
+  <type>Traditional Cache</type>
+  <name>kein Ausblick by Ubx, Traditional Cache (1/2)</name>
+  <size>Micro</size>
+  <difficulty>1</difficulty>
+  <terrain>2</terrain>
+  <last-found>2010-06-12</last-found>
+  <placed>2009-04-12</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Ubx</placedby>
+  <found>Geocache</found>
+  <lat>50.559817</lat>
+  <lon>9.576967</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>006460</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC287NA</cache-id>
+  <type>Traditional Cache</type>
+  <name>Drei Lärchen by capitanok9, Traditional Cache (1.5/1.5)</name>
+  <size>Micro</size>
+  <difficulty>1.5</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-09-21</last-found>
+  <placed>2010-05-09</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>capitanok9</placedby>
+  <found>Geocache</found>
+  <lat>50.507283</lat>
+  <lon>9.646633</lon>
+  <last-logs>FFXFF</last-logs>
+  <id>006370</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC1X1WK</cache-id>
+  <type>Unknown Cache</type>
+  <name>Bonus-Cache Harmloses Harmerz?! by rennmaus & rennhase, Unknown Cache (2/2.5)</name>
+  <size>Regular</size>
+  <difficulty>2</difficulty>
+  <terrain>2.5</terrain>
+  <last-found>2010-03-24</last-found>
+  <placed>2009-08-09</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>rennmaus & rennhase</placedby>
+  <found>Geocache</found>
+  <lat>50.511067</lat>
+  <lon>9.631283</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>003198</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC1Q7CE</cache-id>
+  <type>Traditional Cache</type>
+  <name>noch ne Grotte by Ubx, Traditional Cache (1/1)</name>
+  <size>Micro</size>
+  <difficulty>1</difficulty>
+  <terrain>1</terrain>
+  <last-found>2010-09-19</last-found>
+  <placed>2009-04-18</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Ubx</placedby>
+  <found>Geocache</found>
+  <lat>50.553667</lat>
+  <lon>9.57745</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>003867</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GCQDY2</cache-id>
+  <type>Traditional Cache</type>
+  <name>FCKW 03: Alte Heeresstraße by smeagol, Die 5 Stooges und Ultimatio Ratio, Traditional Cache (1/1.5)</name>
+  <size>Micro</size>
+  <difficulty>1</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-08-08</last-found>
+  <placed>2005-09-04</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>smeagol, Die 5 Stooges und Ultimatio Ratio</placedby>
+  <found>Geocache</found>
+  <lat>50.504867</lat>
+  <lon>9.655267</lon>
+  <last-logs>FFFXF</last-logs>
+  <id>006971</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC1YKPG</cache-id>
+  <type>Traditional Cache</type>
+  <name>Zeller Loch by Waldelb09, Traditional Cache (1.5/1.5)</name>
+  <size>Small</size>
+  <difficulty>1.5</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-10-03</last-found>
+  <placed>2009-09-13</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Waldelb09</placedby>
+  <found>Geocache</found>
+  <lat>50.512333</lat>
+  <lon>9.620783</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>004095</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GCFAEC</cache-id>
+  <type>Multi-cache</type>
+  <name>first growing cache by Guybrush Threepwood, Multi-cache (2/1)</name>
+  <size>Micro</size>
+  <difficulty>2</difficulty>
+  <terrain>1</terrain>
+  <last-found>2010-07-31</last-found>
+  <placed>2003-04-17</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Guybrush Threepwood</placedby>
+  <found>Geocache</found>
+  <lat>50.504817</lat>
+  <lon>9.707167</lon>
+  <last-logs>XFFWW</last-logs>
+  <id>005187</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GCN6C5</cache-id>
+  <type>Traditional Cache</type>
+  <name>Wo war der Osterhase?? by Mamomi-1, Traditional Cache (1/2)</name>
+  <size>Regular</size>
+  <difficulty>1</difficulty>
+  <terrain>2</terrain>
+  <last-found>2010-10-03</last-found>
+  <placed>2005-03-22</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Mamomi-1</placedby>
+  <found>Geocache</found>
+  <lat>50.621633</lat>
+  <lon>9.740817</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>004684</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC1EA6H</cache-id>
+  <type>Multi-cache</type>
+  <name>Casa by Ubx, Multi-cache (1/1)</name>
+  <size>Micro</size>
+  <difficulty>1</difficulty>
+  <terrain>1</terrain>
+  <last-found>2010-09-20</last-found>
+  <placed>2008-07-18</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Ubx</placedby>
+  <found>Geocache</found>
+  <lat>50.541883</lat>
+  <lon>9.579167</lon>
+  <last-logs>FFWFF</last-logs>
+  <id>000794</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC2GFE4</cache-id>
+  <type>Multi-cache</type>
+  <name>Waidmanns Schatz by woodi65, Multi-cache (1.5/1.5)</name>
+  <size>Regular</size>
+  <difficulty>1.5</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-11-14</last-found>
+  <placed>2010-10-20</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>woodi65</placedby>
+  <found>Geocache</found>
+  <lat>50.515717</lat>
+  <lon>9.741883</lon>
+  <last-logs>XFFFF</last-logs>
+  <id>007913</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC2FDP7</cache-id>
+  <type>Traditional Cache</type>
+  <name>Bärenfalle by jrg77, Traditional Cache (2/2.5)</name>
+  <size>Small</size>
+  <difficulty>2</difficulty>
+  <terrain>2.5</terrain>
+  <last-found>2010-10-25</last-found>
+  <placed>2010-09-19</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>jrg77</placedby>
+  <found>Geocache</found>
+  <lat>50.506717</lat>
+  <lon>9.718983</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>001371</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC1QZYA</cache-id>
+  <type>Traditional Cache</type>
+  <name>Wisselsröder Küppel by cachfox76, Traditional Cache (2/2)</name>
+  <size>Small</size>
+  <difficulty>2</difficulty>
+  <terrain>2</terrain>
+  <last-found>2010-09-26</last-found>
+  <placed>2009-04-04</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>cachfox76</placedby>
+  <found>Geocache</found>
+  <lat>50.534383</lat>
+  <lon>9.767917</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>004094</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC1NC2X</cache-id>
+  <type>Letterbox Hybrid</type>
+  <name>Kriegerdenkmal by Ubx, Letterbox Hybrid (1/1)</name>
+  <size>Micro</size>
+  <difficulty>1</difficulty>
+  <terrain>1</terrain>
+  <last-found>2010-06-05</last-found>
+  <placed>2009-03-06</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Ubx</placedby>
+  <found>Geocache</found>
+  <lat>50.5739</lat>
+  <lon>9.569667</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>003753</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC21WGY</cache-id>
+  <type>Multi-cache</type>
+  <name>Arboretum (Nachtcache) by Lietz-Cacher, Multi-cache (2/3)</name>
+  <size>Regular</size>
+  <difficulty>2</difficulty>
+  <terrain>3</terrain>
+  <last-found>2010-12-06</last-found>
+  <placed>2009-12-11</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Lietz-Cacher</placedby>
+  <found>Geocache</found>
+  <lat>50.612183</lat>
+  <lon>9.75865</lon>
+  <last-logs>EFFMD</last-logs>
+  <id>006232</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC15DCN</cache-id>
+  <type>Traditional Cache</type>
+  <name>Teufelskaute by seekers99, Traditional Cache (2/2)</name>
+  <size>Regular</size>
+  <difficulty>2</difficulty>
+  <terrain>2</terrain>
+  <last-found>2009-12-14</last-found>
+  <placed>2007-08-25</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>seekers99</placedby>
+  <found>Geocache</found>
+  <lat>50.608683</lat>
+  <lon>9.589117</lon>
+  <last-logs>FFFFW</last-logs>
+  <id>008748</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GCYMWF</cache-id>
+  <type>Unknown Cache</type>
+  <name>Fulda Blick Bonus by shaktimaan, Unknown Cache (3/1)</name>
+  <size>Micro</size>
+  <difficulty>3</difficulty>
+  <terrain>1</terrain>
+  <last-found>2008-10-30</last-found>
+  <placed>2006-10-02</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>shaktimaan</placedby>
+  <found>Geocache</found>
+  <lat>50.5</lat>
+  <lon>9.666667</lon>
+  <last-logs>FFFF</last-logs>
+  <id>001233</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC1N9T4</cache-id>
+  <type>Multi-cache</type>
+  <name>West/Süd/Ost--&gt; Nord by Ubx, Multi-cache (1.5/2)</name>
+  <size>Small</size>
+  <difficulty>1.5</difficulty>
+  <terrain>2</terrain>
+  <last-found>2010-02-27</last-found>
+  <placed>2009-03-03</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Ubx</placedby>
+  <found>Geocache</found>
+  <lat>50.574667</lat>
+  <lon>9.5681</lon>
+  <last-logs>XFWFF</last-logs>
+  <id>001957</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC2F2PY</cache-id>
+  <type>Traditional Cache</type>
+  <name>Ferropontis by Camuvlash, Traditional Cache (2/2.5)</name>
+  <size>Micro</size>
+  <difficulty>2</difficulty>
+  <terrain>2.5</terrain>
+  <last-found>2010-10-31</last-found>
+  <placed>2010-09-12</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Camuvlash</placedby>
+  <found>Geocache</found>
+  <lat>50.499533</lat>
+  <lon>9.6721</lon>
+  <last-logs>XFFFF</last-logs>
+  <id>007573</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC2DC7A</cache-id>
+  <type>Multi-cache</type>
+  <name>Nacht-Cache Bimbach by ubx, Multi-cache (2/2.5)</name>
+  <size>Small</size>
+  <difficulty>2</difficulty>
+  <terrain>2.5</terrain>
+  <last-found>2010-08-22</last-found>
+  <placed>2010-08-14</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>ubx</placedby>
+  <found>Geocache</found>
+  <lat>50.586933</lat>
+  <lon>9.571167</lon>
+  <last-logs>FFFFW</last-logs>
+  <id>008002</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC24N0Q</cache-id>
+  <type>Traditional Cache</type>
+  <name>Wir lieben L........... by HubiFD, Traditional Cache (2/1.5)</name>
+  <size>Micro</size>
+  <difficulty>2</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-09-06</last-found>
+  <placed>2010-03-06</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>HubiFD</placedby>
+  <found>Geocache</found>
+  <lat>50.499067</lat>
+  <lon>9.6913</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>003855</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC1B76E</cache-id>
+  <type>Traditional Cache</type>
+  <name>Funkfeuer by Ubx, Traditional Cache (1/1)</name>
+  <size>Micro</size>
+  <difficulty>1</difficulty>
+  <terrain>1</terrain>
+  <last-found>2010-08-21</last-found>
+  <placed>2008-04-13</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Ubx</placedby>
+  <found>Geocache</found>
+  <lat>50.592267</lat>
+  <lon>9.572167</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>002839</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC21XTE</cache-id>
+  <type>Unknown Cache</type>
+  <name>Arbor Pust (Bonus) by Lietz-Cacher, Unknown Cache (1.5/2)</name>
+  <size>Micro</size>
+  <difficulty>1.5</difficulty>
+  <terrain>2</terrain>
+  <last-found>2010-10-25</last-found>
+  <placed>2009-12-11</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Lietz-Cacher</placedby>
+  <found>Geocache</found>
+  <lat>50.615517</lat>
+  <lon>9.75865</lon>
+  <last-logs>WFFFW</last-logs>
+  <id>006226</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GCYMRC</cache-id>
+  <type>Traditional Cache</type>
+  <name>Fulda Blick III (West) by shaktimaan, Traditional Cache (1/1)</name>
+  <size>Micro</size>
+  <difficulty>1</difficulty>
+  <terrain>1</terrain>
+  <last-found>2010-10-03</last-found>
+  <placed>2006-10-02</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>shaktimaan</placedby>
+  <found>Geocache</found>
+  <lat>50.508067</lat>
+  <lon>9.617667</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>007577</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC1PBV0</cache-id>
+  <type>Traditional Cache</type>
+  <name>Hutzelfeuer by Cin_Wolf, Traditional Cache (1/1)</name>
+  <size>Micro</size>
+  <difficulty>1</difficulty>
+  <terrain>1</terrain>
+  <last-found>2010-09-19</last-found>
+  <placed>2009-03-31</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Cin_Wolf</placedby>
+  <found>Geocache</found>
+  <lat>50.56645</lat>
+  <lon>9.563917</lon>
+  <last-logs>XFFFF</last-logs>
+  <id>004773</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GCMMC1</cache-id>
+  <type>Traditional Cache</type>
+  <name>Steinbruch Waidmannsruh by webfraggle, Traditional Cache (2/2)</name>
+  <size>Regular</size>
+  <difficulty>2</difficulty>
+  <terrain>2</terrain>
+  <last-found>2010-10-17</last-found>
+  <placed>2005-01-29</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>webfraggle</placedby>
+  <found>Geocache</found>
+  <lat>50.510483</lat>
+  <lon>9.741983</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>004656</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC21XTR</cache-id>
+  <type>Unknown Cache</type>
+  <name>Arbor Knick (Bonus) by Lietz-Cacher, Unknown Cache (1/2)</name>
+  <size>Micro</size>
+  <difficulty>1</difficulty>
+  <terrain>2</terrain>
+  <last-found>2010-10-25</last-found>
+  <placed>2009-12-11</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Lietz-Cacher</placedby>
+  <found>Geocache</found>
+  <lat>50.61885</lat>
+  <lon>9.75865</lon>
+  <last-logs>FFFFW</last-logs>
+  <id>002919</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC2GR11</cache-id>
+  <type>Traditional Cache</type>
+  <name>Aussterbende Art by ACIDCAT, Traditional Cache (1.5/2.5)</name>
+  <size>Micro</size>
+  <difficulty>1.5</difficulty>
+  <terrain>2.5</terrain>
+  <last-found>2010-11-14</last-found>
+  <placed>2010-10-15</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>ACIDCAT</placedby>
+  <found>Geocache</found>
+  <lat>50.5013</lat>
+  <lon>9.720183</lon>
+  <last-logs>FFWFF</last-logs>
+  <id>005176</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC193QW</cache-id>
+  <type>Multi-cache</type>
+  <name>alte B 27 by ubx, Multi-cache (1/1.5)</name>
+  <size>Small</size>
+  <difficulty>1</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-08-12</last-found>
+  <placed>2008-02-03</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>ubx</placedby>
+  <found>Geocache</found>
+  <lat>50.631733</lat>
+  <lon>9.7334</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>008169</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC27E95</cache-id>
+  <type>Traditional Cache</type>
+  <name>Rhönblick - Waldrandcache by HubiFD, Traditional Cache (1.5/1.5)</name>
+  <size>Micro</size>
+  <difficulty>1.5</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-10-25</last-found>
+  <placed>2010-04-25</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>HubiFD</placedby>
+  <found>Geocache</found>
+  <lat>50.555017</lat>
+  <lon>9.792783</lon>
+  <last-logs>FFFWF</last-logs>
+  <id>003533</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GCM98C</cache-id>
+  <type>Traditional Cache</type>
+  <name>Nonnenrod by Salex909 adopted by Thyrie, Traditional Cache (1.5/1.5)</name>
+  <size>Regular</size>
+  <difficulty>1.5</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-10-03</last-found>
+  <placed>2004-12-15</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Salex909 adopted by Thyrie</placedby>
+  <found>Geocache</found>
+  <lat>50.502617</lat>
+  <lon>9.618417</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>004522</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC1EA7J</cache-id>
+  <type>Multi-cache</type>
+  <name>SOS by Ubx, Multi-cache (1.5/2)</name>
+  <size>Small</size>
+  <difficulty>1.5</difficulty>
+  <terrain>2</terrain>
+  <last-found>2010-09-17</last-found>
+  <placed>2008-07-18</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Ubx</placedby>
+  <found>Geocache</found>
+  <lat>50.54415</lat>
+  <lon>9.563433</lon>
+  <last-logs>EDF</last-logs>
+  <id>000665</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GCN2KG</cache-id>
+  <type>Traditional Cache</type>
+  <name>Mariengrotte Traisbach by webfraggle, Traditional Cache (1/1)</name>
+  <size>Small</size>
+  <difficulty>1</difficulty>
+  <terrain>1</terrain>
+  <last-found>2010-05-08</last-found>
+  <placed>2005-03-12</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>webfraggle</placedby>
+  <found>Geocache</found>
+  <lat>50.598767</lat>
+  <lon>9.785983</lon>
+  <last-logs>XFFFF</last-logs>
+  <id>004219</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC2EC7E</cache-id>
+  <type>Traditional Cache</type>
+  <name>Wartturm Eichenzell by mayday malone, Traditional Cache (1.5/1.5)</name>
+  <size>Micro</size>
+  <difficulty>1.5</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-11-02</last-found>
+  <placed>2010-08-31</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>mayday malone</placedby>
+  <found>Geocache</found>
+  <lat>50.496067</lat>
+  <lon>9.715133</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>000629</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC1A1KR</cache-id>
+  <type>Multi-cache</type>
+  <name>Im Gieseler Forst by thyrie, Multi-cache (1.5/2)</name>
+  <size>Regular</size>
+  <difficulty>1.5</difficulty>
+  <terrain>2</terrain>
+  <last-found>2010-06-13</last-found>
+  <placed>2008-03-09</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>thyrie</placedby>
+  <found>Geocache</found>
+  <lat>50.521</lat>
+  <lon>9.581067</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>000424</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC27MX4</cache-id>
+  <type>Unknown Cache</type>
+  <name>Einschulungstest by f.etcher, Unknown Cache (4/2)</name>
+  <size>Micro</size>
+  <difficulty>4</difficulty>
+  <terrain>2</terrain>
+  <last-found>2010-09-21</last-found>
+  <placed>2010-05-01</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>f.etcher</placedby>
+  <found>Geocache</found>
+  <lat>50.513917</lat>
+  <lon>9.76225</lon>
+  <last-logs>WFFFF</last-logs>
+  <id>001873</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC27AAG</cache-id>
+  <type>Traditional Cache</type>
+  <name>Wasserhäuschen-Bimbach by Cin_Wolf, Traditional Cache (1/1)</name>
+  <size>Micro</size>
+  <difficulty>1</difficulty>
+  <terrain>1</terrain>
+  <last-found>2010-08-21</last-found>
+  <placed>2010-04-23</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Cin_Wolf</placedby>
+  <found>Geocache</found>
+  <lat>50.568546</lat>
+  <lon>9.554139</lon>
+  <last-logs>FWFFF</last-logs>
+  <id>009916</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC2G5BR</cache-id>
+  <type>Unknown Cache</type>
+  <name>Pontifex by Camuvlash, Unknown Cache (2.5/2.5)</name>
+  <size>Regular</size>
+  <difficulty>2.5</difficulty>
+  <terrain>2.5</terrain>
+  <last-found>2010-11-05</last-found>
+  <placed>2010-10-03</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Camuvlash</placedby>
+  <found>Geocache</found>
+  <lat>50.499583</lat>
+  <lon>9.732033</lon>
+  <last-logs>FFFWX</last-logs>
+  <id>006418</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC27MYT</cache-id>
+  <type>Unknown Cache</type>
+  <name>1. Schulstunde: Spiel und Spaß by f.etcher, Unknown Cache (2.5/2)</name>
+  <size>Micro</size>
+  <difficulty>2.5</difficulty>
+  <terrain>2</terrain>
+  <last-found>2010-09-12</last-found>
+  <placed>2010-05-01</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>f.etcher</placedby>
+  <found>Geocache</found>
+  <lat>50.513417</lat>
+  <lon>9.76225</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>000966</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC27P3B</cache-id>
+  <type>Unknown Cache</type>
+  <name>2. Schulstunde: Mathematik und Logik by f.etcher, Unknown Cache (2.5/2)</name>
+  <size>Small</size>
+  <difficulty>2.5</difficulty>
+  <terrain>2</terrain>
+  <last-found>2010-09-12</last-found>
+  <placed>2010-05-01</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>f.etcher</placedby>
+  <found>Geocache</found>
+  <lat>50.512917</lat>
+  <lon>9.76225</lon>
+  <last-logs>FFXFF</last-logs>
+  <id>008753</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC27P3Y</cache-id>
+  <type>Unknown Cache</type>
+  <name>3. Schulstunde: Geografie by f.etcher, Unknown Cache (2.5/2)</name>
+  <size>Micro</size>
+  <difficulty>2.5</difficulty>
+  <terrain>2</terrain>
+  <last-found>2010-09-12</last-found>
+  <placed>2010-05-01</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>f.etcher</placedby>
+  <found>Geocache</found>
+  <lat>50.512417</lat>
+  <lon>9.76225</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>002450</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC26K2V</cache-id>
+  <type>Multi-cache</type>
+  <name>Rund um Neuhof 2 by capitanok9, Multi-cache (2.5/2)</name>
+  <size>Small</size>
+  <difficulty>2.5</difficulty>
+  <terrain>2</terrain>
+  <last-found>2010-09-19</last-found>
+  <placed>2010-04-11</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>capitanok9</placedby>
+  <found>Geocache</found>
+  <lat>50.492683</lat>
+  <lon>9.6448</lon>
+  <last-logs>FFFWX</last-logs>
+  <id>005229</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC27P48</cache-id>
+  <type>Unknown Cache</type>
+  <name>4. Schulstunde: Politik by f.etcher, Unknown Cache (2.5/2)</name>
+  <size>Micro</size>
+  <difficulty>2.5</difficulty>
+  <terrain>2</terrain>
+  <last-found>2010-09-12</last-found>
+  <placed>2010-05-01</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>f.etcher</placedby>
+  <found>Geocache</found>
+  <lat>50.511917</lat>
+  <lon>9.76225</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>005035</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC27PD9</cache-id>
+  <type>Unknown Cache</type>
+  <name>5. Schulstunde: Chemie by f.etcher, Unknown Cache (2/1.5)</name>
+  <size>Micro</size>
+  <difficulty>2</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-09-12</last-found>
+  <placed>2010-05-01</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>f.etcher</placedby>
+  <found>Geocache</found>
+  <lat>50.511417</lat>
+  <lon>9.76225</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>002033</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC27R0B</cache-id>
+  <type>Unknown Cache</type>
+  <name>6. Schulstunde: Deutsch by f.etcher, Unknown Cache (2.5/2)</name>
+  <size>Micro</size>
+  <difficulty>2.5</difficulty>
+  <terrain>2</terrain>
+  <last-found>2010-09-21</last-found>
+  <placed>2010-05-01</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>f.etcher</placedby>
+  <found>Geocache</found>
+  <lat>50.510917</lat>
+  <lon>9.76225</lon>
+  <last-logs>WFFFF</last-logs>
+  <id>009045</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC27R1H</cache-id>
+  <type>Unknown Cache</type>
+  <name>7. Schulstunde: Englisch by f.etcher, Unknown Cache (2.5/2)</name>
+  <size>Micro</size>
+  <difficulty>2.5</difficulty>
+  <terrain>2</terrain>
+  <last-found>2010-09-12</last-found>
+  <placed>2010-05-01</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>f.etcher</placedby>
+  <found>Geocache</found>
+  <lat>50.510417</lat>
+  <lon>9.76225</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>009803</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC27R2J</cache-id>
+  <type>Unknown Cache</type>
+  <name>8. Schulstunde: Sport by f.etcher, Unknown Cache (2.5/4.5)</name>
+  <size>Micro</size>
+  <difficulty>2.5</difficulty>
+  <terrain>4.5</terrain>
+  <last-found>2010-09-21</last-found>
+  <placed>2010-05-01</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>f.etcher</placedby>
+  <found>Geocache</found>
+  <lat>50.509917</lat>
+  <lon>9.76225</lon>
+  <last-logs>WFFFX</last-logs>
+  <id>009588</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC1YTNA</cache-id>
+  <type>Traditional Cache</type>
+  <name>Maria Ruh by Oko1966, Traditional Cache (1.5/1.5)</name>
+  <size>Micro</size>
+  <difficulty>1.5</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-08-01</last-found>
+  <placed>2009-09-18</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Oko1966</placedby>
+  <found>Geocache</found>
+  <lat>50.635833</lat>
+  <lon>9.74575</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>003794</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC27WQ1</cache-id>
+  <type>Unknown Cache</type>
+  <name>Nachsitzen by f.etcher, Unknown Cache (1/3)</name>
+  <size>Small</size>
+  <difficulty>1</difficulty>
+  <terrain>3</terrain>
+  <last-found>2010-09-12</last-found>
+  <placed>2010-05-01</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>f.etcher</placedby>
+  <found>Geocache</found>
+  <lat>50.509417</lat>
+  <lon>9.76225</lon>
+  <last-logs>FFWWF</last-logs>
+  <id>002394</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC20DG7</cache-id>
+  <type>Traditional Cache</type>
+  <name>Keimzelle - Waldbibliothek by Mamomi-1, Traditional Cache (1.5/2)</name>
+  <size>Large</size>
+  <difficulty>1.5</difficulty>
+  <terrain>2</terrain>
+  <last-found>2010-08-12</last-found>
+  <placed>2009-10-28</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Mamomi-1</placedby>
+  <found>Geocache</found>
+  <lat>50.627867</lat>
+  <lon>9.76235</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>005432</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC1ZRGT</cache-id>
+  <type>Traditional Cache</type>
+  <name>Praforst Hügel (macro) by Jöran, Traditional Cache (2/2)</name>
+  <size>Other</size>
+  <difficulty>2</difficulty>
+  <terrain>2</terrain>
+  <last-found>2010-07-08</last-found>
+  <placed>2009-10-12</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Jöran</placedby>
+  <found>Geocache</found>
+  <lat>50.6464</lat>
+  <lon>9.711233</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>007519</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC2DT7R</cache-id>
+  <type>Traditional Cache</type>
+  <name>Luxilvae by Camuvlash, Traditional Cache (1.5/1.5)</name>
+  <size>Micro</size>
+  <difficulty>1.5</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-10-30</last-found>
+  <placed>2010-08-21</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Camuvlash</placedby>
+  <found>Geocache</found>
+  <lat>50.488817</lat>
+  <lon>9.703733</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>007668</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC20GVH</cache-id>
+  <type>Traditional Cache</type>
+  <name>Keimelinchen by Dagosch, Traditional Cache (1/1.5)</name>
+  <size>Micro</size>
+  <difficulty>1</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-08-20</last-found>
+  <placed>2009-11-01</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Dagosch</placedby>
+  <found>Geocache</found>
+  <lat>50.625</lat>
+  <lon>9.769167</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>003285</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC1NPQB</cache-id>
+  <type>Traditional Cache</type>
+  <name>Blick über Dammersbach by Michael01, Traditional Cache (1.5/1.5)</name>
+  <size>Micro</size>
+  <difficulty>1.5</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-08-20</last-found>
+  <placed>2009-03-15</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Michael01</placedby>
+  <found>Geocache</found>
+  <lat>50.62355</lat>
+  <lon>9.7719</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>001573</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC21F4X</cache-id>
+  <type>Traditional Cache</type>
+  <name>Zwei Brücken by Team Brot, Traditional Cache (3/2.5)</name>
+  <size>Micro</size>
+  <difficulty>3</difficulty>
+  <terrain>2.5</terrain>
+  <last-found>2010-09-06</last-found>
+  <placed>2009-11-27</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Team Brot</placedby>
+  <found>Geocache</found>
+  <lat>50.491183</lat>
+  <lon>9.720683</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>003190</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC19EJ8</cache-id>
+  <type>Traditional Cache</type>
+  <name>Schatz der Titanic by Titanic1912, Traditional Cache (1/1.5)</name>
+  <size>Regular</size>
+  <difficulty>1</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-09-15</last-found>
+  <placed>2008-02-17</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Titanic1912</placedby>
+  <found>Geocache</found>
+  <lat>50.549117</lat>
+  <lon>9.548933</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>002648</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC2A1KA</cache-id>
+  <type>Traditional Cache</type>
+  <name>Wanda Quell by Team Brot, Traditional Cache (2/3)</name>
+  <size>Small</size>
+  <difficulty>2</difficulty>
+  <terrain>3</terrain>
+  <last-found>2010-10-17</last-found>
+  <placed>2010-07-24</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Team Brot</placedby>
+  <found>Geocache</found>
+  <lat>50.486767</lat>
+  <lon>9.649917</lon>
+  <last-logs>EFFFD</last-logs>
+  <id>002710</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC239JX</cache-id>
+  <type>Traditional Cache</type>
+  <name>Cache am Bildstock by ericius, Traditional Cache (3/1)</name>
+  <size>Micro</size>
+  <difficulty>3</difficulty>
+  <terrain>1</terrain>
+  <last-found>2010-09-15</last-found>
+  <placed>2010-01-24</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>ericius</placedby>
+  <found>Geocache</found>
+  <lat>50.530583</lat>
+  <lon>9.793583</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>000480</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC27EA4</cache-id>
+  <type>Traditional Cache</type>
+  <name>Milseburgradweg - Grillhütte Niederbieber by HubiFD, Traditional Cache (2/1.5)</name>
+  <size>Micro</size>
+  <difficulty>2</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-10-02</last-found>
+  <placed>2010-04-25</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>HubiFD</placedby>
+  <found>Geocache</found>
+  <lat>50.5747</lat>
+  <lon>9.808117</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>004326</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC21ZVD</cache-id>
+  <type>Traditional Cache</type>
+  <name>toter Baum by ubx, Traditional Cache (1.5/2)</name>
+  <size>Small</size>
+  <difficulty>1.5</difficulty>
+  <terrain>2</terrain>
+  <last-found>2010-10-29</last-found>
+  <placed>2009-12-13</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>ubx</placedby>
+  <found>Geocache</found>
+  <lat>50.599917</lat>
+  <lon>9.553167</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>004690</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GCMFZJ</cache-id>
+  <type>Traditional Cache</type>
+  <name>Zigeunereck by Salex909 adopted by Thyrie, Traditional Cache (2/2)</name>
+  <size>Small</size>
+  <difficulty>2</difficulty>
+  <terrain>2</terrain>
+  <last-found>2010-06-24</last-found>
+  <placed>2005-01-12</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Salex909 adopted by Thyrie</placedby>
+  <found>Geocache</found>
+  <lat>50.515433</lat>
+  <lon>9.572583</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>000033</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC1ZHK3</cache-id>
+  <type>Traditional Cache</type>
+  <name>Rhönhof by PlanBe, Traditional Cache (1/1)</name>
+  <size>Regular</size>
+  <difficulty>1</difficulty>
+  <terrain>1</terrain>
+  <last-found>2010-11-07</last-found>
+  <placed>2009-10-06</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>PlanBe</placedby>
+  <found>Geocache</found>
+  <lat>50.486183</lat>
+  <lon>9.70855</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>003624</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC1EA6Y</cache-id>
+  <type>Multi-cache</type>
+  <name>Jakobsweg 2 by Ubx, Multi-cache (1/1.5)</name>
+  <size>Micro</size>
+  <difficulty>1</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-07-28</last-found>
+  <placed>2008-07-18</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Ubx</placedby>
+  <found>Geocache</found>
+  <lat>50.540867</lat>
+  <lon>9.548567</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>001692</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC1P13M</cache-id>
+  <type>Traditional Cache</type>
+  <name>08/15 by Gefreiter Asch, Traditional Cache (1.5/1.5)</name>
+  <size>Small</size>
+  <difficulty>1.5</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-08-13</last-found>
+  <placed>2009-03-23</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Gefreiter Asch</placedby>
+  <found>Geocache</found>
+  <lat>50.620717</lat>
+  <lon>9.7834</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>003138</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC1M6M4</cache-id>
+  <type>Traditional Cache</type>
+  <name>Heimat Blick by  Bunkerspecht Henne, Traditional Cache (1.5/1.5)</name>
+  <size>Small</size>
+  <difficulty>1.5</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-07-21</last-found>
+  <placed>2009-01-30</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby> Bunkerspecht Henne</placedby>
+  <found>Geocache</found>
+  <lat>50.493733</lat>
+  <lon>9.743217</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>002287</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC245CV</cache-id>
+  <type>Traditional Cache</type>
+  <name>Das versteckte Element by Maluma, Traditional Cache (1.5/1.5)</name>
+  <size>Micro</size>
+  <difficulty>1.5</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-11-04</last-found>
+  <placed>2010-02-20</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Maluma</placedby>
+  <found>Geocache</found>
+  <lat>50.487367</lat>
+  <lon>9.721983</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>004885</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC1ETZV</cache-id>
+  <type>Traditional Cache</type>
+  <name>Nasse Sohle I. by PlanBe, Traditional Cache (1.5/1.5)</name>
+  <size>Micro</size>
+  <difficulty>1.5</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-07-18</last-found>
+  <placed>2008-08-02</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>PlanBe</placedby>
+  <found>Geocache</found>
+  <lat>50.482633</lat>
+  <lon>9.6635</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>002823</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC1YGXC</cache-id>
+  <type>Multi-cache</type>
+  <name>Die Beerweiber von Dammersbach by rhöncacher, Multi-cache (2/2.5)</name>
+  <size>Regular</size>
+  <difficulty>2</difficulty>
+  <terrain>2.5</terrain>
+  <last-found>2010-08-20</last-found>
+  <placed>2007-07-29</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>rhöncacher</placedby>
+  <found>Geocache</found>
+  <lat>50.627383</lat>
+  <lon>9.778033</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>006083</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC17J53</cache-id>
+  <type>Multi-cache</type>
+  <name>Grotte Gr.Lüder by ubx, Multi-cache (1/1.5)</name>
+  <size>Small</size>
+  <difficulty>1</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-09-22</last-found>
+  <placed>2007-11-22</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>ubx</placedby>
+  <found>Geocache</found>
+  <lat>50.58285</lat>
+  <lon>9.539717</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>004788</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC23CV5</cache-id>
+  <type>Traditional Cache</type>
+  <name>DGH by Kabal88, Traditional Cache (1.5/1.5)</name>
+  <size>Micro</size>
+  <difficulty>1.5</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-07-12</last-found>
+  <placed>2010-01-27</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Kabal88</placedby>
+  <found>Geocache</found>
+  <lat>50.63365</lat>
+  <lon>9.5832</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>000830</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC231R4</cache-id>
+  <type>Traditional Cache</type>
+  <name>nicht über's Wasser gehen  by ubx, Traditional Cache (1/1.5)</name>
+  <size>Small</size>
+  <difficulty>1</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-10-14</last-found>
+  <placed>2010-01-16</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>ubx</placedby>
+  <found>Geocache</found>
+  <lat>50.58625</lat>
+  <lon>9.539817</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>002180</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC17A0J</cache-id>
+  <type>Multi-cache</type>
+  <name>Hole in one by Team Misto, Multi-cache (2/1.5)</name>
+  <size>Regular</size>
+  <difficulty>2</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-07-05</last-found>
+  <placed>2007-11-10</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Team Misto</placedby>
+  <found>Geocache</found>
+  <lat>50.652983</lat>
+  <lon>9.7178</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>002618</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GCKWZJ</cache-id>
+  <type>Traditional Cache</type>
+  <name>Herrgottseiche - Lüdertal  by Crazy Fam, Traditional Cache (1/1.5)</name>
+  <size>Regular</size>
+  <difficulty>1</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-07-28</last-found>
+  <placed>2004-10-22</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Crazy Fam</placedby>
+  <found>Geocache</found>
+  <lat>50.559683</lat>
+  <lon>9.536783</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>004558</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC25YJ4</cache-id>
+  <type>Traditional Cache</type>
+  <name>Grillplatz Melters by Team Finntroll 01, Traditional Cache (1/1.5)</name>
+  <size>Micro</size>
+  <difficulty>1</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-10-19</last-found>
+  <placed>2010-04-01</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Team Finntroll 01</placedby>
+  <found>Geocache</found>
+  <lat>50.492283</lat>
+  <lon>9.748683</lon>
+  <last-logs>FFFED</last-logs>
+  <id>005384</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC1Q1AH</cache-id>
+  <type>Unknown Cache</type>
+  <name>Mistos Keimzelle oder Weanarisch für Anfänger by Team Misto, Unknown Cache (2/1.5)</name>
+  <size>Regular</size>
+  <difficulty>2</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2009-11-20</last-found>
+  <placed>2009-04-14</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Team Misto</placedby>
+  <found>Geocache</found>
+  <lat>50.638817</lat>
+  <lon>9.764533</lon>
+  <last-logs>FFFWF</last-logs>
+  <id>009465</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC2DENN</cache-id>
+  <type>Traditional Cache</type>
+  <name>Freitag,der 13. - Keimling by Mammut-Baby, Traditional Cache (1.5/3.5)</name>
+  <size>Micro</size>
+  <difficulty>1.5</difficulty>
+  <terrain>3.5</terrain>
+  <last-found>2010-10-24</last-found>
+  <placed>2010-08-13</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Mammut-Baby</placedby>
+  <found>Geocache</found>
+  <lat>50.62545</lat>
+  <lon>9.7862</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>000985</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GCW5C7</cache-id>
+  <type>Multi-cache</type>
+  <name>Alter Turm by PlanBe, Multi-cache (1.5/1)</name>
+  <size>Regular</size>
+  <difficulty>1.5</difficulty>
+  <terrain>1</terrain>
+  <last-found>2010-08-26</last-found>
+  <placed>2006-05-21</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>PlanBe</placedby>
+  <found>Geocache</found>
+  <lat>50.478467</lat>
+  <lon>9.690633</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>002168</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GCNKKV</cache-id>
+  <type>Multi-cache</type>
+  <name>Wasserhaus Dipperz mit Kletterbaum by Salex909, Multi-cache (2/4)</name>
+  <size>Micro</size>
+  <difficulty>2</difficulty>
+  <terrain>4</terrain>
+  <last-found>2009-11-20</last-found>
+  <placed>2005-04-23</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Salex909</placedby>
+  <found>Geocache</found>
+  <lat>50.52955</lat>
+  <lon>9.805433</lon>
+  <last-logs>FFF</last-logs>
+  <id>002656</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC27T5F</cache-id>
+  <type>Multi-cache</type>
+  <name>Rund um Neuhof 3 by capitanok9, Multi-cache (2/2)</name>
+  <size>Small</size>
+  <difficulty>2</difficulty>
+  <terrain>2</terrain>
+  <last-found>2010-10-13</last-found>
+  <placed>2010-05-01</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>capitanok9</placedby>
+  <found>Geocache</found>
+  <lat>50.487533</lat>
+  <lon>9.609983</lon>
+  <last-logs>FWWFF</last-logs>
+  <id>000843</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC27WAC</cache-id>
+  <type>Traditional Cache</type>
+  <name>Ein Drilling steht im Walde by Jabosamma, Traditional Cache (1.5/1)</name>
+  <size>Regular</size>
+  <difficulty>1.5</difficulty>
+  <terrain>1</terrain>
+  <last-found>2010-08-13</last-found>
+  <placed>2010-05-02</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Jabosamma</placedby>
+  <found>Geocache</found>
+  <lat>50.625567</lat>
+  <lon>9.789683</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>004134</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC2G1AF</cache-id>
+  <type>Multi-cache</type>
+  <name>Seeburg by Mieze und AlexSilver, Multi-cache (2/2)</name>
+  <size>Small</size>
+  <difficulty>2</difficulty>
+  <terrain>2</terrain>
+  <last-found>2010-10-03</last-found>
+  <placed>2010-10-02</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Mieze und AlexSilver</placedby>
+  <found>Geocache</found>
+  <lat>50.6365</lat>
+  <lon>9.57875</lon>
+  <last-logs>WFFF</last-logs>
+  <id>004701</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC1NXDK</cache-id>
+  <type>Traditional Cache</type>
+  <name>Dammersbach Blick II by Oko1966, Traditional Cache (1/1.5)</name>
+  <size>Micro</size>
+  <difficulty>1</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-09-11</last-found>
+  <placed>2009-03-20</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Oko1966</placedby>
+  <found>Geocache</found>
+  <lat>50.632183</lat>
+  <lon>9.780817</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>007198</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC1J00W</cache-id>
+  <type>Multi-cache</type>
+  <name>Kirchgehai by Thyrie, Multi-cache (2/1.5)</name>
+  <size>Regular</size>
+  <difficulty>2</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-04-25</last-found>
+  <placed>2008-11-09</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Thyrie</placedby>
+  <found>Geocache</found>
+  <lat>50.5018</lat>
+  <lon>9.576417</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>004085</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC239JZ</cache-id>
+  <type>Traditional Cache</type>
+  <name>Cache im Dipperzer Wald by ericius, Traditional Cache (2/2)</name>
+  <size>Micro</size>
+  <difficulty>2</difficulty>
+  <terrain>2</terrain>
+  <last-found>2010-09-14</last-found>
+  <placed>2010-01-24</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>ericius</placedby>
+  <found>Geocache</found>
+  <lat>50.538</lat>
+  <lon>9.813083</lon>
+  <last-logs>XFFFF</last-logs>
+  <id>005757</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC1FFVV</cache-id>
+  <type>Traditional Cache</type>
+  <name>Waldexpedition by Team Misto, Traditional Cache (3/2)</name>
+  <size>Micro</size>
+  <difficulty>3</difficulty>
+  <terrain>2</terrain>
+  <last-found>2010-08-12</last-found>
+  <placed>2008-08-22</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Team Misto</placedby>
+  <found>Geocache</found>
+  <lat>50.6392</lat>
+  <lon>9.770367</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>005667</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC1Q7HA</cache-id>
+  <type>Traditional Cache</type>
+  <name>teq2's Keimling by teq2, Traditional Cache (1.5/1.5)</name>
+  <size>Micro</size>
+  <difficulty>1.5</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-09-10</last-found>
+  <placed>2009-04-18</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>teq2</placedby>
+  <found>Geocache</found>
+  <lat>50.633667</lat>
+  <lon>9.7811</lon>
+  <last-logs>XFFFF</last-logs>
+  <id>001535</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC214JG</cache-id>
+  <type>Traditional Cache</type>
+  <name>Was sprießt denn hier ? by husky99, Traditional Cache (1.5/1.5)</name>
+  <size>Micro</size>
+  <difficulty>1.5</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-09-12</last-found>
+  <placed>2009-11-14</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>husky99</placedby>
+  <found>Geocache</found>
+  <lat>50.636633</lat>
+  <lon>9.776367</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>001384</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC2CXMZ</cache-id>
+  <type>Traditional Cache</type>
+  <name>Rund um Neuhof 5 by capitanok9, Traditional Cache (2/1.5)</name>
+  <size>Micro</size>
+  <difficulty>2</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-09-19</last-found>
+  <placed>2010-08-05</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>capitanok9</placedby>
+  <found>Geocache</found>
+  <lat>50.480333</lat>
+  <lon>9.628483</lon>
+  <last-logs>WFFFF</last-logs>
+  <id>008640</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC2J0Q0</cache-id>
+  <type>Traditional Cache</type>
+  <name>Am Rande der Rhöner Fluggeschosse by Riesemils & Rhönbengel, Traditional Cache (3/1.5)</name>
+  <size>Micro</size>
+  <difficulty>3</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-11-13</last-found>
+  <placed>2010-11-09</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Riesemils & Rhönbengel</placedby>
+  <found>Geocache</found>
+  <lat>50.584267</lat>
+  <lon>9.821483</lon>
+  <last-logs>FFFF</last-logs>
+  <id>006107</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC29XKM</cache-id>
+  <type>Multi-cache</type>
+  <name>Rund um Neuhof 4 by capitanok9, Multi-cache (2.5/1.5)</name>
+  <size>Micro</size>
+  <difficulty>2.5</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-08-28</last-found>
+  <placed>2010-06-07</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>capitanok9</placedby>
+  <found>Geocache</found>
+  <lat>50.492167</lat>
+  <lon>9.588817</lon>
+  <last-logs>FWFFF</last-logs>
+  <id>008596</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC2FT9P</cache-id>
+  <type>Traditional Cache</type>
+  <name>Quadrupontium by Camuvlash, Traditional Cache (2/2.5)</name>
+  <size>Micro</size>
+  <difficulty>2</difficulty>
+  <terrain>2.5</terrain>
+  <last-found>2010-11-04</last-found>
+  <placed>2010-09-26</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Camuvlash</placedby>
+  <found>Geocache</found>
+  <lat>50.47845</lat>
+  <lon>9.720833</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>009880</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC2634V</cache-id>
+  <type>Traditional Cache</type>
+  <name>Heisser Stein by capitanok9, Traditional Cache (1.5/2)</name>
+  <size>Small</size>
+  <difficulty>1.5</difficulty>
+  <terrain>2</terrain>
+  <last-found>2010-11-07</last-found>
+  <placed>2010-04-03</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>capitanok9</placedby>
+  <found>Geocache</found>
+  <lat>50.481117</lat>
+  <lon>9.733583</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>007677</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC1MG45</cache-id>
+  <type>Traditional Cache</type>
+  <name>SAR-71 by SAR-71, Traditional Cache (1.5/1.5)</name>
+  <size>Micro</size>
+  <difficulty>1.5</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-09-11</last-found>
+  <placed>2009-02-08</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>SAR-71</placedby>
+  <found>Geocache</found>
+  <lat>50.638767</lat>
+  <lon>9.776933</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>008081</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC2D512</cache-id>
+  <type>Traditional Cache</type>
+  <name>Herrgottseiche am Himmelsberg by balu-fd, Traditional Cache (1/1)</name>
+  <size>Micro</size>
+  <difficulty>1</difficulty>
+  <terrain>1</terrain>
+  <last-found>2010-09-21</last-found>
+  <placed>2010-08-09</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>balu-fd</placedby>
+  <found>Geocache</found>
+  <lat>50.514467</lat>
+  <lon>9.55325</lon>
+  <last-logs>FFWFF</last-logs>
+  <id>009844</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC21F4T</cache-id>
+  <type>Multi-cache</type>
+  <name>Wo die Bäume stehen by Team Brot, Multi-cache (1/2)</name>
+  <size>Micro</size>
+  <difficulty>1</difficulty>
+  <terrain>2</terrain>
+  <last-found>2010-09-13</last-found>
+  <placed>2009-11-27</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Team Brot</placedby>
+  <found>Geocache</found>
+  <lat>50.484067</lat>
+  <lon>9.745633</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>008332</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC1AX2Q</cache-id>
+  <type>Traditional Cache</type>
+  <name>Have a break - have an A7 Cache by Team Misto, Traditional Cache (1.5/1.5)</name>
+  <size>Small</size>
+  <difficulty>1.5</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-10-31</last-found>
+  <placed>2008-04-04</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Team Misto</placedby>
+  <found>Geocache</found>
+  <lat>50.664067</lat>
+  <lon>9.686467</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>007714</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC2H2MT</cache-id>
+  <type>Traditional Cache</type>
+  <name>Bank bei den fliegenden Bällen by Riesemils, Traditional Cache (1.5/1.5)</name>
+  <size>Small</size>
+  <difficulty>1.5</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-11-14</last-found>
+  <placed>2010-10-21</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Riesemils</placedby>
+  <found>Geocache</found>
+  <lat>50.581167</lat>
+  <lon>9.825983</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>009709</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC2CZ3T</cache-id>
+  <type>Multi-cache</type>
+  <name>Der Weg der Schlauchboote by Geostevens, Multi-cache (2/2.5)</name>
+  <size>Small</size>
+  <difficulty>2</difficulty>
+  <terrain>2.5</terrain>
+  <last-found>2010-08-18</last-found>
+  <placed>2010-08-06</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Geostevens</placedby>
+  <found>Geocache</found>
+  <lat>50.652033</lat>
+  <lon>9.601367</lon>
+  <last-logs>FMFFF</last-logs>
+  <id>001712</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC2BNQ8</cache-id>
+  <type>Multi-cache</type>
+  <name>Schönstatt-Zentrum Dietershausen reloaded by SZD und dreierlei, Multi-cache (1.5/1)</name>
+  <size>Micro</size>
+  <difficulty>1.5</difficulty>
+  <terrain>1</terrain>
+  <last-found>2010-10-02</last-found>
+  <placed>2010-07-13</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>SZD und dreierlei</placedby>
+  <found>Geocache</found>
+  <lat>50.504</lat>
+  <lon>9.78825</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>002098</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC1F041</cache-id>
+  <type>Traditional Cache</type>
+  <name>Dicke Eiche bei Nüst by Team Misto, Traditional Cache (2/1.5)</name>
+  <size>Other</size>
+  <difficulty>2</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-08-20</last-found>
+  <placed>2008-08-22</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Team Misto</placedby>
+  <found>Geocache</found>
+  <lat>50.649383</lat>
+  <lon>9.758483</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>008942</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC1P9QX</cache-id>
+  <type>Traditional Cache</type>
+  <name>Daimonion by Daimonion, Traditional Cache (1.5/1.5)</name>
+  <size>Small</size>
+  <difficulty>1.5</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-09-12</last-found>
+  <placed>2009-03-29</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Daimonion</placedby>
+  <found>Geocache</found>
+  <lat>50.641833</lat>
+  <lon>9.7745</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>007551</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC1MG1K</cache-id>
+  <type>Traditional Cache</type>
+  <name>Keimzelle by Woodwalker2006, Traditional Cache (3.5/2)</name>
+  <size>Regular</size>
+  <difficulty>3.5</difficulty>
+  <terrain>2</terrain>
+  <last-found>2010-09-19</last-found>
+  <placed>2009-02-08</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Woodwalker2006</placedby>
+  <found>Geocache</found>
+  <lat>50.638817</lat>
+  <lon>9.78005</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>006588</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC17V4Q</cache-id>
+  <type>Traditional Cache</type>
+  <name>alte B 254 by ubx, Traditional Cache (1/1)</name>
+  <size>Micro</size>
+  <difficulty>1</difficulty>
+  <terrain>1</terrain>
+  <last-found>2010-10-29</last-found>
+  <placed>2007-12-07</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>ubx</placedby>
+  <found>Geocache</found>
+  <lat>50.595517</lat>
+  <lon>9.52875</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>001596</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC1X04K</cache-id>
+  <type>Traditional Cache</type>
+  <name>Am Waldkapellchen by Zaunwindröschen, Traditional Cache (1.5/1.5)</name>
+  <size>Micro</size>
+  <difficulty>1.5</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-09-23</last-found>
+  <placed>2009-08-08</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Zaunwindröschen</placedby>
+  <found>Geocache</found>
+  <lat>50.604517</lat>
+  <lon>9.819067</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>005878</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC1FF4R</cache-id>
+  <type>Traditional Cache</type>
+  <name>Pater Josef Kentenich by SZD & dreierlei, Traditional Cache (2/1)</name>
+  <size>Other</size>
+  <difficulty>2</difficulty>
+  <terrain>1</terrain>
+  <last-found>2010-10-09</last-found>
+  <placed>2008-08-21</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>SZD & dreierlei</placedby>
+  <found>Geocache</found>
+  <lat>50.504983</lat>
+  <lon>9.7931</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>000780</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC264M4</cache-id>
+  <type>Traditional Cache</type>
+  <name>Rund um Neuhof 1 by capitanok9, Traditional Cache (1.5/1.5)</name>
+  <size>Small</size>
+  <difficulty>1.5</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-10-24</last-found>
+  <placed>2010-04-04</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>capitanok9</placedby>
+  <found>Geocache</found>
+  <lat>50.476583</lat>
+  <lon>9.622417</lon>
+  <last-logs>WFFFF</last-logs>
+  <id>007424</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC1T328</cache-id>
+  <type>Multi-cache</type>
+  <name>Romy & Tobias by rennmaus & rennhase, Multi-cache (1.5/2.5)</name>
+  <size>Small</size>
+  <difficulty>1.5</difficulty>
+  <terrain>2.5</terrain>
+  <last-found>2010-10-09</last-found>
+  <placed>2009-05-31</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>rennmaus & rennhase</placedby>
+  <found>Geocache</found>
+  <lat>50.528567</lat>
+  <lon>9.5351</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>000574</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC15J9V</cache-id>
+  <type>Unknown Cache</type>
+  <name>timeline by Little Red Riding Hood, Unknown Cache (3/3.5)</name>
+  <size>Regular</size>
+  <difficulty>3</difficulty>
+  <terrain>3.5</terrain>
+  <last-found>2010-02-28</last-found>
+  <placed>2007-08-31</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Little Red Riding Hood</placedby>
+  <found>Geocache</found>
+  <lat>50.50575</lat>
+  <lon>9.79525</lon>
+  <last-logs>FWFFF</last-logs>
+  <id>002512</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC1N6ZK</cache-id>
+  <type>Traditional Cache</type>
+  <name>Nicht schlecht der Specht (Zellen Nachwuchs) by Team Lollipopformel1, Traditional Cache (1.5/1.5)</name>
+  <size>Micro</size>
+  <difficulty>1.5</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-10-05</last-found>
+  <placed>2009-03-01</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Team Lollipopformel1</placedby>
+  <found>Geocache</found>
+  <lat>50.639217</lat>
+  <lon>9.784167</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>003926</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC1ZXC1</cache-id>
+  <type>Traditional Cache</type>
+  <name>Nasse Sohle III. by PlanBe, Traditional Cache (1.5/1.5)</name>
+  <size>Micro</size>
+  <difficulty>1.5</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-08-14</last-found>
+  <placed>2009-10-16</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>PlanBe</placedby>
+  <found>Geocache</found>
+  <lat>50.469317</lat>
+  <lon>9.690967</lon>
+  <last-logs>FFEDX</last-logs>
+  <id>009667</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GCVH3H</cache-id>
+  <type>Traditional Cache</type>
+  <name>Ganzberg-Tunnel by DerUnsichtbare, Traditional Cache (1/1)</name>
+  <size>Small</size>
+  <difficulty>1</difficulty>
+  <terrain>1</terrain>
+  <last-found>2009-10-26</last-found>
+  <placed>2006-03-22</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>DerUnsichtbare</placedby>
+  <found>Geocache</found>
+  <lat>50.665317</lat>
+  <lon>9.634467</lon>
+  <last-logs>FFFFW</last-logs>
+  <id>008263</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>GC1K7FA</cache-id>
+  <type>Traditional Cache</type>
+  <name>Hünfeldblick by SAR-71, Traditional Cache (2.5/2)</name>
+  <size>Micro</size>
+  <difficulty>2.5</difficulty>
+  <terrain>2</terrain>
+  <last-found>2010-09-19</last-found>
+  <placed>2008-12-29</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>SAR-71</placedby>
+  <found>Geocache</found>
+  <lat>50.641083</lat>
+  <lon>9.78575</lon>
+  <last-logs>FFFFF</last-logs>
+  <id>003412</id>
+  <addinfo>AI::xml</addinfo>
+</element>
+<element>
+  <cache-id>Z011G4P</cache-id>
+  <type>Waypoint</type>
+  <name>Zugang</name>
+  <placed>2007-12-26</placed>
+  <lat>50.566917</lat>
+  <lon>9.76425</lon>
+  <id>003945</id>
+  <addinfo>AI::xml</addinfo>
+  <attributes>hidden</attributes>
+</element>
+<element>
+  <cache-id>S112QFH</cache-id>
+  <type>Waypoint</type>
+  <name>Station 1</name>
+  <placed>2007-05-07</placed>
+  <lat>50.547533</lat>
+  <lon>9.669967</lon>
+  <id>000858</id>
+  <addinfo>AI::xml</addinfo>
+  <attributes>hidden</attributes>
+</element>
+<element>
+  <cache-id>PP14TB9</cache-id>
+  <type>Waypoint</type>
+  <name>Parkmöglichkeit</name>
+  <placed>2007-09-23</placed>
+  <lat>50.5456</lat>
+  <lon>9.612333</lon>
+  <id>003269</id>
+  <addinfo>AI::xml</addinfo>
+  <attributes>hidden</attributes>
+</element>
+<element>
+  <cache-id>PP16733</cache-id>
+  <type>Waypoint</type>
+  <name>möglicher Parkplatz</name>
+  <placed>2007-10-20</placed>
+  <lat>50.565</lat>
+  <lon>9.689</lon>
+  <id>007976</id>
+  <addinfo>AI::xml</addinfo>
+  <attributes>hidden</attributes>
+</element>
+<element>
+  <cache-id>SP176VC</cache-id>
+  <type>Waypoint</type>
+  <name>suchpunkt</name>
+  <placed>2008-04-13</placed>
+  <lat>50.591333</lat>
+  <lon>9.54945</lon>
+  <id>008976</id>
+  <addinfo>AI::xml</addinfo>
+  <attributes>hidden</attributes>
+</element>
+<element>
+  <cache-id>P117A0J</cache-id>
+  <type>Waypoint</type>
+  <name>Parkplatz</name>
+  <placed>2007-11-10</placed>
+  <lat>50.65555</lat>
+  <lon>9.724233</lon>
+  <id>008393</id>
+  <addinfo>AI::xml</addinfo>
+  <attributes>hidden</attributes>
+</element>
+<element>
+  <cache-id>PP17JY5</cache-id>
+  <type>Waypoint</type>
+  <name>nächste Parkmöglichkeit</name>
+  <placed>2007-11-25</placed>
+  <lat>50.63125</lat>
+  <lon>9.670333</lon>
+  <id>009548</id>
+  <addinfo>AI::xml</addinfo>
+  <attributes>hidden</attributes>
+</element>
+<element>
+  <cache-id>PK193QW</cache-id>
+  <type>Waypoint</type>
+  <name>Parken</name>
+  <placed>2008-02-14</placed>
+  <lat>50.631733</lat>
+  <lon>9.733417</lon>
+  <id>003872</id>
+  <addinfo>AI::xml</addinfo>
+  <attributes>hidden</attributes>
+</element>
+<element>
+  <cache-id>SR19BNF</cache-id>
+  <type>Waypoint</type>
+  <name>Schranke</name>
+  <placed>2008-02-13</placed>
+  <lat>50.563333</lat>
+  <lon>9.597733</lon>
+  <id>004812</id>
+  <addinfo>AI::xml</addinfo>
+  <attributes>hidden</attributes>
+</element>
+<element>
+  <cache-id>ST1AMYJ</cache-id>
+  <type>Waypoint</type>
+  <name>Startkoords</name>
+  <placed>2008-04-02</placed>
+  <lat>50.6069</lat>
+  <lon>9.625283</lon>
+  <id>003455</id>
+  <addinfo>AI::xml</addinfo>
+  <attributes>hidden</attributes>
+</element>
+<element>
+  <cache-id>PA1B615</cache-id>
+  <type>Waypoint</type>
+  <name>parken A7 Süd</name>
+  <placed>2008-04-13</placed>
+  <lat>50.575317</lat>
+  <lon>9.717133</lon>
+  <id>005828</id>
+  <addinfo>AI::xml</addinfo>
+  <attributes>hidden</attributes>
+</element>
+<element>
+  <cache-id>PR1B615</cache-id>
+  <type>Waypoint</type>
+  <name>parken RMV</name>
+  <placed>2008-04-13</placed>
+  <lat>50.577783</lat>
+  <lon>9.718117</lon>
+  <id>002329</id>
+  <addinfo>AI::xml</addinfo>
+  <attributes>hidden</attributes>
+</element>
+<element>
+  <cache-id>PA1E0XT</cache-id>
+  <type>Waypoint</type>
+  <name>parking</name>
+  <placed>2008-07-09</placed>
+  <lat>50.596</lat>
+  <lon>9.603417</lon>
+  <id>003657</id>
+  <addinfo>AI::xml</addinfo>
+  <attributes>hidden</attributes>
+</element>
+<element>
+  <cache-id>PK1EA6Y</cache-id>
+  <type>Waypoint</type>
+  <name>parken</name>
+  <placed>2008-07-18</placed>
+  <lat>50.540983</lat>
+  <lon>9.548283</lon>
+  <id>007000</id>
+  <addinfo>AI::xml</addinfo>
+  <attributes>hidden</attributes>
+</element>
+<element>
+  <cache-id>PK1EA7J</cache-id>
+  <type>Waypoint</type>
+  <name>parken</name>
+  <placed>2008-07-18</placed>
+  <lat>50.543883</lat>
+  <lon>9.563567</lon>
+  <id>000336</id>
+  <addinfo>AI::xml</addinfo>
+  <attributes>hidden</attributes>
+</element>
+<element>
+  <cache-id>PA1J1C2</cache-id>
+  <type>Waypoint</type>
+  <name>Parken</name>
+  <placed>2008-11-10</placed>
+  <lat>50.6183</lat>
+  <lon>9.733967</lon>
+  <id>009114</id>
+  <addinfo>AI::xml</addinfo>
+  <attributes>hidden</attributes>
+</element>
+<element>
+  <cache-id>PC1J1C2</cache-id>
+  <type>Waypoint</type>
+  <name>Parken1</name>
+  <placed>2008-11-12</placed>
+  <lat>50.6194</lat>
+  <lon>9.732783</lon>
+  <id>004650</id>
+  <addinfo>AI::xml</addinfo>
+  <attributes>hidden</attributes>
+</element>
+<element>
+  <cache-id>PP1M6M4</cache-id>
+  <type>Waypoint</type>
+  <name>Parkmöglichkeiten</name>
+  <placed>2009-01-29</placed>
+  <lat>50.492</lat>
+  <lon>9.748717</lon>
+  <id>000576</id>
+  <addinfo>AI::xml</addinfo>
+  <attributes>hidden</attributes>
+</element>
+<element>
+  <cache-id>ST1N9T4</cache-id>
+  <type>Waypoint</type>
+  <name>Start</name>
+  <placed>2009-03-11</placed>
+  <lat>50.574617</lat>
+  <lon>9.568267</lon>
+  <id>004641</id>
+  <addinfo>AI::xml</addinfo>
+  <attributes>hidden</attributes>
+</element>
+<element>
+  <cache-id>PK1NP96</cache-id>
+  <type>Waypoint</type>
+  <name>Parkmöglichkeit</name>
+  <placed>2009-03-15</placed>
+  <lat>50.53685</lat>
+  <lon>9.64605</lon>
+  <id>000228</id>
+  <addinfo>AI::xml</addinfo>
+  <attributes>hidden</attributes>
+</element>
+<element>
+  <cache-id>001QZYA</cache-id>
+  <type>Waypoint</type>
+  <name>Vor der Koppel</name>
+  <placed>2009-05-05</placed>
+  <lat>50.533583</lat>
+  <lon>9.76815</lon>
+  <id>007240</id>
+  <addinfo>AI::xml</addinfo>
+  <attributes>hidden</attributes>
+</element>
+<element>
+  <cache-id>PA1X1W0</cache-id>
+  <type>Waypoint</type>
+  <name>Parken Harmerz</name>
+  <placed>2009-08-09</placed>
+  <lat>50.513633</lat>
+  <lon>9.644533</lon>
+  <id>000782</id>
+  <addinfo>AI::xml</addinfo>
+  <attributes>hidden</attributes>
+</element>
+<element>
+  <cache-id>PA1X1WK</cache-id>
+  <type>Waypoint</type>
+  <name>Parken Harmerz</name>
+  <placed>2009-08-09</placed>
+  <lat>50.513633</lat>
+  <lon>9.644533</lon>
+  <id>004034</id>
+  <addinfo>AI::xml</addinfo>
+  <attributes>hidden</attributes>
+</element>
+<element>
+  <cache-id>S11YRCB</cache-id>
+  <type>Waypoint</type>
+  <name>Stage 1</name>
+  <placed>2009-09-22</placed>
+  <lat>50.566517</lat>
+  <lon>9.688317</lon>
+  <id>000620</id>
+  <addinfo>AI::xml</addinfo>
+  <attributes>hidden</attributes>
+</element>
+<element>
+  <cache-id>S1276X3</cache-id>
+  <type>Waypoint</type>
+  <name>Stage 1</name>
+  <placed>2010-04-21</placed>
+  <lat>50.5518</lat>
+  <lon>9.7379</lon>
+  <id>006513</id>
+  <addinfo>AI::xml</addinfo>
+  <attributes>hidden</attributes>
+</element>
+<element>
+  <cache-id>S127CMF</cache-id>
+  <type>Waypoint</type>
+  <name>Parkmöglichkeit</name>
+  <placed>2010-04-27</placed>
+  <lat>50.51595</lat>
+  <lon>9.685833</lon>
+  <id>001174</id>
+  <addinfo>AI::xml</addinfo>
+  <attributes>hidden</attributes>
+</element>
+<element>
+  <cache-id>1227T5F</cache-id>
+  <type>Waypoint</type>
+  <name>B-Land</name>
+  <placed>2010-05-01</placed>
+  <lat>50.473483</lat>
+  <lon>9.625683</lon>
+  <id>006950</id>
+  <addinfo>AI::xml</addinfo>
+  <attributes>hidden</attributes>
+</element>
+<element>
+  <cache-id>1327T5F</cache-id>
+  <type>Waypoint</type>
+  <name>Nonnenrod</name>
+  <placed>2010-05-01</placed>
+  <lat>50.503883</lat>
+  <lon>9.628217</lon>
+  <id>007546</id>
+  <addinfo>AI::xml</addinfo>
+  <attributes>hidden</attributes>
+</element>
+<element>
+  <cache-id>PK28098</cache-id>
+  <type>Waypoint</type>
+  <name>Parkplatz</name>
+  <placed>2010-05-04</placed>
+  <lat>50.52315</lat>
+  <lon>9.615667</lon>
+  <id>004308</id>
+  <addinfo>AI::xml</addinfo>
+  <attributes>hidden</attributes>
+</element>
+<element>
+  <cache-id>S128098</cache-id>
+  <type>Waypoint</type>
+  <name>Stage 1: Niederröder Höhe</name>
+  <placed>2010-05-04</placed>
+  <lat>50.522833</lat>
+  <lon>9.615717</lon>
+  <id>009585</id>
+  <addinfo>AI::xml</addinfo>
+  <attributes>hidden</attributes>
+</element>
+<element>
+  <cache-id>S1291PD</cache-id>
+  <type>Waypoint</type>
+  <name>1</name>
+  <placed>2010-05-23</placed>
+  <lat>50.556483</lat>
+  <lon>9.62735</lon>
+  <id>002669</id>
+  <addinfo>AI::xml</addinfo>
+  <attributes>hidden</attributes>
+</element>
+<element>
+  <cache-id>AN2A1KA</cache-id>
+  <type>Waypoint</type>
+  <name>am Nüchtershof</name>
+  <placed>2010-07-24</placed>
+  <lat>50.482133</lat>
+  <lon>9.656683</lon>
+  <id>007603</id>
+  <addinfo>AI::xml</addinfo>
+  <attributes>hidden</attributes>
+</element>
+<element>
+  <cache-id>AS2A1KA</cache-id>
+  <type>Waypoint</type>
+  <name>am Steinberg</name>
+  <placed>2010-07-24</placed>
+  <lat>50.4894</lat>
+  <lon>9.665983</lon>
+  <id>001117</id>
+  <addinfo>AI::xml</addinfo>
+  <attributes>hidden</attributes>
+</element>
+<element>
+  <cache-id>AZ2A1KA</cache-id>
+  <type>Waypoint</type>
+  <name>an der Ziegelhütte</name>
+  <placed>2010-07-24</placed>
+  <lat>50.486783</lat>
+  <lon>9.66325</lon>
+  <id>001956</id>
+  <addinfo>AI::xml</addinfo>
+  <attributes>hidden</attributes>
+</element>
+<element>
+  <cache-id>S12BNQ8</cache-id>
+  <type>Waypoint</type>
+  <name>GC2BNQ8 Stage 1</name>
+  <placed>2010-07-13</placed>
+  <lat>50.504</lat>
+  <lon>9.78825</lon>
+  <id>004741</id>
+  <addinfo>AI::xml</addinfo>
+  <attributes>hidden</attributes>
+</element>
+<element>
+  <cache-id>PK2BRGT</cache-id>
+  <type>Waypoint</type>
+  <name>GC2BRGT Parking</name>
+  <placed>2010-07-15</placed>
+  <lat>50.6087</lat>
+  <lon>9.624967</lon>
+  <id>007904</id>
+  <addinfo>AI::xml</addinfo>
+  <attributes>hidden</attributes>
+</element>
+<element>
+  <cache-id>PK2BVW7</cache-id>
+  <type>Waypoint</type>
+  <name>GC2BVW7 Parking</name>
+  <placed>2010-07-17</placed>
+  <lat>50.542276</lat>
+  <lon>9.665593</lon>
+  <id>001592</id>
+  <addinfo>AI::xml</addinfo>
+  <attributes>hidden</attributes>
+</element>
+<element>
+  <cache-id>112CXMZ</cache-id>
+  <type>Waypoint</type>
+  <name>B-Land</name>
+  <placed>2010-08-05</placed>
+  <lat>50.4801</lat>
+  <lon>9.628333</lon>
+  <id>006043</id>
+  <addinfo>AI::xml</addinfo>
+  <attributes>hidden</attributes>
+</element>
+<element>
+  <cache-id>PA2CZ3T</cache-id>
+  <type>Waypoint</type>
+  <name>Parkplatz</name>
+  <placed>2010-08-06</placed>
+  <lat>50.651033</lat>
+  <lon>9.601083</lon>
+  <id>007438</id>
+  <addinfo>AI::xml</addinfo>
+  <attributes>hidden</attributes>
+</element>
+<element>
+  <cache-id>S12CZ3T</cache-id>
+  <type>Waypoint</type>
+  <name>Anlegestelle</name>
+  <placed>2010-08-06</placed>
+  <lat>50.652033</lat>
+  <lon>9.601367</lon>
+  <id>007404</id>
+  <addinfo>AI::xml</addinfo>
+  <attributes>hidden</attributes>
+</element>
+<element>
+  <cache-id>P32D097</cache-id>
+  <type>Waypoint</type>
+  <name>Park 3</name>
+  <placed>2010-08-13</placed>
+  <lat>50.582283</lat>
+  <lon>9.584967</lon>
+  <id>000792</id>
+  <addinfo>AI::xml</addinfo>
+  <attributes>hidden</attributes>
+</element>
+<element>
+  <cache-id>P22DAMB</cache-id>
+  <type>Waypoint</type>
+  <name>Parken 2</name>
+  <placed>2010-08-13</placed>
+  <lat>50.59595</lat>
+  <lon>9.606167</lon>
+  <id>009657</id>
+  <addinfo>AI::xml</addinfo>
+  <attributes>hidden</attributes>
+</element>
+<element>
+  <cache-id>PT2DC4M</cache-id>
+  <type>Waypoint</type>
+  <name>Park TB Hotel</name>
+  <placed>2010-08-14</placed>
+  <lat>50.575167</lat>
+  <lon>9.698817</lon>
+  <id>003936</id>
+  <addinfo>AI::xml</addinfo>
+  <attributes>hidden</attributes>
+</element>
+<element>
+  <cache-id>PN2DC7A</cache-id>
+  <type>Waypoint</type>
+  <name>Park NC</name>
+  <placed>2010-08-15</placed>
+  <lat>50.57745</lat>
+  <lon>9.565533</lon>
+  <id>009243</id>
+  <addinfo>AI::xml</addinfo>
+  <attributes>hidden</attributes>
+</element>
+<element>
+  <cache-id>SB2DC7A</cache-id>
+  <type>Waypoint</type>
+  <name>Start Bank</name>
+  <placed>2010-08-15</placed>
+  <lat>50.586933</lat>
+  <lon>9.571167</lon>
+  <id>008429</id>
+  <addinfo>AI::xml</addinfo>
+  <attributes>hidden</attributes>
+</element>
+<element>
+  <cache-id>PK2DEG2</cache-id>
+  <type>Waypoint</type>
+  <name>GC2DEG2 Parking</name>
+  <placed>2010-08-15</placed>
+  <lat>50.558633</lat>
+  <lon>9.6858</lon>
+  <id>007397</id>
+  <addinfo>AI::xml</addinfo>
+  <attributes>hidden</attributes>
+</element>
+<element>
+  <cache-id>S12DEG2</cache-id>
+  <type>Waypoint</type>
+  <name>GC2DEG2 Stage 1</name>
+  <placed>2010-08-15</placed>
+  <lat>50.557767</lat>
+  <lon>9.6818</lon>
+  <id>006187</id>
+  <addinfo>AI::xml</addinfo>
+  <attributes>hidden</attributes>
+</element>
+<element>
+  <cache-id>002G1AF</cache-id>
+  <type>Waypoint</type>
+  <name>Parken</name>
+  <placed>2010-10-01</placed>
+  <lat>50.6365</lat>
+  <lon>9.57875</lon>
+  <id>002331</id>
+  <addinfo>AI::xml</addinfo>
+  <attributes>hidden</attributes>
+</element>
+<element>
+  <cache-id>S12GFE4</cache-id>
+  <type>Waypoint</type>
+  <name>Waidmanns Schatz Stage 1</name>
+  <placed>2010-10-27</placed>
+  <lat>50.515717</lat>
+  <lon>9.741883</lon>
+  <id>007571</id>
+  <addinfo>AI::xml</addinfo>
+  <attributes>hidden</attributes>
+</element>
+<element>
+  <cache-id>PK2GVW5</cache-id>
+  <type>Waypoint</type>
+  <name>GC2GVW5 Parking</name>
+  <placed>2010-10-17</placed>
+  <lat>50.598033</lat>
+  <lon>9.761367</lon>
+  <id>002377</id>
+  <addinfo>AI::xml</addinfo>
+  <attributes>hidden</attributes>
+</element>
+<element>
+  <cache-id>PA1T328</cache-id>
+  <type>Waypoint</type>
+  <name>Romy & Tobias</name>
+  <placed>2009-05-31</placed>
+  <lat>50.528567</lat>
+  <lon>9.5351</lon>
+  <id>007534</id>
+  <addinfo>AI::xml</addinfo>
+  <attributes>hidden</attributes>
+</element>
+</celsiusv3.0.libraryindexfile>

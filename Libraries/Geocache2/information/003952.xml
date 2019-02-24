@@ -1,0 +1,115 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>003952</id>
+  <cache-id>GC17Q4G</cache-id>
+  <type>Traditional Cache</type>
+  <name>Dead MenTell NoTales by moyle, Traditional Cache (1/1.5)</name>
+  <size>Small</size>
+  <difficulty>1</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2009-07-19</last-found>
+  <placed>2007-12-01</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>moyle</placedby>
+  <found>Geocache Found</found>
+  <lat>53.355967</lat>
+  <lon>-6.3957</lon>
+  <last-logs>FFFFFF</last-logs>
+  <owner>moyle</owner>
+  <description>Handy cache and dash but not on the main road.</description>
+  <long-description>
+      </long-description>
+  <encoded-hints>No clue needed - after all "Dead Men Tell No Tales"</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=ed1349e0-4c9e-4609-8f03-b357184d09fd</url>
+  <url-name>Dead MenTell NoTales</url-name>
+  <logs><ul><li>2010-06-12T19:00:00Z : Found it by mircilla <br />My very first cache, Im so excited :) Thanks for this!</li><li>2010-05-20T19:00:00Z : Found it by Die TornAdos <br />Quick stop and easy Find!
+TFTC
+Die TornAdos (from Switzerland)
+
+Log: 14:15</li><li>2010-05-09T19:00:00Z : Found it by merann <br />Found this one fairly quickly, the co-ords were good which made the search much easier.
+Out - Marble.
+In - Ball.
+TFTC, Merann. </li><li>2010-05-01T19:00:00Z : Found it by anxie <br />An unscheduled visit this time and easy in the end. we had nothing 2 leave, but will give the gcoin a nice new home :) 
+TFTC!</li><li>2010-04-25T19:00:00Z : Found it by danomalley <br />Possibly the quickest find I've ever had -- the coordinates were spot-on and I literally found it within 30 seconds of getting to the zero point. This place is only about 5 mins drive from my house, I'm amazed I never bothered to go pick up this cache before. TFTC!
+
+Took: hair clip, balloon, whistle
+Left: beetle toy, mini skittle set, Kinder Surprise toy & geocoin</li><li>2009-07-19T19:00:00Z : Found it by Kersti.com <br />Out for a day of caching with JME1979 - this was our second find for the day and my 299th overall. </li></ul></logs>
+  <original-xml>  <wpt  lat="53.355967" lon="-6.3957">
+    <time>2007-12-01T08:00:00Z</time>
+    <name>GC17Q4G</name>
+    <desc>Dead MenTell NoTales by moyle, Traditional Cache (1/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=ed1349e0-4c9e-4609-8f03-b357184d09fd</url>
+    <urlname>Dead MenTell NoTales</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="743181" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Dead MenTell NoTales</groundspeak:name>
+      <groundspeak:placed_by>moyle</groundspeak:placed_by>
+      <groundspeak:owner id="1183128">moyle</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>
+      </groundspeak:state>
+      <groundspeak:short_description html="False">Handy cache and dash but not on the main road.</groundspeak:short_description>
+      <groundspeak:long_description html="False">
+      </groundspeak:long_description>
+      <groundspeak:encoded_hints>No clue needed - after all "Dead Men Tell No Tales"</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="112535977">
+          <groundspeak:date>2010-06-12T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3306639">mircilla</groundspeak:finder>
+          <groundspeak:text encoded="False">My very first cache, Im so excited :) Thanks for this!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="109927445">
+          <groundspeak:date>2010-05-20T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="696667">Die TornAdos</groundspeak:finder>
+          <groundspeak:text encoded="False">Quick stop and easy Find!
+TFTC
+Die TornAdos (from Switzerland)
+
+Log: 14:15</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="108400083">
+          <groundspeak:date>2010-05-09T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="134212">merann</groundspeak:finder>
+          <groundspeak:text encoded="False">Found this one fairly quickly, the co-ords were good which made the search much easier.
+Out - Marble.
+In - Ball.
+TFTC, Merann. </groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="106530668">
+          <groundspeak:date>2010-05-01T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2190344">anxie</groundspeak:finder>
+          <groundspeak:text encoded="False">An unscheduled visit this time and easy in the end. we had nothing 2 leave, but will give the gcoin a nice new home :) 
+TFTC!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="105736747">
+          <groundspeak:date>2010-04-25T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="757955">danomalley</groundspeak:finder>
+          <groundspeak:text encoded="False">Possibly the quickest find I've ever had -- the coordinates were spot-on and I literally found it within 30 seconds of getting to the zero point. This place is only about 5 mins drive from my house, I'm amazed I never bothered to go pick up this cache before. TFTC!
+
+Took: hair clip, balloon, whistle
+Left: beetle toy, mini skittle set, Kinder Surprise toy &amp; geocoin</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="77679115">
+          <groundspeak:date>2009-07-19T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="320206">Kersti.com</groundspeak:finder>
+          <groundspeak:text encoded="False">Out for a day of caching with JME1979 - this was our second find for the day and my 299th overall. </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

@@ -1,0 +1,169 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>003974</id>
+  <cache-id>GC228PX</cache-id>
+  <type>Traditional Cache</type>
+  <name>Coin Depot PET by HubiFD, Traditional Cache (1.5/1.5)</name>
+  <size>Small</size>
+  <difficulty>1.5</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-11-28</last-found>
+  <placed>2009-12-27</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>HubiFD</placedby>
+  <found>Geocache</found>
+  <lat>50.559617</lat>
+  <lon>9.712267</lon>
+  <last-logs>FMED</last-logs>
+  <owner>HubiFD</owner>
+  <description>
+      </description>
+  <long-description><b>Dieser Cache führt Euch in die Ortsmitte von Petersberg, genauer
+gesagt zum Rathausplatz.<br />
+Hier befindet sich dann auch das Coin Depot.</b><br />
+<br />
+Das Coin Depot, welches einen separaten Zugang hat, erreicht man
+über die Treppe links vom dem Gebäude.<br />
+Es bietet Platz für maximal 2 Coins, es wäre schön, wenn immer ein
+Coin im Cache bleiben würde. Also tauscht bitte fair.<br />
+Nebenan befinden sich heute die Bürgerstuben, in dem damaligen
+Jugendtreff verbrachte ich einen Teil meiner Jugend. Nachmittags
+traf man sich dort ab 15 Uhr zum spielen, quatschen, kickern oder
+Café trinken, Donnerstags war meist ab 20 Uhr Disco angesagt,
+abends um 22 Uhr war dann aber Schluß mit lustig.<br />
+<br />
+<br />
+<b>Bitte Stift mitbringen.<br />
+Den Behälter bitte wieder an die gleiche Stelle zurücklegen wo ihr
+ihn gefunden habt.</b><br />
+<br />
+<br />
+Viel Spaß beim Suchen wünscht Euch<br />
+<table>
+<tr>
+<td align="center"><img src=
+"http://www.zrx-ig-forum.de/phpbb/images/avatars/88864716449a2c1d31eb44.gif" /></td>
+</tr>
+</table>
+<br />
+<br />
+<b>Glückwunsch dem Erstfinder: stoabeissa</b></long-description>
+  <encoded-hints>EF UTS ET TIRD HCSI TEN GAM
+</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=b27b4d5b-2404-4fa2-a15f-18d79e9cb493</url>
+  <url-name>Coin Depot PET</url-name>
+  <logs><ul><li>2010-12-25T20:00:00Z : Found it by ikeableistift <br />Da hab ich ja Glück, daß der Cache jetzt winterfest gemacht wurde. Gegen 15h25 war es selbst bei den Schneemassen ringsherum jedenfalls kein großes Problem dieses doch etwas klein geratene Coin-Depot ausfindig zu machen und sich ins Gästebuch einzutragen. TFTC!
+Out: Coin (die kommt mit nach München)</li><li>2010-12-14T20:00:00Z : Owner Maintenance by HubiFD <br />Neuen Behälter fürs Depot plaziert und einen Coin deponiert.</li><li>2010-12-14T15:49:13Z : Enable Listing by HubiFD <br />Das Coin Depot darf wieder besucht werden und ist nun auch winterfest. 
+Viel Spaß beim Suchen.</li><li>2010-12-14T15:47:31Z : Update Coordinates by HubiFD <br />Coordinates changed from:
+N 50° 33.576 E 009° 42.708
+
+Coordinates changed to:
+N 50° 33.577 E 009° 42.736
+
+Distance from original: 108.4 feet or 33 meters.
+
+Der Cache wurde umgelegt da er erneut verschwunden war. Nun mit neuem Namen an etwas besserer Stelle.</li><li>2010-11-28T19:38:56Z : Temporarily Disable Listing by HubiFD <br />Da die Dose wohl verschwunden ist, erstmal disabled.
+Habe sie selbst heute nicht gefunden.</li></ul></logs>
+  <original-xml>  <wpt  lat="50.559617" lon="9.712267">
+    <time>2009-12-27T08:00:00Z</time>
+    <name>GC228PX</name>
+    <desc>Coin Depot PET by HubiFD, Traditional Cache (1.5/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=b27b4d5b-2404-4fa2-a15f-18d79e9cb493</url>
+    <urlname>Coin Depot PET</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1503902" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Coin Depot PET</groundspeak:name>
+      <groundspeak:placed_by>HubiFD</groundspeak:placed_by>
+      <groundspeak:owner id="2729325">HubiFD</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="True">
+      </groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;b&gt;Dieser Cache führt Euch in die Ortsmitte von Petersberg, genauer
+gesagt zum Rathausplatz.&lt;br /&gt;
+Hier befindet sich dann auch das Coin Depot.&lt;/b&gt;&lt;br /&gt;
+&lt;br /&gt;
+Das Coin Depot, welches einen separaten Zugang hat, erreicht man
+über die Treppe links vom dem Gebäude.&lt;br /&gt;
+Es bietet Platz für maximal 2 Coins, es wäre schön, wenn immer ein
+Coin im Cache bleiben würde. Also tauscht bitte fair.&lt;br /&gt;
+Nebenan befinden sich heute die Bürgerstuben, in dem damaligen
+Jugendtreff verbrachte ich einen Teil meiner Jugend. Nachmittags
+traf man sich dort ab 15 Uhr zum spielen, quatschen, kickern oder
+Café trinken, Donnerstags war meist ab 20 Uhr Disco angesagt,
+abends um 22 Uhr war dann aber Schluß mit lustig.&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Bitte Stift mitbringen.&lt;br /&gt;
+Den Behälter bitte wieder an die gleiche Stelle zurücklegen wo ihr
+ihn gefunden habt.&lt;/b&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+Viel Spaß beim Suchen wünscht Euch&lt;br /&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td align="center"&gt;&lt;img src=
+"http://www.zrx-ig-forum.de/phpbb/images/avatars/88864716449a2c1d31eb44.gif" /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Glückwunsch dem Erstfinder: stoabeissa&lt;/b&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>EF UTS ET TIRD HCSI TEN GAM
+</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="139179914">
+          <groundspeak:date>2010-12-25T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="890216">ikeableistift</groundspeak:finder>
+          <groundspeak:text encoded="False">Da hab ich ja Glück, daß der Cache jetzt winterfest gemacht wurde. Gegen 15h25 war es selbst bei den Schneemassen ringsherum jedenfalls kein großes Problem dieses doch etwas klein geratene Coin-Depot ausfindig zu machen und sich ins Gästebuch einzutragen. TFTC!
+Out: Coin (die kommt mit nach München)</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="138580589">
+          <groundspeak:date>2010-12-14T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Owner Maintenance</groundspeak:type>
+          <groundspeak:finder id="2729325">HubiFD</groundspeak:finder>
+          <groundspeak:text encoded="False">Neuen Behälter fürs Depot plaziert und einen Coin deponiert.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="138580810">
+          <groundspeak:date>2010-12-14T15:49:13Z</groundspeak:date>
+          <groundspeak:type>Enable Listing</groundspeak:type>
+          <groundspeak:finder id="2729325">HubiFD</groundspeak:finder>
+          <groundspeak:text encoded="False">Das Coin Depot darf wieder besucht werden und ist nun auch winterfest. 
+Viel Spaß beim Suchen.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="138580749">
+          <groundspeak:date>2010-12-14T15:47:31Z</groundspeak:date>
+          <groundspeak:type>Update Coordinates</groundspeak:type>
+          <groundspeak:finder id="2729325">HubiFD</groundspeak:finder>
+          <groundspeak:text encoded="False">Coordinates changed from:
+N 50° 33.576 E 009° 42.708
+
+Coordinates changed to:
+N 50° 33.577 E 009° 42.736
+
+Distance from original: 108.4 feet or 33 meters.
+
+Der Cache wurde umgelegt da er erneut verschwunden war. Nun mit neuem Namen an etwas besserer Stelle.</groundspeak:text>
+          <groundspeak:log_wpt lat="50.559617" lon="9.712267" />
+        </groundspeak:log>
+        <groundspeak:log id="137437104">
+          <groundspeak:date>2010-11-28T19:38:56Z</groundspeak:date>
+          <groundspeak:type>Temporarily Disable Listing</groundspeak:type>
+          <groundspeak:finder id="2729325">HubiFD</groundspeak:finder>
+          <groundspeak:text encoded="False">Da die Dose wohl verschwunden ist, erstmal disabled.
+Habe sie selbst heute nicht gefunden.</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

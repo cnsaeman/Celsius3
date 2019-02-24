@@ -1,0 +1,118 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>009747</id>
+  <cache-id>GC1KEWE</cache-id>
+  <type>Traditional Cache</type>
+  <name>Wunderquelle by balalaika, Traditional Cache (1/2)</name>
+  <size>Small</size>
+  <difficulty>1</difficulty>
+  <terrain>2</terrain>
+  <last-found>2009-12-28</last-found>
+  <placed>2009-01-04</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>balalaika</placedby>
+  <found>Geocache Found</found>
+  <lat>50.565517</lat>
+  <lon>9.663617</lon>
+  <last-logs>FFFFFWF</last-logs>
+  <owner>balalaika</owner>
+  <description>
+      </description>
+  <long-description>Schon Bonifatius machte hier Rast und betete in aller Stille. Als er durstig war, suchte er die Umgebung ab, fand aber keinen Bach und keine Quelle. So steckte er seinen Bischofsstab in die Erde. Als er ihn wieder herauszog, sprudelte an dieser Stelle Wasser aus den Steinen. Dankbar trank er aus der auch heute noch sprudelnden Quelle.
+Entspanne auch Du an diesem ruhigen Ort.</long-description>
+  <encoded-hints>Schaue auf zu den Steinen</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=3f9e6621-b098-4166-8327-723e25338b4c</url>
+  <url-name>Wunderquelle</url-name>
+  <logs><ul><li>2010-10-30T19:00:00Z : Found it by Bosi1964 <br />Heute auf einer großen Fahrradtour auch hier vorbeigeradelt und dank Hint auch diese  Dose schnell gefunden.
+TFTC
+Bosi
+# 1669</li><li>2010-10-30T19:00:00Z : Found it by Ivy69 <br />Die Suche hat etwas länger gedauert, hatte schon befürchtet er sei gemuggelt worden....und auch an solch schönen Plätzchen wieder viel Müll!Das muß doch nicht sein.TFTC</li><li>2010-10-24T19:00:00Z : Found it by kevrox24 <br />Heute lange geirrt, aber am richtigen Platz, das richtige getan
+und schnell gefunden.
+TYFTC</li><li>2010-10-22T19:00:00Z : Found it by Vonto <br />Diesen schönen Cache um 13.15 Uhr gefunden.
+TFTC Vonto
+IN: TB</li><li>2010-10-18T19:00:00Z : Found it by s186003 <br />Schnell gefunden.
+TFTC</li><li>2009-12-28T20:00:00Z : Write note by Kersti.com <br />Personal Tracking Coin Drop
+Fergus the Frog hopped here</li><li>2009-12-28T20:00:00Z : Found it by Kersti.com <br />Staying nearby for Christmas and finally managed to get out for a little bit of caching. This is such a gorgeous little spot and with such a wonderful story. I chose the easiest side from which to make my ascent and was soon rewarded. TNLNSL</li></ul></logs>
+  <original-xml>  <wpt  lat="50.565517" lon="9.663617">
+    <time>2009-01-04T08:00:00Z</time>
+    <name>GC1KEWE</name>
+    <desc>Wunderquelle by balalaika, Traditional Cache (1/2)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=3f9e6621-b098-4166-8327-723e25338b4c</url>
+    <urlname>Wunderquelle</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1092735" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Wunderquelle</groundspeak:name>
+      <groundspeak:placed_by>balalaika</groundspeak:placed_by>
+      <groundspeak:owner id="1414299">balalaika</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>2</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">
+      </groundspeak:short_description>
+      <groundspeak:long_description html="False">Schon Bonifatius machte hier Rast und betete in aller Stille. Als er durstig war, suchte er die Umgebung ab, fand aber keinen Bach und keine Quelle. So steckte er seinen Bischofsstab in die Erde. Als er ihn wieder herauszog, sprudelte an dieser Stelle Wasser aus den Steinen. Dankbar trank er aus der auch heute noch sprudelnden Quelle.
+Entspanne auch Du an diesem ruhigen Ort.</groundspeak:long_description>
+      <groundspeak:encoded_hints>Schaue auf zu den Steinen</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="133738128">
+          <groundspeak:date>2010-10-30T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2308415">Bosi1964</groundspeak:finder>
+          <groundspeak:text encoded="False">Heute auf einer großen Fahrradtour auch hier vorbeigeradelt und dank Hint auch diese  Dose schnell gefunden.
+TFTC
+Bosi
+# 1669</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="133663679">
+          <groundspeak:date>2010-10-30T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3091672">Ivy69</groundspeak:finder>
+          <groundspeak:text encoded="False">Die Suche hat etwas länger gedauert, hatte schon befürchtet er sei gemuggelt worden....und auch an solch schönen Plätzchen wieder viel Müll!Das muß doch nicht sein.TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="132919816">
+          <groundspeak:date>2010-10-24T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1926057">kevrox24</groundspeak:finder>
+          <groundspeak:text encoded="False">Heute lange geirrt, aber am richtigen Platz, das richtige getan
+und schnell gefunden.
+TYFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="132907250">
+          <groundspeak:date>2010-10-22T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3341898">Vonto</groundspeak:finder>
+          <groundspeak:text encoded="False">Diesen schönen Cache um 13.15 Uhr gefunden.
+TFTC Vonto
+IN: TB</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="132168597">
+          <groundspeak:date>2010-10-18T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2819456">s186003</groundspeak:finder>
+          <groundspeak:text encoded="False">Schnell gefunden.
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="116670098">
+          <groundspeak:date>2009-12-28T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Write note</groundspeak:type>
+          <groundspeak:finder id="320206">Kersti.com</groundspeak:finder>
+          <groundspeak:text encoded="False">Personal Tracking Coin Drop
+Fergus the Frog hopped here</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="93850068">
+          <groundspeak:date>2009-12-28T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="320206">Kersti.com</groundspeak:finder>
+          <groundspeak:text encoded="False">Staying nearby for Christmas and finally managed to get out for a little bit of caching. This is such a gorgeous little spot and with such a wonderful story. I chose the easiest side from which to make my ascent and was soon rewarded. TNLNSL</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

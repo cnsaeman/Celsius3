@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>006460</id>
+  <cache-id>GC1PYRW</cache-id>
+  <type>Traditional Cache</type>
+  <name>kein Ausblick by Ubx, Traditional Cache (1/2)</name>
+  <size>Micro</size>
+  <difficulty>1</difficulty>
+  <terrain>2</terrain>
+  <last-found>2010-06-12</last-found>
+  <placed>2009-04-12</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Ubx</placedby>
+  <found>Geocache</found>
+  <lat>50.559817</lat>
+  <lon>9.576967</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>ubx</owner>
+  <description>ein PET-ling an einem Lost Place mitten in der Landschaft.</description>
+  <long-description>das Gelände ist etwas unwegsam !! nichts für Nachtcaching und der Zugang zum Cache geht nicht auf direktem Weg.</long-description>
+  <encoded-hints>unter steinigem Material hinter Holz</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=5ac5f268-3159-45f3-8e4d-b3197158b531</url>
+  <url-name>kein Ausblick</url-name>
+  <logs><ul><li>2010-09-20T19:00:00Z : Found it by s186003 <br />Dose lag offen da, vermutlich beim letzen Regen aus dem Versteck gespült worden. Habe sie unter eine Kreuz aus Holzbrettern gelegt. Bitte mal nachsehen. Sonst tolle Lokation. 
+TFTC</li><li>2010-09-20T19:00:00Z : Found it by schwap <br />diesen lost plase kannte ich vorher nicht danke fürs zeigen</li><li>2010-06-27T19:00:00Z : Found it by Meike+Flo <br />Auf einer Fahrradtour mit Mum gefunden...
+Ist eine schöne Gegend dort - war noch nie da =)
+
+TFTC Meike+Flo(+Mutter)</li><li>2010-06-12T19:00:00Z : Found it by dbsg25 <br />War gar nicht so einfach! zu zweit ist immer besser! TFTC</li><li>2010-06-12T19:00:00Z : Found it by daruch <br />auf einer Radtour mit dbsg25 gefunden und geloggt
+
+TFTC
+</li></ul></logs>
+  <original-xml>  <wpt  lat="50.559817" lon="9.576967">
+    <time>2009-04-12T07:00:00Z</time>
+    <name>GC1PYRW</name>
+    <desc>kein Ausblick by Ubx, Traditional Cache (1/2)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=5ac5f268-3159-45f3-8e4d-b3197158b531</url>
+    <urlname>kein Ausblick</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1196443" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>kein Ausblick</groundspeak:name>
+      <groundspeak:placed_by>Ubx</groundspeak:placed_by>
+      <groundspeak:owner id="787613">ubx</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>2</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">ein PET-ling an einem Lost Place mitten in der Landschaft.</groundspeak:short_description>
+      <groundspeak:long_description html="False">das Gelände ist etwas unwegsam !! nichts für Nachtcaching und der Zugang zum Cache geht nicht auf direktem Weg.</groundspeak:long_description>
+      <groundspeak:encoded_hints>unter steinigem Material hinter Holz</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="127989324">
+          <groundspeak:date>2010-09-20T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2819456">s186003</groundspeak:finder>
+          <groundspeak:text encoded="False">Dose lag offen da, vermutlich beim letzen Regen aus dem Versteck gespült worden. Habe sie unter eine Kreuz aus Holzbrettern gelegt. Bitte mal nachsehen. Sonst tolle Lokation. 
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="127872304">
+          <groundspeak:date>2010-09-20T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3060114">schwap</groundspeak:finder>
+          <groundspeak:text encoded="False">diesen lost plase kannte ich vorher nicht danke fürs zeigen</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="114605683">
+          <groundspeak:date>2010-06-27T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3057286">Meike+Flo</groundspeak:finder>
+          <groundspeak:text encoded="False">Auf einer Fahrradtour mit Mum gefunden...
+Ist eine schöne Gegend dort - war noch nie da =)
+
+TFTC Meike+Flo(+Mutter)</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="112530926">
+          <groundspeak:date>2010-06-12T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3001982">dbsg25</groundspeak:finder>
+          <groundspeak:text encoded="False">War gar nicht so einfach! zu zweit ist immer besser! TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="112516761">
+          <groundspeak:date>2010-06-12T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3100425">daruch</groundspeak:finder>
+          <groundspeak:text encoded="False">auf einer Radtour mit dbsg25 gefunden und geloggt
+
+TFTC
+</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

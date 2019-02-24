@@ -1,0 +1,184 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>007314</id>
+  <cache-id>GC1KHY3</cache-id>
+  <type>Traditional Cache</type>
+  <name>The Massager by AbbeyAckbar, Traditional Cache (1.5/1)</name>
+  <size>Other</size>
+  <difficulty>1.5</difficulty>
+  <terrain>1</terrain>
+  <last-found>2009-04-20</last-found>
+  <placed>2009-02-25</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>AbbeyAckbar</placedby>
+  <found>Geocache Found</found>
+  <lat>53.358583</lat>
+  <lon>-6.18865</lon>
+  <last-logs>FFFFFF</last-logs>
+  <owner>AbbeyAckbar</owner>
+  <description>
+      </description>
+  <long-description><p><b>Clontarf Promenade</b></p>
+<p>Stretching for about 3 kilometres from Fairview Park to the Bull
+Wall at Dollymount, the Promenade is 40 metres wide and is about
+26.5 hectares in extent. Reclaimed from the sea in the 1920s and
+finally completed and landscaped in the late 1950s, this much
+admired amenity is a popular location for a bracing seaside walk
+with every possibiltiy in the winter or spring of encountering
+flocks of grazing Brent geese.</p>
+<p>At the Clontarf end of the Promenade, near the Dart line is the
+Children's Traffic School, constructed in 1971 and adjoining it is
+a well used floodlit all-weather facility for athletics and
+football. The prominent "Sails" sculpture was added in 1988; the
+dedicated cycle track in 1997; the memorial seat to Alfie Byrne,
+former Lord Mayor of Dublin, in 1999; and the 'Maoi' Sculpture near
+Vernon Avenue in 2004.</p>
+<p>Clontarf promenade isn't exactly Venice Muscle Beach, the famous
+stretch in LA, nevertheless, last November several pieces of
+exercise equipment were installed along the length of the promenade
+turning it into a free gym.</p>
+<p>There is a cross-trainer, a pulldown trainer, a rider, some
+parallel bars, a shoulder joint exerciser, a Tai Chi pushing
+apparatus, and a massager.</p>
+<p>The pieces were commissioned by Dublin City Council and have
+been supplied by a Clontarf-based company called DynamX.</p>
+<center>
+<img src="http://img.geocaching.com/cache/c69082af-474e-4118-8603-973f9d6efc59.jpg" />
+</center>
+<p>Enjoy exercising with the equipment along the promenade, or
+enjoy The Massager after a long days caching : )</p>
+<p><b>Please</b> be watchful for muggles, of which there will be
+plenty!</p></long-description>
+  <encoded-hints>Nuts!</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=d8d74030-c09c-4097-9060-e27a2d5c01bd</url>
+  <url-name>The Massager</url-name>
+  <logs><ul><li>2010-06-10T19:00:00Z : Found it by njmoore <br />Wicked, Adam and Carole's 1st geocache whilst visiting Clontarf on a a business trip.
+Easy find and a lovely walk from the Castle, thank you.</li><li>2010-06-05T19:00:00Z : Found it by eve1987 <br />Quick find on a nice, sunny walk!
+
+The massage was great [:)]
+
+TFTC and kind regards from Austria, eve</li><li>2010-06-03T17:44:12Z : Found it by Bifidus <br />Found 18.45</li><li>2010-05-25T19:00:00Z : Found it by tmob <br />#2404
+
+We looked for this cache during our holidays in Ireland.
+Six fantastic days, 1800kms driven, and a bunch of caches found.
+Definitely a great way to get to know this beautiful island!
+
+Wow, a massager! That's what we were needing. Yes, because geocaching is a tiring activity [:D].
+Lot's of people enjoying the promenade, running or walking.
+
+Thanks for this one...
+Greetings from Portugal</li><li>2010-05-21T19:00:00Z : Found it by GudrunXY <br />One look, one grap and I could log.
+TFTC, GudrunXY</li><li>2009-04-20T19:00:00Z : Found it by Kersti.com <br />Such a beautiful evening so we were out for a bike ride. Found this one quickly and took advantage of the facilities! TFTC</li></ul></logs>
+  <original-xml>  <wpt  lat="53.358583" lon="-6.18865">
+    <time>2009-02-25T08:00:00Z</time>
+    <name>GC1KHY3</name>
+    <desc>The Massager by AbbeyAckbar, Traditional Cache (1.5/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=d8d74030-c09c-4097-9060-e27a2d5c01bd</url>
+    <urlname>The Massager</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1095669" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>The Massager</groundspeak:name>
+      <groundspeak:placed_by>AbbeyAckbar</groundspeak:placed_by>
+      <groundspeak:owner id="1265839">AbbeyAckbar</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Other</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>Dublin</groundspeak:state>
+      <groundspeak:short_description html="True">
+      </groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;p&gt;&lt;b&gt;Clontarf Promenade&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Stretching for about 3 kilometres from Fairview Park to the Bull
+Wall at Dollymount, the Promenade is 40 metres wide and is about
+26.5 hectares in extent. Reclaimed from the sea in the 1920s and
+finally completed and landscaped in the late 1950s, this much
+admired amenity is a popular location for a bracing seaside walk
+with every possibiltiy in the winter or spring of encountering
+flocks of grazing Brent geese.&lt;/p&gt;
+&lt;p&gt;At the Clontarf end of the Promenade, near the Dart line is the
+Children's Traffic School, constructed in 1971 and adjoining it is
+a well used floodlit all-weather facility for athletics and
+football. The prominent "Sails" sculpture was added in 1988; the
+dedicated cycle track in 1997; the memorial seat to Alfie Byrne,
+former Lord Mayor of Dublin, in 1999; and the 'Maoi' Sculpture near
+Vernon Avenue in 2004.&lt;/p&gt;
+&lt;p&gt;Clontarf promenade isn't exactly Venice Muscle Beach, the famous
+stretch in LA, nevertheless, last November several pieces of
+exercise equipment were installed along the length of the promenade
+turning it into a free gym.&lt;/p&gt;
+&lt;p&gt;There is a cross-trainer, a pulldown trainer, a rider, some
+parallel bars, a shoulder joint exerciser, a Tai Chi pushing
+apparatus, and a massager.&lt;/p&gt;
+&lt;p&gt;The pieces were commissioned by Dublin City Council and have
+been supplied by a Clontarf-based company called DynamX.&lt;/p&gt;
+&lt;center&gt;
+&lt;img src="http://img.geocaching.com/cache/c69082af-474e-4118-8603-973f9d6efc59.jpg" /&gt;
+&lt;/center&gt;
+&lt;p&gt;Enjoy exercising with the equipment along the promenade, or
+enjoy The Massager after a long days caching : )&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Please&lt;/b&gt; be watchful for muggles, of which there will be
+plenty!&lt;/p&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>Nuts!</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="112346100">
+          <groundspeak:date>2010-06-10T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1517099">njmoore</groundspeak:finder>
+          <groundspeak:text encoded="False">Wicked, Adam and Carole's 1st geocache whilst visiting Clontarf on a a business trip.
+Easy find and a lovely walk from the Castle, thank you.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="111886896">
+          <groundspeak:date>2010-06-05T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1617792">eve1987</groundspeak:finder>
+          <groundspeak:text encoded="False">Quick find on a nice, sunny walk!
+
+The massage was great [:)]
+
+TFTC and kind regards from Austria, eve</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="111358874">
+          <groundspeak:date>2010-06-03T17:44:12Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="513839">Bifidus</groundspeak:finder>
+          <groundspeak:text encoded="False">Found 18.45</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="111496806">
+          <groundspeak:date>2010-05-25T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="868022">tmob</groundspeak:finder>
+          <groundspeak:text encoded="False">#2404
+
+We looked for this cache during our holidays in Ireland.
+Six fantastic days, 1800kms driven, and a bunch of caches found.
+Definitely a great way to get to know this beautiful island!
+
+Wow, a massager! That's what we were needing. Yes, because geocaching is a tiring activity [:D].
+Lot's of people enjoying the promenade, running or walking.
+
+Thanks for this one...
+Greetings from Portugal</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="109380951">
+          <groundspeak:date>2010-05-21T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2694097">GudrunXY</groundspeak:finder>
+          <groundspeak:text encoded="False">One look, one grap and I could log.
+TFTC, GudrunXY</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="68483417">
+          <groundspeak:date>2009-04-20T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="320206">Kersti.com</groundspeak:finder>
+          <groundspeak:text encoded="False">Such a beautiful evening so we were out for a bike ride. Found this one quickly and took advantage of the facilities! TFTC</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

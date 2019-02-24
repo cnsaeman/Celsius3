@@ -1,0 +1,159 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>006971</id>
+  <cache-id>GC1M7D3</cache-id>
+  <type>Traditional Cache</type>
+  <name>Royal Canal Way-The Deep Sinking by Kili or Bust, Traditional Cache (1/1.5)</name>
+  <size>Small</size>
+  <difficulty>1</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-03-06</last-found>
+  <placed>2009-02-15</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>Kili or Bust</placedby>
+  <found>Geocache</found>
+  <lat>53.379383</lat>
+  <lon>-6.404567</lon>
+  <last-logs>FFWFF</last-logs>
+  <owner>Kili or bust</owner>
+  <description>
+      </description>
+  <long-description>Decon container. GPS signal a bit iffy around here but you should get within 5 metres and the spot is pretty obvious.
+
+This stretch of the Royal Canal is known as the Deep Sinking. This and the area between Clonsilla and Coolmine made the construction of the canal very difficult to achieve.
+It was here in 1845 that the Dublin to Longford passage boat struck the side and heeled over. The vessel quickly filled and 16 people were drowned.
+
+
+The Royal Canal
+
+Work commenced in 1790 and lasted 27 years before finally reaching the Shannon in 1817, at a total cost of £1,421,954[1]. The canal passes through Maynooth, Enfield and Mullingar and has a spur to Longford. The total length of the main navigation is 145 km (90 mi), and the system has 46 locks. There is one main feeder (from Lough Owel), which enters the canal at Mullingar. At the Dublin end, the canal once reached the Liffey through a wide sequence of dock and locks at Spencer Dock, with a final sea lock to manage access to the river and sea, but these are no longer fully operational, and access to the river is especially challenging.
+Quaternion plaque on Brougham (Broom) Bridge, Dublin
+
+In 1843, while walking with his wife along the Royal Canal, Sir William Rowan Hamilton realized the formula for quaternions and carved his initial thoughts into a stone on the Brougham Bridge over the canal.
+
+The canal is notable in that the Dublin - Mullingar railway line was built alongside the canal for much of the distance. The meandering route of the canal ensures a speed limiting curvature for the railway. The canal was bought by the Midland Great Western Railway to provide a route to the West of Ireland, originally planning to close the canal and build the railway along its bed.
+
+The canal travels across one of the major junctions on the M50/N3 in a specially constructed aqueduct.
+
+Today Waterways Ireland is responsible for the canal. It is currently being repaired, and it is intended to reopen it for navigation of its full length (from the Shannon Navigation to Dublin) by the middle of 2008. In early 2007, it is possible to go from Dublin to Ballymahon, and boats of up to 22.9m x 4.0m x 1.2m are allowed. Access points currently exist near Leixlip and at Maynooth, Enfield, Thomastown, Mullingar, Ballinea Bridge and Ballynacargy.
+
+In 2006 a commemoration marker was erected at Piper's Boreen, Mullingar, to mark the 200 years since the canal reached Mullingar in 1806.
+
+
+This cache is part of a series placed along the Royal Canal Way. The series follows the towpaths along the Royal Canal heading westwards towards the Shannon River. There are a number of caches in the Dublin region stretching from the city centre out into the country. Except for the first two centre city caches all of these, and any clues or hints take you in the direction against the water flow. To get the full benefit of this series I would suggest that it is best done on foot or on a bicycle though most of the caches may also be accessed by car. I have to say that the car option will take considerable time, petrol and nausea inducing traffic frustration not to mention considerable difficulty with parking.
+During winter or wet conditions hiking boots or good waterproof shoes will be required as the canal towpath can become very sloppy and almost impossible in one or two spots.
+
+""BE AWARE OF THE DANGER AND THE SLIPPY MUD CLOSE TO THE WATER AT ALL TIMES PLEASE""
+
+There area number of Sidetrack caches at the railway stations along the canal walk. A small detour at these points will bring you to each one.</long-description>
+  <encoded-hints>Base of tree, up a bit.</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=986ade19-38eb-4da8-ba3b-0cdc5b9251ab</url>
+  <url-name>Royal Canal Way-The Deep Sinking</url-name>
+  <logs><ul><li>2010-06-05T19:00:00Z : Found it by LairdMcHenny <br />fast and easy on a lovely day. Thx</li><li>2010-06-03T19:00:00Z : Found it by Gandac <br />Mr G found this cache while on a business trip with a muggle colleague on a fine summer's evening.  Took a bit of finding as GPS all over the place.  TFTC
+
+Left Tin Tin 1 TB</li><li>2010-06-01T19:00:00Z : Write note by Gandac <br />Dipping our personal TB in retrospect. Thanks</li><li>2010-04-28T19:00:00Z : Found it by Sookmeister <br />Found it in the dark with a torch, took a little while!
+
+TFTC</li><li>2010-03-06T20:00:00Z : Found it by niripas <br />Nice place for a walk.
+
+TFTC!</li></ul></logs>
+  <original-xml>  <wpt  lat="53.379383" lon="-6.404567">
+    <time>2009-02-15T08:00:00Z</time>
+    <name>GC1M7D3</name>
+    <desc>Royal Canal Way-The Deep Sinking by Kili or Bust, Traditional Cache (1/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=986ade19-38eb-4da8-ba3b-0cdc5b9251ab</url>
+    <urlname>Royal Canal Way-The Deep Sinking</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1115354" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Royal Canal Way-The Deep Sinking</groundspeak:name>
+      <groundspeak:placed_by>Kili or Bust</groundspeak:placed_by>
+      <groundspeak:owner id="281705">Kili or bust</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>Dublin</groundspeak:state>
+      <groundspeak:short_description html="False">
+      </groundspeak:short_description>
+      <groundspeak:long_description html="False">Decon container. GPS signal a bit iffy around here but you should get within 5 metres and the spot is pretty obvious.
+
+This stretch of the Royal Canal is known as the Deep Sinking. This and the area between Clonsilla and Coolmine made the construction of the canal very difficult to achieve.
+It was here in 1845 that the Dublin to Longford passage boat struck the side and heeled over. The vessel quickly filled and 16 people were drowned.
+
+
+The Royal Canal
+
+Work commenced in 1790 and lasted 27 years before finally reaching the Shannon in 1817, at a total cost of £1,421,954[1]. The canal passes through Maynooth, Enfield and Mullingar and has a spur to Longford. The total length of the main navigation is 145 km (90 mi), and the system has 46 locks. There is one main feeder (from Lough Owel), which enters the canal at Mullingar. At the Dublin end, the canal once reached the Liffey through a wide sequence of dock and locks at Spencer Dock, with a final sea lock to manage access to the river and sea, but these are no longer fully operational, and access to the river is especially challenging.
+Quaternion plaque on Brougham (Broom) Bridge, Dublin
+
+In 1843, while walking with his wife along the Royal Canal, Sir William Rowan Hamilton realized the formula for quaternions and carved his initial thoughts into a stone on the Brougham Bridge over the canal.
+
+The canal is notable in that the Dublin - Mullingar railway line was built alongside the canal for much of the distance. The meandering route of the canal ensures a speed limiting curvature for the railway. The canal was bought by the Midland Great Western Railway to provide a route to the West of Ireland, originally planning to close the canal and build the railway along its bed.
+
+The canal travels across one of the major junctions on the M50/N3 in a specially constructed aqueduct.
+
+Today Waterways Ireland is responsible for the canal. It is currently being repaired, and it is intended to reopen it for navigation of its full length (from the Shannon Navigation to Dublin) by the middle of 2008. In early 2007, it is possible to go from Dublin to Ballymahon, and boats of up to 22.9m x 4.0m x 1.2m are allowed. Access points currently exist near Leixlip and at Maynooth, Enfield, Thomastown, Mullingar, Ballinea Bridge and Ballynacargy.
+
+In 2006 a commemoration marker was erected at Piper's Boreen, Mullingar, to mark the 200 years since the canal reached Mullingar in 1806.
+
+
+This cache is part of a series placed along the Royal Canal Way. The series follows the towpaths along the Royal Canal heading westwards towards the Shannon River. There are a number of caches in the Dublin region stretching from the city centre out into the country. Except for the first two centre city caches all of these, and any clues or hints take you in the direction against the water flow. To get the full benefit of this series I would suggest that it is best done on foot or on a bicycle though most of the caches may also be accessed by car. I have to say that the car option will take considerable time, petrol and nausea inducing traffic frustration not to mention considerable difficulty with parking.
+During winter or wet conditions hiking boots or good waterproof shoes will be required as the canal towpath can become very sloppy and almost impossible in one or two spots.
+
+""BE AWARE OF THE DANGER AND THE SLIPPY MUD CLOSE TO THE WATER AT ALL TIMES PLEASE""
+
+There area number of Sidetrack caches at the railway stations along the canal walk. A small detour at these points will bring you to each one.</groundspeak:long_description>
+      <groundspeak:encoded_hints>Base of tree, up a bit.</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="111587371">
+          <groundspeak:date>2010-06-05T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1865677">LairdMcHenny</groundspeak:finder>
+          <groundspeak:text encoded="False">fast and easy on a lovely day. Thx</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="111391609">
+          <groundspeak:date>2010-06-03T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2609367">Gandac</groundspeak:finder>
+          <groundspeak:text encoded="False">Mr G found this cache while on a business trip with a muggle colleague on a fine summer's evening.  Took a bit of finding as GPS all over the place.  TFTC
+
+Left Tin Tin 1 TB</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="111718697">
+          <groundspeak:date>2010-06-01T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Write note</groundspeak:type>
+          <groundspeak:finder id="2609367">Gandac</groundspeak:finder>
+          <groundspeak:text encoded="False">Dipping our personal TB in retrospect. Thanks</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="106458406">
+          <groundspeak:date>2010-04-28T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2923857">Sookmeister</groundspeak:finder>
+          <groundspeak:text encoded="False">Found it in the dark with a torch, took a little while!
+
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="99186164">
+          <groundspeak:date>2010-03-06T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1720330">niripas</groundspeak:finder>
+          <groundspeak:text encoded="False">Nice place for a walk.
+
+TFTC!</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs>
+        <groundspeak:travelbug id="963822" ref="TB1F4PZ">
+          <groundspeak:name>VICTORINOX Travel Bug Dog Tag</groundspeak:name>
+        </groundspeak:travelbug>
+        <groundspeak:travelbug id="1723157" ref="TB29KWM">
+          <groundspeak:name>Tin Tin 1</groundspeak:name>
+        </groundspeak:travelbug>
+      </groundspeak:travelbugs>
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

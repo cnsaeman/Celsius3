@@ -1,0 +1,151 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>009140</id>
+  <cache-id>GC11F81</cache-id>
+  <type>Traditional Cache</type>
+  <name>L is for Lighthouse by Hezekiah, Traditional Cache (1/1)</name>
+  <size>Micro</size>
+  <difficulty>1</difficulty>
+  <terrain>1</terrain>
+  <last-found>2007-08-23</last-found>
+  <placed>2007-03-15</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>Hezekiah</placedby>
+  <found>Geocache Found</found>
+  <lat>53.292533</lat>
+  <lon>-6.131883</lon>
+  <last-logs>FFFFFF</last-logs>
+  <owner>Hezekiah</owner>
+  <description><p align="center"><a target="_blank" href=
+   "http://www.geocachingireland.com/index.html"><img border="0"
+   src=
+   "http://img.geocaching.com/cache/2280ab19-c5fc-4d33-8efb-797df9c0ac8c.jpg"
+     width="150" height="43" align="middle"></a></p>
+<hr size="2">
+<center><font color="Green">Visit the <b>new</b> Geocaching Ireland
+discussion forum <a rel="nofollow" href=
+"http://www.mccartan.org/forums/" target=
+"_blank">HERE</a></font></center>
+<hr size="2"></description>
+  <long-description>Not a lighthouse, but the internals of one! Housed in the Maritime
+Museum - an underfunded and unsung piece of our maritime heritage,
+and well worth a visit (except the building is being renovated at
+present and will open to visitors again in May 2007. The cache is
+outside the perimeter of the building and environs.</long-description>
+  <encoded-hints>Ivy at base of pole</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=5691cc3d-d284-414c-b5b9-298cecd1f3a7</url>
+  <url-name>L is for Lighthouse</url-name>
+  <logs><ul><li>2010-06-15T13:20:32Z : Found it by backen1 <br />TFTC</li><li>2010-06-14T19:00:00Z : Found it by Yowza-PA <br />This is a special cache for me... we're on a holiday from the US and were making our way from Commerra to the Royal Marine Hotel here in Dublin.  Paula was navigating - I was driving (on the wrong side of the road) for the first time.  We became lost on the way to the hotel and had no clue where we were and where we needed to be.  Hey, I thought to myself, I loaded a few geocaches near the hotel into my GPS... Well, we were 6.58 miles west of the hotel (don't know how that happened) and we used the caching coordinates to direct us back to the general vicinity.  For a moment, we both had a new appreciation for this hobby of mine and your cache.  "L is for Lighthouse" was a trip saver for us... guiding us back to safety.  
+
+Thanks for the fun and for the guiding light.  TNLNSL.  </li><li>2010-06-10T19:00:00Z : Found it by Martyna <br />first international find while touring this beautiful country found with muggle cousin who humors me. TFTC</li><li>2010-05-26T19:00:00Z : Found it by tmob <br />#2436
+
+We looked for this cache during our holidays in Ireland.
+Six fantastic days, 1800kms driven, and a bunch of caches found.
+Definitely a great way to get to know this beautiful island!
+
+We were getting hungry, and decided to get dinner in Dun Laoghaire.
+We did a small walk to get to know the place a little better, this cache just felt in front of us.
+
+Thanks for this one...
+Greetings from Portugal</li><li>2009-03-08T19:00:00Z : Found it by Mancunian Pyrocacher <br />yes I know I'm a bit late in logging this [:I], but my excuse is that as the UK is a lot busier than Eire cache wise. I've put my Geocaching time in publishing caches rather than log them [:D]
+
+Mongoose said there's one of there, so we might as well go and get it. I luckily put my hand on it. Thank you for the cache.
+
+Dave</li><li>2007-08-23T07:00:00Z : Found it by Kersti.com <br />Love that camouflage! So obvious yet so hidden... a nice cache, not so sure about the water feature nearby - seemed a little too green. Found with CMB50</li></ul></logs>
+  <original-xml>  <wpt  lat="53.292533" lon="-6.131883">
+    <time>2007-03-15T07:00:00Z</time>
+    <name>GC11F81</name>
+    <desc>L is for Lighthouse by Hezekiah, Traditional Cache (1/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=5691cc3d-d284-414c-b5b9-298cecd1f3a7</url>
+    <urlname>L is for Lighthouse</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="556856" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>L is for Lighthouse</groundspeak:name>
+      <groundspeak:placed_by>Hezekiah</groundspeak:placed_by>
+      <groundspeak:owner id="274644">Hezekiah</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>
+      </groundspeak:state>
+      <groundspeak:short_description html="True">&lt;p align="center"&gt;&lt;a target="_blank" href=
+   "http://www.geocachingireland.com/index.html"&gt;&lt;img border="0"
+   src=
+   "http://img.geocaching.com/cache/2280ab19-c5fc-4d33-8efb-797df9c0ac8c.jpg"
+     width="150" height="43" align="middle"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;hr size="2"&gt;
+&lt;center&gt;&lt;font color="Green"&gt;Visit the &lt;b&gt;new&lt;/b&gt; Geocaching Ireland
+discussion forum &lt;a rel="nofollow" href=
+"http://www.mccartan.org/forums/" target=
+"_blank"&gt;HERE&lt;/a&gt;&lt;/font&gt;&lt;/center&gt;
+&lt;hr size="2"&gt;</groundspeak:short_description>
+      <groundspeak:long_description html="True">Not a lighthouse, but the internals of one! Housed in the Maritime
+Museum - an underfunded and unsung piece of our maritime heritage,
+and well worth a visit (except the building is being renovated at
+present and will open to visitors again in May 2007. The cache is
+outside the perimeter of the building and environs.</groundspeak:long_description>
+      <groundspeak:encoded_hints>Ivy at base of pole</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="112986387">
+          <groundspeak:date>2010-06-15T13:20:32Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3005853">backen1</groundspeak:finder>
+          <groundspeak:text encoded="False">TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="112839982">
+          <groundspeak:date>2010-06-14T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2246314">Yowza-PA</groundspeak:finder>
+          <groundspeak:text encoded="False">This is a special cache for me... we're on a holiday from the US and were making our way from Commerra to the Royal Marine Hotel here in Dublin.  Paula was navigating - I was driving (on the wrong side of the road) for the first time.  We became lost on the way to the hotel and had no clue where we were and where we needed to be.  Hey, I thought to myself, I loaded a few geocaches near the hotel into my GPS... Well, we were 6.58 miles west of the hotel (don't know how that happened) and we used the caching coordinates to direct us back to the general vicinity.  For a moment, we both had a new appreciation for this hobby of mine and your cache.  "L is for Lighthouse" was a trip saver for us... guiding us back to safety.  
+
+Thanks for the fun and for the guiding light.  TNLNSL.  </groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="112377999">
+          <groundspeak:date>2010-06-10T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1415620">Martyna</groundspeak:finder>
+          <groundspeak:text encoded="False">first international find while touring this beautiful country found with muggle cousin who humors me. TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="112149354">
+          <groundspeak:date>2010-05-26T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="868022">tmob</groundspeak:finder>
+          <groundspeak:text encoded="False">#2436
+
+We looked for this cache during our holidays in Ireland.
+Six fantastic days, 1800kms driven, and a bunch of caches found.
+Definitely a great way to get to know this beautiful island!
+
+We were getting hungry, and decided to get dinner in Dun Laoghaire.
+We did a small walk to get to know the place a little better, this cache just felt in front of us.
+
+Thanks for this one...
+Greetings from Portugal</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="112887241">
+          <groundspeak:date>2009-03-08T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="77057">Mancunian Pyrocacher</groundspeak:finder>
+          <groundspeak:text encoded="False">yes I know I'm a bit late in logging this [:I], but my excuse is that as the UK is a lot busier than Eire cache wise. I've put my Geocaching time in publishing caches rather than log them [:D]
+
+Mongoose said there's one of there, so we might as well go and get it. I luckily put my hand on it. Thank you for the cache.
+
+Dave</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="31530756">
+          <groundspeak:date>2007-08-23T07:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="320206">Kersti.com</groundspeak:finder>
+          <groundspeak:text encoded="False">Love that camouflage! So obvious yet so hidden... a nice cache, not so sure about the water feature nearby - seemed a little too green. Found with CMB50</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

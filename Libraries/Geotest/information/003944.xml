@@ -1,0 +1,134 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>003944</id>
+  <cache-id>GC27P9M</cache-id>
+  <type>Traditional Cache</type>
+  <name>Rauschenbergblick by HubiFD, Traditional Cache (1/1)</name>
+  <size>Micro</size>
+  <difficulty>1</difficulty>
+  <terrain>1</terrain>
+  <last-found>2010-10-24</last-found>
+  <placed>2010-05-10</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>HubiFD</placedby>
+  <found>Geocache</found>
+  <lat>50.56905</lat>
+  <lon>9.750567</lon>
+  <last-logs>FFFWF</last-logs>
+  <owner>HubiFD</owner>
+  <description>
+      </description>
+  <long-description><b>Auf meinen Radtouren, auch abseits der bekannten Radwege,<br />
+gibt es einige schöne Plätzchen und Möglichkeiten zum Rasten<br />
+oder um sich einfach nur die Gegend anzuschauen.<br />
+Natürlich kann man hier und da auch eine Filmdose verstecken.<br />
+Für mich ist es hier noch viel zu früh um eine Rast zu
+machen,<br />
+aber zum Platzieren einer Dose hab ich doch mal angehalten.<br />
+Es ist mal wieder eine Filmdose zu finden, also bitte Stift
+mitbringen.<br />
+<br />
+Viel Spaß beim Suchen wünscht Euch<br /></b><br />
+<table>
+<tr>
+<td align="center"><img src=
+"http://www.zrx-ig-forum.de/phpbb/images/avatars/88864716449a2c1d31eb44.gif" /></td>
+</tr>
+</table>
+<br />
+<b>Glückwunsch dem Erstfinder: jonny-blue</b></long-description>
+  <encoded-hints>
+      </encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=5044d9dc-a3c7-46da-897d-45450c876621</url>
+  <url-name>Rauschenbergblick</url-name>
+  <logs><ul><li>2010-12-02T20:00:00Z : Found it by ChrisFX <br />War schnell bei schönem Wetter, wäre es nur 30°C wärmer gewesen, gefunden :)
+Kuli war kurz vor´m Aufgeben - sollte aber noch lesbar sein.</li><li>2010-11-27T20:00:00Z : Found it by Maluma <br />Heute bei Eiseskälte uns auf dei Socken gemacht und eine Hubi-Runde gedreht..
+
+TFTC MALUMA</li><li>2010-11-14T20:00:00Z : Found it by Limoel <br />Auf der Hubi Runde, auch diesen Cache mitgenommen.
+
+TFTC Limoel</li><li>2010-10-29T19:00:00Z : Write note by HubiFD <br />Heute dem Cache ein neues Logbuch spendiert.</li><li>2010-10-24T19:00:00Z : Found it by Uewaggle <br />Der letzte für heute mit michael01. Ein wunderschöner Ausblick. TFTC #1007</li></ul></logs>
+  <original-xml>  <wpt  lat="50.56905" lon="9.750567">
+    <time>2010-05-10T07:00:00Z</time>
+    <name>GC27P9M</name>
+    <desc>Rauschenbergblick by HubiFD, Traditional Cache (1/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=5044d9dc-a3c7-46da-897d-45450c876621</url>
+    <urlname>Rauschenbergblick</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1665900" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Rauschenbergblick</groundspeak:name>
+      <groundspeak:placed_by>HubiFD</groundspeak:placed_by>
+      <groundspeak:owner id="2729325">HubiFD</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="True">
+      </groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;b&gt;Auf meinen Radtouren, auch abseits der bekannten Radwege,&lt;br /&gt;
+gibt es einige schöne Plätzchen und Möglichkeiten zum Rasten&lt;br /&gt;
+oder um sich einfach nur die Gegend anzuschauen.&lt;br /&gt;
+Natürlich kann man hier und da auch eine Filmdose verstecken.&lt;br /&gt;
+Für mich ist es hier noch viel zu früh um eine Rast zu
+machen,&lt;br /&gt;
+aber zum Platzieren einer Dose hab ich doch mal angehalten.&lt;br /&gt;
+Es ist mal wieder eine Filmdose zu finden, also bitte Stift
+mitbringen.&lt;br /&gt;
+&lt;br /&gt;
+Viel Spaß beim Suchen wünscht Euch&lt;br /&gt;&lt;/b&gt;&lt;br /&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td align="center"&gt;&lt;img src=
+"http://www.zrx-ig-forum.de/phpbb/images/avatars/88864716449a2c1d31eb44.gif" /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+&lt;br /&gt;
+&lt;b&gt;Glückwunsch dem Erstfinder: jonny-blue&lt;/b&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="137771642">
+          <groundspeak:date>2010-12-02T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2837683">ChrisFX</groundspeak:finder>
+          <groundspeak:text encoded="False">War schnell bei schönem Wetter, wäre es nur 30°C wärmer gewesen, gefunden :)
+Kuli war kurz vor´m Aufgeben - sollte aber noch lesbar sein.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="137231483">
+          <groundspeak:date>2010-11-27T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1380311">Maluma</groundspeak:finder>
+          <groundspeak:text encoded="False">Heute bei Eiseskälte uns auf dei Socken gemacht und eine Hubi-Runde gedreht..
+
+TFTC MALUMA</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="135710376">
+          <groundspeak:date>2010-11-14T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2878802">Limoel</groundspeak:finder>
+          <groundspeak:text encoded="False">Auf der Hubi Runde, auch diesen Cache mitgenommen.
+
+TFTC Limoel</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="133519945">
+          <groundspeak:date>2010-10-29T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Write note</groundspeak:type>
+          <groundspeak:finder id="2729325">HubiFD</groundspeak:finder>
+          <groundspeak:text encoded="False">Heute dem Cache ein neues Logbuch spendiert.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="133419995">
+          <groundspeak:date>2010-10-24T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2307524">Uewaggle</groundspeak:finder>
+          <groundspeak:text encoded="False">Der letzte für heute mit michael01. Ein wunderschöner Ausblick. TFTC #1007</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

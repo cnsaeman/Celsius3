@@ -1,0 +1,92 @@
+<?xml version='1.0'?>
+<menu title="Maths/Physics">
+    <menu title="String Theory">
+        <menu title="Books (ST)"/>
+        <menu title="Lecture Notes (ST)"/>
+        <menu title="Matrix Models">
+            <menu title="Books & Reviews (MM)"/>
+        </menu>
+        <menu title="Topological String Theory"/>
+        <menu title="String Field Theory"/>
+        <menu title="AdS/CFT"/>
+        <menu title="M/F-theory"/>
+    </menu>
+    <menu title="Quantum Field Theory">
+        <menu title="Books (QFT)"/>
+        <menu title="Lecture Notes (QFT)"/>
+        <menu title="Gauge Theories"/>
+        <menu title="Twistors"/>
+        <menu title="Supersymmetry"/>
+        <menu title="Conformal Field Theory"/>
+        <menu title="Topological Field Theory"/>
+        <menu title="Thermal Field Theory"/>
+        <menu title="Standard model"/>
+        <menu title="Integrability"/>
+    </menu>
+    <menu title="Other Physics">
+        <menu title="Mechanics"/>
+        <menu title="Quantum Mechanics"/>
+        <menu title="Thermodynamics and Statistics"/>
+        <menu title="Electrodynamics"/>
+        <menu title="Relativity"/>
+        <menu title="Cosmology"/>
+        <menu title="Experimental and Applied Physics"/>
+        <menu title="Solid state physics"/>
+        <menu title="Tables and references"/>
+    </menu>
+    <menu title="Mathematics">
+        <menu title="Foundations of mathematics">
+            <menu title="Logic and Set Theory"/>
+            <menu title="Category theory"/>
+        </menu>
+        <menu title="Algebraic areas">
+            <menu title="Algebra"/>
+            <menu title="Algebraic topology"/>
+            <menu title="Group theory"/>
+            <menu title="Hopf algebras"/>
+            <menu title="K-Theory"/>
+            <menu title="Number theory"/>
+        </menu>
+        <menu title="Analytical areas">
+            <menu title="Complex analysis"/>
+            <menu title="Differential equations"/>
+            <menu title="Functional analysis"/>
+        </menu>
+        <menu title="Geometrical areas">
+            <menu title="Algebraic geometry">
+                <menu title="Elliptic curves"/>
+                <menu title="Toric geometry"/>
+                <menu title="Surfaces"/>
+                <menu title="D-modules"/>
+            </menu>
+            <menu title="Complex geometry"/>
+            <menu title="Differential geometry"/>
+            <menu title="Manifolds"/>
+            <menu title="Topology"/>
+            <menu title="Loop space"/>
+        </menu>
+        <menu title="Applied mathematics">
+            <menu title="Numerics"/>
+        </menu>
+        <menu title="Tables and references"/>
+        <menu title="Financial Mathematics"/>
+    </menu>
+    <menu title="Projects">
+        <menu title="finished"/>
+        <menu title="in progress"/>
+        <menu title="abandoned"/>
+    </menu>
+    <menu title="Document Types">
+        <menu title="Lecture Notes"/>
+        <menu title="PhD Theses"/>
+        <menu title="Talks">
+            <menu title="Presentation files"/>
+        </menu>
+        <menu title="Conferences"/>
+        <menu title="Tables and References"/>
+        <menu title="Research Notes"/>
+        <menu title="Websites"/>
+    </menu>
+    <menu title="To read"/>
+    <menu title="eBook Reader"/>
+</menu>

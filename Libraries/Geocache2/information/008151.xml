@@ -1,0 +1,142 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>008151</id>
+  <cache-id>GCZTPE</cache-id>
+  <type>Traditional Cache</type>
+  <name>Stella's Place by Windsockers, Traditional Cache (1.5/1)</name>
+  <size>Micro</size>
+  <difficulty>1.5</difficulty>
+  <terrain>1</terrain>
+  <last-found>2010-03-21</last-found>
+  <placed>2007-01-06</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>Windsockers</placedby>
+  <found>Geocache</found>
+  <lat>53.493933</lat>
+  <lon>-6.111983</lon>
+  <last-logs>XFFXF</last-logs>
+  <owner>Windsockers</owner>
+  <description><center>
+<img src="http://img.geocaching.com/cache/d744d53b-6744-4156-9ed6-111b7258e2c3.jpg" />
+</center></description>
+  <long-description><p><b>Stella's Castle</b></p>
+<p>The ruins of St Catherine's are to be found near the gates of St
+Ita's Hospital. The church dates back to the Norman days. The
+church was built in the early 12th century. The lands of Portrane
+were granted to Christ Church Cathedral by Sitric the Dane in 1038
+A.D. This grant was confirmed by St Laurence O Toole and is
+mentioned, among other possessions of Christ Church, by Pope Urban
+in 1186. It was once the property of the Nuns of Grace Dieu who are
+said to have moved there when their monastery was suppressed (1538)
+and they lived at Portrane until the end of the reign of Queen
+Elizabeth 1. High up on two sides of the tower can be seen two ugly
+faces. This was a very ancient custom from pre-christian times and
+was supposed to frighten off evil spirits.</p>
+<p>Near the church is a Norman Peel Tower which is often called
+"Stella Castle" because it is said that Dean Swift's lady friend,
+Stella, lived there for a time in 1712. It is also said that Dean
+Swift visited her here.</p>
+<p><b>The Cache</b></p>
+<p>The cache is a micro container with note pad and pencil</p>
+<p>Please replace it with care to prevent all the young muggles who
+frequent this area at night from finding it.</p>
+<center>
+<img src="http://www.northbeach.ie/gallery/albums/userpics/10001/windsock-anim-small.gif" />
+<br />
+<b>The Windsockers</b></center></long-description>
+  <encoded-hints>Under 1949</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=7491ce46-3896-4d7b-8273-11956d84c6f8</url>
+  <url-name>Stella's Place</url-name>
+  <logs><ul><li>2010-06-13T19:00:00Z : Didn't find it by thomasvm <br />Didn't find it where the GPS showed it should be, reading the previous records it might be somewhere on that graveyard - hmm - might be back. </li><li>2010-05-15T19:00:00Z : Found it by Alastair74 <br />Found with Wildfowler while spending the day in Dublin for the WWFM. TFTC</li><li>2010-05-15T19:00:00Z : Found it by wildfowler <br />Found on a caching weekend around Dublin with Alastair74!  TNLNSL TFTC</li><li>2010-05-04T19:00:00Z : Didn't find it by Geo Chief <br />At the given coordinates was nothing to find.
+
+Greetings
+Geo Chief</li><li>2010-03-21T19:00:00Z : Found it by rooske <br />At long last after 5 attemps (with a little bit of help). And then is was so obvious!</li></ul></logs>
+  <original-xml>  <wpt  lat="53.493933" lon="-6.111983">
+    <time>2007-01-06T08:00:00Z</time>
+    <name>GCZTPE</name>
+    <desc>Stella's Place by Windsockers, Traditional Cache (1.5/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=7491ce46-3896-4d7b-8273-11956d84c6f8</url>
+    <urlname>Stella's Place</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="507331" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Stella's Place</groundspeak:name>
+      <groundspeak:placed_by>Windsockers</groundspeak:placed_by>
+      <groundspeak:owner id="271623">Windsockers</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>Leinster</groundspeak:state>
+      <groundspeak:short_description html="True">&lt;center&gt;
+&lt;img src="http://img.geocaching.com/cache/d744d53b-6744-4156-9ed6-111b7258e2c3.jpg" /&gt;
+&lt;/center&gt;</groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;p&gt;&lt;b&gt;Stella's Castle&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;The ruins of St Catherine's are to be found near the gates of St
+Ita's Hospital. The church dates back to the Norman days. The
+church was built in the early 12th century. The lands of Portrane
+were granted to Christ Church Cathedral by Sitric the Dane in 1038
+A.D. This grant was confirmed by St Laurence O Toole and is
+mentioned, among other possessions of Christ Church, by Pope Urban
+in 1186. It was once the property of the Nuns of Grace Dieu who are
+said to have moved there when their monastery was suppressed (1538)
+and they lived at Portrane until the end of the reign of Queen
+Elizabeth 1. High up on two sides of the tower can be seen two ugly
+faces. This was a very ancient custom from pre-christian times and
+was supposed to frighten off evil spirits.&lt;/p&gt;
+&lt;p&gt;Near the church is a Norman Peel Tower which is often called
+"Stella Castle" because it is said that Dean Swift's lady friend,
+Stella, lived there for a time in 1712. It is also said that Dean
+Swift visited her here.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;The Cache&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;The cache is a micro container with note pad and pencil&lt;/p&gt;
+&lt;p&gt;Please replace it with care to prevent all the young muggles who
+frequent this area at night from finding it.&lt;/p&gt;
+&lt;center&gt;
+&lt;img src="http://www.northbeach.ie/gallery/albums/userpics/10001/windsock-anim-small.gif" /&gt;
+&lt;br /&gt;
+&lt;b&gt;The Windsockers&lt;/b&gt;&lt;/center&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>Under 1949</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="112776229">
+          <groundspeak:date>2010-06-13T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Didn't find it</groundspeak:type>
+          <groundspeak:finder id="2849183">thomasvm</groundspeak:finder>
+          <groundspeak:text encoded="False">Didn't find it where the GPS showed it should be, reading the previous records it might be somewhere on that graveyard - hmm - might be back. </groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="109093642">
+          <groundspeak:date>2010-05-15T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2453409">Alastair74</groundspeak:finder>
+          <groundspeak:text encoded="False">Found with Wildfowler while spending the day in Dublin for the WWFM. TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="108920079">
+          <groundspeak:date>2010-05-15T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="182407">wildfowler</groundspeak:finder>
+          <groundspeak:text encoded="False">Found on a caching weekend around Dublin with Alastair74!  TNLNSL TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="107361218">
+          <groundspeak:date>2010-05-04T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Didn't find it</groundspeak:type>
+          <groundspeak:finder id="198517">Geo Chief</groundspeak:finder>
+          <groundspeak:text encoded="False">At the given coordinates was nothing to find.
+
+Greetings
+Geo Chief</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="100561271">
+          <groundspeak:date>2010-03-21T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1786087">rooske</groundspeak:finder>
+          <groundspeak:text encoded="False">At long last after 5 attemps (with a little bit of help). And then is was so obvious!</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

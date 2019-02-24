@@ -1,0 +1,115 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>003624</id>
+  <cache-id>GC1ZHK3</cache-id>
+  <type>Traditional Cache</type>
+  <name>Rhönhof by PlanBe, Traditional Cache (1/1)</name>
+  <size>Regular</size>
+  <difficulty>1</difficulty>
+  <terrain>1</terrain>
+  <last-found>2010-11-07</last-found>
+  <placed>2009-10-06</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>PlanBe</placedby>
+  <found>Geocache</found>
+  <lat>50.486183</lat>
+  <lon>9.70855</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>PlanBe</owner>
+  <description>
+      </description>
+  <long-description>An diesem Autobahndreieck A66/A7 fehlte noch eine Möglichkeit, Travelbugs auszutauschen. Aus diesem Grunde wurde dieser Cache hier versteckt. Der Cache liegt nicht weit entfernt von der Ausfahrt Eichenzell/Poppenhausen an der A66. Es handelt sich um einen Drive Inn da man direkt neben dem Cache Parken kann. 
+Der GPS-Empfang ist einwandfrei (geht eigentlich auch ohne ;-). 
+Als Erstausstattung liegen leider noch keine Travelbugs darin (doch das wird sich hoffentlich bald ändern!) sondern acht Ü-Ei-Schnecken. Diese sollen symbolisieren, dass man auch mit langsamerem Tempo an sein Ziel kommt.
+So, und nun viel Spaß beim suchen. 
+PS.: Spitzer und Bleistift gehören natürlich nicht zu den Tauschobjekten!</long-description>
+  <encoded-hints>
+      </encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=ad1571ce-5a6b-4298-b43f-09ba08eddf0c</url>
+  <url-name>Rhönhof</url-name>
+  <logs><ul><li>2010-12-11T20:00:00Z : Found it by Joebleifuss <br />Trotz stark verschneitem Gelände schnell gefunden und den Ritter TB abgelegt.</li><li>2010-11-28T20:00:00Z : Found it by schwap <br />Nach babysitten noch ne kleine nachtrunde von 7 caches gedreht. hat spass gemacht. TFTC</li><li>2010-11-21T20:00:00Z : Found it by lillyfelix <br />Schnell gefunden. Coin out.
+TFTC</li><li>2010-11-17T04:18:03Z : Found it by Clowns 4ever <br />Heut Abend bei Dunkelheit gut gefunden!!! Mussten noch nen Coin ablegen ;-)
+</li><li>2010-11-07T20:00:00Z : Found it by sema2505 <br />Schnell und gut gefunden, nachdem wir ca. eine halbe Stunde für die Anfahrt gebraucht haben :o)
+Vielen dank fürs Verstecken!!</li></ul></logs>
+  <original-xml>  <wpt  lat="50.486183" lon="9.70855">
+    <time>2009-10-06T07:00:00Z</time>
+    <name>GC1ZHK3</name>
+    <desc>Rhönhof by PlanBe, Traditional Cache (1/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=ad1571ce-5a6b-4298-b43f-09ba08eddf0c</url>
+    <urlname>Rhönhof</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1423060" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Rhönhof</groundspeak:name>
+      <groundspeak:placed_by>PlanBe</groundspeak:placed_by>
+      <groundspeak:owner id="283938">PlanBe</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Regular</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">
+      </groundspeak:short_description>
+      <groundspeak:long_description html="False">An diesem Autobahndreieck A66/A7 fehlte noch eine Möglichkeit, Travelbugs auszutauschen. Aus diesem Grunde wurde dieser Cache hier versteckt. Der Cache liegt nicht weit entfernt von der Ausfahrt Eichenzell/Poppenhausen an der A66. Es handelt sich um einen Drive Inn da man direkt neben dem Cache Parken kann. 
+Der GPS-Empfang ist einwandfrei (geht eigentlich auch ohne ;-). 
+Als Erstausstattung liegen leider noch keine Travelbugs darin (doch das wird sich hoffentlich bald ändern!) sondern acht Ü-Ei-Schnecken. Diese sollen symbolisieren, dass man auch mit langsamerem Tempo an sein Ziel kommt.
+So, und nun viel Spaß beim suchen. 
+PS.: Spitzer und Bleistift gehören natürlich nicht zu den Tauschobjekten!</groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="138443617">
+          <groundspeak:date>2010-12-11T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3778495">Joebleifuss</groundspeak:finder>
+          <groundspeak:text encoded="False">Trotz stark verschneitem Gelände schnell gefunden und den Ritter TB abgelegt.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="137384652">
+          <groundspeak:date>2010-11-28T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3060114">schwap</groundspeak:finder>
+          <groundspeak:text encoded="False">Nach babysitten noch ne kleine nachtrunde von 7 caches gedreht. hat spass gemacht. TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="136674641">
+          <groundspeak:date>2010-11-21T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3765430">lillyfelix</groundspeak:finder>
+          <groundspeak:text encoded="False">Schnell gefunden. Coin out.
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="136111884">
+          <groundspeak:date>2010-11-17T04:18:03Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3918255">Clowns 4ever</groundspeak:finder>
+          <groundspeak:text encoded="False">Heut Abend bei Dunkelheit gut gefunden!!! Mussten noch nen Coin ablegen ;-)
+</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="135065851">
+          <groundspeak:date>2010-11-07T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3665179">sema2505</groundspeak:finder>
+          <groundspeak:text encoded="False">Schnell und gut gefunden, nachdem wir ca. eine halbe Stunde für die Anfahrt gebraucht haben :o)
+Vielen dank fürs Verstecken!!</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs>
+        <groundspeak:travelbug id="178067" ref="TBKR31">
+          <groundspeak:name>ValleyOutdoors 1</groundspeak:name>
+        </groundspeak:travelbug>
+        <groundspeak:travelbug id="2190016" ref="TB2T9NK">
+          <groundspeak:name>Travel Bug Paggy Reiseschwein</groundspeak:name>
+        </groundspeak:travelbug>
+        <groundspeak:travelbug id="2946393" ref="TB3KNQW">
+          <groundspeak:name>Der schwarze Ritter</groundspeak:name>
+        </groundspeak:travelbug>
+        <groundspeak:travelbug id="2958597" ref="TB3M3EH">
+          <groundspeak:name>Ich bin ein Berliner</groundspeak:name>
+        </groundspeak:travelbug>
+      </groundspeak:travelbugs>
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

@@ -1,0 +1,140 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>005531</id>
+  <cache-id>GC1K2Q3</cache-id>
+  <type>Traditional Cache</type>
+  <name>Sidetracked - Sydney Parade DART by Hezekiah, Traditional Cache (1/1)</name>
+  <size>Micro</size>
+  <difficulty>1</difficulty>
+  <terrain>1</terrain>
+  <last-found>2009-07-26</last-found>
+  <placed>2008-12-23</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>Hezekiah</placedby>
+  <found>Geocache</found>
+  <lat>53.320933</lat>
+  <lon>-6.211833</lon>
+  <last-logs>FFFFFX</last-logs>
+  <owner>Hezekiah</owner>
+  <description><marquee behavior="scroll"
+direction="right"><img src="http://img.geocaching.com/cache/fa167cb3-b9f5-4447-9565-b10c1c03826f.jpg" />
+</marquee></description>
+  <long-description><p align="center"><a target="_blank"
+href="http://www.geocachingireland.com/index.html"><img border="0"
+src="http://img.geocaching.com/cache/2280ab19-c5fc-4d33-8efb-797df9c0ac8c.jpg"
+     width="150" height="43" align="middle" /></a></p>
+<hr size="2" />
+<center><font color="Green">Visit the <b>new</b> Geocaching Ireland
+discussion forum <a href="http://www.mccartan.org/forums/"
+target="_blank">HERE</a></font></center>
+<hr size="2" />
+<p>The DART (Dublin Area Rapid Transit) is the rail line running
+along the coast of Dublin, from Malahide and Howth southwards as
+far as Greystones, Co Wicklow.</p>
+<p>Side-Tracked Caches are intended to provide quick
+cache-and-dashes at train stations.<br />
+The Cache is a small micro container - please re-hide it well to
+ensure that the commuting muggles don’t discover it.</p>
+<p><b>Bring a pen / pencil, as the cache may be too small to hold
+one!</b></p></long-description>
+  <encoded-hints>'phone</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=b56efb3b-5d2e-46b1-946d-a947d0ab6e16</url>
+  <url-name>Sidetracked - Sydney Parade DART</url-name>
+  <logs><ul><li>2010-05-12T19:00:00Z : Found it by Pepere51 <br />Cache found easily thanks to the hint
+
+TFTC</li><li>2010-04-18T19:00:00Z : Found it by orangetigerprawn <br />I got this one while doing a few caches in the city today. It was quite convenient that the barriers were down at the time, not a bother with doing the deed.
+
+Go raibh maith agat as an taisce.</li><li>2010-04-12T19:00:00Z : Found it by Sean O'Neill <br />15:41 Hrs.#1701
+TNLNSL
+TFTC</li><li>2010-04-08T19:00:00Z : Found it by foolellelaclunk <br />wow can they get any smaller than this? after eventually taking the chance on every emergency service not turning up if i opened the box, i found it not to be inside. at least now i know, great cache!!</li><li>2010-03-13T20:00:00Z : Found it by Mac Aroni Senior <br />Nice and handy. Spotted from the other side of the tracks while waiting for the dart to pass and the barriers to go up again.</li><li>2009-07-26T19:00:00Z : Didn't find it by Kersti.com <br />Looked for quite a while. Given the time that has lapsed since the last find I suspect that we could have continued looking until the cows came home without luck.</li></ul></logs>
+  <original-xml>  <wpt  lat="53.320933" lon="-6.211833">
+    <time>2008-12-23T08:00:00Z</time>
+    <name>GC1K2Q3</name>
+    <desc>Sidetracked - Sydney Parade DART by Hezekiah, Traditional Cache (1/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=b56efb3b-5d2e-46b1-946d-a947d0ab6e16</url>
+    <urlname>Sidetracked - Sydney Parade DART</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1081068" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Sidetracked - Sydney Parade DART</groundspeak:name>
+      <groundspeak:placed_by>Hezekiah</groundspeak:placed_by>
+      <groundspeak:owner id="274644">Hezekiah</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>Dublin</groundspeak:state>
+      <groundspeak:short_description html="True">&lt;marquee behavior="scroll"
+direction="right"&gt;&lt;img src="http://img.geocaching.com/cache/fa167cb3-b9f5-4447-9565-b10c1c03826f.jpg" /&gt;
+&lt;/marquee&gt;</groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;p align="center"&gt;&lt;a target="_blank"
+href="http://www.geocachingireland.com/index.html"&gt;&lt;img border="0"
+src="http://img.geocaching.com/cache/2280ab19-c5fc-4d33-8efb-797df9c0ac8c.jpg"
+     width="150" height="43" align="middle" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;hr size="2" /&gt;
+&lt;center&gt;&lt;font color="Green"&gt;Visit the &lt;b&gt;new&lt;/b&gt; Geocaching Ireland
+discussion forum &lt;a href="http://www.mccartan.org/forums/"
+target="_blank"&gt;HERE&lt;/a&gt;&lt;/font&gt;&lt;/center&gt;
+&lt;hr size="2" /&gt;
+&lt;p&gt;The DART (Dublin Area Rapid Transit) is the rail line running
+along the coast of Dublin, from Malahide and Howth southwards as
+far as Greystones, Co Wicklow.&lt;/p&gt;
+&lt;p&gt;Side-Tracked Caches are intended to provide quick
+cache-and-dashes at train stations.&lt;br /&gt;
+The Cache is a small micro container - please re-hide it well to
+ensure that the commuting muggles don’t discover it.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Bring a pen / pencil, as the cache may be too small to hold
+one!&lt;/b&gt;&lt;/p&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>'phone</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="108137937">
+          <groundspeak:date>2010-05-12T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2511058">Pepere51</groundspeak:finder>
+          <groundspeak:text encoded="False">Cache found easily thanks to the hint
+
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="104805773">
+          <groundspeak:date>2010-04-18T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2167131">orangetigerprawn</groundspeak:finder>
+          <groundspeak:text encoded="False">I got this one while doing a few caches in the city today. It was quite convenient that the barriers were down at the time, not a bother with doing the deed.
+
+Go raibh maith agat as an taisce.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="104054381">
+          <groundspeak:date>2010-04-12T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="341704">Sean O'Neill</groundspeak:finder>
+          <groundspeak:text encoded="False">15:41 Hrs.#1701
+TNLNSL
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="103213689">
+          <groundspeak:date>2010-04-08T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3124403">foolellelaclunk</groundspeak:finder>
+          <groundspeak:text encoded="False">wow can they get any smaller than this? after eventually taking the chance on every emergency service not turning up if i opened the box, i found it not to be inside. at least now i know, great cache!!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="99721373">
+          <groundspeak:date>2010-03-13T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2884288">Mac Aroni Senior</groundspeak:finder>
+          <groundspeak:text encoded="False">Nice and handy. Spotted from the other side of the tracks while waiting for the dart to pass and the barriers to go up again.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="78448627">
+          <groundspeak:date>2009-07-26T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Didn't find it</groundspeak:type>
+          <groundspeak:finder id="320206">Kersti.com</groundspeak:finder>
+          <groundspeak:text encoded="False">Looked for quite a while. Given the time that has lapsed since the last find I suspect that we could have continued looking until the cows came home without luck.</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

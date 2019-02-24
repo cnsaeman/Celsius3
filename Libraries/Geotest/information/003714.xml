@@ -1,0 +1,104 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>003714</id>
+  <cache-id>GC26822</cache-id>
+  <type>Traditional Cache</type>
+  <name>Wolfgang paßt auf by capitanok9, Traditional Cache (1/2)</name>
+  <size>Small</size>
+  <difficulty>1</difficulty>
+  <terrain>2</terrain>
+  <last-found>2010-09-25</last-found>
+  <placed>2010-04-05</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>capitanok9</placedby>
+  <found>Geocache</found>
+  <lat>50.585533</lat>
+  <lon>9.671967</lon>
+  <last-logs>FFFEF</last-logs>
+  <owner>capitanok9</owner>
+  <description>einfach, rote Röhre, 5 ...... neben Wolfgang</description>
+  <long-description>
+      </long-description>
+  <encoded-hints>
+      </encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=57193e1c-f335-43c3-a57d-f72d429b99ae</url>
+  <url-name>Wolfgang paßt auf</url-name>
+  <logs><ul><li>2010-10-24T19:00:00Z : Found it by balalaika <br />Auf abendlicher Runde heute nach kurzer Suche gut gefunden. 
+Danke sagt team balalaika</li><li>2010-10-16T19:00:00Z : Found it by BB! <br />Haben die Roehre schnell gefunden -schoene Gegend RN und BB!</li><li>2010-09-28T19:00:00Z : Found it by Griesgor <br />Dank Tip von  Limoel heute auf Anhieb gefunden ,Super.!!!!!
+
+An den Owner sorry für meinen blinden Alarm wegen dem Cache ,scheinbar war ich blind grins.....http://www.geocaching.com/images/icons/icon_smile_blush.gif
+
+Gruß Griesgor </li><li>2010-09-25T19:29:59Z : Enable Listing by capitanok9 <br />Danke Limoel, dann kann ich morgen selbst cachen gehen.
+Schönes Wochenende</li><li>2010-09-25T19:00:00Z : Found it by Limoel <br />Der Cache ist wunderbar in Ordnung und wurde schnell gefunden. Der Weg zum Cache ist somit überflüssig.
+
+TFTC Limoel</li></ul></logs>
+  <original-xml>  <wpt  lat="50.585533" lon="9.671967">
+    <time>2010-04-05T07:00:00Z</time>
+    <name>GC26822</name>
+    <desc>Wolfgang paßt auf by capitanok9, Traditional Cache (1/2)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=57193e1c-f335-43c3-a57d-f72d429b99ae</url>
+    <urlname>Wolfgang paßt auf</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1622420" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Wolfgang paßt auf</groundspeak:name>
+      <groundspeak:placed_by>capitanok9</groundspeak:placed_by>
+      <groundspeak:owner id="3123857">capitanok9</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>2</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="True">einfach, rote Röhre, 5 ...... neben Wolfgang</groundspeak:short_description>
+      <groundspeak:long_description html="True">
+      </groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="132910854">
+          <groundspeak:date>2010-10-24T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1414299">balalaika</groundspeak:finder>
+          <groundspeak:text encoded="False">Auf abendlicher Runde heute nach kurzer Suche gut gefunden. 
+Danke sagt team balalaika</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="131554920">
+          <groundspeak:date>2010-10-16T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3781589">BB!</groundspeak:finder>
+          <groundspeak:text encoded="False">Haben die Roehre schnell gefunden -schoene Gegend RN und BB!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="128896290">
+          <groundspeak:date>2010-09-28T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3701621">Griesgor</groundspeak:finder>
+          <groundspeak:text encoded="False">Dank Tip von  Limoel heute auf Anhieb gefunden ,Super.!!!!!
+
+An den Owner sorry für meinen blinden Alarm wegen dem Cache ,scheinbar war ich blind grins.....http://www.geocaching.com/images/icons/icon_smile_blush.gif
+
+Gruß Griesgor </groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="128389662">
+          <groundspeak:date>2010-09-25T19:29:59Z</groundspeak:date>
+          <groundspeak:type>Enable Listing</groundspeak:type>
+          <groundspeak:finder id="3123857">capitanok9</groundspeak:finder>
+          <groundspeak:text encoded="False">Danke Limoel, dann kann ich morgen selbst cachen gehen.
+Schönes Wochenende</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="128367707">
+          <groundspeak:date>2010-09-25T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2878802">Limoel</groundspeak:finder>
+          <groundspeak:text encoded="False">Der Cache ist wunderbar in Ordnung und wurde schnell gefunden. Der Weg zum Cache ist somit überflüssig.
+
+TFTC Limoel</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

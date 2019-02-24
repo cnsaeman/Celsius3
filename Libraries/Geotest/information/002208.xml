@@ -1,0 +1,118 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>002208</id>
+  <cache-id>GCJ7K2</cache-id>
+  <type>Traditional Cache</type>
+  <name>Ü-Ei-cache by Die 5 Stooges, Traditional Cache (1/1)</name>
+  <size>Regular</size>
+  <difficulty>1</difficulty>
+  <terrain>1</terrain>
+  <last-found>2010-09-18</last-found>
+  <placed>2004-04-18</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Die 5 Stooges</placedby>
+  <found>Geocache</found>
+  <lat>50.519517</lat>
+  <lon>9.71495</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>Die 5 Stooges</owner>
+  <description>
+      </description>
+  <long-description>Euch erwartet ein netter kleiner Spaziergang, auch für Kinderwagen geeignet. In der Nähe des Caches findet ihr einige Tiergehege, die ihr kostenlos bestaunen dürft. Oben auf dem Berg findet ihr schließlich eine ganz nette Gastwirtschaft. Bei schönem Wetter hat man vom Biergarten aus eine herrliche Aussicht auf die Rhön.Parken könnt ihr bei N 50° 31.413   E009°43.384.Achtung: In diesem Cache dürfen nur Inhalte von Kinder-Überraschungseiern getauscht werden!!!!!Viel Spaß bei der Suche!You will have a nice little walk through the forrest. It's also a nice walk for little children. Nearby the cache you will see some animals in cages. You don't have to pay for looking at them. At the top of the hill, you find a nice pub. If there's good weather, you will have a fantastic panorama of the Rhön-mountains.You can park your car at: N 50° 31.413   E009° 43.384Attention: In this cache, you can only trade things of "Kinder-Überraschungsei"!Have a nice hunt!</long-description>
+  <encoded-hints>
+      </encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=cc1c7e8e-5222-463f-979e-2ff45d0fce44</url>
+  <url-name>Ü-Ei-cache</url-name>
+  <logs><ul><li>2010-10-25T06:12:58Z : Found it by Clowns 4ever <br />Echt gutes Cache!!! ;-)))
+
+
+Die Clowns 4ever</li><li>2010-10-10T19:00:00Z : Found it by joebaxter <br />tief im Walde haben wir ihn gefunden, trotzdem sind uns Muggels begegnet....
+
+Lustige Idee
+
+Danke für den cache</li><li>2010-10-03T19:00:00Z : Found it by PeWi09 <br />nach einem Down-Hill-Slide (wegen den rutschigen Wegen) schnell gefunden.
+Als der Blick sich vom Cache lösen konnte entfuhr unserer Begleitung ein: "Die sind so flauschig, ich werd wahnsinnig" bei dem Anblick des Tiergeheges.
+TFTC
+PeWi09</li><li>2010-09-19T19:00:00Z : Found it by adler-pet <br />Auch diesen Cache auf unserem Spazierweg gefunden.
+
+TFTC
+
+4 adlerpet</li><li>2010-09-18T19:00:00Z : Found it by woodi65 <br />Heute bei kleiner Cachetour rund um den Florenberg schnell gefunden.
+TFTC</li></ul></logs>
+  <original-xml>  <wpt  lat="50.519517" lon="9.71495">
+    <time>2004-04-18T07:00:00Z</time>
+    <name>GCJ7K2</name>
+    <desc>Ü-Ei-cache by Die 5 Stooges, Traditional Cache (1/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=cc1c7e8e-5222-463f-979e-2ff45d0fce44</url>
+    <urlname>Ü-Ei-cache</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="132436" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Ü-Ei-cache</groundspeak:name>
+      <groundspeak:placed_by>Die 5 Stooges</groundspeak:placed_by>
+      <groundspeak:owner id="143073">Die 5 Stooges</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Regular</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">
+      </groundspeak:short_description>
+      <groundspeak:long_description html="False">Euch erwartet ein netter kleiner Spaziergang, auch für Kinderwagen geeignet. In der Nähe des Caches findet ihr einige Tiergehege, die ihr kostenlos bestaunen dürft. Oben auf dem Berg findet ihr schließlich eine ganz nette Gastwirtschaft. Bei schönem Wetter hat man vom Biergarten aus eine herrliche Aussicht auf die Rhön.Parken könnt ihr bei N 50° 31.413   E009°43.384.Achtung: In diesem Cache dürfen nur Inhalte von Kinder-Überraschungseiern getauscht werden!!!!!Viel Spaß bei der Suche!You will have a nice little walk through the forrest. It's also a nice walk for little children. Nearby the cache you will see some animals in cages. You don't have to pay for looking at them. At the top of the hill, you find a nice pub. If there's good weather, you will have a fantastic panorama of the Rhön-mountains.You can park your car at: N 50° 31.413   E009° 43.384Attention: In this cache, you can only trade things of "Kinder-Überraschungsei"!Have a nice hunt!</groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="132968018">
+          <groundspeak:date>2010-10-25T06:12:58Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3918255">Clowns 4ever</groundspeak:finder>
+          <groundspeak:text encoded="False">Echt gutes Cache!!! ;-)))
+
+
+Die Clowns 4ever</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="130558929">
+          <groundspeak:date>2010-10-10T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2097496">joebaxter</groundspeak:finder>
+          <groundspeak:text encoded="False">tief im Walde haben wir ihn gefunden, trotzdem sind uns Muggels begegnet....
+
+Lustige Idee
+
+Danke für den cache</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="129491456">
+          <groundspeak:date>2010-10-03T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2651726">PeWi09</groundspeak:finder>
+          <groundspeak:text encoded="False">nach einem Down-Hill-Slide (wegen den rutschigen Wegen) schnell gefunden.
+Als der Blick sich vom Cache lösen konnte entfuhr unserer Begleitung ein: "Die sind so flauschig, ich werd wahnsinnig" bei dem Anblick des Tiergeheges.
+TFTC
+PeWi09</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="128203415">
+          <groundspeak:date>2010-09-19T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2796888">adler-pet</groundspeak:finder>
+          <groundspeak:text encoded="False">Auch diesen Cache auf unserem Spazierweg gefunden.
+
+TFTC
+
+4 adlerpet</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="127344965">
+          <groundspeak:date>2010-09-18T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3620737">woodi65</groundspeak:finder>
+          <groundspeak:text encoded="False">Heute bei kleiner Cachetour rund um den Florenberg schnell gefunden.
+TFTC</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

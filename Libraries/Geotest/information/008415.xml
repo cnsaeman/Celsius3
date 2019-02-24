@@ -1,0 +1,112 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>008415</id>
+  <cache-id>GCM85C</cache-id>
+  <type>Traditional Cache</type>
+  <name>Wasserhaus Steinau by Mamomi-1, Traditional Cache (1/2)</name>
+  <size>Regular</size>
+  <difficulty>1</difficulty>
+  <terrain>2</terrain>
+  <last-found>2010-09-26</last-found>
+  <placed>2004-12-10</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Mamomi-1</placedby>
+  <found>Geocache</found>
+  <lat>50.589667</lat>
+  <lon>9.7264</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>Mamomi-1</owner>
+  <description>
+      </description>
+  <long-description>Ein weiteres Wasserhaus gibt es zu erkunden.
+Der Cache liegt nicht direkt am Wasserhaus (Beobachtungsgefahr). Es ist aber nicht weit davon entfernt.
+Dies ist mein 1. Cache und ich hoffe die Koordinaten stimmen. 
+Viel Spaß beim Suchen wünscht "Die Steinauerin"
+
+Inhalt: Logbuch und Bleistift (drin lassen)
+        1 kleines Taschenmesser
+        1 Reisemanikürset
+        1 kleines Rollenmaßband
+        1 Schlüsselumhängeband 
+        1 Kugelschreiber</long-description>
+  <encoded-hints>Am Rande einer Mulde unter den Wurzeln</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=0300cfe5-3ec4-4fc6-aeb4-83d477223e8e</url>
+  <url-name>Wasserhaus Steinau</url-name>
+  <logs><ul><li>2010-11-05T19:00:00Z : Found it by lady april <br />Auf Besuch in Steinau beim Spaziergang geloggt - leider im Logbuch falsches Datumn angegeben - ich war der Zeitrechnung voraus. Sorry.</li><li>2010-10-31T19:00:00Z : Found it by burgen13 <br />Bei herrlichem Herbstwetter Sonntagsspaziergang mit erfolgreicher Cachesuche verbunden.
+Danke sagt burgen13 </li><li>2010-10-26T19:00:00Z : Found it by Limoel <br />Heute schnell und problemlos gefunden.
+
+TFTC Limoel</li><li>2010-09-26T19:00:00Z : Found it by Fla20m <br />Dank dem Hint vom Griesgor war das Versteck recht schnell ausfindig zu machen... </li><li>2010-09-26T19:00:00Z : Found it by Griesgor <br />na  super bei unserer heutigen Nachmittagstour gefunden und geloggt. TFTC  Gruß Griesgor</li></ul></logs>
+  <original-xml>  <wpt  lat="50.589667" lon="9.7264">
+    <time>2004-12-10T08:00:00Z</time>
+    <name>GCM85C</name>
+    <desc>Wasserhaus Steinau by Mamomi-1, Traditional Cache (1/2)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=0300cfe5-3ec4-4fc6-aeb4-83d477223e8e</url>
+    <urlname>Wasserhaus Steinau</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="192555" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Wasserhaus Steinau</groundspeak:name>
+      <groundspeak:placed_by>Mamomi-1</groundspeak:placed_by>
+      <groundspeak:owner id="275727">Mamomi-1</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Regular</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>2</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">
+      </groundspeak:short_description>
+      <groundspeak:long_description html="False">Ein weiteres Wasserhaus gibt es zu erkunden.
+Der Cache liegt nicht direkt am Wasserhaus (Beobachtungsgefahr). Es ist aber nicht weit davon entfernt.
+Dies ist mein 1. Cache und ich hoffe die Koordinaten stimmen. 
+Viel Spaß beim Suchen wünscht "Die Steinauerin"
+
+Inhalt: Logbuch und Bleistift (drin lassen)
+        1 kleines Taschenmesser
+        1 Reisemanikürset
+        1 kleines Rollenmaßband
+        1 Schlüsselumhängeband 
+        1 Kugelschreiber</groundspeak:long_description>
+      <groundspeak:encoded_hints>Am Rande einer Mulde unter den Wurzeln</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="134581530">
+          <groundspeak:date>2010-11-05T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3745038">lady april</groundspeak:finder>
+          <groundspeak:text encoded="False">Auf Besuch in Steinau beim Spaziergang geloggt - leider im Logbuch falsches Datumn angegeben - ich war der Zeitrechnung voraus. Sorry.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="133885669">
+          <groundspeak:date>2010-10-31T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2887618">burgen13</groundspeak:finder>
+          <groundspeak:text encoded="False">Bei herrlichem Herbstwetter Sonntagsspaziergang mit erfolgreicher Cachesuche verbunden.
+Danke sagt burgen13 </groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="133196635">
+          <groundspeak:date>2010-10-26T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2878802">Limoel</groundspeak:finder>
+          <groundspeak:text encoded="False">Heute schnell und problemlos gefunden.
+
+TFTC Limoel</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="128605892">
+          <groundspeak:date>2010-09-26T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3087275">Fla20m</groundspeak:finder>
+          <groundspeak:text encoded="False">Dank dem Hint vom Griesgor war das Versteck recht schnell ausfindig zu machen... </groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="128578783">
+          <groundspeak:date>2010-09-26T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3701621">Griesgor</groundspeak:finder>
+          <groundspeak:text encoded="False">na  super bei unserer heutigen Nachmittagstour gefunden und geloggt. TFTC  Gruß Griesgor</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

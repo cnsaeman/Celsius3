@@ -1,0 +1,135 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>002085</id>
+  <cache-id>GC1J96C</cache-id>
+  <type>Traditional Cache</type>
+  <name>Park Life by AbbeyAckbar, Traditional Cache (1/1.5)</name>
+  <size>Micro</size>
+  <difficulty>1</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-05-18</last-found>
+  <placed>2008-11-19</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>AbbeyAckbar</placedby>
+  <found>Geocache</found>
+  <lat>53.4029</lat>
+  <lon>-6.2419</lon>
+  <last-logs>FXED</last-logs>
+  <owner>AbbeyAckbar</owner>
+  <description>
+      </description>
+  <long-description><center><img src=
+"http://img.geocaching.com/cache/30f1b048-6d7c-496d-8fce-d9c8d12a8405.jpg"
+alt="Fountain" /></center>
+<br />
+<center><b>A micro cache beside the pond in Santry Woods. Contains
+log only. Bring a pen with you.<br />
+It is hidden near the pond's edge (No need to swim! or enter the
+water whatsoever :) ).<br />
+A great spot to feed the ducks & swans from.</b></center>
+<br />
+<br />
+<center><img src=
+"http://img.geocaching.com/cache/e2fc5604-465a-44d0-afeb-20b7cc45af02.jpg"
+alt="Duck family" /></center>
+<p><b>The park may be accessed from the Coolock Lane/Swords Raod
+junction where there is a car park just inside the
+entrance.</b></p>
+<p><b>See gallery for opening/closing times of the park</b></p></long-description>
+  <encoded-hints>
+      </encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=f8da3179-0663-49df-88de-207ae3cf6798</url>
+  <url-name>Park Life</url-name>
+  <logs><ul><li>2010-06-12T19:00:00Z : Found it by chatcar <br />Yes, today we got it! Thank you for the cache in a nice location.</li><li>2010-06-05T19:00:00Z : Didn't find it by chatcar <br />Damned! Too early...park was closed!</li><li>2010-05-26T13:32:57Z : Enable Listing by AbbeyAckbar <br />This is the 3rd container i've placed for Park Life cache, so i've placed this one in a new location not far from its original spot. It is now secured to the tree so it won't go missing easily. The really weird thing is that as I was looking for a new hiding spot for the cache I found the 1st container that had gone missing! It had strayed quite a distance from its hiding place, but was positioned upright in a tree crevice with it's contents inside so I guess someone found it and placed it there!?! It was great to get the container back [:)] I wonder will I find the latest missing container a few months down the road...</li><li>2010-05-26T11:08:56Z : Update Coordinates by erik88l-r <br />** Coordinates Changed From **
+N 53° 24.174 E 006° 14.514
+Distance From Old: 2711705.4 feet or 826527.8 meters
+Updating coordinates for AbbeyAckbar
+Enjoy!
+erik - geocaching.com admin</li><li>2010-05-18T13:23:20Z : Temporarily Disable Listing by AbbeyAckbar <br />The cache is gone. Strange thing is some of the camo tape was on the ground!? weird.
+Will replace soon, probabally in a different spot.</li></ul></logs>
+  <original-xml>  <wpt  lat="53.4029" lon="-6.2419">
+    <time>2008-11-19T08:00:00Z</time>
+    <name>GC1J96C</name>
+    <desc>Park Life by AbbeyAckbar, Traditional Cache (1/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=f8da3179-0663-49df-88de-207ae3cf6798</url>
+    <urlname>Park Life</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1057486" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Park Life</groundspeak:name>
+      <groundspeak:placed_by>AbbeyAckbar</groundspeak:placed_by>
+      <groundspeak:owner id="1265839">AbbeyAckbar</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>Dublin</groundspeak:state>
+      <groundspeak:short_description html="True">
+      </groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;center&gt;&lt;img src=
+"http://img.geocaching.com/cache/30f1b048-6d7c-496d-8fce-d9c8d12a8405.jpg"
+alt="Fountain" /&gt;&lt;/center&gt;
+&lt;br /&gt;
+&lt;center&gt;&lt;b&gt;A micro cache beside the pond in Santry Woods. Contains
+log only. Bring a pen with you.&lt;br /&gt;
+It is hidden near the pond's edge (No need to swim! or enter the
+water whatsoever :) ).&lt;br /&gt;
+A great spot to feed the ducks &amp;amp; swans from.&lt;/b&gt;&lt;/center&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;center&gt;&lt;img src=
+"http://img.geocaching.com/cache/e2fc5604-465a-44d0-afeb-20b7cc45af02.jpg"
+alt="Duck family" /&gt;&lt;/center&gt;
+&lt;p&gt;&lt;b&gt;The park may be accessed from the Coolock Lane/Swords Raod
+junction where there is a car park just inside the
+entrance.&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;See gallery for opening/closing times of the park&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Additional Waypoints&lt;/p&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="112707217">
+          <groundspeak:date>2010-06-12T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="623590">chatcar</groundspeak:finder>
+          <groundspeak:text encoded="False">Yes, today we got it! Thank you for the cache in a nice location.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="112706836">
+          <groundspeak:date>2010-06-05T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Didn't find it</groundspeak:type>
+          <groundspeak:finder id="623590">chatcar</groundspeak:finder>
+          <groundspeak:text encoded="False">Damned! Too early...park was closed!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="110209101">
+          <groundspeak:date>2010-05-26T13:32:57Z</groundspeak:date>
+          <groundspeak:type>Enable Listing</groundspeak:type>
+          <groundspeak:finder id="1265839">AbbeyAckbar</groundspeak:finder>
+          <groundspeak:text encoded="False">This is the 3rd container i've placed for Park Life cache, so i've placed this one in a new location not far from its original spot. It is now secured to the tree so it won't go missing easily. The really weird thing is that as I was looking for a new hiding spot for the cache I found the 1st container that had gone missing! It had strayed quite a distance from its hiding place, but was positioned upright in a tree crevice with it's contents inside so I guess someone found it and placed it there!?! It was great to get the container back [:)] I wonder will I find the latest missing container a few months down the road...</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="110200752">
+          <groundspeak:date>2010-05-26T11:08:56Z</groundspeak:date>
+          <groundspeak:type>Update Coordinates</groundspeak:type>
+          <groundspeak:finder id="4285">erik88l-r</groundspeak:finder>
+          <groundspeak:text encoded="False">** Coordinates Changed From **
+N 53° 24.174 E 006° 14.514
+Distance From Old: 2711705.4 feet or 826527.8 meters
+Updating coordinates for AbbeyAckbar
+Enjoy!
+erik - geocaching.com admin</groundspeak:text>
+          <groundspeak:log_wpt lat="53.4029" lon="-6.2419" />
+        </groundspeak:log>
+        <groundspeak:log id="109060698">
+          <groundspeak:date>2010-05-18T13:23:20Z</groundspeak:date>
+          <groundspeak:type>Temporarily Disable Listing</groundspeak:type>
+          <groundspeak:finder id="1265839">AbbeyAckbar</groundspeak:finder>
+          <groundspeak:text encoded="False">The cache is gone. Strange thing is some of the camo tape was on the ground!? weird.
+Will replace soon, probabally in a different spot.</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

@@ -1,0 +1,174 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>001528</id>
+  <cache-id>GC27MMK</cache-id>
+  <type>Multi-cache</type>
+  <name>Phoenix Park - Chapelizod Gate & Lodge by Lahtac, Multi-cache (1/1)</name>
+  <size>Micro</size>
+  <difficulty>1</difficulty>
+  <terrain>1</terrain>
+  <last-found>2010-06-01</last-found>
+  <placed>2010-04-28</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>Lahtac</placedby>
+  <found>Geocache</found>
+  <lat>53.348383</lat>
+  <lon>-6.337783</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>Lahtac</owner>
+  <description>Dublin&rsquo;s Phoenix Park is a treasure with more than 1700 acres
+of walled parkland just 3km from the centre of the city.
+<p>At 707 hectares (1752 acres) is one of the largest enclosed
+recreational spaces within any European capital city.<br /></p></description>
+  <long-description><center><img src=
+"http://img.geocaching.com/cache/2bea1013-1649-4808-a693-207effb3732a.jpg" /></center>
+<p>Few cities have such a facility on their doorsteps &ndash; it is
+more than twice as large as Central Park in New York.</p>
+<p>The park was for centuries the property of the King&rsquo;s
+representatives in Ireland, used as a Royal hunting park &ndash;
+which is why it was enclosed by a wall, to keep the game in.</p>
+<p>However it was opened to the public in 1747 and so for more than
+250 years has been a favourite playground for generations of
+Dubliners.</p>
+<p>The Park is also home to the Zoological Gardens and Aras an
+Uachtarain and Victorian flower gardens. The Phoenix Park is only
+1.5 miles from O'Connell Street. Both passive and active
+recreational pursuits may be viewed or pursued such as walking,
+running, polo, cricket, hurling, etc. The Glen Pond is set in very
+scenic surrounds in the Furry Glen. There are many walks and cycle
+routes available to the public.</p>
+<p>The park is open all year round, there is no admission charge
+and visitors can explore freely.</p>
+<p>Bus Route(s): No's 10, 37, 38, 39, 66, 67 from city centre.</p>
+<center><img src=
+"http://img.geocaching.com/cache/fbdabd30-fc89-4eeb-a210-9f57d0b55eca.jpg" /></center>
+<p>To find this cache you will need to answer the following
+questions and calculate the final cordinates.</p>
+<p>All are in walking distance of each other.</p>
+<p><br />
+Stage 1 &ndash; N53.20.903 W06.20.267</p>
+<p>Question 1. - How many letters are in the surname of the
+Reverand who laid the foundation stone to Chapelizod Catholic
+Church?</p>
+<p>Answer 1 = A</p>
+<p>Stage 2 &ndash; N53.20.844 W06.20.221<br />
+Question 2 - What year was the foundation stone laid to the Royal
+Hibernian Military School?</p>
+<p>Answer = BCDE</p>
+<p>Final Stage &ndash; N53.20.(B+C).(C-D).C
+W006.20.(E-A).B.8<br /></p></long-description>
+  <additional-waypoints>PK27MMK - Parking Area<br />N 53° 20.939 W 006° 20.295<br /><br />ST27MMK - Stage 2<br />N 53° 20.844 W 006° 20.221<br /><br /></additional-waypoints>
+  <links>waypoints:cache-id:PK27MMK|waypoints:cache-id:ST27MMK</links>
+  <encoded-hints>Yewusal place, shoulder high</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=e37d98a2-46cf-4451-b193-969593f84568</url>
+  <url-name>Phoenix Park - Chapelizod Gate & Lodge</url-name>
+  <logs><ul><li>2010-06-06T19:00:00Z : Found it by poohbear50 <br />See GC284RJ Phoenix Park Ashdown lodge for our comments for this series. TFTC</li><li>2010-06-06T19:00:00Z : Found it by Wild Rover <br />See GC248RJ Phoenix Park Ashdown lodge for our comments and story for this Phoenix Park series. TFTC</li><li>2010-06-05T19:00:00Z : Found it by daraconn <br />Continued on foot after finding the cache at Islandbridge Gate. Wasn't planning to do all of the Phoenix Park caches on foot, but that's what we ended up doing! Second of the day.</li><li>2010-06-01T19:00:00Z : Found it by Toffee Man <br />Found easily enough on a lovely evening to walk around the park.
+TFTC
+Toffee Man
+#356</li><li>2010-06-01T19:00:00Z : Found it by Blue Jay 59 <br />Had a little ramble around the park this evening with Toffee Man & picked up a few of the gate series.
+TFTC
+#355</li></ul></logs>
+  <original-xml>  <wpt  lat="53.348383" lon="-6.337783">
+    <time>2010-04-28T07:00:00Z</time>
+    <name>GC27MMK</name>
+    <desc>Phoenix Park - Chapelizod Gate &amp; Lodge by Lahtac, Multi-cache (1/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=e37d98a2-46cf-4451-b193-969593f84568</url>
+    <urlname>Phoenix Park - Chapelizod Gate &amp; Lodge</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Multi-cache</type>
+    <groundspeak:cache id="1664318" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Phoenix Park - Chapelizod Gate &amp; Lodge</groundspeak:name>
+      <groundspeak:placed_by>Lahtac</groundspeak:placed_by>
+      <groundspeak:owner id="2847528">Lahtac</groundspeak:owner>
+      <groundspeak:type>Multi-cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>Dublin</groundspeak:state>
+      <groundspeak:short_description html="True">Dublin&amp;rsquo;s Phoenix Park is a treasure with more than 1700 acres
+of walled parkland just 3km from the centre of the city.
+&lt;p&gt;At 707 hectares (1752 acres) is one of the largest enclosed
+recreational spaces within any European capital city.&lt;br /&gt;&lt;/p&gt;</groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;center&gt;&lt;img src=
+"http://img.geocaching.com/cache/2bea1013-1649-4808-a693-207effb3732a.jpg" /&gt;&lt;/center&gt;
+&lt;p&gt;Few cities have such a facility on their doorsteps &amp;ndash; it is
+more than twice as large as Central Park in New York.&lt;/p&gt;
+&lt;p&gt;The park was for centuries the property of the King&amp;rsquo;s
+representatives in Ireland, used as a Royal hunting park &amp;ndash;
+which is why it was enclosed by a wall, to keep the game in.&lt;/p&gt;
+&lt;p&gt;However it was opened to the public in 1747 and so for more than
+250 years has been a favourite playground for generations of
+Dubliners.&lt;/p&gt;
+&lt;p&gt;The Park is also home to the Zoological Gardens and Aras an
+Uachtarain and Victorian flower gardens. The Phoenix Park is only
+1.5 miles from O'Connell Street. Both passive and active
+recreational pursuits may be viewed or pursued such as walking,
+running, polo, cricket, hurling, etc. The Glen Pond is set in very
+scenic surrounds in the Furry Glen. There are many walks and cycle
+routes available to the public.&lt;/p&gt;
+&lt;p&gt;The park is open all year round, there is no admission charge
+and visitors can explore freely.&lt;/p&gt;
+&lt;p&gt;Bus Route(s): No's 10, 37, 38, 39, 66, 67 from city centre.&lt;/p&gt;
+&lt;center&gt;&lt;img src=
+"http://img.geocaching.com/cache/fbdabd30-fc89-4eeb-a210-9f57d0b55eca.jpg" /&gt;&lt;/center&gt;
+&lt;p&gt;To find this cache you will need to answer the following
+questions and calculate the final cordinates.&lt;/p&gt;
+&lt;p&gt;All are in walking distance of each other.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;
+Stage 1 &amp;ndash; N53.20.903 W06.20.267&lt;/p&gt;
+&lt;p&gt;Question 1. - How many letters are in the surname of the
+Reverand who laid the foundation stone to Chapelizod Catholic
+Church?&lt;/p&gt;
+&lt;p&gt;Answer 1 = A&lt;/p&gt;
+&lt;p&gt;Stage 2 &amp;ndash; N53.20.844 W06.20.221&lt;br /&gt;
+Question 2 - What year was the foundation stone laid to the Royal
+Hibernian Military School?&lt;/p&gt;
+&lt;p&gt;Answer = BCDE&lt;/p&gt;
+&lt;p&gt;Final Stage &amp;ndash; N53.20.(B+C).(C-D).C
+W006.20.(E-A).B.8&lt;br /&gt;&lt;/p&gt;&lt;p&gt;Additional Waypoints&lt;/p&gt;PK27MMK - Parking Area&lt;br /&gt;N 53° 20.939 W 006° 20.295&lt;br /&gt;&lt;br /&gt;ST27MMK - Stage 2&lt;br /&gt;N 53° 20.844 W 006° 20.221&lt;br /&gt;&lt;br /&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>Yewusal place, shoulder high</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="111889701">
+          <groundspeak:date>2010-06-06T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="46645">poohbear50</groundspeak:finder>
+          <groundspeak:text encoded="False">See GC284RJ Phoenix Park Ashdown lodge for our comments for this series. TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="111881620">
+          <groundspeak:date>2010-06-06T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="32570">Wild Rover</groundspeak:finder>
+          <groundspeak:text encoded="False">See GC248RJ Phoenix Park Ashdown lodge for our comments and story for this Phoenix Park series. TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="111643183">
+          <groundspeak:date>2010-06-05T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="591662">daraconn</groundspeak:finder>
+          <groundspeak:text encoded="False">Continued on foot after finding the cache at Islandbridge Gate. Wasn't planning to do all of the Phoenix Park caches on foot, but that's what we ended up doing! Second of the day.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="111268150">
+          <groundspeak:date>2010-06-01T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2826452">Toffee Man</groundspeak:finder>
+          <groundspeak:text encoded="False">Found easily enough on a lovely evening to walk around the park.
+TFTC
+Toffee Man
+#356</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="111176101">
+          <groundspeak:date>2010-06-01T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2709154">Blue Jay 59</groundspeak:finder>
+          <groundspeak:text encoded="False">Had a little ramble around the park this evening with Toffee Man &amp; picked up a few of the gate series.
+TFTC
+#355</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

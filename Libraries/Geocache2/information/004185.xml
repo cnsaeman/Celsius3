@@ -1,0 +1,129 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>004185</id>
+  <cache-id>GC175RR</cache-id>
+  <type>Traditional Cache</type>
+  <name>Thanks, J.B.! by Hezekiah, Traditional Cache (1/2.5)</name>
+  <size>Regular</size>
+  <difficulty>1</difficulty>
+  <terrain>2.5</terrain>
+  <last-found>2010-03-11</last-found>
+  <placed>2007-11-04</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>Hezekiah</placedby>
+  <found>Geocache</found>
+  <lat>53.1096</lat>
+  <lon>-6.2562</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>Hezekiah</owner>
+  <description><p align="center"><a target="_blank" href=
+   "http://www.geocachingireland.com/index.html"><img border="0"
+   src="http://geocachingireland.com/logo4.jpg" width="328"
+     height="53" align="middle"></a></p>
+<hr align="center" size="2" width="40%">
+<center><font color="blue">Visit the <b>new</b> Geocaching Ireland
+discussion forum <a rel="nofollow" href=
+"http://www.mccartan.org/forums/" target=
+"_blank">HERE</a></font></center>
+<hr align="center" size="2" width="40%">
+<br></description>
+  <long-description><p>This cache is placed near the memorial stone to J.B. Malone, who
+first suggested that the Wicklow Way be set up in 1963.</p>
+<p>In addition to writing widely on walking in the Wicklow area, he
+also put together possibly the most comprehensive description of
+the Wicklow Way as a guide to those who wished to undertake the
+trek. He was a columnist in one of the evening papers in the
+sixties, outlining routes for walks</p>
+<p>A good starting point is from the car park at Ballinastoe Woods
+- N 53 06.430 W 006 13.150</p>
+<p>The location of this memorial stone gives spectacular views over
+lake and mountain - possibly the best views available for the least
+effort!</p></long-description>
+  <encoded-hints>You've probably steped on it already!</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=c773a587-5620-4f6f-98a1-747e3dd02191</url>
+  <url-name>Thanks, J.B.!</url-name>
+  <logs><ul><li>2010-05-02T19:00:00Z : Found it by Determo <br />Nice views across lough tay valley towards lough dan and turlough hill, good weather - a bit on the cold side, 
+found the cache easily enough, TFTC (Determo & Packmule)</li><li>2010-04-29T15:08:01Z : Found it by edwincartwright <br />Decided to pass some other caches because they did not appear to be easily accesible from the wicklow way. This one was right on it literally. Tftc! </li><li>2010-04-23T19:00:00Z : Found it by Elvistones <br />The view is amazing!  TFTC :)</li><li>2010-03-28T19:00:00Z : Found it by Peta Amalka <br />This place is adorable!!! We have been so many times to see the Guiness Lake but this place is so much better than the "car park" down there. I´m sure we will be back for a walk and enjoy the spectacular view. TFTC Out: GC</li><li>2010-03-11T20:00:00Z : Found it by kmc1112 <br />Last Cache on our spring break visit to Ireland from Virginia, USA.  Walked from Knockree to Lough Tay today on a beautiful late winter day.  Enjoyed all the views along the way.  TN, L pink skeleton keychain, SL, TFTC.</li></ul></logs>
+  <original-xml>  <wpt  lat="53.1096" lon="-6.2562">
+    <time>2007-11-04T07:00:00Z</time>
+    <name>GC175RR</name>
+    <desc>Thanks, J.B.! by Hezekiah, Traditional Cache (1/2.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=c773a587-5620-4f6f-98a1-747e3dd02191</url>
+    <urlname>Thanks, J.B.!</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="726511" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Thanks, J.B.!</groundspeak:name>
+      <groundspeak:placed_by>Hezekiah</groundspeak:placed_by>
+      <groundspeak:owner id="274644">Hezekiah</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Regular</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>2.5</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>
+      </groundspeak:state>
+      <groundspeak:short_description html="True">&lt;p align="center"&gt;&lt;a target="_blank" href=
+   "http://www.geocachingireland.com/index.html"&gt;&lt;img border="0"
+   src="http://geocachingireland.com/logo4.jpg" width="328"
+     height="53" align="middle"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;hr align="center" size="2" width="40%"&gt;
+&lt;center&gt;&lt;font color="blue"&gt;Visit the &lt;b&gt;new&lt;/b&gt; Geocaching Ireland
+discussion forum &lt;a rel="nofollow" href=
+"http://www.mccartan.org/forums/" target=
+"_blank"&gt;HERE&lt;/a&gt;&lt;/font&gt;&lt;/center&gt;
+&lt;hr align="center" size="2" width="40%"&gt;
+&lt;br&gt;</groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;p&gt;This cache is placed near the memorial stone to J.B. Malone, who
+first suggested that the Wicklow Way be set up in 1963.&lt;/p&gt;
+&lt;p&gt;In addition to writing widely on walking in the Wicklow area, he
+also put together possibly the most comprehensive description of
+the Wicklow Way as a guide to those who wished to undertake the
+trek. He was a columnist in one of the evening papers in the
+sixties, outlining routes for walks&lt;/p&gt;
+&lt;p&gt;A good starting point is from the car park at Ballinastoe Woods
+- N 53 06.430 W 006 13.150&lt;/p&gt;
+&lt;p&gt;The location of this memorial stone gives spectacular views over
+lake and mountain - possibly the best views available for the least
+effort!&lt;/p&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>You've probably steped on it already!</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="106842988">
+          <groundspeak:date>2010-05-02T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3095026">Determo</groundspeak:finder>
+          <groundspeak:text encoded="False">Nice views across lough tay valley towards lough dan and turlough hill, good weather - a bit on the cold side, 
+found the cache easily enough, TFTC (Determo &amp; Packmule)</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="106259951">
+          <groundspeak:date>2010-04-29T15:08:01Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2900306">edwincartwright</groundspeak:finder>
+          <groundspeak:text encoded="False">Decided to pass some other caches because they did not appear to be easily accesible from the wicklow way. This one was right on it literally. Tftc! </groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="105377175">
+          <groundspeak:date>2010-04-23T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2305402">Elvistones</groundspeak:finder>
+          <groundspeak:text encoded="False">The view is amazing!  TFTC :)</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="101462179">
+          <groundspeak:date>2010-03-28T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2370522">Peta Amalka</groundspeak:finder>
+          <groundspeak:text encoded="False">This place is adorable!!! We have been so many times to see the Guiness Lake but this place is so much better than the "car park" down there. I´m sure we will be back for a walk and enjoy the spectacular view. TFTC Out: GC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="100877786">
+          <groundspeak:date>2010-03-11T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="477729">kmc1112</groundspeak:finder>
+          <groundspeak:text encoded="False">Last Cache on our spring break visit to Ireland from Virginia, USA.  Walked from Knockree to Lough Tay today on a beautiful late winter day.  Enjoyed all the views along the way.  TN, L pink skeleton keychain, SL, TFTC.</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

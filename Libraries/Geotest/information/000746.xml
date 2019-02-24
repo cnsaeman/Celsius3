@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>000746</id>
+  <cache-id>GC1B73M</cache-id>
+  <type>Traditional Cache</type>
+  <name>übers Wasser gehen 2 by ubx, Traditional Cache (1/1.5)</name>
+  <size>Small</size>
+  <difficulty>1</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-08-21</last-found>
+  <placed>2008-04-13</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>ubx</placedby>
+  <found>Geocache</found>
+  <lat>50.602733</lat>
+  <lon>9.611017</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>ubx</owner>
+  <description>ein Tradi ohne Rätsel</description>
+  <long-description>hier könnt ihr zum vierten Mal übers Wasser gehen.</long-description>
+  <encoded-hints>wo schlafen immer die Penner</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=074a0965-e30d-4a7b-a372-a29b6b572b0e</url>
+  <url-name>übers Wasser gehen 2</url-name>
+  <logs><ul><li>2010-09-13T19:00:00Z : Found it by Schatzbaer&Mausbaer <br />13.9.2010, 14:30 Uhr
+Zwei Anläufe scheinen unser Standard zu sein! Erst haben wir das Versteck nicht gefunden, aber nach dem Umweg über GC1AMYJ hatten wir dann doch noch Erfolg. Ein schöner Abschluss dieser kleinen Runde.
+DFDC
+no trade
+
+This entry was edited by Schatzbaer&Mausbaer on Tuesday, 14 September 2010 at 09:40:46.</li><li>2010-09-06T19:00:00Z : Found it by Jobsti(Juppy) <br />Hier mußte ich doch ne ganze Weile suchen.
+
+Danke für den Cache, Jobsti!</li><li>2010-08-22T19:00:00Z : Found it by buchy <br />Trotz des inzwischen falschen Hints konnten wir nach kurzer Suche den Cache doch entdecken. Danke fürs Legen an einer schönen Stelle. </li><li>2010-08-21T19:00:00Z : Found it by kaFFeeTrinKer <br />Inzwischen waren wir gut aufeinander eingespielt und so war das Döschen trotz Verlegung doch recht zügig gefunden. Der Hint stimmt allerdings nicht mehr!</li><li>2010-08-21T19:00:00Z : Found it by Uewaggle <br />Im kleinen Rudel mit kaffeetrinker, swordmaster, michael01, OKO1966 und 2000wu6 unterwegs. Zum Glück hatten wir einen Live-Joker dabei, denn das Döschen lag nicht da, wo es liegen sollte. Die brücke wurde ein wenig saniert, dabei ist wohl die Dose verlegt worden. Sei es wie es sei. Wir haben sie gefunden. TFTC #871</li></ul></logs>
+  <original-xml>  <wpt  lat="50.602733" lon="9.611017">
+    <time>2008-04-13T07:00:00Z</time>
+    <name>GC1B73M</name>
+    <desc>übers Wasser gehen 2 by ubx, Traditional Cache (1/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=074a0965-e30d-4a7b-a372-a29b6b572b0e</url>
+    <urlname>übers Wasser gehen 2</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="846942" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>übers Wasser gehen 2</groundspeak:name>
+      <groundspeak:placed_by>ubx</groundspeak:placed_by>
+      <groundspeak:owner id="787613">ubx</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">ein Tradi ohne Rätsel</groundspeak:short_description>
+      <groundspeak:long_description html="False">hier könnt ihr zum vierten Mal übers Wasser gehen.</groundspeak:long_description>
+      <groundspeak:encoded_hints>wo schlafen immer die Penner</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="126876033">
+          <groundspeak:date>2010-09-13T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3315391">Schatzbaer&amp;Mausbaer</groundspeak:finder>
+          <groundspeak:text encoded="False">13.9.2010, 14:30 Uhr
+Zwei Anläufe scheinen unser Standard zu sein! Erst haben wir das Versteck nicht gefunden, aber nach dem Umweg über GC1AMYJ hatten wir dann doch noch Erfolg. Ein schöner Abschluss dieser kleinen Runde.
+DFDC
+no trade
+
+This entry was edited by Schatzbaer&amp;Mausbaer on Tuesday, 14 September 2010 at 09:40:46.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="125672086">
+          <groundspeak:date>2010-09-06T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="451798">Jobsti(Juppy)</groundspeak:finder>
+          <groundspeak:text encoded="False">Hier mußte ich doch ne ganze Weile suchen.
+
+Danke für den Cache, Jobsti!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="123314177">
+          <groundspeak:date>2010-08-22T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="947042">buchy</groundspeak:finder>
+          <groundspeak:text encoded="False">Trotz des inzwischen falschen Hints konnten wir nach kurzer Suche den Cache doch entdecken. Danke fürs Legen an einer schönen Stelle. </groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="123238931">
+          <groundspeak:date>2010-08-21T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1197640">kaFFeeTrinKer</groundspeak:finder>
+          <groundspeak:text encoded="False">Inzwischen waren wir gut aufeinander eingespielt und so war das Döschen trotz Verlegung doch recht zügig gefunden. Der Hint stimmt allerdings nicht mehr!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="123213469">
+          <groundspeak:date>2010-08-21T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2307524">Uewaggle</groundspeak:finder>
+          <groundspeak:text encoded="False">Im kleinen Rudel mit kaffeetrinker, swordmaster, michael01, OKO1966 und 2000wu6 unterwegs. Zum Glück hatten wir einen Live-Joker dabei, denn das Döschen lag nicht da, wo es liegen sollte. Die brücke wurde ein wenig saniert, dabei ist wohl die Dose verlegt worden. Sei es wie es sei. Wir haben sie gefunden. TFTC #871</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

@@ -1,0 +1,188 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>009996</id>
+  <cache-id>GCQEMW</cache-id>
+  <type>Multi-cache</type>
+  <name>Ranelagh Gardens by Hezekiah, Multi-cache (1/1.5)</name>
+  <size>Small</size>
+  <difficulty>1</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2008-03-01</last-found>
+  <placed>2005-09-05</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>Hezekiah</placedby>
+  <found>Geocache Found</found>
+  <lat>53.326667</lat>
+  <lon>-6.256417</lon>
+  <last-logs>XXXFFFX</last-logs>
+  <owner>Hezekiah</owner>
+  <description><p align="center"><a target="_blank" href=
+"http://www.geocachingireland.com/index.html"><img border="0" src=
+"http://geocachingireland.com/logo4.jpg" width="328" height="53"
+align="middle" /></a></p>
+<hr align="center" size="2" width="40%" />
+<center><font color="blue">Visit the <b>new</b> Geocaching Ireland
+discussion forum <a href="http://www.mccartan.org/forums/" target=
+"_blank">HERE</a></font></center>
+<hr align="center" size="2" width="40%" />
+<br />
+<br /></description>
+  <long-description><p>Located in Ranelagh and extending to 1 hectare (2.47 acres), the
+gardens were originally part of 5 hectares of pleasure gardens
+developed in 1775 by a businessman who called them after Lord
+Ranelagh from Co. Wicklow. Lord Ranelagh had similar pleasure
+gardens beside the Thames in London. The first hot air balloon
+flight in Ireland was launched from the pleasure gardens by Richard
+Crosbie.</p>
+<p>The gardens were later sold to a teaching order of nuns and in
+1840 the convent there became totally enclosed and the gardens
+forgotten. When the lands were developed for housing in the mid
+1980's, the current small park was designed to include an
+ornamental pool thereby restoring the two-hundred years historical
+connection with the original Ranelagh Gardens.</p>
+<p>The coordinates above will lead you to the gates of the Gardens
+&ndash; there is plenty of disc parking nearby, and the 44 &
+48A buses stop less than 50 metres away. The Luas line is also
+close by &ndash; in fact, the gateway to the gardens forms a
+supporting arch for one of the Luas line bridges.</p>
+<p>To move on to the cache location, multiply the number of park
+entrances (A) by 5 and add the result to the N coordinates given
+above (N53 19.600 + (A*5)) = N53 19.???)</p>
+<p>Next, calculate the number of years the Carmelite nuns had a
+monastery here &ndash; (BCD). To get the W coordinates, subtract
+((A+B)*D) from 006 15.385.</p>
+<p>You now have the co-ordinates of the cache location &ndash;
+there may be some interference from trees and buildings, so
+there&rsquo;s a clue below!</p></long-description>
+  <encoded-hints>1 metre up a tree, hidden in the ivy!</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=81fd5a23-d53c-49bc-babd-df20435c06cb</url>
+  <url-name>Ranelagh Gardens</url-name>
+  <logs><ul><li>2010-06-06T19:00:00Z : Didn't find it by tolmaion <br />I failed to find this cache before. With the coordinates recently updated, I gave it another try today. Unfortunately, no joy. The final coordinates took me just outside the park to a place that matched the hint... but I could not locate any container.</li><li>2010-05-19T19:00:00Z : Didn't find it by THE_Chris <br />Couldnt find it either tonight :( Had a look in what I thought was the obvious place given the hint, and some other nearby areas, but couldnt find the box :(
+
+Will try again. Nice park, loads of ducks and lots of carp. And a would-be couple talking about what it would be like to be a duck.</li><li>2010-05-15T19:00:00Z : Didn't find it by lamm4 <br />It was a nice location, a realy nice park, but unfortunately the cache didn't shown up.[:[]</li><li>2010-05-08T19:00:00Z : Found it by salt'n'light <br />Lovely gardens, nice to see a new area of Dublin. TFTC</li><li>2010-04-18T19:00:00Z : Found it by Toffee Man <br />Found with Blue Jay 59 on a lovely day for caching.
+TFTC
+Toffee Man
+#301 </li><li>2008-08-28T19:00:00Z : Found it by Kersti.com <br />A lovely evening so we thought we'd pop out and grab this one. The cache hasn't been found for quite some time, and as a result it has collected rather a large amount of canine number ones which is a bit icky - highly recommend gloves and sanitiser spray! We replaced about a metre off the ground so that it's less likely to suffer this indignity again.</li><li>2008-03-02T23:58:19Z : Needs Maintenance by Kersti.com <br />Fire at location reported and confirmed. I couldn't find it - area extremely exposed. Suggest maintenance.</li><li>2008-03-01T20:00:00Z : Didn't find it by Kersti.com <br />Was passing so decided to pop in and take a look at this one. Had read the previous logs about the fire so took that into account. The location is fairly obvious but we could not spot the cache. Can I suggest some maintenance soon...</li></ul></logs>
+  <original-xml>  <wpt  lat="53.326667" lon="-6.256417">
+    <time>2005-09-05T07:00:00Z</time>
+    <name>GCQEMW</name>
+    <desc>Ranelagh Gardens by Hezekiah, Multi-cache (1/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=81fd5a23-d53c-49bc-babd-df20435c06cb</url>
+    <urlname>Ranelagh Gardens</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Multi-cache</type>
+    <groundspeak:cache id="288174" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Ranelagh Gardens</groundspeak:name>
+      <groundspeak:placed_by>Hezekiah</groundspeak:placed_by>
+      <groundspeak:owner id="274644">Hezekiah</groundspeak:owner>
+      <groundspeak:type>Multi-cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>Dublin</groundspeak:state>
+      <groundspeak:short_description html="True">&lt;p align="center"&gt;&lt;a target="_blank" href=
+"http://www.geocachingireland.com/index.html"&gt;&lt;img border="0" src=
+"http://geocachingireland.com/logo4.jpg" width="328" height="53"
+align="middle" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;hr align="center" size="2" width="40%" /&gt;
+&lt;center&gt;&lt;font color="blue"&gt;Visit the &lt;b&gt;new&lt;/b&gt; Geocaching Ireland
+discussion forum &lt;a href="http://www.mccartan.org/forums/" target=
+"_blank"&gt;HERE&lt;/a&gt;&lt;/font&gt;&lt;/center&gt;
+&lt;hr align="center" size="2" width="40%" /&gt;
+&lt;br /&gt;
+&lt;br /&gt;</groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;p&gt;Located in Ranelagh and extending to 1 hectare (2.47 acres), the
+gardens were originally part of 5 hectares of pleasure gardens
+developed in 1775 by a businessman who called them after Lord
+Ranelagh from Co. Wicklow. Lord Ranelagh had similar pleasure
+gardens beside the Thames in London. The first hot air balloon
+flight in Ireland was launched from the pleasure gardens by Richard
+Crosbie.&lt;/p&gt;
+&lt;p&gt;The gardens were later sold to a teaching order of nuns and in
+1840 the convent there became totally enclosed and the gardens
+forgotten. When the lands were developed for housing in the mid
+1980's, the current small park was designed to include an
+ornamental pool thereby restoring the two-hundred years historical
+connection with the original Ranelagh Gardens.&lt;/p&gt;
+&lt;p&gt;The coordinates above will lead you to the gates of the Gardens
+&amp;ndash; there is plenty of disc parking nearby, and the 44 &amp;amp;
+48A buses stop less than 50 metres away. The Luas line is also
+close by &amp;ndash; in fact, the gateway to the gardens forms a
+supporting arch for one of the Luas line bridges.&lt;/p&gt;
+&lt;p&gt;To move on to the cache location, multiply the number of park
+entrances (A) by 5 and add the result to the N coordinates given
+above (N53 19.600 + (A*5)) = N53 19.???)&lt;/p&gt;
+&lt;p&gt;Next, calculate the number of years the Carmelite nuns had a
+monastery here &amp;ndash; (BCD). To get the W coordinates, subtract
+((A+B)*D) from 006 15.385.&lt;/p&gt;
+&lt;p&gt;You now have the co-ordinates of the cache location &amp;ndash;
+there may be some interference from trees and buildings, so
+there&amp;rsquo;s a clue below!&lt;/p&gt;&lt;p&gt;Additional Waypoints&lt;/p&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>1 metre up a tree, hidden in the ivy!</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="111876999">
+          <groundspeak:date>2010-06-06T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Didn't find it</groundspeak:type>
+          <groundspeak:finder id="2382264">tolmaion</groundspeak:finder>
+          <groundspeak:text encoded="False">I failed to find this cache before. With the coordinates recently updated, I gave it another try today. Unfortunately, no joy. The final coordinates took me just outside the park to a place that matched the hint... but I could not locate any container.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="109206368">
+          <groundspeak:date>2010-05-19T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Didn't find it</groundspeak:type>
+          <groundspeak:finder id="1191253">THE_Chris</groundspeak:finder>
+          <groundspeak:text encoded="False">Couldnt find it either tonight :( Had a look in what I thought was the obvious place given the hint, and some other nearby areas, but couldnt find the box :(
+
+Will try again. Nice park, loads of ducks and lots of carp. And a would-be couple talking about what it would be like to be a duck.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="108541988">
+          <groundspeak:date>2010-05-15T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Didn't find it</groundspeak:type>
+          <groundspeak:finder id="1932037">lamm4</groundspeak:finder>
+          <groundspeak:text encoded="False">It was a nice location, a realy nice park, but unfortunately the cache didn't shown up.[:[]</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="107755551">
+          <groundspeak:date>2010-05-08T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2812617">salt'n'light</groundspeak:finder>
+          <groundspeak:text encoded="False">Lovely gardens, nice to see a new area of Dublin. TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="104967902">
+          <groundspeak:date>2010-04-18T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2826452">Toffee Man</groundspeak:finder>
+          <groundspeak:text encoded="False">Found with Blue Jay 59 on a lovely day for caching.
+TFTC
+Toffee Man
+#301 </groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="51795571">
+          <groundspeak:date>2008-08-28T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="320206">Kersti.com</groundspeak:finder>
+          <groundspeak:text encoded="False">A lovely evening so we thought we'd pop out and grab this one. The cache hasn't been found for quite some time, and as a result it has collected rather a large amount of canine number ones which is a bit icky - highly recommend gloves and sanitiser spray! We replaced about a metre off the ground so that it's less likely to suffer this indignity again.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="39921613">
+          <groundspeak:date>2008-03-02T23:58:19Z</groundspeak:date>
+          <groundspeak:type>Needs Maintenance</groundspeak:type>
+          <groundspeak:finder id="320206">Kersti.com</groundspeak:finder>
+          <groundspeak:text encoded="False">Fire at location reported and confirmed. I couldn't find it - area extremely exposed. Suggest maintenance.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="39802837">
+          <groundspeak:date>2008-03-01T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Didn't find it</groundspeak:type>
+          <groundspeak:finder id="320206">Kersti.com</groundspeak:finder>
+          <groundspeak:text encoded="False">Was passing so decided to pop in and take a look at this one. Had read the previous logs about the fire so took that into account. The location is fairly obvious but we could not spot the cache. Can I suggest some maintenance soon...</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs>
+        <groundspeak:travelbug id="1405897" ref="TB1YZQE">
+          <groundspeak:name>cincol's Big 5 South Africa Geocoin</groundspeak:name>
+        </groundspeak:travelbug>
+      </groundspeak:travelbugs>
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

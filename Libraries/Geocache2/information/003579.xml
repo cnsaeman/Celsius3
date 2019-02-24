@@ -1,0 +1,184 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>003579</id>
+  <cache-id>GCX9CD</cache-id>
+  <type>Traditional Cache</type>
+  <name> Liffey Bridges-Lucan by Kili or bust, Traditional Cache (1/1)</name>
+  <size>Micro</size>
+  <difficulty>1</difficulty>
+  <terrain>1</terrain>
+  <last-found>2009-07-19</last-found>
+  <placed>2006-07-22</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>Kili or bust</placedby>
+  <found>Geocache</found>
+  <lat>53.360217</lat>
+  <lon>-6.4464</lon>
+  <last-logs>XXFFFX</last-logs>
+  <owner>Kili or bust</owner>
+  <description><p align="center"><a target="_blank" href=
+   "http://www.geocachingireland.com/index.html"><img border="0"
+   src=
+   "http://img.geocaching.com/cache/2280ab19-c5fc-4d33-8efb-797df9c0ac8c.jpg"
+     width="150" height="43" align="middle"></a></p>
+<hr size="2">
+<center><font color="Green">Visit The Geocaching Ireland discussion
+forum <a rel="nofollow" href="http://www.mccartan.org/forums/"
+target="_blank">HERE</a></font></center>
+<hr size="2"></description>
+  <long-description><p><a rel="nofollow" href=
+   "http://www.handicaching.com/show.php?waypoint=GCX9CD" target=
+   "_blank"><img src=
+   "http://www.handicaching.com/images/seal_rater2.gif" border="0"
+   alt="View the ratings for GCX9CD"></a></p>
+<!--end of handicaching link-->
+<br>
+<br>
+Lucan Bridge is a road bridge spanning the River Liffey in the
+village of Lucan in County Dublin.. It joins Lucan's Main Street to
+the Lower Lucan Road, carrying traffic towards Clonsilla and the
+north.<br>
+The bridge is the largest single span masonry arch bridge in
+Ireland, and is constructed from ashlar masonry with a span of 110
+feet (33 meters) and a rise of 22 feet (6.7 meters). It is framed
+by iron balustraded parapets made by the Royal Phoenix ironworks of
+Parkgate Street in Dublin.<br>
+Architected by George Knowles (architect of Dublin's Fr. Mathew and
+O'Donovan Rossa Bridges), it was built in 1814 in collaboration
+with James Savage to replace several previous bridges which were
+carried away by floods.<br>
+The first bridge built on this spot was a stone bridge laid down in
+the later years of the reign of King John (c.1200). A subsequent
+bridge was built by the first Agmondisham Vesey c.1730, but washed
+away within very short time. The next was built c.1771, but this
+too washed away in a flood in 1786 - as did it's replacement.<br>
+In 1814, the present single span bridge was completed by Savage
+& Knowles, and has remained largely unaffected by the effects
+of flooding common to this stretch of the Liffey. The bridge
+however has seen some recent developments, with the raising of the
+roadway near both ends of the arch to lessen the gradient for road
+traffic.<br>
+<br>
+It is not uncommon to see anglers carrying big salmon from the
+river below. On bright summer days local children use the weir area
+below for picnicking, swimming and boating.</long-description>
+  <encoded-hints>Go West my son, by Zepplin!</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=68e07ffb-b3dd-4621-a6cf-f8ebb002cdea</url>
+  <url-name> Liffey Bridges-Lucan</url-name>
+  <logs><ul><li>2010-06-13T19:00:00Z : Didn't find it by Mullingar Man <br />clue made no sense to me, hope to return soon!</li><li>2010-05-15T19:00:00Z : Didn't find it by anxie <br />Nice bridge, have crossed it many times without realising how impressive it is. the GPS was going bonkers, so ended up under the bridge, which was interesting :-)
+Anyhow, I found the spot, but not the cache, was under pressure to get going, so will have to come back again. thanks for the cache.</li><li>2010-05-03T19:00:00Z : Found it by Drea-Popa <br />After a long drive it was a great pleasure to walk to this nice river and log a cache.
+Thanks for this one.</li><li>2010-05-03T19:00:00Z : Found it by CH-vishnu <br />As we stayed in a nearby B&B, we found this cache on a nice walk to the river. Thanks for the cache! Greetings from Switzerland.</li><li>2010-05-03T19:00:00Z : Found it by st5346 <br />After searching around a while in the wrong place I finally saw him :)
+THX for hiding and greetings from Germany!</li><li>2009-07-19T19:00:00Z : Didn't find it by Kersti.com <br />No luck finding this one today</li></ul></logs>
+  <original-xml>  <wpt  lat="53.360217" lon="-6.4464">
+    <time>2006-07-22T07:00:00Z</time>
+    <name>GCX9CD</name>
+    <desc> Liffey Bridges-Lucan by Kili or bust, Traditional Cache (1/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=68e07ffb-b3dd-4621-a6cf-f8ebb002cdea</url>
+    <urlname> Liffey Bridges-Lucan</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="432062" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name> Liffey Bridges-Lucan</groundspeak:name>
+      <groundspeak:placed_by>Kili or bust</groundspeak:placed_by>
+      <groundspeak:owner id="281705">Kili or bust</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>Dublin</groundspeak:state>
+      <groundspeak:short_description html="True">&lt;p align="center"&gt;&lt;a target="_blank" href=
+   "http://www.geocachingireland.com/index.html"&gt;&lt;img border="0"
+   src=
+   "http://img.geocaching.com/cache/2280ab19-c5fc-4d33-8efb-797df9c0ac8c.jpg"
+     width="150" height="43" align="middle"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;hr size="2"&gt;
+&lt;center&gt;&lt;font color="Green"&gt;Visit The Geocaching Ireland discussion
+forum &lt;a rel="nofollow" href="http://www.mccartan.org/forums/"
+target="_blank"&gt;HERE&lt;/a&gt;&lt;/font&gt;&lt;/center&gt;
+&lt;hr size="2"&gt;</groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;p&gt;&lt;a rel="nofollow" href=
+   "http://www.handicaching.com/show.php?waypoint=GCX9CD" target=
+   "_blank"&gt;&lt;img src=
+   "http://www.handicaching.com/images/seal_rater2.gif" border="0"
+   alt="View the ratings for GCX9CD"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;!--end of handicaching link--&gt;
+&lt;br&gt;
+&lt;br&gt;
+Lucan Bridge is a road bridge spanning the River Liffey in the
+village of Lucan in County Dublin.. It joins Lucan's Main Street to
+the Lower Lucan Road, carrying traffic towards Clonsilla and the
+north.&lt;br&gt;
+The bridge is the largest single span masonry arch bridge in
+Ireland, and is constructed from ashlar masonry with a span of 110
+feet (33 meters) and a rise of 22 feet (6.7 meters). It is framed
+by iron balustraded parapets made by the Royal Phoenix ironworks of
+Parkgate Street in Dublin.&lt;br&gt;
+Architected by George Knowles (architect of Dublin's Fr. Mathew and
+O'Donovan Rossa Bridges), it was built in 1814 in collaboration
+with James Savage to replace several previous bridges which were
+carried away by floods.&lt;br&gt;
+The first bridge built on this spot was a stone bridge laid down in
+the later years of the reign of King John (c.1200). A subsequent
+bridge was built by the first Agmondisham Vesey c.1730, but washed
+away within very short time. The next was built c.1771, but this
+too washed away in a flood in 1786 - as did it's replacement.&lt;br&gt;
+In 1814, the present single span bridge was completed by Savage
+&amp;amp; Knowles, and has remained largely unaffected by the effects
+of flooding common to this stretch of the Liffey. The bridge
+however has seen some recent developments, with the raising of the
+roadway near both ends of the arch to lessen the gradient for road
+traffic.&lt;br&gt;
+&lt;br&gt;
+It is not uncommon to see anglers carrying big salmon from the
+river below. On bright summer days local children use the weir area
+below for picnicking, swimming and boating.</groundspeak:long_description>
+      <groundspeak:encoded_hints>Go West my son, by Zepplin!</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="112901941">
+          <groundspeak:date>2010-06-13T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Didn't find it</groundspeak:type>
+          <groundspeak:finder id="2717815">Mullingar Man</groundspeak:finder>
+          <groundspeak:text encoded="False">clue made no sense to me, hope to return soon!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="108563903">
+          <groundspeak:date>2010-05-15T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Didn't find it</groundspeak:type>
+          <groundspeak:finder id="2190344">anxie</groundspeak:finder>
+          <groundspeak:text encoded="False">Nice bridge, have crossed it many times without realising how impressive it is. the GPS was going bonkers, so ended up under the bridge, which was interesting :-)
+Anyhow, I found the spot, but not the cache, was under pressure to get going, so will have to come back again. thanks for the cache.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="107258028">
+          <groundspeak:date>2010-05-03T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3049946">Drea-Popa</groundspeak:finder>
+          <groundspeak:text encoded="False">After a long drive it was a great pleasure to walk to this nice river and log a cache.
+Thanks for this one.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="107122634">
+          <groundspeak:date>2010-05-03T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2171870">CH-vishnu</groundspeak:finder>
+          <groundspeak:text encoded="False">As we stayed in a nearby B&amp;B, we found this cache on a nice walk to the river. Thanks for the cache! Greetings from Switzerland.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="107024538">
+          <groundspeak:date>2010-05-03T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1604112">st5346</groundspeak:finder>
+          <groundspeak:text encoded="False">After searching around a while in the wrong place I finally saw him :)
+THX for hiding and greetings from Germany!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="77679279">
+          <groundspeak:date>2009-07-19T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Didn't find it</groundspeak:type>
+          <groundspeak:finder id="320206">Kersti.com</groundspeak:finder>
+          <groundspeak:text encoded="False">No luck finding this one today</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

@@ -1,0 +1,130 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>000673</id>
+  <cache-id>GC2633Q</cache-id>
+  <type>Traditional Cache</type>
+  <name>Rittereck by balu-fd, Traditional Cache (1/1)</name>
+  <size>Micro</size>
+  <difficulty>1</difficulty>
+  <terrain>1</terrain>
+  <last-found>2010-11-28</last-found>
+  <placed>2010-03-31</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>balu-fd</placedby>
+  <found>Geocache</found>
+  <lat>50.5521</lat>
+  <lon>9.673483</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>balu-fd</owner>
+  <description>Drive-In Cache mitten in der Stadt. Parkplatz ist direkt vor Ort!</description>
+  <long-description>Inhalt:<br />
+1 Logbuch<br />
+Beschreibung
+<p>Zum Tauschen:</p>
+<p>* Prayerbox<br />
+* Autoplakette<br />
+* Radiergummiherz<br />
+* Button</p>
+<p>Stift muss mitgebracht werden.</p>
+<p>Bitte vorsichtig sein. Hier muggelt es gewaltig!</p>
+<p>Das Wort Ritter stammt aus dem Mittelhochdeutsch. Die
+Übersetzung ins Deutsche ist das Wort zum Loggen. Bitte unbedingt
+wieder an die Stelle zurück legen und die Tarnung davor
+stecken.</p></long-description>
+  <encoded-hints>Neuer Hint 12.09.2010:
+Links unter FD-DH-880</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=ceddfa05-fcea-45d9-a7aa-6f8f03939b45</url>
+  <url-name>Rittereck</url-name>
+  <logs><ul><li>2010-12-24T20:00:00Z : Found it by canadianfriend75 <br />Gut und schnell gefunden. TFTC und allen schöne Weihnachten.</li><li>2010-12-03T20:00:00Z : Found it by dk99 <br />oh mann, fast wär's mit dem log nichts geworden.....
+gelstift wollte nicht schreiben
+war wohl eingefroren...
+naja, dann hätt ich ihn halt bei paar straßen weiter erstmal in glühwein getunkt [:D]
+
+danke für's zeigen
+
+dk99</li><li>2010-11-28T20:00:00Z : Found it by Team Lusiregma <br />Beim Weihnachtsmarktbesuch schnell gesucht und gefunden.</li><li>2010-11-28T20:00:00Z : Found it by BB! <br />ging schnell RN und BB!</li><li>2010-11-28T20:00:00Z : Found it by onkelalfred <br />Heute schnell gefunden.</li></ul></logs>
+  <original-xml>  <wpt  lat="50.5521" lon="9.673483">
+    <time>2010-03-31T07:00:00Z</time>
+    <name>GC2633Q</name>
+    <desc>Rittereck by balu-fd, Traditional Cache (1/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=ceddfa05-fcea-45d9-a7aa-6f8f03939b45</url>
+    <urlname>Rittereck</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1617667" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Rittereck</groundspeak:name>
+      <groundspeak:placed_by>balu-fd</groundspeak:placed_by>
+      <groundspeak:owner id="3122379">balu-fd</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="True">Drive-In Cache mitten in der Stadt. Parkplatz ist direkt vor Ort!</groundspeak:short_description>
+      <groundspeak:long_description html="True">Inhalt:&lt;br /&gt;
+1 Logbuch&lt;br /&gt;
+Beschreibung
+&lt;p&gt;Zum Tauschen:&lt;/p&gt;
+&lt;p&gt;* Prayerbox&lt;br /&gt;
+* Autoplakette&lt;br /&gt;
+* Radiergummiherz&lt;br /&gt;
+* Button&lt;/p&gt;
+&lt;p&gt;Stift muss mitgebracht werden.&lt;/p&gt;
+&lt;p&gt;Bitte vorsichtig sein. Hier muggelt es gewaltig!&lt;/p&gt;
+&lt;p&gt;Das Wort Ritter stammt aus dem Mittelhochdeutsch. Die
+Übersetzung ins Deutsche ist das Wort zum Loggen. Bitte unbedingt
+wieder an die Stelle zurück legen und die Tarnung davor
+stecken.&lt;/p&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>Neuer Hint 12.09.2010:
+Links unter FD-DH-880</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="139125772">
+          <groundspeak:date>2010-12-24T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2519645">canadianfriend75</groundspeak:finder>
+          <groundspeak:text encoded="False">Gut und schnell gefunden. TFTC und allen schöne Weihnachten.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="137787875">
+          <groundspeak:date>2010-12-03T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3172709">dk99</groundspeak:finder>
+          <groundspeak:text encoded="False">oh mann, fast wär's mit dem log nichts geworden.....
+gelstift wollte nicht schreiben
+war wohl eingefroren...
+naja, dann hätt ich ihn halt bei paar straßen weiter erstmal in glühwein getunkt [:D]
+
+danke für's zeigen
+
+dk99</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="137573455">
+          <groundspeak:date>2010-11-28T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3019639">Team Lusiregma</groundspeak:finder>
+          <groundspeak:text encoded="False">Beim Weihnachtsmarktbesuch schnell gesucht und gefunden.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="137414399">
+          <groundspeak:date>2010-11-28T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3781589">BB!</groundspeak:finder>
+          <groundspeak:text encoded="False">ging schnell RN und BB!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="137382921">
+          <groundspeak:date>2010-11-28T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1347491">onkelalfred</groundspeak:finder>
+          <groundspeak:text encoded="False">Heute schnell gefunden.</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs>
+        <groundspeak:travelbug id="568117" ref="TB11VZ9">
+          <groundspeak:name>Pilsner Urquell - 1 -</groundspeak:name>
+        </groundspeak:travelbug>
+      </groundspeak:travelbugs>
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

@@ -1,0 +1,118 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>008169</id>
+  <cache-id>GC193QW</cache-id>
+  <type>Multi-cache</type>
+  <name>alte B 27 by ubx, Multi-cache (1/1.5)</name>
+  <size>Small</size>
+  <difficulty>1</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-08-12</last-found>
+  <placed>2008-02-03</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>ubx</placedby>
+  <found>Geocache</found>
+  <lat>50.631733</lat>
+  <lon>9.7334</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>ubx</owner>
+  <description>hier ging früher mal der ganze Verkehr durch.</description>
+  <long-description>Parkt bei den Koordinaten, das ist ein offizieller Wanderparkplatz. In südlicher Richtung in Luftlinie 360 m ist eine besondere Anlage mit einem Hinweisschild an der Tür. Der Final ist nicht mehr weit. N 50.37.C3A / E 09.43.A2B
+A= Anzahl Ziffern der Tel.Nr. auf dem Schild der Eingangstür.
+B= Anzahl Ziffern der Tel.Nr. ohne Vorwahl
+C= Anzahl der Buchstaben des Ortes der Anlage
+der Final ist ca. 20 m im Gelände, sonst alles auf befestigten Wegen.Nach den ersten Funden auf OC geht der cache auch nachts  im Teamsearch.
+
+Additional Waypoints
+PK193QW - Parken
+N 50° 37.904 E 009° 44.005
+
+</long-description>
+  <encoded-hints>Final in den Wurzeln eines Baumes</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=6a2c1c61-9ff6-4489-adac-d25de9162011</url>
+  <url-name>alte B 27</url-name>
+  <logs><ul><li>2010-09-12T19:00:00Z : Found it by Blaue-Elise <br />Da hat er uns aber durch die Gegend gescheucht... Auf der Durchreise mit dem Lkw angehalten und leider von der falschen Seite angegangen... :-(
+War aber trotzdem ein schöner Spaziergang!
+ </li><li>2010-09-11T19:00:00Z : Found it by digger09 <br />dfdc</li><li>2010-08-14T19:00:00Z : Found it by Limoel <br />Heute morgen diesen Cache geborgen.
+
+TFTC Limoel</li><li>2010-08-12T19:00:00Z : Found it by Mammut-Baby <br />Danke für einen weiteren Multi. Bis jetzt hat uns das Cachen noch nie an so eine Location herangeführt Mit Kapitän Caro und Zampadu gut gefunden. Hier durfte ich auch noch eine  coin mitnehmen.</li><li>2010-08-12T19:00:00Z : Found it by kapitän caro <br />Nachdem wir zuerst dachten, dass die Richtung so uuuungefähr schon stimmen müsste, aber keine markante Anlage zu sehen war, mussten wir dann doch nochmal exakt peilen. Dann ging alles super [:)] 
+Die Fragen waren fix beantwortet und dann fanden wir heraus, dass wir beim "pi-mal-daumen"-Versuch schon direkt am Cache vorbeigelaufen waren [:D].
+Dankeschön für den Cache!
+Out: Coin</li></ul></logs>
+  <original-xml>  <wpt  lat="50.631733" lon="9.7334">
+    <time>2008-02-03T08:00:00Z</time>
+    <name>GC193QW</name>
+    <desc>alte B 27 by ubx, Multi-cache (1/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=6a2c1c61-9ff6-4489-adac-d25de9162011</url>
+    <urlname>alte B 27</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Multi-cache</type>
+    <groundspeak:cache id="784143" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>alte B 27</groundspeak:name>
+      <groundspeak:placed_by>ubx</groundspeak:placed_by>
+      <groundspeak:owner id="787613">ubx</groundspeak:owner>
+      <groundspeak:type>Multi-cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">hier ging früher mal der ganze Verkehr durch.</groundspeak:short_description>
+      <groundspeak:long_description html="False">Parkt bei den Koordinaten, das ist ein offizieller Wanderparkplatz. In südlicher Richtung in Luftlinie 360 m ist eine besondere Anlage mit einem Hinweisschild an der Tür. Der Final ist nicht mehr weit. N 50.37.C3A / E 09.43.A2B
+A= Anzahl Ziffern der Tel.Nr. auf dem Schild der Eingangstür.
+B= Anzahl Ziffern der Tel.Nr. ohne Vorwahl
+C= Anzahl der Buchstaben des Ortes der Anlage
+der Final ist ca. 20 m im Gelände, sonst alles auf befestigten Wegen.Nach den ersten Funden auf OC geht der cache auch nachts  im Teamsearch.
+
+Additional Waypoints
+PK193QW - Parken
+N 50° 37.904 E 009° 44.005
+
+</groundspeak:long_description>
+      <groundspeak:encoded_hints>Final in den Wurzeln eines Baumes</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="126592908">
+          <groundspeak:date>2010-09-12T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2814132">Blaue-Elise</groundspeak:finder>
+          <groundspeak:text encoded="False">Da hat er uns aber durch die Gegend gescheucht... Auf der Durchreise mit dem Lkw angehalten und leider von der falschen Seite angegangen... :-(
+War aber trotzdem ein schöner Spaziergang!
+ </groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="126713418">
+          <groundspeak:date>2010-09-11T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3042502">digger09</groundspeak:finder>
+          <groundspeak:text encoded="False">dfdc</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="121736552">
+          <groundspeak:date>2010-08-14T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2878802">Limoel</groundspeak:finder>
+          <groundspeak:text encoded="False">Heute morgen diesen Cache geborgen.
+
+TFTC Limoel</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="121627526">
+          <groundspeak:date>2010-08-12T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2558498">Mammut-Baby</groundspeak:finder>
+          <groundspeak:text encoded="False">Danke für einen weiteren Multi. Bis jetzt hat uns das Cachen noch nie an so eine Location herangeführt Mit Kapitän Caro und Zampadu gut gefunden. Hier durfte ich auch noch eine  coin mitnehmen.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="121514733">
+          <groundspeak:date>2010-08-12T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2414556">kapitän caro</groundspeak:finder>
+          <groundspeak:text encoded="False">Nachdem wir zuerst dachten, dass die Richtung so uuuungefähr schon stimmen müsste, aber keine markante Anlage zu sehen war, mussten wir dann doch nochmal exakt peilen. Dann ging alles super [:)] 
+Die Fragen waren fix beantwortet und dann fanden wir heraus, dass wir beim "pi-mal-daumen"-Versuch schon direkt am Cache vorbeigelaufen waren [:D].
+Dankeschön für den Cache!
+Out: Coin</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

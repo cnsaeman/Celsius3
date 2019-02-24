@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>008429</id>
+  <cache-id>SB2DC7A</cache-id>
+  <type>Waypoint</type>
+  <name>Start Bank</name>
+  <placed>2010-08-15</placed>
+  <lat>50.586933</lat>
+  <lon>9.571167</lon>
+  <attributes>hidden</attributes>
+  <description>Start an der Bank</description>
+  <url>http://www.geocaching.com/seek/wpt.aspx?WID=32c4d9d4-f76a-4e56-91da-066231083af9</url>
+  <url-name>Start Bank</url-name>
+</element>
+</celsiusv2.1.addinfofile>

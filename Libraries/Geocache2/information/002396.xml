@@ -1,0 +1,124 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>002396</id>
+  <cache-id>GC2A0DK</cache-id>
+  <type>Traditional Cache</type>
+  <name>Flatpack by Windsockers, Traditional Cache (1.5/1.5)</name>
+  <size>Micro</size>
+  <difficulty>1.5</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-06-09</last-found>
+  <placed>2010-06-09</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>Windsockers</placedby>
+  <found>Geocache</found>
+  <lat>53.408433</lat>
+  <lon>-6.271667</lon>
+  <last-logs>FFFF</last-logs>
+  <owner>Windsockers</owner>
+  <description>
+      </description>
+  <long-description><p>A quick cache and dash but some discretion will be required as
+the store is very busy.<br />
+Cache is a magnetic in a public location and contains only a
+log.The area is Not entirely wheelchair-friendly as some reaching
+is required.</p>
+<p>There is no access to this cache from the sliproad of the M50 so
+don't be tempted to try it.</p>
+<p>Please take care and rehide the cache to prevent muggles from
+discovering its location.</p>
+<center><img src=
+"http://www.northbeach.ie/gallery/albums/userpics/10001/windsock-anim-small.gif" /><br />
+
+<b>The Windsockers</b></center></long-description>
+  <encoded-hints>Corner......</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=836a6715-1fbe-4081-a35d-9abebd6eb8f0</url>
+  <url-name>Flatpack</url-name>
+  <logs><ul><li>2010-06-10T19:00:00Z : Found it by kazidrat <br />Found easily on a walk with my dog...
+# 726
+TFTC...[:D]</li><li>2010-06-10T19:00:00Z : Found it by theswerve <br />Found at 12.15...join the queue to sign,,,Kazidrat was singing the log as i arrived...must pay a visit to store sometime!!!!!...TFTC</li><li>2010-06-10T19:00:00Z : Found it by AbbeyAckbar <br />(#641 @ 11:20)
+Saw this one published last night and figured FTF was gone already. Sauntered over after 11 this morning and found the cache quickly & not surprisingly signed already. Nice cache n'dash. Never been here before. I hear it's mental busy sometimes so I was glad the place was deserted when I was there. 
+
+TFTH!
+[8D]
+</li><li>2010-06-10T19:00:00Z : Found it by Crannyn <br />Jakeyboys minder was on a visit from Manchester.As they haven't had a first to find we quickly rushed over and signed the log at 10.30AM !!! We were even to early for a stroll around the flatpack store!? Just realised, as we were logging this that "Jakey" are not premium members Whoops !! Have to claim FTF and get Jakeyboy signed up as premiums quickly! TFTC</li><li>2010-06-09T22:39:15Z : Publish Listing by erik88l-r <br />Published</li></ul></logs>
+  <original-xml>  <wpt  lat="53.408433" lon="-6.271667">
+    <time>2010-06-09T07:00:00Z</time>
+    <name>GC2A0DK</name>
+    <desc>Flatpack by Windsockers, Traditional Cache (1.5/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=836a6715-1fbe-4081-a35d-9abebd6eb8f0</url>
+    <urlname>Flatpack</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1734254" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Flatpack</groundspeak:name>
+      <groundspeak:placed_by>Windsockers</groundspeak:placed_by>
+      <groundspeak:owner id="271623">Windsockers</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>Leinster</groundspeak:state>
+      <groundspeak:short_description html="True">
+      </groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;p&gt;A quick cache and dash but some discretion will be required as
+the store is very busy.&lt;br /&gt;
+Cache is a magnetic in a public location and contains only a
+log.The area is Not entirely wheelchair-friendly as some reaching
+is required.&lt;/p&gt;
+&lt;p&gt;There is no access to this cache from the sliproad of the M50 so
+don't be tempted to try it.&lt;/p&gt;
+&lt;p&gt;Please take care and rehide the cache to prevent muggles from
+discovering its location.&lt;/p&gt;
+&lt;center&gt;&lt;img src=
+"http://www.northbeach.ie/gallery/albums/userpics/10001/windsock-anim-small.gif" /&gt;&lt;br /&gt;
+
+&lt;b&gt;The Windsockers&lt;/b&gt;&lt;/center&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>Corner......</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="112349734">
+          <groundspeak:date>2010-06-10T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1851316">kazidrat</groundspeak:finder>
+          <groundspeak:text encoded="False">Found easily on a walk with my dog...
+# 726
+TFTC...[:D]</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="112341910">
+          <groundspeak:date>2010-06-10T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1032462">theswerve</groundspeak:finder>
+          <groundspeak:text encoded="False">Found at 12.15...join the queue to sign,,,Kazidrat was singing the log as i arrived...must pay a visit to store sometime!!!!!...TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="112303389">
+          <groundspeak:date>2010-06-10T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1265839">AbbeyAckbar</groundspeak:finder>
+          <groundspeak:text encoded="False">(#641 @ 11:20)
+Saw this one published last night and figured FTF was gone already. Sauntered over after 11 this morning and found the cache quickly &amp; not surprisingly signed already. Nice cache n'dash. Never been here before. I hear it's mental busy sometimes so I was glad the place was deserted when I was there. 
+
+TFTH!
+[8D]
+</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="112299541">
+          <groundspeak:date>2010-06-10T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2557004">Crannyn</groundspeak:finder>
+          <groundspeak:text encoded="False">Jakeyboys minder was on a visit from Manchester.As they haven't had a first to find we quickly rushed over and signed the log at 10.30AM !!! We were even to early for a stroll around the flatpack store!? Just realised, as we were logging this that "Jakey" are not premium members Whoops !! Have to claim FTF and get Jakeyboy signed up as premiums quickly! TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="112258466">
+          <groundspeak:date>2010-06-09T22:39:15Z</groundspeak:date>
+          <groundspeak:type>Publish Listing</groundspeak:type>
+          <groundspeak:finder id="4285">erik88l-r</groundspeak:finder>
+          <groundspeak:text encoded="False">Published</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

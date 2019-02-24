@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>003244</id>
+  <cache-id>GC1EB26</cache-id>
+  <type>Traditional Cache</type>
+  <name>Ein Micro für Maria by Anonyme_Laeufer, Traditional Cache (1/1)</name>
+  <size>Micro</size>
+  <difficulty>1</difficulty>
+  <terrain>1</terrain>
+  <last-found>2010-10-31</last-found>
+  <placed>2008-07-19</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Anonyme_Laeufer</placedby>
+  <found>Geocache</found>
+  <lat>50.544033</lat>
+  <lon>9.661483</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>Anonyme_Laeufer</owner>
+  <description>Einfacher Cache im Schatten Maria's</description>
+  <long-description>Unser erster Micro liegt in einer Maria gewidmeten Umgebung. Geparkt werden kann direkt in der Nähe der Koordinaten.</long-description>
+  <encoded-hints>Nah am Wasser
+ 
+</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=a5429e99-7396-445c-8c90-c21a1ac8d380</url>
+  <url-name>Ein Micro für Maria</url-name>
+  <logs><ul><li>2010-12-19T21:31:53Z : Found it by Kamimieze <br />Bei kleinem Ausflug nach Fulda diesen schnell gefunden. Logbuch ist schon ziemlich voll. TFTC</li><li>2010-11-25T20:00:00Z : Found it by yonex <br />Schöner Ort, hätte ich ohne Geocaching sicher nie gesehen!
+
+TFTC</li><li>2010-11-14T20:00:00Z : Found it by Laros98 <br />nah am wasser gebaut, nah am wasser gebaut. also es ist schon klar wo zu suchen ist, aber es wollte irgendwie nicht von uns gefunden werden. nach dreimal drumherum laufen dann der entscheidende blick in die alles entscheidende richtung...</li><li>2010-11-13T20:00:00Z : Found it by Bromtraube <br />Netter Cache. Danke</li><li>2010-10-31T19:00:00Z : Found it by DieMoosis <br />Mit der richtigen Idee klappte die Sache ganz flott.
+TFTC</li></ul></logs>
+  <original-xml>  <wpt  lat="50.544033" lon="9.661483">
+    <time>2008-07-19T07:00:00Z</time>
+    <name>GC1EB26</name>
+    <desc>Ein Micro für Maria by Anonyme_Laeufer, Traditional Cache (1/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=a5429e99-7396-445c-8c90-c21a1ac8d380</url>
+    <urlname>Ein Micro für Maria</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="940114" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Ein Micro für Maria</groundspeak:name>
+      <groundspeak:placed_by>Anonyme_Laeufer</groundspeak:placed_by>
+      <groundspeak:owner id="1648570">Anonyme_Laeufer</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">Einfacher Cache im Schatten Maria's</groundspeak:short_description>
+      <groundspeak:long_description html="False">Unser erster Micro liegt in einer Maria gewidmeten Umgebung. Geparkt werden kann direkt in der Nähe der Koordinaten.</groundspeak:long_description>
+      <groundspeak:encoded_hints>Nah am Wasser
+ 
+</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="138823041">
+          <groundspeak:date>2010-12-19T21:31:53Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3570484">Kamimieze</groundspeak:finder>
+          <groundspeak:text encoded="False">Bei kleinem Ausflug nach Fulda diesen schnell gefunden. Logbuch ist schon ziemlich voll. TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="137100600">
+          <groundspeak:date>2010-11-25T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1942538">yonex</groundspeak:finder>
+          <groundspeak:text encoded="False">Schöner Ort, hätte ich ohne Geocaching sicher nie gesehen!
+
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="135859913">
+          <groundspeak:date>2010-11-14T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2988114">Laros98</groundspeak:finder>
+          <groundspeak:text encoded="False">nah am wasser gebaut, nah am wasser gebaut. also es ist schon klar wo zu suchen ist, aber es wollte irgendwie nicht von uns gefunden werden. nach dreimal drumherum laufen dann der entscheidende blick in die alles entscheidende richtung...</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="136190574">
+          <groundspeak:date>2010-11-13T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3543550">Bromtraube</groundspeak:finder>
+          <groundspeak:text encoded="False">Netter Cache. Danke</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="134046389">
+          <groundspeak:date>2010-10-31T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2184097">DieMoosis</groundspeak:finder>
+          <groundspeak:text encoded="False">Mit der richtigen Idee klappte die Sache ganz flott.
+TFTC</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

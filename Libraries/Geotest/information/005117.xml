@@ -1,0 +1,102 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>005117</id>
+  <cache-id>GC1XPA6</cache-id>
+  <type>Traditional Cache</type>
+  <name>altes Hüttchen by ManuK, Traditional Cache (3/3.5)</name>
+  <size>Small</size>
+  <difficulty>3</difficulty>
+  <terrain>3.5</terrain>
+  <last-found>2010-10-11</last-found>
+  <placed>2009-08-24</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>ManuK</placedby>
+  <found>Geocache</found>
+  <lat>50.566103</lat>
+  <lon>9.715433</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>ManuK</owner>
+  <description>Hallo,
+diser Cache führt euch zu einer verfallenen Hütte am Marienküppel.
+Dieser Ort bietet eine wunderschöne Aussicht auf die Liobakirche und den Rauschenberg. Der Cache an sich ist nicht so schwer versteckt. Die Schwierigkeit hierbei liegt darin, die richtige Hütte zu finden.</description>
+  <long-description>
+      </long-description>
+  <encoded-hints>probiers mal von der anderen Seite;)</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=476eeb06-516f-434a-9c76-683f804f81a3</url>
+  <url-name>altes Hüttchen</url-name>
+  <logs><ul><li>2010-11-21T20:44:31Z : Found it by shaktimaan <br />Shaktimaan & the boys sagen: tftc
+Ps: vorsicht schafe</li><li>2010-10-31T19:00:00Z : Found it by Dr.Findseverything <br />Gut gefunden...
+T4TC</li><li>2010-10-17T19:00:00Z : Found it by Rhabarberohr <br />Nachdem ich das richtige Hüttchen entdeckt hatte,war der kleine nach einem schönen Spaziergang mit Muggel Moni und Stierwade schnell gefunden!
+TFTC Gruß Rhabarberohr</li><li>2010-10-17T19:00:00Z : Found it by Stierwade <br />bei wunderschönem Herbstwetter mit Rhabarberohr und Muggel Moni auch diese schöne Dose gefunden - haben zwar erst beim falschen Hüttchen gesucht.... aber dann einen ziemlich dornigen Zugang gefunden und schwups auch das Döschen.
+TFTC Gruß Stierwade</li><li>2010-10-11T19:00:00Z : Found it by awgully <br />Trotz Schafweide und Zaun gefunden.
+TFTC
+Awgully</li></ul></logs>
+  <original-xml>  <wpt  lat="50.566103" lon="9.715433">
+    <time>2009-08-24T07:00:00Z</time>
+    <name>GC1XPA6</name>
+    <desc>altes Hüttchen by ManuK, Traditional Cache (3/3.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=476eeb06-516f-434a-9c76-683f804f81a3</url>
+    <urlname>altes Hüttchen</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1368007" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>altes Hüttchen</groundspeak:name>
+      <groundspeak:placed_by>ManuK</groundspeak:placed_by>
+      <groundspeak:owner id="2321215">ManuK</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>3</groundspeak:difficulty>
+      <groundspeak:terrain>3.5</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">Hallo,
+diser Cache führt euch zu einer verfallenen Hütte am Marienküppel.
+Dieser Ort bietet eine wunderschöne Aussicht auf die Liobakirche und den Rauschenberg. Der Cache an sich ist nicht so schwer versteckt. Die Schwierigkeit hierbei liegt darin, die richtige Hütte zu finden.</groundspeak:short_description>
+      <groundspeak:long_description html="False">
+      </groundspeak:long_description>
+      <groundspeak:encoded_hints>probiers mal von der anderen Seite;)</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="136590195">
+          <groundspeak:date>2010-11-21T20:44:31Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="700750">shaktimaan</groundspeak:finder>
+          <groundspeak:text encoded="False">Shaktimaan &amp; the boys sagen: tftc
+Ps: vorsicht schafe</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="133906050">
+          <groundspeak:date>2010-10-31T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2741362">Dr.Findseverything</groundspeak:finder>
+          <groundspeak:text encoded="False">Gut gefunden...
+T4TC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="131868535">
+          <groundspeak:date>2010-10-17T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2874229">Rhabarberohr</groundspeak:finder>
+          <groundspeak:text encoded="False">Nachdem ich das richtige Hüttchen entdeckt hatte,war der kleine nach einem schönen Spaziergang mit Muggel Moni und Stierwade schnell gefunden!
+TFTC Gruß Rhabarberohr</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="131801405">
+          <groundspeak:date>2010-10-17T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2618790">Stierwade</groundspeak:finder>
+          <groundspeak:text encoded="False">bei wunderschönem Herbstwetter mit Rhabarberohr und Muggel Moni auch diese schöne Dose gefunden - haben zwar erst beim falschen Hüttchen gesucht.... aber dann einen ziemlich dornigen Zugang gefunden und schwups auch das Döschen.
+TFTC Gruß Stierwade</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="130859401">
+          <groundspeak:date>2010-10-11T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3861121">awgully</groundspeak:finder>
+          <groundspeak:text encoded="False">Trotz Schafweide und Zaun gefunden.
+TFTC
+Awgully</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

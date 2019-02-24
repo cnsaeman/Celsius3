@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>003088</id>
+  <cache-id>S1ZZG6</cache-id>
+  <type>Waypoint</type>
+  <name>Stage 1</name>
+  <placed>2007-05-03</placed>
+  <lat>53.61595</lat>
+  <lon>-6.1832</lon>
+  <attributes>hidden</attributes>
+  <description>note the number of open windows with ledges call this number A</description>
+  <url>http://www.geocaching.com/seek/wpt.aspx?WID=086223a6-b3c2-4eb6-b0a8-a3bff9b74545</url>
+  <url-name>Stage 1</url-name>
+</element>
+</celsiusv2.1.addinfofile>

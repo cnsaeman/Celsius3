@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>009268</id>
+  <cache-id>GC24574</cache-id>
+  <type>Traditional Cache</type>
+  <name>Mauras 30. by elless, Traditional Cache (3/2.5)</name>
+  <size>Not chosen</size>
+  <difficulty>3</difficulty>
+  <terrain>2.5</terrain>
+  <last-found>2010-09-22</last-found>
+  <placed>2010-02-21</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>elless</placedby>
+  <found>Geocache</found>
+  <lat>50.599767</lat>
+  <lon>9.649567</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>elless</owner>
+  <description>Nordoestlich des Neubaugebietes des wunderschoenen Oertchens Kaemmerzell liegt ein Areal mit extra angelegtem Baumbestand. Eine feste Unterkunft bietet das Versteck fuer den kleinen Cach.</description>
+  <long-description>
+      </long-description>
+  <encoded-hints>30-jaehrigem Jubilaeums Album von City</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=f1d8168f-83a4-44d3-88b6-4f7d7b29da7f</url>
+  <url-name>Mauras 30.</url-name>
+  <logs><ul><li>2010-10-10T19:00:00Z : Found it by LI*MO <br />Zusammen mit f.etcher und born to cache nach längerer Suche im Gras gefunden.
+
+TFTC</li><li>2010-10-10T19:00:00Z : Found it by born to cache <br />Zusammen mit f.etcher und LI*MO gesucht und gefunden. TFTC</li><li>2010-10-10T19:00:00Z : Found it by f.etcher <br />Nach Mauras memory auch diesen Tradi gefunden. Allerdings haben wir zu fünft ganz schön lange Suchen müssen. Der kleine war nämlich nicht mehr an dem wahrscheinlichen Versteckort, sondern lag unten in der Wiese rum. Daher war´s ne ganz schöne Sucherei... Wir haben den Cache wieder da versteckt, wo wir glauben, dass er hätte liegen müssen. TFTC</li><li>2010-09-25T19:00:00Z : Found it by Camuvlash <br />TFTC.</li><li>2010-09-22T19:00:00Z : Found it by Svegar <br />Ich hatte ihn glatt übersehen, aber auf Ivy69 ist Verlass.
+
+TFTC</li></ul></logs>
+  <original-xml>  <wpt  lat="50.599767" lon="9.649567">
+    <time>2010-02-21T08:00:00Z</time>
+    <name>GC24574</name>
+    <desc>Mauras 30. by elless, Traditional Cache (3/2.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=f1d8168f-83a4-44d3-88b6-4f7d7b29da7f</url>
+    <urlname>Mauras 30.</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1560112" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Mauras 30.</groundspeak:name>
+      <groundspeak:placed_by>elless</groundspeak:placed_by>
+      <groundspeak:owner id="2923688">elless</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Not chosen</groundspeak:container>
+      <groundspeak:difficulty>3</groundspeak:difficulty>
+      <groundspeak:terrain>2.5</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">Nordoestlich des Neubaugebietes des wunderschoenen Oertchens Kaemmerzell liegt ein Areal mit extra angelegtem Baumbestand. Eine feste Unterkunft bietet das Versteck fuer den kleinen Cach.</groundspeak:short_description>
+      <groundspeak:long_description html="False">
+      </groundspeak:long_description>
+      <groundspeak:encoded_hints>30-jaehrigem Jubilaeums Album von City</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="130816122">
+          <groundspeak:date>2010-10-10T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2583892">LI*MO</groundspeak:finder>
+          <groundspeak:text encoded="False">Zusammen mit f.etcher und born to cache nach längerer Suche im Gras gefunden.
+
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="130551025">
+          <groundspeak:date>2010-10-10T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3473620">born to cache</groundspeak:finder>
+          <groundspeak:text encoded="False">Zusammen mit f.etcher und LI*MO gesucht und gefunden. TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="130543152">
+          <groundspeak:date>2010-10-10T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1498819">f.etcher</groundspeak:finder>
+          <groundspeak:text encoded="False">Nach Mauras memory auch diesen Tradi gefunden. Allerdings haben wir zu fünft ganz schön lange Suchen müssen. Der kleine war nämlich nicht mehr an dem wahrscheinlichen Versteckort, sondern lag unten in der Wiese rum. Daher war´s ne ganz schöne Sucherei... Wir haben den Cache wieder da versteckt, wo wir glauben, dass er hätte liegen müssen. TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="128390159">
+          <groundspeak:date>2010-09-25T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2724623">Camuvlash</groundspeak:finder>
+          <groundspeak:text encoded="False">TFTC.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="128063071">
+          <groundspeak:date>2010-09-22T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3056833">Svegar</groundspeak:finder>
+          <groundspeak:text encoded="False">Ich hatte ihn glatt übersehen, aber auf Ivy69 ist Verlass.
+
+TFTC</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

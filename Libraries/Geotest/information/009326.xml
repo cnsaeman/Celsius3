@@ -1,0 +1,194 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>009326</id>
+  <cache-id>GC2GVW5</cache-id>
+  <type>Unknown Cache</type>
+  <name>Schönstadt by Limoel, Unknown Cache (2.5/2)</name>
+  <size>Small</size>
+  <difficulty>2.5</difficulty>
+  <terrain>2</terrain>
+  <last-found>2010-10-22</last-found>
+  <placed>2010-10-17</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Limoel</placedby>
+  <found>Geocache</found>
+  <lat>50.598033</lat>
+  <lon>9.761367</lon>
+  <last-logs>FWFFF</last-logs>
+  <owner>Limoel</owner>
+  <description>
+      </description>
+  <long-description><table width="100%" border="1" cellpadding="0" cellspacing="2">
+<tr>
+<td>
+<p align="center">&hellip;als du den Raum durch die Türe betrittst,
+siehst du in einem Meter Entfernung ein Lesepult stehen. Auf dem
+Lesepult befindet sich ein alter Pergamentfetzen. Hinter dem
+Lesepult steht ein Tisch mit 4 großen Behältern und 2
+Holzschüsseln. In der ersten Holzschüssel liegen 13 schwarze
+Kugeln. In der anderen Schüssel befinden sich 20 silberne Kugeln.
+Außerdem siehst du an der gegenüberliegenden Wand, dass eine
+flimmernde steinerne Tafel in die Wand eingelassen ist.<br />
+Du trittst näher an das Lesepult heran und beginnst das Pergament
+zu lesen&hellip;<br />
+<br />
+<img src=
+"http://img.geocaching.com/cache/61426dd9-98e3-4487-9082-70773574911a.jpg"
+alt="" border="0" width="430" height="490" /><br />
+Nachdem du Anhand des Rätsels die Kugeln in die Behälter verteilt
+hast, erscheint auf der steinernen Tafel an der Wand ein seltsamer
+Code ...<br />
+<br />
+<img src=
+"http://img.geocaching.com/cache/38453e7b-f6e3-4919-bcae-5d2f4f69979b.jpg"
+alt="" border="0" width="356" height="183" /><br />
+<br />
+... der Code kommt dir sofort bekannt vor, es handelt sich um
+Koordinaten. Sofort beschließt du den Raum zu verlassen und den
+Cache an der angegebenen Stelle zu suchen.</p>
+</td>
+</tr>
+</table>
+<br />
+Hinweise: Die oben angegebenen Koordinaten zeigen einen Parkplatz.
+Von dort aus ist der Cache bequem zu Fuß zu ereichen. Wenn man den
+Cache erreicht und die Umgebung beobachtet wird man auch den
+Cachenamen verstehen. Der Behälter ist groß genug um Coins und
+kleine TravelBugs aufzunehmen. Ein Bleistift liegt dem Behälter
+bei. Sonntags Nachmittags kann es hier zu Parkproblemen wegen
+Fußball kommen.
+<p>Deine Lösung für die Koordinaten dieses Rätsels kannst du auf
+geochecker.com überprüfen. <a href=
+"http://www.geochecker.com/index.php?code=93e34d2ce0b6cf5fad8954a374c9750a&action=check&wp=47433247565735&name=536368f66e7374616474&language=German">
+Geochecker.com</a>.</p></long-description>
+  <additional-waypoints>PK2GVW5 - GC2GVW5 Parking<br />N 50° 35.882 E 009° 45.682<br /><br /></additional-waypoints>
+  <links>waypoints:cache-id:PK2GVW5</links>
+  <encoded-hints>In einer Wurzel unter Moos - Siehe Spoilerfoto</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=282b4c84-130b-43c9-8a94-ec58647b19b4</url>
+  <url-name>Schönstadt</url-name>
+  <logs><ul><li>2010-11-20T20:00:00Z : Found it by digger09 <br />bei einer runde durch die vorderhön  gefunden
+dfdc</li><li>2010-11-20T20:00:00Z : Write note by Aldokyl <br />Ich wurde 50 m vor dem Cache von einer Treibjagd gestoppt.</li><li>2010-10-24T19:00:00Z : Found it by Uewaggle <br />Uuuaaah. Schon ein wenig unheimlich, dass hier mal ein Dorf war...und ein Grab ist auch noch da. Allerdings war keiner zu sehen, nur der Cache. TFTC #1005</li><li>2010-10-24T19:00:00Z : Found it by michael01 <br />Heute stand nur eine kleine Sonntag-Nachmittags-Tour mit dem Team Uewaggle auf dem Programm.
+Nachdem das Rätsel heute Mittag schnell gelöst werden konnte, wollten wir jetzt auch den dazugehörigen Cache finden.
+Dank Hint und Spoilerbild sind wir fündig geworden. Das GPS hat uns immer auf die falsche Seite geführt.
+
+Danke und viele Grüße
+Michael01
+#3192</li><li>2010-10-22T19:00:00Z : Found it by Dagosch <br />Schönen Dank für den quasi Homecache. Wäre für uns wahrscheinlich auch ohne Rätsel findbar gewesen!!!
+
+Ganz liebe Grüße an den Owner, bis demnächst mal wieder!
+
+Danke sagt Dagosch</li></ul></logs>
+  <original-xml>  <wpt  lat="50.598033" lon="9.761367">
+    <time>2010-10-17T07:00:00Z</time>
+    <name>GC2GVW5</name>
+    <desc>Schönstadt by Limoel, Unknown Cache (2.5/2)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=282b4c84-130b-43c9-8a94-ec58647b19b4</url>
+    <urlname>Schönstadt</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Unknown Cache</type>
+    <groundspeak:cache id="1938406" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Schönstadt</groundspeak:name>
+      <groundspeak:placed_by>Limoel</groundspeak:placed_by>
+      <groundspeak:owner id="2878802">Limoel</groundspeak:owner>
+      <groundspeak:type>Unknown Cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>2.5</groundspeak:difficulty>
+      <groundspeak:terrain>2</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="True">
+      </groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;table width="100%" border="1" cellpadding="0" cellspacing="2"&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;p align="center"&gt;&amp;hellip;als du den Raum durch die Türe betrittst,
+siehst du in einem Meter Entfernung ein Lesepult stehen. Auf dem
+Lesepult befindet sich ein alter Pergamentfetzen. Hinter dem
+Lesepult steht ein Tisch mit 4 großen Behältern und 2
+Holzschüsseln. In der ersten Holzschüssel liegen 13 schwarze
+Kugeln. In der anderen Schüssel befinden sich 20 silberne Kugeln.
+Außerdem siehst du an der gegenüberliegenden Wand, dass eine
+flimmernde steinerne Tafel in die Wand eingelassen ist.&lt;br /&gt;
+Du trittst näher an das Lesepult heran und beginnst das Pergament
+zu lesen&amp;hellip;&lt;br /&gt;
+&lt;br /&gt;
+&lt;img src=
+"http://img.geocaching.com/cache/61426dd9-98e3-4487-9082-70773574911a.jpg"
+alt="" border="0" width="430" height="490" /&gt;&lt;br /&gt;
+Nachdem du Anhand des Rätsels die Kugeln in die Behälter verteilt
+hast, erscheint auf der steinernen Tafel an der Wand ein seltsamer
+Code ...&lt;br /&gt;
+&lt;br /&gt;
+&lt;img src=
+"http://img.geocaching.com/cache/38453e7b-f6e3-4919-bcae-5d2f4f69979b.jpg"
+alt="" border="0" width="356" height="183" /&gt;&lt;br /&gt;
+&lt;br /&gt;
+... der Code kommt dir sofort bekannt vor, es handelt sich um
+Koordinaten. Sofort beschließt du den Raum zu verlassen und den
+Cache an der angegebenen Stelle zu suchen.&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+&lt;br /&gt;
+Hinweise: Die oben angegebenen Koordinaten zeigen einen Parkplatz.
+Von dort aus ist der Cache bequem zu Fuß zu ereichen. Wenn man den
+Cache erreicht und die Umgebung beobachtet wird man auch den
+Cachenamen verstehen. Der Behälter ist groß genug um Coins und
+kleine TravelBugs aufzunehmen. Ein Bleistift liegt dem Behälter
+bei. Sonntags Nachmittags kann es hier zu Parkproblemen wegen
+Fußball kommen.
+&lt;p&gt;Deine Lösung für die Koordinaten dieses Rätsels kannst du auf
+geochecker.com überprüfen. &lt;a href=
+"http://www.geochecker.com/index.php?code=93e34d2ce0b6cf5fad8954a374c9750a&amp;amp;action=check&amp;amp;wp=47433247565735&amp;amp;name=536368f66e7374616474&amp;amp;language=German"&gt;
+Geochecker.com&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;Additional Waypoints&lt;/p&gt;PK2GVW5 - GC2GVW5 Parking&lt;br /&gt;N 50° 35.882 E 009° 45.682&lt;br /&gt;&lt;br /&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>In einer Wurzel unter Moos - Siehe Spoilerfoto</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="136671132">
+          <groundspeak:date>2010-11-20T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3042502">digger09</groundspeak:finder>
+          <groundspeak:text encoded="False">bei einer runde durch die vorderhön  gefunden
+dfdc</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="136440956">
+          <groundspeak:date>2010-11-20T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Write note</groundspeak:type>
+          <groundspeak:finder id="438973">Aldokyl</groundspeak:finder>
+          <groundspeak:text encoded="False">Ich wurde 50 m vor dem Cache von einer Treibjagd gestoppt.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="133419687">
+          <groundspeak:date>2010-10-24T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2307524">Uewaggle</groundspeak:finder>
+          <groundspeak:text encoded="False">Uuuaaah. Schon ein wenig unheimlich, dass hier mal ein Dorf war...und ein Grab ist auch noch da. Allerdings war keiner zu sehen, nur der Cache. TFTC #1005</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="133222919">
+          <groundspeak:date>2010-10-24T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1225681">michael01</groundspeak:finder>
+          <groundspeak:text encoded="False">Heute stand nur eine kleine Sonntag-Nachmittags-Tour mit dem Team Uewaggle auf dem Programm.
+Nachdem das Rätsel heute Mittag schnell gelöst werden konnte, wollten wir jetzt auch den dazugehörigen Cache finden.
+Dank Hint und Spoilerbild sind wir fündig geworden. Das GPS hat uns immer auf die falsche Seite geführt.
+
+Danke und viele Grüße
+Michael01
+#3192</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="132525409">
+          <groundspeak:date>2010-10-22T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="374782">Dagosch</groundspeak:finder>
+          <groundspeak:text encoded="False">Schönen Dank für den quasi Homecache. Wäre für uns wahrscheinlich auch ohne Rätsel findbar gewesen!!!
+
+Ganz liebe Grüße an den Owner, bis demnächst mal wieder!
+
+Danke sagt Dagosch</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

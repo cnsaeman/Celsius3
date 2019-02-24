@@ -1,0 +1,123 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>001408</id>
+  <cache-id>GC1K42G</cache-id>
+  <type>Traditional Cache</type>
+  <name>neues TB Hotel A7 Richtung Nord by Ubx, Traditional Cache (1/2)</name>
+  <size>Small</size>
+  <difficulty>1</difficulty>
+  <terrain>2</terrain>
+  <last-found>2010-11-14</last-found>
+  <placed>2008-12-25</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Ubx</placedby>
+  <found>Geocache</found>
+  <lat>50.6225</lat>
+  <lon>9.67805</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>ubx</owner>
+  <description>neuestes TB Hotel A7 Richtung Nord</description>
+  <long-description>da das alte TB Hotel immer wieder feucht wurde und die Location den Anforderungen in Bezug auf Müll und Tretmienen nicht mehr entsprach , gibt es jetzt einen neuen Cache auf dem AB-Parkplatz Rothkopf. Jetzt neueste Location entfernt von Tretmienen. Achtung !!
+lauft nicht an der Autobahn lang , das gibt Stress mit der Polizei.
+Geht am Wildschutz-Zaun entlang hinter dem Gebüsch. Da sieht euch niemand !!!!! und ACHTUNG : nix für Kids , da der Final keine Leitplanke mehr hat. Der Cache liegt da , weil sich jeder über Tretmienen beschwert hat und da keine mehr liegen sollten !!!!!!!</long-description>
+  <encoded-hints>in einem Dreier-Baumstamm unter Wurzelstück</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=0b1dd4da-5631-4776-81b6-69e1a42e18f3</url>
+  <url-name>neues TB Hotel A7 Richtung Nord</url-name>
+  <logs><ul><li>2010-11-26T20:00:00Z : Found it by Team SlyFoxx <br />Da wäre ich gerne am Wildschutzzaun entlanggelaufen, aber davor war gerade ein Harvrester bin Baumfällarbeiten beschäftigt. Es wurde dort großflächig abgeholzt. Ich kam noch unbeobachtet zum Cache, aber wie es dort langfristig aussehen wird ist die Frage. Der Owner sollte dort zur  Sicherheit in Kürze mal eine Cachekontrolle machen.
+
+Danke und Gruß, [b][i][red] Team SlyFoxx[/b][/red]</li><li>2010-11-21T20:00:00Z : Found it by rojani <br />21.11.2010 17:19 Found: 
+Auf dem Rückweg  noch schnell einen Coin und einen TB hier gelassen, und einen TB mit auf die weitere Reise genommen.
+
+TFTC</li><li>2010-11-21T20:00:00Z : Found it by magicmike66 <br />13:40       #530
+
+Auf meiner Rückreise aus Fulda habe ich heute auch hier Halt gemacht und gesucht.
+So wird einem auf der langen Reise nicht langweilig.
+
+
+Vielen Dank für den Cache!!!!!</li><li>2010-11-15T20:00:00Z : Found it by Zaubi86 <br />schnell gefunden - endlich den TB plaziert
+
+TFTC</li><li>2010-11-14T20:00:00Z : Found it by Straßenjunge <br />schnell gefunden , aber kein Gast darin ... und weiter ...
+TFTC Straßenjunge</li></ul></logs>
+  <original-xml>  <wpt  lat="50.6225" lon="9.67805">
+    <time>2008-12-25T08:00:00Z</time>
+    <name>GC1K42G</name>
+    <desc>neues TB Hotel A7 Richtung Nord by Ubx, Traditional Cache (1/2)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=0b1dd4da-5631-4776-81b6-69e1a42e18f3</url>
+    <urlname>neues TB Hotel A7 Richtung Nord</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1082352" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>neues TB Hotel A7 Richtung Nord</groundspeak:name>
+      <groundspeak:placed_by>Ubx</groundspeak:placed_by>
+      <groundspeak:owner id="787613">ubx</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>2</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">neuestes TB Hotel A7 Richtung Nord</groundspeak:short_description>
+      <groundspeak:long_description html="False">da das alte TB Hotel immer wieder feucht wurde und die Location den Anforderungen in Bezug auf Müll und Tretmienen nicht mehr entsprach , gibt es jetzt einen neuen Cache auf dem AB-Parkplatz Rothkopf. Jetzt neueste Location entfernt von Tretmienen. Achtung !!
+lauft nicht an der Autobahn lang , das gibt Stress mit der Polizei.
+Geht am Wildschutz-Zaun entlang hinter dem Gebüsch. Da sieht euch niemand !!!!! und ACHTUNG : nix für Kids , da der Final keine Leitplanke mehr hat. Der Cache liegt da , weil sich jeder über Tretmienen beschwert hat und da keine mehr liegen sollten !!!!!!!</groundspeak:long_description>
+      <groundspeak:encoded_hints>in einem Dreier-Baumstamm unter Wurzelstück</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="138241536">
+          <groundspeak:date>2010-11-26T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2344023">Team SlyFoxx</groundspeak:finder>
+          <groundspeak:text encoded="False">Da wäre ich gerne am Wildschutzzaun entlanggelaufen, aber davor war gerade ein Harvrester bin Baumfällarbeiten beschäftigt. Es wurde dort großflächig abgeholzt. Ich kam noch unbeobachtet zum Cache, aber wie es dort langfristig aussehen wird ist die Frage. Der Owner sollte dort zur  Sicherheit in Kürze mal eine Cachekontrolle machen.
+
+Danke und Gruß, [b][i][red] Team SlyFoxx[/b][/red]</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="136708018">
+          <groundspeak:date>2010-11-21T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1877567">rojani</groundspeak:finder>
+          <groundspeak:text encoded="False">21.11.2010 17:19 Found: 
+Auf dem Rückweg  noch schnell einen Coin und einen TB hier gelassen, und einen TB mit auf die weitere Reise genommen.
+
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="136678602">
+          <groundspeak:date>2010-11-21T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1629844">magicmike66</groundspeak:finder>
+          <groundspeak:text encoded="False">13:40       #530
+
+Auf meiner Rückreise aus Fulda habe ich heute auch hier Halt gemacht und gesucht.
+So wird einem auf der langen Reise nicht langweilig.
+
+
+Vielen Dank für den Cache!!!!!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="136075235">
+          <groundspeak:date>2010-11-15T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2820346">Zaubi86</groundspeak:finder>
+          <groundspeak:text encoded="False">schnell gefunden - endlich den TB plaziert
+
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="135875872">
+          <groundspeak:date>2010-11-14T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2174147">Straßenjunge</groundspeak:finder>
+          <groundspeak:text encoded="False">schnell gefunden , aber kein Gast darin ... und weiter ...
+TFTC Straßenjunge</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs>
+        <groundspeak:travelbug id="2169950" ref="TB2RKTA">
+          <groundspeak:name>To the South</groundspeak:name>
+        </groundspeak:travelbug>
+        <groundspeak:travelbug id="3033423" ref="TB3PKA9">
+          <groundspeak:name>Travel the world - Flosse's 1200th Found</groundspeak:name>
+        </groundspeak:travelbug>
+      </groundspeak:travelbugs>
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

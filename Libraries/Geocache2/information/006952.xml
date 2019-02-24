@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>006952</id>
+  <cache-id>AA10VRM</cache-id>
+  <type>Waypoint</type>
+  <name>Boyd Memorial</name>
+  <placed>2007-02-09</placed>
+  <lat>53.299883</lat>
+  <lon>-6.124067</lon>
+  <attributes>hidden</attributes>
+  <description>The second stage</description>
+  <url>http://www.geocaching.com/seek/wpt.aspx?WID=fa584d32-fb3c-41d2-92f7-a516eb96ee2d</url>
+  <url-name>Boyd Memorial</url-name>
+</element>
+</celsiusv2.1.addinfofile>

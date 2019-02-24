@@ -1,0 +1,180 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>001712</id>
+  <cache-id>GC2CZ3T</cache-id>
+  <type>Multi-cache</type>
+  <name>Der Weg der Schlauchboote by Geostevens, Multi-cache (2/2.5)</name>
+  <size>Small</size>
+  <difficulty>2</difficulty>
+  <terrain>2.5</terrain>
+  <last-found>2010-08-18</last-found>
+  <placed>2010-08-06</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Geostevens</placedby>
+  <found>Geocache</found>
+  <lat>50.652033</lat>
+  <lon>9.601367</lon>
+  <last-logs>FMFFF</last-logs>
+  <owner>Geostevens</owner>
+  <description>Dieser Cache erzählt von einer (ausgedachten) Geschichte eines Mannes Namens
+Herbert Kleinbaum, der mit dem Schlauchboot über den Pfordter See fährt.
+Die Koords in der Cachebeschreibung und der Stage 1 sind dazu da, damit ihr seinen Weg verfolgen könnt. Es gibt eine Stage und ein Final.</description>
+  <long-description>Herbert Kleinbaum kaufte sich vor ein paar Jahren ein Schlauchboot. Er wollte es
+gleich am Pfordter See ausprobieren.  Er legt ab an der "Anlegestelle" bei 
+ N50°39.122
+E009°36.082
+ Das ist Stage1.
+Von dort aus fährt er durch den See, bis er beim bei Stage 1 angegebenen Ort
+strandet.
+Zum Glück geht das Schlauchboot nicht kaputt und er kann es an Land hiefen.
+Er presst die Luft aus dem Schlauchboot und bringt es nach Hause. Diese Geschichte ist nun zu Ende, auch wenn Herbert Kleinbaum noch viele Jahre weiterlebt.
+
+Viel Spaß beim Cachen 
+wünschen
+
+Geostevens
+
+*******************************************
+Hinweis:  Dieser einfache Multi lädt zum Schwimmen ein - erlaubt ist es bis zu den roten Bojen! 
+Achtung: erhöhte Angler-Muggel-Gefahr!
+*********************************************
+Für den FTF liegt ein netter kleiner Travel Bug bereit!!
+
+*********************************************
+P.S.: Noch ist Herberts Kleinbaum-Schlauchboot-Tour sehr übersichtlich. Dieser Schlauchboot-Multi wird erweitert, wenn der Tang um die Insel weniger dicht geworden ist. Bis dahin geht der Multi auch zu Fuß....
+
+Additional Waypoints
+FI2CZ3T - Kap Baum
+N/S  __ ° __ . ___ W/E ___ ° __ . ___ 
+Final am Kap Baum
+PA2CZ3T - Parkplatz
+N 50° 39.062 E 009° 36.065
+Parkplatz
+S12CZ3T - Anlegestelle
+N 50° 39.122 E 009° 36.082
+Anlegestelle
+</long-description>
+  <encoded-hints>[Cache]: Zu Fuß geht es auch!
+[Stage 1]: Baumstumpf,  von hinten ran
+</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=5791b342-0d46-474d-bdb0-57143fc4ca04</url>
+  <url-name>Der Weg der Schlauchboote</url-name>
+  <logs><ul><li>2010-10-06T19:00:00Z : Found it by naturfoto57 <br />Auch dieser kleine Multi konnte heute Morgen muggelfrei geloggt werden.
+naturfoto57</li><li>2010-09-26T19:00:00Z : Owner Maintenance by Geostevens <br />Stage 1 ausgetauscht. Die hat wohl einer gemuggelt. Es kann wieder gecacht/geloggt werden.</li><li>2010-08-18T19:00:00Z : Found it by SchnatterRinchen <br />Im bewährten Team konnte der heute endlich ohne Muggel geloggt werden.
+
+DFDC SchnatterRinchen</li><li>2010-08-18T19:00:00Z : Found it by El Commandante <br />Im bewährten Team hier vorbei gekommen. Das Döschen konnte gut gefunden werden.
+Danke für´s verstecken, herführen und zeigen.
+
+Viele Grüße sagt El Commandante</li><li>2010-08-18T19:00:00Z : Found it by Bengelchen <br />Genau, ich war auch mit vor Ort.
+Gott sei Dank war das Wetter heute nicht so berauschen, denn hier ist ansonsten ja ein Betrieb wie in Frankfurt auf der Zeil:surprise:!!
+Heute konnte gut und schnell geloggt werden.
+
+DFDC sagt Bengelchen.</li></ul></logs>
+  <original-xml>  <wpt  lat="50.652033" lon="9.601367">
+    <time>2010-08-06T07:00:00Z</time>
+    <name>GC2CZ3T</name>
+    <desc>Der Weg der Schlauchboote by Geostevens, Multi-cache (2/2.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=5791b342-0d46-474d-bdb0-57143fc4ca04</url>
+    <urlname>Der Weg der Schlauchboote</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Multi-cache</type>
+    <groundspeak:cache id="1822362" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Der Weg der Schlauchboote</groundspeak:name>
+      <groundspeak:placed_by>Geostevens</groundspeak:placed_by>
+      <groundspeak:owner id="2923580">Geostevens</groundspeak:owner>
+      <groundspeak:type>Multi-cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>2</groundspeak:difficulty>
+      <groundspeak:terrain>2.5</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">Dieser Cache erzählt von einer (ausgedachten) Geschichte eines Mannes Namens
+Herbert Kleinbaum, der mit dem Schlauchboot über den Pfordter See fährt.
+Die Koords in der Cachebeschreibung und der Stage 1 sind dazu da, damit ihr seinen Weg verfolgen könnt. Es gibt eine Stage und ein Final.</groundspeak:short_description>
+      <groundspeak:long_description html="False">Herbert Kleinbaum kaufte sich vor ein paar Jahren ein Schlauchboot. Er wollte es
+gleich am Pfordter See ausprobieren.  Er legt ab an der "Anlegestelle" bei 
+ N50°39.122
+E009°36.082
+ Das ist Stage1.
+Von dort aus fährt er durch den See, bis er beim bei Stage 1 angegebenen Ort
+strandet.
+Zum Glück geht das Schlauchboot nicht kaputt und er kann es an Land hiefen.
+Er presst die Luft aus dem Schlauchboot und bringt es nach Hause. Diese Geschichte ist nun zu Ende, auch wenn Herbert Kleinbaum noch viele Jahre weiterlebt.
+
+Viel Spaß beim Cachen 
+wünschen
+
+Geostevens
+
+*******************************************
+Hinweis:  Dieser einfache Multi lädt zum Schwimmen ein - erlaubt ist es bis zu den roten Bojen! 
+Achtung: erhöhte Angler-Muggel-Gefahr!
+*********************************************
+Für den FTF liegt ein netter kleiner Travel Bug bereit!!
+
+*********************************************
+P.S.: Noch ist Herberts Kleinbaum-Schlauchboot-Tour sehr übersichtlich. Dieser Schlauchboot-Multi wird erweitert, wenn der Tang um die Insel weniger dicht geworden ist. Bis dahin geht der Multi auch zu Fuß....
+
+Additional Waypoints
+FI2CZ3T - Kap Baum
+N/S  __ ° __ . ___ W/E ___ ° __ . ___ 
+Final am Kap Baum
+PA2CZ3T - Parkplatz
+N 50° 39.062 E 009° 36.065
+Parkplatz
+S12CZ3T - Anlegestelle
+N 50° 39.122 E 009° 36.082
+Anlegestelle
+</groundspeak:long_description>
+      <groundspeak:encoded_hints>[Cache]: Zu Fuß geht es auch!
+[Stage 1]: Baumstumpf,  von hinten ran
+</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="129970165">
+          <groundspeak:date>2010-10-06T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2107244">naturfoto57</groundspeak:finder>
+          <groundspeak:text encoded="False">Auch dieser kleine Multi konnte heute Morgen muggelfrei geloggt werden.
+naturfoto57</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="128508975">
+          <groundspeak:date>2010-09-26T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Owner Maintenance</groundspeak:type>
+          <groundspeak:finder id="2923580">Geostevens</groundspeak:finder>
+          <groundspeak:text encoded="False">Stage 1 ausgetauscht. Die hat wohl einer gemuggelt. Es kann wieder gecacht/geloggt werden.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="131300640">
+          <groundspeak:date>2010-08-18T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2311665">SchnatterRinchen</groundspeak:finder>
+          <groundspeak:text encoded="False">Im bewährten Team konnte der heute endlich ohne Muggel geloggt werden.
+
+DFDC SchnatterRinchen</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="127486564">
+          <groundspeak:date>2010-08-18T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2321617">El Commandante</groundspeak:finder>
+          <groundspeak:text encoded="False">Im bewährten Team hier vorbei gekommen. Das Döschen konnte gut gefunden werden.
+Danke für´s verstecken, herführen und zeigen.
+
+Viele Grüße sagt El Commandante</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="123445106">
+          <groundspeak:date>2010-08-18T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2311690">Bengelchen</groundspeak:finder>
+          <groundspeak:text encoded="False">Genau, ich war auch mit vor Ort.
+Gott sei Dank war das Wetter heute nicht so berauschen, denn hier ist ansonsten ja ein Betrieb wie in Frankfurt auf der Zeil:surprise:!!
+Heute konnte gut und schnell geloggt werden.
+
+DFDC sagt Bengelchen.</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

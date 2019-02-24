@@ -1,0 +1,136 @@
+<?xml version="1.0"?>
+<celsiusv2.1.configuration.plugins>
+<element>
+  <name>PluginUpdateCitationCount</name>
+</element>
+<element>
+  <name>PluginGetDOI</name>
+  <parameters>http://www-spires.dur.ac.uk/cgi-bin/spiface/</parameters>
+</element>
+<element>
+  <name>PluginLookAtIMDBTV</name>
+</element>
+<element>
+  <name>PluginStdLaTeX</name>
+</element>
+<element>
+  <name>PluginHeader</name>
+</element>
+<element>
+  <name>PluginLinksSpires</name>
+  <parameters>http://www-spires.dur.ac.uk/cgi-bin/spiface/</parameters>
+</element>
+<element>
+  <name>PluginRepairPDF</name>
+</element>
+<element>
+  <name>PluginListOfPublications</name>
+</element>
+<element>
+  <name>PluginFileNameAudio</name>
+</element>
+<element>
+  <name>PluginConvertps2pdf</name>
+</element>
+<element>
+  <name>PluginHeaderAudio</name>
+</element>
+<element>
+  <name>PluginArXiv</name>
+</element>
+<element>
+  <name>PluginPDFHeader</name>
+</element>
+<element>
+  <name>PluginUpdateCompleteRecent</name>
+  <parameters>http://inspirebeta.net/</parameters>
+</element>
+<element>
+  <name>PluginIMSLP</name>
+</element>
+<element>
+  <name>PluginFileNameTV</name>
+</element>
+<element>
+  <name>PluginBarcode</name>
+</element>
+<element>
+  <name>PluginUpdateInspire</name>
+</element>
+<element>
+  <name>PluginGetFromInspire</name>
+</element>
+<element>
+  <name>PluginLookAtSpires</name>
+  <parameters>http://www-spires.dur.ac.uk/cgi-bin/spiface/</parameters>
+</element>
+<element>
+  <name>PluginCreateThumb</name>
+</element>
+<element>
+  <name>PluginPhilSci</name>
+</element>
+<element>
+  <name>PluginAmazon</name>
+</element>
+<element>
+  <name>PluginFileName</name>
+</element>
+<element>
+  <name>PluginBibTeX</name>
+</element>
+<element>
+  <name>PluginJSTOR</name>
+</element>
+<element>
+  <name>PluginSpires</name>
+  <parameters>http://www-spires.dur.ac.uk/cgi-bin/spiface/</parameters>
+</element>
+<element>
+  <name>PluginPDFStamper</name>
+</element>
+<element>
+  <name>PluginUpdateComplete</name>
+  <parameters>http://inspirebeta.net/</parameters>
+</element>
+<element>
+  <name>PluginGPX</name>
+</element>
+<element>
+  <name>PluginLookAtAdsAbs</name>
+</element>
+<element>
+  <name>PluginSimple</name>
+</element>
+<element>
+  <name>PluginAdjustType</name>
+</element>
+<element>
+  <name>PluginExtLaTeX</name>
+</element>
+<element>
+  <name>PluginLookAtInspire</name>
+</element>
+<element>
+  <name>PluginListOfPublicationsWeb</name>
+</element>
+<element>
+  <name>PluginCropPDF</name>
+  <parameters>/media/disk/database/media/books</parameters>
+</element>
+<element>
+  <name>PluginWAR</name>
+</element>
+<element>
+  <name>PluginTVShow</name>
+</element>
+<element>
+  <name>PluginEnumerate</name>
+</element>
+<element>
+  <name>PluginLookAtIMDB</name>
+</element>
+<element>
+  <name>PluginSetIdentifier</name>
+</element>
+</celsiusv2.1.configuration.plugins>

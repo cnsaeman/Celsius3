@@ -1,0 +1,114 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>007584</id>
+  <cache-id>GC1MDAD</cache-id>
+  <type>Traditional Cache</type>
+  <name>Sidetracked-Leixlip Louisa Bridge by Kili or Bust, Traditional Cache (1/1.5)</name>
+  <size>Micro</size>
+  <difficulty>1</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-04-20</last-found>
+  <placed>2009-02-05</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>Kili or Bust</placedby>
+  <found>Geocache</found>
+  <lat>53.369667</lat>
+  <lon>-6.5066</lon>
+  <last-logs>FFXFF</last-logs>
+  <owner>Kili or bust</owner>
+  <description>
+      </description>
+  <long-description>Sidetracked-Leixlip Louisa Bridge.
+
+Intended to be an easy cache and dash. Micro magnetic. This cache is in the car parking or turning area. There is no need to enter the station proper or access any platforms
+
+
+Leixlip Louisa Bridge is a railway station in Leixlip, County Kildare, Ireland. Originally named Louisa Bridge & Leixlip when it opened on 1 September 1848[1], the station was known simply as Leixlip from 1851[citation needed] until the opening of Leixlip Confey railway station in 1990. Both modern stations lie on the Dublin to Longford commuter route[1].
+
+The station was upgraded to two platforms as part of the Western Commuter upgrade project in the early 2000s. At the same time it was reconstructed to be disability friendly. It is one of the very few stations in the Iarnród Éireann network in which the station building is located directly over the platforms, on a bridge (the modern Dun Laoghaire railway station also follows this design). A previous station building is now a dwelling house.</long-description>
+  <encoded-hints>Black upright behind shed</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=4fa550c4-ee0c-4c6e-aa94-9e174bed9cd5</url>
+  <url-name>Sidetracked-Leixlip Louisa Bridge</url-name>
+  <logs><ul><li>2010-06-14T19:00:00Z : Found it by RosMcC <br />Quick find with no problems. SL thanks</li><li>2010-06-04T19:00:00Z : Found it by Antefix <br />Plenty of parkinglots nearby, a few steps and a short search. Thank you and regards from Switzerland</li><li>2010-05-28T19:00:00Z : Didn't find it by tmob <br />We looked for this cache during our holidays in Ireland.
+Six fantastic days, 1800kms driven, and a bunch of caches found.
+Definitely a great way to get to know this beautiful island!
+
+We had to kill some time, before heading to the airport; so we decided to look for some cache on the way. Failed at this one.
+
+Thanks for this one...
+Greetings from Portugal</li><li>2010-05-11T19:00:00Z : Found it by jdunne17 <br />:)</li><li>2010-04-20T19:00:00Z : Found it by ronalds_2 <br />18:26 TFTC easy find with hint[:D]</li></ul></logs>
+  <original-xml>  <wpt  lat="53.369667" lon="-6.5066">
+    <time>2009-02-05T08:00:00Z</time>
+    <name>GC1MDAD</name>
+    <desc>Sidetracked-Leixlip Louisa Bridge by Kili or Bust, Traditional Cache (1/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=4fa550c4-ee0c-4c6e-aa94-9e174bed9cd5</url>
+    <urlname>Sidetracked-Leixlip Louisa Bridge</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1121037" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Sidetracked-Leixlip Louisa Bridge</groundspeak:name>
+      <groundspeak:placed_by>Kili or Bust</groundspeak:placed_by>
+      <groundspeak:owner id="281705">Kili or bust</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>Leinster</groundspeak:state>
+      <groundspeak:short_description html="False">
+      </groundspeak:short_description>
+      <groundspeak:long_description html="False">Sidetracked-Leixlip Louisa Bridge.
+
+Intended to be an easy cache and dash. Micro magnetic. This cache is in the car parking or turning area. There is no need to enter the station proper or access any platforms
+
+
+Leixlip Louisa Bridge is a railway station in Leixlip, County Kildare, Ireland. Originally named Louisa Bridge &amp; Leixlip when it opened on 1 September 1848[1], the station was known simply as Leixlip from 1851[citation needed] until the opening of Leixlip Confey railway station in 1990. Both modern stations lie on the Dublin to Longford commuter route[1].
+
+The station was upgraded to two platforms as part of the Western Commuter upgrade project in the early 2000s. At the same time it was reconstructed to be disability friendly. It is one of the very few stations in the Iarnród Éireann network in which the station building is located directly over the platforms, on a bridge (the modern Dun Laoghaire railway station also follows this design). A previous station building is now a dwelling house.</groundspeak:long_description>
+      <groundspeak:encoded_hints>Black upright behind shed</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="112987432">
+          <groundspeak:date>2010-06-14T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="774796">RosMcC</groundspeak:finder>
+          <groundspeak:text encoded="False">Quick find with no problems. SL thanks</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="113114288">
+          <groundspeak:date>2010-06-04T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="886457">Antefix</groundspeak:finder>
+          <groundspeak:text encoded="False">Plenty of parkinglots nearby, a few steps and a short search. Thank you and regards from Switzerland</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="112200268">
+          <groundspeak:date>2010-05-28T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Didn't find it</groundspeak:type>
+          <groundspeak:finder id="868022">tmob</groundspeak:finder>
+          <groundspeak:text encoded="False">We looked for this cache during our holidays in Ireland.
+Six fantastic days, 1800kms driven, and a bunch of caches found.
+Definitely a great way to get to know this beautiful island!
+
+We had to kill some time, before heading to the airport; so we decided to look for some cache on the way. Failed at this one.
+
+Thanks for this one...
+Greetings from Portugal</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="108018359">
+          <groundspeak:date>2010-05-11T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3250084">jdunne17</groundspeak:finder>
+          <groundspeak:text encoded="False">:)</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="105448819">
+          <groundspeak:date>2010-04-20T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2392131">ronalds_2</groundspeak:finder>
+          <groundspeak:text encoded="False">18:26 TFTC easy find with hint[:D]</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

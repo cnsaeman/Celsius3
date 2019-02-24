@@ -1,0 +1,228 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>001915</id>
+  <cache-id>GC1J95Y</cache-id>
+  <type>Traditional Cache</type>
+  <name>Ard Rí by AbbeyAckbar, Traditional Cache (1/1.5)</name>
+  <size>Micro</size>
+  <difficulty>1</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2009-04-20</last-found>
+  <placed>2008-11-19</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>AbbeyAckbar</placedby>
+  <found>Geocache Found</found>
+  <lat>53.36355</lat>
+  <lon>-6.206017</lon>
+  <last-logs>FFFFFF</last-logs>
+  <owner>AbbeyAckbar</owner>
+  <description><center><b><font size="4">Ard Rí</font></b></center>
+<br />
+<center>
+<img src="http://img.geocaching.com/cache/52a35e4b-d055-4173-a43d-fc1323391b0e.jpg"
+     alt="Brian Boru" /></center></description>
+  <long-description><p>Clontarf became a significant location in Irish History, more
+than a century before Clontarf castle was built.<br />
+ Brian Boru, the Ard Rí (High King) of Ireland, and the famous
+Battle of Clontarf, on Good Friday, 23rd April 1014, will always be
+associated with the Clontarf area.</p>
+<p>It all began when Mael Morda, King of Leinster, began to plot
+against Brian Boru.<br />
+ Mael Morda made an alliance with Sitric, the Viking King of
+Dublin, who was assisted by the Vikings of the Orkney Islands and
+the Isle of Man.<br />
+ Brian Boru marched against them and the great battle was fought at
+Clontarf.</p>
+<p>It ended in victory for Boru's army. However, on the night of
+the victory, Boru was praying in his tent, surrounded by five men,
+who were guarding him.<br />
+ A small group of Vikings, who were retreating from the battle
+through a wooded area, close to the site of what is now Clontarf
+Castle, came across the guarded tent.<br />
+ Realising who was being protected; they killed all five guards and
+went on to kill Brian Boru.</p>
+<center>____________________________________________</center>
+<center><b><font size="4">Clontarf Castle</font></b></center>
+<br />
+<br />
+ 
+<center>
+<img src="http://img.geocaching.com/cache/5efa5cfd-3e59-4eb4-b1ea-5d0c629f7fd1.jpg"
+     alt="Clontarf Castle" /></center>
+<p>In 1172 Hugh de Lacy built the castle as an inner circle of
+defence sites protecting Dublin.</p>
+<p>In 1835 the original building was unsafe, the problem being
+sinking foundations and it was demolished & rebuilt by
+1837.</p>
+<p><b>Recent History :</b></p>
+<p>By the 1960's, the castle was owned by the Regans, who extended
+the Castle to cater for the wedding trade and growing cabaret
+trade, which was run throughout the year.<br />
+ In 1972, Gerry and Carmel Houlihan bought the castle and ran it as
+one of Ireland's best cabaret venues until April 1997, when the
+last cabaret show was staged.</p>
+<p>The Castle was closed from June 1997 and reopened in June 1998,
+as the hotel you see today.</p>
+<center>____________________________________________</center>
+<p>The cache is a small camoed pill bottle container<br />
+ which contains a logbook, pencil, lucky 1c<br />
+ & an FTF prize of an 'Evil Micros 2007 - Love 2 hate 'em! Hate
+2 love 'em!' badge</p></long-description>
+  <encoded-hints>
+      </encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=cd417dc8-4eb9-4cf2-ac6b-89bbe3076f82</url>
+  <url-name>Ard Rí</url-name>
+  <logs><ul><li>2010-06-05T19:00:00Z : Found it by eve1987 <br />Quick find and a cool castle :)
+
+Does anybody live in there?
+
+TFTC, eve</li><li>2010-06-05T19:00:00Z : Found it by GudrunXY <br />Found with eve1987 on our caching tour through Ireland.
+At the second attempt it was quite easy.
+TFTC, GudrunXY</li><li>2010-05-25T19:00:00Z : Found it by tmob <br />#2403
+
+We looked for this cache during our holidays in Ireland.
+Six fantastic days, 1800kms driven, and a bunch of caches found.
+Definitely a great way to get to know this beautiful island!
+
+We passed nearby and decided to stop to visit the [i]High King[/i]'s castle.
+
+Thanks for this one...
+Greetings from Portugal</li><li>2010-05-12T19:00:00Z : Found it by B&B04 <br />A quick found.
+Thanks for the micro.</li><li>2010-05-09T19:00:00Z : Found it by salt'n'light <br />Passed the late Gerry Ryan's home on the way here.
+He will be missed.
+TFTC</li><li>2009-04-20T19:00:00Z : Found it by Kersti.com <br />I love this place - absolutely beautiful, well done in terms of modernisation. The only let down is the pathetic information sheet they give about it's history. Cache was easily found. TFTC</li></ul></logs>
+  <original-xml>  <wpt  lat="53.36355" lon="-6.206017">
+    <time>2008-11-19T08:00:00Z</time>
+    <name>GC1J95Y</name>
+    <desc>Ard Rí by AbbeyAckbar, Traditional Cache (1/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=cd417dc8-4eb9-4cf2-ac6b-89bbe3076f82</url>
+    <urlname>Ard Rí</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1057472" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Ard Rí</groundspeak:name>
+      <groundspeak:placed_by>AbbeyAckbar</groundspeak:placed_by>
+      <groundspeak:owner id="1265839">AbbeyAckbar</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>Dublin</groundspeak:state>
+      <groundspeak:short_description html="True">&lt;center&gt;&lt;b&gt;&lt;font size="4"&gt;Ard Rí&lt;/font&gt;&lt;/b&gt;&lt;/center&gt;
+&lt;br /&gt;
+&lt;center&gt;
+&lt;img src="http://img.geocaching.com/cache/52a35e4b-d055-4173-a43d-fc1323391b0e.jpg"
+     alt="Brian Boru" /&gt;&lt;/center&gt;</groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;p&gt;Clontarf became a significant location in Irish History, more
+than a century before Clontarf castle was built.&lt;br /&gt;
+ Brian Boru, the Ard Rí (High King) of Ireland, and the famous
+Battle of Clontarf, on Good Friday, 23rd April 1014, will always be
+associated with the Clontarf area.&lt;/p&gt;
+&lt;p&gt;It all began when Mael Morda, King of Leinster, began to plot
+against Brian Boru.&lt;br /&gt;
+ Mael Morda made an alliance with Sitric, the Viking King of
+Dublin, who was assisted by the Vikings of the Orkney Islands and
+the Isle of Man.&lt;br /&gt;
+ Brian Boru marched against them and the great battle was fought at
+Clontarf.&lt;/p&gt;
+&lt;p&gt;It ended in victory for Boru's army. However, on the night of
+the victory, Boru was praying in his tent, surrounded by five men,
+who were guarding him.&lt;br /&gt;
+ A small group of Vikings, who were retreating from the battle
+through a wooded area, close to the site of what is now Clontarf
+Castle, came across the guarded tent.&lt;br /&gt;
+ Realising who was being protected; they killed all five guards and
+went on to kill Brian Boru.&lt;/p&gt;
+&lt;center&gt;____________________________________________&lt;/center&gt;
+&lt;center&gt;&lt;b&gt;&lt;font size="4"&gt;Clontarf Castle&lt;/font&gt;&lt;/b&gt;&lt;/center&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+ 
+&lt;center&gt;
+&lt;img src="http://img.geocaching.com/cache/5efa5cfd-3e59-4eb4-b1ea-5d0c629f7fd1.jpg"
+     alt="Clontarf Castle" /&gt;&lt;/center&gt;
+&lt;p&gt;In 1172 Hugh de Lacy built the castle as an inner circle of
+defence sites protecting Dublin.&lt;/p&gt;
+&lt;p&gt;In 1835 the original building was unsafe, the problem being
+sinking foundations and it was demolished &amp;amp; rebuilt by
+1837.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Recent History :&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;By the 1960's, the castle was owned by the Regans, who extended
+the Castle to cater for the wedding trade and growing cabaret
+trade, which was run throughout the year.&lt;br /&gt;
+ In 1972, Gerry and Carmel Houlihan bought the castle and ran it as
+one of Ireland's best cabaret venues until April 1997, when the
+last cabaret show was staged.&lt;/p&gt;
+&lt;p&gt;The Castle was closed from June 1997 and reopened in June 1998,
+as the hotel you see today.&lt;/p&gt;
+&lt;center&gt;____________________________________________&lt;/center&gt;
+&lt;p&gt;The cache is a small camoed pill bottle container&lt;br /&gt;
+ which contains a logbook, pencil, lucky 1c&lt;br /&gt;
+ &amp;amp; an FTF prize of an 'Evil Micros 2007 - Love 2 hate 'em! Hate
+2 love 'em!' badge&lt;/p&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="111885987">
+          <groundspeak:date>2010-06-05T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1617792">eve1987</groundspeak:finder>
+          <groundspeak:text encoded="False">Quick find and a cool castle :)
+
+Does anybody live in there?
+
+TFTC, eve</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="111863666">
+          <groundspeak:date>2010-06-05T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2694097">GudrunXY</groundspeak:finder>
+          <groundspeak:text encoded="False">Found with eve1987 on our caching tour through Ireland.
+At the second attempt it was quite easy.
+TFTC, GudrunXY</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="111496391">
+          <groundspeak:date>2010-05-25T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="868022">tmob</groundspeak:finder>
+          <groundspeak:text encoded="False">#2403
+
+We looked for this cache during our holidays in Ireland.
+Six fantastic days, 1800kms driven, and a bunch of caches found.
+Definitely a great way to get to know this beautiful island!
+
+We passed nearby and decided to stop to visit the [i]High King[/i]'s castle.
+
+Thanks for this one...
+Greetings from Portugal</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="109173656">
+          <groundspeak:date>2010-05-12T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="727747">B&amp;B04</groundspeak:finder>
+          <groundspeak:text encoded="False">A quick found.
+Thanks for the micro.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="108002856">
+          <groundspeak:date>2010-05-09T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2812617">salt'n'light</groundspeak:finder>
+          <groundspeak:text encoded="False">Passed the late Gerry Ryan's home on the way here.
+He will be missed.
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="68483626">
+          <groundspeak:date>2009-04-20T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="320206">Kersti.com</groundspeak:finder>
+          <groundspeak:text encoded="False">I love this place - absolutely beautiful, well done in terms of modernisation. The only let down is the pathetic information sheet they give about it's history. Cache was easily found. TFTC</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

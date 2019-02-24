@@ -1,0 +1,119 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>002820</id>
+  <cache-id>GC11FRP</cache-id>
+  <type>Traditional Cache</type>
+  <name>C is for Cemetery by Hezekiah, Traditional Cache (1/1)</name>
+  <size>Small</size>
+  <difficulty>1</difficulty>
+  <terrain>1</terrain>
+  <last-found>2010-05-08</last-found>
+  <placed>2007-03-16</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>Hezekiah</placedby>
+  <found>Geocache</found>
+  <lat>53.235183</lat>
+  <lon>-6.202283</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>Hezekiah</owner>
+  <description><p align="center"><a target="_blank" href=
+   "http://www.geocachingireland.com/index.html"><img border="0"
+   src=
+   "http://img.geocaching.com/cache/2280ab19-c5fc-4d33-8efb-797df9c0ac8c.jpg"
+     width="150" height="43" align="middle"></a></p>
+<hr size="2">
+<center><font color="Green">Visit the <b>new</b> Geocaching Ireland
+discussion forum <a rel="nofollow" href=
+"http://www.mccartan.org/forums/" target=
+"_blank">HERE</a></font></center>
+<hr size="2"></description>
+  <long-description>Another old burial ground which is becoming engulfed by the sprawl
+of development around Dublin - there is parking for 1vehicle in a
+nearby field gateway.</long-description>
+  <encoded-hints>Well now, let's see.............. what sort of tree do you get in a cemetery.....?</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=e68eadf5-77c0-4e45-953f-b2171aa92273</url>
+  <url-name>C is for Cemetery</url-name>
+  <logs><ul><li>2010-06-13T19:00:00Z : Found it by BlueFoxPL <br />Another great day for caching... found with some friends. TFTC.</li><li>2010-06-13T19:00:00Z : Found it by colmyster <br />Got even wetter finding this cache after Black Eddie. TFTC</li><li>2010-06-13T19:00:00Z : Found it by Wicca Cailín <br />TNLN, thanks for the cache. </li><li>2010-06-13T19:00:00Z : Found it by EIMHK <br />Found it - waited for the rain to stop then we walked to the cemetary, thanks for taking us here TFTC.
+
+Out: TB</li><li>2010-05-08T19:00:00Z : Found it by fmurphy <br />Can't remember exact date I found this one, but just noticed that I hadn't logged it. 
+Sorry - I have an excuse - 7 month old twin babies, so sleep deprivation whch causes memory loss :)</li></ul></logs>
+  <original-xml>  <wpt  lat="53.235183" lon="-6.202283">
+    <time>2007-03-16T07:00:00Z</time>
+    <name>GC11FRP</name>
+    <desc>C is for Cemetery by Hezekiah, Traditional Cache (1/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=e68eadf5-77c0-4e45-953f-b2171aa92273</url>
+    <urlname>C is for Cemetery</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="557373" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>C is for Cemetery</groundspeak:name>
+      <groundspeak:placed_by>Hezekiah</groundspeak:placed_by>
+      <groundspeak:owner id="274644">Hezekiah</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>
+      </groundspeak:state>
+      <groundspeak:short_description html="True">&lt;p align="center"&gt;&lt;a target="_blank" href=
+   "http://www.geocachingireland.com/index.html"&gt;&lt;img border="0"
+   src=
+   "http://img.geocaching.com/cache/2280ab19-c5fc-4d33-8efb-797df9c0ac8c.jpg"
+     width="150" height="43" align="middle"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;hr size="2"&gt;
+&lt;center&gt;&lt;font color="Green"&gt;Visit the &lt;b&gt;new&lt;/b&gt; Geocaching Ireland
+discussion forum &lt;a rel="nofollow" href=
+"http://www.mccartan.org/forums/" target=
+"_blank"&gt;HERE&lt;/a&gt;&lt;/font&gt;&lt;/center&gt;
+&lt;hr size="2"&gt;</groundspeak:short_description>
+      <groundspeak:long_description html="True">Another old burial ground which is becoming engulfed by the sprawl
+of development around Dublin - there is parking for 1vehicle in a
+nearby field gateway.</groundspeak:long_description>
+      <groundspeak:encoded_hints>Well now, let's see.............. what sort of tree do you get in a cemetery.....?</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="113119089">
+          <groundspeak:date>2010-06-13T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3361446">BlueFoxPL</groundspeak:finder>
+          <groundspeak:text encoded="False">Another great day for caching... found with some friends. TFTC.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="112777595">
+          <groundspeak:date>2010-06-13T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1495386">colmyster</groundspeak:finder>
+          <groundspeak:text encoded="False">Got even wetter finding this cache after Black Eddie. TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="112766554">
+          <groundspeak:date>2010-06-13T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3215858">Wicca Cailín</groundspeak:finder>
+          <groundspeak:text encoded="False">TNLN, thanks for the cache. </groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="112677970">
+          <groundspeak:date>2010-06-13T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2557273">EIMHK</groundspeak:finder>
+          <groundspeak:text encoded="False">Found it - waited for the rain to stop then we walked to the cemetary, thanks for taking us here TFTC.
+
+Out: TB</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="111475460">
+          <groundspeak:date>2010-05-08T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3006298">fmurphy</groundspeak:finder>
+          <groundspeak:text encoded="False">Can't remember exact date I found this one, but just noticed that I hadn't logged it. 
+Sorry - I have an excuse - 7 month old twin babies, so sleep deprivation whch causes memory loss :)</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs>
+        <groundspeak:travelbug id="568359" ref="TB11W73">
+          <groundspeak:name>Bizzle's Riff</groundspeak:name>
+        </groundspeak:travelbug>
+      </groundspeak:travelbugs>
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

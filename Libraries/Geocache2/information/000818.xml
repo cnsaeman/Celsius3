@@ -1,0 +1,110 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>000818</id>
+  <cache-id>GC1M7E8</cache-id>
+  <type>Traditional Cache</type>
+  <name>Sidetracked-Clonsilla by Kili or Bust, Traditional Cache (1/1)</name>
+  <size>Micro</size>
+  <difficulty>1</difficulty>
+  <terrain>1</terrain>
+  <last-found>2009-09-13</last-found>
+  <placed>2009-02-05</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>Kili or Bust</placedby>
+  <found>Geocache Found</found>
+  <lat>53.383033</lat>
+  <lon>-6.422833</lon>
+  <last-logs>FFFFFF</last-logs>
+  <owner>Kili or bust</owner>
+  <description>
+      </description>
+  <long-description>Sidetracked-Clonsilla
+
+Nice easy magnetic. There is no need to enter the station proper or access any platforms.
+
+You are now just about at the western city limits. Newer commuter stations are planned for the outer areas but for now this is the edge of the suburbia. The pleasant Royal Canal Way walk continues its western route toward the Shannon and becomes much more beautifully rural heading into Co Kildare.</long-description>
+  <encoded-hints>Corner of building, low.</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=62411cfb-af17-461f-ae50-3febc868b2f8</url>
+  <url-name>Sidetracked-Clonsilla</url-name>
+  <logs><ul><li>2010-06-14T19:00:00Z : Found it by RosMcC <br />Two workmen in a white van were parked right beside the cache. They were engrossed in newspapers, so I got to the cache quickly and took it off to one side to sign the log. When I came back to replace the cache, both men were out of the van and chatting right where I needed to be. I hung about trying to look innocent for five minutes, then finally decided I just looked suspicious, and went over to talk to them. They had never heard of geocaching, so I enlightened them - and they were fascinated ( I think! ). I told them I'd have to kill them if they ever told anyone where this little cache is - I think they were sufficiently terrified to keep the secret! SL Thanks.
+
+</li><li>2010-06-12T19:00:00Z : Found it by nisse_perlemo <br />Nice and easy! 
+TFTC!</li><li>2010-06-04T19:00:00Z : Found it by Antefix <br />A very short stop at the station before we started a nice stroll along the royal canal. Thanks for the cache and regards from Switzerland</li><li>2010-05-18T19:00:00Z : Found it by dragonfamily666 <br />quick and easy cache which was nice after a few DNF.
+TFTC</li><li>2010-05-04T19:00:00Z : Found it by Drea-Popa <br />After waiting for two trains to pass we found a parking space on the other side of the river. We almost hit a bus as there were a lot of cars waiting to pass the tracks.
+Thanks for this cache.</li><li>2009-09-13T19:00:00Z : Found it by Kersti.com <br />A glorious day for caching. Quick find. TFTC</li></ul></logs>
+  <original-xml>  <wpt  lat="53.383033" lon="-6.422833">
+    <time>2009-02-05T08:00:00Z</time>
+    <name>GC1M7E8</name>
+    <desc>Sidetracked-Clonsilla by Kili or Bust, Traditional Cache (1/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=62411cfb-af17-461f-ae50-3febc868b2f8</url>
+    <urlname>Sidetracked-Clonsilla</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1115390" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Sidetracked-Clonsilla</groundspeak:name>
+      <groundspeak:placed_by>Kili or Bust</groundspeak:placed_by>
+      <groundspeak:owner id="281705">Kili or bust</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>Dublin</groundspeak:state>
+      <groundspeak:short_description html="False">
+      </groundspeak:short_description>
+      <groundspeak:long_description html="False">Sidetracked-Clonsilla
+
+Nice easy magnetic. There is no need to enter the station proper or access any platforms.
+
+You are now just about at the western city limits. Newer commuter stations are planned for the outer areas but for now this is the edge of the suburbia. The pleasant Royal Canal Way walk continues its western route toward the Shannon and becomes much more beautifully rural heading into Co Kildare.</groundspeak:long_description>
+      <groundspeak:encoded_hints>Corner of building, low.</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="112988363">
+          <groundspeak:date>2010-06-14T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="774796">RosMcC</groundspeak:finder>
+          <groundspeak:text encoded="False">Two workmen in a white van were parked right beside the cache. They were engrossed in newspapers, so I got to the cache quickly and took it off to one side to sign the log. When I came back to replace the cache, both men were out of the van and chatting right where I needed to be. I hung about trying to look innocent for five minutes, then finally decided I just looked suspicious, and went over to talk to them. They had never heard of geocaching, so I enlightened them - and they were fascinated ( I think! ). I told them I'd have to kill them if they ever told anyone where this little cache is - I think they were sufficiently terrified to keep the secret! SL Thanks.
+
+</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="112541967">
+          <groundspeak:date>2010-06-12T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2334345">nisse_perlemo</groundspeak:finder>
+          <groundspeak:text encoded="False">Nice and easy! 
+TFTC!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="113111980">
+          <groundspeak:date>2010-06-04T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="886457">Antefix</groundspeak:finder>
+          <groundspeak:text encoded="False">A very short stop at the station before we started a nice stroll along the royal canal. Thanks for the cache and regards from Switzerland</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="109287509">
+          <groundspeak:date>2010-05-18T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3279357">dragonfamily666</groundspeak:finder>
+          <groundspeak:text encoded="False">quick and easy cache which was nice after a few DNF.
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="107259430">
+          <groundspeak:date>2010-05-04T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3049946">Drea-Popa</groundspeak:finder>
+          <groundspeak:text encoded="False">After waiting for two trains to pass we found a parking space on the other side of the river. We almost hit a bus as there were a lot of cars waiting to pass the tracks.
+Thanks for this cache.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="84242085">
+          <groundspeak:date>2009-09-13T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="320206">Kersti.com</groundspeak:finder>
+          <groundspeak:text encoded="False">A glorious day for caching. Quick find. TFTC</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

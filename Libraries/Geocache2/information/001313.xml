@@ -1,0 +1,194 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>001313</id>
+  <cache-id>GC15N2Q</cache-id>
+  <type>Traditional Cache</type>
+  <name>Howth Cliff Walk - Piper's Gut by Bootle, Traditional Cache (2/3.5)</name>
+  <size>Small</size>
+  <difficulty>2</difficulty>
+  <terrain>3.5</terrain>
+  <last-found>2008-02-16</last-found>
+  <placed>2007-09-02</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>Bootle</placedby>
+  <found>Geocache Found</found>
+  <lat>53.376233</lat>
+  <lon>-6.047317</lon>
+  <last-logs>FFFFFF</last-logs>
+  <owner>Bootle</owner>
+  <description>The second of 6 caches along the Howth Cliff Walk.</description>
+  <long-description><p align="center"><a target="_blank"
+href="http://www.geocachingireland.com"><img border="0"
+src="http://geocachingireland.com/logo4.jpg" width="328"
+height="53" align="middle" /></a></p>
+<br />
+<br />
+ The Howth Cliff Walk offers the walker a fine, varied walk around
+an open hillside and the Howth cliffs, with the guarantee of
+plentiful bird life, excellent sea views and colourful wild
+flowers. <br />
+<br />
+The walk can be commenced at many different places along the route,
+with many easy access points from various car parks that are
+conveniently located close to the path. This caching trail
+commences at the car park 1km to the east of the village (N53
+23.137 W6 03.048) and moves slowly south, then west, but can also
+be undertaken in a reverse order. <br />
+<br />
+While the main walk is generally not very steep, a couple of caches
+may require some scrambling up brief stretches of steep terrain. As
+always in Ireland it is advised to bring along good waterproof
+clothing for the inevitable shower. Sturdy footware is also a must.
+If you wish to undertake the entire walk in one go it makes sense
+to bring a packed lunch and plenty of liquids, as the full journey
+may take in the region of 4-5 hours. <br />
+<br />
+The Piper's Gut cache requires a scramble upwards from the cliff
+path, so care is required when heading up or down to the cache. The
+cache location should offer you a peaceful location to rest your
+bones! There is a clear, but steep path to the cache starting to
+the right of the sign post. The cache is a small regular cache.
+Happy caching!</long-description>
+  <additional-waypoints>PI15N2Q - pipway<br />N 53° 22.535 W 006° 02.827<br />head up the trail from this point<br /></additional-waypoints>
+  <links>waypoints:cache-id:PI15N2Q</links>
+  <encoded-hints>Obvious group of rocks surrounded by vegetation</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=eaec36d8-2ea4-4a4e-be3b-d0c451be4e0b</url>
+  <url-name>Howth Cliff Walk - Piper's Gut</url-name>
+  <logs><ul><li>2010-05-27T19:00:00Z : Found it by mkfezz <br />After a delicious supper of fish and chips in Howth we spent some time walking on the cliff walks. It was an absolutely beautiful evening. Thanks for bringing us to this spot.  TNLN SL.  </li><li>2010-05-25T19:00:00Z : Found it by schnuckel1 <br />After the visit of the harbour we made a trip around Howth.
+From the cache we enjoyed the scenic view on the irish see.
+Logged at 13:02
+
+IN: -
+OUT: Coin
+
+TFTC
+schnuckel1 
+from Germany
+[# 778]</li><li>2010-05-09T19:00:00Z : Found it by Suburban cowboy <br />What a spectacular wiev [:)]
+TFTC
+Suburban cowboy
+Sweden</li><li>2010-05-08T19:00:00Z : Found it by Thinas <br />Found after some minutes of searching.
+Thanks for the cache. 
+Greeting from Sweden.</li><li>2010-04-16T19:00:00Z : Found it by Fitzet <br />Came at this from above and found it with no difficulty at all.  It was a beautiful night and we enjoyed a gorgeous sunset which we liked to think was caused by the icelandic volcanic ash.
+
+Took:  Wooden Geocoin, stretchy man
+Left: Groundspeak Lackeys Geocoin, stretchy man!
+
+SL TFTC </li><li>2008-02-16T20:00:00Z : Found it by Kersti.com <br />Found with Christian, well, to tell the truth he ended up doing the actual find as my fear of heights got too much for me while scrambling up the (vertical - I swear) hillside...</li></ul></logs>
+  <original-xml>  <wpt  lat="53.376233" lon="-6.047317">
+    <time>2007-09-02T07:00:00Z</time>
+    <name>GC15N2Q</name>
+    <desc>Howth Cliff Walk - Piper's Gut by Bootle, Traditional Cache (2/3.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=eaec36d8-2ea4-4a4e-be3b-d0c451be4e0b</url>
+    <urlname>Howth Cliff Walk - Piper's Gut</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="681622" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Howth Cliff Walk - Piper's Gut</groundspeak:name>
+      <groundspeak:placed_by>Bootle</groundspeak:placed_by>
+      <groundspeak:owner id="96113">Bootle</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>2</groundspeak:difficulty>
+      <groundspeak:terrain>3.5</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>Dublin</groundspeak:state>
+      <groundspeak:short_description html="True">The second of 6 caches along the Howth Cliff Walk.</groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;p align="center"&gt;&lt;a target="_blank"
+href="http://www.geocachingireland.com"&gt;&lt;img border="0"
+src="http://geocachingireland.com/logo4.jpg" width="328"
+height="53" align="middle" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+ The Howth Cliff Walk offers the walker a fine, varied walk around
+an open hillside and the Howth cliffs, with the guarantee of
+plentiful bird life, excellent sea views and colourful wild
+flowers. &lt;br /&gt;
+&lt;br /&gt;
+The walk can be commenced at many different places along the route,
+with many easy access points from various car parks that are
+conveniently located close to the path. This caching trail
+commences at the car park 1km to the east of the village (N53
+23.137 W6 03.048) and moves slowly south, then west, but can also
+be undertaken in a reverse order. &lt;br /&gt;
+&lt;br /&gt;
+While the main walk is generally not very steep, a couple of caches
+may require some scrambling up brief stretches of steep terrain. As
+always in Ireland it is advised to bring along good waterproof
+clothing for the inevitable shower. Sturdy footware is also a must.
+If you wish to undertake the entire walk in one go it makes sense
+to bring a packed lunch and plenty of liquids, as the full journey
+may take in the region of 4-5 hours. &lt;br /&gt;
+&lt;br /&gt;
+The Piper's Gut cache requires a scramble upwards from the cliff
+path, so care is required when heading up or down to the cache. The
+cache location should offer you a peaceful location to rest your
+bones! There is a clear, but steep path to the cache starting to
+the right of the sign post. The cache is a small regular cache.
+Happy caching!&lt;p&gt;Additional Waypoints&lt;/p&gt;PI15N2Q - pipway&lt;br /&gt;N 53° 22.535 W 006° 02.827&lt;br /&gt;head up the trail from this point&lt;br /&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>Obvious group of rocks surrounded by vegetation</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="111689405">
+          <groundspeak:date>2010-05-27T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="945711">mkfezz</groundspeak:finder>
+          <groundspeak:text encoded="False">After a delicious supper of fish and chips in Howth we spent some time walking on the cliff walks. It was an absolutely beautiful evening. Thanks for bringing us to this spot.  TNLN SL.  </groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="110127283">
+          <groundspeak:date>2010-05-25T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2467117">schnuckel1</groundspeak:finder>
+          <groundspeak:text encoded="False">After the visit of the harbour we made a trip around Howth.
+From the cache we enjoyed the scenic view on the irish see.
+Logged at 13:02
+
+IN: -
+OUT: Coin
+
+TFTC
+schnuckel1 
+from Germany
+[# 778]</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="107796226">
+          <groundspeak:date>2010-05-09T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1739679">Suburban cowboy</groundspeak:finder>
+          <groundspeak:text encoded="False">What a spectacular wiev [:)]
+TFTC
+Suburban cowboy
+Sweden</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="107598971">
+          <groundspeak:date>2010-05-08T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1440393">Thinas</groundspeak:finder>
+          <groundspeak:text encoded="False">Found after some minutes of searching.
+Thanks for the cache. 
+Greeting from Sweden.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="104381291">
+          <groundspeak:date>2010-04-16T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2451856">Fitzet</groundspeak:finder>
+          <groundspeak:text encoded="False">Came at this from above and found it with no difficulty at all.  It was a beautiful night and we enjoyed a gorgeous sunset which we liked to think was caused by the icelandic volcanic ash.
+
+Took:  Wooden Geocoin, stretchy man
+Left: Groundspeak Lackeys Geocoin, stretchy man!
+
+SL TFTC </groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="39102106">
+          <groundspeak:date>2008-02-16T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="320206">Kersti.com</groundspeak:finder>
+          <groundspeak:text encoded="False">Found with Christian, well, to tell the truth he ended up doing the actual find as my fear of heights got too much for me while scrambling up the (vertical - I swear) hillside...</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

@@ -1,0 +1,136 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>006477</id>
+  <cache-id>GC1E0XT</cache-id>
+  <type>Multi-cache</type>
+  <name>alte Mun-Ranch by Ubx, Multi-cache (1/1.5)</name>
+  <size>Micro</size>
+  <difficulty>1</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-05-08</last-found>
+  <placed>2008-07-09</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Ubx</placedby>
+  <found>Geocache</found>
+  <lat>50.5853</lat>
+  <lon>9.603517</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>ubx</owner>
+  <description>ein kleiner Multi in der Heide</description>
+  <long-description>Hier wurde von den in Fulda stationierten Amerikanern ein Munitionsdepot betrieben. Heute sieht man nicht mehr viel, aber der hohe Zaun ist immer noch da und drinnen grasen Schafe/Ziegen.
+Parken ist an den angegebenen Koordinaten möglich. 
+Am Haupttor ist eine Plakette mit dem Hersteller + Ort der Firma und eine 5stellige Herstellungsnr. Direkt hinter dem Tor sieht man wieviele Kanaldeckel = A
+Anzahl der Buchstaben des Herstellers + Ort = B
+
+addiert nun A+B und multipliziert mit 3 und zieht diesen Wert vom N-Wert des Haupttores ab , das ist der Final bei N 50.35.//118 - ??//
+nun nehmt die letzte Ziffer der 5stelligen Herstellerzahl und multipliziert mit 2 und zieht diesen Wert vom E-Wert des Haupttores ab , das ist 09.36.//211 - ??//
+der Final liegt gut sichtbar !!
+
+Additional Waypoints
+PA1E0XT - parking
+N 50° 35.760 E 009° 36.205
+
+</long-description>
+  <encoded-hints>unter einem Stein im Heidekraut</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=667417e8-a398-4925-a2af-3ba5ecf396bc</url>
+  <url-name>alte Mun-Ranch</url-name>
+  <logs><ul><li>2010-11-28T20:00:00Z : Found it by lillyfelix <br />Netter Cache. Die Ziegen haben ordentlich Radau gemacht. Die bekommen wohl nicht all zu oft Besuch.
+TFTC</li><li>2010-08-22T19:00:00Z : Found it by buchy <br />Hier hätten wir auch nie hergefunden. Interessanter Ort und schöner Cache in der blühenden Heide. Danke und viele Grüße an den Owner.</li><li>2010-06-26T19:00:00Z : Found it by daruch <br />Cache suchen und Radfahren gute Kombination.
+Danke für's Verstecken.</li><li>2010-05-10T19:00:00Z : Found it by jonny-blue <br />Date: 10. Mai 2010 17:28
+Na, der stand schon lange auf der Liste :)
+Letztes Jahr hatte es nicht so gut geklappt, heute auf Anhieb gefunden.
+
+TFTC
+</li><li>2010-05-08T19:00:00Z : Found it by Oko1966 <br />Nach einer schönen Schulstundentour mit Michael01 noch ein wenig in und um Fulda Dosen gesucht.
+
+Nach kurzer Rechnerei, wir hatten ja bereits Übung, das Final gut und schnell gefunden
+
+TFTC und Grüße an den Owner.
+
+GC#1179</li></ul></logs>
+  <original-xml>  <wpt  lat="50.5853" lon="9.603517">
+    <time>2008-07-09T07:00:00Z</time>
+    <name>GC1E0XT</name>
+    <desc>alte Mun-Ranch by Ubx, Multi-cache (1/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=667417e8-a398-4925-a2af-3ba5ecf396bc</url>
+    <urlname>alte Mun-Ranch</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Multi-cache</type>
+    <groundspeak:cache id="930368" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>alte Mun-Ranch</groundspeak:name>
+      <groundspeak:placed_by>Ubx</groundspeak:placed_by>
+      <groundspeak:owner id="787613">ubx</groundspeak:owner>
+      <groundspeak:type>Multi-cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">ein kleiner Multi in der Heide</groundspeak:short_description>
+      <groundspeak:long_description html="False">Hier wurde von den in Fulda stationierten Amerikanern ein Munitionsdepot betrieben. Heute sieht man nicht mehr viel, aber der hohe Zaun ist immer noch da und drinnen grasen Schafe/Ziegen.
+Parken ist an den angegebenen Koordinaten möglich. 
+Am Haupttor ist eine Plakette mit dem Hersteller + Ort der Firma und eine 5stellige Herstellungsnr. Direkt hinter dem Tor sieht man wieviele Kanaldeckel = A
+Anzahl der Buchstaben des Herstellers + Ort = B
+
+addiert nun A+B und multipliziert mit 3 und zieht diesen Wert vom N-Wert des Haupttores ab , das ist der Final bei N 50.35.//118 - ??//
+nun nehmt die letzte Ziffer der 5stelligen Herstellerzahl und multipliziert mit 2 und zieht diesen Wert vom E-Wert des Haupttores ab , das ist 09.36.//211 - ??//
+der Final liegt gut sichtbar !!
+
+Additional Waypoints
+PA1E0XT - parking
+N 50° 35.760 E 009° 36.205
+
+</groundspeak:long_description>
+      <groundspeak:encoded_hints>unter einem Stein im Heidekraut</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="137430247">
+          <groundspeak:date>2010-11-28T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3765430">lillyfelix</groundspeak:finder>
+          <groundspeak:text encoded="False">Netter Cache. Die Ziegen haben ordentlich Radau gemacht. Die bekommen wohl nicht all zu oft Besuch.
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="123310950">
+          <groundspeak:date>2010-08-22T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="947042">buchy</groundspeak:finder>
+          <groundspeak:text encoded="False">Hier hätten wir auch nie hergefunden. Interessanter Ort und schöner Cache in der blühenden Heide. Danke und viele Grüße an den Owner.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="114368717">
+          <groundspeak:date>2010-06-26T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3100425">daruch</groundspeak:finder>
+          <groundspeak:text encoded="False">Cache suchen und Radfahren gute Kombination.
+Danke für's Verstecken.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="107916930">
+          <groundspeak:date>2010-05-10T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2197776">jonny-blue</groundspeak:finder>
+          <groundspeak:text encoded="False">Date: 10. Mai 2010 17:28
+Na, der stand schon lange auf der Liste :)
+Letztes Jahr hatte es nicht so gut geklappt, heute auf Anhieb gefunden.
+
+TFTC
+</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="107736694">
+          <groundspeak:date>2010-05-08T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2012879">Oko1966</groundspeak:finder>
+          <groundspeak:text encoded="False">Nach einer schönen Schulstundentour mit Michael01 noch ein wenig in und um Fulda Dosen gesucht.
+
+Nach kurzer Rechnerei, wir hatten ja bereits Übung, das Final gut und schnell gefunden
+
+TFTC und Grüße an den Owner.
+
+GC#1179</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

@@ -1,0 +1,182 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>009313</id>
+  <cache-id>GC276X3</cache-id>
+  <type>Multi-cache</type>
+  <name>Noppen by HubiFD, Multi-cache (1.5/1.5)</name>
+  <size>Small</size>
+  <difficulty>1.5</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-10-21</last-found>
+  <placed>2010-04-21</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>HubiFD</placedby>
+  <found>Geocache</found>
+  <lat>50.5518</lat>
+  <lon>9.7379</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>HubiFD</owner>
+  <description>
+      </description>
+  <long-description><b>Ein kleiner Multi wartet hier auf Euch mit schönen Ausblicken in
+die Rhön an verschiedenen Stationen.<br />
+<br />
+Stage 1:<br />
+Zähle alle Textzeilen ( die Zahl auch als Zeile zählen! ) an dem
+Sockelquader des Steinkreuzes= A<br />
+Zähle die Stacheldrahtreihen des Weidezaunes = B<br />
+Zähle die Anzahl der Sitzgelegenheiten = C<br />
+<br />
+Die Koords für Stage 2 setzen sich wie folgt zusammen:<br />
+N50° 3[B-2].[A-12][B+3][A*C-15]<br />
+E 9° 44.C[B+C][B*C+2]<br />
+<br />
+Stage 2:<br />
+Zähle die Baumstämme die hier auf den Betonsockeln liegen = D<br />
+Zähle die Betonsockel auf denen die Baumstämme liegen = E<br />
+Zähle die weißen Rampen die ein Gitter haben = F<br />
+<br />
+Den Final findet ihr hier, wenn ihr die Rechenregeln beachtet
+habt:<br />
+N50° 3F.[D-F][E/B]0<br />
+E 9° 44.C[F*2][E-9]<br />
+<br />
+Viel Spaß beim Suchen wünscht Euch<br /></b>
+<table>
+<tr>
+<td align="center"><img src=
+"http://www.zrx-ig-forum.de/phpbb/images/avatars/88864716449a2c1d31eb44.gif" /></td>
+</tr>
+</table>
+<br />
+<br />
+<b>Glückwunsch dem Erstfinder: jonny-blue</b></long-description>
+  <additional-waypoints>S1276X3 - Stage 1<br />N 50° 33.108 E 009° 44.274<br />Zähle alle Textzeilen ( die Zahl auch als Zeile zählen! ) an dem Sockelquader = A  
+Zähle die Stacheldrahtreihen des Weidezaunes = B 
+Zähle die Anzahl der Sitzgelegenheiten = C<br />S2276X3 - Stage 2<br />N/S  __ ° __ . ___ W/E ___ ° __ . ___ <br />Zähle die Baumstämme die hier auf den Betonsockeln liegen = D 
+Zähle die Betonsockel auf denen die Baumstämme liegen = E 
+Zähle die weißen Rampen die ein Gitter haben = F<br />S3276X3 - Final<br />N/S  __ ° __ . ___ W/E ___ ° __ . ___ <br />Der Final befindet sich hier: 
+
+N50° 3F.[D-F][E/B]0
+E 9°  44.C[F*2][E-9]<br /></additional-waypoints>
+  <links>waypoints:cache-id:S1276X3|waypoints:cache-id:S2276X3|waypoints:cache-id:S3276X3</links>
+  <encoded-hints>Final liegt bei einem Baumstumpf</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=af138f12-954d-40a3-8411-a1a93510bf07</url>
+  <url-name>Noppen</url-name>
+  <logs><ul><li>2010-11-27T20:00:00Z : Found it by Maluma <br />Heute bei Eiseskälte uns auf dei Socken gemacht und eine Hubi-Runde gedreht..
+
+TFTC MALUMA</li><li>2010-11-13T20:00:00Z : Found it by blindgaenger37 <br />Trotz Regen und Wind haben wir diesen schönen kleinen Multi zusammen mit Rhoenhexe gemeistert. In: friedelfindus PETling Mirco FFZXA6</li><li>2010-11-13T20:00:00Z : Found it by rhoenhexe <br />Blindgänger und Rhönhexe waren bei stürmischen Wetter unterwegs und haben den Cache gut gefunden. Interessanter Cache. Weiter so.
+Die Rhönhexe</li><li>2010-10-27T19:00:00Z : Found it by burgen13 <br />Den ersten Teil hatten wir schon vor Wochen gelöst, wurden aber durch starken Regen unterbrochen. Heute ging die Lösung weiter und der Cache wurde, etwas erschwert durch springende Koordinaten, doch noch gefunden.
+Danke sagt burgen13</li><li>2010-10-21T19:00:00Z : Found it by fezi <br />Bei einem kleinen Herbstspaziergang gefunden.
+ (3 Sterne bei [url=http://www.gcvote.com]GCVote[/url])
+TFTC fezi</li></ul></logs>
+  <original-xml>  <wpt  lat="50.5518" lon="9.7379">
+    <time>2010-04-21T07:00:00Z</time>
+    <name>GC276X3</name>
+    <desc>Noppen by HubiFD, Multi-cache (1.5/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=af138f12-954d-40a3-8411-a1a93510bf07</url>
+    <urlname>Noppen</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Multi-cache</type>
+    <groundspeak:cache id="1651096" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Noppen</groundspeak:name>
+      <groundspeak:placed_by>HubiFD</groundspeak:placed_by>
+      <groundspeak:owner id="2729325">HubiFD</groundspeak:owner>
+      <groundspeak:type>Multi-cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="True">
+      </groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;b&gt;Ein kleiner Multi wartet hier auf Euch mit schönen Ausblicken in
+die Rhön an verschiedenen Stationen.&lt;br /&gt;
+&lt;br /&gt;
+Stage 1:&lt;br /&gt;
+Zähle alle Textzeilen ( die Zahl auch als Zeile zählen! ) an dem
+Sockelquader des Steinkreuzes= A&lt;br /&gt;
+Zähle die Stacheldrahtreihen des Weidezaunes = B&lt;br /&gt;
+Zähle die Anzahl der Sitzgelegenheiten = C&lt;br /&gt;
+&lt;br /&gt;
+Die Koords für Stage 2 setzen sich wie folgt zusammen:&lt;br /&gt;
+N50° 3[B-2].[A-12][B+3][A*C-15]&lt;br /&gt;
+E 9° 44.C[B+C][B*C+2]&lt;br /&gt;
+&lt;br /&gt;
+Stage 2:&lt;br /&gt;
+Zähle die Baumstämme die hier auf den Betonsockeln liegen = D&lt;br /&gt;
+Zähle die Betonsockel auf denen die Baumstämme liegen = E&lt;br /&gt;
+Zähle die weißen Rampen die ein Gitter haben = F&lt;br /&gt;
+&lt;br /&gt;
+Den Final findet ihr hier, wenn ihr die Rechenregeln beachtet
+habt:&lt;br /&gt;
+N50° 3F.[D-F][E/B]0&lt;br /&gt;
+E 9° 44.C[F*2][E-9]&lt;br /&gt;
+&lt;br /&gt;
+Viel Spaß beim Suchen wünscht Euch&lt;br /&gt;&lt;/b&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td align="center"&gt;&lt;img src=
+"http://www.zrx-ig-forum.de/phpbb/images/avatars/88864716449a2c1d31eb44.gif" /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;Glückwunsch dem Erstfinder: jonny-blue&lt;/b&gt;&lt;p&gt;Additional Waypoints&lt;/p&gt;S1276X3 - Stage 1&lt;br /&gt;N 50° 33.108 E 009° 44.274&lt;br /&gt;Zähle alle Textzeilen ( die Zahl auch als Zeile zählen! ) an dem Sockelquader = A  
+Zähle die Stacheldrahtreihen des Weidezaunes = B 
+Zähle die Anzahl der Sitzgelegenheiten = C&lt;br /&gt;S2276X3 - Stage 2&lt;br /&gt;N/S  __ ° __ . ___ W/E ___ ° __ . ___ &lt;br /&gt;Zähle die Baumstämme die hier auf den Betonsockeln liegen = D 
+Zähle die Betonsockel auf denen die Baumstämme liegen = E 
+Zähle die weißen Rampen die ein Gitter haben = F&lt;br /&gt;S3276X3 - Final&lt;br /&gt;N/S  __ ° __ . ___ W/E ___ ° __ . ___ &lt;br /&gt;Der Final befindet sich hier: 
+
+N50° 3F.[D-F][E/B]0
+E 9°  44.C[F*2][E-9]&lt;br /&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>Final liegt bei einem Baumstumpf</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="137231417">
+          <groundspeak:date>2010-11-27T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1380311">Maluma</groundspeak:finder>
+          <groundspeak:text encoded="False">Heute bei Eiseskälte uns auf dei Socken gemacht und eine Hubi-Runde gedreht..
+
+TFTC MALUMA</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="135719299">
+          <groundspeak:date>2010-11-13T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3211151">blindgaenger37</groundspeak:finder>
+          <groundspeak:text encoded="False">Trotz Regen und Wind haben wir diesen schönen kleinen Multi zusammen mit Rhoenhexe gemeistert. In: friedelfindus PETling Mirco FFZXA6</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="135715766">
+          <groundspeak:date>2010-11-13T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3851866">rhoenhexe</groundspeak:finder>
+          <groundspeak:text encoded="False">Blindgänger und Rhönhexe waren bei stürmischen Wetter unterwegs und haben den Cache gut gefunden. Interessanter Cache. Weiter so.
+Die Rhönhexe</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="133319730">
+          <groundspeak:date>2010-10-27T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2887618">burgen13</groundspeak:finder>
+          <groundspeak:text encoded="False">Den ersten Teil hatten wir schon vor Wochen gelöst, wurden aber durch starken Regen unterbrochen. Heute ging die Lösung weiter und der Cache wurde, etwas erschwert durch springende Koordinaten, doch noch gefunden.
+Danke sagt burgen13</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="132424005">
+          <groundspeak:date>2010-10-21T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2007251">fezi</groundspeak:finder>
+          <groundspeak:text encoded="False">Bei einem kleinen Herbstspaziergang gefunden.
+ (3 Sterne bei [url=http://www.gcvote.com]GCVote[/url])
+TFTC fezi</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs>
+        <groundspeak:travelbug id="2599807" ref="TB3823N">
+          <groundspeak:name>friedelfindus PETling gold#3</groundspeak:name>
+        </groundspeak:travelbug>
+      </groundspeak:travelbugs>
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

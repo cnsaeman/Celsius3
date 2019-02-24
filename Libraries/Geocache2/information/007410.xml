@@ -1,0 +1,202 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>007410</id>
+  <cache-id>GC218Z1</cache-id>
+  <type>Multi-cache</type>
+  <name>Slí Slán Amháin by orangetigerprawn, Multi-cache (1.5/3)</name>
+  <size>Small</size>
+  <difficulty>1.5</difficulty>
+  <terrain>3</terrain>
+  <last-found>2009-12-07</last-found>
+  <placed>2009-11-21</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>orangetigerprawn</placedby>
+  <found>Geocache</found>
+  <lat>53.461383</lat>
+  <lon>-6.240533</lon>
+  <last-logs>FFFXF</last-logs>
+  <owner>orangetigerprawn</owner>
+  <description><center><b><font size="+2">Slí Slán Amháin</font></b></center>
+<br />
+<br /></description>
+  <long-description><center>This is the first of three multicache based around the Slí
+na Sláinte routes in Swords. This one follows the Village Slí. The
+walks are circular routes to be walked in either direction from any
+starting point.</center>
+<br />
+<center>
+<img src="http://img.geocaching.com/cache/133bd8a1-e622-4f2d-9676-88004e93c755.jpg"
+     width="497" height="325" align="bottom" border="0"
+     naturalsizeflag="3" /></center>
+<br />
+ 
+<center>Similarly, this cache can be started from any waypoint in
+any order. Find the required information at each waypoint, work out
+the final coordinates and find the cache. In the spirit of the Slí
+doing it on foot will do your heart a world of good. This Slí is
+about 6k long. Finding the cache may be a bit more depending on
+your starting point.</center>
+<br />
+<center>A handy pdf map of walks can be downloaded
+<a href="http://www.irishheart.ie/iopen24/pub/slinaslainte/maps/swords.pdf">
+here</a>.</center>
+<br />
+ 
+<center>&nbsp;</center>
+<br />
+<br />
+ 
+<center><b>At above coordinates:</b></center>
+<center>How many windows on the upper floor of the nearest north
+facing house? E</center>
+<center>&nbsp;</center>
+<center><b>Brackenstown Stage:</b> N 53° 27.461 W 006°
+13.882</center>
+<center>At this point find a solitary "Kilkenny" number near by.
+A</center>
+<center>&nbsp;</center>
+<center><b>Wells Stage:</b> N 53° 27.353 W 006° 13.315</center>
+<center>The shape of the building matches the shape of the slabs on
+the ground. How many sides? B</center>
+<center>&nbsp;</center>
+<center><b>North Stage:</b> N 53° 27.834 W 006° 12.995</center>
+<center>What is the number of the "Mouth Watering" house across the
+road? C</center>
+<center>&nbsp;</center>
+<center><b>Rathbeal Stage:</b> N 53° 28.015 W 006° 14.315</center>
+<center>How many digits are there in the name of the organisation
+that runs the business on the non residential/recreational corner
+of this junction? D</center>
+<center>&nbsp;</center>
+<center>&nbsp;</center>
+<center><b><font size="+2">The Cache</font></b></center>
+<br />
+<center><b>Final Location:</b> N 53° 27.(A*2)-(E*(D+C)+B)</center>
+<center>W 006° (B+E).(A*D)-(E*(D+C))</center>
+<br />
+<center>Please replace the cache carefully to prevent it from
+becoming inaccessible.</center></long-description>
+  <additional-waypoints>BS218Z1 - Brackenstown Stage<br />N 53° 27.461 W 006° 13.882<br /><br />NS218Z1 - North Stage<br />N 53° 27.834 W 006° 12.995<br /><br />RS218Z1 - Rathbeal Stage<br />N 53° 28.015 W 006° 14.315<br /><br />WS218Z1 - Wells Stage<br />N 53° 27.353 W 006° 13.315<br /><br /></additional-waypoints>
+  <links>waypoints:cache-id:BS218Z1|waypoints:cache-id:NS218Z1|waypoints:cache-id:RS218Z1|waypoints:cache-id:WS218Z1</links>
+  <encoded-hints>A cute hiding place.</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=ec4ec0f1-9526-41ed-b115-5533ef9e799a</url>
+  <url-name>Slí Slán Amháin</url-name>
+  <logs><ul><li>2010-04-13T19:00:00Z : Found it by Fjon <br />Tricky one - needed owner's help with one stage. Was half expecting not to find the cache at the end, but reached down and there it was! </li><li>2009-12-31T20:00:00Z : Found it by theswerve <br />found ok on a quick visit to Swords....TFTC...</li><li>2009-12-10T20:00:00Z : Found it by toczygroszek <br />This time OK! Misunderstood one question, but figured out correctly with owner's help. Thanks for enjoyable walk.</li><li>2009-12-07T20:00:00Z : Didn't find it by toczygroszek <br />Nothing more annoying than "found easily" from previous finder. 3 of 5 questions it was really puzzle for me, didn't really know what should I count... [:(]</li><li>2009-12-07T20:00:00Z : Found it by Hezekiah <br />Found easily - great day for a walkabout!  TFTC!</li></ul></logs>
+  <original-xml>  <wpt  lat="53.461383" lon="-6.240533">
+    <time>2009-11-21T08:00:00Z</time>
+    <name>GC218Z1</name>
+    <desc>Slí Slán Amháin by orangetigerprawn, Multi-cache (1.5/3)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=ec4ec0f1-9526-41ed-b115-5533ef9e799a</url>
+    <urlname>Slí Slán Amháin</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Multi-cache</type>
+    <groundspeak:cache id="1474332" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Slí Slán Amháin</groundspeak:name>
+      <groundspeak:placed_by>orangetigerprawn</groundspeak:placed_by>
+      <groundspeak:owner id="2167131">orangetigerprawn</groundspeak:owner>
+      <groundspeak:type>Multi-cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>3</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>Leinster</groundspeak:state>
+      <groundspeak:short_description html="True">&lt;center&gt;&lt;b&gt;&lt;font size="+2"&gt;Slí Slán Amháin&lt;/font&gt;&lt;/b&gt;&lt;/center&gt;
+&lt;br /&gt;
+&lt;br /&gt;</groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;center&gt;This is the first of three multicache based around the Slí
+na Sláinte routes in Swords. This one follows the Village Slí. The
+walks are circular routes to be walked in either direction from any
+starting point.&lt;/center&gt;
+&lt;br /&gt;
+&lt;center&gt;
+&lt;img src="http://img.geocaching.com/cache/133bd8a1-e622-4f2d-9676-88004e93c755.jpg"
+     width="497" height="325" align="bottom" border="0"
+     naturalsizeflag="3" /&gt;&lt;/center&gt;
+&lt;br /&gt;
+ 
+&lt;center&gt;Similarly, this cache can be started from any waypoint in
+any order. Find the required information at each waypoint, work out
+the final coordinates and find the cache. In the spirit of the Slí
+doing it on foot will do your heart a world of good. This Slí is
+about 6k long. Finding the cache may be a bit more depending on
+your starting point.&lt;/center&gt;
+&lt;br /&gt;
+&lt;center&gt;A handy pdf map of walks can be downloaded
+&lt;a href="http://www.irishheart.ie/iopen24/pub/slinaslainte/maps/swords.pdf"&gt;
+here&lt;/a&gt;.&lt;/center&gt;
+&lt;br /&gt;
+ 
+&lt;center&gt;&amp;nbsp;&lt;/center&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+ 
+&lt;center&gt;&lt;b&gt;At above coordinates:&lt;/b&gt;&lt;/center&gt;
+&lt;center&gt;How many windows on the upper floor of the nearest north
+facing house? E&lt;/center&gt;
+&lt;center&gt;&amp;nbsp;&lt;/center&gt;
+&lt;center&gt;&lt;b&gt;Brackenstown Stage:&lt;/b&gt; N 53° 27.461 W 006°
+13.882&lt;/center&gt;
+&lt;center&gt;At this point find a solitary "Kilkenny" number near by.
+A&lt;/center&gt;
+&lt;center&gt;&amp;nbsp;&lt;/center&gt;
+&lt;center&gt;&lt;b&gt;Wells Stage:&lt;/b&gt; N 53° 27.353 W 006° 13.315&lt;/center&gt;
+&lt;center&gt;The shape of the building matches the shape of the slabs on
+the ground. How many sides? B&lt;/center&gt;
+&lt;center&gt;&amp;nbsp;&lt;/center&gt;
+&lt;center&gt;&lt;b&gt;North Stage:&lt;/b&gt; N 53° 27.834 W 006° 12.995&lt;/center&gt;
+&lt;center&gt;What is the number of the "Mouth Watering" house across the
+road? C&lt;/center&gt;
+&lt;center&gt;&amp;nbsp;&lt;/center&gt;
+&lt;center&gt;&lt;b&gt;Rathbeal Stage:&lt;/b&gt; N 53° 28.015 W 006° 14.315&lt;/center&gt;
+&lt;center&gt;How many digits are there in the name of the organisation
+that runs the business on the non residential/recreational corner
+of this junction? D&lt;/center&gt;
+&lt;center&gt;&amp;nbsp;&lt;/center&gt;
+&lt;center&gt;&amp;nbsp;&lt;/center&gt;
+&lt;center&gt;&lt;b&gt;&lt;font size="+2"&gt;The Cache&lt;/font&gt;&lt;/b&gt;&lt;/center&gt;
+&lt;br /&gt;
+&lt;center&gt;&lt;b&gt;Final Location:&lt;/b&gt; N 53° 27.(A*2)-(E*(D+C)+B)&lt;/center&gt;
+&lt;center&gt;W 006° (B+E).(A*D)-(E*(D+C))&lt;/center&gt;
+&lt;br /&gt;
+&lt;center&gt;Please replace the cache carefully to prevent it from
+becoming inaccessible.&lt;/center&gt;&lt;p&gt;Additional Waypoints&lt;/p&gt;BS218Z1 - Brackenstown Stage&lt;br /&gt;N 53° 27.461 W 006° 13.882&lt;br /&gt;&lt;br /&gt;NS218Z1 - North Stage&lt;br /&gt;N 53° 27.834 W 006° 12.995&lt;br /&gt;&lt;br /&gt;RS218Z1 - Rathbeal Stage&lt;br /&gt;N 53° 28.015 W 006° 14.315&lt;br /&gt;&lt;br /&gt;WS218Z1 - Wells Stage&lt;br /&gt;N 53° 27.353 W 006° 13.315&lt;br /&gt;&lt;br /&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>A cute hiding place.</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="104006660">
+          <groundspeak:date>2010-04-13T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="243261">Fjon</groundspeak:finder>
+          <groundspeak:text encoded="False">Tricky one - needed owner's help with one stage. Was half expecting not to find the cache at the end, but reached down and there it was! </groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="94075342">
+          <groundspeak:date>2009-12-31T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1032462">theswerve</groundspeak:finder>
+          <groundspeak:text encoded="False">found ok on a quick visit to Swords....TFTC...</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="92644744">
+          <groundspeak:date>2009-12-10T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1429023">toczygroszek</groundspeak:finder>
+          <groundspeak:text encoded="False">This time OK! Misunderstood one question, but figured out correctly with owner's help. Thanks for enjoyable walk.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="92466581">
+          <groundspeak:date>2009-12-07T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Didn't find it</groundspeak:type>
+          <groundspeak:finder id="1429023">toczygroszek</groundspeak:finder>
+          <groundspeak:text encoded="False">Nothing more annoying than "found easily" from previous finder. 3 of 5 questions it was really puzzle for me, didn't really know what should I count... [:(]</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="92445977">
+          <groundspeak:date>2009-12-07T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="274644">Hezekiah</groundspeak:finder>
+          <groundspeak:text encoded="False">Found easily - great day for a walkabout!  TFTC!</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

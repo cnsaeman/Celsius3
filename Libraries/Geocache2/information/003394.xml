@@ -1,0 +1,136 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>003394</id>
+  <cache-id>GC11F7Q</cache-id>
+  <type>Traditional Cache</type>
+  <name>A is for Arsenal by Hezekiah, Traditional Cache (1/1)</name>
+  <size>Micro</size>
+  <difficulty>1</difficulty>
+  <terrain>1</terrain>
+  <last-found>2007-08-19</last-found>
+  <placed>2007-03-15</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>Hezekiah</placedby>
+  <found>Geocache Found</found>
+  <lat>53.348533</lat>
+  <lon>-6.315567</lon>
+  <last-logs>FFFFFF</last-logs>
+  <owner>Hezekiah</owner>
+  <description><p align="center"><a target="_blank"
+href="http://www.geocachingireland.com/index.html"><img border="0"
+src="http://img.geocaching.com/cache/2280ab19-c5fc-4d33-8efb-797df9c0ac8c.jpg"
+     width="150" height="43" align="middle" /></a></p>
+<hr size="2" />
+<center><font color="Green">Visit the <b>new</b> Geocaching Ireland
+discussion forum <a rel="nofollow"
+href="http://www.mccartan.org/forums/"
+target="_blank">HERE</a></font></center>
+<hr size="2" /></description>
+  <long-description>An historic spot in the Phoenix Park - plenty of parking and lots
+of space to ramble about!</long-description>
+  <encoded-hints>Curved iron post</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=9d125e9c-dd31-4246-a651-e56a1ace5411</url>
+  <url-name>A is for Arsenal</url-name>
+  <logs><ul><li>2010-06-04T19:00:00Z : Found it by thomasvm <br />Quick find after visiting in the Zoo. Found it with Liam & Brian. TFTC.</li><li>2010-06-02T19:00:00Z : Found it by eve1987 <br />Nice walk and a very quick find!
+
+TFTC and kind regards from Austria, eve</li><li>2010-06-02T19:00:00Z : Found it by GudrunXY <br />A quick find with eve1987 on our caching tour through Ireland.
+TFTC GudrunXY</li><li>2010-05-28T19:00:00Z : Found it by roybrindley <br />Tough(ish) Cache with the nettles and Brambles getting a hold. TFTC.</li><li>2010-05-17T19:00:00Z : Found it by Takemountain <br />Thanks to the asch [:D] we could have another day of geocaching.
+Nice place .TFTC </li><li>2007-08-19T07:00:00Z : Found it by Kersti.com <br />Thankfully I had a pair of gloves in my bag that came in handy for this one - well protected! Does exactly what it says on the tin. Would love to know a bit more about this place so I did some research...
+
+The Dublin magazine fort was built in 1735. The fort can be found in the west of Dublin city, north of the River Liffey within Phoenix Park. The building is located in the south-eastern part of the park, close by a wooded ridge. It has a commanding view of the surrounding area. During the British occupation of the area, the Fort had been seen as a symbol of that occupation but by 1939 its purpose was to house the Irish Army's stocks of guns and ammunition.
+
+Details of the Christmas Raid here in 1939 can be found at Wikipedia - http://en.wikipedia.org/wiki/Christmas_Raid
+
+Anyway, back to the log - found with Cam and Toadster.
+OUT - necklace
+IN - Rolly stamp
+</li></ul></logs>
+  <original-xml>  <wpt  lat="53.348533" lon="-6.315567">
+    <time>2007-03-15T07:00:00Z</time>
+    <name>GC11F7Q</name>
+    <desc>A is for Arsenal by Hezekiah, Traditional Cache (1/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=9d125e9c-dd31-4246-a651-e56a1ace5411</url>
+    <urlname>A is for Arsenal</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="556847" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>A is for Arsenal</groundspeak:name>
+      <groundspeak:placed_by>Hezekiah</groundspeak:placed_by>
+      <groundspeak:owner id="274644">Hezekiah</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>Dublin</groundspeak:state>
+      <groundspeak:short_description html="True">&lt;p align="center"&gt;&lt;a target="_blank"
+href="http://www.geocachingireland.com/index.html"&gt;&lt;img border="0"
+src="http://img.geocaching.com/cache/2280ab19-c5fc-4d33-8efb-797df9c0ac8c.jpg"
+     width="150" height="43" align="middle" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;hr size="2" /&gt;
+&lt;center&gt;&lt;font color="Green"&gt;Visit the &lt;b&gt;new&lt;/b&gt; Geocaching Ireland
+discussion forum &lt;a rel="nofollow"
+href="http://www.mccartan.org/forums/"
+target="_blank"&gt;HERE&lt;/a&gt;&lt;/font&gt;&lt;/center&gt;
+&lt;hr size="2" /&gt;</groundspeak:short_description>
+      <groundspeak:long_description html="True">An historic spot in the Phoenix Park - plenty of parking and lots
+of space to ramble about!</groundspeak:long_description>
+      <groundspeak:encoded_hints>Curved iron post</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="111515208">
+          <groundspeak:date>2010-06-04T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2849183">thomasvm</groundspeak:finder>
+          <groundspeak:text encoded="False">Quick find after visiting in the Zoo. Found it with Liam &amp; Brian. TFTC.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="111881806">
+          <groundspeak:date>2010-06-02T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1617792">eve1987</groundspeak:finder>
+          <groundspeak:text encoded="False">Nice walk and a very quick find!
+
+TFTC and kind regards from Austria, eve</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="111277155">
+          <groundspeak:date>2010-06-02T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2694097">GudrunXY</groundspeak:finder>
+          <groundspeak:text encoded="False">A quick find with eve1987 on our caching tour through Ireland.
+TFTC GudrunXY</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="110621177">
+          <groundspeak:date>2010-05-28T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3097917">roybrindley</groundspeak:finder>
+          <groundspeak:text encoded="False">Tough(ish) Cache with the nettles and Brambles getting a hold. TFTC.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="108989575">
+          <groundspeak:date>2010-05-17T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1552210">Takemountain</groundspeak:finder>
+          <groundspeak:text encoded="False">Thanks to the asch [:D] we could have another day of geocaching.
+Nice place .TFTC </groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="31394613">
+          <groundspeak:date>2007-08-19T07:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="320206">Kersti.com</groundspeak:finder>
+          <groundspeak:text encoded="False">Thankfully I had a pair of gloves in my bag that came in handy for this one - well protected! Does exactly what it says on the tin. Would love to know a bit more about this place so I did some research...
+
+The Dublin magazine fort was built in 1735. The fort can be found in the west of Dublin city, north of the River Liffey within Phoenix Park. The building is located in the south-eastern part of the park, close by a wooded ridge. It has a commanding view of the surrounding area. During the British occupation of the area, the Fort had been seen as a symbol of that occupation but by 1939 its purpose was to house the Irish Army's stocks of guns and ammunition.
+
+Details of the Christmas Raid here in 1939 can be found at Wikipedia - http://en.wikipedia.org/wiki/Christmas_Raid
+
+Anyway, back to the log - found with Cam and Toadster.
+OUT - necklace
+IN - Rolly stamp
+</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

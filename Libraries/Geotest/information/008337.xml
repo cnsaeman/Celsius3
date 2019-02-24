@@ -1,0 +1,122 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>008337</id>
+  <cache-id>GC27PCM</cache-id>
+  <type>Traditional Cache</type>
+  <name>Ursprung by balu-fd, Traditional Cache (1/1)</name>
+  <size>Micro</size>
+  <difficulty>1</difficulty>
+  <terrain>1</terrain>
+  <last-found>2010-11-24</last-found>
+  <placed>2010-04-29</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>balu-fd</placedby>
+  <found>Geocache</found>
+  <lat>50.54715</lat>
+  <lon>9.680633</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>balu-fd</owner>
+  <description>Herr Coudray würde sich freuen...</description>
+  <long-description>1805 gab der erste weltliche Herrscher von Fulda, Friedrich Wilhelm von Oranien-Nassau, mit Unterzeichnung der Stiftungsurkunde den Startschuss für den Bau eines Krankenhauses. Clemens Wenzeslaus Coudray, dem späteren Architekt Goethes in Weimar, wurde die Planung für das neue Hospital übergeben. Die Grundsteinlegung erfolgte 1806 und 1810 wurde der Neubau vollendet. Somit entstand das Wilhelmshospital, welches als einer der architektonisch wertvollsten klassizistischen Hospitalbauten des 19. Jahrhunderts galt.
+
+1834 kamen auf Initiative des damiligen Bischofs Johann Leonarf Pfaff Barmherzige Schwestern nach Fulda. Das Landkrankenhaus - auch Wilhelmshospital genannt - wurde ihre erste Wirkungsstätte. Sie nennen diesen Ort deshalb "Ursprung".
+
+Zum Cache:
+
+Bitte vorsichtig sein, hier herrscht zeitweise großes Muggelaufkommen.
+
+Man braucht nichts abschrauben o.ä.</long-description>
+  <encoded-hints>Im "grünen Bereich" hinter dem "M".</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=fd5bca9a-4600-4e04-8074-4b6356e4800f</url>
+  <url-name>Ursprung</url-name>
+  <logs><ul><li>2010-12-25T20:00:00Z : Found it by canadianfriend75 <br />Gut und schnell gefunden. TFTC</li><li>2010-12-12T20:00:00Z : Found it by BB! <br />RN und BB1 habens gleich gefunden - das M ist ein guter hint</li><li>2010-12-07T20:00:00Z : Found it by hmichel777 <br />Eben in der Mittagspause einen kleinen Verdauungsspaziergang gemacht und die Dose schnell gefunden.
+
+Danke für den Cache
+... ich musste aufgrund technischer Schwierigkeiten etwas "improvisiert" loggen ;-)</li><li>2010-11-26T20:00:00Z : Found it by Lupo 512 <br />Das größte Problem ist bei diesem Cache eine Parkmöglichkeit für sein Automobil zu finden, als aber diese Hürde genommen war ging der Rest ganz schnell. Da ich mich unbeobachtet fühlte und niemand mein treiben bemerkte konnte ich hier ganz in Ruhe meinem Handwerk nachgehen.
+
+Viele Grüße und danke sagt der Lupo 512 aus dem Main Kinzig Kreis.
+
+#251, 12:02, Found it with [url=http://www.geocaching.com/images/gadgets/htc_hd2.jpg] HTC HD II [/url] & [url=HTTP://WWW.getcachebox.net]Cachebox[/URL]
+
+Kein Handel</li><li>2010-11-24T20:00:00Z : Found it by yonex <br />Schnell gefunden, war offensichtlich gerade keine Pause [;)]
+
+TFTC</li></ul></logs>
+  <original-xml>  <wpt  lat="50.54715" lon="9.680633">
+    <time>2010-04-29T07:00:00Z</time>
+    <name>GC27PCM</name>
+    <desc>Ursprung by balu-fd, Traditional Cache (1/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=fd5bca9a-4600-4e04-8074-4b6356e4800f</url>
+    <urlname>Ursprung</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1665993" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Ursprung</groundspeak:name>
+      <groundspeak:placed_by>balu-fd</groundspeak:placed_by>
+      <groundspeak:owner id="3122379">balu-fd</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">Herr Coudray würde sich freuen...</groundspeak:short_description>
+      <groundspeak:long_description html="False">1805 gab der erste weltliche Herrscher von Fulda, Friedrich Wilhelm von Oranien-Nassau, mit Unterzeichnung der Stiftungsurkunde den Startschuss für den Bau eines Krankenhauses. Clemens Wenzeslaus Coudray, dem späteren Architekt Goethes in Weimar, wurde die Planung für das neue Hospital übergeben. Die Grundsteinlegung erfolgte 1806 und 1810 wurde der Neubau vollendet. Somit entstand das Wilhelmshospital, welches als einer der architektonisch wertvollsten klassizistischen Hospitalbauten des 19. Jahrhunderts galt.
+
+1834 kamen auf Initiative des damiligen Bischofs Johann Leonarf Pfaff Barmherzige Schwestern nach Fulda. Das Landkrankenhaus - auch Wilhelmshospital genannt - wurde ihre erste Wirkungsstätte. Sie nennen diesen Ort deshalb "Ursprung".
+
+Zum Cache:
+
+Bitte vorsichtig sein, hier herrscht zeitweise großes Muggelaufkommen.
+
+Man braucht nichts abschrauben o.ä.</groundspeak:long_description>
+      <groundspeak:encoded_hints>Im "grünen Bereich" hinter dem "M".</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="139178534">
+          <groundspeak:date>2010-12-25T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2519645">canadianfriend75</groundspeak:finder>
+          <groundspeak:text encoded="False">Gut und schnell gefunden. TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="138405886">
+          <groundspeak:date>2010-12-12T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3781589">BB!</groundspeak:finder>
+          <groundspeak:text encoded="False">RN und BB1 habens gleich gefunden - das M ist ein guter hint</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="138088734">
+          <groundspeak:date>2010-12-07T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="418646">hmichel777</groundspeak:finder>
+          <groundspeak:text encoded="False">Eben in der Mittagspause einen kleinen Verdauungsspaziergang gemacht und die Dose schnell gefunden.
+
+Danke für den Cache
+... ich musste aufgrund technischer Schwierigkeiten etwas "improvisiert" loggen ;-)</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="137237240">
+          <groundspeak:date>2010-11-26T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="844820">Lupo 512</groundspeak:finder>
+          <groundspeak:text encoded="False">Das größte Problem ist bei diesem Cache eine Parkmöglichkeit für sein Automobil zu finden, als aber diese Hürde genommen war ging der Rest ganz schnell. Da ich mich unbeobachtet fühlte und niemand mein treiben bemerkte konnte ich hier ganz in Ruhe meinem Handwerk nachgehen.
+
+Viele Grüße und danke sagt der Lupo 512 aus dem Main Kinzig Kreis.
+
+#251, 12:02, Found it with [url=http://www.geocaching.com/images/gadgets/htc_hd2.jpg] HTC HD II [/url] &amp; [url=HTTP://WWW.getcachebox.net]Cachebox[/URL]
+
+Kein Handel</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="137099527">
+          <groundspeak:date>2010-11-24T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1942538">yonex</groundspeak:finder>
+          <groundspeak:text encoded="False">Schnell gefunden, war offensichtlich gerade keine Pause [;)]
+
+TFTC</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

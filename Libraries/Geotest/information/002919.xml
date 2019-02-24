@@ -1,0 +1,112 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>002919</id>
+  <cache-id>GC21XTR</cache-id>
+  <type>Unknown Cache</type>
+  <name>Arbor Knick (Bonus) by Lietz-Cacher, Unknown Cache (1/2)</name>
+  <size>Micro</size>
+  <difficulty>1</difficulty>
+  <terrain>2</terrain>
+  <last-found>2010-10-25</last-found>
+  <placed>2009-12-11</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Lietz-Cacher</placedby>
+  <found>Geocache</found>
+  <lat>50.61885</lat>
+  <lon>9.75865</lon>
+  <last-logs>FFFFW</last-logs>
+  <owner>Lietz-Cacher</owner>
+  <description>Bonus Cache zu "Arboretum"</description>
+  <long-description>Zusammen mir "Arbor Pust" zeigt dieser Bonus-Cache den einfachsten Weg zurück zum Auto. Leiter hat unser "Arbor Knick" unter Xinthia sehr gelitten und hat die "A-Form", wegen der wir den Namen ausgewählt haben, fast verloren. Auch haben die Rückegassen sich infolge der Aufräumarbeiten sehr verändert und wir haben den Weg noch mit Reflektoren gekennzeichnet, an dem richtigen "Arbor Knick" sind wieder Doppelreflektoren.
+
+Die Bonuszahl befindet sich im Logbuch von "Arboretum". Damit erhaltet ihr:
+
+N    37.(8 * Bonuszahl + 7)
+E    45.(70 * Bonuszahl - 3)
+
+Additional Waypoints
+</long-description>
+  <encoded-hints>aufkopfhoehe</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=4168c342-aa57-47d9-a66e-e1ae3d201322</url>
+  <url-name>Arbor Knick (Bonus)</url-name>
+  <logs><ul><li>2010-12-03T20:00:00Z : Found it by Aldokyl <br />Danke auch für diesen Bonus.</li><li>2010-12-03T20:00:00Z : Found it by TT-Diver76 <br />hier haben Aldokyl und Krass-D sehr lange das Logbuch suchen müssen, als Krass-D dann von einem Baum komplett eingeweisst wurde, viel beim reinigen das Döschen aus seiner Kaputze
+
+EIN WUNDER!!!!! Krass-D der Cachergott!
+
+tftc Jan</li><li>2010-12-03T20:00:00Z : Found it by Krass-D <br />im tiefen Schnee bei -10°C gefunden...</li><li>2010-11-20T19:29:39Z : Found it by Clowns 4ever <br />Gut gefunden und zurück gekommen!!! ;-))) </li><li>2010-10-25T19:00:00Z : Write note by HubiFD <br />Coin nachgeloggt.
+
+Gruß Hubi</li></ul></logs>
+  <original-xml>  <wpt  lat="50.61885" lon="9.75865">
+    <time>2009-12-11T08:00:00Z</time>
+    <name>GC21XTR</name>
+    <desc>Arbor Knick (Bonus) by Lietz-Cacher, Unknown Cache (1/2)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=4168c342-aa57-47d9-a66e-e1ae3d201322</url>
+    <urlname>Arbor Knick (Bonus)</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Unknown Cache</type>
+    <groundspeak:cache id="1493420" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Arbor Knick (Bonus)</groundspeak:name>
+      <groundspeak:placed_by>Lietz-Cacher</groundspeak:placed_by>
+      <groundspeak:owner id="1965442">Lietz-Cacher</groundspeak:owner>
+      <groundspeak:type>Unknown Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>2</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">Bonus Cache zu "Arboretum"</groundspeak:short_description>
+      <groundspeak:long_description html="False">Zusammen mir "Arbor Pust" zeigt dieser Bonus-Cache den einfachsten Weg zurück zum Auto. Leiter hat unser "Arbor Knick" unter Xinthia sehr gelitten und hat die "A-Form", wegen der wir den Namen ausgewählt haben, fast verloren. Auch haben die Rückegassen sich infolge der Aufräumarbeiten sehr verändert und wir haben den Weg noch mit Reflektoren gekennzeichnet, an dem richtigen "Arbor Knick" sind wieder Doppelreflektoren.
+
+Die Bonuszahl befindet sich im Logbuch von "Arboretum". Damit erhaltet ihr:
+
+N    37.(8 * Bonuszahl + 7)
+E    45.(70 * Bonuszahl - 3)
+
+Additional Waypoints
+</groundspeak:long_description>
+      <groundspeak:encoded_hints>aufkopfhoehe</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="138254465">
+          <groundspeak:date>2010-12-03T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="438973">Aldokyl</groundspeak:finder>
+          <groundspeak:text encoded="False">Danke auch für diesen Bonus.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="138022270">
+          <groundspeak:date>2010-12-03T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1477790">TT-Diver76</groundspeak:finder>
+          <groundspeak:text encoded="False">hier haben Aldokyl und Krass-D sehr lange das Logbuch suchen müssen, als Krass-D dann von einem Baum komplett eingeweisst wurde, viel beim reinigen das Döschen aus seiner Kaputze
+
+EIN WUNDER!!!!! Krass-D der Cachergott!
+
+tftc Jan</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="137826878">
+          <groundspeak:date>2010-12-03T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1309085">Krass-D</groundspeak:finder>
+          <groundspeak:text encoded="False">im tiefen Schnee bei -10°C gefunden...</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="136421812">
+          <groundspeak:date>2010-11-20T19:29:39Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3918255">Clowns 4ever</groundspeak:finder>
+          <groundspeak:text encoded="False">Gut gefunden und zurück gekommen!!! ;-))) </groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="133434130">
+          <groundspeak:date>2010-10-25T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Write note</groundspeak:type>
+          <groundspeak:finder id="2729325">HubiFD</groundspeak:finder>
+          <groundspeak:text encoded="False">Coin nachgeloggt.
+
+Gruß Hubi</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

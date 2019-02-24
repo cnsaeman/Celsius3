@@ -1,0 +1,130 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>001181</id>
+  <cache-id>GC2GM3N</cache-id>
+  <type>Multi-cache</type>
+  <name>Refectorium by Camuvlash, Multi-cache (2/2)</name>
+  <size>Regular</size>
+  <difficulty>2</difficulty>
+  <terrain>2</terrain>
+  <last-found>2010-12-13</last-found>
+  <placed>2010-10-12</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Camuvlash</placedby>
+  <found>Geocache</found>
+  <lat>50.52105</lat>
+  <lon>9.68505</lon>
+  <last-logs>FFF</last-logs>
+  <owner>Camuvlash</owner>
+  <description>
+      </description>
+  <long-description>Motiviert durch "Die 5 Stooges" soll dieser Wald zu einem "Schlaraffenland" werden ^^
+Dort wird gekocht, hier gebacken...
+
+Alle Stages sind im Wald/Waldrand oder von einem Waldweg am besten zugänglich.
+In Nähe von Stage 1 und 2 laden Bänke zum Verschnaufen ein.
+
+Additional Waypoints
+</long-description>
+  <encoded-hints>zloh :snie egats
+ebie :iewz egats
+...ekcab ekcab; mmats :lanif</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=d1f71ae6-de34-4588-a36d-5edd4e2f477c</url>
+  <url-name>Refectorium</url-name>
+  <logs><ul><li>2010-12-22T20:00:00Z : Found it by Jobsti(Juppy) <br />Heute hab ich mal nen kleinen Winter-Waldspaziergang gemacht.
+Die Stationen waren trotz Schnee recht gut zu finden.
+Die Herrausforderung war hier das Final.
+Alles voll Schnee und viele versteck Möglichkeiten.
+Hab da mit etwas Glück die Dose doch gefunden und für den Fall, das Jemand meinen Spuren folgen sollte noch 10 Minuten mit extr Runden gehen verbracht [:D]
+
+Danke für den Cache, Jobsti!
+
+IN: TB</li><li>2010-12-13T22:08:16Z : Publish Listing by GC-Knecht <br />Published</li><li>2010-12-13T20:00:00Z : Found it by Maluma <br />Zusammen mit Hubi den FTF gemacht..Garry hat wohl keine Lust mehr gehabt heute ..grins. 
+Aber was haben 5 Stooges mit Geocachen zu tun?..selbst Google findet da nix sinnvolles.
+
+TFTC MALUMA</li><li>2010-12-13T20:00:00Z : Found it by HubiFD <br />[:D][:D][:D] FTF [:D][:D][:D] 
+Da hab ich mich anfangs etwas verlesen und hatte mal vorsichtshalber eine starke Taschenlampe eingepackt. Da war dann aber nichts mit Reflektoren, was es allerdings mit dem Refectorium zu tun haben soll ist mir immer noch schleierhaft. Da war nix von einem Kloster oder gar einem Speisesaal zu sehen, nur eine alte Backform, könnte ja sein dass sich der Owner da drauf bezieht. Backform = Schlaraffenland ???? Zusammen mit Maluma waren die Stationen schnell und gut zu finden gewesen.
+
+TFTC Gruß Hubi</li></ul></logs>
+  <original-xml>  <wpt  lat="50.52105" lon="9.68505">
+    <time>2010-10-12T07:00:00Z</time>
+    <name>GC2GM3N</name>
+    <desc>Refectorium by Camuvlash, Multi-cache (2/2)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=d1f71ae6-de34-4588-a36d-5edd4e2f477c</url>
+    <urlname>Refectorium</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Multi-cache</type>
+    <groundspeak:cache id="1931912" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Refectorium</groundspeak:name>
+      <groundspeak:placed_by>Camuvlash</groundspeak:placed_by>
+      <groundspeak:owner id="2724623">Camuvlash</groundspeak:owner>
+      <groundspeak:type>Multi-cache</groundspeak:type>
+      <groundspeak:container>Regular</groundspeak:container>
+      <groundspeak:difficulty>2</groundspeak:difficulty>
+      <groundspeak:terrain>2</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">
+      </groundspeak:short_description>
+      <groundspeak:long_description html="False">Motiviert durch "Die 5 Stooges" soll dieser Wald zu einem "Schlaraffenland" werden ^^
+Dort wird gekocht, hier gebacken...
+
+Alle Stages sind im Wald/Waldrand oder von einem Waldweg am besten zugänglich.
+In Nähe von Stage 1 und 2 laden Bänke zum Verschnaufen ein.
+
+Additional Waypoints
+</groundspeak:long_description>
+      <groundspeak:encoded_hints>zloh :snie egats
+ebie :iewz egats
+...ekcab ekcab; mmats :lanif</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="139021087">
+          <groundspeak:date>2010-12-22T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="451798">Jobsti(Juppy)</groundspeak:finder>
+          <groundspeak:text encoded="False">Heute hab ich mal nen kleinen Winter-Waldspaziergang gemacht.
+Die Stationen waren trotz Schnee recht gut zu finden.
+Die Herrausforderung war hier das Final.
+Alles voll Schnee und viele versteck Möglichkeiten.
+Hab da mit etwas Glück die Dose doch gefunden und für den Fall, das Jemand meinen Spuren folgen sollte noch 10 Minuten mit extr Runden gehen verbracht [:D]
+
+Danke für den Cache, Jobsti!
+
+IN: TB</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="138518047">
+          <groundspeak:date>2010-12-13T22:08:16Z</groundspeak:date>
+          <groundspeak:type>Publish Listing</groundspeak:type>
+          <groundspeak:finder id="1493602">GC-Knecht</groundspeak:finder>
+          <groundspeak:text encoded="False">Published</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="138527006">
+          <groundspeak:date>2010-12-13T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1380311">Maluma</groundspeak:finder>
+          <groundspeak:text encoded="False">Zusammen mit Hubi den FTF gemacht..Garry hat wohl keine Lust mehr gehabt heute ..grins. 
+Aber was haben 5 Stooges mit Geocachen zu tun?..selbst Google findet da nix sinnvolles.
+
+TFTC MALUMA</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="138525960">
+          <groundspeak:date>2010-12-13T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2729325">HubiFD</groundspeak:finder>
+          <groundspeak:text encoded="False">[:D][:D][:D] FTF [:D][:D][:D] 
+Da hab ich mich anfangs etwas verlesen und hatte mal vorsichtshalber eine starke Taschenlampe eingepackt. Da war dann aber nichts mit Reflektoren, was es allerdings mit dem Refectorium zu tun haben soll ist mir immer noch schleierhaft. Da war nix von einem Kloster oder gar einem Speisesaal zu sehen, nur eine alte Backform, könnte ja sein dass sich der Owner da drauf bezieht. Backform = Schlaraffenland ???? Zusammen mit Maluma waren die Stationen schnell und gut zu finden gewesen.
+
+TFTC Gruß Hubi</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs>
+        <groundspeak:travelbug id="552032" ref="TB11A7D">
+          <groundspeak:name>AIR FORCE: 9W Trg</groundspeak:name>
+        </groundspeak:travelbug>
+      </groundspeak:travelbugs>
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

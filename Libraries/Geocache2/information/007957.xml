@@ -1,0 +1,134 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>007957</id>
+  <cache-id>GCN1GJ</cache-id>
+  <type>Traditional Cache</type>
+  <name>War Memorial Park by Kili or bust, Traditional Cache (1/1)</name>
+  <size>Micro</size>
+  <difficulty>1</difficulty>
+  <terrain>1</terrain>
+  <last-found>never</last-found>
+  <placed>2005-03-08</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>Kili or bust</placedby>
+  <found>Geocache</found>
+  <lat>53.343483</lat>
+  <lon>-6.317833</lon>
+  <last-logs>MXXXX</last-logs>
+  <owner>Kili or bust</owner>
+  <description><p align="center"><a target="_blank"
+href="http://www.geocachingireland.com/index.html"><img border="0"
+src="http://img.geocaching.com/cache/2280ab19-c5fc-4d33-8efb-797df9c0ac8c.jpg"
+     width="150" height="43" align="middle" /></a></p>
+<hr size="2" />
+<center><font color="Green">Visit The Geocaching Ireland discussion
+forum <a rel="nofollow" href="http://www.mccartan.org/forums/"
+target="_blank">HERE</a></font></center>
+<hr size="2" /></description>
+  <long-description>This is a lovely and not so overused park, close to the centre of
+Dublin. There is a peaceful stretch of the river Liffey and most
+times you can witness boat crews out practising.<br />
+The park is at the Phoenix Park end of South Circular Road and can
+be reached easily by any means, bus, bicycle, on foot from town or
+by car.<br />
+ Parking is available at 53 20.751N 006 18.584W which is outside
+the park or at 53 20.749N 006 18.806W which will bring you into it.
+Be sure to watch for the time this car park closes which is posted
+there. In March when this cache was placed the closing time was
+4.00 pm.<br />
+Go to the South West exit from the Memorial area.<br />
+<br />
+The cache has been changed to a micro at 21/7/07 and also has been
+move up a few feet to escape the water.<br />
+<br />
+<br /></long-description>
+  <encoded-hints>Cache has been moved a few feet. It is now about knee height on left as you ascend behind small pointed stone.</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=c9183f7f-c110-46ac-b243-293372f232d7</url>
+  <url-name>War Memorial Park</url-name>
+  <logs><ul><li>2010-06-15T19:00:00Z : Owner Maintenance by Kili or bust <br />Cache replaced with a keyholder box and new log.</li><li>2010-05-18T19:00:00Z : Didn't find it by dragonfamily666 <br />thought with the description and the hint that this would be pretty good to find, unfortunately we didn't find it. we spent quite a long time looking but couldn't unearth it. 
+nice place though</li><li>2010-05-12T19:00:00Z : Didn't find it by geotej <br />Disappeared we think, nice park.</li><li>2010-05-09T19:00:00Z : Didn't find it by AbbeyAckbar <br />2nd dnf today. Great park. I won't mind coming back here to look for the cache and with Ackbar next time.</li><li>2010-04-25T19:00:00Z : Didn't find it by anacreon <br />Spent about 20 minutes looking for something matching the hint; given the log history it doesn't sound that hard to find, but I was unhappy picking apart a stone wall. There are already some gaps and fallen stones, so it might have been accidentally uncovered.</li></ul></logs>
+  <original-xml>  <wpt  lat="53.343483" lon="-6.317833">
+    <time>2005-03-08T08:00:00Z</time>
+    <name>GCN1GJ</name>
+    <desc>War Memorial Park by Kili or bust, Traditional Cache (1/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=c9183f7f-c110-46ac-b243-293372f232d7</url>
+    <urlname>War Memorial Park</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="215966" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>War Memorial Park</groundspeak:name>
+      <groundspeak:placed_by>Kili or bust</groundspeak:placed_by>
+      <groundspeak:owner id="281705">Kili or bust</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>Dublin</groundspeak:state>
+      <groundspeak:short_description html="True">&lt;p align="center"&gt;&lt;a target="_blank"
+href="http://www.geocachingireland.com/index.html"&gt;&lt;img border="0"
+src="http://img.geocaching.com/cache/2280ab19-c5fc-4d33-8efb-797df9c0ac8c.jpg"
+     width="150" height="43" align="middle" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;hr size="2" /&gt;
+&lt;center&gt;&lt;font color="Green"&gt;Visit The Geocaching Ireland discussion
+forum &lt;a rel="nofollow" href="http://www.mccartan.org/forums/"
+target="_blank"&gt;HERE&lt;/a&gt;&lt;/font&gt;&lt;/center&gt;
+&lt;hr size="2" /&gt;</groundspeak:short_description>
+      <groundspeak:long_description html="True">This is a lovely and not so overused park, close to the centre of
+Dublin. There is a peaceful stretch of the river Liffey and most
+times you can witness boat crews out practising.&lt;br /&gt;
+The park is at the Phoenix Park end of South Circular Road and can
+be reached easily by any means, bus, bicycle, on foot from town or
+by car.&lt;br /&gt;
+ Parking is available at 53 20.751N 006 18.584W which is outside
+the park or at 53 20.749N 006 18.806W which will bring you into it.
+Be sure to watch for the time this car park closes which is posted
+there. In March when this cache was placed the closing time was
+4.00 pm.&lt;br /&gt;
+Go to the South West exit from the Memorial area.&lt;br /&gt;
+&lt;br /&gt;
+The cache has been changed to a micro at 21/7/07 and also has been
+move up a few feet to escape the water.&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>Cache has been moved a few feet. It is now about knee height on left as you ascend behind small pointed stone.</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="113018993">
+          <groundspeak:date>2010-06-15T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Owner Maintenance</groundspeak:type>
+          <groundspeak:finder id="281705">Kili or bust</groundspeak:finder>
+          <groundspeak:text encoded="False">Cache replaced with a keyholder box and new log.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="109285843">
+          <groundspeak:date>2010-05-18T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Didn't find it</groundspeak:type>
+          <groundspeak:finder id="3279357">dragonfamily666</groundspeak:finder>
+          <groundspeak:text encoded="False">thought with the description and the hint that this would be pretty good to find, unfortunately we didn't find it. we spent quite a long time looking but couldn't unearth it. 
+nice place though</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="109978107">
+          <groundspeak:date>2010-05-12T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Didn't find it</groundspeak:type>
+          <groundspeak:finder id="1850860">geotej</groundspeak:finder>
+          <groundspeak:text encoded="False">Disappeared we think, nice park.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="107835635">
+          <groundspeak:date>2010-05-09T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Didn't find it</groundspeak:type>
+          <groundspeak:finder id="1265839">AbbeyAckbar</groundspeak:finder>
+          <groundspeak:text encoded="False">2nd dnf today. Great park. I won't mind coming back here to look for the cache and with Ackbar next time.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="105761932">
+          <groundspeak:date>2010-04-25T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Didn't find it</groundspeak:type>
+          <groundspeak:finder id="2099725">anacreon</groundspeak:finder>
+          <groundspeak:text encoded="False">Spent about 20 minutes looking for something matching the hint; given the log history it doesn't sound that hard to find, but I was unhappy picking apart a stone wall. There are already some gaps and fallen stones, so it might have been accidentally uncovered.</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

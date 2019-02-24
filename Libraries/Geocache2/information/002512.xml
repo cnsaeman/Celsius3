@@ -1,0 +1,186 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>002512</id>
+  <cache-id>GCVZVV</cache-id>
+  <type>Unknown Cache</type>
+  <name>Tee'd Off by Windsockers, Unknown Cache (2.5/2)</name>
+  <size>Small</size>
+  <difficulty>2.5</difficulty>
+  <terrain>2</terrain>
+  <last-found>2009-04-14</last-found>
+  <placed>2006-05-11</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>Windsockers</placedby>
+  <found>Geocache</found>
+  <lat>53.465633</lat>
+  <lon>-6.082233</lon>
+  <last-logs>MWMF</last-logs>
+  <owner>Windsockers</owner>
+  <description><center><img src=
+"http://www.northbeach.ie/gallery/albums/userpics/10001/normal_Copy_of_DSCF0094.JPG" /></center></description>
+  <long-description><br />
+<b>Donabate Beach</b>
+<p>Donabate Beach is a sandy beach 3.4 km long, consisting of a
+large sandy dune area which has formed over the last twenty five to
+thirty years. There are a number of pedestrian accesses to the
+beach.</p>
+<p>Anybody wanting to take a stroll further along the beach needs
+to be aware that some area's are used by naturists</p>
+<b>Island golf club</b>
+<p>The Island has a long history attached to it. It was back in the
+1880's when four well to do bachelors rowed across the inlet
+between Malahide village and "the island" to inspect the territory
+and quickly returned to spread the word. Soon, a group of ten local
+men clubbed together to lease the land and so was born The Island
+Golf Club. The club remained strictly private until after the
+Second World War when a lack of finance prompted the move to
+membership. The course was only accessible by boat from the
+Malahide marina until 1973 and though these days are now gone, what
+remains is a traditional, world class links golf course that rivals
+the very best in the world.</p>
+<p><b>The Cache</b></p>
+<p>To find the cache all you need to do is complete the jigsaw and
+get the co-ords from the photo simple !!! beware the flash player
+will reset if you take too long !!!!</p>
+<p><a href=
+"http://six.flash-gear.com/npuz/puz.php?c=v&id=3047135&k=55200543">
+Jigsaw</a></p>
+<p>The cache is a small box with a note book and pencil</p>
+<p>As this beach is very popular please be aware of muggles when
+rehiding the cache</p>
+<p>You can check your answers for this puzzle on <a href=
+"http://www.geochecker.com/index.php?code=f748b187c4d9bca04354642edadb89e9&action=check&wp=4743565a5656&name=5465652764204f6666">
+Geochecker.com</a></p>
+<center><img src=
+"http://www.northbeach.ie/gallery/albums/userpics/10001/windsock-anim-small.gif" /><br />
+
+<b>The Windsockers</b></center></long-description>
+  <additional-waypoints>FLVZVV - Cache location<br />N/S  __ ° __ . ___ W/E ___ ° __ . ___ <br /><br /></additional-waypoints>
+  <links>waypoints:cache-id:FLVZVV</links>
+  <encoded-hints>That would make it too easy</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=4fdb85bf-cb2e-4772-9f72-56ef01dbaaac</url>
+  <url-name>Tee'd Off</url-name>
+  <logs><ul><li>2010-02-11T20:00:00Z : Owner Maintenance by Windsockers <br />[green]new link added[/green]</li><li>2010-02-11T20:00:00Z : Write note by Blue Jay 59 <br />Are the links working? or is it me? I made sure to disable pop up blocker - new window opens www.flash-gear.com - but no puzzle.</li><li>2009-10-16T19:19:00Z : Needs Maintenance by abra123cadabra <br />Clicking on the link opens a new window but I seem to be unable to see the flash player and the puzzle.
+Can the cache owner please check that it is still working? Thank you.
+
+Update: Thanks for checking the link. I had problems to load the puzzle page because my clever browser had popup-blocker enabled.
+Will try to solve this puzzle when I have a lot of time - and I mean probably days. [:)]
+
+[This entry was edited by abra123cadabra on Saturday, October 17, 2009 at 12:58:24 PM.]</li><li>2009-10-16T19:00:00Z : Owner Maintenance by Windsockers <br />links are working</li><li>2009-04-14T19:00:00Z : Found it by AbbeyAckbar <br />(#329 @ 19:40)
+I (Ackbar) had solved this puzzle last July but hadn't put together the coordinates to go find the cache until last week with the help of my brother JeePS(Him).
+
+So off we went today to find it. We got parking about 0.2 of a mile from the cache and then had a nice stroll the rest of the way.
+
+It was tough to unearth, as Xenotime log mentioned and the ants are still very much present. I tried to disturb them as little as possible (But they were not happy [V]). We signed the log and re-hid the cache in a way that should allow the next seeker to get it without being Rambo [:)]
+
+TFTC!</li></ul></logs>
+  <original-xml>  <wpt  lat="53.465633" lon="-6.082233">
+    <time>2006-05-11T07:00:00Z</time>
+    <name>GCVZVV</name>
+    <desc>Tee'd Off by Windsockers, Unknown Cache (2.5/2)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=4fdb85bf-cb2e-4772-9f72-56ef01dbaaac</url>
+    <urlname>Tee'd Off</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Unknown Cache</type>
+    <groundspeak:cache id="393108" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Tee'd Off</groundspeak:name>
+      <groundspeak:placed_by>Windsockers</groundspeak:placed_by>
+      <groundspeak:owner id="271623">Windsockers</groundspeak:owner>
+      <groundspeak:type>Unknown Cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>2.5</groundspeak:difficulty>
+      <groundspeak:terrain>2</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>Leinster</groundspeak:state>
+      <groundspeak:short_description html="True">&lt;center&gt;&lt;img src=
+"http://www.northbeach.ie/gallery/albums/userpics/10001/normal_Copy_of_DSCF0094.JPG" /&gt;&lt;/center&gt;</groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;br /&gt;
+&lt;b&gt;Donabate Beach&lt;/b&gt;
+&lt;p&gt;Donabate Beach is a sandy beach 3.4 km long, consisting of a
+large sandy dune area which has formed over the last twenty five to
+thirty years. There are a number of pedestrian accesses to the
+beach.&lt;/p&gt;
+&lt;p&gt;Anybody wanting to take a stroll further along the beach needs
+to be aware that some area's are used by naturists&lt;/p&gt;
+&lt;b&gt;Island golf club&lt;/b&gt;
+&lt;p&gt;The Island has a long history attached to it. It was back in the
+1880's when four well to do bachelors rowed across the inlet
+between Malahide village and "the island" to inspect the territory
+and quickly returned to spread the word. Soon, a group of ten local
+men clubbed together to lease the land and so was born The Island
+Golf Club. The club remained strictly private until after the
+Second World War when a lack of finance prompted the move to
+membership. The course was only accessible by boat from the
+Malahide marina until 1973 and though these days are now gone, what
+remains is a traditional, world class links golf course that rivals
+the very best in the world.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;The Cache&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;To find the cache all you need to do is complete the jigsaw and
+get the co-ords from the photo simple !!! beware the flash player
+will reset if you take too long !!!!&lt;/p&gt;
+&lt;p&gt;&lt;a href=
+"http://six.flash-gear.com/npuz/puz.php?c=v&amp;amp;id=3047135&amp;amp;k=55200543"&gt;
+Jigsaw&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The cache is a small box with a note book and pencil&lt;/p&gt;
+&lt;p&gt;As this beach is very popular please be aware of muggles when
+rehiding the cache&lt;/p&gt;
+&lt;p&gt;You can check your answers for this puzzle on &lt;a href=
+"http://www.geochecker.com/index.php?code=f748b187c4d9bca04354642edadb89e9&amp;amp;action=check&amp;amp;wp=4743565a5656&amp;amp;name=5465652764204f6666"&gt;
+Geochecker.com&lt;/a&gt;&lt;/p&gt;
+&lt;center&gt;&lt;img src=
+"http://www.northbeach.ie/gallery/albums/userpics/10001/windsock-anim-small.gif" /&gt;&lt;br /&gt;
+
+&lt;b&gt;The Windsockers&lt;/b&gt;&lt;/center&gt;&lt;p&gt;Additional Waypoints&lt;/p&gt;FLVZVV - Cache location&lt;br /&gt;N/S  __ ° __ . ___ W/E ___ ° __ . ___ &lt;br /&gt;&lt;br /&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>That would make it too easy</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="97089755">
+          <groundspeak:date>2010-02-11T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Owner Maintenance</groundspeak:type>
+          <groundspeak:finder id="271623">Windsockers</groundspeak:finder>
+          <groundspeak:text encoded="False">[green]new link added[/green]</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="97071392">
+          <groundspeak:date>2010-02-11T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Write note</groundspeak:type>
+          <groundspeak:finder id="2709154">Blue Jay 59</groundspeak:finder>
+          <groundspeak:text encoded="False">Are the links working? or is it me? I made sure to disable pop up blocker - new window opens www.flash-gear.com - but no puzzle.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="87562899">
+          <groundspeak:date>2009-10-16T19:19:00Z</groundspeak:date>
+          <groundspeak:type>Needs Maintenance</groundspeak:type>
+          <groundspeak:finder id="2383033">abra123cadabra</groundspeak:finder>
+          <groundspeak:text encoded="False">Clicking on the link opens a new window but I seem to be unable to see the flash player and the puzzle.
+Can the cache owner please check that it is still working? Thank you.
+
+Update: Thanks for checking the link. I had problems to load the puzzle page because my clever browser had popup-blocker enabled.
+Will try to solve this puzzle when I have a lot of time - and I mean probably days. [:)]
+
+[This entry was edited by abra123cadabra on Saturday, October 17, 2009 at 12:58:24 PM.]</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="87563690">
+          <groundspeak:date>2009-10-16T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Owner Maintenance</groundspeak:type>
+          <groundspeak:finder id="271623">Windsockers</groundspeak:finder>
+          <groundspeak:text encoded="False">links are working</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="67795972">
+          <groundspeak:date>2009-04-14T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1265839">AbbeyAckbar</groundspeak:finder>
+          <groundspeak:text encoded="False">(#329 @ 19:40)
+I (Ackbar) had solved this puzzle last July but hadn't put together the coordinates to go find the cache until last week with the help of my brother JeePS(Him).
+
+So off we went today to find it. We got parking about 0.2 of a mile from the cache and then had a nice stroll the rest of the way.
+
+It was tough to unearth, as Xenotime log mentioned and the ants are still very much present. I tried to disturb them as little as possible (But they were not happy [V]). We signed the log and re-hid the cache in a way that should allow the next seeker to get it without being Rambo [:)]
+
+TFTC!</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

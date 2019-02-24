@@ -1,0 +1,134 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>008902</id>
+  <cache-id>GC20VM3</cache-id>
+  <type>Traditional Cache</type>
+  <name>Fitzwilliam Square by Hezekiah, Traditional Cache (1/1)</name>
+  <size>Micro</size>
+  <difficulty>1</difficulty>
+  <terrain>1</terrain>
+  <last-found>2009-11-14</last-found>
+  <placed>2009-11-09</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>Hezekiah</placedby>
+  <found>Geocache Found</found>
+  <lat>53.335133</lat>
+  <lon>-6.2527</lon>
+  <last-logs>FFXFFF</last-logs>
+  <owner>Hezekiah</owner>
+  <description><p align="center"><a target="_blank"
+href="http://www.geocachingireland.com/index.html"><img border="0"
+src="http://geocachingireland.com/logo4.jpg" width="328"
+height="53" align="middle" /></a></p>
+<hr align="center" size="2" width="40%" />
+<center><font color="blue">Visit the <b>new</b> Geocaching Ireland
+discussion forum <a href="http://www.mccartan.org/forums/"
+target="_blank">HERE</a></font></center>
+<hr align="center" size="2" width="40%" /></description>
+  <long-description><p>Named after the Fitzwilliam family, Earls of Merrion, who
+developed this land as part of their great estate on the southside
+of the Liffey, this estate was laid out between 1760 and 1850. The
+land acquired by the Fitzwilliam family was leased from the City
+Corporation and as it was a single block, this lent it a
+cohesiveness that was lacking in the Gardiner Estate, which was
+developed and bought in small parcels.</p>
+<p>Nearby Fitzwilliam Street was once the longest expanse of intact
+Georgian architecture anywhere in the world, but was destroyed in
+the 1970s when the ESB knocked a row of houses to develop a new
+Head Office</p></long-description>
+  <encoded-hints>Opposite 30, grating, join.</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=5137361c-0afd-4238-a60f-9e12b313d1ef</url>
+  <url-name>Fitzwilliam Square</url-name>
+  <logs><ul><li>2010-06-14T19:00:00Z : Found it by scheff <br />Together with sina1507 we started our holiday in Dublin today with geocaching.
+TFTC scheff from Germany</li><li>2010-06-14T19:00:00Z : Found it by sina1507 <br />Together with scheff we started our holiday in Dublin today with geocaching.
+TFTC sina1507 from Germany</li><li>2010-06-12T19:00:00Z : Didn't find it by THE_Chris <br />More or less know where this one is, but there were some sun dwellers sitting on the step right opposite the cache site, watching me. Waay too obvious to make a grab at it. Will be back.</li><li>2010-06-06T19:00:00Z : Found it by Dryagonfly <br />A quick easy one to find. TFTC and greetings from Finland</li><li>2010-06-04T19:00:00Z : Found it by eve1987 <br />Now we know the words from the hint :)
+
+TFTC, eve</li><li>2009-11-14T20:00:00Z : Found it by Kersti.com <br />A nice and easy find. Good to see another cache on this pretty square.</li></ul></logs>
+  <original-xml>  <wpt  lat="53.335133" lon="-6.2527">
+    <time>2009-11-09T08:00:00Z</time>
+    <name>GC20VM3</name>
+    <desc>Fitzwilliam Square by Hezekiah, Traditional Cache (1/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=5137361c-0afd-4238-a60f-9e12b313d1ef</url>
+    <urlname>Fitzwilliam Square</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1461531" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Fitzwilliam Square</groundspeak:name>
+      <groundspeak:placed_by>Hezekiah</groundspeak:placed_by>
+      <groundspeak:owner id="274644">Hezekiah</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>Dublin</groundspeak:state>
+      <groundspeak:short_description html="True">&lt;p align="center"&gt;&lt;a target="_blank"
+href="http://www.geocachingireland.com/index.html"&gt;&lt;img border="0"
+src="http://geocachingireland.com/logo4.jpg" width="328"
+height="53" align="middle" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;hr align="center" size="2" width="40%" /&gt;
+&lt;center&gt;&lt;font color="blue"&gt;Visit the &lt;b&gt;new&lt;/b&gt; Geocaching Ireland
+discussion forum &lt;a href="http://www.mccartan.org/forums/"
+target="_blank"&gt;HERE&lt;/a&gt;&lt;/font&gt;&lt;/center&gt;
+&lt;hr align="center" size="2" width="40%" /&gt;</groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;p&gt;Named after the Fitzwilliam family, Earls of Merrion, who
+developed this land as part of their great estate on the southside
+of the Liffey, this estate was laid out between 1760 and 1850. The
+land acquired by the Fitzwilliam family was leased from the City
+Corporation and as it was a single block, this lent it a
+cohesiveness that was lacking in the Gardiner Estate, which was
+developed and bought in small parcels.&lt;/p&gt;
+&lt;p&gt;Nearby Fitzwilliam Street was once the longest expanse of intact
+Georgian architecture anywhere in the world, but was destroyed in
+the 1970s when the ESB knocked a row of houses to develop a new
+Head Office&lt;/p&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>Opposite 30, grating, join.</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="112896463">
+          <groundspeak:date>2010-06-14T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="374472">scheff</groundspeak:finder>
+          <groundspeak:text encoded="False">Together with sina1507 we started our holiday in Dublin today with geocaching.
+TFTC scheff from Germany</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="112895804">
+          <groundspeak:date>2010-06-14T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2183349">sina1507</groundspeak:finder>
+          <groundspeak:text encoded="False">Together with scheff we started our holiday in Dublin today with geocaching.
+TFTC sina1507 from Germany</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="112513945">
+          <groundspeak:date>2010-06-12T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Didn't find it</groundspeak:type>
+          <groundspeak:finder id="1191253">THE_Chris</groundspeak:finder>
+          <groundspeak:text encoded="False">More or less know where this one is, but there were some sun dwellers sitting on the step right opposite the cache site, watching me. Waay too obvious to make a grab at it. Will be back.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="111897403">
+          <groundspeak:date>2010-06-06T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="718390">Dryagonfly</groundspeak:finder>
+          <groundspeak:text encoded="False">A quick easy one to find. TFTC and greetings from Finland</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="111885482">
+          <groundspeak:date>2010-06-04T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1617792">eve1987</groundspeak:finder>
+          <groundspeak:text encoded="False">Now we know the words from the hint :)
+
+TFTC, eve</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="90368680">
+          <groundspeak:date>2009-11-14T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="320206">Kersti.com</groundspeak:finder>
+          <groundspeak:text encoded="False">A nice and easy find. Good to see another cache on this pretty square.</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

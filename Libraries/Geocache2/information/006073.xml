@@ -1,0 +1,142 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>006073</id>
+  <cache-id>GC2137X</cache-id>
+  <type>Traditional Cache</type>
+  <name> George's Tree by Windsockers, Traditional Cache (1/1.5)</name>
+  <size>Micro</size>
+  <difficulty>1</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-03-28</last-found>
+  <placed>2010-01-28</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>Windsockers</placedby>
+  <found>Geocache</found>
+  <lat>53.489233</lat>
+  <lon>-6.129283</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>Windsockers</owner>
+  <description><center><img src=
+"http://img.geocaching.com/cache/82a4dfb4-7b01-4e88-afdb-8861e63656e0.jpg" /></center></description>
+  <long-description><p>This area was once the grounds of Portrane House, previously
+owned by George and Sophia Evans. The architect was Mr Ashlin, a
+Gothic revival architect,<br />
+It's now the home of St. Ita&rsquo;s psychiatric hospital.Work
+commenced on the building of the hospital in 1896 and took 6 years
+to complete. the hospital was built in a revivalist ancient Irish
+style. In the grounds of the hospital is the George Evans memorial,
+a round tower memorial built by George&rsquo;s wife Sophia,
+following his death.There was originally a bust of George in the
+alcove of the tower.</p>
+<p><b>The Cache</b></p>
+<p>The cache is a micro container.<br />
+<br />
+Please take care and rehide the cache to prevent muggles from
+discovering its location.</p>
+<br />
+<br />
+<center><br />
+<br />
+<img src=
+"http://www.northbeach.ie/gallery/albums/userpics/10001/windsock-anim-small.gif" />
+<br />
+<br />
+<b>The Windsockers</b></center>
+<br />
+<br />
+<hr size="2" /></long-description>
+  <encoded-hints>
+      </encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=8f1faa04-07dd-4d05-b5c1-0d0257b3796d</url>
+  <url-name> George's Tree</url-name>
+  <logs><ul><li>2010-06-13T19:00:00Z : Found it by thomasvm <br />Quick find. TFTC</li><li>2010-06-07T19:00:00Z : Found it by niallk1234 <br />Handy find, the fifth of 6 finds for today. TFTC.</li><li>2010-05-15T19:00:00Z : Found it by Alastair74 <br />Found with Wildfowler while spending the day in Dublin for the WWFM. TFTC</li><li>2010-05-15T19:00:00Z : Found it by wildfowler <br />Found on a caching weekend around Dublin with Alastair74!  What a fantastic tree! TNLNSL TFTC</li><li>2010-03-28T19:00:00Z : Found it by merann <br />That is one big brute of a tree. Found easily. SL.
+TFTC, Merann. </li></ul></logs>
+  <original-xml>  <wpt  lat="53.489233" lon="-6.129283">
+    <time>2010-01-28T08:00:00Z</time>
+    <name>GC2137X</name>
+    <desc> George's Tree by Windsockers, Traditional Cache (1/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=8f1faa04-07dd-4d05-b5c1-0d0257b3796d</url>
+    <urlname> George's Tree</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1468841" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name> George's Tree</groundspeak:name>
+      <groundspeak:placed_by>Windsockers</groundspeak:placed_by>
+      <groundspeak:owner id="271623">Windsockers</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>Leinster</groundspeak:state>
+      <groundspeak:short_description html="True">&lt;center&gt;&lt;img src=
+"http://img.geocaching.com/cache/82a4dfb4-7b01-4e88-afdb-8861e63656e0.jpg" /&gt;&lt;/center&gt;</groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;p&gt;This area was once the grounds of Portrane House, previously
+owned by George and Sophia Evans. The architect was Mr Ashlin, a
+Gothic revival architect,&lt;br /&gt;
+It's now the home of St. Ita&amp;rsquo;s psychiatric hospital.Work
+commenced on the building of the hospital in 1896 and took 6 years
+to complete. the hospital was built in a revivalist ancient Irish
+style. In the grounds of the hospital is the George Evans memorial,
+a round tower memorial built by George&amp;rsquo;s wife Sophia,
+following his death.There was originally a bust of George in the
+alcove of the tower.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;The Cache&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;The cache is a micro container.&lt;br /&gt;
+&lt;br /&gt;
+Please take care and rehide the cache to prevent muggles from
+discovering its location.&lt;/p&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;center&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;img src=
+"http://www.northbeach.ie/gallery/albums/userpics/10001/windsock-anim-small.gif" /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;The Windsockers&lt;/b&gt;&lt;/center&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;hr size="2" /&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="112774896">
+          <groundspeak:date>2010-06-13T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2849183">thomasvm</groundspeak:finder>
+          <groundspeak:text encoded="False">Quick find. TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="112017576">
+          <groundspeak:date>2010-06-07T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2923926">niallk1234</groundspeak:finder>
+          <groundspeak:text encoded="False">Handy find, the fifth of 6 finds for today. TFTC.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="109093593">
+          <groundspeak:date>2010-05-15T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2453409">Alastair74</groundspeak:finder>
+          <groundspeak:text encoded="False">Found with Wildfowler while spending the day in Dublin for the WWFM. TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="108920059">
+          <groundspeak:date>2010-05-15T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="182407">wildfowler</groundspeak:finder>
+          <groundspeak:text encoded="False">Found on a caching weekend around Dublin with Alastair74!  What a fantastic tree! TNLNSL TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="101621541">
+          <groundspeak:date>2010-03-28T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="134212">merann</groundspeak:finder>
+          <groundspeak:text encoded="False">That is one big brute of a tree. Found easily. SL.
+TFTC, Merann. </groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

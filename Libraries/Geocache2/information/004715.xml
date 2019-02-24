@@ -1,0 +1,130 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>004715</id>
+  <cache-id>GC20JFD</cache-id>
+  <type>Traditional Cache</type>
+  <name>Unusual Abodes "Martello II"    by Windsockers, Traditional Cache (1/2)</name>
+  <size>Micro</size>
+  <difficulty>1</difficulty>
+  <terrain>2</terrain>
+  <last-found>2010-05-01</last-found>
+  <placed>2009-11-20</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>Windsockers</placedby>
+  <found>Geocache</found>
+  <lat>53.4474</lat>
+  <lon>-6.134633</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>Windsockers</owner>
+  <description><center>
+<img src="http://img.geocaching.com/cache/25b40284-26a0-44b7-99d5-bb63e658cba0.jpg" />
+</center></description>
+  <long-description><p>Just a simple cache and dash at an unusual abode</p>
+<p><b>The Cache</b></p>
+<p>The Cache is a micro container.<br />
+Please take care and rehide the cache to prevent muggles from
+discovering its location.</p>
+<br />
+<br />
+<center><br />
+<br />
+<img src="http://www.northbeach.ie/gallery/albums/userpics/10001/windsock-anim-small.gif" />
+<br />
+<br />
+<b>The Windsockers</b></center>
+<br />
+<br />
+<hr size="2" /></long-description>
+  <encoded-hints>
+      </encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=15831339-4bfe-4978-a4bc-d7f946e8d400</url>
+  <url-name>Unusual Abodes "Martello II"   </url-name>
+  <logs><ul><li>2010-06-14T19:00:00Z : Found it by RosMcC <br />No problems - quick find. SL Thanks.</li><li>2010-05-20T19:00:00Z : Found it by Sally&eL <br />19:26 #583
+
+Quick find.
+
+TFTC
+</li><li>2010-05-15T19:00:00Z : Found it by Alastair74 <br />Found with Wildfowler while spending the day in Dublin for the WWFM. TFTC</li><li>2010-05-15T19:00:00Z : Found it by wildfowler <br />Found on a caching weekend around Dublin with Alastair74! TNLNSL TFTC</li><li>2010-05-01T19:18:10Z : Found it by hollmanr <br />Found it. No pen so signed as H with lolly pop stick. TFTC</li></ul></logs>
+  <original-xml>  <wpt  lat="53.4474" lon="-6.134633">
+    <time>2009-11-20T08:00:00Z</time>
+    <name>GC20JFD</name>
+    <desc>Unusual Abodes "Martello II"    by Windsockers, Traditional Cache (1/2)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=15831339-4bfe-4978-a4bc-d7f946e8d400</url>
+    <urlname>Unusual Abodes "Martello II"   </urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1453698" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Unusual Abodes "Martello II"   </groundspeak:name>
+      <groundspeak:placed_by>Windsockers</groundspeak:placed_by>
+      <groundspeak:owner id="271623">Windsockers</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>2</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>Leinster</groundspeak:state>
+      <groundspeak:short_description html="True">&lt;center&gt;
+&lt;img src="http://img.geocaching.com/cache/25b40284-26a0-44b7-99d5-bb63e658cba0.jpg" /&gt;
+&lt;/center&gt;</groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;p&gt;Just a simple cache and dash at an unusual abode&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;The Cache&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;The Cache is a micro container.&lt;br /&gt;
+Please take care and rehide the cache to prevent muggles from
+discovering its location.&lt;/p&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;center&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;img src="http://www.northbeach.ie/gallery/albums/userpics/10001/windsock-anim-small.gif" /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;b&gt;The Windsockers&lt;/b&gt;&lt;/center&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;hr size="2" /&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="112989402">
+          <groundspeak:date>2010-06-14T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="774796">RosMcC</groundspeak:finder>
+          <groundspeak:text encoded="False">No problems - quick find. SL Thanks.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="109748433">
+          <groundspeak:date>2010-05-20T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1466841">Sally&amp;eL</groundspeak:finder>
+          <groundspeak:text encoded="False">19:26 #583
+
+Quick find.
+
+TFTC
+</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="108961870">
+          <groundspeak:date>2010-05-15T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2453409">Alastair74</groundspeak:finder>
+          <groundspeak:text encoded="False">Found with Wildfowler while spending the day in Dublin for the WWFM. TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="108914845">
+          <groundspeak:date>2010-05-15T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="182407">wildfowler</groundspeak:finder>
+          <groundspeak:text encoded="False">Found on a caching weekend around Dublin with Alastair74! TNLNSL TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="106532462">
+          <groundspeak:date>2010-05-01T19:18:10Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2511647">hollmanr</groundspeak:finder>
+          <groundspeak:text encoded="False">Found it. No pen so signed as H with lolly pop stick. TFTC</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

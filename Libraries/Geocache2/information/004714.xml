@@ -1,0 +1,368 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>004714</id>
+  <cache-id>GCN1TB</cache-id>
+  <type>Multi-cache</type>
+  <name>Newbridge House by Windsockers, Multi-cache (2/1.5)</name>
+  <size>Regular</size>
+  <difficulty>2</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2008-09-27</last-found>
+  <placed>2005-04-16</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>Windsockers</placedby>
+  <found>Geocache Found</found>
+  <lat>53.486367</lat>
+  <lon>-6.170567</lon>
+  <last-logs>FFFFFF</last-logs>
+  <owner>Windsockers</owner>
+  <description>Set in the grounds of Newbridge House & Demesne</description>
+  <long-description><center>
+<img src="http://www.northbeach.ie/gallery/albums/userpics/10001/normal_newbridge_.JPG" />
+</center>
+<br />
+<h3>Directions</h3>
+<ol>
+<li>Park your car at the coordinates specified for this cache.
+Alternatively, 
+<ul>
+<li>If you want to do this cache by train: enter the park by the
+entrance at coordinates N53:29.109, W006:09.275 (very close to the
+Donabate train station; get a train from Connolly, Tara Street or
+Pearse Street station in Dublin).</li>
+<li>To do this cache by bus, take the 33B bus from Swords or Dublin
+City Centre, which will drop you off at the main entrance to the
+park (look for sign "Newbridge House and Demesne").</li></ul></li>
+<li>Walk towards the house and find the date it was officially
+opened. Subtract one from the day of the month to get a two
+digit-number. Call the two digits <i>w</i> and <i>x</i>.</li>
+<li>Get the last two digits of the year, and call these two digits
+<i>y</i> and <i>z</i>.</li>
+<li>The coordinates of the second location you should find are then
+given by 
+<blockquote><b>N53 wx.982, W006 10.zzy</b></blockquote>
+<div style="color: red;"><b>EXAMPLE</b>. Suppose the date is the
+15th of August, 1793 (<b>it's not</b>). Subtract one from the date
+to get 14. Then w is 1, x is 4, y is 9 and z is 3, so the
+coordinates would be 
+<blockquote>N53 14.982, W006 10.339</blockquote>
+<b>END EXAMPLE</b></div></li>
+<li>When you get to those coordinates, find the name of the place
+(you might have to look around a bit). Get the first 5 letters of
+that name. Convert these letters to numbers using the following
+table. 
+<blockquote>
+<table>
+<tr>
+<td>A</td>
+<td>B</td>
+<td>C</td>
+<td>D</td>
+<td>E</td>
+<td>F</td>
+<td>G</td>
+<td>H</td>
+<td>I</td>
+<td>J</td>
+<td>K</td>
+<td>L</td>
+<td>M</td>
+<td>N</td>
+<td>O</td>
+<td>P</td>
+<td>Q</td>
+<td>R</td>
+<td>S</td>
+<td>T</td>
+<td>U</td>
+<td>V</td>
+<td>W</td>
+<td>X</td>
+<td>Y</td>
+<td>Z</td></tr>
+<tr>
+<td>6</td>
+<td>0</td>
+<td>5</td>
+<td>2</td>
+<td>2</td>
+<td>9</td>
+<td>8</td>
+<td>4</td>
+<td>2</td>
+<td>5</td>
+<td>1</td>
+<td>0</td>
+<td>3</td>
+<td>7</td>
+<td>3</td>
+<td>8</td>
+<td>2</td>
+<td>9</td>
+<td>3</td>
+<td>5</td>
+<td>0</td>
+<td>1</td>
+<td>3</td>
+<td>5</td>
+<td>7</td>
+<td>6</td></tr></table></blockquote></li>
+<li>Call these numbers <i>a</i>, <i>b</i>, <i>c</i>, <i>d</i> and
+<i>e</i>. The coordinates of the final cache are then given by 
+<blockquote><b>N53 29.ded, W006 10.abc</b></blockquote>
+<div style="color: red;"><b>EXAMPLE</b>. Suppose, if the name of
+this place is "DONTKNOW" (<b>it's not</b>), a = 2, b = 3, c = 7, d
+= 5 and e = 1, and the coordinates would be 
+<blockquote>N53 29.515, W006 10.237</blockquote>
+<b>END EXAMPLE</b></div></li></ol>
+<h3>About Newbridge House and Demesne</h3>
+<p>Newbridge house & Demesne, Donabate. was built in 1736 for
+Archbishop Cobbe. Original furniture, paintings and objets d'art
+are a feature of this gracious Georgian house. The extensive 150h
+demesne includes a walled garden, a wildlife and Deer Park, playing
+and walking areas and a 19th Century working farm, where animals,
+machinery and old farming techniques are on view.</p>
+<h3>Park Opening Times</h3>
+<table>
+<tr>
+<td>Nov. to Jan.</td>
+<td>10.00 am - 5.00 pm</td></tr>
+<tr>
+<td>Feb. to Mar.</td>
+<td>10.00 am - 6.00 pm</td></tr>
+<tr>
+<td>April</td>
+<td>10.00 am - 7.00 pm</td></tr>
+<tr>
+<td>May</td>
+<td>10.00 am - 8.00 pm</td></tr>
+<tr>
+<td>Jun. to Aug.</td>
+<td>10.00 am - 9.00 pm</td></tr>
+<tr>
+<td>Sept.</td>
+<td>10.00 am - 8.00 pm</td></tr>
+<tr>
+<td>Oct.</td>
+<td>10.00 am - 7.00 pm</td></tr></table>
+<center>
+<img src="http://www.northbeach.ie/gallery/albums/userpics/10001/windsock-anim-small.gif" />
+<br />
+<b>The Windsockers</b></center></long-description>
+  <additional-waypoints>FLN1TB - Final Location<br />N/S  __ ° __ . ___ W/E ___ ° __ . ___ <br /><br />S2N1TB - Stage 2<br />N/S  __ ° __ . ___ W/E ___ ° __ . ___ <br /><br /></additional-waypoints>
+  <links>waypoints:cache-id:FLN1TB|waypoints:cache-id:S2N1TB</links>
+  <encoded-hints>[Finding the name of This Place:] Ask for directions.
+
+[Finding the final cache:] There's a bottle there too.</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=f31031b9-a265-494b-ba09-c21c1f89756a</url>
+  <url-name>Newbridge House</url-name>
+  <logs><ul><li>2010-05-22T15:56:56Z : Found it by hollmanr <br />Found it on a beautiful sunny day. The park was very busy with lots of picnics and barbecues ongoing. Enjoyed the walk. Took radio Wales pencil and left ikea iPod case. SL TFTC</li><li>2010-04-03T19:00:00Z : Found it by daviddotshaw <br />Found it, great cache, good hiding place. We must have picked one of the worst days to do this, as it hail stoned down most of the time, I've been to this park lots of times but this cache got me to walk places I hadn't been before.
+
+Left Yo-Yo
+Took Whoopee cushion
+</li><li>2010-03-22T19:00:00Z : Found it by sandmartin <br />trying to swap coins vitually....</li><li>2010-03-21T19:00:00Z : Found it by steokelly <br />Removed a geo coin which was listed as last seen in hands of owner, will log it and move it on.</li><li>2010-01-24T20:00:00Z : Found it by blanketboy <br />
+Found this cache after a bit of searching around. The spoiler photo threw us off the trail! But it was worth the effort. Took Ireland travel bug and dropped off some treasure!</li><li>2008-09-27T19:00:00Z : Found it by Kersti.com <br />Out with jme1979 today. She's said almost everything but... OMG that goat. I have never in my life ever smelt anything as bad as that and I hope that I never ever do again!</li></ul></logs>
+  <original-xml>  <wpt  lat="53.486367" lon="-6.170567">
+    <time>2005-04-16T07:00:00Z</time>
+    <name>GCN1TB</name>
+    <desc>Newbridge House by Windsockers, Multi-cache (2/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=f31031b9-a265-494b-ba09-c21c1f89756a</url>
+    <urlname>Newbridge House</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Multi-cache</type>
+    <groundspeak:cache id="216238" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Newbridge House</groundspeak:name>
+      <groundspeak:placed_by>Windsockers</groundspeak:placed_by>
+      <groundspeak:owner id="271623">Windsockers</groundspeak:owner>
+      <groundspeak:type>Multi-cache</groundspeak:type>
+      <groundspeak:container>Regular</groundspeak:container>
+      <groundspeak:difficulty>2</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>Leinster</groundspeak:state>
+      <groundspeak:short_description html="True">Set in the grounds of Newbridge House &amp;amp; Demesne</groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;center&gt;
+&lt;img src="http://www.northbeach.ie/gallery/albums/userpics/10001/normal_newbridge_.JPG" /&gt;
+&lt;/center&gt;
+&lt;br /&gt;
+&lt;h3&gt;Directions&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Park your car at the coordinates specified for this cache.
+Alternatively, 
+&lt;ul&gt;
+&lt;li&gt;If you want to do this cache by train: enter the park by the
+entrance at coordinates N53:29.109, W006:09.275 (very close to the
+Donabate train station; get a train from Connolly, Tara Street or
+Pearse Street station in Dublin).&lt;/li&gt;
+&lt;li&gt;To do this cache by bus, take the 33B bus from Swords or Dublin
+City Centre, which will drop you off at the main entrance to the
+park (look for sign "Newbridge House and Demesne").&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Walk towards the house and find the date it was officially
+opened. Subtract one from the day of the month to get a two
+digit-number. Call the two digits &lt;i&gt;w&lt;/i&gt; and &lt;i&gt;x&lt;/i&gt;.&lt;/li&gt;
+&lt;li&gt;Get the last two digits of the year, and call these two digits
+&lt;i&gt;y&lt;/i&gt; and &lt;i&gt;z&lt;/i&gt;.&lt;/li&gt;
+&lt;li&gt;The coordinates of the second location you should find are then
+given by 
+&lt;blockquote&gt;&lt;b&gt;N53 wx.982, W006 10.zzy&lt;/b&gt;&lt;/blockquote&gt;
+&lt;div style="color: red;"&gt;&lt;b&gt;EXAMPLE&lt;/b&gt;. Suppose the date is the
+15th of August, 1793 (&lt;b&gt;it's not&lt;/b&gt;). Subtract one from the date
+to get 14. Then w is 1, x is 4, y is 9 and z is 3, so the
+coordinates would be 
+&lt;blockquote&gt;N53 14.982, W006 10.339&lt;/blockquote&gt;
+&lt;b&gt;END EXAMPLE&lt;/b&gt;&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;When you get to those coordinates, find the name of the place
+(you might have to look around a bit). Get the first 5 letters of
+that name. Convert these letters to numbers using the following
+table. 
+&lt;blockquote&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td&gt;A&lt;/td&gt;
+&lt;td&gt;B&lt;/td&gt;
+&lt;td&gt;C&lt;/td&gt;
+&lt;td&gt;D&lt;/td&gt;
+&lt;td&gt;E&lt;/td&gt;
+&lt;td&gt;F&lt;/td&gt;
+&lt;td&gt;G&lt;/td&gt;
+&lt;td&gt;H&lt;/td&gt;
+&lt;td&gt;I&lt;/td&gt;
+&lt;td&gt;J&lt;/td&gt;
+&lt;td&gt;K&lt;/td&gt;
+&lt;td&gt;L&lt;/td&gt;
+&lt;td&gt;M&lt;/td&gt;
+&lt;td&gt;N&lt;/td&gt;
+&lt;td&gt;O&lt;/td&gt;
+&lt;td&gt;P&lt;/td&gt;
+&lt;td&gt;Q&lt;/td&gt;
+&lt;td&gt;R&lt;/td&gt;
+&lt;td&gt;S&lt;/td&gt;
+&lt;td&gt;T&lt;/td&gt;
+&lt;td&gt;U&lt;/td&gt;
+&lt;td&gt;V&lt;/td&gt;
+&lt;td&gt;W&lt;/td&gt;
+&lt;td&gt;X&lt;/td&gt;
+&lt;td&gt;Y&lt;/td&gt;
+&lt;td&gt;Z&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;6&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;9&lt;/td&gt;
+&lt;td&gt;8&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;7&lt;/td&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;8&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;9&lt;/td&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;7&lt;/td&gt;
+&lt;td&gt;6&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/blockquote&gt;&lt;/li&gt;
+&lt;li&gt;Call these numbers &lt;i&gt;a&lt;/i&gt;, &lt;i&gt;b&lt;/i&gt;, &lt;i&gt;c&lt;/i&gt;, &lt;i&gt;d&lt;/i&gt; and
+&lt;i&gt;e&lt;/i&gt;. The coordinates of the final cache are then given by 
+&lt;blockquote&gt;&lt;b&gt;N53 29.ded, W006 10.abc&lt;/b&gt;&lt;/blockquote&gt;
+&lt;div style="color: red;"&gt;&lt;b&gt;EXAMPLE&lt;/b&gt;. Suppose, if the name of
+this place is "DONTKNOW" (&lt;b&gt;it's not&lt;/b&gt;), a = 2, b = 3, c = 7, d
+= 5 and e = 1, and the coordinates would be 
+&lt;blockquote&gt;N53 29.515, W006 10.237&lt;/blockquote&gt;
+&lt;b&gt;END EXAMPLE&lt;/b&gt;&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;
+&lt;h3&gt;About Newbridge House and Demesne&lt;/h3&gt;
+&lt;p&gt;Newbridge house &amp;amp; Demesne, Donabate. was built in 1736 for
+Archbishop Cobbe. Original furniture, paintings and objets d'art
+are a feature of this gracious Georgian house. The extensive 150h
+demesne includes a walled garden, a wildlife and Deer Park, playing
+and walking areas and a 19th Century working farm, where animals,
+machinery and old farming techniques are on view.&lt;/p&gt;
+&lt;h3&gt;Park Opening Times&lt;/h3&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td&gt;Nov. to Jan.&lt;/td&gt;
+&lt;td&gt;10.00 am - 5.00 pm&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Feb. to Mar.&lt;/td&gt;
+&lt;td&gt;10.00 am - 6.00 pm&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;April&lt;/td&gt;
+&lt;td&gt;10.00 am - 7.00 pm&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;May&lt;/td&gt;
+&lt;td&gt;10.00 am - 8.00 pm&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Jun. to Aug.&lt;/td&gt;
+&lt;td&gt;10.00 am - 9.00 pm&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Sept.&lt;/td&gt;
+&lt;td&gt;10.00 am - 8.00 pm&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Oct.&lt;/td&gt;
+&lt;td&gt;10.00 am - 7.00 pm&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;center&gt;
+&lt;img src="http://www.northbeach.ie/gallery/albums/userpics/10001/windsock-anim-small.gif" /&gt;
+&lt;br /&gt;
+&lt;b&gt;The Windsockers&lt;/b&gt;&lt;/center&gt;&lt;p&gt;Additional Waypoints&lt;/p&gt;FLN1TB - Final Location&lt;br /&gt;N/S  __ ° __ . ___ W/E ___ ° __ . ___ &lt;br /&gt;&lt;br /&gt;S2N1TB - Stage 2&lt;br /&gt;N/S  __ ° __ . ___ W/E ___ ° __ . ___ &lt;br /&gt;&lt;br /&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>[Finding the name of This Place:] Ask for directions.
+
+[Finding the final cache:] There's a bottle there too.</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="109467330">
+          <groundspeak:date>2010-05-22T15:56:56Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2511647">hollmanr</groundspeak:finder>
+          <groundspeak:text encoded="False">Found it on a beautiful sunny day. The park was very busy with lots of picnics and barbecues ongoing. Enjoyed the walk. Took radio Wales pencil and left ikea iPod case. SL TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="102207901">
+          <groundspeak:date>2010-04-03T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3094677">daviddotshaw</groundspeak:finder>
+          <groundspeak:text encoded="False">Found it, great cache, good hiding place. We must have picked one of the worst days to do this, as it hail stoned down most of the time, I've been to this park lots of times but this cache got me to walk places I hadn't been before.
+
+Left Yo-Yo
+Took Whoopee cushion
+</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="100752313">
+          <groundspeak:date>2010-03-22T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1966213">sandmartin</groundspeak:finder>
+          <groundspeak:text encoded="False">trying to swap coins vitually....</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="100501930">
+          <groundspeak:date>2010-03-21T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2933361">steokelly</groundspeak:finder>
+          <groundspeak:text encoded="False">Removed a geo coin which was listed as last seen in hands of owner, will log it and move it on.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="95922733">
+          <groundspeak:date>2010-01-24T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2941382">blanketboy</groundspeak:finder>
+          <groundspeak:text encoded="False">
+Found this cache after a bit of searching around. The spoiler photo threw us off the trail! But it was worth the effort. Took Ireland travel bug and dropped off some treasure!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="53964575">
+          <groundspeak:date>2008-09-27T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="320206">Kersti.com</groundspeak:finder>
+          <groundspeak:text encoded="False">Out with jme1979 today. She's said almost everything but... OMG that goat. I have never in my life ever smelt anything as bad as that and I hope that I never ever do again!</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

@@ -1,0 +1,150 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>002618</id>
+  <cache-id>GC17A0J</cache-id>
+  <type>Multi-cache</type>
+  <name>Hole in one by Team Misto, Multi-cache (2/1.5)</name>
+  <size>Regular</size>
+  <difficulty>2</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-07-05</last-found>
+  <placed>2007-11-10</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Team Misto</placedby>
+  <found>Geocache</found>
+  <lat>50.652983</lat>
+  <lon>9.7178</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>Misto</owner>
+  <description>
+      </description>
+  <long-description><img src="http://www.andyhoppe.com/count/?id=1203974844" border="0"
+alt="Counter" /> 
+<div align="right">
+<img src="http://i20.photobucket.com/albums/b237/Misto_Ekiam/logoskopf.jpg"
+     border="0" alt="Photobucket" /></div>
+<div align="center"><font size="+6"><b><font color="#FF0000">"HOLE
+IN ONE"</font></b></font></div>
+<br />
+ 
+<center>
+<img src="http://i20.photobucket.com/albums/b237/Misto_Ekiam/Golfball_bewegt2-1.gif"
+     border="0"
+     alt="Photo Sharing and Video Hosting at Photobucket" /></center>
+<br />
+<img src="http://www.geocoins.ca/images/beenseen.php" /> <br />
+<i><font color="#0373FC">Ein einfacher Multi mit <u>6 Sationen</u>
+in ruhiger Umgebung. Für Kinder nicht uninteressant gibt es vor Ort
+einen großen Spielplatz und ein bißchen Federvieh zum Begucken. Für
+die Erwachsenen lädt das ansässige Restaurant mit einem schönen
+Biergaten (im Sommer) nach getaner Schatzsuche zum Verweilen ein.
+Alle Stationen sind auch mit Kinderwagen gut zu erreichen und es
+gibt keine großen Höhenunterschiede zu überwinden. Parkt am besten
+auf dem öffentlichen Parkplatz (siehe
+Koordinaten).</font></i><br />
+<img src="http://i20.photobucket.com/albums/b237/Misto_Ekiam/Have-fun1.gif"
+     border="0"
+     alt="Photo Sharing and Video Hosting at Photobucket" /></long-description>
+  <additional-waypoints>P117A0J - Parkplatz<br />N 50° 39.333 E 009° 43.454<br />Parkt am besten hier!<br /></additional-waypoints>
+  <links>waypoints:cache-id:P117A0J</links>
+  <encoded-hints>Stage1 - Links des Weges bei der alten Brücke</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=7bb366bc-e09f-4ac4-9670-70659d21a31f</url>
+  <url-name>Hole in one</url-name>
+  <logs><ul><li>2010-10-24T19:00:00Z : Found it by 6erpack <br />Das war eine schöne Runde um die Praforster Seen bei herrlichem Herbstwetter.
+Alle Stationen waren gut zu finden.
+Danke für´s Herlocken.</li><li>2010-09-11T19:00:00Z : Found it by Blaue-Elise <br />Feine, kleine Runde mit anschließendem Latte Macchiato und Eisbecher am "Schwanensee" - vielen Dank für den Tip!</li><li>2010-09-05T19:00:00Z : Found it by Cachegrillaz <br />Genau richtig für einen kleinen Sonntagsspaziergang mit "Anhang"... :-)
+Danke!
+Angie und Markus von den CACHEGRILLAZ</li><li>2010-07-06T19:00:00Z : Found it by burgen13 <br />Nachdem wir das erste Döschen endlich gefunden hatten, gingen die restlichen recht schnell. Die Runde lässt sich auch gut mit dem Fahrrad erledigen, wenn man keinen Kinderwagen dabei hat :-) Und als Belohnung für die erfolgreiche Tour gab es anschließend noch ein Stück Erdbeertorte im Praforst.
+Danke sagt burgen13</li><li>2010-07-05T19:00:00Z : Found it by super sunshine <br />DANKE für den tollen Multi! Auf einer schönen Fahrradtour geloggt. Viele Grüße</li></ul></logs>
+  <original-xml>  <wpt  lat="50.652983" lon="9.7178">
+    <time>2007-11-10T08:00:00Z</time>
+    <name>GC17A0J</name>
+    <desc>Hole in one by Team Misto, Multi-cache (2/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=7bb366bc-e09f-4ac4-9670-70659d21a31f</url>
+    <urlname>Hole in one</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Multi-cache</type>
+    <groundspeak:cache id="730566" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Hole in one</groundspeak:name>
+      <groundspeak:placed_by>Team Misto</groundspeak:placed_by>
+      <groundspeak:owner id="1277165">Misto</groundspeak:owner>
+      <groundspeak:type>Multi-cache</groundspeak:type>
+      <groundspeak:container>Regular</groundspeak:container>
+      <groundspeak:difficulty>2</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="True">
+      </groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;img src="http://www.andyhoppe.com/count/?id=1203974844" border="0"
+alt="Counter" /&gt; 
+&lt;div align="right"&gt;
+&lt;img src="http://i20.photobucket.com/albums/b237/Misto_Ekiam/logoskopf.jpg"
+     border="0" alt="Photobucket" /&gt;&lt;/div&gt;
+&lt;div align="center"&gt;&lt;font size="+6"&gt;&lt;b&gt;&lt;font color="#FF0000"&gt;"HOLE
+IN ONE"&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;br /&gt;
+ 
+&lt;center&gt;
+&lt;img src="http://i20.photobucket.com/albums/b237/Misto_Ekiam/Golfball_bewegt2-1.gif"
+     border="0"
+     alt="Photo Sharing and Video Hosting at Photobucket" /&gt;&lt;/center&gt;
+&lt;br /&gt;
+&lt;img src="http://www.geocoins.ca/images/beenseen.php" /&gt; &lt;br /&gt;
+&lt;i&gt;&lt;font color="#0373FC"&gt;Ein einfacher Multi mit &lt;u&gt;6 Sationen&lt;/u&gt;
+in ruhiger Umgebung. Für Kinder nicht uninteressant gibt es vor Ort
+einen großen Spielplatz und ein bißchen Federvieh zum Begucken. Für
+die Erwachsenen lädt das ansässige Restaurant mit einem schönen
+Biergaten (im Sommer) nach getaner Schatzsuche zum Verweilen ein.
+Alle Stationen sind auch mit Kinderwagen gut zu erreichen und es
+gibt keine großen Höhenunterschiede zu überwinden. Parkt am besten
+auf dem öffentlichen Parkplatz (siehe
+Koordinaten).&lt;/font&gt;&lt;/i&gt;&lt;br /&gt;
+&lt;img src="http://i20.photobucket.com/albums/b237/Misto_Ekiam/Have-fun1.gif"
+     border="0"
+     alt="Photo Sharing and Video Hosting at Photobucket" /&gt;&lt;p&gt;Additional Waypoints&lt;/p&gt;P117A0J - Parkplatz&lt;br /&gt;N 50° 39.333 E 009° 43.454&lt;br /&gt;Parkt am besten hier!&lt;br /&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>Stage1 - Links des Weges bei der alten Brücke</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="133178659">
+          <groundspeak:date>2010-10-24T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1153356">6erpack</groundspeak:finder>
+          <groundspeak:text encoded="False">Das war eine schöne Runde um die Praforster Seen bei herrlichem Herbstwetter.
+Alle Stationen waren gut zu finden.
+Danke für´s Herlocken.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="126260799">
+          <groundspeak:date>2010-09-11T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2814132">Blaue-Elise</groundspeak:finder>
+          <groundspeak:text encoded="False">Feine, kleine Runde mit anschließendem Latte Macchiato und Eisbecher am "Schwanensee" - vielen Dank für den Tip!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="125382631">
+          <groundspeak:date>2010-09-05T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="998368">Cachegrillaz</groundspeak:finder>
+          <groundspeak:text encoded="False">Genau richtig für einen kleinen Sonntagsspaziergang mit "Anhang"... :-)
+Danke!
+Angie und Markus von den CACHEGRILLAZ</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="115833496">
+          <groundspeak:date>2010-07-06T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2887618">burgen13</groundspeak:finder>
+          <groundspeak:text encoded="False">Nachdem wir das erste Döschen endlich gefunden hatten, gingen die restlichen recht schnell. Die Runde lässt sich auch gut mit dem Fahrrad erledigen, wenn man keinen Kinderwagen dabei hat :-) Und als Belohnung für die erfolgreiche Tour gab es anschließend noch ein Stück Erdbeertorte im Praforst.
+Danke sagt burgen13</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="115692286">
+          <groundspeak:date>2010-07-05T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2807204">super sunshine</groundspeak:finder>
+          <groundspeak:text encoded="False">DANKE für den tollen Multi! Auf einer schönen Fahrradtour geloggt. Viele Grüße</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

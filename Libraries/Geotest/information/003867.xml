@@ -1,0 +1,126 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>003867</id>
+  <cache-id>GC1Q7CE</cache-id>
+  <type>Traditional Cache</type>
+  <name>noch ne Grotte by Ubx, Traditional Cache (1/1)</name>
+  <size>Micro</size>
+  <difficulty>1</difficulty>
+  <terrain>1</terrain>
+  <last-found>2010-09-19</last-found>
+  <placed>2009-04-18</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Ubx</placedby>
+  <found>Geocache</found>
+  <lat>50.553667</lat>
+  <lon>9.57745</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>ubx</owner>
+  <description>noch eine Grotte , die kaum einer kennt.</description>
+  <long-description>ein Drive-Inn , nur die letzten 200 m ist es ein Feldweg. Leider wurde die Bank zum Winter weggeräumt. neues Versteck !</long-description>
+  <encoded-hints>in der Mauer rechts</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=31cbba5a-8e4a-4cc0-bad1-8838146cc074</url>
+  <url-name>noch ne Grotte</url-name>
+  <logs><ul><li>2010-10-13T19:00:00Z : Found it by Urmel1974 <br />Habe nach Feierabend in Hosenfeld schnell noch diesen Cache mitgenommen.
+Danke sagt
+Urmel1974</li><li>2010-09-20T19:00:00Z : Found it by s186003 <br />Schnell gefunden.
+TFTC</li><li>2010-09-20T19:00:00Z : Found it by schwap <br />diese grotte war mir auch unbekannt. sehenswert ist auch der kleine teich der unweit des caches ist TFTC</li><li>2010-09-19T19:00:00Z : Found it by SchnatterRinchen <br />Im bewährten Team war der heute schnell gefunden und geloggt.
+
+DFDC sagt SchnatterRinchen</li><li>2010-09-19T19:00:00Z : Found it by Team Fribu70 & Schnuba77 <br />[font=comic sans ms][size=2][b]Auf der heutigen Tour in und um Fulda sind wir im Team mit Bengelchen und dem DevillsAngel auch hier vorbei gekommen. 
+
+Hier wurden wir schnell fündig.[/size=2][/b]
+
+[size=1][b] [purple] [font=century gothic] Danke für den Cache! [/b] [/purple] [/size]
+[size=1]
+[size=2][b]
+T[blue]e[/blue][red]a[/red][purple]m[/purple] [pink]F[/pink][orange]r[/orange][yellow]i[/yellow][green]b[/green][black]u[/black][blue]7[/blue][red]0[/red] [purple]&[/purple] [pink]S[/pink][orange]c[/orange][yellow]h[/yellow][green]n[/green][black]u[/black][blue]b[/blue][red]a[/red][purple]7[/purple][orange]7[/orange][size=2][b] [purple] 
+[size=1]
+
+
+
+[b] [blue] [font=comic sans ms] Trade in:[purple] no [/b] [/blue]
+[b] [blue] [font=comic sans ms] Trade out:[purple] no [/b] [/blue]
+
+
+ Found it with [url=http://www.getcachebox.net]Cachebox[/url]!</li></ul></logs>
+  <original-xml>  <wpt  lat="50.553667" lon="9.57745">
+    <time>2009-04-18T07:00:00Z</time>
+    <name>GC1Q7CE</name>
+    <desc>noch ne Grotte by Ubx, Traditional Cache (1/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=31cbba5a-8e4a-4cc0-bad1-8838146cc074</url>
+    <urlname>noch ne Grotte</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1204707" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>noch ne Grotte</groundspeak:name>
+      <groundspeak:placed_by>Ubx</groundspeak:placed_by>
+      <groundspeak:owner id="787613">ubx</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">noch eine Grotte , die kaum einer kennt.</groundspeak:short_description>
+      <groundspeak:long_description html="False">ein Drive-Inn , nur die letzten 200 m ist es ein Feldweg. Leider wurde die Bank zum Winter weggeräumt. neues Versteck !</groundspeak:long_description>
+      <groundspeak:encoded_hints>in der Mauer rechts</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="131294317">
+          <groundspeak:date>2010-10-13T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1686024">Urmel1974</groundspeak:finder>
+          <groundspeak:text encoded="False">Habe nach Feierabend in Hosenfeld schnell noch diesen Cache mitgenommen.
+Danke sagt
+Urmel1974</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="127989353">
+          <groundspeak:date>2010-09-20T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2819456">s186003</groundspeak:finder>
+          <groundspeak:text encoded="False">Schnell gefunden.
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="127872397">
+          <groundspeak:date>2010-09-20T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3060114">schwap</groundspeak:finder>
+          <groundspeak:text encoded="False">diese grotte war mir auch unbekannt. sehenswert ist auch der kleine teich der unweit des caches ist TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="131300995">
+          <groundspeak:date>2010-09-19T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2311665">SchnatterRinchen</groundspeak:finder>
+          <groundspeak:text encoded="False">Im bewährten Team war der heute schnell gefunden und geloggt.
+
+DFDC sagt SchnatterRinchen</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="127740841">
+          <groundspeak:date>2010-09-19T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1321015">Team Fribu70 &amp; Schnuba77</groundspeak:finder>
+          <groundspeak:text encoded="False">[font=comic sans ms][size=2][b]Auf der heutigen Tour in und um Fulda sind wir im Team mit Bengelchen und dem DevillsAngel auch hier vorbei gekommen. 
+
+Hier wurden wir schnell fündig.[/size=2][/b]
+
+[size=1][b] [purple] [font=century gothic] Danke für den Cache! [/b] [/purple] [/size]
+[size=1]
+[size=2][b]
+T[blue]e[/blue][red]a[/red][purple]m[/purple] [pink]F[/pink][orange]r[/orange][yellow]i[/yellow][green]b[/green][black]u[/black][blue]7[/blue][red]0[/red] [purple]&amp;[/purple] [pink]S[/pink][orange]c[/orange][yellow]h[/yellow][green]n[/green][black]u[/black][blue]b[/blue][red]a[/red][purple]7[/purple][orange]7[/orange][size=2][b] [purple] 
+[size=1]
+
+
+
+[b] [blue] [font=comic sans ms] Trade in:[purple] no [/b] [/blue]
+[b] [blue] [font=comic sans ms] Trade out:[purple] no [/b] [/blue]
+
+
+ Found it with [url=http://www.getcachebox.net]Cachebox[/url]!</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

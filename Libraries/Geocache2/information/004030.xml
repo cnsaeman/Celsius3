@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>004030</id>
+  <cache-id>EN1B6B5</cache-id>
+  <type>Waypoint</type>
+  <name>Main Entrance of Knocksink Woods</name>
+  <placed>2008-04-13</placed>
+  <lat>53.195533</lat>
+  <lon>-6.173867</lon>
+  <attributes>hidden</attributes>
+  <description>Main Entrance of Knocksink Woods. Park here at weekends or evenings.</description>
+  <url>http://www.geocaching.com/seek/wpt.aspx?WID=d0ed1b46-d653-46f1-b04d-ecab8797a88d</url>
+  <url-name>Main Entrance of Knocksink Woods</url-name>
+</element>
+</celsiusv2.1.addinfofile>

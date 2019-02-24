@@ -1,0 +1,102 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>008830</id>
+  <cache-id>GC210PC</cache-id>
+  <type>Traditional Cache</type>
+  <name>Eichhörnchenschatz by jrg77, Traditional Cache (1.5/2.5)</name>
+  <size>Regular</size>
+  <difficulty>1.5</difficulty>
+  <terrain>2.5</terrain>
+  <last-found>2010-10-25</last-found>
+  <placed>2009-11-14</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>jrg77</placedby>
+  <found>Geocache</found>
+  <lat>50.523283</lat>
+  <lon>9.71755</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>jrg77</owner>
+  <description>
+      </description>
+  <long-description>Eichhörnchenschatz ist ein schöner Cache etwas abseits des markierten Weges. Man kann dies mit einem schönen Rundgang/Spaziergang verbinden und am Gipfel des kleinen Berges im Sommer im Biergarten einkehren.</long-description>
+  <encoded-hints>
+      </encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=a8eb95ec-e58b-4e03-a72f-1a9bc81d0e93</url>
+  <url-name>Eichhörnchenschatz</url-name>
+  <logs><ul><li>2010-11-14T20:00:00Z : Found it by fezi <br />Schnell gefunden.
+Alles in Ordnung (3 Sterne bei [url=http://www.gcvote.com]GCVote[/url]).
+TFTC fezi</li><li>2010-11-07T20:00:00Z : Found it by balalaika <br />Richtiges Herbstwetter sorgt für wenig Muggles. Daher klamme Finger, schlotternde Knie, aber der cache war ungefährdet.
+Danke sagt team balalaika</li><li>2010-11-01T19:00:00Z : Found it by Seekuh <br />Eichhörnchenvorräte zu plündern macht fast so viel Spaß wie Mäuseerschrecken. :-)
+In: GC; out: ---; TFTC #813</li><li>2010-10-29T19:00:00Z : Found it by mayday malone <br />heute bei herlichem herbstwetter gefunden und geloggt. danke und gruß. mayday</li><li>2010-10-25T06:09:08Z : Found it by Clowns 4ever <br />Richtig gut ;-))) 
+Danke für die Tipps!!!
+
+Die Clowns 4ever</li></ul></logs>
+  <original-xml>  <wpt  lat="50.523283" lon="9.71755">
+    <time>2009-11-14T08:00:00Z</time>
+    <name>GC210PC</name>
+    <desc>Eichhörnchenschatz by jrg77, Traditional Cache (1.5/2.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=a8eb95ec-e58b-4e03-a72f-1a9bc81d0e93</url>
+    <urlname>Eichhörnchenschatz</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1466407" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Eichhörnchenschatz</groundspeak:name>
+      <groundspeak:placed_by>jrg77</groundspeak:placed_by>
+      <groundspeak:owner id="2669551">jrg77</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Regular</groundspeak:container>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>2.5</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">
+      </groundspeak:short_description>
+      <groundspeak:long_description html="False">Eichhörnchenschatz ist ein schöner Cache etwas abseits des markierten Weges. Man kann dies mit einem schönen Rundgang/Spaziergang verbinden und am Gipfel des kleinen Berges im Sommer im Biergarten einkehren.</groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="136372321">
+          <groundspeak:date>2010-11-14T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2007251">fezi</groundspeak:finder>
+          <groundspeak:text encoded="False">Schnell gefunden.
+Alles in Ordnung (3 Sterne bei [url=http://www.gcvote.com]GCVote[/url]).
+TFTC fezi</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="134881865">
+          <groundspeak:date>2010-11-07T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1414299">balalaika</groundspeak:finder>
+          <groundspeak:text encoded="False">Richtiges Herbstwetter sorgt für wenig Muggles. Daher klamme Finger, schlotternde Knie, aber der cache war ungefährdet.
+Danke sagt team balalaika</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="134097360">
+          <groundspeak:date>2010-11-01T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="456592">Seekuh</groundspeak:finder>
+          <groundspeak:text encoded="False">Eichhörnchenvorräte zu plündern macht fast so viel Spaß wie Mäuseerschrecken. :-)
+In: GC; out: ---; TFTC #813</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="133549824">
+          <groundspeak:date>2010-10-29T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3592921">mayday malone</groundspeak:finder>
+          <groundspeak:text encoded="False">heute bei herlichem herbstwetter gefunden und geloggt. danke und gruß. mayday</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="132967097">
+          <groundspeak:date>2010-10-25T06:09:08Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3918255">Clowns 4ever</groundspeak:finder>
+          <groundspeak:text encoded="False">Richtig gut ;-))) 
+Danke für die Tipps!!!
+
+Die Clowns 4ever</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

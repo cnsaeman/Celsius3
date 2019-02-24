@@ -1,0 +1,124 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>003251</id>
+  <cache-id>GC27PBM</cache-id>
+  <type>Traditional Cache</type>
+  <name>Faszinierende Mary by balu-fd, Traditional Cache (1/1)</name>
+  <size>Micro</size>
+  <difficulty>1</difficulty>
+  <terrain>1</terrain>
+  <last-found>2010-12-07</last-found>
+  <placed>2010-04-29</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>balu-fd</placedby>
+  <found>Geocache</found>
+  <lat>50.55295</lat>
+  <lon>9.683</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>balu-fd</owner>
+  <description>Den Cache widme ich Mary Ward, nach der auch die Straße, in der er liegt, benannt ist.</description>
+  <long-description>1585 in Yorkshire geboren, wächst Maria Ward während der englischen Katholikenverfolgung auf. Sie erlebt, dass Menschen für ihren Glauben Vermögen, Heimat, Ehre, ja sogar ihr Leben aufs Spiel setzen. Auch sie möchte ihr Leben im Dienst für Gott einsetzen. Erfüllt von der Sehnsucht, ihre persönliche Berufung zu entdecken, sucht sie jahrelang nach einem Weg.
+
+Da sie in England nicht ihrer Überzeugung gemäß leben kann, verlässt sie mit 21 Jahren ihre Heimat und tritt 1606 in ein Klarissenkloster in St. Omer/ Flandern ein. Sie erkennt bald, dass dies nicht ihr Weg ist, und kehrt nach England zurück. Dort versucht sie unter großer Gefahr, Menschen in ihrem Glauben zu stärken. Sie sammelt Gefährtinnen um sich und verlässt erneut ihre Heimat, um einen eigenen Orden zu gründen: Die Mitglieder sollen, nur gebunden an Gott, frei sein für den Dienst am Menschen und für die Nöte der Zeit - ein Programm, das für die damalige Zeit revolutionär war. Grundlage der von Frauen geleiteten Gemeinschaft bilden die Satzungen des heiligen Ignatius von Loyolas, des Gründers der Gesellschaft Jesu.
+
+Die junge Gemeinschaft widmet sich auf dem Festland (in Lüttich, Köln, Trier, Rom, Neapel, Perugia, München, Pressburg, Prag, Wien) der Bildung und Erziehung von Mädchen. Über den Unterricht hinaus ist die Stärkung des Glaubens ihr großes Anliegen. Die Zahl der Niederlassungen zeigt, wie sehr das Werk blühte.
+
+Um vom Papst die Bestätigung ihres Instituts zu erhalten, pilgert Maria Ward dreimal nach Rom. Aber mit der Ausbreitung des Instituts wächst auch der Widerstand. Die neue Form des Ordens - Frauen ohne Klausur im apostolischen Dienst - hat viele Feinde. Verleumdungen zwingen Maria Ward, in Rom ihre Gründung mutig zu verteidigen. Aber ihrer Bitte wird zu Lebzeiten nicht entsprochen. Urban VIII. löst 1631 das Institut auf. Sie selbst wird als Ketzerin neun Wochen inhaftiert. Das römische Inquisitionsgericht endet zwar mit ihrer Rechtfertigung, aber das Werk Maria Wards bleibt aufgehoben.
+Maria Ward unterwirft sich dem Urteil der Kirche und bleibt dennoch ungebrochen ihren Zielen treu. Nichts kann den Glauben an ihren Auftrag und ihre Treue zur Kirche zerstören.
+1645 stirbt sie in ihrer Heimat in der Hoffnung, dass Gott für alles seine Zeit hat.
+
+Trotz größter Schwierigkeiten setzen die Gefährtinnen Maria Wards Werk fort.
+Erst 1877 erhält das Institut B.M.V. die päpstliche Anerkennung; seit 1909 darf Maria Ward wieder als Stifterin des Instituts genannt werden.
+Die Übernahme der Konstitutionen des heiligen Ignatius mit der Anpassung für einen Frauenorden geschieht erst 1978, die Konstitutionen "ad maximum" 2004.
+
+Im Januar 2004 übernimmt der Orden den Namen Congregatio Jesu.</long-description>
+  <encoded-hints>Neuer Hint Oktober 2010: 
+Der Cache ist ein Micro und befindet sich auf einem Verkehrszeichen unter dem Straßenschild.</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=6546ae69-0c46-4e1a-b25f-173caeaaf569</url>
+  <url-name>Faszinierende Mary</url-name>
+  <logs><ul><li>2010-12-24T20:00:00Z : Found it by canadianfriend75 <br />Schnell gefunden, schnell geloggt, schnell wieder weg. TFTC und allen schöne Weihnachten.</li><li>2010-12-19T20:00:00Z : Found it by Der Mann der auf den Keks tritt <br />ich liebe diese offensichtlichen caches! es ist, als würde er danach schreien gemuggelt zu werden (:
+
+außerdem: erstes mal cachen mit gem samsung galaxy. enttäuschend...</li><li>2010-12-13T08:23:16Z : Found it by erbY988 <br />Schöner Cache...nicht allzu schwer, aber Platz ist nice! - Danke dafür.</li><li>2010-12-11T20:00:00Z : Found it by TaDaRhön <br />Auch die Mary stand heute auf unserer Liste!
+Nach dem Weihnachtshopping schnell "hin und mit"[;)]
+Danke für´s verstecken sagen, TaDaRhön</li><li>2010-12-07T20:00:00Z : Found it by Deusa <br />Der war gar nicht so einfach, Muggel-frei zu loggen! Aber es ist mir dann doch noch gelungen!
+DFDC Deusa</li></ul></logs>
+  <original-xml>  <wpt  lat="50.55295" lon="9.683">
+    <time>2010-04-29T07:00:00Z</time>
+    <name>GC27PBM</name>
+    <desc>Faszinierende Mary by balu-fd, Traditional Cache (1/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=6546ae69-0c46-4e1a-b25f-173caeaaf569</url>
+    <urlname>Faszinierende Mary</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1665962" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Faszinierende Mary</groundspeak:name>
+      <groundspeak:placed_by>balu-fd</groundspeak:placed_by>
+      <groundspeak:owner id="3122379">balu-fd</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">Den Cache widme ich Mary Ward, nach der auch die Straße, in der er liegt, benannt ist.</groundspeak:short_description>
+      <groundspeak:long_description html="False">1585 in Yorkshire geboren, wächst Maria Ward während der englischen Katholikenverfolgung auf. Sie erlebt, dass Menschen für ihren Glauben Vermögen, Heimat, Ehre, ja sogar ihr Leben aufs Spiel setzen. Auch sie möchte ihr Leben im Dienst für Gott einsetzen. Erfüllt von der Sehnsucht, ihre persönliche Berufung zu entdecken, sucht sie jahrelang nach einem Weg.
+
+Da sie in England nicht ihrer Überzeugung gemäß leben kann, verlässt sie mit 21 Jahren ihre Heimat und tritt 1606 in ein Klarissenkloster in St. Omer/ Flandern ein. Sie erkennt bald, dass dies nicht ihr Weg ist, und kehrt nach England zurück. Dort versucht sie unter großer Gefahr, Menschen in ihrem Glauben zu stärken. Sie sammelt Gefährtinnen um sich und verlässt erneut ihre Heimat, um einen eigenen Orden zu gründen: Die Mitglieder sollen, nur gebunden an Gott, frei sein für den Dienst am Menschen und für die Nöte der Zeit - ein Programm, das für die damalige Zeit revolutionär war. Grundlage der von Frauen geleiteten Gemeinschaft bilden die Satzungen des heiligen Ignatius von Loyolas, des Gründers der Gesellschaft Jesu.
+
+Die junge Gemeinschaft widmet sich auf dem Festland (in Lüttich, Köln, Trier, Rom, Neapel, Perugia, München, Pressburg, Prag, Wien) der Bildung und Erziehung von Mädchen. Über den Unterricht hinaus ist die Stärkung des Glaubens ihr großes Anliegen. Die Zahl der Niederlassungen zeigt, wie sehr das Werk blühte.
+
+Um vom Papst die Bestätigung ihres Instituts zu erhalten, pilgert Maria Ward dreimal nach Rom. Aber mit der Ausbreitung des Instituts wächst auch der Widerstand. Die neue Form des Ordens - Frauen ohne Klausur im apostolischen Dienst - hat viele Feinde. Verleumdungen zwingen Maria Ward, in Rom ihre Gründung mutig zu verteidigen. Aber ihrer Bitte wird zu Lebzeiten nicht entsprochen. Urban VIII. löst 1631 das Institut auf. Sie selbst wird als Ketzerin neun Wochen inhaftiert. Das römische Inquisitionsgericht endet zwar mit ihrer Rechtfertigung, aber das Werk Maria Wards bleibt aufgehoben.
+Maria Ward unterwirft sich dem Urteil der Kirche und bleibt dennoch ungebrochen ihren Zielen treu. Nichts kann den Glauben an ihren Auftrag und ihre Treue zur Kirche zerstören.
+1645 stirbt sie in ihrer Heimat in der Hoffnung, dass Gott für alles seine Zeit hat.
+
+Trotz größter Schwierigkeiten setzen die Gefährtinnen Maria Wards Werk fort.
+Erst 1877 erhält das Institut B.M.V. die päpstliche Anerkennung; seit 1909 darf Maria Ward wieder als Stifterin des Instituts genannt werden.
+Die Übernahme der Konstitutionen des heiligen Ignatius mit der Anpassung für einen Frauenorden geschieht erst 1978, die Konstitutionen "ad maximum" 2004.
+
+Im Januar 2004 übernimmt der Orden den Namen Congregatio Jesu.</groundspeak:long_description>
+      <groundspeak:encoded_hints>Neuer Hint Oktober 2010: 
+Der Cache ist ein Micro und befindet sich auf einem Verkehrszeichen unter dem Straßenschild.</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="139125624">
+          <groundspeak:date>2010-12-24T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2519645">canadianfriend75</groundspeak:finder>
+          <groundspeak:text encoded="False">Schnell gefunden, schnell geloggt, schnell wieder weg. TFTC und allen schöne Weihnachten.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="138896370">
+          <groundspeak:date>2010-12-19T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1315844">Der Mann der auf den Keks tritt</groundspeak:finder>
+          <groundspeak:text encoded="False">ich liebe diese offensichtlichen caches! es ist, als würde er danach schreien gemuggelt zu werden (:
+
+außerdem: erstes mal cachen mit gem samsung galaxy. enttäuschend...</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="138478106">
+          <groundspeak:date>2010-12-13T08:23:16Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="4024510">erbY988</groundspeak:finder>
+          <groundspeak:text encoded="False">Schöner Cache...nicht allzu schwer, aber Platz ist nice! - Danke dafür.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="138337333">
+          <groundspeak:date>2010-12-11T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2946542">TaDaRhön</groundspeak:finder>
+          <groundspeak:text encoded="False">Auch die Mary stand heute auf unserer Liste!
+Nach dem Weihnachtshopping schnell "hin und mit"[;)]
+Danke für´s verstecken sagen, TaDaRhön</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="138162795">
+          <groundspeak:date>2010-12-07T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1619584">Deusa</groundspeak:finder>
+          <groundspeak:text encoded="False">Der war gar nicht so einfach, Muggel-frei zu loggen! Aber es ist mir dann doch noch gelungen!
+DFDC Deusa</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

@@ -1,0 +1,119 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>002660</id>
+  <cache-id>GC178H6</cache-id>
+  <type>Traditional Cache</type>
+  <name>Cork Boot by Besiebob, Traditional Cache (1/1.5)</name>
+  <size>Small</size>
+  <difficulty>1</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2009-07-19</last-found>
+  <placed>2007-11-08</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>Besiebob</placedby>
+  <found>Geocache Found</found>
+  <lat>53.31995</lat>
+  <lon>-6.406033</lon>
+  <last-logs>FFFFXF</last-logs>
+  <owner>Besiebob</owner>
+  <description>This cache is a small container, wrapped in black, up high but within arms reach. A short, easy walk, with a bit of an incline for the last few feet.</description>
+  <long-description>
+      </long-description>
+  <encoded-hints>In the fork of an ivy covered tree.</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=cd426ec8-f8ee-4322-8fff-0aaade2bea0d</url>
+  <url-name>Cork Boot</url-name>
+  <logs><ul><li>2010-03-22T19:00:00Z : Found it by lazycachers-LV <br />TFTC
+</li><li>2010-03-22T19:00:00Z : Found it by Lauris_79 <br />Need some time to find, but was ok.</li><li>2010-02-23T20:00:00Z : Found it by Blue Jay 59 <br />Found it while out with Toffee Man.
+Could do with a little TLC
+TFTC
+Blue Jay 59
+#209</li><li>2010-02-23T20:00:00Z : Found it by Toffee Man <br />Found this cache lying on the ground with no black bag covering it. We rehid the cache low down where it would not be so easily spotted. Log very damp & could do with some maintainance.
+TFTC
+Toffee Man
+#209</li><li>2010-02-21T20:00:00Z : Didn't find it by Frezeluberz <br />Couldn't find it.
+Didn't really spend a lot of time looking.
+Think we found where it should have been.
+Didn't investigate the ground.</li><li>2009-07-19T19:00:00Z : Found it by Kersti.com <br />Out for a day of caching with JME1979 - this was our third find for the day and my 300th overall. The heavens opened up as we were approaching 200m from the cache, by the time it was in hand we were drenched and trying unsuccessfully to get cover from the trees. Figuring that we were as wet as we could possibly get anyway we headed back to the car - and naturally it dried up as we got back.</li></ul></logs>
+  <original-xml>  <wpt  lat="53.31995" lon="-6.406033">
+    <time>2007-11-08T08:00:00Z</time>
+    <name>GC178H6</name>
+    <desc>Cork Boot by Besiebob, Traditional Cache (1/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=cd426ec8-f8ee-4322-8fff-0aaade2bea0d</url>
+    <urlname>Cork Boot</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="729159" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Cork Boot</groundspeak:name>
+      <groundspeak:placed_by>Besiebob</groundspeak:placed_by>
+      <groundspeak:owner id="1193258">Besiebob</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>
+      </groundspeak:state>
+      <groundspeak:short_description html="False">This cache is a small container, wrapped in black, up high but within arms reach. A short, easy walk, with a bit of an incline for the last few feet.</groundspeak:short_description>
+      <groundspeak:long_description html="False">
+      </groundspeak:long_description>
+      <groundspeak:encoded_hints>In the fork of an ivy covered tree.</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="102259065">
+          <groundspeak:date>2010-03-22T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2454171">lazycachers-LV</groundspeak:finder>
+          <groundspeak:text encoded="False">TFTC
+</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="100683494">
+          <groundspeak:date>2010-03-22T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2348510">Lauris_79</groundspeak:finder>
+          <groundspeak:text encoded="False">Need some time to find, but was ok.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="98045228">
+          <groundspeak:date>2010-02-23T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2709154">Blue Jay 59</groundspeak:finder>
+          <groundspeak:text encoded="False">Found it while out with Toffee Man.
+Could do with a little TLC
+TFTC
+Blue Jay 59
+#209</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="98039150">
+          <groundspeak:date>2010-02-23T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2826452">Toffee Man</groundspeak:finder>
+          <groundspeak:text encoded="False">Found this cache lying on the ground with no black bag covering it. We rehid the cache low down where it would not be so easily spotted. Log very damp &amp; could do with some maintainance.
+TFTC
+Toffee Man
+#209</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="97953195">
+          <groundspeak:date>2010-02-21T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Didn't find it</groundspeak:type>
+          <groundspeak:finder id="1548662">Frezeluberz</groundspeak:finder>
+          <groundspeak:text encoded="False">Couldn't find it.
+Didn't really spend a lot of time looking.
+Think we found where it should have been.
+Didn't investigate the ground.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="77679831">
+          <groundspeak:date>2009-07-19T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="320206">Kersti.com</groundspeak:finder>
+          <groundspeak:text encoded="False">Out for a day of caching with JME1979 - this was our third find for the day and my 300th overall. The heavens opened up as we were approaching 200m from the cache, by the time it was in hand we were drenched and trying unsuccessfully to get cover from the trees. Figuring that we were as wet as we could possibly get anyway we headed back to the car - and naturally it dried up as we got back.</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs>
+        <groundspeak:travelbug id="1966209" ref="TB2HRT1">
+          <groundspeak:name>Irish Traveller</groundspeak:name>
+        </groundspeak:travelbug>
+      </groundspeak:travelbugs>
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

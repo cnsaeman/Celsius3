@@ -1,0 +1,124 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>008753</id>
+  <cache-id>GC27P3B</cache-id>
+  <type>Unknown Cache</type>
+  <name>2. Schulstunde: Mathematik und Logik by f.etcher, Unknown Cache (2.5/2)</name>
+  <size>Small</size>
+  <difficulty>2.5</difficulty>
+  <terrain>2</terrain>
+  <last-found>2010-09-12</last-found>
+  <placed>2010-05-01</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>f.etcher</placedby>
+  <found>Geocache</found>
+  <lat>50.512917</lat>
+  <lon>9.76225</lon>
+  <last-logs>FFXFF</last-logs>
+  <owner>f.etcher</owner>
+  <description>
+      </description>
+  <long-description>2. Schulstunde: Mathematik und Logik
+
+Um an der 2. Schulstunde teilnehmen zu können, müsst ihr zunächst am Einschulungstest teilnehmen und erst die 1. Stunde überstanden und bestanden haben. Vor Ort müsst ihr dann die 2. Klausur zum Thema Mathematik und Logik „schreiben“.
+
+Um den Spaß und die Herausforderung zu vergrößern, würde ich empfehlen die Klausur vor Ort zu schreiben. Ihr findet diese im Cache "1. Schulstunde". Da dieser cache sonst aber nicht freigeschaltet wird, folgt hier die Aufgabe. Wer also die kleine Herausforderung annehmen und vor Ort lösen möchte, sollte nicht weiterlesen.
+
+Max fährt von Ort A 7 km in Richtung des Ortes B, dann platzt ein Reifen. Er schiebt zur Werkstätte im Ort B sein Rad und lässt es dort reparieren.
+Danach fährt er mit dem Rad wieder nach Hause (Ort A). Frage: Um wie viele km ist Max mehr Rad gefahren als zu Fuß gegangen ?
+Möglichkeit 1: 7 km      							Koordinate: N50°30.548  E009°45.643
+Möglichkeit 2: 14 km    							Koordinate: N50°30.636  E009°45.481
+Möglichkeit 3: unterschiedlich, je nachdem wie weit die Orte auseinander liegen			Koordinate: N50°30.490  E009°45.825
+
+Additional Waypoints
+2S27P3B - 2. Schulstunde: Mathematik und Logik
+N/S  __ ° __ . ___ W/E ___ ° __ . ___ 
+
+</long-description>
+  <encoded-hints>tsnos ow ,muaB</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=5a41fc6d-2094-4d2c-a212-8f34013a20a5</url>
+  <url-name>2. Schulstunde: Mathematik und Logik</url-name>
+  <logs><ul><li>2010-10-11T19:00:00Z : Found it by Maluma <br />Heute bei bestem Wetter zusammen mit HubiFD gelöst und gefunden
+
+TFTC MALUMA</li><li>2010-10-09T19:00:00Z : Found it by Camuvlash <br />TFTC</li><li>2010-09-21T19:00:00Z : Didn't find it by Mamomi-1 <br />Mathematik war nie meine Stärke, deshalb konnte ich hier auch nicht fündig werden, wahrscheinlich waren meine Koordinaten falsch.
+Aber nichts desto trotz gings zur Geografie-Stunde.</li><li>2010-09-12T19:00:00Z : Found it by snefnug <br />zusammen mir morger hab ich diese runde absolviert. auch wenn die schulzeit schon etwas her ist, konnten wir alle caches gut meistern. vielen dank für den schönen spaziergang.</li><li>2010-09-12T19:00:00Z : Found it by morger <br />Das Rätsel war kein Problem ... das Finden der Dose aber schon. Wegen des schlechten GPS Empfangs vor Ort hätten wir uns auch einen nützlicheren Hint gewünscht, aber schließlich hat es auch so geklappt. Vielen Dank für die Dose und das schöne Rätsel!</li></ul></logs>
+  <original-xml>  <wpt  lat="50.512917" lon="9.76225">
+    <time>2010-05-01T07:00:00Z</time>
+    <name>GC27P3B</name>
+    <desc>2. Schulstunde: Mathematik und Logik by f.etcher, Unknown Cache (2.5/2)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=5a41fc6d-2094-4d2c-a212-8f34013a20a5</url>
+    <urlname>2. Schulstunde: Mathematik und Logik</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Unknown Cache</type>
+    <groundspeak:cache id="1665705" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>2. Schulstunde: Mathematik und Logik</groundspeak:name>
+      <groundspeak:placed_by>f.etcher</groundspeak:placed_by>
+      <groundspeak:owner id="1498819">f.etcher</groundspeak:owner>
+      <groundspeak:type>Unknown Cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>2.5</groundspeak:difficulty>
+      <groundspeak:terrain>2</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">
+      </groundspeak:short_description>
+      <groundspeak:long_description html="False">2. Schulstunde: Mathematik und Logik
+
+Um an der 2. Schulstunde teilnehmen zu können, müsst ihr zunächst am Einschulungstest teilnehmen und erst die 1. Stunde überstanden und bestanden haben. Vor Ort müsst ihr dann die 2. Klausur zum Thema Mathematik und Logik „schreiben“.
+
+Um den Spaß und die Herausforderung zu vergrößern, würde ich empfehlen die Klausur vor Ort zu schreiben. Ihr findet diese im Cache "1. Schulstunde". Da dieser cache sonst aber nicht freigeschaltet wird, folgt hier die Aufgabe. Wer also die kleine Herausforderung annehmen und vor Ort lösen möchte, sollte nicht weiterlesen.
+
+Max fährt von Ort A 7 km in Richtung des Ortes B, dann platzt ein Reifen. Er schiebt zur Werkstätte im Ort B sein Rad und lässt es dort reparieren.
+Danach fährt er mit dem Rad wieder nach Hause (Ort A). Frage: Um wie viele km ist Max mehr Rad gefahren als zu Fuß gegangen ?
+Möglichkeit 1: 7 km      							Koordinate: N50°30.548  E009°45.643
+Möglichkeit 2: 14 km    							Koordinate: N50°30.636  E009°45.481
+Möglichkeit 3: unterschiedlich, je nachdem wie weit die Orte auseinander liegen			Koordinate: N50°30.490  E009°45.825
+
+Additional Waypoints
+2S27P3B - 2. Schulstunde: Mathematik und Logik
+N/S  __ ° __ . ___ W/E ___ ° __ . ___ 
+
+</groundspeak:long_description>
+      <groundspeak:encoded_hints>tsnos ow ,muaB</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="130895102">
+          <groundspeak:date>2010-10-11T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1380311">Maluma</groundspeak:finder>
+          <groundspeak:text encoded="False">Heute bei bestem Wetter zusammen mit HubiFD gelöst und gefunden
+
+TFTC MALUMA</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="130306496">
+          <groundspeak:date>2010-10-09T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2724623">Camuvlash</groundspeak:finder>
+          <groundspeak:text encoded="False">TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="127894777">
+          <groundspeak:date>2010-09-21T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Didn't find it</groundspeak:type>
+          <groundspeak:finder id="275727">Mamomi-1</groundspeak:finder>
+          <groundspeak:text encoded="False">Mathematik war nie meine Stärke, deshalb konnte ich hier auch nicht fündig werden, wahrscheinlich waren meine Koordinaten falsch.
+Aber nichts desto trotz gings zur Geografie-Stunde.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="126945178">
+          <groundspeak:date>2010-09-12T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2600711">snefnug</groundspeak:finder>
+          <groundspeak:text encoded="False">zusammen mir morger hab ich diese runde absolviert. auch wenn die schulzeit schon etwas her ist, konnten wir alle caches gut meistern. vielen dank für den schönen spaziergang.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="126916228">
+          <groundspeak:date>2010-09-12T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2545432">morger</groundspeak:finder>
+          <groundspeak:text encoded="False">Das Rätsel war kein Problem ... das Finden der Dose aber schon. Wegen des schlechten GPS Empfangs vor Ort hätten wir uns auch einen nützlicheren Hint gewünscht, aber schließlich hat es auch so geklappt. Vielen Dank für die Dose und das schöne Rätsel!</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

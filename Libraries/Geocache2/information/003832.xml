@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>003832</id>
+  <cache-id>CP1J3MC</cache-id>
+  <type>Waypoint</type>
+  <name>North Bull Wall parking location</name>
+  <placed>2010-01-23</placed>
+  <lat>53.354883</lat>
+  <lon>-6.16995</lon>
+  <attributes>hidden</attributes>
+  <description>Parking area for cars at the North Bull Wall</description>
+  <url>http://www.geocaching.com/seek/wpt.aspx?WID=ffe82e5a-1879-4770-b12d-c98797ea821a</url>
+  <url-name>North Bull Wall parking location</url-name>
+</element>
+</celsiusv2.1.addinfofile>

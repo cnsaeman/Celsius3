@@ -1,0 +1,214 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>000280</id>
+  <cache-id>GC1G414</cache-id>
+  <type>Traditional Cache</type>
+  <name>Art Deco Dublin: Noblett's Sweet Shop by Bootle, Traditional Cache (2/1)</name>
+  <size>Micro</size>
+  <difficulty>2</difficulty>
+  <terrain>1</terrain>
+  <last-found>2008-10-16</last-found>
+  <placed>2008-09-08</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>Bootle</placedby>
+  <found>Geocache Found</found>
+  <lat>53.33965</lat>
+  <lon>-6.260967</lon>
+  <last-logs>FFFFFF</last-logs>
+  <owner>Bootle</owner>
+  <description>
+      </description>
+  <long-description><p align="center"><a target="_blank"
+href="http://www.geocachingireland.com"><img border="0"
+src="http://geocachingireland.com/logo4.jpg" width="328"
+height="53" align="middle" /></a></p>
+<br />
+This cache is one in a series highlighting some of Dublin's finest
+examples of Art Deco architecture. The design movement, which was
+popular roughly between the two world wars, never had an enormous
+impact in Ireland. Nevertheless many beautiful buildings were
+constructed along Art Deco lines, and while many have been
+demolished, there are still several fine examples to be seen in
+modern Dublin. This series of caches will bring you to several
+examples, but is not intended to be a comprehensive list. <br />
+<br />
+The structure of Art Deco is based on mathematical geometric
+shapes. It was widely considered to be an eclectic form of elegant
+and stylish modernism, being influenced by a variety of sources.
+Among them were the so-called "primitive" arts of Africa, Ancient
+Egypt, and Aztec Mexico, as well as machine-age or streamline
+technology such as modern aviation, electric lighting, the radio,
+the ocean liner and the skyscraper. <br />
+<br />
+Art Deco design influences were expressed in fractionated,
+crystalline, faceted forms of decorative Cubism and Futurism. Other
+popular themes in Art Deco were trapezoidal, zigzagged, geometric,
+and jumbled shapes, which can be seen in many early pieces. These
+were the buildings of the future: sleek, geometric, dramatic. With
+their cubic forms and zigzag designs, art deco buildings embraced
+the machine age. <br />
+<br />
+This building, at the top of Grafton Street, once housed Nobletts
+Sweet shop. It was built at some point in the 1930s and, despite
+its distinctive tower, is often overlooked by the throngs that pass
+by it every day. Today it houses a newsagents shop.<br />
+<br />
+ This cache is a nano. It is placed away from the building itself,
+in a marginally quiter location! Stealth is required in this urban
+location, and please be aware of the many people who pass by this
+busy spot. You may have to find this cache by touch, rather than by
+sight! <br />
+ <br />
+<br />
+Sources -<br />
+<br />
+<a rel="nofollow"
+href="http://www.geocities.com/Paris/Salon/6941/grafton.htm">Art
+Deco Ireland</a><br />
+<a rel="nofollow"
+href="http://ireland.archiseek.com/buildings_ireland/dublin/southcity/dame_street/burtons.html">
+Archiseek</a><br />
+<a rel="nofollow"
+href="http://www.retropolis.net/history.html">Retropolis</a><br />
+ <a rel="nofollow"
+href="http://architecture.about.com/cs/timeline/a/artdeco.htm">Architecture.com</a><br />
+
+ <br /></long-description>
+  <encoded-hints>SS Green West; where railing meets wall</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=435a10b0-2c65-438e-aa86-14917012eb50</url>
+  <url-name>Art Deco Dublin: Noblett's Sweet Shop</url-name>
+  <logs><ul><li>2010-06-16T19:00:00Z : Found it by momentforus <br />With Happy2006 and Snoop Doggy Dee on our trip to Ireland.  Found pretty quickly  SL TFTH</li><li>2010-06-15T19:00:00Z : Found it by sina1507 <br />Found together with scheff on our second day in Dublin.
+TFTC sina1507 from germany</li><li>2010-06-15T19:00:00Z : Found it by scheff <br />Found together with sina1507 on our second day in Dublin.
+TFTC scheff from germany</li><li>2010-06-09T19:00:00Z : Found it by Die-3-Fragezeichen <br />Last night the coords lead me closer to the nice building and a muggle didn't allow me one further more potential hide. Today I got it with one grab, smile. TFTC and greetings from Germany, 3???  btw, very nice park!</li><li>2010-06-06T19:00:00Z : Found it by de Bontjes <br />Together with 4-voeters we've searched the place around, well hidden this one!
+T4tc.</li><li>2008-10-16T19:00:00Z : Found it by Kersti.com <br />A fast find, with some nearby horses providing a strong smell-screen. Log is jammed full.</li><li>2008-10-16T16:37:16Z : Needs Maintenance by Kersti.com <br />Log book full</li></ul></logs>
+  <original-xml>  <wpt  lat="53.33965" lon="-6.260967">
+    <time>2008-09-08T07:00:00Z</time>
+    <name>GC1G414</name>
+    <desc>Art Deco Dublin: Noblett's Sweet Shop by Bootle, Traditional Cache (2/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=435a10b0-2c65-438e-aa86-14917012eb50</url>
+    <urlname>Art Deco Dublin: Noblett's Sweet Shop</urlname>
+    <sym>Geocache Found</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="992936" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Art Deco Dublin: Noblett's Sweet Shop</groundspeak:name>
+      <groundspeak:placed_by>Bootle</groundspeak:placed_by>
+      <groundspeak:owner id="96113">Bootle</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>2</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>Dublin</groundspeak:state>
+      <groundspeak:short_description html="True">
+      </groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;p align="center"&gt;&lt;a target="_blank"
+href="http://www.geocachingireland.com"&gt;&lt;img border="0"
+src="http://geocachingireland.com/logo4.jpg" width="328"
+height="53" align="middle" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;br /&gt;
+This cache is one in a series highlighting some of Dublin's finest
+examples of Art Deco architecture. The design movement, which was
+popular roughly between the two world wars, never had an enormous
+impact in Ireland. Nevertheless many beautiful buildings were
+constructed along Art Deco lines, and while many have been
+demolished, there are still several fine examples to be seen in
+modern Dublin. This series of caches will bring you to several
+examples, but is not intended to be a comprehensive list. &lt;br /&gt;
+&lt;br /&gt;
+The structure of Art Deco is based on mathematical geometric
+shapes. It was widely considered to be an eclectic form of elegant
+and stylish modernism, being influenced by a variety of sources.
+Among them were the so-called "primitive" arts of Africa, Ancient
+Egypt, and Aztec Mexico, as well as machine-age or streamline
+technology such as modern aviation, electric lighting, the radio,
+the ocean liner and the skyscraper. &lt;br /&gt;
+&lt;br /&gt;
+Art Deco design influences were expressed in fractionated,
+crystalline, faceted forms of decorative Cubism and Futurism. Other
+popular themes in Art Deco were trapezoidal, zigzagged, geometric,
+and jumbled shapes, which can be seen in many early pieces. These
+were the buildings of the future: sleek, geometric, dramatic. With
+their cubic forms and zigzag designs, art deco buildings embraced
+the machine age. &lt;br /&gt;
+&lt;br /&gt;
+This building, at the top of Grafton Street, once housed Nobletts
+Sweet shop. It was built at some point in the 1930s and, despite
+its distinctive tower, is often overlooked by the throngs that pass
+by it every day. Today it houses a newsagents shop.&lt;br /&gt;
+&lt;br /&gt;
+ This cache is a nano. It is placed away from the building itself,
+in a marginally quiter location! Stealth is required in this urban
+location, and please be aware of the many people who pass by this
+busy spot. You may have to find this cache by touch, rather than by
+sight! &lt;br /&gt;
+ &lt;br /&gt;
+&lt;br /&gt;
+Sources -&lt;br /&gt;
+&lt;br /&gt;
+&lt;a rel="nofollow"
+href="http://www.geocities.com/Paris/Salon/6941/grafton.htm"&gt;Art
+Deco Ireland&lt;/a&gt;&lt;br /&gt;
+&lt;a rel="nofollow"
+href="http://ireland.archiseek.com/buildings_ireland/dublin/southcity/dame_street/burtons.html"&gt;
+Archiseek&lt;/a&gt;&lt;br /&gt;
+&lt;a rel="nofollow"
+href="http://www.retropolis.net/history.html"&gt;Retropolis&lt;/a&gt;&lt;br /&gt;
+ &lt;a rel="nofollow"
+href="http://architecture.about.com/cs/timeline/a/artdeco.htm"&gt;Architecture.com&lt;/a&gt;&lt;br /&gt;
+
+ &lt;br /&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>SS Green West; where railing meets wall</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="113190961">
+          <groundspeak:date>2010-06-16T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="299677">momentforus</groundspeak:finder>
+          <groundspeak:text encoded="False">With Happy2006 and Snoop Doggy Dee on our trip to Ireland.  Found pretty quickly  SL TFTH</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="113015359">
+          <groundspeak:date>2010-06-15T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2183349">sina1507</groundspeak:finder>
+          <groundspeak:text encoded="False">Found together with scheff on our second day in Dublin.
+TFTC sina1507 from germany</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="113012811">
+          <groundspeak:date>2010-06-15T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="374472">scheff</groundspeak:finder>
+          <groundspeak:text encoded="False">Found together with sina1507 on our second day in Dublin.
+TFTC scheff from germany</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="112686155">
+          <groundspeak:date>2010-06-09T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1455776">Die-3-Fragezeichen</groundspeak:finder>
+          <groundspeak:text encoded="False">Last night the coords lead me closer to the nice building and a muggle didn't allow me one further more potential hide. Today I got it with one grab, smile. TFTC and greetings from Germany, 3???  btw, very nice park!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="112429784">
+          <groundspeak:date>2010-06-06T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2857509">de Bontjes</groundspeak:finder>
+          <groundspeak:text encoded="False">Together with 4-voeters we've searched the place around, well hidden this one!
+T4tc.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="55187198">
+          <groundspeak:date>2008-10-16T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="320206">Kersti.com</groundspeak:finder>
+          <groundspeak:text encoded="False">A fast find, with some nearby horses providing a strong smell-screen. Log is jammed full.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="55187234">
+          <groundspeak:date>2008-10-16T16:37:16Z</groundspeak:date>
+          <groundspeak:type>Needs Maintenance</groundspeak:type>
+          <groundspeak:finder id="320206">Kersti.com</groundspeak:finder>
+          <groundspeak:text encoded="False">Log book full</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

@@ -1,0 +1,106 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>003843</id>
+  <cache-id>GC27PAA</cache-id>
+  <type>Traditional Cache</type>
+  <name>Fischchen im Sturm by balu-fd, Traditional Cache (1/1)</name>
+  <size>Micro</size>
+  <difficulty>1</difficulty>
+  <terrain>1</terrain>
+  <last-found>2010-11-16</last-found>
+  <placed>2010-04-29</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>balu-fd</placedby>
+  <found>Geocache</found>
+  <lat>50.54105</lat>
+  <lon>9.67765</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>balu-fd</owner>
+  <description>Einfacher Cache in Einem Wohngebiet.</description>
+  <long-description>Die Koordinaden bezeichnen einen Ort, wo Fischchen willkommen sind. 
+
+Die Besitzer des Hauses wissen Bescheid.
+Man muss die Einfahrt betreten, jedoch nicht das Gelände hinter dem Zaun.</long-description>
+  <encoded-hints>Hinter dem Holz unter dem Stein.</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=10997ea7-f326-4981-97b4-023a015919e7</url>
+  <url-name>Fischchen im Sturm</url-name>
+  <logs><ul><li>2010-12-12T20:00:00Z : Found it by BB! <br />TFTC - beim 2.mal gefunden RN und BB!</li><li>2010-11-26T20:00:00Z : Found it by mayday malone <br />heute während einer geburtsfeier einen kurzen verdauungsspaziergang gemacht und dank hint auch gut gefunden.
+danke dafür und gruß. mayday</li><li>2010-11-25T20:00:00Z : Found it by Lupo 512 <br />Vor einem Termin bei der GWV in Fulda nach kurzer Suche das Döschen gefunden.
+
+Viele Grüße und danke sagt der Lupo 512 aus dem Main Kinzig Kreis.
+
+#249, 08:01, Found it with [url=http://www.geocaching.com/images/gadgets/htc_hd2.jpg] HTC HD II [/url] & [url=HTTP://WWW.getcachebox.net]Cachebox[/URL]
+
+Kein Handel</li><li>2010-11-18T20:00:00Z : Found it by s186003 <br />Im 3. Anlauf nachts sofort gefunden. Man muss nur den Hint verstehen.
+TFTC</li><li>2010-11-16T20:00:00Z : Found it by Herzl <br />Parkplatz gefunden, Dose entdeckt. Diese konnte ich nur schwer aus ihrem Versteck befreien, aber dann gings - Finger zu kurz!</li></ul></logs>
+  <original-xml>  <wpt  lat="50.54105" lon="9.67765">
+    <time>2010-04-29T07:00:00Z</time>
+    <name>GC27PAA</name>
+    <desc>Fischchen im Sturm by balu-fd, Traditional Cache (1/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=10997ea7-f326-4981-97b4-023a015919e7</url>
+    <urlname>Fischchen im Sturm</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1665921" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Fischchen im Sturm</groundspeak:name>
+      <groundspeak:placed_by>balu-fd</groundspeak:placed_by>
+      <groundspeak:owner id="3122379">balu-fd</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">Einfacher Cache in Einem Wohngebiet.</groundspeak:short_description>
+      <groundspeak:long_description html="False">Die Koordinaden bezeichnen einen Ort, wo Fischchen willkommen sind. 
+
+Die Besitzer des Hauses wissen Bescheid.
+Man muss die Einfahrt betreten, jedoch nicht das Gelände hinter dem Zaun.</groundspeak:long_description>
+      <groundspeak:encoded_hints>Hinter dem Holz unter dem Stein.</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="138406142">
+          <groundspeak:date>2010-12-12T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3781589">BB!</groundspeak:finder>
+          <groundspeak:text encoded="False">TFTC - beim 2.mal gefunden RN und BB!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="137224461">
+          <groundspeak:date>2010-11-26T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3592921">mayday malone</groundspeak:finder>
+          <groundspeak:text encoded="False">heute während einer geburtsfeier einen kurzen verdauungsspaziergang gemacht und dank hint auch gut gefunden.
+danke dafür und gruß. mayday</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="137236260">
+          <groundspeak:date>2010-11-25T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="844820">Lupo 512</groundspeak:finder>
+          <groundspeak:text encoded="False">Vor einem Termin bei der GWV in Fulda nach kurzer Suche das Döschen gefunden.
+
+Viele Grüße und danke sagt der Lupo 512 aus dem Main Kinzig Kreis.
+
+#249, 08:01, Found it with [url=http://www.geocaching.com/images/gadgets/htc_hd2.jpg] HTC HD II [/url] &amp; [url=HTTP://WWW.getcachebox.net]Cachebox[/URL]
+
+Kein Handel</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="136358881">
+          <groundspeak:date>2010-11-18T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2819456">s186003</groundspeak:finder>
+          <groundspeak:text encoded="False">Im 3. Anlauf nachts sofort gefunden. Man muss nur den Hint verstehen.
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="136090334">
+          <groundspeak:date>2010-11-16T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1970181">Herzl</groundspeak:finder>
+          <groundspeak:text encoded="False">Parkplatz gefunden, Dose entdeckt. Diese konnte ich nur schwer aus ihrem Versteck befreien, aber dann gings - Finger zu kurz!</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

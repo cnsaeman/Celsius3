@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>002652</id>
+  <cache-id>PK20JXY</cache-id>
+  <type>Waypoint</type>
+  <name>Garden 19 Parking</name>
+  <placed>2010-03-07</placed>
+  <lat>53.138233</lat>
+  <lon>-6.440983</lon>
+  <attributes>hidden</attributes>
+  <description></description>
+  <url>http://www.geocaching.com/seek/wpt.aspx?WID=9c847a2f-2ceb-4b73-8c6a-289b73eefa1d</url>
+  <url-name>Garden 19 Parking</url-name>
+</element>
+</celsiusv2.1.addinfofile>

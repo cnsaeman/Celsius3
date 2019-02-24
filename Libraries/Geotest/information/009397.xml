@@ -1,0 +1,155 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>009397</id>
+  <cache-id>GC26QKK</cache-id>
+  <type>Traditional Cache</type>
+  <name>TB Hotel Spielebox by Maluma, Traditional Cache (2/2.5)</name>
+  <size>Large</size>
+  <difficulty>2</difficulty>
+  <terrain>2.5</terrain>
+  <last-found>2010-11-14</last-found>
+  <placed>2010-04-13</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Maluma</placedby>
+  <found>Geocache</found>
+  <lat>50.52155</lat>
+  <lon>9.682417</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>Maluma</owner>
+  <description>Es wird wohl der größte Cachebehälter in Fulda sein. ca. 40 cm Durchmesser und 50cm Hoch.
+
+Bitte verhaltet Euch umsichtig damit er nicht endeckt wird. Also auch nicht mit dem Auto reinfahren, wo es verboten ist. 
+
+Hier haben nur Radfahrer und Fußgänger Zutritt.
+
+Zum Öffnen Spannbügel auf der Seite betätigen!
+
+Und vergesst nicht Eure ausgedienten Spielsachen mitzubringen, damit die Dose immer voll bleibt.
+
+Am besten parkt man kurz vor der Waschanlage</description>
+  <long-description>Der Cache soll in erster Linie für Kinder sein. Hier könnt ihr Spielsachen tauschen um anderen Kindern eine Freude zu machen...
+
+AKTUELL:
+Leider hat sich durch die Wiese schon eine richtige Cacherautobahn gebildet..Bitte lauft doch auch mal an anderer Stelle über die Wiese Richtung Cache. Ich befürchte sonst, dass er sonst irgendwann von Muggels entdeckt wird.
+
+Erstausstattung:
+- separate Box für Logbuch und TB/TC´s
+- Puzzle 60x80 von Paris
+- Spiel neu Adel verpflichtet (ab 12J)
+- TB Diamant
+- Div. weiteres Spielzeug</long-description>
+  <encoded-hints>Aufpassen das Ihr nichts auf den Kopf bekommt. Manche werfen hier auch mal eine Flasche sorglos weg.</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=21a1a871-750f-4cc4-98f5-41502787af2f</url>
+  <url-name>TB Hotel Spielebox</url-name>
+  <logs><ul><li>2010-11-28T20:00:00Z : Found it by BB! <br />ging echt schnell - hatten viel Spaß RN und BB!</li><li>2010-11-26T20:00:00Z : Found it by Lupo 512 <br />Nach einem kleinen Sparziergang bei schmuddeligen Winterwetter fand ich die Dose gut getarnt vor. Da ich mir sicher war das an diesem von Gott verlassenen Ort mein treiben niemanden stört konnte ich hier ganz ungeniert  und vor allem ungestört meinem Handwerk nachgehen.
+
+Viele Grüße und danke sagt der Lupo 512 aus dem Main Kinzig Kreis.
+
+#252, 12:56, Found it with [url=http://www.geocaching.com/images/gadgets/htc_hd2.jpg] HTC HD II [/url] & [url=HTTP://WWW.getcachebox.net]Cachebox[/URL]
+
+Kein Handel</li><li>2010-11-21T19:04:42Z : Found it by Team Wasserbüffel <br />Sehr gut gefunden die Wiese zeigt den Weg 21.11.10 10.48Uhr
+Out : Spiel & Armreif
+In : Figur & Spiel
+
+Geochoin nicht mehr da </li><li>2010-11-19T20:00:00Z : Found it by teammautz <br />Hier hat sich der Owner richtig viel Mühe gegeben. Es ist ja ein regelrechter Cache-Tresor! Vielleicht sollte mal jemand einen Fußball einlegen. Wir entnahmen einen Plüschhund und legten ein Geduldspiel hinein. Die Cacheautobahn haben wir leider auch benutzt, da wir sonst unsere Klamotten zu sehr strapaziert hätten. Im Sommer sieht die Sache natürlich anders aus. Es wäre wirklich schade, wenn der Cache gemuggelt würde!</li><li>2010-11-14T20:00:00Z : Found it by die taunuskrokodile <br />Schnell gefunden und Spiel getauscht!
+
+Danke</li></ul></logs>
+  <original-xml>  <wpt  lat="50.52155" lon="9.682417">
+    <time>2010-04-13T07:00:00Z</time>
+    <name>GC26QKK</name>
+    <desc>TB Hotel Spielebox by Maluma, Traditional Cache (2/2.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=21a1a871-750f-4cc4-98f5-41502787af2f</url>
+    <urlname>TB Hotel Spielebox</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1637379" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>TB Hotel Spielebox</groundspeak:name>
+      <groundspeak:placed_by>Maluma</groundspeak:placed_by>
+      <groundspeak:owner id="1380311">Maluma</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Large</groundspeak:container>
+      <groundspeak:difficulty>2</groundspeak:difficulty>
+      <groundspeak:terrain>2.5</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">Es wird wohl der größte Cachebehälter in Fulda sein. ca. 40 cm Durchmesser und 50cm Hoch.
+
+Bitte verhaltet Euch umsichtig damit er nicht endeckt wird. Also auch nicht mit dem Auto reinfahren, wo es verboten ist. 
+
+Hier haben nur Radfahrer und Fußgänger Zutritt.
+
+Zum Öffnen Spannbügel auf der Seite betätigen!
+
+Und vergesst nicht Eure ausgedienten Spielsachen mitzubringen, damit die Dose immer voll bleibt.
+
+Am besten parkt man kurz vor der Waschanlage</groundspeak:short_description>
+      <groundspeak:long_description html="False">Der Cache soll in erster Linie für Kinder sein. Hier könnt ihr Spielsachen tauschen um anderen Kindern eine Freude zu machen...
+
+AKTUELL:
+Leider hat sich durch die Wiese schon eine richtige Cacherautobahn gebildet..Bitte lauft doch auch mal an anderer Stelle über die Wiese Richtung Cache. Ich befürchte sonst, dass er sonst irgendwann von Muggels entdeckt wird.
+
+Erstausstattung:
+- separate Box für Logbuch und TB/TC´s
+- Puzzle 60x80 von Paris
+- Spiel neu Adel verpflichtet (ab 12J)
+- TB Diamant
+- Div. weiteres Spielzeug</groundspeak:long_description>
+      <groundspeak:encoded_hints>Aufpassen das Ihr nichts auf den Kopf bekommt. Manche werfen hier auch mal eine Flasche sorglos weg.</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="137415969">
+          <groundspeak:date>2010-11-28T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3781589">BB!</groundspeak:finder>
+          <groundspeak:text encoded="False">ging echt schnell - hatten viel Spaß RN und BB!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="137237757">
+          <groundspeak:date>2010-11-26T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="844820">Lupo 512</groundspeak:finder>
+          <groundspeak:text encoded="False">Nach einem kleinen Sparziergang bei schmuddeligen Winterwetter fand ich die Dose gut getarnt vor. Da ich mir sicher war das an diesem von Gott verlassenen Ort mein treiben niemanden stört konnte ich hier ganz ungeniert  und vor allem ungestört meinem Handwerk nachgehen.
+
+Viele Grüße und danke sagt der Lupo 512 aus dem Main Kinzig Kreis.
+
+#252, 12:56, Found it with [url=http://www.geocaching.com/images/gadgets/htc_hd2.jpg] HTC HD II [/url] &amp; [url=HTTP://WWW.getcachebox.net]Cachebox[/URL]
+
+Kein Handel</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="136578734">
+          <groundspeak:date>2010-11-21T19:04:42Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3917526">Team Wasserbüffel</groundspeak:finder>
+          <groundspeak:text encoded="False">Sehr gut gefunden die Wiese zeigt den Weg 21.11.10 10.48Uhr
+Out : Spiel &amp; Armreif
+In : Figur &amp; Spiel
+
+Geochoin nicht mehr da </groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="136371314">
+          <groundspeak:date>2010-11-19T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3644172">teammautz</groundspeak:finder>
+          <groundspeak:text encoded="False">Hier hat sich der Owner richtig viel Mühe gegeben. Es ist ja ein regelrechter Cache-Tresor! Vielleicht sollte mal jemand einen Fußball einlegen. Wir entnahmen einen Plüschhund und legten ein Geduldspiel hinein. Die Cacheautobahn haben wir leider auch benutzt, da wir sonst unsere Klamotten zu sehr strapaziert hätten. Im Sommer sieht die Sache natürlich anders aus. Es wäre wirklich schade, wenn der Cache gemuggelt würde!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="135845916">
+          <groundspeak:date>2010-11-14T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3669866">die taunuskrokodile</groundspeak:finder>
+          <groundspeak:text encoded="False">Schnell gefunden und Spiel getauscht!
+
+Danke</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs>
+        <groundspeak:travelbug id="1298889" ref="TB1VCCJ">
+          <groundspeak:name>Germany 2007 Geocoin</groundspeak:name>
+        </groundspeak:travelbug>
+        <groundspeak:travelbug id="2740125" ref="TB3CR42">
+          <groundspeak:name>Knopf anne Backe</groundspeak:name>
+        </groundspeak:travelbug>
+      </groundspeak:travelbugs>
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

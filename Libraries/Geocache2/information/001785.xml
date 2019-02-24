@@ -1,0 +1,168 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>001785</id>
+  <cache-id>GCZZG8</cache-id>
+  <type>Multi-cache</type>
+  <name>Donaghmore Church by Windsockers, Multi-cache (1/1.5)</name>
+  <size>Small</size>
+  <difficulty>1</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2009-07-15</last-found>
+  <placed>2007-05-14</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>Windsockers</placedby>
+  <found>Geocache</found>
+  <lat>53.488317</lat>
+  <lon>-6.3492</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>Windsockers</owner>
+  <description><center>
+<img src="http://img.geocaching.com/cache/91c0008e-050c-4c49-abe8-3bd7263a249b.jpg" />
+</center></description>
+  <long-description><p>The setting for this cache is in the grounds of and old church
+near the village of Donaghmore dating back to the early
+1700’s.<br />
+ One of its Parish Priests was Fr Pat Ferrall who was noted to be
+active in the 1798 rebellion and a “stern and uncompromising
+patriot”</p>
+<p>You can read some more about the 1798 Irish Rebellion
+<a rel="nofollow"
+href='http://en.wikipedia.org/wiki/Irish_Rebellion_of_1798'
+target="_blank">Here</a></p>
+<p><b>The Cache</b></p>
+<p>Stage 1</p>
+<p>At the above location note the double dates on the plaque call
+the A.B.C.D E.F.G.H</p>
+<p>Final Location</p>
+<p>The cache is at :</p>
+<p>N 53 ((F+B)x(E+H))-A.(E+A)(D+F+E-H-C)(A+E+H)</p>
+<p>W 006 (D+F)x(A+H)-(Bx(E+A).(F+D+A-H-C)(D-E+H-A+G)(D+G-B+E)</p>
+<p>please retrieve and replace the cache with extreme care to
+Prevent Muggles from Discovering the cache.</p>
+<center>
+<img src="http://www.northbeach.ie/gallery/albums/userpics/10001/windsock-anim-small.gif" />
+<br />
+<b>The Windsockers</b></center></long-description>
+  <additional-waypoints>FLZZG8 - Final Location<br />N/S  __ ° __ . ___ W/E ___ ° __ . ___ <br /><br /></additional-waypoints>
+  <links>waypoints:cache-id:FLZZG8</links>
+  <encoded-hints>
+      </encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=b18761e6-0709-408f-a946-e47a7a0cabaf</url>
+  <url-name>Donaghmore Church</url-name>
+  <logs><ul><li>2010-03-15T19:00:00Z : Found it by Mausfallensteller <br />Really nice place out here.
+
+in: TB Tasmanian devil
+out: TB racing car
+
+Thanks for showing!
+[;)]</li><li>2009-09-27T19:00:00Z : Found it by photomaniac99 <br />My first find! </li><li>2009-09-27T19:00:00Z : Found it by abra123cadabra <br />After doing the maths this cache was quickly spotted and retrieved by our little cacher.
+
+OUT: 5c coin & football sticker
+IN: Euro Note Rubber & Mike's Racer TB</li><li>2009-09-21T19:00:00Z : Found it by Serapis <br />The grass here must have been cut just this morning, the smell was fantastic. Found the dates quickly got the maths done quickly (on a roll since the last find). The co ords were excellent and I picked up the cache in no time at all. Thanks for a great cache. Serapis.
+
+</li><li>2009-07-15T19:00:00Z : Found it by Herman en Eugeni <br />#  901  @  9.30 hr
+Found it easily on a very quit place.
+Thanks.</li></ul></logs>
+  <original-xml>  <wpt  lat="53.488317" lon="-6.3492">
+    <time>2007-05-14T07:00:00Z</time>
+    <name>GCZZG8</name>
+    <desc>Donaghmore Church by Windsockers, Multi-cache (1/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=b18761e6-0709-408f-a946-e47a7a0cabaf</url>
+    <urlname>Donaghmore Church</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Multi-cache</type>
+    <groundspeak:cache id="511944" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Donaghmore Church</groundspeak:name>
+      <groundspeak:placed_by>Windsockers</groundspeak:placed_by>
+      <groundspeak:owner id="271623">Windsockers</groundspeak:owner>
+      <groundspeak:type>Multi-cache</groundspeak:type>
+      <groundspeak:container>Small</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>Leinster</groundspeak:state>
+      <groundspeak:short_description html="True">&lt;center&gt;
+&lt;img src="http://img.geocaching.com/cache/91c0008e-050c-4c49-abe8-3bd7263a249b.jpg" /&gt;
+&lt;/center&gt;</groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;p&gt;The setting for this cache is in the grounds of and old church
+near the village of Donaghmore dating back to the early
+1700’s.&lt;br /&gt;
+ One of its Parish Priests was Fr Pat Ferrall who was noted to be
+active in the 1798 rebellion and a “stern and uncompromising
+patriot”&lt;/p&gt;
+&lt;p&gt;You can read some more about the 1798 Irish Rebellion
+&lt;a rel="nofollow"
+href='http://en.wikipedia.org/wiki/Irish_Rebellion_of_1798'
+target="_blank"&gt;Here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;The Cache&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Stage 1&lt;/p&gt;
+&lt;p&gt;At the above location note the double dates on the plaque call
+the A.B.C.D E.F.G.H&lt;/p&gt;
+&lt;p&gt;Final Location&lt;/p&gt;
+&lt;p&gt;The cache is at :&lt;/p&gt;
+&lt;p&gt;N 53 ((F+B)x(E+H))-A.(E+A)(D+F+E-H-C)(A+E+H)&lt;/p&gt;
+&lt;p&gt;W 006 (D+F)x(A+H)-(Bx(E+A).(F+D+A-H-C)(D-E+H-A+G)(D+G-B+E)&lt;/p&gt;
+&lt;p&gt;please retrieve and replace the cache with extreme care to
+Prevent Muggles from Discovering the cache.&lt;/p&gt;
+&lt;center&gt;
+&lt;img src="http://www.northbeach.ie/gallery/albums/userpics/10001/windsock-anim-small.gif" /&gt;
+&lt;br /&gt;
+&lt;b&gt;The Windsockers&lt;/b&gt;&lt;/center&gt;&lt;p&gt;Additional Waypoints&lt;/p&gt;FLZZG8 - Final Location&lt;br /&gt;N/S  __ ° __ . ___ W/E ___ ° __ . ___ &lt;br /&gt;&lt;br /&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>
+      </groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="99922443">
+          <groundspeak:date>2010-03-15T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1643102">Mausfallensteller</groundspeak:finder>
+          <groundspeak:text encoded="False">Really nice place out here.
+
+in: TB Tasmanian devil
+out: TB racing car
+
+Thanks for showing!
+[;)]</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="87067182">
+          <groundspeak:date>2009-09-27T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2725741">photomaniac99</groundspeak:finder>
+          <groundspeak:text encoded="False">My first find! </groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="85712814">
+          <groundspeak:date>2009-09-27T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2383033">abra123cadabra</groundspeak:finder>
+          <groundspeak:text encoded="False">After doing the maths this cache was quickly spotted and retrieved by our little cacher.
+
+OUT: 5c coin &amp; football sticker
+IN: Euro Note Rubber &amp; Mike's Racer TB</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="85304056">
+          <groundspeak:date>2009-09-21T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1019524">Serapis</groundspeak:finder>
+          <groundspeak:text encoded="False">The grass here must have been cut just this morning, the smell was fantastic. Found the dates quickly got the maths done quickly (on a roll since the last find). The co ords were excellent and I picked up the cache in no time at all. Thanks for a great cache. Serapis.
+
+</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="77815270">
+          <groundspeak:date>2009-07-15T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1321804">Herman en Eugeni</groundspeak:finder>
+          <groundspeak:text encoded="False">#  901  @  9.30 hr
+Found it easily on a very quit place.
+Thanks.</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs>
+        <groundspeak:travelbug id="791663" ref="TB19BJE">
+          <groundspeak:name>TAZ</groundspeak:name>
+        </groundspeak:travelbug>
+      </groundspeak:travelbugs>
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

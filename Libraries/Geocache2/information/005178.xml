@@ -1,0 +1,122 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>005178</id>
+  <cache-id>GC1Q4AZ</cache-id>
+  <type>Traditional Cache</type>
+  <name>Ward River Valley by Orangetigerprawn, Traditional Cache (2/1.5)</name>
+  <size>Micro</size>
+  <difficulty>2</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2009-10-09</last-found>
+  <placed>2009-04-16</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>Orangetigerprawn</placedby>
+  <found>Geocache</found>
+  <lat>53.45825</lat>
+  <lon>-6.242733</lon>
+  <last-logs>XFXFF</last-logs>
+  <owner>orangetigerprawn</owner>
+  <description>Ward River Valley Regional Park</description>
+  <long-description>This is a linear park on the banks of the Ward River South of Swords town.  It covers an area of 89 ha. (220 acres) between Swords Town Centre and Knocksedan Bridge. Features of interest include some 12th century fortifications, woodland habitats, wetlands and rolling grassland. There are viewing points, picnic sites, a public playground, sports pitches and tennis courts. 
+
+
+Opening Hours:
+
+The park is open all year round during the following hours:
+
+November to January: 10.00am - 5.00pm
+February to March  10.00am - 6.00pm
+April    10.00am - 7.00pm  
+May    10.00am - 8.00pm
+June to August  10.00am  - 9.00pm
+September   10.00am - 8.00pm
+October    10.00am - 7.00pm
+
+The cache only contains the log and a small pencil.</long-description>
+  <encoded-hints>Red Hot Chilli Peppers</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=94548f43-b1bc-44a6-81bb-88f0b46125be</url>
+  <url-name>Ward River Valley</url-name>
+  <logs><ul><li>2010-04-25T19:00:00Z : Didn't find it by abra123cadabra <br />It's not really a DNF, more a "ran out of time" when the thunder and rain gave us the cue to abort our mission and dash for the car. We think we understand the hint and reading more of the previous logs I'm pretty certain we started in the right location. The place is a bit of a tip. I don't understand why people have to dump their old mattresses and whathaveyounot into recreational areas. The cache is also labelled as "kids friendly". Does that apply to the final hiding place? If not, please remove the attribute from the listing. Well, we'll be back to see the container with our own eyes</li><li>2010-04-23T19:00:00Z : Found it by Sookmeister <br />Found it today on a quick stroll with Fibags. Nice dry day so happily stayed clean and dry. A few passers by walking but luckily there were two of us so we were able to look someway natural!!</li><li>2010-02-14T20:00:00Z : Didn't find it by Blue Jay 59 <br />We were here last Sunday & didn't find it, however did a little research on the hint and was sure we were on the right track- returned today but no luck - escaped us again. 
+Very busy spot for muggles, and a lot of rubbish around. Pity [:(] Nice park
+Blue Jay 59
+ 
+</li><li>2009-10-29T19:00:00Z : Found it by shorty.b <br />very wet and muddy good hint and nice container</li><li>2009-10-09T19:00:00Z : Found it by renard arctique <br />FTGW vimba_zlobnaja & IMAGin. TFTC!</li></ul></logs>
+  <original-xml>  <wpt  lat="53.45825" lon="-6.242733">
+    <time>2009-04-16T07:00:00Z</time>
+    <name>GC1Q4AZ</name>
+    <desc>Ward River Valley by Orangetigerprawn, Traditional Cache (2/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=94548f43-b1bc-44a6-81bb-88f0b46125be</url>
+    <urlname>Ward River Valley</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1201778" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Ward River Valley</groundspeak:name>
+      <groundspeak:placed_by>Orangetigerprawn</groundspeak:placed_by>
+      <groundspeak:owner id="2167131">orangetigerprawn</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>2</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>Dublin</groundspeak:state>
+      <groundspeak:short_description html="False">Ward River Valley Regional Park</groundspeak:short_description>
+      <groundspeak:long_description html="False">This is a linear park on the banks of the Ward River South of Swords town.  It covers an area of 89 ha. (220 acres) between Swords Town Centre and Knocksedan Bridge. Features of interest include some 12th century fortifications, woodland habitats, wetlands and rolling grassland. There are viewing points, picnic sites, a public playground, sports pitches and tennis courts. 
+
+
+Opening Hours:
+
+The park is open all year round during the following hours:
+
+November to January: 10.00am - 5.00pm
+February to March  10.00am - 6.00pm
+April    10.00am - 7.00pm  
+May    10.00am - 8.00pm
+June to August  10.00am  - 9.00pm
+September   10.00am - 8.00pm
+October    10.00am - 7.00pm
+
+The cache only contains the log and a small pencil.</groundspeak:long_description>
+      <groundspeak:encoded_hints>Red Hot Chilli Peppers</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="105716187">
+          <groundspeak:date>2010-04-25T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Didn't find it</groundspeak:type>
+          <groundspeak:finder id="2383033">abra123cadabra</groundspeak:finder>
+          <groundspeak:text encoded="False">It's not really a DNF, more a "ran out of time" when the thunder and rain gave us the cue to abort our mission and dash for the car. We think we understand the hint and reading more of the previous logs I'm pretty certain we started in the right location. The place is a bit of a tip. I don't understand why people have to dump their old mattresses and whathaveyounot into recreational areas. The cache is also labelled as "kids friendly". Does that apply to the final hiding place? If not, please remove the attribute from the listing. Well, we'll be back to see the container with our own eyes</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="105351779">
+          <groundspeak:date>2010-04-23T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2923857">Sookmeister</groundspeak:finder>
+          <groundspeak:text encoded="False">Found it today on a quick stroll with Fibags. Nice dry day so happily stayed clean and dry. A few passers by walking but luckily there were two of us so we were able to look someway natural!!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="97299940">
+          <groundspeak:date>2010-02-14T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Didn't find it</groundspeak:type>
+          <groundspeak:finder id="2709154">Blue Jay 59</groundspeak:finder>
+          <groundspeak:text encoded="False">We were here last Sunday &amp; didn't find it, however did a little research on the hint and was sure we were on the right track- returned today but no luck - escaped us again. 
+Very busy spot for muggles, and a lot of rubbish around. Pity [:(] Nice park
+Blue Jay 59
+ 
+</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="88909309">
+          <groundspeak:date>2009-10-29T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2226632">shorty.b</groundspeak:finder>
+          <groundspeak:text encoded="False">very wet and muddy good hint and nice container</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="88020084">
+          <groundspeak:date>2009-10-09T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1950075">renard arctique</groundspeak:finder>
+          <groundspeak:text encoded="False">FTGW vimba_zlobnaja &amp; IMAGin. TFTC!</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

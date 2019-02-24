@@ -1,0 +1,102 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>003285</id>
+  <cache-id>GC20GVH</cache-id>
+  <type>Traditional Cache</type>
+  <name>Keimelinchen by Dagosch, Traditional Cache (1/1.5)</name>
+  <size>Micro</size>
+  <difficulty>1</difficulty>
+  <terrain>1.5</terrain>
+  <last-found>2010-08-20</last-found>
+  <placed>2009-11-01</placed>
+  <gpx-date>2010-12-26</gpx-date>
+  <placedby>Dagosch</placedby>
+  <found>Geocache</found>
+  <lat>50.625</lat>
+  <lon>9.769167</lon>
+  <last-logs>FFFFF</last-logs>
+  <owner>Dagosch</owner>
+  <description>
+      </description>
+  <long-description>Kleiner, einfacher Sprössling auf dem Weg zur Bibliothek.</long-description>
+  <encoded-hints>Ohne Moos nix los!</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=acd9539c-2ca2-411e-9869-5e6d8f0d4053</url>
+  <url-name>Keimelinchen</url-name>
+  <logs><ul><li>2010-11-21T20:00:00Z : Found it by balalaika <br />Am Sonntag mal `ne kleine Tour rund um Dammersbach gemacht. Dabei auch hier vorbei gekommen.
+Danke sagt team balalaika</li><li>2010-11-20T20:00:00Z : Found it by digger09 <br />bei einer runde durch die vorderhön  gefunden
+dfdc</li><li>2010-10-02T19:00:00Z : Found it by Camuvlash <br />TFTC</li><li>2010-09-11T19:00:00Z : Found it by sema2505 <br />zufällig mit dem auto direkt dort geparkt und vorher einen anderen cache aufgesucht
+
+danke fürs versteck
+
+</li><li>2010-08-20T19:00:00Z : Found it by LI*MO <br />Schnell und gut gefunden.
+
+TFTC</li></ul></logs>
+  <original-xml>  <wpt  lat="50.625" lon="9.769167">
+    <time>2009-11-01T07:00:00Z</time>
+    <name>GC20GVH</name>
+    <desc>Keimelinchen by Dagosch, Traditional Cache (1/1.5)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=acd9539c-2ca2-411e-9869-5e6d8f0d4053</url>
+    <urlname>Keimelinchen</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1452121" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Keimelinchen</groundspeak:name>
+      <groundspeak:placed_by>Dagosch</groundspeak:placed_by>
+      <groundspeak:owner id="374782">Dagosch</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1.5</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Hessen</groundspeak:state>
+      <groundspeak:short_description html="False">
+      </groundspeak:short_description>
+      <groundspeak:long_description html="False">Kleiner, einfacher Sprössling auf dem Weg zur Bibliothek.</groundspeak:long_description>
+      <groundspeak:encoded_hints>Ohne Moos nix los!</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="137009335">
+          <groundspeak:date>2010-11-21T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1414299">balalaika</groundspeak:finder>
+          <groundspeak:text encoded="False">Am Sonntag mal `ne kleine Tour rund um Dammersbach gemacht. Dabei auch hier vorbei gekommen.
+Danke sagt team balalaika</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="136670871">
+          <groundspeak:date>2010-11-20T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3042502">digger09</groundspeak:finder>
+          <groundspeak:text encoded="False">bei einer runde durch die vorderhön  gefunden
+dfdc</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="129386365">
+          <groundspeak:date>2010-10-02T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2724623">Camuvlash</groundspeak:finder>
+          <groundspeak:text encoded="False">TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="126328569">
+          <groundspeak:date>2010-09-11T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3665179">sema2505</groundspeak:finder>
+          <groundspeak:text encoded="False">zufällig mit dem auto direkt dort geparkt und vorher einen anderen cache aufgesucht
+
+danke fürs versteck
+
+</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="123125108">
+          <groundspeak:date>2010-08-20T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2583892">LI*MO</groundspeak:finder>
+          <groundspeak:text encoded="False">Schnell und gut gefunden.
+
+TFTC</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

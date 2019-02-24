@@ -1,0 +1,200 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>007258</id>
+  <cache-id>GCWPFV</cache-id>
+  <type>Unknown Cache</type>
+  <name>Man O' War by Windsockers, Unknown Cache (1/1)</name>
+  <size>Not chosen</size>
+  <difficulty>1</difficulty>
+  <terrain>1</terrain>
+  <last-found>2009-06-02</last-found>
+  <placed>2006-07-02</placed>
+  <gpx-date>2010-06-21</gpx-date>
+  <placedby>Windsockers</placedby>
+  <found>Geocache</found>
+  <lat>53.562</lat>
+  <lon>-6.184033</lon>
+  <last-logs>FFFFM</last-logs>
+  <owner>Windsockers</owner>
+  <description><br />
+<center>Ships Figure heads<br />
+<br />
+<center>
+<img src="http://www.northbeach.ie/gallery/albums/userpics/10001/240353N40162.jpg" />
+</center></center></description>
+  <long-description><p>One part of a wooden shipwreck least likely to be smashed was
+the figurehead. There are many accounts of wrecks in Skerries which
+mention that a figurehead was washed ashore. Many were placed in
+gardens as ornaments and rotted away. . ."</p>
+<p>"One of the most remarkable was the Man O War which used to
+reside on a plinth outside the pub in the district of that name.
+There was great mystery and confusion about the origin and
+representation of the figure. Some sources even alleged that the
+figure was stone."</p>
+<p>The pub itself is said to have been constructed around an old
+drinking tree, if that is so then maybe it’s the same tree that can
+be seen in the lounge of the pub to this day.</p>
+<p>Research has elucidated much of the history, but the classical
+scholarship of Cormac Lowth identified the figurehead as a
+representation of Hercules clad in the skin of the Nemean lion
+which he slew as his first labor. There was a ship named Hercules
+lost on the Irish coast on 22/3/1799 but the exact location is
+unclear . . .</p>
+<p>"The subjects of figureheads were varied. Deep sea vessels
+tended to have human figures. . . The more profitable the trade the
+more likely the ship was to have a figurehead. . . Warships tended
+to have huge elaborate figureheads to symbolize power and majesty.
+. . but by 1760 the carvings on the warships were more modest and
+in 1796 the Royal Navy ceased fitting figureheads to new
+ships."</p>
+<p><b>The Cache</b></p>
+<p>To find this cache you need to visit various locations to obtain
+information to lead you to the final location</p>
+<br />
+<p><b>Part One:</b><br />
+ At the above location note the numbers and call them A.B.C.D</p>
+<br />
+<p><b>Part Two:</b><br />
+ Go to N53 33.<b>(A+B)A(A+D)</b> W6 10.<b>(C-A-A)A(A+B)</b><br />
+There you will see some enlightened numbers call them
+E.F.G.H.I.J.K.L.M.N</p>
+<br />
+<p><b>Final location</b></p>
+<p>N53 <b>I(F-G).GIL</b> W 006 <b>(K-E)(J-M).N(G+E)H</b></p>
+<br />
+<p><font color="red">Please take care when parking at the final
+location there is a hidden ditch nearby that may cause severe
+damage to vehicles</font></p>
+<br />
+<center>
+<img src="http://www.northbeach.ie/gallery/albums/userpics/10001/windsock-anim-small.gif" />
+<br />
+<b>The Windsockers</b></center></long-description>
+  <additional-waypoints>FLWPFV - Final Location<br />N/S  __ ° __ . ___ W/E ___ ° __ . ___ <br /><br />P2WPFV - Part 2<br />N/S  __ ° __ . ___ W/E ___ ° __ . ___ <br /><br /></additional-waypoints>
+  <links>waypoints:cache-id:FLWPFV|waypoints:cache-id:P2WPFV</links>
+  <encoded-hints>post?</encoded-hints>
+  <url>http://www.geocaching.com/seek/cache_details.aspx?guid=7098b2aa-f1c2-47ac-8d29-f3c34ff24e21</url>
+  <url-name>Man O' War</url-name>
+  <logs><ul><li>2010-05-13T19:00:00Z : Found it by B&B04 <br />Manowar, Manowar livin' on the Road ... the cache also!
+Many thanks to show us this small village called like the Kings of Metal. [8D] 
+Many thanks also for the many caches from the Windsockers on the east coast.
+The cache was a quick found.</li><li>2010-03-21T17:11:24Z : Found it by orangetigerprawn <br />I got stung by the nettles too even though they were very small. I should have searched more with my eyes and avoided getting stung at all.
+
+Tftc.</li><li>2009-12-21T20:00:00Z : Found it by sierra-mike <br />We found it on a walk around Skerries, but the log inside the box was complete frozen and we couldn't log. I'll send a picture to the owner. TFTC!</li><li>2009-06-03T19:00:00Z : Found it by auchans <br />Auchans found it well Joe did, after getting stng by nettles, ripped to shreds by brambles and Electrocuted-----LOL</li><li>2009-06-02T19:00:00Z : Owner Maintenance by Windsockers <br />[green]New log added[/green]</li></ul></logs>
+  <original-xml>  <wpt  lat="53.562" lon="-6.184033">
+    <time>2006-07-02T07:00:00Z</time>
+    <name>GCWPFV</name>
+    <desc>Man O' War by Windsockers, Unknown Cache (1/1)</desc>
+    <url>http://www.geocaching.com/seek/cache_details.aspx?guid=7098b2aa-f1c2-47ac-8d29-f3c34ff24e21</url>
+    <urlname>Man O' War</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Unknown Cache</type>
+    <groundspeak:cache id="414870" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+      <groundspeak:name>Man O' War</groundspeak:name>
+      <groundspeak:placed_by>Windsockers</groundspeak:placed_by>
+      <groundspeak:owner id="271623">Windsockers</groundspeak:owner>
+      <groundspeak:type>Unknown Cache</groundspeak:type>
+      <groundspeak:container>Not chosen</groundspeak:container>
+      <groundspeak:difficulty>1</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>Ireland</groundspeak:country>
+      <groundspeak:state>Leinster</groundspeak:state>
+      <groundspeak:short_description html="True">&lt;br /&gt;
+&lt;center&gt;Ships Figure heads&lt;br /&gt;
+&lt;br /&gt;
+&lt;center&gt;
+&lt;img src="http://www.northbeach.ie/gallery/albums/userpics/10001/240353N40162.jpg" /&gt;
+&lt;/center&gt;&lt;/center&gt;</groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;p&gt;One part of a wooden shipwreck least likely to be smashed was
+the figurehead. There are many accounts of wrecks in Skerries which
+mention that a figurehead was washed ashore. Many were placed in
+gardens as ornaments and rotted away. . ."&lt;/p&gt;
+&lt;p&gt;"One of the most remarkable was the Man O War which used to
+reside on a plinth outside the pub in the district of that name.
+There was great mystery and confusion about the origin and
+representation of the figure. Some sources even alleged that the
+figure was stone."&lt;/p&gt;
+&lt;p&gt;The pub itself is said to have been constructed around an old
+drinking tree, if that is so then maybe it’s the same tree that can
+be seen in the lounge of the pub to this day.&lt;/p&gt;
+&lt;p&gt;Research has elucidated much of the history, but the classical
+scholarship of Cormac Lowth identified the figurehead as a
+representation of Hercules clad in the skin of the Nemean lion
+which he slew as his first labor. There was a ship named Hercules
+lost on the Irish coast on 22/3/1799 but the exact location is
+unclear . . .&lt;/p&gt;
+&lt;p&gt;"The subjects of figureheads were varied. Deep sea vessels
+tended to have human figures. . . The more profitable the trade the
+more likely the ship was to have a figurehead. . . Warships tended
+to have huge elaborate figureheads to symbolize power and majesty.
+. . but by 1760 the carvings on the warships were more modest and
+in 1796 the Royal Navy ceased fitting figureheads to new
+ships."&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;The Cache&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;To find this cache you need to visit various locations to obtain
+information to lead you to the final location&lt;/p&gt;
+&lt;br /&gt;
+&lt;p&gt;&lt;b&gt;Part One:&lt;/b&gt;&lt;br /&gt;
+ At the above location note the numbers and call them A.B.C.D&lt;/p&gt;
+&lt;br /&gt;
+&lt;p&gt;&lt;b&gt;Part Two:&lt;/b&gt;&lt;br /&gt;
+ Go to N53 33.&lt;b&gt;(A+B)A(A+D)&lt;/b&gt; W6 10.&lt;b&gt;(C-A-A)A(A+B)&lt;/b&gt;&lt;br /&gt;
+There you will see some enlightened numbers call them
+E.F.G.H.I.J.K.L.M.N&lt;/p&gt;
+&lt;br /&gt;
+&lt;p&gt;&lt;b&gt;Final location&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;N53 &lt;b&gt;I(F-G).GIL&lt;/b&gt; W 006 &lt;b&gt;(K-E)(J-M).N(G+E)H&lt;/b&gt;&lt;/p&gt;
+&lt;br /&gt;
+&lt;p&gt;&lt;font color="red"&gt;Please take care when parking at the final
+location there is a hidden ditch nearby that may cause severe
+damage to vehicles&lt;/font&gt;&lt;/p&gt;
+&lt;br /&gt;
+&lt;center&gt;
+&lt;img src="http://www.northbeach.ie/gallery/albums/userpics/10001/windsock-anim-small.gif" /&gt;
+&lt;br /&gt;
+&lt;b&gt;The Windsockers&lt;/b&gt;&lt;/center&gt;&lt;p&gt;Additional Waypoints&lt;/p&gt;FLWPFV - Final Location&lt;br /&gt;N/S  __ ° __ . ___ W/E ___ ° __ . ___ &lt;br /&gt;&lt;br /&gt;P2WPFV - Part 2&lt;br /&gt;N/S  __ ° __ . ___ W/E ___ ° __ . ___ &lt;br /&gt;&lt;br /&gt;</groundspeak:long_description>
+      <groundspeak:encoded_hints>post?</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="109181020">
+          <groundspeak:date>2010-05-13T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="727747">B&amp;B04</groundspeak:finder>
+          <groundspeak:text encoded="False">Manowar, Manowar livin' on the Road ... the cache also!
+Many thanks to show us this small village called like the Kings of Metal. [8D] 
+Many thanks also for the many caches from the Windsockers on the east coast.
+The cache was a quick found.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="100530346">
+          <groundspeak:date>2010-03-21T17:11:24Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="2167131">orangetigerprawn</groundspeak:finder>
+          <groundspeak:text encoded="False">I got stung by the nettles too even though they were very small. I should have searched more with my eyes and avoided getting stung at all.
+
+Tftc.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="93326080">
+          <groundspeak:date>2009-12-21T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1612336">sierra-mike</groundspeak:finder>
+          <groundspeak:text encoded="False">We found it on a walk around Skerries, but the log inside the box was complete frozen and we couldn't log. I'll send a picture to the owner. TFTC!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="73144848">
+          <groundspeak:date>2009-06-03T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="1541464">auchans</groundspeak:finder>
+          <groundspeak:text encoded="False">Auchans found it well Joe did, after getting stng by nettles, ripped to shreds by brambles and Electrocuted-----LOL</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="73072354">
+          <groundspeak:date>2009-06-02T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Owner Maintenance</groundspeak:type>
+          <groundspeak:finder id="271623">Windsockers</groundspeak:finder>
+          <groundspeak:text encoded="False">[green]New log added[/green]</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+  </original-xml>
+</element>
+</celsiusv2.1.addinfofile>

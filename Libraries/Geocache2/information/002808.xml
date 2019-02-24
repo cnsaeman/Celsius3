@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<celsiusv2.1.addinfofile>
+<element>
+  <id>002808</id>
+  <cache-id>A12A8PF</cache-id>
+  <type>Waypoint</type>
+  <name>Stage 1</name>
+  <placed>2010-06-14</placed>
+  <lat>53.387383</lat>
+  <lon>-6.13335</lon>
+  <attributes>hidden</attributes>
+  <description>Look for Rosetta’s gravestone.  
+
+Call her date of birth ABCD and her date of death EFGH.
+Calculate the stage 2 co-ordinates using this equation.
+
+
+N 53 ((B*C)+D).(A+E)((B+D+H)*(A+G))
+W 06 0D.F0E</description>
+  <url>http://www.geocaching.com/seek/wpt.aspx?WID=50f805e9-84fb-45ae-b55e-6004e71caf9f</url>
+  <url-name>Stage 1</url-name>
+</element>
+</celsiusv2.1.addinfofile>
