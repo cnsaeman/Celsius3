@@ -1,6 +1,0 @@
-#!/bin/bash
-# Truncate Spiegel-Files
-# into .war archives which can be read by Konqueror
-# xrandr -o normal
-java newpapers hep-th
-java newpapers math-ph
