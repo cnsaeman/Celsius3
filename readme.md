@@ -8,6 +8,8 @@ Celsius is written in JAVA and runs on any modern operating system. It is releas
 
 Celsius grew rather organically, and I picked up many new JAVA skills along the way. Unfortunately, this means that the code, and in particular the older parts of it, is not in the most professional state. Comments are scarce, but if you need help with implementing an interesting feature, just send me an email. I might find the time to clean up the relevant sections of the code.
 
+![Alt text](http://www.christiansaemann.de/celsius/screenshot1.png "Optional title")
+
 ## Feature requests and bug reports:
 
 If you find a bug that's annoying you, just send me an email with a detailed report, and I'll try my best to fix it. As far as feature requests are concerned, this depends very much on my available time. But just contact me, and I'll see what I can do.
