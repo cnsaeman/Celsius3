@@ -28,7 +28,7 @@ public class PluginUpdateCompleteRecent extends Thread {
             put("longRunTime"       ,"no");
             put("requiredFields"    ,"inspirekey|date");
             put("type"              ,"manual");
-            put("defaultParameters" ,"http://inspirehep.net/");
+            put("defaultParameters" ,"https://inspirehep.net/");
             put("parameter-help"    ,"Link to the Inspire mirror to be used.");
         }
     };
@@ -63,7 +63,7 @@ public class PluginUpdateCompleteRecent extends Thread {
 
     public void run() {
         String inspirebase=Information.get("$$params");
-        if (inspirebase==null) inspirebase="http://inspirehep.net/";
+        if (inspirebase==null) inspirebase="https://inspirehep.net/";
 
         String key = Information.get("inspirekey");
         String date = Information.get("date");

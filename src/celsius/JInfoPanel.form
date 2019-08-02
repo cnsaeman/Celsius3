@@ -67,12 +67,12 @@
   <Layout>
     <DimensionLayout dim="0">
       <Group type="103" groupAlignment="0" attributes="0">
-          <Component id="jTPDoc" alignment="0" pref="690" max="32767" attributes="0"/>
+          <Component id="jTPDoc" alignment="0" pref="779" max="32767" attributes="0"/>
       </Group>
     </DimensionLayout>
     <DimensionLayout dim="1">
       <Group type="103" groupAlignment="0" attributes="0">
-          <Component id="jTPDoc" alignment="0" pref="298" max="32767" attributes="0"/>
+          <Component id="jTPDoc" alignment="0" pref="318" max="32767" attributes="0"/>
       </Group>
     </DimensionLayout>
   </Layout>
@@ -568,7 +568,7 @@
                   <Group type="102" attributes="0">
                       <EmptySpace max="-2" attributes="0"/>
                       <Group type="103" groupAlignment="0" attributes="0">
-                          <Component id="jPanel10" alignment="0" pref="800" max="32767" attributes="0"/>
+                          <Component id="jPanel10" alignment="0" pref="750" max="32767" attributes="0"/>
                           <Group type="102" alignment="0" attributes="0">
                               <Component id="jBtnChooseSourceFolder" min="-2" max="-2" attributes="0"/>
                               <EmptySpace max="-2" attributes="0"/>
@@ -584,7 +584,7 @@
               <Group type="103" groupAlignment="0" attributes="0">
                   <Group type="102" alignment="0" attributes="0">
                       <EmptySpace max="-2" attributes="0"/>
-                      <Component id="jPanel10" pref="212" max="32767" attributes="0"/>
+                      <Component id="jPanel10" pref="236" max="32767" attributes="0"/>
                       <EmptySpace max="-2" attributes="0"/>
                       <Group type="103" groupAlignment="3" attributes="0">
                           <Component id="jBtnChooseSourceFolder" alignment="3" min="-2" max="-2" attributes="0"/>
@@ -724,9 +724,9 @@
                           </Group>
                           <Component id="jLabel4" alignment="0" min="-2" max="-2" attributes="0"/>
                       </Group>
-                      <EmptySpace pref="530" max="32767" attributes="0"/>
+                      <EmptySpace pref="480" max="32767" attributes="0"/>
                   </Group>
-                  <Component id="jScrollPane2" alignment="0" pref="814" max="32767" attributes="0"/>
+                  <Component id="jScrollPane2" alignment="0" pref="764" max="32767" attributes="0"/>
               </Group>
             </DimensionLayout>
             <DimensionLayout dim="1">
@@ -734,7 +734,7 @@
                   <Group type="102" alignment="1" attributes="0">
                       <Component id="jLabel4" min="-2" max="-2" attributes="0"/>
                       <EmptySpace max="-2" attributes="0"/>
-                      <Component id="jScrollPane2" pref="213" max="32767" attributes="0"/>
+                      <Component id="jScrollPane2" pref="231" max="32767" attributes="0"/>
                       <EmptySpace max="-2" attributes="0"/>
                       <Group type="103" groupAlignment="3" attributes="0">
                           <Component id="jBtnResizeThumb" alignment="3" min="-2" max="-2" attributes="0"/>
@@ -1014,6 +1014,11 @@
                         <Component class="javax.swing.JTextArea" name="jTARaw2">
                           <Properties>
                             <Property name="columns" type="int" value="20"/>
+                            <Property name="font" type="java.awt.Font" editor="org.netbeans.modules.form.editors2.FontEditor">
+                              <FontInfo relative="true">
+                                <Font component="jTARaw2" property="font" relativeSize="true" size="0"/>
+                              </FontInfo>
+                            </Property>
                             <Property name="rows" type="int" value="5"/>
                           </Properties>
                         </Component>
@@ -1036,7 +1041,7 @@
                           <Group type="103" groupAlignment="0" attributes="0">
                               <Group type="102" alignment="0" attributes="0">
                                   <Component id="jLabel2" min="-2" max="-2" attributes="0"/>
-                                  <EmptySpace pref="419" max="32767" attributes="0"/>
+                                  <EmptySpace pref="369" max="32767" attributes="0"/>
                               </Group>
                           </Group>
                         </DimensionLayout>
@@ -1109,7 +1114,7 @@
                   <Group type="103" groupAlignment="0" attributes="0">
                       <Group type="102" alignment="0" attributes="0">
                           <Component id="jBtnApplyPerson" min="-2" max="-2" attributes="0"/>
-                          <EmptySpace pref="744" max="32767" attributes="0"/>
+                          <EmptySpace pref="694" max="32767" attributes="0"/>
                       </Group>
                   </Group>
                 </DimensionLayout>

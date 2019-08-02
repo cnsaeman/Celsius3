@@ -18,6 +18,8 @@ import java.util.zip.GZIPInputStream;
  * @author cnsaeman
  */
 public final class Item {
+
+    public final String charFilter = "[\\u0000-\\u001F\\u007F]";
     
     public final Library Lib;
     private final ArrayList<String> tags;
@@ -398,7 +400,7 @@ public final class Item {
             for (String tag : CD.XMLTags) {
                 s2 = CD.get(tag);
                 if ((s2!=null) && !(s2.indexOf("\n")>-1))
-                    tmp += tag.replaceAll("\\P{InBasic_Latin}", "?") + ": " + s2.replaceAll("\\P{InBasic_Latin}", "?") + toolbox.linesep;
+                    tmp += tag.replaceAll(charFilter, "?") + ": " + s2.replaceAll(charFilter, "?") + toolbox.linesep;
             }
         }
         return(tmp);

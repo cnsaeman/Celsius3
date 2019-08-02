@@ -79,23 +79,23 @@ public class JobManager {
         if (MF.jTPTabList.getSelectedIndex() < 0) {
             return;
         }
-        Item doc = RSC.getCurrentItemTable().getSelectedItems().get(0);
-        if (doc.get("combine")!=null) {
+        Item item = RSC.getCurrentItemTable().getSelectedItems().get(0);
+        if (item.get("combine")!=null) {
             showCombined();
             return;
         }
-        if (doc.get("location")==null) {
-            String cmdln=RSC.getJournalLinkCmd(doc);
+        if (item.get("location")==null) {
+            String cmdln=RSC.getJournalLinkCmd(item);
             if (cmdln.length()>0) {
                 JournalLinkSelected();
                 return;
             } else {
-                if (doc.get("url")!=null) {
-                    RSC.Configuration.viewHTML(doc.get("url"));
+                if (item.get("url")!=null) {
+                    RSC.Configuration.viewHTML(item.get("url"));
                     return;
                 } else {
-                    if (doc.getS("links").length()>0) {
-                        if (doc.getS("links").indexOf("combines")>-1) {
+                    if (item.getS("links").length()>0) {
+                        if (item.getS("links").indexOf("combines")>-1) {
                             showLinksOfType("combines");
                             return;
                         }
@@ -108,7 +108,7 @@ public class JobManager {
                 }
             }
         }
-        RSC.Configuration.view(doc,nmb);
+        RSC.Configuration.view(item,nmb);
     }
 
     /**

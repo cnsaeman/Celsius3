@@ -209,11 +209,11 @@ public final class Configurator {
             TextFile.GZip(stmp);
     }
 
-    public void view(Item doc,String nmb) {
+    public void view(Item item,String nmb) {
         if (nmb==null) {
-            view(doc.get("filetype"),doc.getCompleteDirS("location"));
+            view(item.get("filetype"),item.getCompleteDirS("location"));
         } else {
-            view(doc.get("altversion-filetype-"+nmb),doc.getCompleteDirS("altversion-location-"+nmb));
+            view(item.get("altversion-filetype-"+nmb),item.getCompleteDirS("altversion-location-"+nmb));
         }
     }
 

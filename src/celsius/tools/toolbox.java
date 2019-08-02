@@ -76,15 +76,7 @@ public class toolbox {
      * Warning Dialog
      */
     public static void Warning(java.awt.Component p, String msg,String head) {
-        JOptionPane pane=new JOptionPane(msg, JOptionPane.WARNING_MESSAGE);
-        pane.setFont(new java.awt.Font("Arial", 0, 24));
-        JDialog dialog=pane.createDialog(p,head);
-        dialog.setIconImage(null);
-        dialog.setFont(new java.awt.Font("Arial", 0, 24));
-        dialog.setAlwaysOnTop(true);
-        dialog.toFront();
-        dialog.setVisible(true);
-        dialog.dispose();
+        JOptionPane.showMessageDialog(p, msg, head, JOptionPane.WARNING_MESSAGE);
     }
     
     /**
@@ -481,7 +473,24 @@ public class toolbox {
         String bibtexstr = Information.get("bibtex");
 	if (bibtexstr!=null) {
 	  celsius.BibTeXRecord btr = new celsius.BibTeXRecord(bibtexstr);
-	  if ((btr!=null) && (btr.parseError==0)) tmp+=" "+btr.getIdentifier();
+	  if ((btr!=null) && (btr.parseError==0)) {
+                tmp+=" "+btr.getIdentifier();
+                String eprint=btr.get("eprint");
+                if (eprint!=null) {
+                    int i=eprint.indexOf("/");
+                    if (i>0) {
+                        if (eprint.charAt(i+1)=='9') {
+                            tmp="19"+eprint.substring(i+1,i+3)+" "+tmp;
+                        } else {
+                            tmp="20"+eprint.substring(i+1,i+3)+" "+tmp;
+                        }
+                    } else {
+                        tmp="20"+eprint.substring(0,2)+" "+tmp;
+                    }
+                } else {
+                  if (btr.get("year")!=null) tmp=btr.get("year")+" "+tmp;
+                }
+          }
 	}
 	return(tmp.trim());
     }

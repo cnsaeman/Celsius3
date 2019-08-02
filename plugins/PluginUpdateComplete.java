@@ -28,7 +28,7 @@ public class PluginUpdateComplete extends Thread {
             put("longRunTime"       ,"no");
             put("requiredFields"    ,"inspirekey");
             put("type"              ,"manual");
-            put("defaultParameters" ,"http://inspirehep.net/");
+            put("defaultParameters" ,"https://inspirehep.net/");
             put("parameter-help"    ,"Link to the Inspire mirror to be used.");
         }
     };
@@ -63,7 +63,7 @@ public class PluginUpdateComplete extends Thread {
 
     public void run() {
         String inspirebase=Information.get("$$params");
-        if (inspirebase==null) inspirebase="http://inspirehep.net/";
+        if (inspirebase==null) inspirebase="https://inspirehep.net/";
 
         String key = Information.get("inspirekey");
         celsius.BibTeXRecord BTR2=new celsius.BibTeXRecord(Information.get("bibtex"));
@@ -83,6 +83,7 @@ public class PluginUpdateComplete extends Thread {
                     }
                 } else {
                     Msgs.add("..Error receiving BibTeX data from internet");
+                    Msgs.add(gotit);
                 }
                 if (bib.length() > 5) {
                     if (!comp(bib, Information.get("bibtex"))) {
@@ -91,7 +92,7 @@ public class PluginUpdateComplete extends Thread {
                             BTR.put("title", BTR2.get("title"));
                             BTR.put("author", BTR2.get("author"));
                         }
-			Msgs.add("Old:"+BTR2.toString());
+                        Msgs.add("Old:"+BTR2.toString());
                         // compare and adjust
                         if (BTR.keySet().size()>BTR2.keySet().size()) {
                             Msgs.add("..obtained bibtex: " + bib);
@@ -104,7 +105,7 @@ public class PluginUpdateComplete extends Thread {
                             } else {
                                 Information.put("type","Preprint");
                             }
-			    Information.put("identifier", toolbox.Identifier(Information));
+                            Information.put("identifier", toolbox.Identifier(Information));
                         } else {
                             Msgs.add("bibtex: nothing changed");
                         }
@@ -112,8 +113,8 @@ public class PluginUpdateComplete extends Thread {
                         Msgs.add("bibtex: nothing changed");
                     }
                 } else {
-		   Msgs.add("bibtex received: "+bib);
-		}
+                    Msgs.add("bibtex received: "+bib);
+                }
             }
         }
     }

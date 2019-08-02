@@ -10,6 +10,7 @@
 //
 // checked: 
 // 11/2009
+// testing a modification
 
 package celsius;
 
@@ -188,9 +189,8 @@ public class BibTeXRecord extends LinkedHashMap<String,String> {
         if (get("journal")!=null) {
             identifier=get("journal");
             if (get("volume")!=null) identifier+=" "+get("volume");
+            if (get("year")!=null) identifier+=" ("+get("year")+")";
             if (get("pages")!=null) identifier+=" "+get("pages");
-        } else if (get("note")!=null) {
-            identifier=get("note");
         }
         identifier=identifier.trim();
         return(identifier);
@@ -226,6 +226,11 @@ public class BibTeXRecord extends LinkedHashMap<String,String> {
             BibTeXRecord btr=new BibTeXRecord(bibtex);
             consistent=((btr.parseError>0) || (btr.parseError<250));
             if (btr.tag.indexOf(" ")>-1) consistent=false;
+            // check matching brackets
+            String lines[] = Parser.CutTillLast(Parser.CutFrom(bibtex,"{"),"}").split("\",");
+            for(String l:lines) {
+                if (Parser.HowOftenContains(l, "{")!=Parser.HowOftenContains(l, "}")) consistent=false;
+            }
         } catch (Exception e) {
             e.printStackTrace();
             consistent=false;

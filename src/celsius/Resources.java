@@ -34,7 +34,7 @@ import javax.swing.plaf.FontUIResource;
  */
 public class Resources {
 
-    public final String VersionNumber = "v3.2";
+    public final String VersionNumber = "v3.3";
     public final String celsiushome = "http://www.christiansaemann.de/celsius/";
     public final String stdHTMLstring;
     public String HomeDirectory;

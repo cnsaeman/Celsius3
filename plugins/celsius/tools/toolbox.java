@@ -13,20 +13,25 @@
 
 package celsius.tools;
 
-import celsius.*;
+import celsius.BibTeXRecord;
+import java.awt.Component;
+import java.awt.Container;
 import java.awt.Dimension;
 import java.awt.GraphicsEnvironment;
 import java.awt.Rectangle;
 import java.awt.Toolkit;
-import java.util.*;
 import java.io.*;
 import java.math.BigInteger;
 import java.security.MessageDigest;
 import java.text.DecimalFormat;
 import java.text.DecimalFormatSymbols;
-
-import javax.swing.*;
-import java.util.zip.*;
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Date;
+import java.util.zip.GZIPInputStream;
+import javax.swing.JDialog;
+import javax.swing.JFrame;
+import javax.swing.JOptionPane;
 
 public class toolbox {
     
@@ -47,18 +52,29 @@ public class toolbox {
     public static String getThreadIndex() {
         return(Integer.toString(threadindex++));
     }
+
+    public static String fillLeadingZeros(String n,int i) {
+        String out=n;
+        while (out.length()<i) out="0"+out;
+        return(out);
+    }
+
+    public static String formatSeconds(int sec) {
+        int h = sec / 3600;
+        int m = (sec - h * 3600) / 60;
+        int s = (sec - h * 3600 - m * 60);
+        String outdur = fillLeadingZeros(String.valueOf(m), 2) + ":" + fillLeadingZeros(String.valueOf(s), 2);
+        if (h > 0) {
+            outdur = String.valueOf(h) + ":" + outdur;
+        }
+        return (outdur);
+    }
     
     /**
      * Warning Dialog
      */
     public static void Warning(java.awt.Component p, String msg,String head) {
-        JOptionPane pane=new JOptionPane(msg, JOptionPane.WARNING_MESSAGE);
-        JDialog dialog=pane.createDialog(p,head);
-        dialog.setIconImage(null);
-        dialog.setAlwaysOnTop(true);
-        dialog.toFront();
-        dialog.setVisible(true);
-        dialog.dispose();
+        JOptionPane.showMessageDialog(p, msg, head, JOptionPane.WARNING_MESSAGE);
     }
     
     /**
@@ -131,9 +147,29 @@ public class toolbox {
      */
     public static String ActDatum() {
         Date ActD=new Date();
-        return(new String(ActD.toString()));
+        return(ActD.toString());
     }
     
+    public static String getFirstPage(String s) {
+        String firstpage;
+        if (!(new File(s)).exists()) {
+            return("No plain text file found.");
+        }
+        try {
+            GZIPInputStream fis = new GZIPInputStream(new FileInputStream(new File(s)));
+            InputStreamReader isr = new InputStreamReader(fis);
+            char[] fp = new char[4000];
+            isr.read(fp);
+            isr.close();
+            fis.close();
+            firstpage = new String(fp);
+        } catch (IOException e) {
+            e.printStackTrace();
+            firstpage="error::"+e.toString();
+        }
+        return(firstpage);
+    }
+        
     /**
      * Normalize the BibTeX-String passed as an argument
      */    
@@ -152,7 +188,7 @@ public class toolbox {
      * Condense a title string for Comparison
      */
     public static String Condense(String pre) {
-        StringBuffer out=new StringBuffer(pre.toLowerCase());
+        StringBuilder out=new StringBuilder(pre.toLowerCase());
         int i=0;
         while (i<out.length()) {
             if (!Character.isLetter(out.charAt(i))) out.deleteCharAt(i);
@@ -166,7 +202,7 @@ public class toolbox {
     }
 
     public static String wrap(String s, int len) {
-        StringBuffer t=new StringBuffer(s);
+        StringBuilder t=new StringBuilder(s);
         int i=-1;
         while (t.length()>i+len) {
             int k = t.lastIndexOf(" ", i + len);
@@ -188,6 +224,26 @@ public class toolbox {
     }
     
     /**
+     * Center the current JDialog frame on screen
+     */
+    public static void centerFrame(JDialog frame) {
+        GraphicsEnvironment environment = GraphicsEnvironment.getLocalGraphicsEnvironment();
+        Rectangle r=environment.getDefaultScreenDevice().getDefaultConfiguration().getBounds();
+        //Dimension screenSize = Toolkit.getDefaultToolkit().getScreenSize();
+        frame.setLocation(r.width/2 - (frame.getWidth()/2),r.height/2 - (frame.getHeight()/2));
+    }
+
+    /**
+     * Center the current JWindow frame on screen
+     */
+    public static void centerFrame(JFrame frame) {
+        GraphicsEnvironment environment = GraphicsEnvironment.getLocalGraphicsEnvironment();
+        Rectangle r=environment.getDefaultScreenDevice().getDefaultConfiguration().getBounds();
+        //Dimension screenSize = Toolkit.getDefaultToolkit().getScreenSize();
+        frame.setLocation(r.width/2 - (frame.getWidth()/2),r.height/2 - (frame.getHeight()/2));
+    }
+    
+    /**
      * Get all citation tags from a latex-file
      */
     public static ArrayList<String> getCitations(String filename) {
@@ -196,7 +252,7 @@ public class toolbox {
         try {
             TD = new TextFile(filename);
             String tmp1,tmp2,tmp3;
-            String tmp=new String("");
+            String tmp="";
             while (TD.ready()) {
                 tmp+=" "+TD.getString();
             }
@@ -205,6 +261,18 @@ public class toolbox {
             // Cut all \cite
             while (tmp.indexOf("\\cite{")>-1) {
                 tmp=Parser.CutFrom(tmp,"\\cite{");
+                tmp2=Parser.CutTill(tmp,"}").trim();
+                while (tmp2.indexOf(",")>0) {
+                    tmp1=Parser.CutTill(tmp2,",").trim();
+                    if (Refs.indexOf(tmp1)==-1) Refs.add(tmp1);
+                    tmp2=Parser.CutFrom(tmp2,",").trim();
+                }
+                if (Refs.indexOf(tmp2)==-1) Refs.add(tmp2.trim());
+            }
+            tmp=tmp3;
+            while (tmp.indexOf("\\cite[")>-1) {
+                tmp=Parser.CutFrom(tmp,"\\cite[");
+                tmp=Parser.CutFrom(tmp,"{");
                 tmp2=Parser.CutTill(tmp,"}").trim();
                 while (tmp2.indexOf(",")>0) {
                     tmp1=Parser.CutTill(tmp2,",").trim();
@@ -254,7 +322,7 @@ public class toolbox {
         if (authorsin.indexOf(",")==-1) return(authorsin.replaceAll("\\|",", "));
         String[] authors=authorsin.split("\\|");
         String author;
-        String out=new String("");
+        String out="";
         try {
             for(int j=0;j<authors.length;j++) {
                 author=authors[j];
@@ -286,7 +354,7 @@ public class toolbox {
     public static String Authors4FromCelAuthors(String authorsin) {
         String[] authors=authorsin.split("\\|");
         String author;
-        String out=new String("");
+        String out="";
         try {
             for(int j=0;j<authors.length;j++) {
                 author=authors[j];
@@ -302,7 +370,7 @@ public class toolbox {
     }
 
     public static String Identifier(celsius.MProperties Information) {
-	String tmp=new String("");
+	String tmp="";
 
 	String arxref=Information.get("arxiv-ref");
 	String arxname=Information.get("arxiv-name");
@@ -317,7 +385,24 @@ public class toolbox {
         String bibtexstr = Information.get("bibtex");
 	if (bibtexstr!=null) {
 	  celsius.BibTeXRecord btr = new celsius.BibTeXRecord(bibtexstr);
-	  if ((btr!=null) && (btr.parseError==0)) tmp+=" "+btr.getIdentifier();
+	  if ((btr!=null) && (btr.parseError==0)) {
+                tmp+=" "+btr.getIdentifier();
+                String eprint=btr.get("eprint");
+                if (eprint!=null) {
+                    int i=eprint.indexOf("/");
+                    if (i>0) {
+                        if (eprint.charAt(i+1)=='9') {
+                            tmp="19"+eprint.substring(i+1,i+3)+" "+tmp;
+                        } else {
+                            tmp="20"+eprint.substring(i+1,i+3)+" "+tmp;
+                        }
+                    } else {
+                        tmp="20"+eprint.substring(0,2)+" "+tmp;
+                    }
+                } else {
+                  if (btr.get("year")!=null) tmp=btr.get("year")+" "+tmp;
+                }
+          }
 	}
 	return(tmp.trim());
     }
@@ -331,7 +416,7 @@ public class toolbox {
     }
 
     public static String latitudeToString(double d) {
-        String tmp=new String("");
+        String tmp;
         if (d<0) {
             tmp="S";
             d=-d;
@@ -355,7 +440,7 @@ public class toolbox {
     }
 
     public static String longitudeToString(double d) {
-        String tmp=new String("");
+        String tmp;
         if (d<0) {
             tmp="W";
             d=-d;

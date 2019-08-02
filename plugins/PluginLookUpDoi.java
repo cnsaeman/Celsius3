@@ -88,11 +88,13 @@ public class PluginLookUpDoi extends Thread {
               in.close();
             }
             
+        } catch (Exception e) { rtn=new StringBuffer("##??"+e.toString()); }
+        dataPage=rtn.toString();
+        try {
             TextFile tf=new TextFile("Plugin.LookUpDoi.ReturnedData.txt.tmp",false);
             tf.putString(dataPage);
             tf.close();
-        } catch (Exception e) { rtn=new StringBuffer("##??"+e.toString()); }
-        dataPage=rtn.toString();
+        } catch (Exception e) { System.out.println(e.toString()); }
         String dataPaper = Parser.CutFrom(dataPage,"<http://dx.doi.org");
         String title=lineUnder(dataPaper,"<http://purl.org/dc/terms/title>");
         String year=Parser.CutTill(lineUnder(dataPaper,"<http://purl.org/dc/terms/date>"),"-");
@@ -106,7 +108,7 @@ public class PluginLookUpDoi extends Thread {
             authors+="|"+Parser.CutFromLast(author," ").trim()+", "+Parser.CutTillLast(author," ");
         }
         authors=authors.substring(1);
-        String journal=lineUnder(Parser.CutFrom(dataPage,"<http://id.crossref.org/issn"),"<http://purl.org/dc/terms/title>");
+        String journal=lineUnder(Parser.CutFrom(dataPage,"<http://purl.org/ontology/bibo/Journal>"),"<http://purl.org/dc/terms/title>");
         Information.put("title",title);
         Information.put("authors",authors);
               String tag=Parser.CutTill(authors, ",").trim() + ":" + year + ":" + page;
@@ -120,6 +122,7 @@ public class PluginLookUpDoi extends Thread {
               "   pages = \""+page+"\",\n"+
               "   doi = \""+doi+"\"\n"+
               "}");
+              bibtex=bibtex.replaceAll("\\s+volume\\s+\\= \\\"\\\",","");
               celsius.BibTeXRecord BTR = new celsius.BibTeXRecord(bibtex);
               Information.put("bibtex", BTR.toString());
               Information.put("type","Paper");

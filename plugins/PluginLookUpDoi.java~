@@ -1,0 +1,201 @@
+/*
+ * PluginArXiv.java
+ *
+ * Created on 14. Juli 2007, 12:20
+ *
+ * complete, testing
+ */
+
+import java.io.IOException;
+import java.util.ArrayList;
+import java.util.HashMap;
+import celsius.tools.Parser;
+import celsius.tools.TextFile;
+import celsius.tools.toolbox;
+import java.net.*;
+import java.io.*;
+
+
+/**
+ * @author cnsaeman
+ */
+public class PluginLookUpDoi extends Thread {
+
+    public static final HashMap<String,String> metaData=new HashMap<String,String>() {
+        {
+            put("title"             ,"Look up DOI");
+            put("author"            ,"Christian Saemann");
+            put("version"           ,"1.0");
+            put("help"              ,"This plugin looks up publication information from the DOI.");
+            put("needsFirstPage"    ,"no");
+            put("longRunTime"       ,"no");
+            put("requiredFields"    ,"title");
+            put("type"              ,"interactive");
+        }
+    };
+
+    private final String TI = "P:LaS>";
+    public celsius.MProperties Information;
+    public ArrayList<String> Msgs;
+    private String srchstring,tmp,abs;
+    private String title;
+
+    public void Initialize(celsius.MProperties i, ArrayList<String> m) {
+        Information = i;
+        Msgs = m;
+    }
+
+    public void run() {
+        String doi = Information.get("doi");
+        StringBuffer rtn=new StringBuffer(4000);
+        try {
+            URL url=new URL("http://dx.doi.org/"+doi);
+            URLConnection urlconn=url.openConnection();
+            urlconn.setReadTimeout(10000);
+            urlconn.setConnectTimeout(10000);
+	    urlconn.setRequestProperty("Accept","text/turtle");
+            InputStream in=urlconn.getInputStream();
+            
+            byte[] buffer=new byte[4096];
+            int bytes_read;
+            while ((bytes_read=in.read(buffer))!=-1) {
+                rtn.append(new String(buffer,0,bytes_read));
+            }
+            in.close();
+        } catch (Exception e) { rtn=new StringBuffer("##??"+e.toString()); }
+	String res = rtn.toString();
+	String res1=Parser.CutTill(res,"http://id.crossref.org");
+	String res2=Parser.CutFrom(res,"http://id.crossref.org");
+	String title=Parser.CutTill(Parser.CutFrom(res1,"<http://purl.org/dc/terms/title> \""),"\"");
+	String author=Parser.CutTill(Parser.CutFrom(res2,"<http://xmlns.com/foaf/0.1/name> \""),"\"");
+	String journal=Parser.CutTill(Parser.CutFrom(res2,"<http://purl.org/dc/terms/title> \""),"\"");
+	String year=Parser.CutTill(Parser.CutFrom(res1,"<http://purl.org/dc/terms/date> \""),"\"");
+	String volume=Parser.CutTill(Parser.CutFrom(res1,"<http://purl.org/ontology/bibo/volume> \""),"\"");
+	String page=Parser.CutTill(Parser.CutFrom(res1,"<http://purl.org/ontology/bibo/pageStart> \""),"\"");
+	Information.put("title",title);
+	Information.put("authors",author);
+	String bibtex=new String("@Article{"+Parser.CutFromLast(author," ")+":"+year+":"+page+",\n"+
+				 "   author = \""+author+"\",\n"+
+				 "   title = \""+title+"\",\n"+
+				 "   journal = \""+journal+"\",\n"+
+				 "   volume = \""+volume+"\",\n"+
+				 "   year = \""+year+"\",\n"+
+				 "   pages = \""+page+"\",\n"+
+				 "   doi = \""+doi+"\"\n"+
+				 "}");
+        Information.put("bibtex", bibtex);
+
+            //Keywords
+ /*           String keywords=webToolsHEP.keywordsFromInspire(tmp);
+            boolean changed=false;
+            String infokeywords=Information.getS("keywords");
+            while (keywords.length()>0) {
+                String keyword=Parser.CutFrom(keywords,"\">");
+                keyword=Parser.CutTill(keyword,"</a>");
+                if (!Parser.EnumContains(Information.getS("keywords"), keywords)) {
+                    infokeywords+="|"+keyword;
+                    if (infokeywords.charAt(0)=='|') infokeywords=infokeywords.substring(1);
+                    changed=true;
+                }
+                keywords=Parser.CutFrom(keywords,"</small>");
+            }
+            if (changed) Information.put("keywords",infokeywords);
+
+            //Abstract
+            if (Information.isEmpty("abstract")) {
+                abs = webToolsHEP.abstractFromInspire(tmp);
+                if (abs != null) Information.put("abstract", abs);
+            }
+
+            //BibTeX
+            if (Information.isEmpty("bibtex")) {
+                Information.put("bibtex",webToolsHEP.bibTeXFromInspire(inspirebase,lnk));
+            }
+
+            if (Information.getS("bibtex").length()>2) {
+                celsius.BibTeXRecord BTR=new celsius.BibTeXRecord(Information.getS("bibtex"));
+
+		// title and authors
+                String title = BTR.get("title");
+                if (title.startsWith("{")) {
+                    title = title.substring(1, title.length() - 1);
+                }
+                Information.put("title", title);
+                Information.put("authors", celsius.BibTeXRecord.authorsBibTeX2Cel(BTR.get("author")));
+
+                // Paper type
+                if (BTR.get("journal")!=null) {
+                    Information.put("type","Paper");
+                } else {
+                    Information.put("type","Preprint");
+                }
+
+                // Citation tag
+                if (Information.getS("citation-tag").equals("") || !Information.getS("citation-tag").equals(BTR.tag))
+                    Information.put("citation-tag",BTR.tag);
+
+                //doi, but not in BibTeX
+                String doi=null;
+                if ((BTR.getS("doi").equals("")) && (tmp.indexOf("http://dx.doi.org/")>-1)) {
+                    doi=Parser.CutFrom(tmp,"http://dx.doi.org/");
+                    doi=Parser.CutTill(doi,"\">");
+                    BTR.put("doi", doi);
+                    Information.put("bibtex",BTR.toString());
+                }
+            }
+            
+            //Identifier
+            if (!Information.getS("identifier").equals(toolbox.Identifier(Information)))
+                Information.put("identifier",toolbox.Identifier(Information));
+
+            //References
+            if (Information.isEmpty("links")) {
+                Information.put("links",webToolsHEP.linksFromInspire(inspirebase,lnk));
+            }
+            Information.remove("##search-selection");
+        } else {
+            String title = Information.get("title").replaceAll("[^a-zA-Z0-9 ]", "");
+            String authors = Information.getS("authors").replaceAll("\\|"," ");
+            if (authors.length()>0) title=authors+" "+title;
+            String srch= Parser.Substitute(title," ","+");
+            if (srch.equals("unknown")) {
+                toolbox.Warning(null,"Please enter at least one keyword from the title.", "Could not search at Inspire.net");
+                return;
+            }
+            String results = new String("");
+            String keys = new String("");
+            Msgs.add(TI + "Looking for: " + srch);
+            srchstring = inspirebase + "/search?ln=en&p=" + srch + "&f=&action_search=Search";
+            Msgs.add(TI + "Search string: " + srchstring);
+            String tmp = TextFile.ReadOutURL(srchstring);
+            if (tmp.startsWith("##??")) {
+                Msgs.add(TI + "Error contacting Inspire: " + tmp);
+                toolbox.Information(null,"Error contacting Inspire: " + tmp, "Sorry...");
+                return;
+            }
+            tmp = Parser.CutFrom(tmp, "<!C-START");
+            if (tmp.length() > 0) {
+                Msgs.add(TI + "Inspire answered:");
+                while(tmp.indexOf("<div class=\"record_body\">")>-1) {
+                    String record=Parser.CutTill(Parser.CutFrom(tmp,"/record/"),"\"");
+                    title=Parser.CutTill(Parser.CutFrom(Parser.CutFrom(tmp,"<a class = \"titlelink\" "),"\">"),".");
+                    String preauthors=Parser.CutTill(tmp,"<ul class=\"tight_list\">").trim();
+                    authors=new String("");
+                    while(preauthors.indexOf("authorlink")>-1) {
+                        authors+=", "+Parser.CutTill(Parser.CutFrom(Parser.CutFrom(preauthors,"authorlink"),">"),"</a");
+                        preauthors=Parser.CutFrom(preauthors, "authorlink");
+                    }
+                    authors=authors.substring(2);
+                    preauthors=Parser.CutFrom(preauthors,"\n");
+                    preauthors=Parser.CutTill(preauthors,"</p>");
+                    results += "|<html><b>" + title + "</b><br/>"+authors+"<br/>"+preauthors+"<hl></html>";
+                    keys += "|" + record;
+                    tmp=Parser.CutFrom(tmp,"</div>");
+                    tmp=Parser.CutFrom(tmp,"</div>");
+                }
+            }
+            Information.put("##search-results", results);
+            Information.put("##search-keys", keys);
+        }*/
+    }
+}

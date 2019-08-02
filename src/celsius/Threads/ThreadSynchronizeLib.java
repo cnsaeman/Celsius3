@@ -54,33 +54,33 @@ public class ThreadSynchronizeLib extends Thread {
         TI = "SLT>";
     }
 
-    private void Test(Item doc, String tag) throws IOException {
-        if (doc.get(tag) != null) {
-            if (!(new File(doc.getCompleteDirS(tag))).exists()) {
-                Msg1.repS(TI + "File " + doc.get(tag) + " belonging to item " + doc.toText() + "\nis missing.");
-                int i = toolbox.QuestionAB(MF, "Parts of the library entry for the item:\n" + doc.toText() + "\nare apparently corrupt "
-                        + "as the file\n" + doc.get(tag) + "\nis missing.\nShould the file reference be removed?", "Please decide:", "Yes", "No");
+    private void Test(Item item, String tag) throws IOException {
+        if (item.get(tag) != null) {
+            if (!(new File(item.getCompleteDirS(tag))).exists()) {
+                Msg1.repS(TI + "File " + item.get(tag) + " belonging to item " + item.toText() + "\nis missing.");
+                int i = toolbox.QuestionAB(MF, "Parts of the library entry for the item:\n" + item.toText() + "\nare apparently corrupt "
+                        + "as the file\n" + item.get(tag) + "\nis missing.\nShould the file reference be removed?", "Please decide:", "Yes", "No");
                 if (i == 0) {
-                    doc.putF(tag, null);
-                    doc.save();
+                    item.putF(tag, null);
+                    item.save();
                 }
             }
         }
     }
 
-    private void TestFileType(Item doc) throws IOException {
-        if (doc.get("location") == null) {
-            if (doc.get("filetype") != null) {
-                toolbox.Warning(MF, "No associated file but filetype set for " + doc.toText() + ".\n Please adjust manually.", "Found ill-defined file location");
+    private void TestFileType(Item item) throws IOException {
+        if (item.get("location") == null) {
+            if (item.get("filetype") != null) {
+                toolbox.Warning(MF, "No associated file but filetype set for " + item.toText() + ".\n Please adjust manually.", "Found ill-defined file location");
             }
             return;
         }
-        if (!doc.get("location").endsWith(doc.get("filetype"))) {
-            Msg1.repS(TI + "Filetype " + doc.get("filetype") + " not matching for " + doc.toText() + ".");
-            toolbox.Warning(MF, "Filetype " + doc.get("filetype") + " not matching for " + doc.toText() + ".\n Please adjust manually.", "Found different filetypes");
+        if (!item.get("location").endsWith(item.get("filetype"))) {
+            Msg1.repS(TI + "Filetype " + item.get("filetype") + " not matching for " + item.toText() + ".");
+            toolbox.Warning(MF, "Filetype " + item.get("filetype") + " not matching for " + item.toText() + ".\n Please adjust manually.", "Found different filetypes");
         }
-        if ((doc.get("filetype") == null) && (doc.get("location") != null)) {
-            toolbox.Warning(MF, "Filetype not available but associated file set for " + doc.toText() + ".\n Please adjust manually.", "Found ill-defined file location");
+        if ((item.get("filetype") == null) && (item.get("location") != null)) {
+            toolbox.Warning(MF, "Filetype not available but associated file set for " + item.toText() + ".\n Please adjust manually.", "Found ill-defined file location");
         }
     }
 

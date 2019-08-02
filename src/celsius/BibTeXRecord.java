@@ -189,9 +189,8 @@ public class BibTeXRecord extends LinkedHashMap<String,String> {
         if (get("journal")!=null) {
             identifier=get("journal");
             if (get("volume")!=null) identifier+=" "+get("volume");
+            if (get("year")!=null) identifier+=" ("+get("year")+")";
             if (get("pages")!=null) identifier+=" "+get("pages");
-        } else if (get("note")!=null) {
-            identifier=get("note");
         }
         identifier=identifier.trim();
         return(identifier);
