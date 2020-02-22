@@ -239,6 +239,7 @@ public class toolbox {
     }
 
     public static String getFirstPage(String s) {
+        if (s==null) return("");
         String firstpage;
         if (!(new File(s)).exists()) {
             return("No plain text file found.");

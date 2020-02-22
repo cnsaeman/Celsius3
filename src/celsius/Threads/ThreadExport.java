@@ -162,7 +162,7 @@ public class ThreadExport extends Thread {
                     }
                 }
             }
-            if ((plugin.needsFirstPage) && (plaintxt!=null)) {
+            if ((plugin.needsFirstPage() || plugin.wouldLikeFirstPage()) && (plaintxt!=null)) {
                 String firstpage = toolbox.getFirstPage(doc.completeDir(plaintxt));
                 Information.put("firstpage", firstpage);
             }

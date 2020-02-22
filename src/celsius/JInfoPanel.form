@@ -67,7 +67,7 @@
   <Layout>
     <DimensionLayout dim="0">
       <Group type="103" groupAlignment="0" attributes="0">
-          <Component id="jTPDoc" alignment="0" pref="779" max="32767" attributes="0"/>
+          <Component id="jTPDoc" alignment="0" pref="758" max="32767" attributes="0"/>
       </Group>
     </DimensionLayout>
     <DimensionLayout dim="1">
@@ -122,6 +122,7 @@
               </Properties>
               <Events>
                 <EventHandler event="hyperlinkUpdate" listener="javax.swing.event.HyperlinkListener" parameters="javax.swing.event.HyperlinkEvent" handler="jHTMLviewHyperlinkUpdate"/>
+                <EventHandler event="keyReleased" listener="java.awt.event.KeyListener" parameters="java.awt.event.KeyEvent" handler="jHTMLviewKeyReleased"/>
               </Events>
             </Component>
           </SubComponents>
@@ -568,7 +569,7 @@
                   <Group type="102" attributes="0">
                       <EmptySpace max="-2" attributes="0"/>
                       <Group type="103" groupAlignment="0" attributes="0">
-                          <Component id="jPanel10" alignment="0" pref="750" max="32767" attributes="0"/>
+                          <Component id="jPanel10" alignment="0" pref="729" max="32767" attributes="0"/>
                           <Group type="102" alignment="0" attributes="0">
                               <Component id="jBtnChooseSourceFolder" min="-2" max="-2" attributes="0"/>
                               <EmptySpace max="-2" attributes="0"/>
@@ -724,9 +725,9 @@
                           </Group>
                           <Component id="jLabel4" alignment="0" min="-2" max="-2" attributes="0"/>
                       </Group>
-                      <EmptySpace pref="480" max="32767" attributes="0"/>
+                      <EmptySpace pref="459" max="32767" attributes="0"/>
                   </Group>
-                  <Component id="jScrollPane2" alignment="0" pref="764" max="32767" attributes="0"/>
+                  <Component id="jScrollPane2" alignment="0" pref="743" max="32767" attributes="0"/>
               </Group>
             </DimensionLayout>
             <DimensionLayout dim="1">
@@ -932,9 +933,6 @@
                             </Property>
                             <Property name="rows" type="int" value="5"/>
                           </Properties>
-                          <Events>
-                            <EventHandler event="focusGained" listener="java.awt.event.FocusListener" parameters="java.awt.event.FocusEvent" handler="jTARaw1FocusGained"/>
-                          </Events>
                         </Component>
                       </SubComponents>
                     </Container>
@@ -976,7 +974,7 @@
                                 <Font bold="false" component="jLabel1" property="font" relativeSize="true" size="-1"/>
                               </FontInfo>
                             </Property>
-                            <Property name="text" type="java.lang.String" value="Main index:"/>
+                            <Property name="text" type="java.lang.String" value="Main index: (edit in right box!)"/>
                           </Properties>
                         </Component>
                       </SubComponents>
@@ -1041,7 +1039,7 @@
                           <Group type="103" groupAlignment="0" attributes="0">
                               <Group type="102" alignment="0" attributes="0">
                                   <Component id="jLabel2" min="-2" max="-2" attributes="0"/>
-                                  <EmptySpace pref="369" max="32767" attributes="0"/>
+                                  <EmptySpace pref="348" max="32767" attributes="0"/>
                               </Group>
                           </Group>
                         </DimensionLayout>
@@ -1114,7 +1112,7 @@
                   <Group type="103" groupAlignment="0" attributes="0">
                       <Group type="102" alignment="0" attributes="0">
                           <Component id="jBtnApplyPerson" min="-2" max="-2" attributes="0"/>
-                          <EmptySpace pref="694" max="32767" attributes="0"/>
+                          <EmptySpace pref="673" max="32767" attributes="0"/>
                       </Group>
                   </Group>
                 </DimensionLayout>

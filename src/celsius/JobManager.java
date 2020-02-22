@@ -177,7 +177,7 @@ public class JobManager {
 
         String plaintxt = doc.get("plaintxt");
 
-        if ((plugin.needsFirstPage) && (plaintxt!=null)) {
+        if ((plugin.needsFirstPage() || plugin.wouldLikeFirstPage()) && (plaintxt!=null)) {
             String firstpage = toolbox.getFirstPage(doc.completeDir(plaintxt));
             Information.put("firstpage", firstpage);
         }

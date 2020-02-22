@@ -198,7 +198,7 @@ public class PluginListOfPublicationsWeb extends Thread {
             out += BTR.get("journal");
             String tmp = BTR.getS("volume");
             if (!tmp.equals("")) {
-                if (Character.isLetter(tmp.charAt(0))) {
+                if (Character.isLetter(tmp.charAt(0)) && tmp.length()<6) {
                     out += " " + tmp.substring(0, 1);
                     tmp = tmp.substring(1);
                 }
@@ -212,7 +212,8 @@ public class PluginListOfPublicationsWeb extends Thread {
                 out+= "</a>";
         }
         if (BTR.get("note")!=null) {
-            out += "\n" + BTR.get("note");
+            String tmp=BTR.get("note");
+            out += "\n" + normalizeThings(BTR.get("note"));
             journal=true;
         }
         if (BTR.get("eprint")!=null) {
@@ -236,6 +237,22 @@ public class PluginListOfPublicationsWeb extends Thread {
         }
         out=Parser.Substitute(out, "{\\\"a}", "&auml;");
         return (out);
+    }
+    
+    public String normalizeThings(String s) {
+        s=Parser.Substitute(s, "~", "&nbsp;");
+        int i=s.indexOf("\\href{");
+        int j=s.indexOf("}",i);
+        int k=s.indexOf("{",j);
+        int l=s.indexOf("}",k);
+        while (i>0) {
+            s=s.substring(0,i)+"<a href=\""+s.substring(i+6,j)+"\">"+s.substring(k+1,l)+"</a>"+s.substring(l+1,s.length());
+            i=s.indexOf("\\href{");
+            j=s.indexOf("}",i);
+            k=s.indexOf("{",j);
+            l=s.indexOf("}",k);
+        }
+        return(s);
     }
 
     public String eprint(celsius.BibTeXRecord BTR) {

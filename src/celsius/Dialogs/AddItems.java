@@ -529,7 +529,7 @@ public class AddItems extends javax.swing.JDialog implements ActionListener {
         jPanel7.setLayout(new java.awt.BorderLayout());
 
         jTABibTeX.setColumns(20);
-        jTABibTeX.setFont(new java.awt.Font("DialogInput", 0, 12)); // NOI18N
+        jTABibTeX.setFont(new java.awt.Font("Monospaced", 0, RSC.guiScale(12)));
         jTABibTeX.setRows(5);
         jScrollPane7.setViewportView(jTABibTeX);
 
@@ -926,7 +926,7 @@ public class AddItems extends javax.swing.JDialog implements ActionListener {
                     .addComponent(jBtnAdd, javax.swing.GroupLayout.DEFAULT_SIZE, 153, Short.MAX_VALUE))
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                 .addGroup(jPanel4Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING)
-                    .addComponent(jScrollPane4, javax.swing.GroupLayout.DEFAULT_SIZE, 235, Short.MAX_VALUE)
+                    .addComponent(jScrollPane4, javax.swing.GroupLayout.PREFERRED_SIZE, 0, Short.MAX_VALUE)
                     .addComponent(jBtnApplyPlugin, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)))
             .addGroup(jPanel4Layout.createSequentialGroup()
                 .addGroup(jPanel4Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)

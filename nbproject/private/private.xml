@@ -3,6 +3,18 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/1"/>
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group/>
+        <group>
+            <file>file:/home/cnsaeman/Celsius3/Celsius3/src/celsius/MainFrame.java</file>
+            <file>file:/home/cnsaeman/Celsius3/Celsius3/src/celsius/tools/toolbox.java</file>
+            <file>file:/home/cnsaeman/Celsius3/Celsius3/src/celsius/Threads/ThreadSearch.java</file>
+            <file>file:/home/cnsaeman/Celsius3/Celsius3/src/celsius/tools/ExecutionShell.java</file>
+            <file>file:/home/cnsaeman/Celsius3/Celsius3/src/celsius/Threads/ThreadGetDetails.java</file>
+            <file>file:/home/cnsaeman/Celsius3/Celsius3/src/celsius/tools/Parser.java</file>
+            <file>file:/home/cnsaeman/Celsius3/Celsius3/src/celsius/Resources.java</file>
+            <file>file:/home/cnsaeman/Celsius3/Celsius3/src/celsius/Threads/ThreadApplyPlugin.java</file>
+            <file>file:/home/cnsaeman/Celsius3/Celsius3/src/celsius/AddTransferHandler.java</file>
+            <file>file:/home/cnsaeman/Celsius3/Celsius3/src/celsius/Item.java</file>
+            <file>file:/home/cnsaeman/Celsius3/Celsius3/src/celsius/Dialogs/AddItems.java</file>
+        </group>
     </open-files>
 </project-private>

@@ -25,14 +25,17 @@ import javax.swing.SwingUtilities;
  */
 public class ThreadLoadThumbnail extends Thread {
 
-    public final int spx = 140;
-    public final int spy = 160;
+    public int spx;
+    public int spy;
+
     public ThumbNail TN;
     private Resources RSC;
 
     public ThreadLoadThumbnail(ThumbNail tn, Resources rsc) {
         TN = tn;
         RSC=rsc;
+        spx=RSC.guiScale(140);
+        spy=RSC.guiScale(160);
         setPriority(Thread.MIN_PRIORITY);
     }
 

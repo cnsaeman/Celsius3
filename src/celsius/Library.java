@@ -350,9 +350,10 @@ public final class Library implements Iterable<Item> {
             initIndexTags();
 
             try {
-            Index=new IndexedXMLHandler(basedir+"libraryindex.xml",IndexTags);
+                Index=new IndexedXMLHandler(basedir+"libraryindex.xml",IndexTags);
             } catch (Exception e) {
-              Msg1.rep(Index.lastError);
+                e.printStackTrace();
+                Msg1.rep(Index.lastError);
             }
             if (Index.lastError.length()>0) {
                 toolbox.Warning(null, Index.lastError, "Error in library index");

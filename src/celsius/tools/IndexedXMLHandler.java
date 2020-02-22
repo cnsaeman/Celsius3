@@ -14,7 +14,12 @@
 package celsius.tools;
 
 import celsius.tools.Parser;
+import java.io.BufferedInputStream;
+import java.io.DataInputStream;
+import java.io.DataOutputStream;
 import java.io.File;
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Collections;
@@ -82,7 +87,7 @@ public class IndexedXMLHandler {
         XMLElements=new ArrayList<ArrayList<String>>();
         index=new ArrayList<Integer>();
         lastError="";
-        ReadHeader();
+        //ReadHeader();
         ReadElements();
         Comment="";
     }
@@ -143,11 +148,65 @@ public class IndexedXMLHandler {
             type="UndefinedType";
         f1.close();
     }
+  
+    // alternative method
+    private void addElt(ArrayList<String> elt) throws Exception {
+        int ind=XMLTags.indexOf("id");
+        Integer id=Integer.valueOf(elt.get(ind));
+        int insertion = Collections.binarySearch(index,id);
+        if (insertion>-1) {
+            lastError="Element with that index already existing:\n"+Integer.toString(id);
+            throw(new Exception ("Element with that index already existing: "+Integer.toString(id)));
+        }
+        index.add(-insertion-1,id);
+        XMLElements.add(-insertion-1, elt);
+    }
+
+
+    /**
+     * reads in all elements (alternative method)
+     */
+    private void ALTReadElements() throws IOException, Exception {
+        long start = System.currentTimeMillis();
+        System.out.println("Reading file... "+source+".bin");
+        FileInputStream fis = new FileInputStream(source+".bin");
+        BufferedInputStream bis= new BufferedInputStream(fis);
+        DataInputStream dis = new DataInputStream(bis);
+        String rl;
+        ArrayList<String> elt=new ArrayList<String>();
+        int id=-1233;
+        while(dis.available()>0) {
+            rl=dis.readUTF();
+            if (rl.equals("<element>")) {
+                if (elt.size()>0) addElt(elt);
+                elt=new ArrayList<String>();
+                for (int i=0;i<XMLTags.size();i++) elt.add(null);
+            } else {
+                String tag=rl;
+                String value=dis.readUTF();
+                int ind=XMLTags.indexOf(tag);
+                if (ind==-1) {
+                    XMLTags.add(tag);
+                    ind=XMLTags.size()-1;
+                    elt.add(null);
+                }
+                elt.set(ind,value);
+            }
+        }
+        dis.close();
+        fis.close();
+        long finish = System.currentTimeMillis();
+        System.out.println("Time: "+String.valueOf(finish-start));
+    }
+    
+    
     
     /**
      * reads in all elements
      */
     private void ReadElements() throws IOException, Exception {
+       // long start = System.currentTimeMillis();
+       // System.out.println("Reading file... "+source+".bin");
        Scanner scanner = new Scanner(new File(source));
        scanner.useDelimiter("<element>");
        if (scanner.hasNext()) scanner.next();
@@ -160,6 +219,8 @@ public class IndexedXMLHandler {
          }
        }
        scanner.close();
+        // long finish = System.currentTimeMillis();
+        // System.out.println("Time: "+String.valueOf(finish-start));
     }
     
     /**
@@ -404,6 +465,29 @@ public class IndexedXMLHandler {
             }
         }
     }
+    
+    /**
+     * Save the current XMLhandler content to file with name s
+     */
+    public void ALTwriteTo(String s) throws IOException {
+        System.out.println("Writing file... "+s+".bin");
+        FileOutputStream fos = new FileOutputStream(s+".bin");
+        DataOutputStream dos = new DataOutputStream(fos);
+        for (ArrayList<String> elt : XMLElements) {
+            dos.writeUTF("<element>");
+            for (int i=0;(i<XMLTags.size()) && (i<elt.size());i++) {
+                String s2=elt.get(i);
+                if (s2!=null) {
+                    dos.writeUTF(XMLTags.get(i));
+                    dos.writeUTF(s2);
+                }
+            }
+        }
+        dos.flush();
+        dos.close();
+        fos.close();
+    }
+
     
     /**
      * Save the current XMLhandler content to file with name s

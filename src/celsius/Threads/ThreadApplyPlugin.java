@@ -134,7 +134,7 @@ public class ThreadApplyPlugin extends Thread {
 
             String plaintxt = Information.get("plaintxt");
 
-            if (plugin.needsFirstPage && (plaintxt == null)) {
+            if (plugin.metaData.get("needsFirstPage").equals("yes") && (plaintxt == null)) {
                 errorMsg = "Plugin needs plaintext information, but the given document does not contain any such information.";
                 return;
             }
@@ -158,8 +158,7 @@ public class ThreadApplyPlugin extends Thread {
                 }
             }
 
-
-            if ((plugin.needsFirstPage) && (!Information.containsKey("firstpage"))) {
+            if ((plugin.needsFirstPage() || plugin.wouldLikeFirstPage()) && (!Information.containsKey("firstpage"))) {
                 String firstpage;
                 if (Lib != null) {
                     firstpage = toolbox.getFirstPage(item.completeDir(plaintxt));

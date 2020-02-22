@@ -23,8 +23,8 @@ import javax.swing.UIManager;
  */
 public class ThumbNail extends javax.swing.JPanel {
 
-    public final int spx=140;
-    public final int spy=160;
+    public int spx;
+    public int spy;
 
     public Item doc;
     public final ItemTable DT;
@@ -33,6 +33,8 @@ public class ThumbNail extends javax.swing.JPanel {
     public ThumbNail(Item d, ItemTable dt) {
         DT=dt;
         initComponents();
+        spx=dt.MF.RSC.guiScale(140);
+        spy=dt.MF.RSC.guiScale(160);
         setPreferredSize(new Dimension(spx-3,spy-3));
         setMaximumSize(new Dimension(spx-3,spy-3));
         jLIcon.setPreferredSize(new Dimension(spx-3,spy-20-3));
@@ -71,7 +73,7 @@ public class ThumbNail extends javax.swing.JPanel {
         setLayout(new java.awt.BorderLayout());
         add(jLIcon, java.awt.BorderLayout.CENTER);
 
-        jTFDesc.setFont(new java.awt.Font("Dialog", 0, 10)); // NOI18N
+        jTFDesc.setFont(jTFDesc.getFont().deriveFont(jTFDesc.getFont().getStyle() & ~java.awt.Font.BOLD, jTFDesc.getFont().getSize()-2));
         jTFDesc.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         add(jTFDesc, java.awt.BorderLayout.SOUTH);
     }// </editor-fold>//GEN-END:initComponents

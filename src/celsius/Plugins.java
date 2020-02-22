@@ -81,15 +81,6 @@ public class Plugins extends HashMap<String,Plugin> {
         }
         Msg1.repS("CPlugins>Done reading in plugins");
         
-        /*String out="";
-        ArrayList<String> pls=new ArrayList<String>();
-        for (String title : keySet())
-            pls.add(title);
-        Collections.sort(pls);
-        for( String t : pls) {
-            out+="\n\n\\subsub{"+t+".} "+this.get(t).metaData.get("help");
-        }
-        System.out.println(out);*/
     }
 
     public ArrayList<Plugin> listPlugins(String type, Library Lib) {
@@ -175,6 +166,7 @@ public class Plugins extends HashMap<String,Plugin> {
             tmp+="<br/>Types: "+theplug.metaData.get("type")+"\n";
             tmp+="<br/>Required fields: "+theplug.metaData.get("requiredFields")+"\n";
             tmp+="<br/>Needs plain text of first page: "+theplug.metaData.get("needsFirstPage")+"\n";
+            tmp+="<br/>Would like plain text of first page: "+theplug.metaData.get("wouldLikeFirstPage")+"\n";
             if (theplug.metaData.containsKey("longRunTime"))
                 tmp+="<br/>Longer runtime: "+theplug.metaData.get("longRunTime");
         } else {

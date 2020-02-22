@@ -22,6 +22,7 @@ import java.awt.RenderingHints;
 import java.awt.Toolkit;
 import java.awt.datatransfer.Clipboard;
 import java.awt.datatransfer.DataFlavor;
+import java.awt.datatransfer.StringSelection;
 import java.awt.datatransfer.Transferable;
 import java.awt.datatransfer.UnsupportedFlavorException;
 import java.awt.dnd.*;
@@ -68,7 +69,6 @@ public final class JInfoPanel extends javax.swing.JPanel { //implements DropTarg
     private ItemTable IT;
     private Library Lib;
     private Item item;
-    private boolean warned;
 
     public int infoMode; //-1: startup, 0: document, 1:person, 2:category
 
@@ -85,7 +85,6 @@ public final class JInfoPanel extends javax.swing.JPanel { //implements DropTarg
         jTPDoc.setTabComponentAt(0,new TabLabel("Info","information",rsc,null,false));
         MF=mf;
         JM=jm;
-        warned=false;
         jSPraw.setDividerLocation(0.8);
         // Init Linktree
         DefaultTreeCellRenderer renderer3 = new DefaultTreeCellRenderer();
@@ -359,6 +358,11 @@ public final class JInfoPanel extends javax.swing.JPanel { //implements DropTarg
         jHTMLview.addHyperlinkListener(new javax.swing.event.HyperlinkListener() {
             public void hyperlinkUpdate(javax.swing.event.HyperlinkEvent evt) {
                 jHTMLviewHyperlinkUpdate(evt);
+            }
+        });
+        jHTMLview.addKeyListener(new java.awt.event.KeyAdapter() {
+            public void keyReleased(java.awt.event.KeyEvent evt) {
+                jHTMLviewKeyReleased(evt);
             }
         });
         jSP3.setViewportView(jHTMLview);
@@ -660,7 +664,7 @@ public final class JInfoPanel extends javax.swing.JPanel { //implements DropTarg
             .addGroup(jPFilesLayout.createSequentialGroup()
                 .addContainerGap()
                 .addGroup(jPFilesLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                    .addComponent(jPanel10, javax.swing.GroupLayout.DEFAULT_SIZE, 750, Short.MAX_VALUE)
+                    .addComponent(jPanel10, javax.swing.GroupLayout.DEFAULT_SIZE, 729, Short.MAX_VALUE)
                     .addGroup(jPFilesLayout.createSequentialGroup()
                         .addComponent(jBtnChooseSourceFolder)
                         .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
@@ -734,8 +738,8 @@ public final class JInfoPanel extends javax.swing.JPanel { //implements DropTarg
                         .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                         .addComponent(jBtnRemoveThumb))
                     .addComponent(jLabel4))
-                .addContainerGap(480, Short.MAX_VALUE))
-            .addComponent(jScrollPane2, javax.swing.GroupLayout.DEFAULT_SIZE, 764, Short.MAX_VALUE)
+                .addContainerGap(459, Short.MAX_VALUE))
+            .addComponent(jScrollPane2, javax.swing.GroupLayout.DEFAULT_SIZE, 743, Short.MAX_VALUE)
         );
         jPThumbLayout.setVerticalGroup(
             jPThumbLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -796,11 +800,6 @@ public final class JInfoPanel extends javax.swing.JPanel { //implements DropTarg
         jTARaw1.setColumns(20);
         jTARaw1.setFont(jTARaw1.getFont());
         jTARaw1.setRows(5);
-        jTARaw1.addFocusListener(new java.awt.event.FocusAdapter() {
-            public void focusGained(java.awt.event.FocusEvent evt) {
-                jTARaw1FocusGained(evt);
-            }
-        });
         jScrollPane1.setViewportView(jTARaw1);
 
         jPanel1.add(jScrollPane1, java.awt.BorderLayout.CENTER);
@@ -808,7 +807,7 @@ public final class JInfoPanel extends javax.swing.JPanel { //implements DropTarg
         jPanel2.setPreferredSize(new java.awt.Dimension(RSC.guiScale(223), RSC.guiScale(17)));
 
         jLabel1.setFont(jLabel1.getFont().deriveFont(jLabel1.getFont().getStyle() & ~java.awt.Font.BOLD, jLabel1.getFont().getSize()-1));
-        jLabel1.setText("Main index:");
+        jLabel1.setText("Main index: (edit in right box!)");
 
         javax.swing.GroupLayout jPanel2Layout = new javax.swing.GroupLayout(jPanel2);
         jPanel2.setLayout(jPanel2Layout);
@@ -850,7 +849,7 @@ public final class JInfoPanel extends javax.swing.JPanel { //implements DropTarg
             jPanel4Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(jPanel4Layout.createSequentialGroup()
                 .addComponent(jLabel2)
-                .addContainerGap(369, Short.MAX_VALUE))
+                .addContainerGap(348, Short.MAX_VALUE))
         );
         jPanel4Layout.setVerticalGroup(
             jPanel4Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -889,7 +888,7 @@ public final class JInfoPanel extends javax.swing.JPanel { //implements DropTarg
             PanelxLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(PanelxLayout.createSequentialGroup()
                 .addComponent(jBtnApplyPerson, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addContainerGap(694, Short.MAX_VALUE))
+                .addContainerGap(673, Short.MAX_VALUE))
         );
         PanelxLayout.setVerticalGroup(
             PanelxLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -913,7 +912,7 @@ public final class JInfoPanel extends javax.swing.JPanel { //implements DropTarg
         this.setLayout(layout);
         layout.setHorizontalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addComponent(jTPDoc, javax.swing.GroupLayout.DEFAULT_SIZE, 779, Short.MAX_VALUE)
+            .addComponent(jTPDoc, javax.swing.GroupLayout.DEFAULT_SIZE, 758, Short.MAX_VALUE)
         );
         layout.setVerticalGroup(
             layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -1289,13 +1288,6 @@ public final class JInfoPanel extends javax.swing.JPanel { //implements DropTarg
         jEPInspect.setCaretPosition(0);
     }//GEN-LAST:event_jBtnInspect1ActionPerformed
 
-    private void jTARaw1FocusGained(java.awt.event.FocusEvent evt) {//GEN-FIRST:event_jTARaw1FocusGained
-        if (!warned) {
-            warned=true;
-            toolbox.Warning(MF,"Properties appearing in both boxes should be edited in the right one!", "Warning:");
-        }
-    }//GEN-LAST:event_jTARaw1FocusGained
-
     private void jPMHTMLPopupMenuWillBecomeVisible(javax.swing.event.PopupMenuEvent evt) {//GEN-FIRST:event_jPMHTMLPopupMenuWillBecomeVisible
         Clipboard cb=Toolkit.getDefaultToolkit().getSystemClipboard();
         if ((infoMode==0) && cb.isDataFlavorAvailable(DataFlavor.imageFlavor)) {
@@ -1454,6 +1446,14 @@ public final class JInfoPanel extends javax.swing.JPanel { //implements DropTarg
             (new ThreadShowCited(RSC.getCurrentSelectedLib(), progressMonitor, fn,IT)).start();
         }
     }//GEN-LAST:event_jBtnShowCitedActionPerformed
+
+    private void jHTMLviewKeyReleased(java.awt.event.KeyEvent evt) {//GEN-FIRST:event_jHTMLviewKeyReleased
+        if (evt.isControlDown() && evt.getExtendedKeyCode()==67) {
+            Clipboard Clp = RSC.getMF().getToolkit().getSystemClipboard();
+            StringSelection cont = new StringSelection(jHTMLview.getSelectedText());
+            Clp.setContents(cont, RSC.getMF());
+        }
+    }//GEN-LAST:event_jHTMLviewKeyReleased
 
 
     // Variables declaration - do not modify//GEN-BEGIN:variables

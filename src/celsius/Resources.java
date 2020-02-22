@@ -34,7 +34,7 @@ import javax.swing.plaf.FontUIResource;
  */
 public class Resources {
 
-    public final String VersionNumber = "v3.3";
+    public final String VersionNumber = "v3.5.1";
     public final String celsiushome = "http://www.christiansaemann.de/celsius/";
     public final String stdHTMLstring;
     public String HomeDirectory;
@@ -143,7 +143,7 @@ public class Resources {
             Msg1.repS("RES>============================================");
             Msg1.repS("RES>Started at: " + toolbox.ActDatum());
             Msg1.repS();
-        //Msg1.detail=100;
+            //Msg1.detail=100;
         } catch (final IOException e) {
             Msg1.printStackTrace(e);
             toolbox.Warning(MF,"Logging system initialization failed!", "Warning!");
@@ -468,6 +468,7 @@ public class Resources {
                 }
             });
             jmi.setFont(MF.jMCopyToDiff.getFont());
+            MF.jTFMainSearch.setFont(new java.awt.Font("Arial", 0, guiScale(20)));
             MF.jMRecent.add(jmi);
     }
 
@@ -529,6 +530,7 @@ public class Resources {
         UIManager.getLookAndFeelDefaults().put("EditorPane.font", fnt11);
         UIManager.getLookAndFeelDefaults().put("Tree.font", fnt11);
         UIManager.getLookAndFeelDefaults().put("TitledBorder.font", fnt11);
+        UIManager.getLookAndFeelDefaults().put("ToolTip.font", fnt11);
         UIManager.getLookAndFeelDefaults().put("Table.font", fnt12);
         UIManager.getLookAndFeelDefaults().put("TableHeader.font", fnt12);
         UIManager.getLookAndFeelDefaults().put("TextField.font", fnt12);

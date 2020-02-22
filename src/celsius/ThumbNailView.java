@@ -24,8 +24,8 @@ import javax.swing.event.TableModelListener;
  */
 public class ThumbNailView extends javax.swing.JPanel implements TableModelListener, KeyListener {
 
-    public final int spx=140;
-    public final int spy=160;
+    public int spx;
+    public int spy;
 
     ItemTable DT;
 
@@ -39,6 +39,8 @@ public class ThumbNailView extends javax.swing.JPanel implements TableModelListe
     /** Creates new form ThumbNailView */
     public ThumbNailView(ItemTable dt) {
         initComponents();
+        spx=dt.MF.RSC.guiScale(140);
+        spy=dt.MF.RSC.guiScale(160);
         Thumbs=new ArrayList<ThumbNail>();
         DT=dt;
         addKeyListener(this);

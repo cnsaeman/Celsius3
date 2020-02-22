@@ -470,8 +470,8 @@
                     <Component class="javax.swing.JTextArea" name="jTABibTeX">
                       <Properties>
                         <Property name="columns" type="int" value="20"/>
-                        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
-                          <Font name="DialogInput" size="12" style="0"/>
+                        <Property name="font" type="java.awt.Font" editor="org.netbeans.modules.form.RADConnectionPropertyEditor">
+                          <Connection code="new java.awt.Font(&quot;Monospaced&quot;, 0, RSC.guiScale(12))" type="code"/>
                         </Property>
                         <Property name="rows" type="int" value="5"/>
                       </Properties>
@@ -513,7 +513,7 @@
                               <Component id="jBtnCreateEmpty" alignment="3" min="-2" max="-2" attributes="0"/>
                               <Component id="jBtnNormalize1" alignment="3" min="-2" max="-2" attributes="0"/>
                               <Component id="jCBAddProperty" alignment="3" max="-2" attributes="0"/>
-                              <Component id="jBtnAdd1" alignment="3" min="-2" pref="-55" max="-2" attributes="0"/>
+                              <Component id="jBtnAdd1" alignment="3" min="-2" max="-2" attributes="0"/>
                           </Group>
                       </Group>
                     </DimensionLayout>
@@ -1006,7 +1006,7 @@
                           </Group>
                           <EmptySpace max="-2" attributes="0"/>
                           <Group type="103" groupAlignment="1" attributes="0">
-                              <Component id="jScrollPane4" pref="235" max="32767" attributes="2"/>
+                              <Component id="jScrollPane4" pref="0" max="32767" attributes="2"/>
                               <Component id="jBtnApplyPlugin" min="-2" max="-2" attributes="0"/>
                           </Group>
                       </Group>

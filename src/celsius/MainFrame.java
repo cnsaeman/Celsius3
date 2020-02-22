@@ -99,6 +99,7 @@ public class MainFrame extends javax.swing.JFrame implements DropTargetListener,
     }
 
     public void gui2() {
+        this.setLocationByPlatform(true);
         jTFMainSearch.getDocument().addDocumentListener(this);
         jTFSearchAuthors.getDocument().addDocumentListener(this);
         jTFSearchCategories.getDocument().addDocumentListener(this);
@@ -107,9 +108,10 @@ public class MainFrame extends javax.swing.JFrame implements DropTargetListener,
         Msg1.repS("Libraries loaded");
         jIP.switchModeTo1();
         jLPlugins.setModel(RSC.Plugins.getPluginsDLM("manual",RSC.getCurrentSelectedLib()));
+        jTBAdd.setTransferHandler(new AddTransferHandler(this));
         StartUp.setStatus("Ready...");
         Msg1.repS("packed");
-        this.setSize(1024,740);
+        //this.setSize(1224,740);
         pack();
         setVisible(true);
         jSPMain3.setMinimumSize(new Dimension(RSC.guiScale(280),RSC.guiScale(0)));
@@ -123,6 +125,7 @@ public class MainFrame extends javax.swing.JFrame implements DropTargetListener,
         Msg1.repS("all done, checking for updates");
         //(new ThreadCheckUpdates(RSC)).start();
         Msg1.repS("check for updates complete, all systems ready.");
+        this.setExtendedState(this.getExtendedState() | JFrame.MAXIMIZED_BOTH);
     }
 
     /**
@@ -592,7 +595,6 @@ public class MainFrame extends javax.swing.JFrame implements DropTargetListener,
         jCBLibraries = new javax.swing.JComboBox();
         jLabel1 = new javax.swing.JLabel();
         jPanel19 = new javax.swing.JPanel();
-        jLabel4 = new javax.swing.JLabel();
         jRBSearchDeep = new javax.swing.JRadioButton();
         jTFMainSearch = new celsius.jExtTextField();
         jRBSearchMeta = new javax.swing.JRadioButton();
@@ -600,8 +602,6 @@ public class MainFrame extends javax.swing.JFrame implements DropTargetListener,
         jPanel20 = new javax.swing.JPanel();
         jTBAdd = new javax.swing.JButton();
         jTBSearch = new javax.swing.JButton();
-        jTBCelsiusHome = new javax.swing.JButton();
-        jTBConfig = new javax.swing.JButton();
         jPanel6 = new javax.swing.JPanel();
         jPanel1 = new javax.swing.JPanel();
         jPanel10 = new javax.swing.JPanel();
@@ -1143,7 +1143,7 @@ public class MainFrame extends javax.swing.JFrame implements DropTargetListener,
         });
 
         jPanel5.setBorder(javax.swing.BorderFactory.createEmptyBorder(3, 10, 1, 10));
-        jPanel5.setLayout(new java.awt.BorderLayout());
+        jPanel5.setLayout(new java.awt.BorderLayout(100, 0));
 
         jPanel7.setPreferredSize(new java.awt.Dimension(RSC.guiScale(180), RSC.guiScale(49)));
 
@@ -1177,9 +1177,6 @@ public class MainFrame extends javax.swing.JFrame implements DropTargetListener,
 
         jPanel19.setBorder(javax.swing.BorderFactory.createEmptyBorder(0, 0, 0, 0));
         jPanel19.setLayout(new java.awt.GridBagLayout());
-
-        jLabel4.setIcon(RSC.getScaledIcon("magnifier"));
-        jPanel19.add(jLabel4, new java.awt.GridBagConstraints());
 
         bGSearch.add(jRBSearchDeep);
         jRBSearchDeep.setText("Deep search");
@@ -1224,7 +1221,7 @@ public class MainFrame extends javax.swing.JFrame implements DropTargetListener,
         gridBagConstraints.insets = new java.awt.Insets(2, 51, 8, 0);
         jPanel19.add(jRBSearchIndex, gridBagConstraints);
 
-        jPanel5.add(jPanel19, java.awt.BorderLayout.EAST);
+        jPanel5.add(jPanel19, java.awt.BorderLayout.CENTER);
 
         jPanel20.setLayout(new java.awt.FlowLayout(java.awt.FlowLayout.LEFT));
 
@@ -1248,27 +1245,7 @@ public class MainFrame extends javax.swing.JFrame implements DropTargetListener,
         });
         jPanel20.add(jTBSearch);
 
-        jTBCelsiusHome.setIcon(RSC.getScaledIcon("home"));
-        jTBCelsiusHome.setToolTipText("Go to CelsiusLibrary.com");
-        jTBCelsiusHome.setPreferredSize(new java.awt.Dimension(RSC.guiScale(42), RSC.guiScale(42)));
-        jTBCelsiusHome.addActionListener(new java.awt.event.ActionListener() {
-            public void actionPerformed(java.awt.event.ActionEvent evt) {
-                jMIUpdateActionPerformed(evt);
-            }
-        });
-        jPanel20.add(jTBCelsiusHome);
-
-        jTBConfig.setIcon(RSC.getScaledIcon("config"));
-        jTBConfig.setToolTipText("Configure");
-        jTBConfig.setPreferredSize(new java.awt.Dimension(RSC.guiScale(42), RSC.guiScale(42)));
-        jTBConfig.addActionListener(new java.awt.event.ActionListener() {
-            public void actionPerformed(java.awt.event.ActionEvent evt) {
-                jTBConfigActionPerformed(evt);
-            }
-        });
-        jPanel20.add(jTBConfig);
-
-        jPanel5.add(jPanel20, java.awt.BorderLayout.CENTER);
+        jPanel5.add(jPanel20, java.awt.BorderLayout.EAST);
 
         getContentPane().add(jPanel5, java.awt.BorderLayout.NORTH);
 
@@ -1306,9 +1283,9 @@ public class MainFrame extends javax.swing.JFrame implements DropTargetListener,
         );
         jPanel13Layout.setVerticalGroup(
             jPanel13Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 16, Short.MAX_VALUE)
+            .addGap(0, 6, Short.MAX_VALUE)
             .addGroup(jPanel13Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-                .addComponent(jPBSearch, javax.swing.GroupLayout.DEFAULT_SIZE, 16, Short.MAX_VALUE))
+                .addComponent(jPBSearch, javax.swing.GroupLayout.DEFAULT_SIZE, 6, Short.MAX_VALUE))
         );
 
         jPanel12.add(jPanel13);
@@ -1838,11 +1815,11 @@ public class MainFrame extends javax.swing.JFrame implements DropTargetListener,
         jPanel21.setLayout(jPanel21Layout);
         jPanel21Layout.setHorizontalGroup(
             jPanel21Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 0, Short.MAX_VALUE)
+            .addGap(0, 239, Short.MAX_VALUE)
         );
         jPanel21Layout.setVerticalGroup(
             jPanel21Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addGap(0, 0, Short.MAX_VALUE)
+            .addGap(0, 420, Short.MAX_VALUE)
         );
 
         gridBagConstraints = new java.awt.GridBagConstraints();
@@ -3601,10 +3578,6 @@ private void jMIDeepSearchActionPerformed(java.awt.event.ActionEvent evt) {//GEN
     showSearchDialog();
 }//GEN-LAST:event_jMIDeepSearchActionPerformed
 
-private void jTBConfigActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTBConfigActionPerformed
-        dialogConfiguration.setVisible(true);
-}//GEN-LAST:event_jTBConfigActionPerformed
-
 private void jTFSearchAuthorsKeyTyped(java.awt.event.KeyEvent evt) {//GEN-FIRST:event_jTFSearchAuthorsKeyTyped
     if (evt.isAltDown()) {
         return;
@@ -3873,7 +3846,6 @@ private void jMICollapseActionPerformed(java.awt.event.ActionEvent evt) {//GEN-F
     private javax.swing.JLabel jLabel1;
     private javax.swing.JLabel jLabel12;
     private javax.swing.JLabel jLabel3;
-    private javax.swing.JLabel jLabel4;
     private javax.swing.JLabel jLabel5;
     private javax.swing.JLabel jLabel6;
     private javax.swing.JLabel jLabel8;
@@ -4072,8 +4044,6 @@ private void jMICollapseActionPerformed(java.awt.event.ActionEvent evt) {//GEN-F
     private javax.swing.JSeparator jSeparator9;
     private javax.swing.JSplitPane jSplitPane1;
     private javax.swing.JButton jTBAdd;
-    private javax.swing.JButton jTBCelsiusHome;
-    private javax.swing.JButton jTBConfig;
     private javax.swing.JButton jTBSearch;
     private javax.swing.JTextField jTFExpFile;
     public celsius.jExtTextField jTFMainSearch;

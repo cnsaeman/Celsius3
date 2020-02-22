@@ -22,6 +22,8 @@ import java.util.HashMap;
 
 /**
  * @author cnsaeman
+ * 
+ * This is a container class for loading actual plugins and applying these
  */
 public class Plugin {
     
@@ -29,7 +31,6 @@ public class Plugin {
     private final Class c;
     
     public final HashMap<String,String> metaData;
-    public boolean needsFirstPage;
     
     private final Method Initialize;
     
@@ -40,7 +41,6 @@ public class Plugin {
         c = Class.forName(className,true,ucl);
 
         metaData=(HashMap<String,String>)c.getDeclaredField("metaData").get(c);
-        needsFirstPage=metaData.get("needsFirstPage").equals("yes");
         
         Initialize=(Method)c.getDeclaredMethod("Initialize",MProperties.class,ArrayList.class);
     }
@@ -53,6 +53,16 @@ public class Plugin {
         Object[] args=new Object[] { i, m };
         Initialize.invoke(thread,args);
         return(thread);
+    }
+    
+    public boolean needsFirstPage() {
+        if (!metaData.containsKey("needsFirstPage")) return (false);
+        return(metaData.get("needsFirstPage").equals("yes"));
+    }
+
+    public boolean wouldLikeFirstPage() {
+        if (!metaData.containsKey("wouldLikeFirstPage")) return (false);
+        return(metaData.get("wouldLikeFirstPage").equals("yes"));
     }
     
 }
