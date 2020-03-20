@@ -50,7 +50,7 @@ public class EditLibrary extends javax.swing.JDialog {
         jTMain.getColumnModel().getColumn(0).setPreferredWidth(150);
         jTMain.getColumnModel().getColumn(0).setMaxWidth(150);
 
-        toolbox.centerFrame(this);
+        toolbox.centerDialog(this,mf);
     }
 
     /** This method is called from within the constructor to

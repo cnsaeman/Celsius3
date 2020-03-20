@@ -55,7 +55,7 @@ public class EditMyLocation extends javax.swing.JDialog {
         jLCities.setSelectedIndex(-1);
         jTFLat.setText(toolbox.latitudeToString(RSC.mylat));
         jTFLong.setText(toolbox.longitudeToString(RSC.mylon));
-        toolbox.centerFrame(this);
+        toolbox.centerDialog(this,mf);
     }
 
     /** This method is called from within the constructor to

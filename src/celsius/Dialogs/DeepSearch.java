@@ -51,7 +51,7 @@ public class DeepSearch extends javax.swing.JDialog {
         checkBoxes=new HashMap<String,JCheckBox>();
         comboBoxes=new HashMap<String,JComboBox>();
         rangeEditors=new HashMap<String,RangeEditor>();
-        toolbox.centerFrame(this);
+        toolbox.centerDialog(this,mf);
     }
     public JPanel createPanel() {
         JPanel Pnl=new JPanel();

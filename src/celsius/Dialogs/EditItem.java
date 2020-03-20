@@ -54,7 +54,7 @@ public final class EditItem extends javax.swing.JDialog {
             RSC.SM.switchOff(this, "add_version_selected");
         }
         resetDocumentData();
-        toolbox.centerFrame(this);
+        toolbox.centerDialog(this,parent);
     }
 
     public void fillVList() {

@@ -41,7 +41,7 @@ public class EditExtItems extends javax.swing.JDialog {
         }
         jTAList.setText(list.substring(1));
         jTAList.setCaretPosition(0);
-        celsius.tools.toolbox.centerFrame(this);
+        celsius.tools.toolbox.centerDialog(this,RSC.getMF());
     }
 
     @SuppressWarnings("unchecked")

@@ -42,7 +42,7 @@ public class ChooseCategory extends javax.swing.JDialog {
         DefaultTreeModel CatTreeModel=new DefaultTreeModel(RSC.getCurrentSelectedLib().Structure.Root);
         jTreeCategories.setModel(CatTreeModel);
         selected=false;
-        toolbox.centerFrame(this);
+        toolbox.centerDialog(this,rsc.getMF());
     }
     
     /** This method is called from within the constructor to

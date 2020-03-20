@@ -15,11 +15,15 @@ package celsius.tools;
 
 import celsius.BibTeXRecord;
 import celsius.Item;
+import celsius.MainFrame;
 import celsius.ViewerText;
 import java.awt.Component;
 import java.awt.Container;
 import java.awt.Dimension;
+import java.awt.DisplayMode;
+import java.awt.GraphicsDevice;
 import java.awt.GraphicsEnvironment;
+import java.awt.MouseInfo;
 import java.awt.Rectangle;
 import java.awt.Toolkit;
 import java.io.*;
@@ -315,21 +319,19 @@ public class toolbox {
     /**
      * Center the current JDialog frame on screen
      */
-    public static void centerFrame(JDialog frame) {
-        GraphicsEnvironment environment = GraphicsEnvironment.getLocalGraphicsEnvironment();
-        Rectangle r=environment.getDefaultScreenDevice().getDefaultConfiguration().getBounds();
-        //Dimension screenSize = Toolkit.getDefaultToolkit().getScreenSize();
-        frame.setLocation(r.width/2 - (frame.getWidth()/2),r.height/2 - (frame.getHeight()/2));
+    public static void centerDialog(JDialog frame,MainFrame MF) {
+        Rectangle bounds = GraphicsEnvironment.getLocalGraphicsEnvironment().getDefaultScreenDevice().getDefaultConfiguration().getBounds();
+        DisplayMode dm = GraphicsEnvironment.getLocalGraphicsEnvironment().getDefaultScreenDevice().getDisplayMode();
+        frame.setLocation(bounds.x+dm.getWidth()/2 - (frame.getWidth()/2),bounds.y+dm.getHeight()/2 - (frame.getHeight()/2));
     }
 
     /**
      * Center the current JWindow frame on screen
      */
     public static void centerFrame(JFrame frame) {
-        GraphicsEnvironment environment = GraphicsEnvironment.getLocalGraphicsEnvironment();
-        Rectangle r=environment.getDefaultScreenDevice().getDefaultConfiguration().getBounds();
-        //Dimension screenSize = Toolkit.getDefaultToolkit().getScreenSize();
-        frame.setLocation(r.width/2 - (frame.getWidth()/2),r.height/2 - (frame.getHeight()/2));
+        Rectangle bounds = GraphicsEnvironment.getLocalGraphicsEnvironment().getDefaultScreenDevice().getDefaultConfiguration().getBounds();
+        DisplayMode dm = GraphicsEnvironment.getLocalGraphicsEnvironment().getDefaultScreenDevice().getDisplayMode();
+        frame.setLocation(bounds.x+dm.getWidth()/2 - (frame.getWidth()/2),bounds.y+dm.getHeight()/2 - (frame.getHeight()/2));
     }
     
     /**

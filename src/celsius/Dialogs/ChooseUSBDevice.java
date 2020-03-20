@@ -47,7 +47,7 @@ public class ChooseUSBDevice extends javax.swing.JDialog {
         if (Lib.usbdrives.keySet().size()>0)
             jLDevices.setSelectedIndex(0);
         jBtnSelect.grabFocus();
-        toolbox.centerFrame(this);
+        toolbox.centerDialog(this,mf);
     }
 
     /** This method is called from within the constructor to

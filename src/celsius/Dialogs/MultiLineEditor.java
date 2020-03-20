@@ -36,7 +36,7 @@ public class MultiLineEditor extends javax.swing.JDialog {
         text=txt;
         jText.setText(text);
         jText.setCaretPosition(0);
-        toolbox.centerFrame(this);
+        toolbox.centerDialog(this,rsc.getMF());
     }
 
     public void setLineWrapping(boolean b) {

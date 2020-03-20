@@ -42,7 +42,7 @@ public class SingleLineEditor extends javax.swing.JDialog {
         jText.setText(text);
         if (!content) jText.setForeground(rsc.getLightGray());
         jText.setCaretPosition(0);
-        toolbox.centerFrame(this);
+        toolbox.centerDialog(this,rsc.getMF());
     }
     
     /** This method is called from within the constructor to

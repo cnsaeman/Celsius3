@@ -46,7 +46,7 @@ public class EditLibraryTemplates extends javax.swing.JDialog {
         xml=RSC.LibraryTemplates.get("Default");
         jLTemplates.setModel(DLM);
         jLTemplates.setSelectedIndex(0);
-        toolbox.centerFrame(this);
+        toolbox.centerDialog(this,mf);
     }
 
     public void goToSelected() {

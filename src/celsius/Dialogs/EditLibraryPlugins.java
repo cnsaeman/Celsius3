@@ -52,7 +52,7 @@ public final class EditLibraryPlugins extends javax.swing.JDialog {
         }
         fillInModels();
         jLPlugins.setModel(plugins.getPluginsDLM());
-        toolbox.centerFrame(this);
+        toolbox.centerDialog(this,mf);
     }
 
     public void addCurrent(int pos) {

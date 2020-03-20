@@ -81,7 +81,7 @@ public class CreateNewLibrary extends javax.swing.JDialog {
                 change();
             }
         });
-        toolbox.centerFrame(this);
+        toolbox.centerDialog(this,parent);
     }
     
     /** This method is called from within the constructor to

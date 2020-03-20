@@ -39,7 +39,7 @@ public class ChooseSearchResult extends javax.swing.JDialog {
         }
         jLSearchResults.setModel(DLM);
         result=-1;
-        celsius.tools.toolbox.centerFrame(this);
+        celsius.tools.toolbox.centerDialog(this,parent);
     }
 
     /** This method is called from within the constructor to

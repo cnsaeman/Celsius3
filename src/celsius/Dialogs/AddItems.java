@@ -93,7 +93,7 @@ public class AddItems extends javax.swing.JDialog implements ActionListener {
         jCBImport.setModel(DCBM);
 
         toInitState();
-        toolbox.centerFrame(this);
+        toolbox.centerDialog(this,mf);
         initializing = false;
         ThreadStatus.setText("No item selected. No threads running.");
         timer=new Timer(500,this);

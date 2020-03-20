@@ -92,7 +92,7 @@ public final class CreateCombiner extends javax.swing.JDialog {
         column.setPreferredWidth(400);
         column.setWidth(400);
         pack();
-        toolbox.centerFrame(this);
+        toolbox.centerDialog(this,MF);
     }
 
     public boolean relevant(String t) {

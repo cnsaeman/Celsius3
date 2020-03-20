@@ -50,7 +50,7 @@ public class EditUSBDevices extends javax.swing.JDialog {
         jLDevices.setModel(DLM);
         MF.RSC.SM.register(this,"noneSelected", new JComponent[] { jETFName, jETFFolder, jBtnApply, jBtnRemove, jBtnSelectFolder });
         MF.RSC.SM.switchOff(this, "noneSelected");
-        toolbox.centerFrame(this);
+        toolbox.centerDialog(this,mf);
     }
 
     /** This method is called from within the constructor to

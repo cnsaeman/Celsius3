@@ -69,7 +69,7 @@ public class RegisterItems extends JDialog implements MouseListener,ActionListen
         
         // Center frame
         setSize(246,120);
-        toolbox.centerFrame(this);
+        toolbox.centerDialog(this,parent);
         
         // Initialize values and start timer
         running=true;

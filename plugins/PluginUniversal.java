@@ -128,7 +128,6 @@ public class PluginUniversal extends Thread {
                     // Filename is of the form "authorname, authorfirstname - title.filetype"
                     // System.out.println(FileName+"::"+String.valueOf(FileName.indexOf(" - "))+"::"+String.valueOf(FileName.indexOf(" - ")));
                     if ((FileName.indexOf(" - ")>FileName.indexOf(", "))) {
-                        System.out.println("Type 2::"+FileName);
                         String title = Parser.CutTillLast(Parser.CutFrom(FileName, " - "),".").trim();
                         String authors = Parser.CutTill(FileName, " - ").trim();
                         if ((title.length() > 3) && (authors.length() > 1)) {
@@ -158,21 +157,26 @@ public class PluginUniversal extends Thread {
     public void getFromFirstPage() {
         String FirstPage=getS("firstpage");
         // extract potential arXiv infomation from first page, do not overwrite.
-        if (!containsKey("arxiv-ref")) {
-            if (FirstPage.indexOf("arXiv:")>-1) {
-                ArrayList<String> T=arxivTools.GetArXivTags(FirstPage);
-                String arx=T.get(0);
-                String nmb=T.get(1);
-                Information.put("arxiv-name",arx);
-                Information.put("arxiv-number",nmb);
-                String tmp=nmb;
-                // Math arxives correction
-                if (arx.indexOf(".")>-1) arx=Parser.CutTill(arx,".");
-                if (nmb.indexOf(".")==-1) tmp=arx+"/"+nmb;
-                Information.put("arxiv-ref",tmp);
+        if (!containsKey("arxiv-ref") && (FirstPage.indexOf("arXiv:")>-1)) {
+            ArrayList<String> T=arxivTools.GetArXivTags(FirstPage);
+            String arx=T.get(0);
+            String nmb=T.get(1);
+            Information.put("arxiv-name",arx);
+            Information.put("arxiv-number",nmb);
+            String tmp=nmb;
+            // Math arxives correction
+            if (arx.indexOf(".")>-1) arx=Parser.CutTill(arx,".");
+            if (nmb.indexOf(".")==-1) tmp=arx+"/"+nmb;
+            Information.put("arxiv-ref",tmp);
+        } else if (FirstPage.indexOf("http://www.jstor.org/stable/")>-1) {
+            getFromJSTOR(FirstPage);
+        } else {
+            Pattern pattern=Pattern.compile("[Dd][Oo][Ii][: ]+(\\S+\\/\\S+)");
+            Matcher matcher=pattern.matcher(FirstPage);
+            if (matcher.find()) {
+                Information.put("doi",matcher.group(1));
             }
-        } else if (FirstPage.indexOf("http://www.jstor.org/stable/")>-1) getFromJSTOR(FirstPage);
-
+        }
     }
     
     // todo: extract primary arXiv, in particular for maths
@@ -435,13 +439,16 @@ public class PluginUniversal extends Thread {
                 String authors="";
                 String res3=Parser.CutFrom(dataPage,"\"author\":");
                 while (res3.indexOf("\"given\"")>-1) {
+                    int i=res3.indexOf("\"family\":\"");
+                    int j=res3.indexOf("\"given\":\"");
+                    if (i<j) i=j;
                     String author = Parser.CutTill(Parser.CutFrom(res3,"\"family\":\""),"\"")+", "+Parser.CutTill(Parser.CutFrom(res3,"\"given\":\""),"\"");
-                    res3=Parser.CutFrom(res3, "\"given\"");
+                    res3=res3.substring(i+1);
                     authors+="|"+author;
                 }
                 authors=authors.substring(1);
-                if (invalid("title")) putS("title",title);
-                if (invalid("authors")) putS("authors",authors);
+                if (invalid("title")) Information.put("title",title);
+                if (invalid("authors")) Information.put("authors",authors);
                 if (blank(BTR.get("journal"))) BTR.put("journal",journal);
                 if (blank(BTR.get("volume"))) BTR.put("volume",volume);
                 if (!year.equals(BTR.get("year"))) BTR.put("year",year);
@@ -674,10 +681,15 @@ public class PluginUniversal extends Thread {
     
     public boolean invalid(String s) {
         String tmp;
-        if (s.equals("authors") || s.equals("title")) {
+        if (s.equals("title")) {
             tmp=getS(s);
             return(blank(tmp) || tmp.equals("<unknown>"));
-        } if (s.equals("BTR.pages")) {
+        } 
+        if (s.equals("authors")) {
+            tmp=getS(s);
+            return(blank(tmp) || tmp.equals("<unknown>") || (!tmp.contains(",")));
+        }        
+        if (s.equals("BTR.pages")) {
             return(blank(BTR.get("pages")));
         } else {
             tmp=getS(s);

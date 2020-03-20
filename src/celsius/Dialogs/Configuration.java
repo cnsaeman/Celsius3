@@ -74,7 +74,7 @@ public class Configuration extends javax.swing.JDialog {
         jCBLaF.setModel(DCBM);
         if (RSC.LookAndFeel!=null)
             jCBLaF.setSelectedItem(RSC.LookAndFeel);
-        toolbox.centerFrame(this);
+        toolbox.centerDialog(this,parent);
     }
 
     private void addPlugin(DefaultListModel LM, String type) {
