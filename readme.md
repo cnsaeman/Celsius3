@@ -1,3 +1,9 @@
+## Note
+
+Celsius 3 will shortly be superseded by Celsius 4 based on sqlite.
+
+## Running Celsius
+
 To run Celsius, you just need the file Celsius.zip. Please unpack it in a folder. 
 
 To start celsius, type java -jar Celsius.jar in the installation directory.
